@@ -3,9 +3,9 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 from json import dump
 
-#Current data: All movies from top 250 movies list
+# Current data: All movies from top 250 movies list
 
-#data format: { movie_name: [
+# data format: { movie_name: [
 #               { id: id_here },
 #                { rating: rating_here},
 #                { reviewTitle: [ordered review titles here]},
@@ -16,7 +16,7 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
 }
 
-#Request top 250 movies page from imdB
+# Request top 250 movies page from imdB
 top_250_movies = get(
     "https://www.imdb.com/chart/top/?ref_=nv_mp_mv250", headers=headers
 )
@@ -24,7 +24,7 @@ print("The Status code of request is:", top_250_movies.status_code)
 
 data = {}
 
-#Using HTML parser from BeautifulSoup on our request
+# Using HTML parser from BeautifulSoup on our request
 checkBs = BeautifulSoup(top_250_movies.content, "html.parser")
 
 # Get all <td class= titleColumn> elements in a list
@@ -45,7 +45,7 @@ for t, id, r in zip(data, watchlistColumn, ratings):
     data[t].append({"reviewTitle": []})
     data[t].append({"reviewContent": []})
 
-#Visit each individual movie's page
+# Visit each individual movie's page
 for title in tqdm(data):
     movie = get("https://www.imdb.com/title/" + data[title][0]["id"] + "/reviews")
     bs = BeautifulSoup(movie.content, "html.parser")
@@ -59,7 +59,7 @@ for title in tqdm(data):
         data[title][2]["reviewTitle"].append(rTitle)
         data[title][3]["reviewContent"].append(rContent)
 
-#Add our data into imdbData.json file
+# Add our data into imdbData.json file
 with open("imdbData.json", "w") as iData:
     dump(data, iData)
 
@@ -70,6 +70,6 @@ rContent = data[title][3]["reviewContent"]
 for i in range(len(rTitles)):
     reviewData.append({rTitles[i]: rContent[i]})
 
-#Add a list of dicts with review titles:content format to imdbReviews.json file
+# Add a list of dicts with review titles:content format to imdbReviews.json file
 with open("imdbReviews.json", "w") as outfile:
     dump(reviewData, outfile)
