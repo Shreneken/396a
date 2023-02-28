@@ -13,7 +13,7 @@ HEADERS = {
 
 def writeMovieIntoJsonFile(content, movie_title, release_date, director):
     with open(f"./imdb_movie_jsons/{movie_title}-{release_date}-{director}.json","w") as eachMovie:
-        json.dump(content,eachMovie,indent=4, sort_keys=True)
+        json.dump(content,eachMovie)
 
 def check_status_code(sc1,sc2,sc3):
     return all([check(sc1),check(sc2),check(sc3)])

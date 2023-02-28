@@ -18,7 +18,7 @@ except:
     print("We need to get data again!")
     data = getData()
     with open("./imdbData.json", "w") as all_data:
-        json.dump(data, all_data, indent=4, sort_keys=True)
+        json.dump(data, all_data)
 
 # Visit each individual movie's page
 for title in tqdm(data):

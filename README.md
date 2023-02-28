@@ -1,4 +1,4 @@
-# 396a
+# Movie Data Getter
 
 Scraping movie websites for data!
 
