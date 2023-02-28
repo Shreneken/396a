@@ -3,6 +3,10 @@
 
 ## Current data: All movies from top 250 movies list
 
+## TO-DO: 
+- Extract more reviews per movie
+- Add genre and summary fields 
+
 #### data format for each `movieName_releaseData_Director.json`:
                {
                 { rating: rating_here},
