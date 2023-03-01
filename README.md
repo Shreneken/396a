@@ -3,14 +3,16 @@
 Scraping movie websites for data!
 
 ### data format for each `movieName_releaseData_Director.json`:
-               {
-                  rating: rating_here,
-                  release_data: release_date_here,
-                  num_reviews: number_of_reviews_here,
-                  genre : [genre_here],
-                  summary: summary_here,
-                  review: [reviewContent]
-               }
+ ```js
+   {
+      rating: rating_here,
+      release_data: release_date_here,
+      num_reviews: number_of_reviews_here,
+      genre : [genre_here],
+      summary: summary_here,
+      review: [reviewContent]
+   }
+ ```
 
 ### Directory Structure:
     source -> 
