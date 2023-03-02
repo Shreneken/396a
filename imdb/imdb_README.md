@@ -4,18 +4,23 @@
 ## Current data: All movies from top 250 movies list
 
 ## TO-DO: 
-- Extract more reviews per movie
-- Add genre and summary fields 
+- normalize and get full dates
+- list of movies
+- change format to lists
+- make data format for review
 
 #### data format for each `movieName_releaseData_Director.json`:
                {
                 { rating: rating_here},
-                { release_data: release_date_here},
+                { release_date: release_date_here},
                 { num_reviews: number_of_reviews_here},
                 { genre : genre_here},
-                { summary: summary_here),
+                { summary: summary_here },
                 { reviewTitle: reviewContent} for each review title and content
                }
+
+-TOP 50 most popular movies per genre
+
 
 
 #### Getting movie data 

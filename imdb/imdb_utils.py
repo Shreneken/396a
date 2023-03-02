@@ -1,6 +1,7 @@
 import json
 from bs4 import BeautifulSoup
 from requests import get
+import os 
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
@@ -12,11 +13,15 @@ HEADERS = {
 }
 
 def writeMovieIntoJsonFile(content, movie_title, release_date, director):
-    with open(f"./imdb_movie_jsons/{movie_title}-{release_date}-{director}.json","w") as eachMovie:
-        json.dump(content,eachMovie)
-
-def check_status_code(sc1,sc2,sc3):
-    return all([check(sc1),check(sc2),check(sc3)])
+    try:
+        with open(f"./imdb_movie_jsons/{movie_title}-{release_date}-{director}.json","w") as eachMovie:
+            json.dump(content,eachMovie)
+    except:
+        os.mkdir("./imdb_movie_jsons")
+        with open(f"./imdb_movie_jsons/{movie_title}-{release_date}-{director}.json","w") as eachMovie:
+            json.dump(content,eachMovie)
+def check_status_code(sc1,sc2):
+    return all([check(sc1),check(sc2)])
 
 def check(sc1):
     return sc1 == 200

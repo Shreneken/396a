@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 from urllib.parse import urljoin
 from imdb_utils import writeMovieIntoJsonFile as write
-from imdb_utils import check_status_code as check3
+from imdb_utils import check_status_code as check2
 from imdb_utils import check as check1
 from imdb_utils import loadJSONintoDict as load_dict
 from imdb_utils import getData
@@ -24,33 +24,25 @@ except:
 for title in tqdm(data):
     movie_page_url = "https://www.imdb.com/title/" + data[title][0]["id"] + "/"
     review_url = movie_page_url + "reviews"
-    own_url = movie_page_url + "?ref_=tt_urv"
 
     movie = get(review_url, headers=HEADERS)
-    own_movie = get(own_url, headers=HEADERS)
-    soup = BeautifulSoup(movie.content, "html.parser")
-    main_content = urljoin(
-        review_url, soup.select(".load-more-data")[0]["data-ajaxurl"]
-    )  # extracting the link leading to the page containing everything available here
-    loadMore_reviews = get(main_content, headers=HEADERS)
-    broth = BeautifulSoup(loadMore_reviews.content, "html.parser")
+    own_movie = get(movie_page_url, headers=HEADERS)
+    soup1 = BeautifulSoup(movie.content, "html.parser")
     congee = BeautifulSoup(own_movie.content, "html.parser")
 
-    # Check if all reponses are okay (status.code is 200)
-    if not check3(
-        movie.status_code, own_movie.status_code, loadMore_reviews.status_code
-    ):
+    # Check if reponses are okay (status.code is 200)
+    if not check2(movie.status_code, own_movie.status_code):
         print("Requests went wrong!")
         break
 
     # Finding release date
-    release_date_container = soup.find_all("div", class_="parent")
+    release_date_container = soup1.find_all("div", class_="parent")
     release_date_indexed = release_date_container[0]
     release_date = release_date_indexed.select("h3 span.nobr")[0].text.split()[0]
     release_date = release_date.split("(")[1].split(")")[0]
 
     # Finding number of reviews
-    header_container = soup.find_all("div", class_="header")
+    header_container = soup1.find_all("div", class_="header")
     num_review_indexed = header_container[0]
 
     # Finding director
@@ -61,15 +53,50 @@ for title in tqdm(data):
     director_indexed = director_container[0]
     director = director_indexed.string
 
+    # Finding genre
+    genre_list = []
+    genres = congee.select_one('div.ipc-chip-list__scroller')
+    for genre in genres.contents:
+        genre_list.append(genre.text)
+
+    #Find Summary
+    summary_container = congee.find_all("span", class_="sc-35061649-0 fjlUgo")
+    if len(summary_container) > 0:
+        summary = summary_container[0].string
+    else:
+        summary = "N/A"
     # Adding all attributes to res
-    res = {"rating": data[title][1]["rating"]}
+    res = {"rating": int(data[title][1]["rating"])}
     res["release_date"] = release_date
-    res["num_reviews"] = num_review_indexed.select("div span")[0].text
-    res["director"] = director
+    res["num_reviews"] = int(num_review_indexed.select("div span")[0].text.split(" ")[0])
+    res["genres"] = genre_list
+    res["summary"] = summary
 
-    for item in broth.select(".review-container"):
-        rt = item.select(".title")[0].text
-        review = item.select(".text")[0].text
-        res[rt] = review
+    #Check if a particular movie is already in our folder
+    try:
+        with open(f"./imdb_movie_jsons/{title}-{release_date}-{director}.json", "r") as _:
+            print(f"\n{title} data already exists!")
+            continue
+    except:
+        # Collecting all reviews now
+        url = (
+            "https://www.imdb.com/title/"+data[title][0]['id']+"/reviews/_ajax?ref_=undefined&paginationKey={}"
+        )
+        key = ""
 
-    write(res, title, release_date, director)
+        for i in range(1000):
+            response = get(url.format(key))
+            soup = BeautifulSoup(response.content, "html.parser")
+            # Find the pagination key
+            pagination_key = soup.find("div", class_="load-more-data")
+            if not pagination_key:
+                break
+            # Update the `key` variable in-order to scrape more reviews
+            key = pagination_key["data-key"]
+            for t, review in zip(
+                soup.find_all(class_="title"), soup.find_all(class_="text show-more__control")
+            ):
+                res[t.get_text(strip=True)]=review.get_text()
+        
+        #Dumping into individual json files
+        write(res, title, release_date, director)

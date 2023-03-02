@@ -10,7 +10,14 @@ Scraping movie websites for data!
       num_reviews: number_of_reviews_here,
       genre : [genre_here],
       summary: summary_here,
-      review: [reviewContent]
+      reviews: [reviewContent] 
+   }
+
+   //each reviewContent obj format:
+   {
+    content: review_content
+    title: review_title
+    review_date: review_date_here
    }
  ```
 
