@@ -14,12 +14,13 @@ HEADERS = {
 
 def writeMovieIntoJsonFile(content, movie_title, release_date, director):
     try:
-        with open(f"./imdb_movie_jsons/{movie_title}-{release_date}-{director}.json","w") as eachMovie:
+        with open(f"./imdb/imdb_movie_jsons/{movie_title}-{release_date}-{director}.json","w") as eachMovie:
             json.dump(content,eachMovie)
-    except:
-        os.mkdir("./imdb_movie_jsons")
-        with open(f"./imdb_movie_jsons/{movie_title}-{release_date}-{director}.json","w") as eachMovie:
+    except Exception:
+        os.mkdir("./imdb/imdb_movie_jsons")
+        with open(f"./imdb/imdb_movie_jsons/{movie_title}-{release_date}-{director}.json","w") as eachMovie:
             json.dump(content,eachMovie)
+            
 def check_status_code(sc1,sc2):
     return all([check(sc1),check(sc2)])
 

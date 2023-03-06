@@ -1,3 +1,4 @@
+from datetime import datetime
 from requests import get
 from bs4 import BeautifulSoup
 from tqdm import tqdm
@@ -10,36 +11,23 @@ from imdb_utils import getData
 from imdb_utils import HEADERS
 import json
 
-
-try:
-    data = load_dict("./imdbData.json")
-    print("We already have data!")
-except:
-    print("We need to get data again!")
-    data = getData()
-    with open("./imdbData.json", "w") as all_data:
-        json.dump(data, all_data)
+with open("./imdb/movie_title-id.json", "r") as movie_title_list:
+    data = json.load(movie_title_list)
 
 # Visit each individual movie's page
 for title in tqdm(data):
-    movie_page_url = "https://www.imdb.com/title/" + data[title][0]["id"] + "/"
+    movie_page_url = "https://www.imdb.com/title/tt" + data[title] + "/"
     review_url = movie_page_url + "reviews"
 
     movie = get(review_url, headers=HEADERS)
     own_movie = get(movie_page_url, headers=HEADERS)
-    soup1 = BeautifulSoup(movie.content, "html.parser")
-    congee = BeautifulSoup(own_movie.content, "html.parser")
+    soup1 = BeautifulSoup(movie.content, "lxml")
+    congee = BeautifulSoup(own_movie.content, "lxml")
 
     # Check if reponses are okay (status.code is 200)
     if not check2(movie.status_code, own_movie.status_code):
         print("Requests went wrong!")
         break
-
-    # Finding release date
-    release_date_container = soup1.find_all("div", class_="parent")
-    release_date_indexed = release_date_container[0]
-    release_date = release_date_indexed.select("h3 span.nobr")[0].text.split()[0]
-    release_date = release_date.split("(")[1].split(")")[0]
 
     # Finding number of reviews
     header_container = soup1.find_all("div", class_="header")
@@ -53,34 +41,70 @@ for title in tqdm(data):
     director_indexed = director_container[0]
     director = director_indexed.string
 
+    # Finding release date using director container
+    release_date_container = congee.find_all(
+        "ul",
+        class_="ipc-metadata-list ipc-metadata-list--dividers-all ipc-metadata-list--base",
+    )
+    try:
+        release_date_indexed = release_date_container[0]
+        release_date_arr = release_date_indexed.select("li div ul li a")[0].text.split(" ")[
+            :3
+        ]
+    except IndexError:
+        release_date_indexed = release_date_container[1]
+        release_date_arr = release_date_indexed.select("li div ul li a")[0].text.split(" ")[
+            :3
+        ]
+    release_date_str = " ".join(release_date_arr)
+    datetime_object = datetime.strptime(release_date_str, "%B %d, %Y")
+    release_date = str(datetime_object.date())
+
     # Finding genre
     genre_list = []
-    genres = congee.select_one('div.ipc-chip-list__scroller')
+    genres = congee.select_one("div.ipc-chip-list__scroller")
     for genre in genres.contents:
         genre_list.append(genre.text)
 
-    #Find Summary
+    # Find Summary
     summary_container = congee.find_all("span", class_="sc-35061649-0 fjlUgo")
     if len(summary_container) > 0:
         summary = summary_container[0].string
     else:
         summary = "N/A"
+
+    # Find rating
+    rating_container = congee.find_all("span", class_="sc-e457ee34-1 squoh")
+    if len(rating_container) > 0:
+        rating = rating_container[0].string
+    else:
+        rating = "0"
+
     # Adding all attributes to res
-    res = {"rating": int(data[title][1]["rating"])}
+    res = {"rating": float(rating)}
     res["release_date"] = release_date
-    res["num_reviews"] = int(num_review_indexed.select("div span")[0].text.split(" ")[0])
+    res["num_reviews"] = int(
+        num_review_indexed.select("div span")[0].text.split(" ")[0].replace(",", "")
+    )
     res["genres"] = genre_list
     res["summary"] = summary
 
-    #Check if a particular movie is already in our folder
+    # Check if a particular movie is already in our folder
+
     try:
-        with open(f"./imdb_movie_jsons/{title}-{release_date}-{director}.json", "r") as _:
+        if ':' in title:
+          file_name = '--'.join(title.split(':'))
+        with open(
+            f"./imdb/imdb_movie_jsons/{file_name}-{release_date}-{director}.json", "r"
+        ) as _:
             print(f"\n{title} data already exists!")
             continue
-    except:
+    except Exception:
         # Collecting all reviews now
         url = (
-            "https://www.imdb.com/title/"+data[title][0]['id']+"/reviews/_ajax?ref_=undefined&paginationKey={}"
+            "https://www.imdb.com/title/tt"
+            + data[title]
+            + "/reviews/_ajax?ref_=undefined&paginationKey={}"
         )
         key = ""
 
@@ -94,9 +118,12 @@ for title in tqdm(data):
             # Update the `key` variable in-order to scrape more reviews
             key = pagination_key["data-key"]
             for t, review in zip(
-                soup.find_all(class_="title"), soup.find_all(class_="text show-more__control")
+                soup.find_all(class_="title"),
+                soup.find_all(class_="text show-more__control"),
             ):
-                res[t.get_text(strip=True)]=review.get_text()
-        
-        #Dumping into individual json files
+                res[t.get_text(strip=True)] = review.get_text()
+
+        if ':' in title:
+            title = '--'.join(title.split(':'))
+        # Dumping into individual json files
         write(res, title, release_date, director)
