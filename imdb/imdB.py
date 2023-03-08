@@ -6,19 +6,30 @@ from urllib.parse import urljoin
 from imdb_utils import writeMovieIntoJsonFile as write
 from imdb_utils import check_status_code as check2
 from imdb_utils import check as check1
-from imdb_utils import loadJSONintoDict as load_dict
 from imdb_utils import getData
 from imdb_utils import HEADERS
 import json
+import os
 
 with open("./imdb/movie_title-id.json", "r") as movie_title_list:
     data = json.load(movie_title_list)
 
 # Visit each individual movie's page
 for title in tqdm(data):
+
+    file_name = title
+    already_exists = False
+    if ":" in title:
+        file_name = "--".join(title.split(":"))
+    for json_name in os.listdir("./imdb/imdb_movie_jsons"):
+        if file_name in json_name:
+            print(f"\n{title} data already exists!")
+            already_exists = True
+            break
+    if already_exists:
+        continue
     movie_page_url = "https://www.imdb.com/title/tt" + data[title] + "/"
     review_url = movie_page_url + "reviews"
-
     movie = get(review_url, headers=HEADERS)
     own_movie = get(movie_page_url, headers=HEADERS)
     soup1 = BeautifulSoup(movie.content, "lxml")
@@ -48,14 +59,14 @@ for title in tqdm(data):
     )
     try:
         release_date_indexed = release_date_container[0]
-        release_date_arr = release_date_indexed.select("li div ul li a")[0].text.split(" ")[
-            :3
-        ]
+        release_date_arr = release_date_indexed.select("li div ul li a")[0].text.split(
+            " "
+        )[:3]
     except IndexError:
         release_date_indexed = release_date_container[1]
-        release_date_arr = release_date_indexed.select("li div ul li a")[0].text.split(" ")[
-            :3
-        ]
+        release_date_arr = release_date_indexed.select("li div ul li a")[0].text.split(
+            " "
+        )[:3]
     release_date_str = " ".join(release_date_arr)
     datetime_object = datetime.strptime(release_date_str, "%B %d, %Y")
     release_date = str(datetime_object.date())
@@ -91,39 +102,30 @@ for title in tqdm(data):
 
     # Check if a particular movie is already in our folder
 
-    try:
-        if ':' in title:
-          file_name = '--'.join(title.split(':'))
-        with open(
-            f"./imdb/imdb_movie_jsons/{file_name}-{release_date}-{director}.json", "r"
-        ) as _:
-            print(f"\n{title} data already exists!")
-            continue
-    except Exception:
-        # Collecting all reviews now
-        url = (
-            "https://www.imdb.com/title/tt"
-            + data[title]
-            + "/reviews/_ajax?ref_=undefined&paginationKey={}"
-        )
-        key = ""
+    # Collecting all reviews now
+    url = (
+        "https://www.imdb.com/title/tt"
+        + data[title]
+        + "/reviews/_ajax?ref_=undefined&paginationKey={}"
+    )
+    key = ""
 
-        for i in range(1000):
-            response = get(url.format(key))
-            soup = BeautifulSoup(response.content, "html.parser")
-            # Find the pagination key
-            pagination_key = soup.find("div", class_="load-more-data")
-            if not pagination_key:
-                break
-            # Update the `key` variable in-order to scrape more reviews
-            key = pagination_key["data-key"]
-            for t, review in zip(
-                soup.find_all(class_="title"),
-                soup.find_all(class_="text show-more__control"),
-            ):
-                res[t.get_text(strip=True)] = review.get_text()
+    for i in range(1000):
+        response = get(url.format(key))
+        soup = BeautifulSoup(response.content, "html.parser")
+        # Find the pagination key
+        pagination_key = soup.find("div", class_="load-more-data")
+        if not pagination_key:
+            break
+        # Update the `key` variable in-order to scrape more reviews
+        key = pagination_key["data-key"]
+        for t, review in zip(
+            soup.find_all(class_="title"),
+            soup.find_all(class_="text show-more__control"),
+        ):
+            res[t.get_text(strip=True)] = review.get_text()
 
-        if ':' in title:
-            title = '--'.join(title.split(':'))
-        # Dumping into individual json files
-        write(res, title, release_date, director)
+    if ":" in title:
+        title = "--".join(title.split(":"))
+    # Dumping into individual json files
+    write(res, title, release_date, director)

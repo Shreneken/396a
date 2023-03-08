@@ -1,7 +1,7 @@
 import os
 import shutil
 
-directory = "./imdb_movie_jsons"
+directory = "./imdb/imdb_movie_jsons"
 date_movies = {}
 
 # Sorting movies by release date
