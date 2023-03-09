@@ -13,20 +13,20 @@
 # # # data = {}
 
 
-# # # for i in range(1000):
-# # #     response = requests.get(url.format(key))
-# # #     soup = BeautifulSoup(response.content, "html.parser")
-# # #     # Find the pagination key
-# # #     pagination_key = soup.find("div", class_="load-more-data")
-# # #     if not pagination_key:
-# # #         break
-# # #     # Update the `key` variable in-order to scrape more reviews
-# # #     key = pagination_key["data-key"]
-# # #     for title, review in zip(
-# # #         soup.find_all(class_="title"), soup.find_all(class_="text show-more__control")
-# # #     ):
-# # #         data[title.get_text(strip=True)]=review.get_text()
-# # #         i+=1
+# for i in range(1000):
+#     response = requests.get(url.format(key))
+#     soup = BeautifulSoup(response.content, "html.parser")
+#     # Find the pagination key
+#     pagination_key = soup.find("div", class_="load-more-data")
+#     if not pagination_key:
+#         break
+#     # Update the `key` variable in-order to scrape more reviews
+#     key = pagination_key["data-key"]
+#     for title, review in zip(
+#         soup.find_all(class_="title"), soup.find_all(class_="text show-more__control")
+#     ):
+#         data[title.get_text(strip=True)]=review.get_text()
+#         i+=1
 
 # # # with open("trying.json","w") as trying:
 # # #     json.dump(data,trying)
@@ -60,14 +60,3 @@
 # # datetime_object = datetime.strptime(date_str,'%d %B, %Y')
 
 # # print(datetime_object)
-
- 
-class cope:
-    def __init__(self):
-     self.value = "Hello"
-    
-    def __repr__(self):
-      return self.value
-  
-coper = cope()
-print(coper)

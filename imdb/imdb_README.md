@@ -21,8 +21,8 @@
 
    //each reviewContent obj format:
    {
+    review_title: review_title
     content: review_content
-    title: review_title
     review_date: review_date_here
    }
  ```

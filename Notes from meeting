@@ -1,0 +1,17 @@
+Notes from meeting
+
+Merge data (for each movie in set: data from all sources)
+
+Problems might arise when merging
+-Different encoding for diff characters and stuff
+
+2 main packages for cleaning
+- Stanza by Stanford
+- spaCy
+
+First step is always tokenizer
+Then, different stuff in the pipeline
+tagger (tags tokens) ->parser (builds dependency tree like structure)-> ner (detects and labels entities) -> lemmatizer (assigns base forms, eg don't - do not) -> 
+
+Stanza vs spaCy (choose)
+
