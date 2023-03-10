@@ -20,7 +20,7 @@ def writeMovieIntoJsonFile(content, movie_title, release_date, director):
             f"./imdb/imdb_movie_jsons/{movie_title}-{release_date}-{director}.json", "w"
         ) as eachMovie:
             json.dump(content, eachMovie, indent=4)
-    except WindowsError:
+    except:
         os.mkdir("./imdb/imdb_movie_jsons")
         with open(
             f"./imdb/imdb_movie_jsons/{movie_title}-{release_date}-{director}.json", "w"
