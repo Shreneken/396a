@@ -14,7 +14,7 @@ HEADERS = {
 }
 
 
-def writeMovieIntoJsonFile(content, movie_title, release_date, director):
+def movie_into_json(content, movie_title, release_date, director):
     try:
         with open(
             f"./imdb/imdb_movie_jsons/{movie_title}-{release_date}-{director}.json", "w"
@@ -107,8 +107,11 @@ def find_release_date(congee):
 def find_genre(congee):
     genre_list = []
     genres = congee.select_one("div.ipc-chip-list__scroller")
-    for genre in genres.contents:
-        genre_list.append(genre.text)
+    try:
+        for genre in genres.contents:
+            genre_list.append(genre.text)
+    except AttributeError:
+        pass
     return genre_list
 
 

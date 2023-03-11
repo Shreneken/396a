@@ -10,6 +10,9 @@ for file_name in os.listdir(directory):
     if "json" not in file_name:
         continue
     
+    if '--' in file_name:
+        file_name = file_name.replace('--','(colon)')
+    
     curr_file_list = file_name.split("-")
     print(f"{curr_file_list=}")
     

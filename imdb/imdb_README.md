@@ -27,7 +27,7 @@
    }
  ```
 
--TOP 1000 most popular movies in imdB
+-TOP 1000 most popular movies in imdB + Top 250 worst rated movies
 
 
 
