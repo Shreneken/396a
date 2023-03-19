@@ -35,7 +35,9 @@ for title in tqdm(data):
 
     # Check if reponses are okay (status.code is 200)
     if not imdb_utils.check_status_code(movie.status_code, own_movie.status_code):
-        print("Requests went wrong!")
+        print(f"Requests went wrong for {title}")
+        print(f"{own_movie.status_code=}")
+        print(f"{movie.status_code=}")
         break
 
     num_reviews = imdb_utils.get_num_reviews(broth)
@@ -58,7 +60,7 @@ for title in tqdm(data):
         + "/reviews/_ajax?ref_=undefined&paginationKey={}"
     )
     key = ""
-
+# 
     for i in range(1000):
         while True:
             try:

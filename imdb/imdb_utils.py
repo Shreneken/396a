@@ -21,6 +21,7 @@ def movie_into_json(content, movie_title, release_date, director):
         ) as eachMovie:
             json.dump(content, eachMovie, indent=4)
     except:
+        print(f"./imdb/imdb_movie_jsons/{movie_title}-{release_date}-{director}.json")
         os.mkdir("./imdb/imdb_movie_jsons")
         with open(
             f"./imdb/imdb_movie_jsons/{movie_title}-{release_date}-{director}.json", "w"
@@ -85,22 +86,25 @@ def find_release_date(congee):
         "ul",
         class_="ipc-metadata-list ipc-metadata-list--dividers-all ipc-metadata-list--base",
     )
-    try:
-        release_date_indexed = release_date_container[0]
-        release_date_arr = release_date_indexed.select("li div ul li a")[0].text.split(
-            " "
-        )[:3]
-    except IndexError:
-        release_date_indexed = release_date_container[1]
-        release_date_arr = release_date_indexed.select("li div ul li a")[0].text.split(
-            " "
-        )[:3]
-    try:
-        release_date_str = " ".join(release_date_arr)
-        datetime_object = datetime.strptime(release_date_str, "%B %d, %Y")
-        release_date = str(datetime_object.date())
-    except ValueError:
-        release_date = " ".join(release_date_arr)
+    if len(release_date_container) == 0: 
+        release_date = "Invalid"
+    else:
+        try:
+            release_date_indexed = release_date_container[0]
+            release_date_arr = release_date_indexed.select("li div ul li a")[0].text.split(
+                " "
+            )[:3]
+        except IndexError:
+            release_date_indexed = release_date_container[1]
+            release_date_arr = release_date_indexed.select("li div ul li a")[0].text.split(
+                " "
+            )[:3]
+        try:
+            release_date_str = " ".join(release_date_arr)
+            datetime_object = datetime.strptime(release_date_str, "%B %d, %Y")
+            release_date = str(datetime_object.date())
+        except ValueError:
+            release_date = " ".join(release_date_arr)
     return release_date
 
 
@@ -163,8 +167,12 @@ def check_file_existence(file_name):
 
 
 def change_title_if_required(title):
-    if ":" in title:
-        title = "--".join(title.split(":"))
-    if "," in title:
-        title = "(question_mark)".join(title.split("?"))
+    if ':' in title:
+        title = "--".join(title.split(':'))
+    if '?' in title:
+        title = "(question_mark)".join(title.split('?'))
+    if '/' in title:
+        title = "(slash)".join(title.split('/'))
+    if ',' in title:
+        title = "(comma)".join(title.split('comma'))
     return title
