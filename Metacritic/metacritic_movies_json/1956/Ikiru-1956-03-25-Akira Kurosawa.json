@@ -1,0 +1,43 @@
+{
+  "title": "Ikiru",
+  "rating": 8.3,
+  "release_date": "1956-03-25",
+  "genre": [
+    "Drama"
+  ],
+  "summary": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+  "critic_reviews": [
+    "Over the years I have seen \"Ikiru\" every five years or so, and each time it has moved me, and made me think.",
+    "A thoughtful, existential meditation about the meaning of life and what constitutes a life well-lived, Ikiru is almost guaranteed to prod the viewer to examine his or her own mortality and ponder how, in the end, the scales will tip.",
+    "The genius of Akira Kurosawa’s Ikiru is the way this deeply sentimental film continually deflates sentimentality.",
+    "This is the flip side to his samurai films, an introspective, naturalistic contemporary drama combining progressive social criticism with a universal humanist message.",
+    "A beautiful and unusually quiet film from one of the world's greatest living directors.",
+    "Were it the only film Kurosawa ever made, his name would be rightfully engraved on film history.",
+    "It avoids all the maudlin cliches and blind alleys of examining the “meaning of life,” giving us instead a rare portrait of a man experiencing a genuine insight into what his wasted years have been leading to.",
+    "Meticulously constructed, beautifully played and poignant.",
+    "The narrative is carefully paced, the central performance magnificent, the final effect overwhelming in a manner that recalls the great Russian writers Kurosawa admired.",
+    "Kurosawa performs a tour-de-force in keeping a dramatic thread throughout and avoiding the mawkish. It is technically excellent with a telling Occidental-type musical score.",
+    "Like “Stray Dog” and “Drunken Angel,” it illuminates a reeling society while telling a story of deep human emotion.",
+    "Kurosawa’s eclectic style is a delight: his striking, varied compositions reflecting the old man’s journey from darkness to some kind of light right until the moving finale.",
+    "Ikiru wows for its complicated interrogation (and innovation) of subjective, cinematic experiences of time and memory, but lulls in its commemoration of a wealthy, privileged man who finally decides to care after it’s absolutely confirmed he has no time left to live.",
+    "If it weren't so confused in its story-telling, it would be one of the major postwar films from Japan. As it stands, it is a strangely fascinating and affecting film, up to a point—that being the point where it consigns its aged hero to the great beyond."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "heartwrenching, yet cautionary tale about death and life, worth a watch if you havent seen it",
+      "review_date": "2022-07-23"
+    },
+    {
+      "review_title": null,
+      "content": "great film, that gives a lot of emotions and let us think about how good the life is",
+      "review_date": "2022-04-19"
+    },
+    {
+      "review_title": null,
+      "content": "An emotional heartbreaking tale of the final months of a man with cancer. A true foreign classic!",
+      "review_date": "2022-04-07"
+    }
+  ],
+  "num_reviews": 17
+}
