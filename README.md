@@ -6,7 +6,7 @@ Scraping movie websites for data!
  ```js
    {
       rating: rating_here,
-      release_data: release_date_here,
+      release_date: release_date_here,
       num_reviews: number_of_reviews_here,
       genre : [genre_here],
       summary: summary_here,
