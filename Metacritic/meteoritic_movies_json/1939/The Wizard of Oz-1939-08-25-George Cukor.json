@@ -1,0 +1,16 @@
+{
+  "title": "The Wizard of Oz",
+  "rating": 8.5,
+  "release_date": "1939-08-25",
+  "genre": [
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Family",
+    "Musical"
+  ],
+  "summary": "Adapted from L. Frank Baum’s timeless children’s tale about a Kansas girl’s journey over the rainbow, The Wizard of Oz opened at Grauman’s Chinese Theater on August 15, 1939. [Warner Bros.]",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0
+}
