@@ -1,0 +1,550 @@
+{
+  "title": "The Matrix",
+  "rating": 8.9,
+  "release_date": "1999-03-31",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "summary": "A computer hacker (Keanu Reeves) learns that his entire life has been a virtual dream, orchestrated by a strange class of computer overlords in the far future. He joins a resistance movement to free humanity from lives of computerized brainwashing.",
+  "critic_reviews": [
+    "The Matrix slams you back in your chair, pops open your eyes and leaves your jaw hanging slack in amazement.",
+    "The Wachowskis do it so playfully well, keeping The Matrix's potentially confusing plot intelligible, intelligent, and suspenseful, that it doesn't matter.",
+    "Bill Pope's swooping, noir-inflected cinematography is wonderfully complemented by Owen Paterson's inventive production design, a great soundtrack and the best fight choreography this side of Hong Kong. And even if this isn't \"Blade Runner,\" it is very cool shit.",
+    "The Wachowski Brothers have created some of the most unrivaled and imaginative sci-fi in years.",
+    "This wildly imaginative thriller is a futuristic head trip you most definitely want to take.",
+    "A wildly cinematic futuristic thriller that is determined to overpower the imagination, The Matrix combines traditional science-fiction premises with spanking new visual technology in a way that almost defies description.",
+    "I'll just say to anyone lamenting the state of American cinema since the 1970s, if you're curious where the next generation of auteurs is coming from, look in the art houses and look in The Matrix.",
+    "Kinetic, atmospheric, visually stunning, and mind-bending.",
+    "With its mix of Lewis Carroll and William Gibson; Japanese anime and Chinese chopsocky; mythological allusions, and machine-made illusion, offers a couple of hours of escapist fun.",
+    "There's a kind of liberating, almost transforming energy in this film; it lights you up and sends you out all giddy with silliness.",
+    "One of the more lyrical sci-fi action thrillers ever made, in which space and time become love slaves to the directors' witty visual fancies.",
+    "This dazzling pop allegory is steeped in a dark, pulpy sensibility that transcends nostalgic pastiche and stands firmly on its own merits.",
+    "This full-tilt visual and aural bombardment is simply a lot of fun. It never lets up. Nor does it ever want to.",
+    "One big, fat, honking comic book of a sci-fi-martial-arts adventure flick.",
+    "Doesn't just raise the bar on sci-fi and action films, it rips that sucker off and sends it spiraling into the sun.",
+    "The plot switches gears every time it threatens to run out of energy, which keeps the show as lively as it is preposterous.",
+    "Where most effects-laden extravanganzas aspire to be nothing more than a live-action comic book, The Matrix sees things with the venturesome clarity of a graphic novel.",
+    "The writing remains more intelligent than most thrillers, and the action is executed with such panache that even if you don't buy the reality of The Matrix, it's a helluva place to visit.",
+    "A dazzlingly original visual adventure.",
+    "It's like animation come to three-dimensional life, and f/x addicts as well as sci-fi fans will not want to miss a split-second.",
+    "A visually dazzling cyberadventure, full of kinetic excitement, but it retreats to formula just when it's getting interesting.",
+    "For those who have been waiting for movies to catch up with the graphic possibilities of comic books, wait no longer: The Matrix is among us.",
+    "It may bore you to death or blow your mind -- and it's long and convoluted enough to do both -- but it holds nothing back.",
+    "An eye-popping but incoherent extravaganza of morphing and superhuman martial arts.",
+    "Given a budget that encourages their kinesthetic skills, the filmmakers tend to go on a bit, but it's mostly a kind of quick, glancing hipness that's being indulged here.",
+    "The martial arts stunts that are its single strongest selling point.",
+    "With an arsenal of cool f/x at their disposal, the Wachowskis have come up with a dizzyingly enjoyable junk movie that has just enough on its mind to keep the pleasure from being a guilty one.",
+    "Even if a lot of adults have problems following this picture 100%, look for computer-savvy teen-agers to guarantee this sometimes original but too often derivative time-killer a shelf life.",
+    "The cumulative effect is perversely deflationary: long before it's over, the film has flushed the paranoia from its system.",
+    "The real soullessness here is built into the production, a polished adaptation of Hong Kong-style filmmaking that, with its cast of depressive characters, allows for little Hong Kong-style joy.",
+    "There's not much humor to keep it all life-size, and by the final stretch it's become bloated, mechanical, and tiresome.",
+    "Snazzy visuals, of which she (Moss) is one, carry The Matrix past its klutzy script.",
+    "It's astonishing that so much money, talent, technical expertise and visual imagination can be put in the service of something so stupid."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "An excellent movie with tons of special effects, fight scenes, etc., and the best thing is that they are all done perfectly. A really good film with an interesting story behind it. YOU'LL ENJOY IT.",
+      "review_date": "2011-07-10"
+    },
+    {
+      "review_title": null,
+      "content": "Yes, the movie has flaws. But who cares? \"The Matrix\" is a astonishing movie that is for-your-eyes only. The film has top notch (slo-mo was first introduced by this movie) CGI as well as a well rounded plot. It gives you more than you can askYes, the movie has flaws. But who cares? \"The Matrix\" is a astonishing movie that is for-your-eyes only. The film has top notch (slo-mo was first introduced by this movie) CGI as well as a well rounded plot. It gives you more than you can ask for from a 1990's action film.",
+      "review_date": "2011-10-04"
+    },
+    {
+      "review_title": null,
+      "content": "What a concept! Although the movie is well executed, it is not exceptional. It makes for an entertaining ride.",
+      "review_date": "2007-11-04"
+    },
+    {
+      "review_title": null,
+      "content": "The greatest action movie of all time, my favorite movie, its so perceptive so mind boggling you will watch it more than once to then fall more in love with the matrix a world without borders or boundaries. I love this movie.",
+      "review_date": "2008-07-05"
+    },
+    {
+      "review_title": null,
+      "content": "It's perfect, isn't it? The combat is stylish, it has effort put into it. Lots of guns, lots of fighting, all in its own unique style of kung fu meeting gunplay.",
+      "review_date": "2021-09-12"
+    },
+    {
+      "review_title": null,
+      "content": "The Matrix is without a doubt one of the best movies ever made. Period. I will explain though. Most people have an issue with the movie for one of two reasons: the special effects and the plot. First, I'm not a huge martial arts guy, so The Matrix is without a doubt one of the best movies ever made. Period. I will explain though. Most people have an issue with the movie for one of two reasons: the special effects and the plot. First, I'm not a huge martial arts guy, so I'm definitely nowhere close to being an expert on this, but the action scenes were pretty awesome. The combination of slick and fast hand-to-hand with a load of guns thrown in...awesome. The music to the fights completed the experience. The second issue most people have with the Matrix is something I am quite familiar with: the plot. The plot of the Matrix is fantastic. That is because of two things: One, it is a fresh idea. The Matrix's plot is not a clone of anything. And two, the plot is incredibly deep, having multiple levels for every part in it. The agents, Neo being freed, the idea of the Matrix itself, all great. If you don't like sci-fi, then that's fine. You probably won't like this movie. You definitely won't like the sequels. But don't knock them for being \"stupid\" or \"moronic.\" Because they simply aren't. And on a last note, the acting is exactly suited to this movie. The people in this movie act exactly how their characters should. Keanu Reeves was cast BECAUSE he acts the way he does on camera. It was perfect for the part. Hugo Weaving is SUPPOSED to be dry and humorless. Keep in mind the context of the characters when you judge acting. If you have any complaints, I'll be willing to defend the greatness of this movie. A 10 out of 10.",
+      "review_date": "2008-03-01"
+    },
+    {
+      "review_title": null,
+      "content": "When I first saw this movie when I was twelve I didn't think much of it, I thought it had a confusing story and a mindless plot that was supported and only succeeded by out of this world slow motion stunts. Boy was I naive or what!? Now When I first saw this movie when I was twelve I didn't think much of it, I thought it had a confusing story and a mindless plot that was supported and only succeeded by out of this world slow motion stunts. Boy was I naive or what!? Now seeing it again after all these years I could see that I was not ready back then to handle a movie of this complexity and strange coherent means of story telling. But now I fully respect and love this movie for what it is and for what it always will be, mindbogglingly, mind blowing, out of this world fun. When the Matrix was released in 1999 this was the film to go see people were busting out of the theater's and telling anyone they can to go see this movie. It was the \"It\" movie of the year and it gained the title justly. This film mapped out new territory in action and ushered in a whole new generation of action & Sci-Fi thrillers and video games as well(Max Payne comes to mind) it is one of the biggest and most beloved film of the 90's and has one of the biggest fan base out there. This movie unique and I mean unique story and style has such and impact on you when you first see it you'll want to see it the minute it's over and some more after that and after that and you'll want to see it a million times it's just that good. The Matrix put's a Gothic and dark spin on the dystopia and apocalyptic themes that have become very common in Sci-Fi films, this film does it one better it takes those overly used themes and creates a completely original and unique world around which everything we Believe is a lie. It has a great monolithic tone to it that makes it a masterpiece by any standards and it creates a great aftershock in which few films can actually do these days. It purposes that machines while enslave humanity and use us as a battery source to power there vasts armies of machines around the world. But that's what makes it so great to watch it gives you a sense of hope and a sense of justice that you just feel all the way to your bones. This movie has given the fellow movie goer what they've always wanted and always searched for in a film, great action, a smart story and plot, acting you can live with and put them all together and what do you got? The Matrix! This movie will stick with long after it's over and even after tour old you'll still remember one movie that rocked your world like none other. All in all this film delivers great any day entertainment that is like Laurence Fishburn said, \" Unfortunately no one can be told what the Matrix is you have to see it for yourself.\" And trust me once you do you won't ever look at Sci-Fi or other movies the same way again. This movie delivers.",
+      "review_date": "2009-09-06"
+    },
+    {
+      "review_title": null,
+      "content": "Awesome action, awesome acting, awesome plot, awesome everything!",
+      "review_date": "2007-07-02"
+    },
+    {
+      "review_title": null,
+      "content": "It is an epic. Classic. Great philosphy.",
+      "review_date": "2008-02-28"
+    },
+    {
+      "review_title": null,
+      "content": "I thought the matrix was brilliant the god of Sci-Fi.",
+      "review_date": "2006-02-18"
+    },
+    {
+      "review_title": null,
+      "content": "Great movie, a definite heartwarming, classic.",
+      "review_date": "2009-12-27"
+    },
+    {
+      "review_title": null,
+      "content": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted byThomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion",
+      "review_date": "2017-06-05"
+    },
+    {
+      "review_title": null,
+      "content": "The Matrix helps you thinking about the question \"What is reality?\". This is an epistemological question: is the world we see around us the real world itself or merely an internal perceptual copy of that world generated by neural processes inThe Matrix helps you thinking about the question \"What is reality?\". This is an epistemological question: is the world we see around us the real world itself or merely an internal perceptual copy of that world generated by neural processes in our brain.",
+      "review_date": "2013-02-09"
+    },
+    {
+      "review_title": null,
+      "content": "A man's life has changed arguably for the better after finding out about the world he lives in and discovering that he is more than just an everyday man who works at a dead end job. 'The Matrix' is an expansive, dazzling and sometimesA man's life has changed arguably for the better after finding out about the world he lives in and discovering that he is more than just an everyday man who works at a dead end job. 'The Matrix' is an expansive, dazzling and sometimes philosophical science-fiction thriller that develops its worlds and characters with discovery as opposed to long exposition explained by characters.\r The movie follows the life of a man named Thomas Anderson (Keanu Reeves) who gets mysterious conversations from the people of \"The Real World\", he often gets phone calls from a man named Morpheus (Laurence Fishburne) who tells him that the world he is currently living in is a fake and that it's just an illusion.\r Thomas, reluctantly, follows everything Morpheus tells him to do, and runs into the hands of an evil Agent Smith (Hugo Weaving) who tries to convince Thomas otherwise.\r Morpheus then tells him to meet the other crew which involves a woman named Trinity (Carrie-Anne Moss) who also tells him that the current world he is living in is fake and is often referred to as \"The Matrix\". When Thomas enters the real world, and finally \"wakes up\" and sees that the world he was living in really was fake, he needs questions to be answered, and Morpheus provides him with that as well as training him to handle himself for whenever he enters the Matrix.\r The film, directed by the Wachowskis, is stunning to look at, filled with fantastic fight choreography, and good character development, even if some of the exposition feels a bit heavy-handed.\r Like George Lucas' 'Star Wars' (1977), it is original, groundbreaking and filled with great storytelling with characters who become iconic, and some innovative action scenes. If you love Sci-Fi... this might be something you're looking for.",
+      "review_date": "2016-10-10"
+    },
+    {
+      "review_title": null,
+      "content": "There's no sophomore jinx for the Wachowski Brothers. Andy and Larry, a pair of obviously talented film makers, have returned to theaters with The Matrix, a science fiction thriller that is every bit the match of their debut effort, Bound,There's no sophomore jinx for the Wachowski Brothers. Andy and Larry, a pair of obviously talented film makers, have returned to theaters with The Matrix, a science fiction thriller that is every bit the match of their debut effort, Bound, for tension, excitement, and intelligence. In an era when movie scripts (especially those pigeonholed into the science fiction genre) are becoming increasingly more stupid and special effects reliant, the Wachowskis prove that style and substance do not have to be mutually exclusive.\r I loved The Matrix, and only a few minor contrivances associated with the climax caused the film to miss a four-star rating. The movie is kinetic, atmospheric, visually stunning, and mind-bending. It toys with the boundaries between reality and fantasy in unique and interesting ways. In its approach and content, it reminded me of last year's vastly underrated Dark City. There's also a synergy with two movies due to be released within the next month: David Cronenberg's eXistenZ and Alejandro Amenabar's Open Your Eyes. The Matrix is undeniably science fiction, but, unlike most pictures claiming that association, it never falls into the boring, expected patterns of space battles and laser gun shoot-outs. Instead, it ventures into territory that, while not virgin, is sufficiently interesting to provide an involving, invigorating backdrop.\r lthough the film frequently toys with the blurred line between grim reality and computer-generated fantasy, it rarely leaves the viewer completely confused (except, perhaps, at the very beginning). The Wachowskis have carefully structured the story in such a way that the audience is capable of following the action and understanding what's going on even when all of the secrets have not been revealed. Nevertheless, because The Matrix is intelligent, it will defeat those unwilling to invest some intellectual participation. The payoff is worth the effort.\r Stylistically, The Matrix is much like Bound. Both films are visually stunning, with images painstakingly constructed and action sequences choreographed to excite the eye and quicken the pulse. The Wachowskis use a varied pallette that includes shadows, slow motion, quick cuts, and offbeat humor to paint a unique portrait. Like in Dark City, theirs is a grim world, where darkness and gloom seemingly always hold sway. Everything from the set design to the costumes (lots of black, lots of sunglasses) is intended to contribute to an overall look. When it comes to shoot-outs, the Wachowskis show that John Woo isn't the only director capable of doing interesting things with familiar devices. The shots of Keanu Reeves streaking down a hall with guns blazing all around him and the air thick with shattered bits of concrete is only one of many snapshots that lingers in the mind's eye long after they have vanished from the screen. The special effects, which are not as numerous as those in many science fiction pieces, are flawless.\r Keanu Reeves is not generally regarded as a strong actor, but, given the right part - one that doesn't demand much subtlety or emoting - he can be effective. His role as Neo fits the criteria. The Matrix needs a leading man who can look good, act cool, and not stumble over his dialogue, and Reeves is three for three. It's easily his best work since Speed, where the same kinds of demands were made of him. For more nuanced performances, the Wachowskis rely on the rest of the cast: the always excellent Laurence Fishburne, brilliant character actor Joe Pantoliano (who appeared in Bound), and Carrie-Anne Moss, who looks great in black leather. Aussie Hugo Weaving (Proof) brings the perfect mix of dry wit and menace to his role as the head Man in Black.\r The Matrix offers a little something for everyone. The die-hard science fiction fan will discover a plot that mixes and matches both new and old conventions of the genre in a compelling fashion. Action aficionados will find that there's no shortage of electric excitement, whether it's in the form of hand-to-hand kung fu-type fights or shoot-outs with seemingly limitless ammunition. There's also betrayal, a little romance, some humor, and a moral dilemma or two, all wrapped into a well-produced package. As I stated earlier, the way in which the Wachowskis choose to resolve everything seems slightly contrived, but, in the overall scheme of things, that's a small price to pay for one of the most enjoyable science fiction thrillers to reach the screen in months.",
+      "review_date": "2016-03-13"
+    },
+    {
+      "review_title": null,
+      "content": "An incredible fiction film. Very interesting the philosophical aspects a film that marked the 90s",
+      "review_date": "2020-05-27"
+    },
+    {
+      "review_title": null,
+      "content": "The movie gets me through the holidays. Makes me feel like it's a new movie every single time. Excellent special effect (iconic, in fact) and is the best example of \"thinking outside of the box\" with regard to movies.",
+      "review_date": "2020-10-05"
+    },
+    {
+      "review_title": null,
+      "content": "The Matrix is a heart pounding, shocking, stylistic action film that somehow successfully combines Plato's Cave allegory with the peak of late 1990s cool.",
+      "review_date": "2021-10-25"
+    },
+    {
+      "review_title": null,
+      "content": "The most visually stunning, psychologically astonishing, groundbreaking film the world has ever seen. It combines elements of philosophy, martial arts, and wonder to make a perfectly balanced and thrilling movie. Plus, it has a real cast of The most visually stunning, psychologically astonishing, groundbreaking film the world has ever seen. It combines elements of philosophy, martial arts, and wonder to make a perfectly balanced and thrilling movie. Plus, it has a real cast of actors, including Keanu Reeves as Neo, Lawrence Fishburne as Morpheus, and Carrie-Ann Moss as Trinity. Even if you're not into kung fu fight scenes, this movie will still satisfy you with its wonder and philosophical elements. Some movies go overboard with special effects and fight scenes, but this one does not. It has a perfect balance of fight scenes and philosophical things. Note: You have to see this movie a few times before you really understand everything that is being said.",
+      "review_date": "2006-12-09"
+    },
+    {
+      "review_title": null,
+      "content": "Movie was great. Effects, Storyline, Scripts.",
+      "review_date": "2006-08-03"
+    },
+    {
+      "review_title": null,
+      "content": "The movie is excellent! I did not even pay attention to the special effects, It is the concept that really rocks! Extremely mind blowing! This is the best movie I ever saw!",
+      "review_date": "2007-12-20"
+    },
+    {
+      "review_title": null,
+      "content": "Oh my god this film is brilliant. It has blown my mind. Thank you god for giving me the Matrix!",
+      "review_date": "2005-10-13"
+    },
+    {
+      "review_title": null,
+      "content": "Omg OMG exelent as both bill and teds just not as funny specilfx are brill and agent smith dude i need thst suit a spex they r great.",
+      "review_date": "2005-11-04"
+    },
+    {
+      "review_title": null,
+      "content": "Nothing like this has really been made before. A combination of theology, philosophy, kungfu and cyberworld.",
+      "review_date": "2005-12-05"
+    },
+    {
+      "review_title": null,
+      "content": "'The Matrix' is a revolution in the sci-fi genre. It's simply amazing!!!",
+      "review_date": "2006-01-12"
+    },
+    {
+      "review_title": null,
+      "content": "Easily in top 20 greatest movies of all time.Action packed from start to finish.",
+      "review_date": "2007-10-24"
+    },
+    {
+      "review_title": null,
+      "content": "The most undoubtedly cool movie in a very long time. An absolute pity about the sequels. Sigh.",
+      "review_date": "2007-02-25"
+    },
+    {
+      "review_title": null,
+      "content": "A fantastic film that is as creative as science-fiction films get. A great take on the \"What if\" question, and although the action is a bit over the top, it's supposed to be and it doesn't go too far. Makes you think and combines A fantastic film that is as creative as science-fiction films get. A great take on the \"What if\" question, and although the action is a bit over the top, it's supposed to be and it doesn't go too far. Makes you think and combines good use of colour, atmosphere and truly believable fear from some of the characters to make on of the best sci-fi films ever. Go buy it. It's just a shame the sequels were so bad.",
+      "review_date": "2008-01-15"
+    },
+    {
+      "review_title": null,
+      "content": "Best movie Ive ever seen besides Braveheart. The fight scenes were amazing. Loved the rotating camera and slow motion effects. The story line was really good. Anyone that does not give this movie a ten obviously has bad taste in movies or Best movie Ive ever seen besides Braveheart. The fight scenes were amazing. Loved the rotating camera and slow motion effects. The story line was really good. Anyone that does not give this movie a ten obviously has bad taste in movies or just didn't really understand the movie!.",
+      "review_date": "2009-06-01"
+    },
+    {
+      "review_title": null,
+      "content": "WOW! The special effects were amazing and the stunts in the movie were really cool and fun to watch.",
+      "review_date": "2006-12-12"
+    },
+    {
+      "review_title": null,
+      "content": "Although difficult to understand at times, this action packed masterpiece brought together brilliant action sequences and fantastic filming to bring you a really great film.",
+      "review_date": "2007-06-29"
+    },
+    {
+      "review_title": null,
+      "content": "This was billed as the action movie of the millennium. And it really was hard to argue with that. One of the best movies ever and the best sci-fi movie ever. With stunning set pieces and fight scenes, its a must see. A shame the third film This was billed as the action movie of the millennium. And it really was hard to argue with that. One of the best movies ever and the best sci-fi movie ever. With stunning set pieces and fight scenes, its a must see. A shame the third film was such drivel.",
+      "review_date": "2007-07-26"
+    },
+    {
+      "review_title": null,
+      "content": "Its funny how some people give this movie a low rating. I don't think they fully understand the concept of a simulated reality. There are many actual scientific hypothesis regarding the subject, many of which seem extremely logical and Its funny how some people give this movie a low rating. I don't think they fully understand the concept of a simulated reality. There are many actual scientific hypothesis regarding the subject, many of which seem extremely logical and involve Quantum Computers trying to calculate every possible combination and outcome of everything. Another considers the progression of technology and computer systems, and how they are already running complex simulations to help us decide the best course of action in many situations and where resources should be allocated. The matrix falls under the category of \"Brain-computer interface\" or \"direct neural interface\" and correlates directly with Neuroprosthetics which is an actual area of neuroscience. This is the first film to consider technologies impact on primitive culture, and the behavior which could result from direct technological integration into semi-intelligent organic life.",
+      "review_date": "2008-10-26"
+    },
+    {
+      "review_title": null,
+      "content": "Gobsmacked all the way! This is a mile marker movie in the cinema time line. The cinematography is ground breaking and impressive - evidenced by how much it has been imitated. It is a movie for both Joe Six-pack and the philosopher at the Gobsmacked all the way! This is a mile marker movie in the cinema time line. The cinematography is ground breaking and impressive - evidenced by how much it has been imitated. It is a movie for both Joe Six-pack and the philosopher at the same time. Joe S. will be satisfied with the Kung-Fu action and gun fighting expolosions, while the philosopher will scratch their chin with a new perspective on Descartes' Mind-Body problem. The kissy-kissy scene between Neo and Trinity is a bit hokey ... but I survived it and still left the theater slack-jawed. The next two movies in the trilogy do not follow this one very well. In fact, I think the trilogy is still incomplete. I am waiting for the next two...proper follow-ups.",
+      "review_date": "2008-02-24"
+    },
+    {
+      "review_title": null,
+      "content": "Phenomenal don't believe any of the ratings under a 7, they're simply trying to keep you from being unplugged.",
+      "review_date": "2008-07-12"
+    },
+    {
+      "review_title": null,
+      "content": "Great movie, one of my favorites. The ideas introduced in this movie were fascinating.",
+      "review_date": "2005-12-28"
+    },
+    {
+      "review_title": null,
+      "content": "It's been nearly 20 years since The Matrix originally premiered, and it's tapping in and understanding of digital technology and culture from 1999 has aged so well. Though there are some sequences that look just a bit dated with the use ofIt's been nearly 20 years since The Matrix originally premiered, and it's tapping in and understanding of digital technology and culture from 1999 has aged so well. Though there are some sequences that look just a bit dated with the use of earlier CGI, this film still holds its own because the emphasis for SVFX at the time this was made was put on practical effects and NOT CGI. The final, climactic third act looks absolutely stunning still! This is a very layered story and world, and each time I have watched it I've gotten more and more out of it. There's a perfect relationship between the themes of fate and destiny + the existence of free will; Neo does not become, \"The One,\" until HE chooses to do remarkable things in desperate times. He does not become, \"The One,\" until Trinity chooses to express her love for him. He does not become, \"The One\" until he chooses to believe in himself.",
+      "review_date": "2018-05-10"
+    },
+    {
+      "review_title": null,
+      "content": "When it comes to \"The Matrix\", believe all the good things people say about it because they're all true. This film is a win, a jackpot and you will not regret watching this, I promise.",
+      "review_date": "2016-10-29"
+    },
+    {
+      "review_title": null,
+      "content": "Classic movie that is still as relevant and bad-ass as it was the day it came out. Perfect movie for Keanu Reeves acting style, and Carrie-Anne Moss was the hottest, baddest thing on film.",
+      "review_date": "2016-10-03"
+    },
+    {
+      "review_title": null,
+      "content": "This was an amazing movie. The story is mind-blowing and presented in a very unique almost comic book style way with great cinematography. The writing could use a little work, but the philosophy and metaphors are spot on and suck in theThis was an amazing movie. The story is mind-blowing and presented in a very unique almost comic book style way with great cinematography. The writing could use a little work, but the philosophy and metaphors are spot on and suck in the viewer to the movie's universe. The visual effects pushed the industry limits at the time and still hold up to today's standards. I'd recommend this to everyone who enjoys movies, its a movie that can stand as a base line in comparing other sci fi movies.",
+      "review_date": "2016-11-06"
+    },
+    {
+      "review_title": null,
+      "content": "Truly a genre defining film. Exhilarating action, mind bending plot and amazing sfx. If you have ever played Deus Ex before watching this movie (like I did), you'll definitely get some of its vibes from it.",
+      "review_date": "2017-11-16"
+    },
+    {
+      "review_title": null,
+      "content": "The whachowsky´s sister are two absolute masterminds of cinema. Can´t wait to watch all their films?",
+      "review_date": "2021-12-01"
+    },
+    {
+      "review_title": null,
+      "content": "those that say the plot is stupid are the ones that either didnt understand it or trying to make their promotion by it. Only the idea residing beneath this movie is even makes it worth experiencing it for",
+      "review_date": "2017-12-12"
+    },
+    {
+      "review_title": null,
+      "content": "The Matrix is a movie classic. This is a rather timeless film, mainly due to its effects, which look absolutely breathtaking, and at the same time it is a film from the 90s. The story is excellent and contains several legendary scenes. TheThe Matrix is a movie classic. This is a rather timeless film, mainly due to its effects, which look absolutely breathtaking, and at the same time it is a film from the 90s. The story is excellent and contains several legendary scenes. The action scenes are also excellent and the soundtrack doesn't even need to be explained how masterful he is. This is just a MUST-SEE movie.",
+      "review_date": "2020-09-27"
+    },
+    {
+      "review_title": null,
+      "content": "A Dazzling start Of a Wonderful Franchise The Actions are Amazing And Music Is Amazing",
+      "review_date": "2021-09-26"
+    },
+    {
+      "review_title": null,
+      "content": "The Matrix is a movie classic. This is a rather timeless film, mainly due to its effects, which look absolutely breathtaking, and at the same time it is a film from the 90s. The story is excellent and contains several legendary scenes. TheThe Matrix is a movie classic. This is a rather timeless film, mainly due to its effects, which look absolutely breathtaking, and at the same time it is a film from the 90s. The story is excellent and contains several legendary scenes. The action scenes are also excellent and the soundtrack doesn't even need to be explained how masterful it is. This is a MUST-SEE movie.",
+      "review_date": "2021-08-08"
+    },
+    {
+      "review_title": null,
+      "content": "This film is the start of one of the greatest movie trilogy of all time, and the special effects make this movie awesome. (Along with Hugo Weaving as Agent Smith.)",
+      "review_date": "2021-09-29"
+    },
+    {
+      "review_title": null,
+      "content": "Very good film. The plot is great. And the action scenes are very epic. So yeah.",
+      "review_date": "2021-10-09"
+    },
+    {
+      "review_title": null,
+      "content": "Watching this in 2021 for a 1999 the special effects still impress me, and the cast and plot is the state of art",
+      "review_date": "2021-10-27"
+    },
+    {
+      "review_title": null,
+      "content": "I honestly believe this is the greatest sci-fi movie ever made, even better than 2001: A Space Odyssey.",
+      "review_date": "2021-11-02"
+    },
+    {
+      "review_title": null,
+      "content": "There are a lot of flaws with the movie like pacing and Neo being a literal \"Gary Stu\" is funny to me. But the movie is very influential and is a solid 8 imho.",
+      "review_date": "2021-12-23"
+    },
+    {
+      "review_title": null,
+      "content": "WOW! Amazing, best movie. Acting was great. My favorite film of all time. My score 100.",
+      "review_date": "2021-12-18"
+    },
+    {
+      "review_title": null,
+      "content": "20 years on and this still holds up. A complex story told as best as possible with a few cool action sequences in between.",
+      "review_date": "2022-01-02"
+    },
+    {
+      "review_title": null,
+      "content": "a fun sci fi action flick with fantasic action and effects . the story is pretty entertaining and keeps you interested . the film has a great plot twist that i dont think any one seeing this for the first time will ever see coming . the storya fun sci fi action flick with fantasic action and effects . the story is pretty entertaining and keeps you interested . the film has a great plot twist that i dont think any one seeing this for the first time will ever see coming . the story feels fresh and original . the acting is abit dry but fits this film and especialy Reeves who i dont think you could get any dryer then his acting .",
+      "review_date": "2010-09-02"
+    },
+    {
+      "review_title": null,
+      "content": "The best thing about the Matrix is the fact that it's such a brilliant, brilliant idea. The world you live in is virtual. In reality, you are an energy source in a jelly sac harvested by a race of machines... It makes me think of so manyThe best thing about the Matrix is the fact that it's such a brilliant, brilliant idea. The world you live in is virtual. In reality, you are an energy source in a jelly sac harvested by a race of machines... It makes me think of so many things... and I thought of whether I would take the blue pill or the red pill... you know, I'd probably take the blue pill.",
+      "review_date": "2012-02-10"
+    },
+    {
+      "review_title": null,
+      "content": "Groundbreaking synthesis of East meats West, in a brilliant sci-fi mind-scape....trippy, cool, and fun ride all around.Forget the sequels, they suck",
+      "review_date": "2011-06-06"
+    },
+    {
+      "review_title": null,
+      "content": "The thought that went into this movies plot is astounding. I can understand how some could be confused and dislike it but ive found the more i watch this film the more i love it. Some minor flaws here and there but overall an amazing film.",
+      "review_date": "2011-11-20"
+    },
+    {
+      "review_title": null,
+      "content": "If You Ever had to choose one movie for your unborn child to see. It would definitely be the matrix. FREE YOUR MIND.   The perfect illustration of control and power and how it influences everything around you",
+      "review_date": "2013-02-07"
+    },
+    {
+      "review_title": null,
+      "content": "A mind-bending movie. The story of Neo, a computer hacker who learns that the entire world is simply a dream created by machines to keep human's minds occupied so they can be harvested for energy, is incredible, simply because one day it mayA mind-bending movie. The story of Neo, a computer hacker who learns that the entire world is simply a dream created by machines to keep human's minds occupied so they can be harvested for energy, is incredible, simply because one day it may actually happen. The fights are incredibly choreographed, and the special effects were revolutionary for their time, and still hold up today. Buckle up and prepare for The Matrix! (and its crappy sequels).",
+      "review_date": "2013-12-11"
+    },
+    {
+      "review_title": null,
+      "content": "The Matrix was genius. Acting was great, the story: perfection, direction was perfect, and then the fights were absolutely badass, and anyone who's seen it would agree.",
+      "review_date": "2014-07-17"
+    },
+    {
+      "review_title": null,
+      "content": "The beginning of the movie for me was very confusing but by the end all your questions will be answered. The slo-mo and CGI make the tricks a whole lot better.",
+      "review_date": "2014-04-26"
+    },
+    {
+      "review_title": null,
+      "content": "First off, I would give matrix a 9.5 out of 10. Visuals are great, and so are the action sequences. They're really epic, plus they're great to watch. Score is great. The story is also very good to. Acting is really good. Everyone does a greatFirst off, I would give matrix a 9.5 out of 10. Visuals are great, and so are the action sequences. They're really epic, plus they're great to watch. Score is great. The story is also very good to. Acting is really good. Everyone does a great job throughout the movie. Overall, The Matrix is a great sic-fi action blockbuster that a great movie to watch. You really should watch this movie.",
+      "review_date": "2012-04-02"
+    },
+    {
+      "review_title": null,
+      "content": "Really recommend this movie (not the sequels however). Good plot and storyline, nice special effects (not too overdone) and if you can overlook the plot holes and suspend disbelief, your in for a great ride!",
+      "review_date": "2014-06-08"
+    },
+    {
+      "review_title": null,
+      "content": "The Matrix was (in 1999) a complete revolution in Hollywood film-making. Combining state of the art CGI effects, proper old-school Hong Kong style fight choreography, and an intelligent, well written story... It comes together and creates anThe Matrix was (in 1999) a complete revolution in Hollywood film-making. Combining state of the art CGI effects, proper old-school Hong Kong style fight choreography, and an intelligent, well written story... It comes together and creates an instant classic.\r It's one of those 'where were you when you first saw it' movies, that resonate for years afterwards in your own mind. Asking questions about human existence, free will, fate, morality, duality of self... It's a philosophical debate hiding inside a kick-ass action movie.\r It's one of the most 'complete' films too, with an ending that makes sense and leaves the imagination to wonder what might actually happen.\r Two vastly inferior 'cash-grab' sequels followed, no doubt at the insistence of a studio desperate for more, and probably used as a gun to the head to the Wachowski Brothers.\r It's not a perfect movie, the whole 'Jesus' paradigm is a little forced, and the much lauded 'bullet time' special effect now looks very dated!\r But, forget the sequels, watch the original. If you've never seen it, I guarantee it won't disappoint.",
+      "review_date": "2016-02-27"
+    },
+    {
+      "review_title": null,
+      "content": "Well, after all these years of gaming communities being inspired by it as well as parodies from other films. I finally watched it. The film is confusing in some ways but it really makes you think. The film is very entertaining and has veryWell, after all these years of gaming communities being inspired by it as well as parodies from other films. I finally watched it. The film is confusing in some ways but it really makes you think. The film is very entertaining and has very impressive CGI for 1999. It's definitely worth watching.",
+      "review_date": "2013-02-09"
+    },
+    {
+      "review_title": null,
+      "content": "No matter how mush times you watch this, its always entertaining. The story is very deep, the cast is great and the special effects are still good even if this game out more 11 years ago.",
+      "review_date": "2011-01-15"
+    },
+    {
+      "review_title": null,
+      "content": "After I have seen The Matrix, I instantly placed it at the #1 spot of the list of my favorite movies. Since then, 13 years has passed, I have seen over a hundred new movies. The Matrix still occupies that top spot. Inception was good, but noAfter I have seen The Matrix, I instantly placed it at the #1 spot of the list of my favorite movies. Since then, 13 years has passed, I have seen over a hundred new movies. The Matrix still occupies that top spot. Inception was good, but no where near The Matrix good. If you haven't seen The Matrix series, I pity you, for you have missed the BEST movie ever made, go see it NOW!",
+      "review_date": "2012-01-12"
+    },
+    {
+      "review_title": null,
+      "content": "I feel bad for those morons who think The Matrix sucks. this is a brilliant movie full of epic nonstop action. If you like movie with awsome acting,music, and badass slo-motion fight scenes, etc. then get this, if you aren't... well buyI feel bad for those morons who think The Matrix sucks. this is a brilliant movie full of epic nonstop action. If you like movie with awsome acting,music, and badass slo-motion fight scenes, etc. then get this, if you aren't... well buy Legend of the Guardians.",
+      "review_date": "2011-05-10"
+    },
+    {
+      "review_title": null,
+      "content": "Despite TRON being my all time, video game related movies of all time, The Matrix is my all time bad ass, cool, computer/hacker movies.  I find it hard NOT to love.  It has action, martial arts so the 'easily entertained by action' viewersDespite TRON being my all time, video game related movies of all time, The Matrix is my all time bad ass, cool, computer/hacker movies.  I find it hard NOT to love.  It has action, martial arts so the 'easily entertained by action' viewers can have something, the 'computer goers' like myself have something to get into and when it's all thrown together it makes the perfect combination of action and story.",
+      "review_date": "2011-09-10"
+    },
+    {
+      "review_title": null,
+      "content": "The best sci-fi movie of its time.Excellent original soundtrackI still keep the thinking as a reference for some of my work and my everyday life. Loved it.",
+      "review_date": "2011-11-29"
+    },
+    {
+      "review_title": null,
+      "content": "In my top ten movies of all time. What a shame the sequels sputtered out or this Trilogy could have been the most epic in the history of film making. Could have been our generation's STAR WARS. Woulda, Coulda, Shoulda.",
+      "review_date": "2011-08-24"
+    },
+    {
+      "review_title": null,
+      "content": "Amazing, definitely a timeless masterpiece. Some of the utmost original storylines of science-fiction genre, introducing a brilliant and new reality that will break with all the standards and blow away your mind. The perfect combinationAmazing, definitely a timeless masterpiece. Some of the utmost original storylines of science-fiction genre, introducing a brilliant and new reality that will break with all the standards and blow away your mind. The perfect combination between action scenes that will keep you on the edge of your seat and reflective dialogues concerning the movie's very deep theme. Additionally, the technical production is astonishing with very good graphic special effects that form an unbelievably awesome visual appeal. Truly a must-watch production that will not leave you unchanged.",
+      "review_date": "2012-01-07"
+    },
+    {
+      "review_title": null,
+      "content": "This movie was a well done action movie. It has some problems with the story line, but the action scenes are undeniably astonishing. This movie introduced the Slow Motion concept to other movie makers, and it has been a hit ever since. IThis movie was a well done action movie. It has some problems with the story line, but the action scenes are undeniably astonishing. This movie introduced the Slow Motion concept to other movie makers, and it has been a hit ever since. I would definitely consider this movie to be a modern classic action film. The movie certainly goes above and beyond the standard 90's movie.",
+      "review_date": "2012-01-15"
+    },
+    {
+      "review_title": null,
+      "content": "Beautifully filmed and written. Best film of all time. The charcters are so real and engaging, the settings are perfect and I couldn't find a single fault if I tried.",
+      "review_date": "2012-01-06"
+    },
+    {
+      "review_title": null,
+      "content": "This film is much more than most of people can understand.It just try to open our eyes, we are in the matrix and this world is not what we think it is, and this movie is made by this people for this people, just as James Cameron Avatar thatThis film is much more than most of people can understand.It just try to open our eyes, we are in the matrix and this world is not what we think it is, and this movie is made by this people for this people, just as James Cameron Avatar that shows to the world the true reality, from whence we came and where we can go.",
+      "review_date": "2012-05-25"
+    },
+    {
+      "review_title": null,
+      "content": "The Matrix\rAverage User Score: 8.7\r10\r\nThe Matrix Image\r\nThe Matrix takes mystery school concepts and philosophies of Gnosticism, Eastern religions, Western Religions and even ideas from the Natural Law movement and blends them together toThe Matrix\rAverage User Score: 8.7\r10\rThe Matrix Image\rThe Matrix takes mystery school concepts and philosophies of Gnosticism, Eastern religions, Western Religions and even ideas from the Natural Law movement and blends them together to create a cryptic, symbolic action film. Everything in this movie has occult meaning, but it's up to us, the viewers to figure out what that meaning is. This movie is like a puzzle. But this is all done in a very cool, entertaining way with awesome special effects (cutting edge at the time it was released) and great memorable action scenes, some which have greatly influenced the special effects of Hollywood movies produced afterwards. My only complaint about this movie is the way the love of Neo by Trinity is revealed, I mean you have no idea and I remember in the theater myself and everyone around me groaning since the whole love story in action films thing has been done to death and this seemed so cliche. The love between Trinity and Neo is very important to the trinity in the long run but imo it could have been introduced in a much better manner, maybe some flirting scenes leading up to it because you just don't see it coming at all which makes it really unrealistic. But other than that a great, epic movie.\r The Matrix (and the entire Matrix Trilogy) is like an onion, it has many layers of meaning, and every-time I watch it I notice something new. Definitely a masterpiece with profound hidden meaning and my favourite movie off all time to this day. 10/10",
+      "review_date": "2012-12-06"
+    },
+    {
+      "review_title": null,
+      "content": "...................................................................................................................................................................A Masterpiece movie of sci-fi & action, with a smart script...",
+      "review_date": "2016-04-04"
+    },
+    {
+      "review_title": null,
+      "content": "This is the best sci-fi movie ever made, together with Star Wars IV and V, of course. I can't tell you much about it. You REALLY need to watch it so you can make conclusions.",
+      "review_date": "2013-06-08"
+    },
+    {
+      "review_title": null,
+      "content": "Anyone who dislikes this film obviously doest understand what it is about and what point it is trying to get across. One of my favourite movies of all time.",
+      "review_date": "2016-01-16"
+    },
+    {
+      "review_title": null,
+      "content": "I strongly recommend this film; it's a golden experience that will change your life for the better.\r The effects still look great even fifteen years later. The story offers much food for thought. Morpheus, Neo, and Trinity transcend mereI strongly recommend this film; it's a golden experience that will change your life for the better.\r The effects still look great even fifteen years later. The story offers much food for thought. Morpheus, Neo, and Trinity transcend mere character into archetype. But who HASN'T felt as if this life is something less than it seems? This stands alongside 'Serenity' among science-fiction cinema's greatest champions of human liberation and truth. If you care about your mind, see this. You will not be disappointed.",
+      "review_date": "2014-05-03"
+    },
+    {
+      "review_title": null,
+      "content": "Easily the best movies ever made. Amazing action and story, great acting, too. I don't want to spoil anything because this is too good, just watch it. You will crap your pants, at the sheer awesomeness.\r And don't forget all of theEasily the best movies ever made. Amazing action and story, great acting, too. I don't want to spoil anything because this is too good, just watch it. You will crap your pants, at the sheer awesomeness.\r And don't forget all of the unforgettable lines like \"Not like this, not like this\"\r Watch this movie or I will find you, I will hurt you, then I will kill you.",
+      "review_date": "2013-12-12"
+    },
+    {
+      "review_title": null,
+      "content": "\"You have to understand, most of these people are not ready to be unplugged. And many of them are so inured, so hopelessly dependent on the system, that they will fight to protect it. \"\rMorpheus",
+      "review_date": "2013-12-26"
+    },
+    {
+      "review_title": null,
+      "content": "The Matrix is a classic science fiction film that has a astonishing three  dimensional cartoon world and has artsy action like you would see in a comic book but in 3D. What makes the film special, is it's taking a journey with it's charactersThe Matrix is a classic science fiction film that has a astonishing three  dimensional cartoon world and has artsy action like you would see in a comic book but in 3D. What makes the film special, is it's taking a journey with it's characters and people watching the movie trying to figure out this matrix universe, the film does not spoon feed the audience. It describe many details as possible. Neil (Keanu Reeves) is a young hacker who wants to know what is the matrix, so he thinks Morpheus (Laurence Fishburne) the dangerous man alive, to answer his question. He is contacted by Trinity (Carrie-Anne Moss) so they can go to a mysterious underworld were they'll meet Morpheus. Their fighting for their lives against intelligent secret agents. It is a truth that could cost Neo something more precious than his life. I don't care if people think Reeves is a bad actor, to be honest he's like able but this guy is trying to make his character awesome, likeable and to root for while he proves he's a physical actor, which makes the action more better. Laurence Fishburne as the leader is the best leader in the film, he awnsers all the questions that audiences have, he's something people need while watching the film. Writen and directed by the Wachowski brothers, they put so much detail in their marvel script and if there's one thing that they achieve in directing their action block busters is understanding the art of an action scene. Bill Pope's camera work is so mindblowing and that's why the Matrix is equally good about the film, and make the action scene more better. The film is well-made, astonishing camera work  and written  and directed by the talented Wachowski brothers. Grade A+",
+      "review_date": "2015-07-08"
+    },
+    {
+      "review_title": null,
+      "content": "If I was dying and had to recommend to my child only 1 film to watch until they understand it fully, it would be the Matrix (trilogy).\r That's how good it is.",
+      "review_date": "2014-07-14"
+    },
+    {
+      "review_title": null,
+      "content": "My third favorite movie ever and one of the four films I consider to be perfect.  While Keanu Reeves delivers his usual grade of acting, he more than makes up for it as the badass hero.  The premise, while questionable from a logicalMy third favorite movie ever and one of the four films I consider to be perfect.  While Keanu Reeves delivers his usual grade of acting, he more than makes up for it as the badass hero.  The premise, while questionable from a logical standpoint, is haunting and deeply thought-provoking.  The effects still hold up today and give the action sequences a special charm.  Oh, and the ending is just one of the most satisfying ever.\r The Matrix is definitely a 10/10 in my book.",
+      "review_date": "2015-01-17"
+    },
+    {
+      "review_title": null,
+      "content": "I am just fascinated by the idea of the movie:\"Human reproduction has stopped, humans are used as an infinite source of energy.\" So basically they are grown as mere vegetables.\rEveryone agrees that the fight sequences are more than awesome.I am just fascinated by the idea of the movie:\"Human reproduction has stopped, humans are used as an infinite source of energy.\" So basically they are grown as mere vegetables.\rEveryone agrees that the fight sequences are more than awesome. Special effects are spectacular considering the year the film was made.\rThe first part of The Matrix is more than enough to satisfy your expectations from a sci-fi movie.",
+      "review_date": "2014-09-07"
+    },
+    {
+      "review_title": null,
+      "content": "the only thing that even comes close to this is LOTR....but this is even more anti gov than anything i've ever heard of.....therefore this movie number 1 despite the sequels.....the fact that he gets covered in a mirror only makesthe only thing that even comes close to this is LOTR....but this is even more anti gov than anything i've ever heard of.....therefore this movie number 1 despite the sequels.....the fact that he gets covered in a mirror only makes metaphorical sense but like it a lot...the fact that the first cops are already dead is kinda lame....who cares....also who cares that morphius can only guide neo to evade the agents in the beginning.....that seriously might be all thats wrong with it .....whats wrong with me now is the question....- JRA",
+      "review_date": "2015-02-23"
+    },
+    {
+      "review_title": null,
+      "content": "This review contains spoilers, click expand to view.\n        \nGet this: what if all we know as reality was, in fact, virtual reality? Reality itself is a ravaged dystopia run by technocrat Artificial Intelligence where humankind vegetates in billions of gloop-filled tanks - mere battery packs for the machineworld - being fed this late '90s VR (known as The Matrix - you with us here?) through an ugly great cable stuck in the back of our heads. And what if there was a group of quasi-spiritual rebels infiltrating The Matrix with the sole purpose of crashing the ruddy great mainframe and rescuing humans from their unknown purgatory? And, hey, what if Keanu Reeves was their Messiah?\r What sounds like some web freak's wet dream is, in fact, a dazzlingly nifty slice of sci-fi cool. The Wachowski Brothers (Andy and Larry - last seen dabbling in kinky lesbian noir with the excellent Bound) pulling off something like a million masterstrokes all at once. Taking the imprimatur of the video game, they meld the grungy noir of Blade Runner, the hyperkinetic energies of chopsocky, John Woo hardware and grandiose spiritual overtones into William Gibson's cyberpunk ethos to produce a new aesthetic for the millennium powered to the thudding beat of techno. And it is just incredible fun. The key is the technique of \"flo-mo\", a process born from Japanese animation, whereby an object in motion is seemingly frozen while the camera miraculously spins around it as if time and gravity are on hold. It grants the action (including some killer kung fu which Reeves and crew spent months perfecting) liberty to take on surreal visual highs. Superhuman feats permissible, of course, in the context of VR as the rebels download Herculean \"talents\" to fuel their subterfuge. Meanwhile, the audience can only gawp longingly, with its jaws thunking to the cinema floor in unison, as the heroes wrapped in skintight leather, sleek shades and designer cheekbones, spin up walls, leap from high rises and slip through streams of bullets in silken slo-mo. Tron this ain't.\r Immediately reigniting the moribund cyberpunk genre (the kids can't get enough Stateside), this has thrust Reeves from his imploding career back to Speed highs (and laying to rest the hideous ghost of Johnny Mnemonic) and stolen much more of Star Wars' thunder than was thought humanly possible. For all its loony plot, The Matrix is fabulous.\r Sure, the expert Fishburne is depended upon to expound the lion's share of the script as seer-like rebel leader Morpheus. Reeves, stunning in his newcast slenderness, as Thomas \"Neo\" Anderson, the hacker turned hope for all mankind (care of some ill-defined mystical calling) is asked little more than perpetual befuddlement. Like Speed, though, this movie plays on his iconic looks rather than his oak-like emoting. There's a major find, too, in the irresistible Carrie-Anne Moss, a majestically wrought combination of steely **** intelligence and rock-chick vivaciousness as fellow tripper Trinity. And Weaving, cast against type, neutralises his Aussie tones to a freaky deadpan, the head of the MiB-styled defence system set against the Goth invaders.\r And sure, three minutes of post-movie deliberation and all this state-of-the-art cyberdevilry is reduced to the purest **** That, though, is not the point. The Matrix is about pure experience; it's been many a moon since the Empire crew have spilled out of a cinema literally buzzing with the sensation of a movie, babbling frenetically with the sheer excitement of discovery.\r From head to tail, the deliciously inventive Wachowskis (watch them skyrocket) have delivered the syntax for a new kind of movie: technically mind-blowing, style merged perfectly with content and just so damn cool, the usher will have to drag you kicking and screaming back into reality. You can bet your bottom dollar George never saw this phantom menace coming.\r Verdict\rThe deliciously inventive Wachowskis have delivered the syntax for a new kind of movie: technically mind-blowing, style merged perfectly with content and just so damn cool.",
+      "review_date": "2015-04-19"
+    },
+    {
+      "review_title": null,
+      "content": "Don't miss the first minute of this movie.  That's how fast and interesting it is.  And the most interesting concept of it all, that we are not really here.  Our perception of the world is a computer construct that we are hard wired into.Don't miss the first minute of this movie.  That's how fast and interesting it is.  And the most interesting concept of it all, that we are not really here.  Our perception of the world is a computer construct that we are hard wired into.  Too far out?  Then you won't like this.  By the way, Neo (Keanu) goes to a bar to meet his contact.  That bar is in Australia.  It was not constructed for this movie.  It and the patrons look like that everyday.  Too far out?  The sequels went downhill from this movie so I only have this one in my collection.",
+      "review_date": "2015-11-29"
+    },
+    {
+      "review_title": null,
+      "content": "Not the best movie of all time, but I really appreciate ambitious movies that are full of interesting ideas. The matrix is certainly ambitious and has many new, interesting ideas. A lot of fun to watch.",
+      "review_date": "2015-12-22"
+    },
+    {
+      "review_title": null,
+      "content": "The peak of Science-Fiction and also Action films. We owe gratitude to Lilly and Lana Wachowski, the creators of this absolute masterpiece. I'm not going to do dissection, write an analysis with risk to devalue the film and it's qualities. SoThe peak of Science-Fiction and also Action films. We owe gratitude to Lilly and Lana Wachowski, the creators of this absolute masterpiece. I'm not going to do dissection, write an analysis with risk to devalue the film and it's qualities. So just watch it and feel for yourself.",
+      "review_date": "2018-04-17"
+    },
+    {
+      "review_title": null,
+      "content": "THE MATRIX is the best action movie ever made in my list. When Matrix released on its time, thiz movie created many breakthrough on world cinema. Directed by Larry and Andy Wachowski, who is just recently popular in thiz movie. They justTHE MATRIX is the best action movie ever made in my list. When Matrix released on its time, thiz movie created many breakthrough on world cinema. Directed by Larry and Andy Wachowski, who is just recently popular in thiz movie. They just known previously as small budget film Director, BOUND (1996). Later, the movie has two more sequels MATRIX RELOADED and MATRIX REVOLUTION in 2003. You can almost classify the Stars of thiz movie as B-Class Casts, except Keanu Reeves, but still the outcome is beyond the expectations. Each of the characters like: Neo (Keanu Reeves), Morpheus (Laurence Fishburne), Trinity (Carrie-Anne Moss) , even the villain Agent Smith (Hugo Weaving) already become a legendary icon in the industries. One of the fervencies of thiz movie is on the action scene. The fight scene is something new and different, which follows later by other movies. Behind that extraordinary fight scene is well-known Martial Arts Choreographer, Yuen Woo Ping. Woo Ping is the man behind CROUCHING TIGER, HIDDEN DRAGON(2000), KILL BILL (2003),THE FORBIDDEN KINGDOM (2008), even Jackie Chan classic action SNAKE IN THE EAGLE SHADOW (1978). His experiences in a lot of Asian movies made him effective.  The movie definitely exceed beyond our imagination. In fact, many people did not understand entirely the story of THE MATRIX, there are still many blank spot to question about. The Content of the movie fills with great philosophies inside. It seemed to me Wachowski Brothers discovered successfully how to make a brilliant concept from some of religions. The essence is not that simple as appear to be, Actually we will always have something new, every time we watch it.\r Visit My Blog on JONNY'S MOVEE: http://jonnyfendi.blogspot.com",
+      "review_date": "2011-01-20"
+    },
+    {
+      "review_title": null,
+      "content": "Saw this movie for the first time yesterday. Although a lot of it was cheesy and the costumes were ridiculous, it was very engrossing and I was never bored.",
+      "review_date": "2013-10-21"
+    },
+    {
+      "review_title": null,
+      "content": "The late '90s were a period in film that saw a sudden resurgence in science fiction. The quickly approaching Y2K symbolised a time of transition, wonder, and technological advancement. Though these positives are reflected in The Matrix, it isThe late '90s were a period in film that saw a sudden resurgence in science fiction. The quickly approaching Y2K symbolised a time of transition, wonder, and technological advancement. Though these positives are reflected in The Matrix, it is mostly the negative aspects of the new millennium's dawn that it feeds upon. Paranoia, uncertainty, and fear are the themes that the film addresses like no other in Hollywood at the time, while simultaneously being action-packed and visually stunning. What The Matrix is perhaps most well known for, however, is its complex, engaging plot that almost any viewer can relate to. All of this is delivered with superb direction, making full use of subtle nuances and symbolism to embellish the story. The only misstep lies in the casting of Reeves, who is so painfully uncharismatic and distant in his performance that it's puzzling how he could ever be the chosen one of anything.",
+      "review_date": "2012-02-11"
+    },
+    {
+      "review_title": null,
+      "content": "After all those years this still remains probably the most perfect scifi action movie to date (together with T2). Maybe it only has 415 VFX shots (a romantic comedy these days has more vfx shots) but they are all used where they count theAfter all those years this still remains probably the most perfect scifi action movie to date (together with T2). Maybe it only has 415 VFX shots (a romantic comedy these days has more vfx shots) but they are all used where they count the most and they still hold up very well for an almost 14 year old film. The Blu-ray transfer is absolutely exellent and as good as a 35mm on BD can ever look. There's not a scratch to be seen, not the slightest woble and just the right amount of grain (no NR). Some have complained about the colors but for me they look as they should be (the Matrix world a bit more greenish than the real world) and the detail in the black levels (of which there are allot) is perfect (on the first DVD release they were a bit mushy). The Dolby 5.1 sound of the DVD was already superb but here you get it in an uncompressed TrueHD track.",
+      "review_date": "2013-01-12"
+    },
+    {
+      "review_title": null,
+      "content": "The Matrix was a damn good movie.  This is review for the first movie because the other ones are in a different category (Matrix Reload, Matrix Revolutions).  The movie starts off with the audience saying, \"what the hell is going on.\"  YouThe Matrix was a damn good movie.  This is review for the first movie because the other ones are in a different category (Matrix Reload, Matrix Revolutions).  The movie starts off with the audience saying, \"what the hell is going on.\"  You don't have to wait until the end of movie to understand it.  About forty minutes into the movie you should understand it.  There is some guy Neo that is living in a dreamworld which is basically a huge computer program (that would be a butt load of html).  He eventually gets out of the dreamworld and is free.  If you want to know the rest you should see it.  Neo is played by Keanu Reeves (Speed), Agent Smith is the elf dude from Lord of the Rings, and Morphis can be found in Pee Wee's Playhouse (not kidding).  I believe that this movie helped change plot lines for movies.  This movie makes the audience confused for awhile yet the movie still kicks ass.  It seemed like many movies were sticking with simple plot lines with bombs and terrorists, etc.  Now we have movies that are confusing like Shutter Island and Inception.  The special effects in the movie are really good.  You cant tell what was computer created which is something that is not always present in today's movies.  If you have not seen this movie then you should buy and see it, because it is a movie that can be seen over and over again (the second and third Matrix movies are disappointing; so I would advice you not to necessarily buy those.",
+      "review_date": "2012-07-05"
+    },
+    {
+      "review_title": null,
+      "content": "Brilliant concept, perhaps a little more thought could have been given to the plot details, but most of this movie is for the eyes! The acting is amazing for a 1990's action film and undoubtedly one of my all-time favourites. TheBrilliant concept, perhaps a little more thought could have been given to the plot details, but most of this movie is for the eyes! The acting is amazing for a 1990's action film and undoubtedly one of my all-time favourites. The top-of-the-time CGI is breathtaking, spawning many cultural references to the 'Matrix Move' made popular by this film. Overall, this movie is extremely entertaining and will always be a favourite amongst many.",
+      "review_date": "2013-04-22"
+    },
+    {
+      "review_title": null,
+      "content": "Modern classics of Sci-Fi, this movie carries a whole philosophy in itself. Interesting setting and concept, martial arts, great fight scenes, bullet dodging and you name what else make this movie so popular, and it's popularity is fair.",
+      "review_date": "2013-09-06"
+    },
+    {
+      "review_title": null,
+      "content": "This was an awesome film that should be watched by everyone.",
+      "review_date": "2012-09-12"
+    },
+    {
+      "review_title": null,
+      "content": "Great movie. A beautiful mix of action and thought-provoking ideas. Deserves a 10 for sure. This movie is a great movie to rent if you want a great thought provoking movie like Inception, with non-stop action. The special effects are a littleGreat movie. A beautiful mix of action and thought-provoking ideas. Deserves a 10 for sure. This movie is a great movie to rent if you want a great thought provoking movie like Inception, with non-stop action. The special effects are a little cheesy though.",
+      "review_date": "2012-09-19"
+    }
+  ],
+  "num_reviews": 133
+}
