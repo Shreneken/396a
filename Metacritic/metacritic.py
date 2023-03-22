@@ -14,8 +14,8 @@ ERROR_FILE = "Metacritic/file_err_log.json"
 
 def __get_param(movie_name: str):
     """convert the movie into a url format with metacritic url format"""
-    symbols_to_remove = {".", "'", ",", ":", "&"}
-    symbols_to_replace = {" ", "(", ")"}
+    symbols_to_remove = {".", "'", ",", ":", "&", "(", ")"}
+    symbols_to_replace = {" "}
     param_char = []
     for letter in movie_name:
         if letter in symbols_to_remove:
