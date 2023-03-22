@@ -4,7 +4,7 @@ from datetime import datetime
 import calendar
 import os
 import json
-f = open("movie_titles_list.json")
+f = open("Metacritic/file_err_log.json")
 movie_list = json.load(f)
 
 HEADERS = {
@@ -14,8 +14,8 @@ ERROR_FILE = "Metacritic/file_err_log.json"
 
 def __get_param(movie_name: str):
     """convert the movie into a url format with metacritic url format"""
-    symbols_to_remove = {".", "'", ",", ":"}
-    symbols_to_replace = {" ", "&"}
+    symbols_to_remove = {".", "'", ",", ":", "&"}
+    symbols_to_replace = {" ", "(", ")"}
     param_char = []
     for letter in movie_name:
         if letter in symbols_to_remove:
@@ -23,7 +23,7 @@ def __get_param(movie_name: str):
         elif letter in symbols_to_replace:
             letter = "-"
         param_char.append(letter.lower())
-    return "".join(param_char)
+    return "".join(param_char).replace("--", "-")
 
 
 def __get_url(movie_name: str):
@@ -138,64 +138,55 @@ def create_dir(release_date):
         os.makedirs(dir_to_check)
     return dir_to_check
 
-
+error_logs = {}
 for i, movie in enumerate(movie_list):
     try:
         web_page = fetch(movie)
     except:
-        with open(ERROR_FILE, "a") as f:
-            f.write(f"{movie}: unable to find movie webpage\n")
+        error_logs[movie] = "unable to find movie webpage\n"
         continue
     bs = BeautifulSoup(web_page.content, 'html.parser')
     data = {}
     try:
         data["title"] = movie
     except:
-        with open(ERROR_FILE, "a") as f:
-            f.write(f"{movie}: unable to find movie title\n")
+        error_logs[movie] = "unable to find movie title\n"
         continue
     try:
         data["rating"] = get_rating(bs)
     except:
-        with open(ERROR_FILE, "a") as f:
-            f.write(f"{movie}: unable to find movie rating\n")
+        error_logs[movie] = "unable to find movie rating\n"
         continue
     try:
         data["release_date"] = get_release_date(bs)
     except:
-        with open(ERROR_FILE, "a") as f:
-            f.write(f"{movie}: unable to find or standardize release date\n")
+        error_logs[movie] = "unable to find or standardize release date\n"
         continue
     try:
         data["genre"] = get_genre(bs)
     except:
-        with open(ERROR_FILE, "a") as f:
-            f.write(f"{movie}: unable to find movie genre\n")
+        error_logs[movie] = "unable to find movie genre\n"
         continue
     try:
         data["summary"] = get_summary(bs)
     except:
-        with open(ERROR_FILE, "a") as f:
-            f.write(f"{movie}: unable to find movie summary\n")
+        error_logs[movie] = "unable to find movie summary\n"
         continue
     try:
         data["critic_reviews"] = get_critic_reviews(movie)
     except:
-        with open(ERROR_FILE, "a") as f:
-            f.write(f"{movie}: unable to find critic review\n")
+        error_logs[movie] = "unable to find critic review\n"
         continue
     try:
         data["reviews"] = get_user_reviews(movie)
     except:
-        with open(ERROR_FILE, "a") as f:
-            f.write(f"{movie}: unable to find movie reviews\n")
+        error_logs[movie] = "unable to find movie reviews\n"
         continue
     try:
         data["num_reviews"] = len(
             data["critic_reviews"]) + len(data["reviews"])
     except:
-        with open(ERROR_FILE, "a") as f:
-            f.write(f"{movie}: unable to compute number of reviews\n")
+        error_logs[movie] = "unable to compute number of reviews\n"
         continue
     try:
         filename = get_file_name(movie, data["release_date"], get_director(bs))
@@ -203,6 +194,8 @@ for i, movie in enumerate(movie_list):
             json.dump(data, dataset_json,  indent=2, ensure_ascii=False)
         print(f"{i}: done with {movie}")
     except:
-        with open(ERROR_FILE, "a") as f:
-            f.write(f"{movie}: unable to create file for the movie\n")
+        error_logs[movie] = "unable to create file for the movie\n"
         continue
+
+with open(ERROR_FILE, "w", encoding="utf-8") as log_error:
+    json.dump(error_logs, log_error, indent=2)
