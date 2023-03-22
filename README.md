@@ -2,7 +2,7 @@
 
 Scraping movie websites for data!
 
-### data format for each `movieName_releaseData_Director.json`:
+### data format for each `"movie_name-release_date-Director_name".json`:
  ```js
    {
       rating: rating_here,
