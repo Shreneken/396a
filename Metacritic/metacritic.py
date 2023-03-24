@@ -14,7 +14,7 @@ ERROR_FILE = "Metacritic/file_err_log.json"
 
 def __get_param(movie_name: str):
     """convert the movie into a url format with metacritic url format"""
-    symbols_to_remove = {".", "'", ",", ":", "&", "(", ")"}
+    symbols_to_remove = {".", "'", ",", ":", "&", "(", ")", "-", "?"}
     symbols_to_replace = {" "}
     param_char = []
     for letter in movie_name:
@@ -156,6 +156,8 @@ for i, movie in enumerate(movie_list):
         data["rating"] = get_rating(bs)
     except:
         error_logs[movie] = "unable to find movie rating\n"
+        # print(__get_url(movie))
+        # break
         continue
     try:
         data["release_date"] = get_release_date(bs)
@@ -196,6 +198,7 @@ for i, movie in enumerate(movie_list):
     except:
         error_logs[movie] = "unable to create file for the movie\n"
         continue
+
 
 with open(ERROR_FILE, "w", encoding="utf-8") as log_error:
     json.dump(error_logs, log_error, indent=2)
