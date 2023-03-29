@@ -5,14 +5,7 @@ import json
 import time
 import os
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
-    "Accept-Encoding": "gzip, deflate", 
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "DNT": "1",
-    "Connection": "close",
-    "Upgrade-Insecure-Requests": "1",
-}
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36'}
 
 def change_title_if_required(title):
     if ':' in title:
@@ -51,8 +44,7 @@ def get_movie_url(title):
         return movie_url.find('a')['href']
 
 def find_rating(soup):
-    rt_str = soup.find('span', attrs={'data-qa':'audience-score'}).string
-    rt_str = rt_str.replace('%',"")
+    rt_str = soup.find('score-board')['audiencescore']
     rating = float(rt_str) / 10
     return rating
 
@@ -70,7 +62,7 @@ def find_genres(soup):
     return genres
 
 def find_summary(soup):
-    summary = soup.find('p', attrs={'data-qa': 'movie-info-synopsis'}).string
+    summary = soup.find('p', attrs={'data-qa': 'movie-info-synopsis'}).string.strip()
     return summary
 
 def find_director(soup):

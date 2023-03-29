@@ -44,12 +44,8 @@ for title in movies:
 
     rating = rt.find_rating(soup)
     release_date = rt.find_release_date(soup)
-    genres = rt.find_genres(soup)
+    # genres = rt.find_genres(soup)
     summary = rt.find_summary(soup)
     num_reviews = 0
-
-    print(rating, release_date, genres, summary)
-
-    
 
 
