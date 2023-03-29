@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from requests import get
-import datetime
+from datetime import datetime
 import json
 import time
 import os
@@ -51,14 +51,14 @@ def get_movie_url(title):
         return movie_url.find('a')['href']
 
 def find_rating(soup):
-    rt_str = soup.find("span", attrs={"data-qa":"audience-score"})
+    rt_str = soup.find('span', attrs={'data-qa':'audience-score'}).string
     rt_str = rt_str.replace('%',"")
     rating = float(rt_str) / 10
     return rating
 
 def find_release_date(soup):
     rd_str = soup.find('time').string
-    dt = datetime.strptime(rd_str,"%B %d, %Y")
+    dt = datetime.strptime(rd_str,"%b %d, %Y")
     rd = str(dt.date())
     return rd
 
