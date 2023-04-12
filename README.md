@@ -2,11 +2,11 @@
 
 Scraping movie websites for data!
 
-### data format for each `"movie_name-release_date-Director_name".json`:
+### data format for each `movieName_releaseData_Director.json`:
  ```js
    {
       rating: rating_here,
-      release_date: release_date_here,
+      release_data: release_date_here,
       num_reviews: number_of_reviews_here,
       genre : [genre_here],
       summary: summary_here,
@@ -26,3 +26,7 @@ Scraping movie websites for data!
     source_movie_jsons -> 
     dir for all release dates -> 
     corresponding movies
+length by tokens, average tokens per review, number of reviews
+
+mindful of other laguages
+patterns for data
