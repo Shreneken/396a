@@ -5,8 +5,6 @@ from tqdm import tqdm
 def tag_reviews(dir_name, source):
     for date_dir in os.listdir(dir_name):
         new_dir = f"{dir_name}/{date_dir}/"
-        # print(new_dir)
-        # break
         try:
             for each_movie in tqdm(os.listdir(new_dir)):
                 try:
@@ -17,7 +15,7 @@ def tag_reviews(dir_name, source):
                             review['source'] = source
                     with open(movie_file, "w", encoding="utf-8") as dataset_json:
                         json.dump(load_curr_movie, dataset_json,  indent=2, ensure_ascii=False)
-                except:
+                except Exception:
                     print("Skipping to next movie in dir ", each_movie)
                     continue
         except Exception:
