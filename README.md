@@ -24,7 +24,7 @@ Scraping movie websites for data!
 ### Directory Structure:
     source -> 
     source_movie_jsons -> 
-    dir for all release dates -> 
+    dir for all release year | miscellaneous -> 
     corresponding movies
 length by tokens, average tokens per review, number of reviews
 
