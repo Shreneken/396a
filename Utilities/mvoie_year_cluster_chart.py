@@ -31,6 +31,7 @@ def plot_yearly_clusters(img_out_dir: str, json_out_file: str, extension: str = 
     plt.title("NUMBER OF MOVIES COLLECTED FOR A RANGE OF YEARS")
     plt.xlabel("Year Ranges")
     plt.ylabel("Number of movies")
+    ax = plt.gca()
     plt.savefig(f"{img_out_dir}yearly_clusters_image.{extension}")
 
 
