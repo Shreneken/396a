@@ -1,0 +1,675 @@
+[
+  {
+    "1917": {
+      "words": 426582,
+      "reviews": 3424,
+      "average_words_year": 124.5858644859813
+    }
+  },
+  {
+    "1924": {
+      "words": 66210,
+      "reviews": 349,
+      "average_words_year": 189.7134670487106
+    }
+  },
+  {
+    "1925": {
+      "words": 111368,
+      "reviews": 425,
+      "average_words_year": 262.0423529411765
+    }
+  },
+  {
+    "1927": {
+      "words": 230669,
+      "reviews": 840,
+      "average_words_year": 274.6059523809524
+    }
+  },
+  {
+    "1928": {
+      "words": 66133,
+      "reviews": 325,
+      "average_words_year": 203.48615384615385
+    }
+  },
+  {
+    "1930": {
+      "words": 77304,
+      "reviews": 273,
+      "average_words_year": 283.16483516483515
+    }
+  },
+  {
+    "1931": {
+      "words": 77625,
+      "reviews": 346,
+      "average_words_year": 224.34971098265896
+    }
+  },
+  {
+    "1932": {
+      "words": 81876,
+      "reviews": 297,
+      "average_words_year": 275.67676767676767
+    }
+  },
+  {
+    "1933": {
+      "words": 68257,
+      "reviews": 273,
+      "average_words_year": 250.02564102564102
+    }
+  },
+  {
+    "1934": {
+      "words": 137061,
+      "reviews": 497,
+      "average_words_year": 275.77665995975855
+    }
+  },
+  {
+    "1935": {
+      "words": 40654,
+      "reviews": 150,
+      "average_words_year": 271.02666666666664
+    }
+  },
+  {
+    "1936": {
+      "words": 94076,
+      "reviews": 348,
+      "average_words_year": 270.3333333333333
+    }
+  },
+  {
+    "1938": {
+      "words": 371199,
+      "reviews": 1491,
+      "average_words_year": 248.95975855130786
+    }
+  },
+  {
+    "1939": {
+      "words": 384219,
+      "reviews": 1590,
+      "average_words_year": 241.64716981132077
+    }
+  },
+  {
+    "1940": {
+      "words": 487813,
+      "reviews": 2015,
+      "average_words_year": 242.0908188585608
+    }
+  },
+  {
+    "1941": {
+      "words": 730408,
+      "reviews": 2976,
+      "average_words_year": 245.43279569892474
+    }
+  },
+  { "1942": { "words": 86427, "reviews": 300, "average_words_year": 288.09 } },
+  {
+    "1943": {
+      "words": 417245,
+      "reviews": 1792,
+      "average_words_year": 232.83761160714286
+    }
+  },
+  {
+    "1944": {
+      "words": 223865,
+      "reviews": 922,
+      "average_words_year": 242.80368763557485
+    }
+  },
+  {
+    "1945": {
+      "words": 71947,
+      "reviews": 249,
+      "average_words_year": 288.9437751004016
+    }
+  },
+  {
+    "1946": {
+      "words": 253922,
+      "reviews": 923,
+      "average_words_year": 275.1050920910076
+    }
+  },
+  {
+    "1947": {
+      "words": 343312,
+      "reviews": 1493,
+      "average_words_year": 229.94775619557936
+    }
+  },
+  {
+    "1948": {
+      "words": 378752,
+      "reviews": 1318,
+      "average_words_year": 287.3687405159332
+    }
+  },
+  {
+    "1949": {
+      "words": 276324,
+      "reviews": 1070,
+      "average_words_year": 258.2467289719626
+    }
+  },
+  {
+    "1950": {
+      "words": 366534,
+      "reviews": 1418,
+      "average_words_year": 258.4866008462623
+    }
+  },
+  {
+    "1951": {
+      "words": 352753,
+      "reviews": 1244,
+      "average_words_year": 283.5635048231511
+    }
+  },
+  {
+    "1952": {
+      "words": 416731,
+      "reviews": 1744,
+      "average_words_year": 238.9512614678899
+    }
+  },
+  {
+    "1953": {
+      "words": 183514,
+      "reviews": 699,
+      "average_words_year": 262.5379113018598
+    }
+  },
+  {
+    "1954": {
+      "words": 563277,
+      "reviews": 2141,
+      "average_words_year": 263.09061186361515
+    }
+  },
+  {
+    "1955": {
+      "words": 368690,
+      "reviews": 1373,
+      "average_words_year": 268.5287691187181
+    }
+  },
+  {
+    "1956": {
+      "words": 580725,
+      "reviews": 2211,
+      "average_words_year": 262.65264586160106
+    }
+  },
+  {
+    "1957": {
+      "words": 674070,
+      "reviews": 3152,
+      "average_words_year": 213.8546954314721
+    }
+  },
+  {
+    "1958": {
+      "words": 603253,
+      "reviews": 2337,
+      "average_words_year": 258.1313649978605
+    }
+  },
+  {
+    "1959": {
+      "words": 792556,
+      "reviews": 3105,
+      "average_words_year": 255.25152979066021
+    }
+  },
+  {
+    "1960": {
+      "words": 265153,
+      "reviews": 948,
+      "average_words_year": 279.69725738396625
+    }
+  },
+  {
+    "1961": {
+      "words": 405310,
+      "reviews": 1365,
+      "average_words_year": 296.9304029304029
+    }
+  },
+  {
+    "1962": {
+      "words": 571217,
+      "reviews": 2138,
+      "average_words_year": 267.1735266604303
+    }
+  },
+  {
+    "1963": {
+      "words": 626941,
+      "reviews": 2489,
+      "average_words_year": 251.88469264764967
+    }
+  },
+  {
+    "1965": {
+      "words": 440765,
+      "reviews": 1786,
+      "average_words_year": 246.7889137737962
+    }
+  },
+  {
+    "1966": {
+      "words": 324677,
+      "reviews": 1489,
+      "average_words_year": 218.05036937541973
+    }
+  },
+  {
+    "1967": {
+      "words": 793588,
+      "reviews": 3179,
+      "average_words_year": 249.6344762503932
+    }
+  },
+  {
+    "1968": {
+      "words": 418280,
+      "reviews": 1682,
+      "average_words_year": 248.68014268727705
+    }
+  },
+  {
+    "1969": {
+      "words": 310789,
+      "reviews": 1218,
+      "average_words_year": 255.16338259441707
+    }
+  },
+  {
+    "1970": {
+      "words": 107559,
+      "reviews": 420,
+      "average_words_year": 256.09285714285716
+    }
+  },
+  {
+    "1971": {
+      "words": 531391,
+      "reviews": 2183,
+      "average_words_year": 243.42235455794778
+    }
+  },
+  {
+    "1972": {
+      "words": 1453083,
+      "reviews": 8275,
+      "average_words_year": 175.59915407854984
+    }
+  },
+  {
+    "1973": {
+      "words": 386516,
+      "reviews": 1683,
+      "average_words_year": 229.65894236482472
+    }
+  },
+  {
+    "1974": {
+      "words": 1122048,
+      "reviews": 4955,
+      "average_words_year": 226.44762865792129
+    }
+  },
+  {
+    "1975": {
+      "words": 1088602,
+      "reviews": 5081,
+      "average_words_year": 214.2495571737847
+    }
+  },
+  {
+    "1976": {
+      "words": 660178,
+      "reviews": 2701,
+      "average_words_year": 244.41984450203628
+    }
+  },
+  {
+    "1977": {
+      "words": 844225,
+      "reviews": 3610,
+      "average_words_year": 233.8573407202216
+    }
+  },
+  {
+    "1978": {
+      "words": 156310,
+      "reviews": 571,
+      "average_words_year": 273.7478108581436
+    }
+  },
+  {
+    "1979": {
+      "words": 1283959,
+      "reviews": 5399,
+      "average_words_year": 237.8142248564549
+    }
+  },
+  {
+    "1980": {
+      "words": 1462361,
+      "reviews": 6311,
+      "average_words_year": 231.71620979242593
+    }
+  },
+  {
+    "1981": {
+      "words": 224101,
+      "reviews": 1055,
+      "average_words_year": 212.41800947867299
+    }
+  },
+  {
+    "1982": {
+      "words": 1211118,
+      "reviews": 5275,
+      "average_words_year": 229.59582938388627
+    }
+  },
+  {
+    "1983": {
+      "words": 806051,
+      "reviews": 3572,
+      "average_words_year": 225.65817469204927
+    }
+  },
+  {
+    "1984": {
+      "words": 1016296,
+      "reviews": 4473,
+      "average_words_year": 227.2067963335569
+    }
+  },
+  {
+    "1985": {
+      "words": 1118163,
+      "reviews": 5197,
+      "average_words_year": 215.15547431210314
+    }
+  },
+  {
+    "1986": {
+      "words": 1110745,
+      "reviews": 4789,
+      "average_words_year": 231.93673000626436
+    }
+  },
+  {
+    "1987": {
+      "words": 1562436,
+      "reviews": 7039,
+      "average_words_year": 221.96846142918028
+    }
+  },
+  {
+    "1988": {
+      "words": 685487,
+      "reviews": 3196,
+      "average_words_year": 214.48279098873593
+    }
+  },
+  {
+    "1989": {
+      "words": 864532,
+      "reviews": 3774,
+      "average_words_year": 229.07578166401697
+    }
+  },
+  {
+    "1990": {
+      "words": 1440916,
+      "reviews": 7102,
+      "average_words_year": 202.88876372852718
+    }
+  },
+  {
+    "1991": {
+      "words": 1167287,
+      "reviews": 5423,
+      "average_words_year": 215.2474645030426
+    }
+  },
+  {
+    "1992": {
+      "words": 1020812,
+      "reviews": 4665,
+      "average_words_year": 218.8235798499464
+    }
+  },
+  {
+    "1993": {
+      "words": 1585939,
+      "reviews": 7519,
+      "average_words_year": 210.92419204681474
+    }
+  },
+  {
+    "1994": {
+      "words": 3737012,
+      "reviews": 24720,
+      "average_words_year": 151.17362459546925
+    }
+  },
+  {
+    "1995": {
+      "words": 1952178,
+      "reviews": 10049,
+      "average_words_year": 194.26589710418946
+    }
+  },
+  {
+    "1996": {
+      "words": 815217,
+      "reviews": 3848,
+      "average_words_year": 211.85472972972974
+    }
+  },
+  {
+    "1997": {
+      "words": 2883372,
+      "reviews": 14241,
+      "average_words_year": 202.46977038129344
+    }
+  },
+  {
+    "1998": {
+      "words": 2314031,
+      "reviews": 11677,
+      "average_words_year": 198.16999229254088
+    }
+  },
+  {
+    "1999": {
+      "words": 4897610,
+      "reviews": 26305,
+      "average_words_year": 186.18551606158525
+    }
+  },
+  {
+    "2000": {
+      "words": 3648861,
+      "reviews": 17628,
+      "average_words_year": 206.9923417290674
+    }
+  },
+  {
+    "2001": {
+      "words": 5789459,
+      "reviews": 27316,
+      "average_words_year": 211.9438790452482
+    }
+  },
+  {
+    "2002": {
+      "words": 3930917,
+      "reviews": 18235,
+      "average_words_year": 215.56989306279132
+    }
+  },
+  {
+    "2003": {
+      "words": 5184091,
+      "reviews": 24623,
+      "average_words_year": 210.53856150753361
+    }
+  },
+  {
+    "2004": {
+      "words": 5217938,
+      "reviews": 22460,
+      "average_words_year": 232.32137132680322
+    }
+  },
+  {
+    "2005": {
+      "words": 6559688,
+      "reviews": 25253,
+      "average_words_year": 259.7587613352869
+    }
+  },
+  {
+    "2006": {
+      "words": 5259248,
+      "reviews": 21576,
+      "average_words_year": 243.75454208379682
+    }
+  },
+  {
+    "2007": {
+      "words": 5609220,
+      "reviews": 23569,
+      "average_words_year": 237.99142942000086
+    }
+  },
+  {
+    "2008": {
+      "words": 5226955,
+      "reviews": 22835,
+      "average_words_year": 228.9010291219619
+    }
+  },
+  {
+    "2009": {
+      "words": 3561093,
+      "reviews": 13927,
+      "average_words_year": 255.6970632584189
+    }
+  },
+  {
+    "2010": {
+      "words": 5059697,
+      "reviews": 20819,
+      "average_words_year": 243.03266247178058
+    }
+  },
+  {
+    "2011": {
+      "words": 2102897,
+      "reviews": 9171,
+      "average_words_year": 229.29854977646932
+    }
+  },
+  {
+    "2012": {
+      "words": 5456366,
+      "reviews": 20153,
+      "average_words_year": 270.74708480127026
+    }
+  },
+  {
+    "2013": {
+      "words": 5222920,
+      "reviews": 20777,
+      "average_words_year": 251.37989122587476
+    }
+  },
+  {
+    "2014": {
+      "words": 6615514,
+      "reviews": 28966,
+      "average_words_year": 228.38893875578265
+    }
+  },
+  {
+    "2015": {
+      "words": 6469303,
+      "reviews": 25969,
+      "average_words_year": 249.11636951750162
+    }
+  },
+  {
+    "2016": {
+      "words": 3782446,
+      "reviews": 17031,
+      "average_words_year": 222.09183254066116
+    }
+  },
+  {
+    "2017": {
+      "words": 4522517,
+      "reviews": 24354,
+      "average_words_year": 185.69914593085323
+    }
+  },
+  {
+    "2019": {
+      "words": 7432183,
+      "reviews": 65502,
+      "average_words_year": 113.46497816860554
+    }
+  },
+  {
+    "2020": {
+      "words": 2446078,
+      "reviews": 27860,
+      "average_words_year": 87.7989231873654
+    }
+  },
+  {
+    "2021": {
+      "words": 3643368,
+      "reviews": 40247,
+      "average_words_year": 90.52520684771535
+    }
+  },
+  {
+    "2022": {
+      "words": 4780541,
+      "reviews": 33339,
+      "average_words_year": 143.39185338492456
+    }
+  },
+  {
+    "2023": {
+      "words": 61745,
+      "reviews": 300,
+      "average_words_year": 205.81666666666666
+    }
+  },
+  {
+    "miscellaneous": {
+      "words": 495580,
+      "reviews": 1844,
+      "average_words_year": 268.7527114967462
+    }
+  }
+]
