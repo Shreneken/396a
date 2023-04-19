@@ -29,7 +29,7 @@ def plot_yearly_clusters(img_out_dir: str, json_out_file: str, extension: str = 
     plt.xticks(rotation="vertical")
     plt.subplots_adjust(bottom=bottom_offset)
     plt.title("NUMBER OF MOVIES COLLECTED FOR A RANGE OF YEARS")
-    plt.savefig(f"{img_out_dir}yearly_clusters_image.{extension}", dpi=1000)
+    plt.savefig(f"{img_out_dir}yearly_clusters_image.{extension}", dpi=500)
 
 
 if __name__ == "__main__":
