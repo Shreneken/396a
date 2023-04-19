@@ -23,7 +23,7 @@ def plot_yearly_clusters(img_out_dir: str, json_out_file: str, extension: str = 
     json_data = dict(json.loads(json_content))
     bottom_offset = 0.25
     length, width = 6, 5
-    fig = plt.figure(figsize=(length, width))
+    fig = plt.figure()
     bar_width = (width - bottom_offset)/len(json_data.keys()) * 1.8
     plt.bar(json_data.keys(), json_data.values(), color="purple", width = bar_width)
     plt.xticks(rotation="vertical")
