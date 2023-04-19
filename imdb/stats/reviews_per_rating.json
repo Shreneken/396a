@@ -1,0 +1,44 @@
+{
+  "1": { "words_per_rating": 0, "reviews_per_rating": 0 },
+  "2": {
+    "words_per_rating": 29516,
+    "reviews_per_rating": 324,
+    "avg": 91.09876543209876
+  },
+  "3": {
+    "words_per_rating": 16141,
+    "reviews_per_rating": 73,
+    "avg": 221.1095890410959
+  },
+  "4": {
+    "words_per_rating": 141263,
+    "reviews_per_rating": 1172,
+    "avg": 120.5315699658703
+  },
+  "5": {
+    "words_per_rating": 180687,
+    "reviews_per_rating": 822,
+    "avg": 219.81386861313868
+  },
+  "6": {
+    "words_per_rating": 279161,
+    "reviews_per_rating": 2373,
+    "avg": 117.64053940160134
+  },
+  "7": {
+    "words_per_rating": 3622952,
+    "reviews_per_rating": 15577,
+    "avg": 232.58342427938626
+  },
+  "8": {
+    "words_per_rating": 6300392,
+    "reviews_per_rating": 30004,
+    "avg": 209.98506865751233
+  },
+  "9": {
+    "words_per_rating": 361001,
+    "reviews_per_rating": 2014,
+    "avg": 179.2457795431976
+  },
+  "10": { "words_per_rating": 0, "reviews_per_rating": 0 }
+}
