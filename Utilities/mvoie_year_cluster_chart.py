@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import json
-
+import os
 
 def plot_yearly_clusters(img_out_dir: str, json_out_file: str, extension: str = "png") -> None:
     """
@@ -33,6 +33,7 @@ def plot_yearly_clusters(img_out_dir: str, json_out_file: str, extension: str = 
     plt.ylabel("Number of movies")
     # ax = plt.gca()
     # plt.show()
+    os.mkdir(img_out_dir) if not os.path.exists(img_out_dir) else None
     plt.savefig(f"{img_out_dir}yearly_clusters_image.{extension}", dpi=1000)
 
 
