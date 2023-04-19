@@ -33,7 +33,7 @@ def plot_yearly_clusters(img_out_dir: str, json_out_file: str, extension: str = 
     plt.ylabel("Number of movies")
     plt.gca()
     os.mkdir(img_out_dir) if not os.path.exists(img_out_dir) else None
-    plt.savefig(f"{img_out_dir}yearly_clusters_image.{extension}")
+    plt.savefig(f"{img_out_dir}yearly_clusters_image.{extension}", dpi=300)
 
 
 if __name__ == "__main__":
