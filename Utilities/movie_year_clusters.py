@@ -7,7 +7,7 @@ def get_yearly_movie_count(dir_name: str, output_filename: str, year_group: int 
     Parameters
     ----------
     dir_name: str
-        then firectory containing directories whose names are years eg Metacritic/metacritic_movies_json/2020
+        the parent directory containing directories whose names are years eg Metacritic/metacritic_movies_json/2020
         standard:: {source}/{source}_movies_json/{year}
 
     output_filename: str
@@ -54,5 +54,5 @@ def get_yearly_movie_count(dir_name: str, output_filename: str, year_group: int 
 
 if __name__ == "__main__":
     dir_name = "Metacritic/metacritic_movies_json"
-    output_file = "Metacritic/Statistics/year_clusters.json"
+    output_file = "Metacritic/Statistics/json/year_clusters.json"
     get_yearly_movie_count(dir_name, output_file)
