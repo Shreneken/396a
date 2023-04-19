@@ -23,7 +23,8 @@
     {
       "review_title": null,
       "content": "This is the worst comic book movie of all time, and yes it’s worse thin Batman and robin.",
-      "review_date": "2022-09-03"
+      "review_date": "2022-09-03",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 8

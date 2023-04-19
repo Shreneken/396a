@@ -25,7 +25,8 @@
     {
       "review_title": null,
       "content": "A surprisingly fun movie, very funny, and worth the rewatch. A sci-fi, comedy, murder mystery, very unique for today, let alone 1930s.",
-      "review_date": "2022-09-15"
+      "review_date": "2022-09-15",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 12

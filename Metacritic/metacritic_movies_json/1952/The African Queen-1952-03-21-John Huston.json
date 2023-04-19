@@ -29,17 +29,20 @@
     {
       "review_title": null,
       "content": "So much fun.  Inspired casting of Bogart and Hepburn,  super funny comedy, thrilling adventure,  heart tugging romance,  eye filling photography all add up to total wow.  I've seen this sucker dozens of times, never fails to entertain.  Good times.",
-      "review_date": "2019-09-28"
+      "review_date": "2019-09-28",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "i just realized that Katherine Hepburn has a massive orgasm when they go over the falls.  it is even foreshadowed and afterwords they are in a flooded boat, and he says \"The skin's nice and tight.\"",
-      "review_date": "2020-07-13"
+      "review_date": "2020-07-13",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "Humphrey Bogart and Katharine Hepburn show their talent in the riveting adventure masterpiece.",
-      "review_date": "2022-01-19"
+      "review_date": "2022-01-19",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 17

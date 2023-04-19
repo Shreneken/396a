@@ -21,7 +21,8 @@
     {
       "review_title": null,
       "content": "This movie is just a plain and simple classic and overall great movie to watch.",
-      "review_date": "2018-12-13"
+      "review_date": "2018-12-13",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 9

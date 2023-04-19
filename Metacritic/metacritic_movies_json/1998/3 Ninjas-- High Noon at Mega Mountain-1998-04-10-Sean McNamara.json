@@ -21,12 +21,14 @@
     {
       "review_title": null,
       "content": "Insulting, inept, and inappropriate, 3 Ninjas: High Noon at Mega Mountain has to be one of the dumbest things I have ever seen. However, it's absolutely hilarious in the terms of \"so-bad-its-good\" filmmaking.",
-      "review_date": "2019-10-11"
+      "review_date": "2019-10-11",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "Okay so I gave a little breathing room with the movies in this series but with this one I can't.  It's just really really stupid.",
-      "review_date": "2018-10-30"
+      "review_date": "2018-10-30",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 8

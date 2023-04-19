@@ -21,7 +21,8 @@
     {
       "review_title": null,
       "content": "Overrated movie. The story is not realistic, its entertaining for the masses. The movie has some humour parts, sometimes it was good, sometimes childish. Good acting of course, you have 3 stars here. And great pictures with beautiful landscapes.",
-      "review_date": "2022-09-18"
+      "review_date": "2022-09-18",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 10

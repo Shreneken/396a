@@ -24,7 +24,8 @@
     {
       "review_title": null,
       "content": "This is, you know, fine, but it's really nothing special. Certainly worth a watch, but more for historical value (both English history and Academy Awards history) but by no means an exceptional movie.",
-      "review_date": "2020-04-16"
+      "review_date": "2020-04-16",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 11

@@ -27,12 +27,14 @@
     {
       "review_title": null,
       "content": "Неплохой фильм для своего времени не имеющий ни капли актуальности в современном мире.",
-      "review_date": "2019-01-26"
+      "review_date": "2019-01-26",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "Aburrida, la salva 1 o 2 dialogos, y las tomas de las ciudades de las historias",
-      "review_date": "2019-06-03"
+      "review_date": "2019-06-03",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 16

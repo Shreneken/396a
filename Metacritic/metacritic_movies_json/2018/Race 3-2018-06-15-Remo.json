@@ -15,7 +15,8 @@
     {
       "review_title": null,
       "content": "every movie of salman khan is full of over acting. not like his movies. no like",
-      "review_date": "2019-03-08"
+      "review_date": "2019-03-08",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 3
