@@ -9,7 +9,7 @@ dictionary = json.load(open('./imdb/stats/reviews_per_rating.json', 'r'))
 xAxis = [key for key, value in dictionary.items() if key not in zero_data]
 temp = [value for key, value in dictionary.items() if key not in zero_data]
 print(temp)
-yAxis = [math.floor(x[curr_data]) for x in temp]
+yAxis = [math.ceil(x[curr_data]) for x in temp]
 plt.grid(True)
 
 ## LINE GRAPH ##
