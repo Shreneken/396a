@@ -1,0 +1,64 @@
+{
+    "rating": 9.0,
+    "release_date": "2021-10-22",
+    "num_reviews": 10,
+    "genres": [
+        "Sci-fi",
+        "Adventure",
+        "Action",
+        "Drama"
+    ],
+    "summary": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence, only those who can conquer their own fear will survive.",
+    "reviews": [
+        {
+            "content": "Denis Villeneuve made a masterpiece! His Dune is AMAZING! I cannot wait to see Dune Part Two.",
+            "review_date": "2023-04-19",
+            "source": "rt"
+        },
+        {
+            "content": "An emotionless walkthrough of the original, no passion, no anything.",
+            "review_date": "2023-04-17",
+            "source": "rt"
+        },
+        {
+            "content": "Looking forward to the next one \ud83d\udc4c",
+            "review_date": "2023-04-14",
+            "source": "rt"
+        },
+        {
+            "content": "Audiovisual masterpiece, but without a sequel (for now) feels not that strong as a standalone movie.",
+            "review_date": "2023-04-13",
+            "source": "rt"
+        },
+        {
+            "content": "A franchise that I was to lazy to get in to, but was blown away after the movie. Probably my favorite movie of all time. Great acting, engaging story, espetacular visual effect, Sound, photography, just perfect. A true masterpiece, really anxious for the second one.",
+            "review_date": "2023-04-11",
+            "source": "rt"
+        },
+        {
+            "content": "The Dune book could be separated into a trilogy or a tv series. It is a blend of Game of Thrones scheming and science fiction. Due to its complexity and the deeply defined world, it is a huge accomplishment for such a book to be transferred to the big screen so well. I would compare the Dune movie to one of the Lord of The Rings movies in terms of source material to big screen translation. However, unlike Lord of the Rings movies, it is not immediately apparent what the story and world are all about to the viewer. This is also due to Lord Of the Rings having a fairly simple story in comparison where all the quest is already determined whereas Dune has the characters slowly discover and realise their own ambitions. Overall, a job well done to the entire crew.",
+            "review_date": "2023-04-10",
+            "source": "rt"
+        },
+        {
+            "content": "No conoc\u00eda \"Dune\" y me ha maravillado la est\u00e9tica de la pel\u00edcula, la m\u00fasica, la historia. \u00a1Ya quiero ver la secuela!",
+            "review_date": "2023-04-10",
+            "source": "rt"
+        },
+        {
+            "content": "Dune absolutely excels at world building. Right from the start, its clear how intricately crafted the world is, which gets you immediately hooked into the story. While the plot moves along slowly, I think this is a positive, as it gives more time to flesh out the details of the world, making for a much more immersive experience. This is perfectly complemented by incredible music, which always captures the perfect emotion for the scene its in, and absolutely stunning visuals which make the time spent on showing them well worth it. The plot itself is very compelling, with the power dynamics between the great houses and the emperor being very much like Game of Thrones. From the start, Dune does a great job at portraying Paul as a worthy hero who generally wants to do the right thing and isn't selfish or vain. When the credits finally roll, Dune has completely accomplished its goal of getting the viewer hooked on the world and excited for the next installment, which I certainly am incredibly excited about!",
+            "review_date": "2023-04-10",
+            "source": "rt"
+        },
+        {
+            "content": "can\u2018t really give a strong opinion as it is the first part of (hopefully) many, but from what i saw it was great",
+            "review_date": "2023-04-09",
+            "source": "rt"
+        },
+        {
+            "content": "Fantastic! This film made me believe that these different planets and cultures actually existed. A film to be seen at the cinema. Acting was almost universally great. Storyline held my interest throughout. Only downside was that I thought it didn't end on a high...I guess that it is part one after all!",
+            "review_date": "2023-04-09",
+            "source": "rt"
+        }
+    ]
+}

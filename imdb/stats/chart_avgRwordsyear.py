@@ -8,7 +8,7 @@ yAxis = [math.floor(value['average_words_year']) for key, value in dictionary.it
 plt.grid(True)
 
 ## LINE GRAPH ##
-plt.plot(xAxis,yAxis, color='maroon', marker='o')
+plt.plot(xAxis,yAxis, color='purple', marker='o')
 plt.xlabel('Year')
 plt.ylabel('Average Words per review')
 ax = plt.gca()
@@ -16,7 +16,7 @@ ax.tick_params(axis='x', labelrotation = 90)
 
 ## BAR GRAPH ##
 fig = plt.figure()
-plt.bar(xAxis,yAxis, color='maroon')
+plt.bar(xAxis,yAxis, color='purple')
 plt.xlabel('variable')
 plt.ylabel('Average Words per review')
 ax = plt.gca()

@@ -28,6 +28,7 @@ List of vibes found and the number of movies associated with each one (potential
 The sources we used and the date we retrieved our data from → not self-contained and data will become irrelevant pretty soon
 The data is not confidential (publicly available) and no individual user can be identified using it.
 Does the dataset contain any sensitive information?
+- Effort to remove these (including profanity/disturbing info)
 
 Collection Process
 

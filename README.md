@@ -30,3 +30,16 @@ length by tokens, average tokens per review, number of reviews
 
 mindful of other laguages
 patterns for data
+
+TODO:
+- look at jq to query json data
+- Think about if you need a set of vibes to match it or leave it open ended
+- wordnet (its a network of words that has how things are related to each other, including synonyms)
+- How do you know which keywords extracted are vibes?
+
+
+- look at extraction of vibes on a subset of reviews 
+- get everything, merge 
+- iteratively clean (tokenizing, lower casing, look at what spaCy can detect)
+
+Limitations: Non-Obvious, limitation of algorithm, only-english reviews, only popular movies, effect quality or diversity of data (would effect ppl using it)  
