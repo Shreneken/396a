@@ -1,14 +1,14 @@
 {
-  "title": "Seven Samurai",
-  "rating": 8.8,
-  "release_date": "1956-11-19",
-  "genre": [
-    "Action",
-    "Adventure",
-    "Drama"
-  ],
-  "summary": "Seven Samurai (Shichinin no samurai) tells the story of a sixteenth-century village whose desperate inhabitants hire the eponymous warriors to protect them from invading bandits.",
-  "critic_reviews": [],
-  "reviews": [],
-  "num_reviews": 0
+    "title": "Seven Samurai",
+    "rating": 8.8,
+    "release_date": "1956-11-19",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "summary": "Seven Samurai (Shichinin no samurai) tells the story of a sixteenth-century village whose desperate inhabitants hire the eponymous warriors to protect them from invading bandits.",
+    "critic_reviews": [],
+    "reviews": [],
+    "num_reviews": 0
 }

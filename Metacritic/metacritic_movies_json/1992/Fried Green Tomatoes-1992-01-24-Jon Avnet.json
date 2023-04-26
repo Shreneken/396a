@@ -1,57 +1,62 @@
 {
-  "title": "Fried Green Tomatoes",
-  "rating": 7.7,
-  "release_date": "1992-01-24",
-  "genre": [
-    "Drama"
-  ],
-  "summary": "A housewife who is unhappy with her life befriends an old lady in a nursing home and is enthralled by the tales she tells of people she used to know.",
-  "critic_reviews": [
-    "Fried Green Tomatoes is fairly predictable, and the flashback structure is a distraction, but the strength of the performances overcomes the problems of the structure. I especially liked Mary Stuart Masterson's work, but then I nearly always do (see her in Some Kind of Wonderful). And I enjoyed the vigor with which Jessica Tandy told her long-ago tale, about a woman not completely unlike herself.",
-    "Fried Green Tomatoes is an engaging if sentimental tale, charmingly handled by producer-turned-director Jon Avnet (Risky Business) and flawlessly acted by its four female stars. Plaudits must also go to Geoffrey Simpson, for his splendid cinematography, and to Thomas Newman for his drama-enhancing musical score.",
-    "At its best, Fried Green Tomatoes is a pleasantly nostalgic tale wrapped around a murder mystery (which, frankly, isn't all that mysterious). The filmmakers do a decent job of weaving the texture of the thoroughly racist and sexist society within which Idgie, Ruth and the movie's major black characters (played by Cicely Tyson and Stan Shaw) must struggle to preserve their self-respect and, at critical times, their lives. At its worst, the film is unexciting and rambles too much.",
-    "Based on a novel by Fannie Flagg, the comedian, and directed by Jon Avnet, Fried Green Tomatoes has some good performances and a measure of homespun appeal, some of which can be credited to Elizabeth McBride's gently evocative costumes and Barbara Ling's detailed production design.",
-    "Celebrating the crucial, sustaining friendships between two sets of modern-day and 1930s Southern femmes, pic [based on Fanny Flagg’s novel Fried Green Tomatoes at the Whistle Stop Cafe] emerges as absorbing and life-affirming quality fare, but for a story celebrating fearlessness, it’s remarkably cautious.",
-    "While Fried Green Tomatoes often veers between being too pat and too vague, too obvious and too unclear, too much of the “I laughed, I cried” school of storytelling -- it still has a charm that stems from its vivid and unique characterizations.",
-    "An extended framing device set in the present day, with Kathy Bates as a put-upon housewife who becomes the fierce, confident, new-and-improved ”Tawanda,” is the sort of ghastly idea that gives feminism a bad name. The movie left me wishing its sterling cast — including a radiant Jessica Tandy — had been better served.",
-    "It's all over the place, trying to cover every base as it delivers its neon-style message: Nothing is more important than friendship. Indeed, it's so busy pushing buttons that it rarely has time to settle down to establish even one relationship that rings true - by and large, we have to take the actors' word for it - yet fans of this cast probably won't mind too much.",
-    "The tale from the past is very nostalgic, heartwarming and mouth-watering and all, as Idgie and Ruth cook up a storm, are kindly to their black domestics and stand up to piggy men while events fitfully progress to a courtroom climax. And Masterson is a peach. But the best bits belong to Bates as her dreary Evelyn raises her consciousness, lowers her weight and starts speaking her mind. It's a nice, pleasant celebration of friendship, but without much meat to chew on.",
-    "While the book deftly juggles separate narratives, the device proves clumsy on screen. More dizzying than the jumps between past and present is the speed with which consciousness-raised Evelyn swaps caricatures, evolving from Frump to Fighter. Essentially, the film is about fine performances - with Tandy securing an Oscar nomination - but it wins no prizes for subtlety.",
-    "A drama about strong, giving, funny women, Fried Green Tomatoes seems plucked from the same patch as the play-turned-movie Steel Magnolias. It's not exactly a successful hybrid, but you could get a craving for it anyway.",
-    "It's meant to be uplifting, but the material is so undernourished that bench-pressing a phone book already seems beyond it. None of the characters has been filled out beyond the underlying conventions and the few distinctive mannerisms contributed by the actresses who portray them.",
-    "The characters are engaging, but the story is hackneyed and the filmmaking is dull. So is much of the acting, except by Jessica Tandy, who carries her own energy wherever she goes."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Decent acting but this winding tale about nothing in particular is a bit tedious.",
-      "review_date": "2019-04-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What a feminist propaganda. They even reveal, that it is not a problem to kill a man and cook him as a barbecue. And the character of Idgie was not sympathetic to me, but annoying.The only good thing in this movie is the presentation of theWhat a feminist propaganda. They even reveal, that it is not a problem to kill a man and cook him as a barbecue. And the character of Idgie was not sympathetic to me, but annoying.The only good thing in this movie is the presentation of the old southern US life.",
-      "review_date": "2022-04-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fannie Flagg's prized novel gets the Hollywood treatment, thanks in no small part to Flagg herself — who co-adapted her own work for the screen — and a veritable who's who of feminine acting icons. \"Fried Green Tomatoes\" is a gratifying blendFannie Flagg's prized novel gets the Hollywood treatment, thanks in no small part to Flagg herself — who co-adapted her own work for the screen — and a veritable who's who of feminine acting icons. \"Fried Green Tomatoes\" is a gratifying blend of Southern Gothic stylings and the winsome spirit of a woman who believed wholeheartedly in countering homophobia and misogyny with earnest will and good humor. It's honestly kind of amazing to me how much queerness Flagg managed to sneak past audiences in the late 80's and early 90's. She really was breaking ground with this work. And the structure built on that ground, whether you personally identify with the subtext or not, still makes for a tender and enjoyable stay in what feels like a community you've been a part of for a substantive amount of time.",
-      "review_date": "2020-05-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It’s challenging to create a movie that holds true to the corresponding book. This movie succeeds in all the right ways.",
-      "review_date": "2019-10-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Emotionally riveting, but intriguingly captivating, Fried Green Tomatoes is a thought-provoking coming of age film.",
-      "review_date": "2022-08-01",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 18
+    "title": "Fried Green Tomatoes",
+    "rating": 7.7,
+    "release_date": "1992-01-24",
+    "genre": [
+        "Drama"
+    ],
+    "summary": "A housewife who is unhappy with her life befriends an old lady in a nursing home and is enthralled by the tales she tells of people she used to know.",
+    "critic_reviews": [
+        "Fried Green Tomatoes is fairly predictable, and the flashback structure is a distraction, but the strength of the performances overcomes the problems of the structure. I especially liked Mary Stuart Masterson's work, but then I nearly always do (see her in Some Kind of Wonderful). And I enjoyed the vigor with which Jessica Tandy told her long-ago tale, about a woman not completely unlike herself.",
+        "Fried Green Tomatoes is an engaging if sentimental tale, charmingly handled by producer-turned-director Jon Avnet (Risky Business) and flawlessly acted by its four female stars. Plaudits must also go to Geoffrey Simpson, for his splendid cinematography, and to Thomas Newman for his drama-enhancing musical score.",
+        "At its best, Fried Green Tomatoes is a pleasantly nostalgic tale wrapped around a murder mystery (which, frankly, isn't all that mysterious). The filmmakers do a decent job of weaving the texture of the thoroughly racist and sexist society within which Idgie, Ruth and the movie's major black characters (played by Cicely Tyson and Stan Shaw) must struggle to preserve their self-respect and, at critical times, their lives. At its worst, the film is unexciting and rambles too much.",
+        "Based on a novel by Fannie Flagg, the comedian, and directed by Jon Avnet, Fried Green Tomatoes has some good performances and a measure of homespun appeal, some of which can be credited to Elizabeth McBride's gently evocative costumes and Barbara Ling's detailed production design.",
+        "Celebrating the crucial, sustaining friendships between two sets of modern-day and 1930s Southern femmes, pic [based on Fanny Flagg\u2019s novel Fried Green Tomatoes at the Whistle Stop Cafe] emerges as absorbing and life-affirming quality fare, but for a story celebrating fearlessness, it\u2019s remarkably cautious.",
+        "While Fried Green Tomatoes often veers between being too pat and too vague, too obvious and too unclear, too much of the \u201cI laughed, I cried\u201d school of storytelling -- it still has a charm that stems from its vivid and unique characterizations.",
+        "An extended framing device set in the present day, with Kathy Bates as a put-upon housewife who becomes the fierce, confident, new-and-improved \u201dTawanda,\u201d is the sort of ghastly idea that gives feminism a bad name. The movie left me wishing its sterling cast \u2014 including a radiant Jessica Tandy \u2014 had been better served.",
+        "It's all over the place, trying to cover every base as it delivers its neon-style message: Nothing is more important than friendship. Indeed, it's so busy pushing buttons that it rarely has time to settle down to establish even one relationship that rings true - by and large, we have to take the actors' word for it - yet fans of this cast probably won't mind too much.",
+        "The tale from the past is very nostalgic, heartwarming and mouth-watering and all, as Idgie and Ruth cook up a storm, are kindly to their black domestics and stand up to piggy men while events fitfully progress to a courtroom climax. And Masterson is a peach. But the best bits belong to Bates as her dreary Evelyn raises her consciousness, lowers her weight and starts speaking her mind. It's a nice, pleasant celebration of friendship, but without much meat to chew on.",
+        "While the book deftly juggles separate narratives, the device proves clumsy on screen. More dizzying than the jumps between past and present is the speed with which consciousness-raised Evelyn swaps caricatures, evolving from Frump to Fighter. Essentially, the film is about fine performances - with Tandy securing an Oscar nomination - but it wins no prizes for subtlety.",
+        "A drama about strong, giving, funny women, Fried Green Tomatoes seems plucked from the same patch as the play-turned-movie Steel Magnolias. It's not exactly a successful hybrid, but you could get a craving for it anyway.",
+        "It's meant to be uplifting, but the material is so undernourished that bench-pressing a phone book already seems beyond it. None of the characters has been filled out beyond the underlying conventions and the few distinctive mannerisms contributed by the actresses who portray them.",
+        "The characters are engaging, but the story is hackneyed and the filmmaking is dull. So is much of the acting, except by Jessica Tandy, who carries her own energy wherever she goes."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Decent acting but this winding tale about nothing in particular is a bit tedious.",
+            "review_date": "2019-04-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What a feminist propaganda. They even reveal, that it is not a problem to kill a man and cook him as a barbecue. And the character of Idgie was not sympathetic to me, but annoying.The only good thing in this movie is the presentation of theWhat a feminist propaganda. They even reveal, that it is not a problem to kill a man and cook him as a barbecue. And the character of Idgie was not sympathetic to me, but annoying.The only good thing in this movie is the presentation of the old southern US life.",
+            "review_date": "2022-04-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fannie Flagg's prized novel gets the Hollywood treatment, thanks in no small part to Flagg herself \u2014 who co-adapted her own work for the screen \u2014 and a veritable who's who of feminine acting icons. \"Fried Green Tomatoes\" is a gratifying blendFannie Flagg's prized novel gets the Hollywood treatment, thanks in no small part to Flagg herself \u2014 who co-adapted her own work for the screen \u2014 and a veritable who's who of feminine acting icons. \"Fried Green Tomatoes\" is a gratifying blend of Southern Gothic stylings and the winsome spirit of a woman who believed wholeheartedly in countering homophobia and misogyny with earnest will and good humor. It's honestly kind of amazing to me how much queerness Flagg managed to sneak past audiences in the late 80's and early 90's. She really was breaking ground with this work. And the structure built on that ground, whether you personally identify with the subtext or not, still makes for a tender and enjoyable stay in what feels like a community you've been a part of for a substantive amount of time.",
+            "review_date": "2020-05-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It\u2019s challenging to create a movie that holds true to the corresponding book. This movie succeeds in all the right ways.",
+            "review_date": "2019-10-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Emotionally riveting, but intriguingly captivating, Fried Green Tomatoes is a thought-provoking coming of age film.",
+            "review_date": "2022-08-01",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 18
 }

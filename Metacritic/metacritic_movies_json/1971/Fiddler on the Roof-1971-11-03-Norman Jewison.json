@@ -1,53 +1,57 @@
 {
-  "title": "Fiddler on the Roof",
-  "rating": 8.1,
-  "release_date": "1971-11-03",
-  "genre": [
-    "Drama",
-    "Romance",
-    "Family",
-    "Musical"
-  ],
-  "summary": "In prerevolutionary Russia, a Jewish peasant contends with marrying off three of his daughters while growing anti-Semitic sentiment threatens his village.",
-  "critic_reviews": [
-    "Fiddler on the Roof is not a perfect motion picture - it is too long and there are times when it's obvious that the musical numbers have been pre-recorded then lip-synched - but it represents an enjoyable three hours.",
-    "By preserving the exoticism and making sure the audience left the theater humming, Jewison made a grubby, European-flavored movie that Yanks could embrace.",
-    "It still stands up as an upbeat portrait of pre-revolutionary Russia, and will have you whistling If I Were A Rich Man for days.",
-    "Norman Jewison's Fiddler on the Roof is a lavish, carefully made, splendidly designed musical film. It demonstrates once again that ample amounts of time and money, intelligently employed, can indeed buy perfection.",
-    "Sentimental in a theatrical way, romantic in the old fashioned way, nostalgic of immigration days, affirmative of human decency, loyalty, bravery and folk humor.",
-    "Norman Jewison's literal-mindedness actually helps squeeze some of the goo from the material.",
-    "Would it be heresy on my part to suggest that Fiddler isn't much as a musical, and that director Norman Jewison has made as good a film as can be made from a story that is quite simply boring?",
-    "What could have been a brilliant film experience, expanding on the stage version as only film can, ends up instead as a series of wonderful bits and pieces.",
-    "Very hard to take with the film sitting up and practically slobbering in its eagerness to prove how loveable it is. A pity, because the score isn't half bad (the show-stopping 'If I Were a Rich Man' almost gets lost), the choreography has possibilities, and Topol is distinctly personable.",
-    "They want to show us everything, to give us our money's worth. In so doing, they've not just opened up the play, they've let most of the life out of it.",
-    "The qualities that have kept the Broadway Fiddler running these seven years are in scant supply onscreen. Gone with barely a trace are warmth, joy, insight and even the most elementary kind of entertainment.",
-    "There's something patronising about the way Norman Jewison portrays all these poor but cheerful Yiddish types. The choreography is clumsy, the acting caricatured, and the songs themselves painfully overblown."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThis movie is one of the best I have seen. The subtext within the story is missed by many. From the first meeting of Tevye and his milk wagon, to the ending of his family leaving Antevka. We see Tevye grow and while trying to maintain a small amount of tradition. This movie is a must see.",
-      "review_date": "2020-02-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I know people have complained about the length of this movie. Yeah, it is long, three hours approximately, but there are so many things that compensate. Norman Jewison's direction is very good, and the film is stylishly filmed, with some niceI know people have complained about the length of this movie. Yeah, it is long, three hours approximately, but there are so many things that compensate. Norman Jewison's direction is very good, and the film is stylishly filmed, with some nice cinematography and there are nice scenery and costumes. The choreography is great, energetic in parts and graceful in others. Next, the music is outstanding. The incidental music largely reminiscent of Russian folk music is a real treat, but the songs are outstanding. The beautiful \"Sunrise, Sunset\", the fun \"Tradition\", the idealistic \"Match Maker\" and the energetic \"If I Were A Rich Man\", all amazing. Also, Topol, what an absolutely brilliant performance. He put body and soul into Tevye, successfully mixing humour, wisdom and poignancy and the result is one of the most memorable performances in any musical to grace our screens. All the other performances are wonderful, I liked it all five daughters had distinct personalities, and Norma Crane is fantastic as the mother. The story is both tight and poignant, about a milkman of Jewish values, who wishes his five daughters to marry. In conclusion, wonderful and definitely memorable. 10/10 Bethany Cox",
-      "review_date": "2022-03-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Tevye is a good person struggling with the change that is occurring all around him. Many of us may see ourselves similarly.All right, the specific changes in the Fiddler movie are historic (which some would say are interesting on theirTevye is a good person struggling with the change that is occurring all around him. Many of us may see ourselves similarly.All right, the specific changes in the Fiddler movie are historic (which some would say are interesting on their own), such as marriage arranged by a matchmaker), but if we can generalise that to how does Tevye handle complex situations and change, then it speaks to us today.One theme is the passage of time, and your children growing up. The beautiful song Sunrise, Sunset captures this, and from the vantage point of several characters. If your own kids have grown up, like mine have, the emotional power of the melody, lyrics, characters, and story situation--can bring a bit of a tear to the eye.",
-      "review_date": "2022-06-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I just saw this movie and it’s 2020 and must I say I am so impressed and touched. It’s sooo well done. I wish more people knew about it. It holds up on my top list of fav classic old movies ( like Lawrence of Arabia, Gone with the Wind, Dr.I just saw this movie and it’s 2020 and must I say I am so impressed and touched. It’s sooo well done. I wish more people knew about it. It holds up on my top list of fav classic old movies ( like Lawrence of Arabia, Gone with the Wind, Dr. Zhivaho....) and I dislike musicals!! It was entertaining while it taught me a bit of Jewish tradition mixed with history. When movies first started I had my doubts of thinking this will be a bore, I am not interested in Jewish traditions and don’t like too much singing. I hated Le Mis the movie, but gave this one a chance.It was perfect, the acting, Dancing, singing and choreography was perfect , someone mentioned choreography of the dance scenes were weak, I disagree.....we don’t need these villagers dancing with perfect choreography and ballet or professional dance moves, the movie shows them singing and dancing like I would with my friends and sister.Tevye is just brilliant, the signings , his voice, the acting...just fantastic. I watched the whole thing and didn’t once look at what time it was as the movie is 3 hours long. A must see, I will watch it again just to enjoy this magnificent movie.",
-      "review_date": "2020-06-11",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 16
+    "title": "Fiddler on the Roof",
+    "rating": 8.1,
+    "release_date": "1971-11-03",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Family",
+        "Musical"
+    ],
+    "summary": "In prerevolutionary Russia, a Jewish peasant contends with marrying off three of his daughters while growing anti-Semitic sentiment threatens his village.",
+    "critic_reviews": [
+        "Fiddler on the Roof is not a perfect motion picture - it is too long and there are times when it's obvious that the musical numbers have been pre-recorded then lip-synched - but it represents an enjoyable three hours.",
+        "By preserving the exoticism and making sure the audience left the theater humming, Jewison made a grubby, European-flavored movie that Yanks could embrace.",
+        "It still stands up as an upbeat portrait of pre-revolutionary Russia, and will have you whistling If I Were A Rich Man for days.",
+        "Norman Jewison's Fiddler on the Roof is a lavish, carefully made, splendidly designed musical film. It demonstrates once again that ample amounts of time and money, intelligently employed, can indeed buy perfection.",
+        "Sentimental in a theatrical way, romantic in the old fashioned way, nostalgic of immigration days, affirmative of human decency, loyalty, bravery and folk humor.",
+        "Norman Jewison's literal-mindedness actually helps squeeze some of the goo from the material.",
+        "Would it be heresy on my part to suggest that Fiddler isn't much as a musical, and that director Norman Jewison has made as good a film as can be made from a story that is quite simply boring?",
+        "What could have been a brilliant film experience, expanding on the stage version as only film can, ends up instead as a series of wonderful bits and pieces.",
+        "Very hard to take with the film sitting up and practically slobbering in its eagerness to prove how loveable it is. A pity, because the score isn't half bad (the show-stopping 'If I Were a Rich Man' almost gets lost), the choreography has possibilities, and Topol is distinctly personable.",
+        "They want to show us everything, to give us our money's worth. In so doing, they've not just opened up the play, they've let most of the life out of it.",
+        "The qualities that have kept the Broadway Fiddler running these seven years are in scant supply onscreen. Gone with barely a trace are warmth, joy, insight and even the most elementary kind of entertainment.",
+        "There's something patronising about the way Norman Jewison portrays all these poor but cheerful Yiddish types. The choreography is clumsy, the acting caricatured, and the songs themselves painfully overblown."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis movie is one of the best I have seen. The subtext within the story is missed by many. From the first meeting of Tevye and his milk wagon, to the ending of his family leaving Antevka. We see Tevye grow and while trying to maintain a small amount of tradition. This movie is a must see.",
+            "review_date": "2020-02-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I know people have complained about the length of this movie. Yeah, it is long, three hours approximately, but there are so many things that compensate. Norman Jewison's direction is very good, and the film is stylishly filmed, with some niceI know people have complained about the length of this movie. Yeah, it is long, three hours approximately, but there are so many things that compensate. Norman Jewison's direction is very good, and the film is stylishly filmed, with some nice cinematography and there are nice scenery and costumes. The choreography is great, energetic in parts and graceful in others. Next, the music is outstanding. The incidental music largely reminiscent of Russian folk music is a real treat, but the songs are outstanding. The beautiful \"Sunrise, Sunset\", the fun \"Tradition\", the idealistic \"Match Maker\" and the energetic \"If I Were A Rich Man\", all amazing. Also, Topol, what an absolutely brilliant performance. He put body and soul into Tevye, successfully mixing humour, wisdom and poignancy and the result is one of the most memorable performances in any musical to grace our screens. All the other performances are wonderful, I liked it all five daughters had distinct personalities, and Norma Crane is fantastic as the mother. The story is both tight and poignant, about a milkman of Jewish values, who wishes his five daughters to marry. In conclusion, wonderful and definitely memorable. 10/10 Bethany Cox",
+            "review_date": "2022-03-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Tevye is a good person struggling with the change that is occurring all around him. Many of us may see ourselves similarly.All right, the specific changes in the Fiddler movie are historic (which some would say are interesting on theirTevye is a good person struggling with the change that is occurring all around him. Many of us may see ourselves similarly.All right, the specific changes in the Fiddler movie are historic (which some would say are interesting on their own), such as marriage arranged by a matchmaker), but if we can generalise that to how does Tevye handle complex situations and change, then it speaks to us today.One theme is the passage of time, and your children growing up. The beautiful song Sunrise, Sunset captures this, and from the vantage point of several characters. If your own kids have grown up, like mine have, the emotional power of the melody, lyrics, characters, and story situation--can bring a bit of a tear to the eye.",
+            "review_date": "2022-06-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I just saw this movie and it\u2019s 2020 and must I say I am so impressed and touched. It\u2019s sooo well done. I wish more people knew about it. It holds up on my top list of fav classic old movies ( like Lawrence of Arabia, Gone with the Wind, Dr.I just saw this movie and it\u2019s 2020 and must I say I am so impressed and touched. It\u2019s sooo well done. I wish more people knew about it. It holds up on my top list of fav classic old movies ( like Lawrence of Arabia, Gone with the Wind, Dr. Zhivaho....) and I dislike musicals!! It was entertaining while it taught me a bit of Jewish tradition mixed with history. When movies first started I had my doubts of thinking this will be a bore, I am not interested in Jewish traditions and don\u2019t like too much singing. I hated Le Mis the movie, but gave this one a chance.It was perfect, the acting, Dancing, singing and choreography was perfect , someone mentioned choreography of the dance scenes were weak, I disagree.....we don\u2019t need these villagers dancing with perfect choreography and ballet or professional dance moves, the movie shows them singing and dancing like I would with my friends and sister.Tevye is just brilliant, the signings , his voice, the acting...just fantastic. I watched the whole thing and didn\u2019t once look at what time it was as the movie is 3 hours long. A must see, I will watch it again just to enjoy this magnificent movie.",
+            "review_date": "2020-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 16
 }

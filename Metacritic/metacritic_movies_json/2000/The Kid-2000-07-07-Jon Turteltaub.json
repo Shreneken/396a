@@ -1,65 +1,68 @@
 {
-  "title": "The Kid",
-  "rating": 6.4,
-  "release_date": "2000-07-07",
-  "genre": [
-    "Fantasy",
-    "Comedy",
-    "Family"
-  ],
-  "summary": "Sent from the 1970's to the present to help his older self, a kid (Breslin), now an unhappy image consultant (Willis), gets in touch with who he used to be.",
-  "critic_reviews": [
-    "The result is fine fantasy fun.",
-    "It's Willis who delivers the goods in scene after scene, triumphing over a thin script, often bland direction.",
-    "Warm-hearted and effective.",
-    "A parable for adults -- particularly men.",
-    "It's a modest little fantasy. But it's also well made, unpretentious and refreshing.",
-    "Too bad The Kid gets bogged down in its sentimental manipulations. It has more going for it than you might suppose.",
-    "A pleasantly lightweight confection.",
-    "It's solid, if ultimately uninspired, July entertainment.",
-    "Vigilant viewers may spend many of the 101 minutes fixating on tiny holes in the plot, but I was busy being moved by the premise and the filmmakers' confidence in the power of their metaphor: a little boy who's disappointed in the man he grew up to be.",
-    "But if the endpoint is a homiletic given, the journey itself is more charming, and less sentimental, than you might suspect.",
-    "An utterly competent, systematically entertaining summer movie.",
-    "This is quintessential \"family entertainment.\"",
-    "A movie we might like to buy into if left to our own devices, but that idea is anathema to Turteltaub, intent on pushing us so hard that we end up pushing back.",
-    "This boomer-coddling comic fantasy, in which a callous adult on the brink of 40 has a chance encounter with his pudgy, lisping 8-year-old self, is an iffier what-if.",
-    "There isn't a moment in the film that isn't overhyped.",
-    "Audrey Wells's script and Turteltaub's presentation ring true just often enough to prevent the comedy from descending forever into Cutesy-Wutesy Hell.",
-    "Perfectly acceptable entertainment in the Mouse Factory's most familiar vein.",
-    "There's nothing Disneyesque about this bomb except the forced levity of its musical score.",
-    "This slight, predictable comedy has appealing moments.",
-    "Surprisingly enough, it often soars to heights of not bad.",
-    "Every time the movie seems poised to veer into watchability, however, Turteltaub is there, like a beat cop for the Fun Police, reminding us to laugh, sigh, or tear up.",
-    "Willis and Breslin are stuck in a charmless, predictable picture they can't escape.",
-    "Manipulative but fitfully entertaining \"Twilight Zone\"-ish comedy of redemption.",
-    "A lightweight, intermittently engaging comedy.",
-    "Falls flat on its face.",
-    "Neither can I imagine many sane adults wanting to put themselves through this movie.",
-    "So rich in processed sugar, canned sentiment and schmaltz, I thought I was going to throw up.",
-    "Wields its Middle America values and moralistic flogging of idiosyncratic lifestyle choices like a flipped bird.",
-    "Deadly dull.",
-    "Director Jon Turteltaub's insistence upon hammering every point home with giant closeups and relentless musical underlining makes this insufferably cloying and sickly sweet.",
-    "The Kid's denouement resembles the nightmare that would have transpired had execs foisted a toupee and a happy ending on \"12 Monkeys.\""
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "This is a wonderful family movie with a lot of funny and warm moments.    Bruce Willis and Spencer Breslin were fantastic.",
-      "review_date": "2012-02-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "this movie is so horrible!",
-      "review_date": "2010-11-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love this movie. It has touching moments and a great message for all of us that reminds us to keep alive the kid we all have inside.",
-      "review_date": "2020-04-02",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 34
+    "title": "The Kid",
+    "rating": 6.4,
+    "release_date": "2000-07-07",
+    "genre": [
+        "Fantasy",
+        "Comedy",
+        "Family"
+    ],
+    "summary": "Sent from the 1970's to the present to help his older self, a kid (Breslin), now an unhappy image consultant (Willis), gets in touch with who he used to be.",
+    "critic_reviews": [
+        "The result is fine fantasy fun.",
+        "It's Willis who delivers the goods in scene after scene, triumphing over a thin script, often bland direction.",
+        "Warm-hearted and effective.",
+        "A parable for adults -- particularly men.",
+        "It's a modest little fantasy. But it's also well made, unpretentious and refreshing.",
+        "Too bad The Kid gets bogged down in its sentimental manipulations. It has more going for it than you might suppose.",
+        "A pleasantly lightweight confection.",
+        "It's solid, if ultimately uninspired, July entertainment.",
+        "Vigilant viewers may spend many of the 101 minutes fixating on tiny holes in the plot, but I was busy being moved by the premise and the filmmakers' confidence in the power of their metaphor: a little boy who's disappointed in the man he grew up to be.",
+        "But if the endpoint is a homiletic given, the journey itself is more charming, and less sentimental, than you might suspect.",
+        "An utterly competent, systematically entertaining summer movie.",
+        "This is quintessential \"family entertainment.\"",
+        "A movie we might like to buy into if left to our own devices, but that idea is anathema to Turteltaub, intent on pushing us so hard that we end up pushing back.",
+        "This boomer-coddling comic fantasy, in which a callous adult on the brink of 40 has a chance encounter with his pudgy, lisping 8-year-old self, is an iffier what-if.",
+        "There isn't a moment in the film that isn't overhyped.",
+        "Audrey Wells's script and Turteltaub's presentation ring true just often enough to prevent the comedy from descending forever into Cutesy-Wutesy Hell.",
+        "Perfectly acceptable entertainment in the Mouse Factory's most familiar vein.",
+        "There's nothing Disneyesque about this bomb except the forced levity of its musical score.",
+        "This slight, predictable comedy has appealing moments.",
+        "Surprisingly enough, it often soars to heights of not bad.",
+        "Every time the movie seems poised to veer into watchability, however, Turteltaub is there, like a beat cop for the Fun Police, reminding us to laugh, sigh, or tear up.",
+        "Willis and Breslin are stuck in a charmless, predictable picture they can't escape.",
+        "Manipulative but fitfully entertaining \"Twilight Zone\"-ish comedy of redemption.",
+        "A lightweight, intermittently engaging comedy.",
+        "Falls flat on its face.",
+        "Neither can I imagine many sane adults wanting to put themselves through this movie.",
+        "So rich in processed sugar, canned sentiment and schmaltz, I thought I was going to throw up.",
+        "Wields its Middle America values and moralistic flogging of idiosyncratic lifestyle choices like a flipped bird.",
+        "Deadly dull.",
+        "Director Jon Turteltaub's insistence upon hammering every point home with giant closeups and relentless musical underlining makes this insufferably cloying and sickly sweet.",
+        "The Kid's denouement resembles the nightmare that would have transpired had execs foisted a toupee and a happy ending on \"12 Monkeys.\""
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "This is a wonderful family movie with a lot of funny and warm moments.    Bruce Willis and Spencer Breslin were fantastic.",
+            "review_date": "2012-02-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "this movie is so horrible!",
+            "review_date": "2010-11-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love this movie. It has touching moments and a great message for all of us that reminds us to keep alive the kid we all have inside.",
+            "review_date": "2020-04-02",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 34
 }

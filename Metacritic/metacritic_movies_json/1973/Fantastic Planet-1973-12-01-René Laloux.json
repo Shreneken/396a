@@ -1,42 +1,38 @@
 {
-  "title": "Fantastic Planet",
-  "rating": 7.0,
-  "release_date": "1973-12-01",
-  "genre": [
-    "Sci-Fi",
-    "Animation"
-  ],
-  "summary": "On a faraway planet where blue giants rule, oppressed humanoids rebel against their machine-like leaders.",
-  "critic_reviews": [
-    "Thirty-five years later, Rene Laloux's surreal animated film remains a singular psychedelic experience. For the uninitiated, think Yellow Submarine but way more arty, trippy and funky. Highly recommended.",
-    "Fantastic Planet uses an accessible medium to show the evils of propaganda and express the need for individuality. Laloux's vision of a Dali-meets-Krazy Kat alien landscape populated by twisted creatures is quite striking, even if the film's psychedelic elements haven't exactly aged well.",
-    "It’s not a hard movie to watch, but it’s a thought-provoking test about one’s capacity to push through distractions and discover what’s important.",
-    "Although the visuals are worth the ticket alone, Fantastic Planet also crackles with emotional and political resonance.",
-    "Surreal and wonderful in a way not often seen from Europe.",
-    "Eerie, surreal and a welcome respite from Disney-style animation, this French sci-fi allegory may not offer any mind-blowing insights (genocide is bad isn't exactly a new thought), but it's a trip.",
-    "Fantastic Planet’s blend of straightforward, almost elementary storytelling (any missing context is filled in via a voiceover by Jean Valmont as the adult Terr) with heady themes and eroticized imagery marks the film as a relic of an era with much looser standards around the dichotomy of the children’s film and the adult drama.",
-    "This is highly engrossing science-fiction, a French-Czechoslovak co-production in animation.",
-    "The film has a flat quality that cannot entirely be overcome by the sensational animation and the obvious good intentions of its creators."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Why did not a single woman in this movie have a full shirt, how did they not get cold?!",
-      "review_date": "2022-08-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "On est très étonné devant une telle oeuvre, un tel dessin animé très éloigné à la fois des productions Disney (et a fortiori Pixar et al.) et de la japanimation en général. Vu son âge, c’est assez bien réalisé et animé mais je ne suis pas sûrOn est très étonné devant une telle oeuvre, un tel dessin animé très éloigné à la fois des productions Disney (et a fortiori Pixar et al.) et de la japanimation en général. Vu son âge, c’est assez bien réalisé et animé mais je ne suis pas sûr que ce soit recommandé pour les mioches qui seraient sans doute choqués, voire traumatisés eu égard aux thèmes abordés. Un peu comme certains animes japonais, me dira-t-on !L’humanité décrite en est réduite ici à tenter de survivre comme des crevards de cafards à la merci d’une espèce de géants qui règnent en maîtres absolus, exterminent les hommes en masse ou au mieux en font leur animaux de compagnie. Mais à la faveur d’un concours de circonstances, la résilience et l’adaptation du genre humain feront des merveilles…Le style est en tout cas particulier et particulièrement kitsch pour ne pas dire souvent bizarre ou de mauvais goût mais c’est ce caractère bizarre et totalement dépaysant ainsi qu’étrange qui donnent du cachet, une ambiance et une originalité indéniable à ce long-métrage à nul autre pareil. La musique est logée à la même enseigne, celle bien ringarde du début des années 70 et là aussi, on a un peu de mal… à adhérer.La survie de l’homme est fort bien restituée dans cet environnement impitoyable qui prend des allures de post-apocalypse aussi cruelle qu’effroyable avec outre les géants et leurs outils de « déshommisation », des créatures issues de la faune extra-terrestre extrêmement dangereuses pour les lilliputiens humains.Une oeuvre donc tout-à-fait digne d’intérêt, très kitsch et comme on en fait plus malgré ses travers dans le mauvais goût et le… bizarre !",
-      "review_date": "2021-05-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Vivid, imaginative, trippy and thought-provoking. Can't do anything except gawking the screen, wide-eyed the entire time. Such inventive and ingenious piece of art. One of the most profound films I've ever seen.",
-      "review_date": "2023-03-06",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 12
+    "title": "Fantastic Planet",
+    "rating": 7.0,
+    "release_date": "1973-12-01",
+    "genre": [
+        "Sci-Fi",
+        "Animation"
+    ],
+    "summary": "On a faraway planet where blue giants rule, oppressed humanoids rebel against their machine-like leaders.",
+    "critic_reviews": [
+        "Thirty-five years later, Rene Laloux's surreal animated film remains a singular psychedelic experience. For the uninitiated, think Yellow Submarine but way more arty, trippy and funky. Highly recommended.",
+        "Fantastic Planet uses an accessible medium to show the evils of propaganda and express the need for individuality. Laloux's vision of a Dali-meets-Krazy Kat alien landscape populated by twisted creatures is quite striking, even if the film's psychedelic elements haven't exactly aged well.",
+        "It\u2019s not a hard movie to watch, but it\u2019s a thought-provoking test about one\u2019s capacity to push through distractions and discover what\u2019s important.",
+        "Although the visuals are worth the ticket alone, Fantastic Planet also crackles with emotional and political resonance.",
+        "Surreal and wonderful in a way not often seen from Europe.",
+        "Eerie, surreal and a welcome respite from Disney-style animation, this French sci-fi allegory may not offer any mind-blowing insights (genocide is bad isn't exactly a new thought), but it's a trip.",
+        "Fantastic Planet\u2019s blend of straightforward, almost elementary storytelling (any missing context is filled in via a voiceover by Jean Valmont as the adult Terr) with heady themes and eroticized imagery marks the film as a relic of an era with much looser standards around the dichotomy of the children\u2019s film and the adult drama.",
+        "This is highly engrossing science-fiction, a French-Czechoslovak co-production in animation.",
+        "The film has a flat quality that cannot entirely be overcome by the sensational animation and the obvious good intentions of its creators."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Why did not a single woman in this movie have a full shirt, how did they not get cold?!",
+            "review_date": "2022-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Vivid, imaginative, trippy and thought-provoking. Can't do anything except gawking the screen, wide-eyed the entire time. Such inventive and ingenious piece of art. One of the most profound films I've ever seen.",
+            "review_date": "2023-03-06",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 12
 }

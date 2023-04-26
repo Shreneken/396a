@@ -1,77 +1,83 @@
 {
-  "title": "Lilya 4-Ever",
-  "rating": 8.0,
-  "release_date": "2003-04-18",
-  "genre": [
-    "Drama",
-    "Crime"
-  ],
-  "summary": "Set in contemporary Russia, this film recounts 13-year-old Lilya's struggle to survive the grim streets.",
-  "critic_reviews": [
-    "Light entertainment, this is not. Unforgettable and challenging cinema, it is.",
-    "A haunting and incandescent work of art.",
-    "What makes the film so compelling is the ferocious ingenuity with which Moodysson ratchets up the fear and astonishment that accompany Lilya's all too believable descent.",
-    "It's almost too devastating for words, yet never less than compelling and heartbreakingly affecting.",
-    "Lilya's struggle to make a life for herself is both heartbreaking and heart-stirring.",
-    "It is Akinshina's presence and performance that make the pedestrian story heart-wrenching. She is pretty, responsive, reflective. Without the slightest strain, she convinces us of the beauty and pathos and hope within Lilya.",
-    "The most remarkable achievement of the film is its presentation of Lilya's story as both an archetypal case study and a personal drama whose spunky central character you come to care about so deeply that you want to cry out a warning at each step toward her ruination.",
-    "Hard-hitting, dark and tragic story that rarely lets up.",
-    "Lilya is the more genuinely unsettling film because Moodysson seems to actually know something of what it is to take and stumble beneath a crushing blow. You feel that here. And you feel it for days after.",
-    "I can't think of another good movie this year that's as tough to watch as Moodysson's, but, then, I can't think of very many movies that are as good.",
-    "Lilya is portrayed by Oksana Akinshina, who gives a dynamic, heartbreaking performance... She was wonderful in [\"Brothers\"], but is even more astonishing in Lilya 4-Ever.",
-    "What's remarkable as we watch Lilya's plunge (and the brief, false rays of light that illuminate it) is how real Moodysson makes her plight, how intensely he makes us empathize with Lilya.",
-    "Lukas Moodysson, a young Swedish director, crafts a stunner of a film out of familiar turf.",
-    "If you're tired of false holiday cheer, Lilya 4-Ever will provide a corrective to the spiritual eggnog force-fed to us all season. The climax takes place during Christmas, though one that would make Tiny Tim grateful for his crutch and cold chimney corner.",
-    "Forget \"Irreversible,\" this is the season's most piercingly feel-bad movie.",
-    "Akinshina and Bogucharskij are remarkable together, and Moodysson once again demonstrates a sophisticated visual skill matched only by his innate understanding of the adolescent heart.",
-    "The movie, written and directed by Lukas Moodysson, has the directness and clarity of a documentary, but allows itself touches of tenderness and grief.",
-    "This grim Danish-Swedish production is socially revealing and artistically creative, both coldly realistic and infused with compassion for its heroine and her youth culture.",
-    "Doesn't derive its power from the turning wheels of plot suspense but from the simple act of looking and not blinking.",
-    "Terrific filmmaking, but it's hard to leave Moodysson's picture without feeling much of anything except hopelessness. Utterly.",
-    "Riveting.",
-    "What it became is essentially one long free-fall from destitution to despair.",
-    "Not without its own bleak integrity. But the movie wipes you out and leaves you with nothing, not even the feeling of exaltation that can be present in the most tragic works of art.",
-    "Amazingly realistic and engaging drama about society punctuated with both humor and grittiness.",
-    "a despairing movie that you can't look away from, though you'll wish you could.",
-    "The result is grimly \"effective,\" but it made me long for Hollywood junk."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Pity you made big mistake.Its not the streets of Moscow!!!!! i believe its Estonia.",
-      "review_date": "2003-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "is been almost 3 years since I've seen it and i still cant get over it. it goes to your soul, and plants itself there and like an internet virus comes up every now and then to shock and shake again. please watch it. you need to know this stuff.",
-      "review_date": "2007-01-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This Is One Splendid Movie.It Must Be Shared With Everybody.",
-      "review_date": "2005-12-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not easy to watch, but Lilya (Oksana Akinshina) and Volodya (Artiom Bogucharski) share such a warm, genuine rapport that there is some redemption to be found, if only in their all too fleeting moments together. Immensely compelling. Not easy to watch, but Lilya (Oksana Akinshina) and Volodya (Artiom Bogucharski) share such a warm, genuine rapport that there is some redemption to be found, if only in their all too fleeting moments together. Immensely compelling. Akinshina is a wonder.",
-      "review_date": "2005-10-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If there is a more frightening and effective portrayal of a young girl's slow downfall, I've yet to see it.",
-      "review_date": "2006-02-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Riveting and powerful study of one girls journey from poverty and abandonment to life as a sex slave. Will impact all but the most cynical & hard hearted viewer, while telling one of the most important stories of the past decade. The issue Riveting and powerful study of one girls journey from poverty and abandonment to life as a sex slave. Will impact all but the most cynical & hard hearted viewer, while telling one of the most important stories of the past decade. The issue of pedaling young girls for profit is a story that should be told in every high school.",
-      "review_date": "2007-07-25",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 32
+    "title": "Lilya 4-Ever",
+    "rating": 8.0,
+    "release_date": "2003-04-18",
+    "genre": [
+        "Drama",
+        "Crime"
+    ],
+    "summary": "Set in contemporary Russia, this film recounts 13-year-old Lilya's struggle to survive the grim streets.",
+    "critic_reviews": [
+        "Light entertainment, this is not. Unforgettable and challenging cinema, it is.",
+        "A haunting and incandescent work of art.",
+        "What makes the film so compelling is the ferocious ingenuity with which Moodysson ratchets up the fear and astonishment that accompany Lilya's all too believable descent.",
+        "It's almost too devastating for words, yet never less than compelling and heartbreakingly affecting.",
+        "Lilya's struggle to make a life for herself is both heartbreaking and heart-stirring.",
+        "It is Akinshina's presence and performance that make the pedestrian story heart-wrenching. She is pretty, responsive, reflective. Without the slightest strain, she convinces us of the beauty and pathos and hope within Lilya.",
+        "The most remarkable achievement of the film is its presentation of Lilya's story as both an archetypal case study and a personal drama whose spunky central character you come to care about so deeply that you want to cry out a warning at each step toward her ruination.",
+        "Hard-hitting, dark and tragic story that rarely lets up.",
+        "Lilya is the more genuinely unsettling film because Moodysson seems to actually know something of what it is to take and stumble beneath a crushing blow. You feel that here. And you feel it for days after.",
+        "I can't think of another good movie this year that's as tough to watch as Moodysson's, but, then, I can't think of very many movies that are as good.",
+        "Lilya is portrayed by Oksana Akinshina, who gives a dynamic, heartbreaking performance... She was wonderful in [\"Brothers\"], but is even more astonishing in Lilya 4-Ever.",
+        "What's remarkable as we watch Lilya's plunge (and the brief, false rays of light that illuminate it) is how real Moodysson makes her plight, how intensely he makes us empathize with Lilya.",
+        "Lukas Moodysson, a young Swedish director, crafts a stunner of a film out of familiar turf.",
+        "If you're tired of false holiday cheer, Lilya 4-Ever will provide a corrective to the spiritual eggnog force-fed to us all season. The climax takes place during Christmas, though one that would make Tiny Tim grateful for his crutch and cold chimney corner.",
+        "Forget \"Irreversible,\" this is the season's most piercingly feel-bad movie.",
+        "Akinshina and Bogucharskij are remarkable together, and Moodysson once again demonstrates a sophisticated visual skill matched only by his innate understanding of the adolescent heart.",
+        "The movie, written and directed by Lukas Moodysson, has the directness and clarity of a documentary, but allows itself touches of tenderness and grief.",
+        "This grim Danish-Swedish production is socially revealing and artistically creative, both coldly realistic and infused with compassion for its heroine and her youth culture.",
+        "Doesn't derive its power from the turning wheels of plot suspense but from the simple act of looking and not blinking.",
+        "Terrific filmmaking, but it's hard to leave Moodysson's picture without feeling much of anything except hopelessness. Utterly.",
+        "Riveting.",
+        "What it became is essentially one long free-fall from destitution to despair.",
+        "Not without its own bleak integrity. But the movie wipes you out and leaves you with nothing, not even the feeling of exaltation that can be present in the most tragic works of art.",
+        "Amazingly realistic and engaging drama about society punctuated with both humor and grittiness.",
+        "a despairing movie that you can't look away from, though you'll wish you could.",
+        "The result is grimly \"effective,\" but it made me long for Hollywood junk."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Pity you made big mistake.Its not the streets of Moscow!!!!! i believe its Estonia.",
+            "review_date": "2003-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "is been almost 3 years since I've seen it and i still cant get over it. it goes to your soul, and plants itself there and like an internet virus comes up every now and then to shock and shake again. please watch it. you need to know this stuff.",
+            "review_date": "2007-01-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This Is One Splendid Movie.It Must Be Shared With Everybody.",
+            "review_date": "2005-12-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not easy to watch, but Lilya (Oksana Akinshina) and Volodya (Artiom Bogucharski) share such a warm, genuine rapport that there is some redemption to be found, if only in their all too fleeting moments together. Immensely compelling. Not easy to watch, but Lilya (Oksana Akinshina) and Volodya (Artiom Bogucharski) share such a warm, genuine rapport that there is some redemption to be found, if only in their all too fleeting moments together. Immensely compelling. Akinshina is a wonder.",
+            "review_date": "2005-10-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If there is a more frightening and effective portrayal of a young girl's slow downfall, I've yet to see it.",
+            "review_date": "2006-02-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Riveting and powerful study of one girls journey from poverty and abandonment to life as a sex slave. Will impact all but the most cynical & hard hearted viewer, while telling one of the most important stories of the past decade. The issue Riveting and powerful study of one girls journey from poverty and abandonment to life as a sex slave. Will impact all but the most cynical & hard hearted viewer, while telling one of the most important stories of the past decade. The issue of pedaling young girls for profit is a story that should be told in every high school.",
+            "review_date": "2007-07-25",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 32
 }

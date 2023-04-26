@@ -1,662 +1,762 @@
 {
-  "title": "Star Trek",
-  "rating": 7.8,
-  "release_date": "2009-05-07",
-  "genre": [
-    "Action",
-    "Adventure",
-    "Sci-Fi"
-  ],
-  "summary": "The greatest adventure of all time begins with Star Trek, the incredible story of a young crew's maiden voyage onboard the most advanced starship ever created: the U.S.S. Enterprise. On a journey filled with action, comedy and cosmic peril, the new recruits must find a way to stop an evil being whose mission of vengeance threatens all ofThe greatest adventure of all time begins with Star Trek, the incredible story of a young crew's maiden voyage onboard the most advanced starship ever created: the U.S.S. Enterprise. On a journey filled with action, comedy and cosmic peril, the new recruits must find a way to stop an evil being whose mission of vengeance threatens all of mankind. The fate of the galaxy rests in the hands of bitter rivals. One, James T. Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before! [Paramount]… Expand",
-  "critic_reviews": [
-    "This new Star Trek is fast-moving, funny, exciting warp-speed entertainment and, heaven help me, even quite moving - the kind of film that shows that, like it or not, commercial cinema can still deliver a sledgehammer punch.",
-    "Paced at warp speed with spectacular action sequences rendered brilliantly and with a cast so expert that all the familiar characters are instantly identifiable.",
-    "Blasting onto the screen at warp speed and remaining there for two hours, the new and improved Star Trek will transport fans to sci-fi nirvana.",
-    "The new Star Trek is more than a coat of paint on a space-age wagon train. It's an exciting, stellar-yet-earthy blast that successfully blends the hip and the classic.",
-    "Not only does this Star Trek proffer smart thrills and slick kicks, but it builds upon the original's history–from its very first pilot episode to Robert Wise's 1979 \"Star Trek: The Motion Picture\" and beyond–while creating an entirely new future.",
-    "In the pop high it delivers, this is the greatest prequel ever made.",
-    "This installment has achieved a nearly impossible hat trick. It's a movie that is exegetically correct enough to appease the most hard-core buffs, while opening up the final frontier to a whole new generation of fans who have yet to appreciate Star Trek's ineffable combination of sci-fi action, campy humor and yin-yang philosophical tussle between logic and emotion.",
-    "The new, vastly improved Star Trek moves at warp speed through a marvelously reinvented sci-fi franchise, reverent to the past and firmly entrenched in the now.",
-    "The clever and infectious reboot of the amazingly enduring sci-fi classic, director J.J. Abrams crafts an origin myth that avoids any hint of the origin doldrums. That's because he rewires us back into the original Star Trek's primal appeal.",
-    "Full of life, wit, smarts, thrills and sheer gratifying entertainment that it launches the mind on a stream of merry somersaults.",
-    "It's hard to imagine anyone caring much why we're plunging ahead at warp speed, when the ride is so insanely satisfying.",
-    "Retains the original Star Trek's spirit of optimism, curiosity, and humor.",
-    "An affectionate, exuberant picture that seeks to bring even those who don't know Klingon from Portuguese into the embrace of a pop-culture phenomenon.",
-    "Isn't just a pleasurable rethink of your geek uncle's favorite science-fiction series. It's also a testament to television's power as mythmaker, as a source for some of the fundamental stories we tell about ourselves, who we are and where we came from.",
-    "Star Trek goes back to the legend's roots with a boldness that brings a fatigued franchise back to life.",
-    "It's not necessary to be a longtime fan of the Star Trek universe to appreciate the sheer emotional punch and swagger of this rough and randy Enterprise crew.",
-    "Vigorously played as a young man by Chris Pine, Kirk is a brilliant, sports-car driving, bar-brawling rebel who is finally shamed into joining Starfleet Academy.",
-    "The result is more exciting than the last four ST pictures put together, more fun than a barrel of Tribbles, and the most satisfying action-adventure since last year's \"Iron Man.\"",
-    "A burst of pure filmmaking exhilaration that manages to pay homage to the classic 1960s TV series and still boldly go where no man, William Shatner and Leonard Nimoy included, has gone before.",
-    "We were also glad to see they didn't ignore the humorous elements that made the original so great. Plus, the casting is spot on.",
-    "It fulfills its promise of rebooting the series while leaving us wanting more, and it does so with style and energy to spare. Now that's an origins tale that truly delivers.",
-    "Gripping action and vulnerable heroes writ large. It boldly goes somewhere different and makes it hard to leave the film not hoping for a return voyage soon.",
-    "This is a grand success – perhaps a new populist benchmark in what to do with a flagging franchise, and a witty, light-on-its-feet prequel.",
-    "The overall impression is one of unbridled enthusiasm on the part of the film’s makers, both for its predecessors and for the brave new universe Abrams and his crew are exploring.",
-    "Buoyant, buffed and with the promise of even better to come, this is the freshest Trek in decades.",
-    "The movie is fun, it's smart and there's plenty of action. There are enough knowing nods to old-school fans to satisfy them, but the nods don't get in the way. In fact - and a feel for this kind of thing is what makes Abrams so good - they're perfect, nice accents that won't slow down the uninitiated.",
-    "Odd-number curse be gone. The most exhilarating Trek to date marks a new future for Kirk and co. If this can boldly go on to seek out ideas to match its speed and style, a franchise is reborn.",
-    "Abrams and his writers (Roberto Orci and Alex Kurtzman) have come up with a way to make you dig the souped-up new scenery while pining for the familiar--a good thing.",
-    "It's a real family film, relatively light on the violence and funny without being overly crude; it even has some touching moments.",
-    "Though it has its over-caffeinated aspects and its missteps, this Star Trek has in general bridged the gap between the old and the new with alacrity and purpose.",
-    "Star Trek is pretty damn enjoyable. By resetting the franchise to what is essentially Year One, Abrams has the luxury of...gently reshaping the core characters.",
-    "This is easily the best “Trek” movie since “Khan,” giving the rebooted franchise ample reason to proceed at warp speed.",
-    "Ultimately, when the end credits roll, we're left with the sense that Star Trek represents a good beginning. As a film tasked with getting all the characters together, re-booting a timeline, and finding a way to return a veteran actor to his beloved role, Star Trek works.",
-    "Breathlessly paced bordering on manic, but propulsively entertaining.",
-    "There is considerable fun in discovering the hows and whys the crew of the U.S.S. Enterprise came together, and each member has at least one moment in the spotlight, including the esteemed helmsman Sulu.",
-    "When it comes to sheer spectacle, Star Trek, as re-imagined by J.J. Abrams, delivers.",
-    "What makes this movie ultra-contemporary is the way Abrams has re-imagined Spock and Kirk as a team of rivals.",
-    "Smart and youthful, with a well-balanced package of humour, romance, crisp action and character-based drama, Star Trek gives popcorn movies a good name.",
-    "At its best, the effect is like seeing life panoramically, past and future, simultaneous and magnificent.",
-    "The young cast is mostly callow and TV-bland and the special effects don't quite seem worth that hefty price tag, but overall this is a presentable addition to the franchise.",
-    "It's one heck of a fun ride, a pure popcorn spectacle that doesn't require a knowledge of the Star Trek mythology to make it enjoyable.",
-    "Like the original cast’s best movie, The Wrath of Khan, this Star Trek essentially turns out to be a war film, with the occasional philosophical timeout to discuss love, friendship, and duty until the next bone-crunching fistfight or multi-weapon rumble with the Romulans. But Bana’s villain lacks the wit and corny majesty of Ricardo Montalban’s.",
-    "The movie deals with narrative housekeeping. Perhaps the next one will engage these characters in a more challenging and devious story, one more about testing their personalities than re-establishing them. In the meantime, you want space opera, you got it.",
-    "The visual effects are predictably excellent -- sometimes, in the case of a three-man free fall through space, unexpectedly lyrical -- but most of the movie's dramatic conflicts feel strictly pro forma.",
-    "This new Star Trek is nonsense, no question (\"Prepare the red matter!\"), but at least it's not boggy nonsense, the way most of the other movies were, and it powers along, unheeding of its own absurdity, with a drive and a confidence that the producers of the original TV series might have smiled upon.",
-    "A relatively mindless thrill ride that would have made the old NBC execs grin from ear to ear."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Star trek 2009, as I call it, Star Trek: the MOVING Picture is a fast paced thrill ride that leaves it brain at the door. Donâ",
-      "review_date": "2011-04-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Well this movie strips out all the smarts of the original IP and replaces it with brainless action, I didn't watch Star Trek for it's action scenes, I watched it so I could enjoy the escapades of the crew and their adventures in space, sureWell this movie strips out all the smarts of the original IP and replaces it with brainless action, I didn't watch Star Trek for it's action scenes, I watched it so I could enjoy the escapades of the crew and their adventures in space, sure in the original series the only \"Real\" characters were McCoy, Spock, & Kirk, and this movie just does horrible things to them. I'm not here to say that's it's a bad movie per se, but it fails to do the IP justice, wand assassinates the characters along the way.",
-      "review_date": "2011-03-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As a long time Trek fan,i was really looking forward to this movie,especiially after watching the full trailer with the rousing music by Two Steps from Hell.Have to say though,i found the movie completely underwelming.. I know its supposed toAs a long time Trek fan,i was really looking forward to this movie,especiially after watching the full trailer with the rousing music by Two Steps from Hell.Have to say though,i found the movie completely underwelming.. I know its supposed to be a reboot,but why make a Trek movie,if your going to ignore the whole history of ALL the series,with events like the Vulcan home planet getting destroyed?! Dont get me wrong,the film has its moments,& is quite slickly shot,But Kirk trying to get it on with Uhuru? Spock IN a relationship with Uhuru? Kirk taking command the way he did was lame.The cast were prett good on the whole,but Notably good in the film was the guy who played Spock(I forget his name),& Karl Urban as Dr Mcoy i thought.The effects were pretty good on the whole,but there was far & away not enough space sequences/battles,& what there was,was lackluster.These are supposed to be big lumbering ships,with alot of crew members doing all sorts of tasks on board,so why is this never really capitalised & done justice in the Trek movies to make tense & prolonged battles between starships?.. The ones that came the closest to this was The Wrath of Khan,& Nemisis,both better movies for it.Though my favourate Trek movie stll has to be First Contact BY FAR,followed by Nemisis,then Wrath of Khan.I hope the next movie(if there is one),has a proper space battle you can sink your teeth into & enjoy,cos this movie didnt,Far from it.",
-      "review_date": "2011-06-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Star Trek is really awful. The original series was known for being cheesy and stupid, which is also why it never resonated with me too much. Sadly, so is this one. Packed with stupid quips that are supposed to be funny but are not, Star TrekStar Trek is really awful. The original series was known for being cheesy and stupid, which is also why it never resonated with me too much. Sadly, so is this one. Packed with stupid quips that are supposed to be funny but are not, Star Trek is also maligned by many other faults. The entire cast is dreadful, the story is beyond stupid, convoluted, and ruined by the time travel element. The time travel element, instead of being interesting, is really poorly executed and makes no sense whatsoever. It adds a layer of complexity to a plot that did not really need another layer of complexity. The resolution comes far too quickly and easily. Sure, some people die, but the crew is never really threatened. The plot is packed with filler that really adds nothing other than an opportunity to play 80's music. The dialogue is horrifically cringe-inducing and, even worse, it looks fake. The set design is blatantly obvious and is so bad it is reminiscent of a 50's movie when somebody is \"driving\" a car - it is that obvious. The only saving grace here is the special effects, which are incredible. Unfortunately, the look of the film is ruined by JJ Abrams' hard on for lens flare, which is distracting and wildly overused. Overall, Star Trek may have stunning space visuals and some cool designs, but the film is like the hot girl with no personality.",
-      "review_date": "2016-08-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Cliched action and awful characters. Misses everything that makes Star Trek interesting.",
-      "review_date": "2018-04-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A little bit more heart, substance and dare I say it – logic – and I might have enjoyed the fun parts where the things blew up and the people yelled at each other.",
-      "review_date": "2014-08-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I give this movie a 6.5/10. My reaction to it was, \"...meh.\" I just din't really care for it. It wasn't as exciting or well written as I had hoped but it certainly wasn't a bad movie. Maybe I'd liek it more if I were a die hard Star Trek fanI give this movie a 6.5/10. My reaction to it was, \"...meh.\" I just din't really care for it. It wasn't as exciting or well written as I had hoped but it certainly wasn't a bad movie. Maybe I'd liek it more if I were a die hard Star Trek fan but this was actually the first movie of it I saw. I prefer Into Darkness over this movie by far, but that's not to say this isn't a pretty decent movie.",
-      "review_date": "2015-05-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's amazing! The writers have balls! Finally the reset button is hit and all that cannon can start over!",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In a word: perfect. And I feel the need to point out that I'm -not- a Trekkie, and I -am- a really harsh critic. I know that sounds lame, but go see this and say I'm wrong.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As a child and teenager, I grew up with the \"Star Trek: The Next Generation\". While I was never a hardcore Star Trek fan, I did enjoy quite a few seasons of that series as well as \"Star Trek: Voyager\" and \"Star Trek: Deep Space Nine\". Still,As a child and teenager, I grew up with the \"Star Trek: The Next Generation\". While I was never a hardcore Star Trek fan, I did enjoy quite a few seasons of that series as well as \"Star Trek: Voyager\" and \"Star Trek: Deep Space Nine\". Still, the original series never really appealed to me. They always came off as outdated in so many ways I guess I outgrew them before I had the chance to get into them.\r \"Star Trek: The Future Begins\" didn't really manage to impress me, largely because it's basically nothing but barely disguised \"fan service\" for the fans of the original series stretched in a thin two hour plot.\r That plot evolves around two heroes : Spock and James T. Kirk. After a couple of scenes depicting their childhood, both meet each other as Starfleet cadets during a pretty contrived conflict and end up in a couple more conflicts until they realize they need to overcome their differences and collaborate to save the future of the earth. That pretty much sums up the whole plot.\r Several supporting characters from the original series are also included in the movie, although they're given so little screen time and character development you barely get to know them at all. All the attention goes to Spock and James T. Kirk, and even these characters are barely developed beyond caricatures. The main protagonist of the story has been given a back story not just very thin but so far-fetched and random he felt more like an afterthought than an integral plot of the movie.\r While the visual effects were as professional as one would expect of a movie with this budget, I also wasn't impressed by the movie when I tried to forget about all the plot holes and just tried looking at pretty pictures. Too much shaky cam, a ridiculous amount of annoying lens flares, awkward close-ups and an ADHD pacing gave the movie not nearly the amount of eye-candy I most definitely did expect of a movie like this, leaving me mostly disappointed by the time the credits passed the screen.\r I did very much appreciate the movie's sense of humor, though, but jokes were too few and too far in between to be a redeeming factor.",
-      "review_date": "2016-01-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This one, just like the second movie, is taken so far away from what Star Trek was supposed to be - an interesting, exciting and dramatic sci-fi, that drifts along in a slow, gentle pace, where character development, exploration, intrigue andThis one, just like the second movie, is taken so far away from what Star Trek was supposed to be - an interesting, exciting and dramatic sci-fi, that drifts along in a slow, gentle pace, where character development, exploration, intrigue and character interactions are given a lot of space.\rI know this was a movie, so it's not capable of filling as much of that in, but JJ Abrams didn't even try. He didn't want to try, as he's mentioned in interviews, with Jon Stewart for example, that Star Trek was always \"too philosophical\". You need to think too much, apparently, to like Star Trek in his mind, so he turned it into action schlock, where some of the in-universe science has just been thrown out the window (I mean c'mon, there's nitpicking and then there's stars that THREATEN THE ENTIRE GALAXY).\rStar Trek had proceeded towards its death for a long time though. But Abrams and his team didn't want to try to resurrect it, instead they stabbed the corpse.",
-      "review_date": "2015-06-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Painfully dull clichéd action fare, Star Trek is not Star Trek. Transposed aspects of the original are diluted, stripped-down, downright illogical and nonsensical. Appropriate for 'teen' audiences, the mentally deficient and those not yetPainfully dull clichéd action fare, Star Trek is not Star Trek. Transposed aspects of the original are diluted, stripped-down, downright illogical and nonsensical. Appropriate for 'teen' audiences, the mentally deficient and those not yet born when even The Next Generation was on air. Dreck.",
-      "review_date": "2014-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Where to begin. How to compare the reboot to original trek and whether to compare it to TNG?\r Firstly, what made trek trek? Above all, star trek had at its core a humanistic theme and vision. It was often a story of how to tackle 1 or 2Where to begin. How to compare the reboot to original trek and whether to compare it to TNG?\r Firstly, what made trek trek? Above all, star trek had at its core a humanistic theme and vision. It was often a story of how to tackle 1 or 2 specific current day issues without the pragmatic constraints of our current day world. It was often hopelessly idealistically naive (from our point of view) but always thought provoking and sometimes (mainstream) ground-breaking. This is what set the star trek franchise apart from generic sci-fi and space adventure like Star Wars.\r Sadly, this movie utterly failed to capture that essence of trek.\r The first 20 mins of opening sequence are a beautiful and somewhat emotional alternate/new back-story to Captain Kirk. If all the movie were like this it would get 9 or 10 stars from me. From there on however this movie primarily trades on nostalgia quotes and references in-between modern cgi explosions and fisticuffs. By the middle of the movie this is starting to wear thin and you are starting to notice the omnipresent lens-flares. A pointless scene shot in an obvious distillery marks the low-point and realisation that this is all it has to offer.\r This is a cheap, popcorn action flick trading on the beloved franchise in name and nostalgia only. Worse than that, the time taken by the shallow and transparent throwbacks leaves the characters feeling very 2 dimensional and there isn't any room for a plot worth speaking of (except by the many plot contrivances). It manages to have less gravitas than the average stand-alone, high-budget, Hollywood action movie.\r In short; it's just loud, fast and dumb, exactly what classic trek was deliberately and notably not.",
-      "review_date": "2016-01-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A thrilling ride from start to finish. An outstanding ensemble cast embarks on an epic mission paired with superb special effects and numerous laugh out loud moments. 2 things bothering me: physics got flushed down the toilet and the new A thrilling ride from start to finish. An outstanding ensemble cast embarks on an epic mission paired with superb special effects and numerous laugh out loud moments. 2 things bothering me: physics got flushed down the toilet and the new alternative universe.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Overall, this could have been any C grade science fiction movie. Let's break this down. Here's what was bad about this movie:The script - it was so horribly cliched, and full of massive plot holes that render some major scenes inert. TheOverall, this could have been any C grade science fiction movie. Let's break this down. Here's what was bad about this movie:The script - it was so horribly cliched, and full of massive plot holes that render some major scenes inert. The pacing was too well done, no time out is taken to get to know these characters particularly well, and we get the bare minimum of development. On the whole, this film is just a Transformers style action film punctuated with bursts of emotion in ways that are so obviously contrived I don't know how anyone fell for this.The villain - has the worst motivations for doing what he is doing in any film. Future Spock did his best to help him, and failed in his attempt. So its logical to assume that because of that, cliche villain will now destroy all the Federation planets, so in the future, nobody can help him. And before anyone tries to tell me he's crazy, Bana's performance and the dialogue given to him does not suggest someone who is crazy. Heath Ledger's Joker is crazy. This guy isn't. Kirk - What an **** At the end of the movie we get no sense that he is any different from the pompous prick who crashed his step dad's car for fun at the beginning of the movie. What awful character development. The cinematography - EVERYTHING has to be shot from within 10 feet of the **** subject. Whoever the DoP for this film was, don't hire them again. They don't know how to set up a goddamn shot, everything was shot so close and with the camera shaking so much like it was sat on a giant vibrator, it got difficult to tell what was supposed to be happening. Also, take out all the lens flares. Yeah, they look nice for some shots, but not every shot in the film. Unexplained things - So, this red matter can destroy a planet. Or it can be completely harmless to ships so they can be sent back in time so we can have this film. And then later on, it destroys the ships. Thanks for the explanation guys. Oh yeah, that's right, the plot says it has to happen, so it does.Having said that, there are a few things that were good in this film. Zachary Quinto and Karl Urban both did a good job with what they had to work with, Quinto especially. I didn't like Zoe Saldana in this film, she just seemed to come off as arrogant as Uhura, and Chris Pine as Kirk didn't go very well, though at times he really showed off his acting ability with what awful material he had to work from. The design overall was nice, I loved the new look for engineering, its how I'd imagine the engine room of a vast starship to look like. Just little subtle things like these made this film pop up a bit more. It's definitely not an intelligent movie, but it sort of serves as a bridge between the best of Trek films and the worst of Trek films. It's a movie that you can enjoy with your buddies while eating a pizza and having some beer, but its not a film to watch if you want something intelligent. And that is the problem - Star Trek is capable, and has to be about big ideas. This isn't Star Trek at all.",
-      "review_date": "2011-12-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Movie that killed Star Trek,\r unlogical Vulcans, oddly size changing ships (from 320m to 700m, dvd extras), no explanation why tech evolved so quickly apart from the prime-timeline.\r\n\r\nWay too much Star Wars effect in a Star Trek movie.The Movie that killed Star Trek,\r unlogical Vulcans, oddly size changing ships (from 320m to 700m, dvd extras), no explanation why tech evolved so quickly apart from the prime-timeline.\r Way too much Star Wars effect in a Star Trek movie.  No boldly going, just kill and shot.",
-      "review_date": "2013-04-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "We were pleasantly surprised with this well polished and incredibly entertaining instalment of movie genius.  Great casting and stunning visuals  a real treat on the big screen.  Love the character development and it stayed true to theWe were pleasantly surprised with this well polished and incredibly entertaining instalment of movie genius.  Great casting and stunning visuals  a real treat on the big screen.  Love the character development and it stayed true to the original series but was easily enjoyed by those that aren't all that familiar with the Star Trek format.  Top notch work and a must see!",
-      "review_date": "2013-09-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you're looking for just good entertainment and no more, that's what it delivers. Entertaining, occasionally exciting, but completely forgettable. Any episode of Battlestar Galactica is as exciting AND 100 times more memorable If you're looking for just good entertainment and no more, that's what it delivers. Entertaining, occasionally exciting, but completely forgettable. Any episode of Battlestar Galactica is as exciting AND 100 times more memorable and resonant.",
-      "review_date": "2009-12-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Seriously, haven't we seen this plot before?  A villan from future comes back to destroy the past ala 'Borg Queen' using time travel once again as a cure all for bad writing.  It's just an excuse to 'reboot' everything and frankly, it didn'tSeriously, haven't we seen this plot before?  A villan from future comes back to destroy the past ala 'Borg Queen' using time travel once again as a cure all for bad writing.  It's just an excuse to 'reboot' everything and frankly, it didn't succeed in being convincing.  It's tired, sad and so overused.  It's such a bad plot device I wish they'd stop using it.  The acting was good, not great but then what can you expect?  The rest, well average to poor at best.",
-      "review_date": "2011-04-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A Star Trek movie for people who don't like Star Trek? Fine. But what about the people that do? Couldn't they find younger actors to portray the crew? And what's with the sex scene? This is taking the 60s show a bit too far A Star Trek movie for people who don't like Star Trek? Fine. But what about the people that do? Couldn't they find younger actors to portray the crew? And what's with the sex scene? This is taking the 60s show a bit too far into the 2000s when it didn't need to. Stay away!!!",
-      "review_date": "2009-05-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best Star Trek movie yet! Even without the Borg, this movie was well written and well-executed through and through! Bravo!!",
-      "review_date": "2009-12-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Huge disappointment! I've watched Star Trek since the 60's and am a great fan. I was really psyched for this movie but hugely let down after watching it. As other critics here have mentioned, wonderful SFX, but contrived, formulaic Huge disappointment! I've watched Star Trek since the 60's and am a great fan. I was really psyched for this movie but hugely let down after watching it. As other critics here have mentioned, wonderful SFX, but contrived, formulaic and predictable plot and (except for Kirk, Spock, McCoy) virtually non-existent character development for the others. Plot also has inconsistencies, is not believable and diverging from established Star Trek 'history' is very unsatisfying. This is one of the few movies I've purchased.",
-      "review_date": "2009-12-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Thank God I can give this movie a zero here. On IMDB I had to give it a one. This movie was comedic and pitiful, a disgrace to the whole Star Trek series. William Shatner should be grateful that they didn't ask him to appear and Leonard Thank God I can give this movie a zero here. On IMDB I had to give it a one. This movie was comedic and pitiful, a disgrace to the whole Star Trek series. William Shatner should be grateful that they didn't ask him to appear and Leonard Nimoy must need a paycheck really bad. I was done when they resorted to Alien Monsters and Tyler Perry.",
-      "review_date": "2009-05-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I wish I could have better liked this movie. The acting was very good, the SFX was mind-blowing ... but ... it simple is not Star Trek. I can understand why the studio and J.J. Abrams felt the need to upgrade the concept for new younger I wish I could have better liked this movie. The acting was very good, the SFX was mind-blowing ... but ... it simple is not Star Trek. I can understand why the studio and J.J. Abrams felt the need to upgrade the concept for new younger audiences. But in the process of concept transformation, they left the older trekkers in the dust. The use of fast editing techniques, shaky camera, and an overabundance of lens flare may work for the video game generation, but older trekkers, who delighted in the Star Trek universe since the late 1960's, will find nothing but disappointment. The problem is that Star Trek's appeal to many fans was that it written and staged as a traditional drama. In fact, plot lines were almost Shakespearean in form and content. The best of the Star Trek films and television episodes, for example, were all scripted in such a fashion, even to the point of using lines lifted directly from the bard himself. This version of Star Trek is totally missing any dramatic structure. It has a plot of sorts but it passes through the viewer conscious like grease through a goose; to quickly to absorb. This is probably a good thing because if you had the time to think very much about plot points you would discover a lot of holes. The film was designed to be an audio-visual experience and not a traditional thoughtful and multi-layered Star Trek script. Too bad. I assume it made a lot of money anyway and perhaps the next film will will actually tell a story.",
-      "review_date": "2009-12-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There was no grace or glamor to this film whatsoever. It sped from scene to scene with very little clarity. The jokes seemed forced and slapstick. The plot was vague. The cinematics were anything but. The soundtrack was nothing more than the There was no grace or glamor to this film whatsoever. It sped from scene to scene with very little clarity. The jokes seemed forced and slapstick. The plot was vague. The cinematics were anything but. The soundtrack was nothing more than the same 3 notes being played over and over again. All in all, it was a poor Star Trek. I am stunned that the critics bought in so completely into the hype.",
-      "review_date": "2009-05-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just: wow. I think this one finally beats the StarTrek movie-grail \"Wrath of Khan\" (which gets a *winkwink* shout-out in this film, chock-full of such tasty tidbits). It's great because it's not just geek-friendly -- tho sure, Just: wow. I think this one finally beats the StarTrek movie-grail \"Wrath of Khan\" (which gets a *winkwink* shout-out in this film, chock-full of such tasty tidbits). It's great because it's not just geek-friendly -- tho sure, they'll be out in force -- it also opens a huge door for others to (re-)discover this legend. Like StarWars, LOTR and HarryPotter, I hope this will spawn a boom in the shared mythology that is StarTrek. And the great part is, the seriously FEW ticks at which you might quibble, let you feel superior while still enjoying the be-whatzis out of the rest of this fantastic ride! Get a LARGE popcorn, WITH butter. What are you waiting for?? GO!",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What garbage. This is true bull-sh**. It success is unknown. The same people must being going to the theater every week. The female characters in this movie are the most pathetic representation of women I've seen in a movie in a long What garbage. This is true bull-sh**. It success is unknown. The same people must being going to the theater every week. The female characters in this movie are the most pathetic representation of women I've seen in a movie in a long time. The main actor, chris pine, is really horrible and is only existing in movies cuz of his looks, like mark wahlberg. This movie is sewer with poor fans living in it. Its nothing like the original.",
-      "review_date": "2009-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A list of things the director was thinking -never go more than 3 minutes without a sequence of explosions. -don't skip the cheese when introducing the main characters. -get leonord nemoy in there as old spoc but also have a young spoc. A list of things the director was thinking -never go more than 3 minutes without a sequence of explosions. -don't skip the cheese when introducing the main characters. -get leonord nemoy in there as old spoc but also have a young spoc. Write the plot around that. -make every other scene an action scene, even if it has nothing to do with the plot. If you can't think of a way to get the bad guys zapping at the good guys, throw some ice monsters in there. -any characters who seem boring should have a funny foreign accent so their scenes can be entertaining -red matter looks and sounds cool -the laws of physics don't matter. Not just quantum physics but third grade you-can't-dive-through-the-atmosphere-or-you'll-burn-up-physics. -americans just want action action action. They don't think and if you throw in some sex appeal and cheap comic relief they will see your movie again and again. This is logical.",
-      "review_date": "2009-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I could have forgiven, the non-existent plot, the time travel fallacies, the departures from cannon...I could have forgiven almost everything except bad special effects. These rank as some of the worst special effects Trek fans have ever had I could have forgiven, the non-existent plot, the time travel fallacies, the departures from cannon...I could have forgiven almost everything except bad special effects. These rank as some of the worst special effects Trek fans have ever had to endure, maybe its good that the entire movie was shot in ultra close-up so that making out the special effects is nearly impossible...no I'm just kidding that just made it worse.",
-      "review_date": "2009-06-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The trailers told the truth, this is NOT your fathers trek, and it's not mine either. This movie is in no way Star Trek, save for the title and the names of the characters, and this appears to be completely coincidental. This movie is The trailers told the truth, this is NOT your fathers trek, and it's not mine either. This movie is in no way Star Trek, save for the title and the names of the characters, and this appears to be completely coincidental. This movie is built on a flimsy and well worn premise that defies logic and tells no story. It sells itself as an origin story and reboot and complete wipe of a franchise that merely needed minor resuscitation. All while still attempting to remain true to forty years of Trek with empty posturing that doesn't even fit with the preposterously inane plot and telling the audience that it's all taking place in an alternate reality. JJ Abrams, and the writers Orci and Kurtzman, clearly wanted to have their cake and eat it too. Trekkies paid for it, and all three are laughing all the way to the bank. I can't stress this enough; the plot exists only to move the action along, there's no story. But, there's plenty of action, however unlike even the atrociously silly Star Trek V, this star trek has clearly had no THOUGHT put into it, and impolitely asks it's audience not to think either. What's worse than this disservice, is the insulting nature of the camera work itself. Lens flares, blurry action, and laser shows that are more Star Wars than Trek. JJ Abrams demonstrates his inability to tell a story even through pictures in every seizure inducing scene. The only positives that come from this movie, is that many non-trekkies may become trek fans if they bother to watch what's come before, and they'll soon realize what garbage this movie was. The only actual positive point in the movie itself, was the guy who played McCoy, who should clearly be in serious movies, and not mindless action romps like this one.",
-      "review_date": "2009-06-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you like a mindless story line, lots of meaningless explosions and summer stock acting, I urge you to see this thorough waste of two hours. If you are over twelve, ignore my advice and stay home.",
-      "review_date": "2009-05-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I gave this a 2 - for the 2 reasons that did make some impression. Mr. Leonard Nimoy. You are still the best, sir. And the ending of this awful movie full of contridictions of the original t.v. show. Mr. Nimoy and the ending was the only two I gave this a 2 - for the 2 reasons that did make some impression. Mr. Leonard Nimoy. You are still the best, sir. And the ending of this awful movie full of contridictions of the original t.v. show. Mr. Nimoy and the ending was the only two good things about this wannabe rip off.",
-      "review_date": "2009-05-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"It's Star Trek Jim, but not as we know it.\" \"But Spock, with alternate timelines anything is now possible! Remakes of Ben-Hur fighting Romans with phasers; John Wayne could be the man who nuked Liberty Valance; the Orcs could use \"It's Star Trek Jim, but not as we know it.\" \"But Spock, with alternate timelines anything is now possible! Remakes of Ben-Hur fighting Romans with phasers; John Wayne could be the man who nuked Liberty Valance; the Orcs could use transporters to capture the ring of power from Frodo in Lord of the Rings; or imagine Casablanca where Humphrey Bogart flies off with, what's her name?\" \"Bergman, Captain. Ingrid Bergman.\" \"Yes Bergman. Much better if she went off with Bogart rather than Victor Laszlo. And with an alternate timeline, maybe they could cut the smoking. And fight those Klingons rather than the Germans. And maybe there need be no world war two anyway! Think of all the lives saved Spock!\" \"That would indeed be Casablanca Jim, but not as we know it.\" \"But Spock. If we had enough computer-generated special effects, the critics would give it a 10. Who would care whether it was faithful to the original... Spock? Spock! Put that phaser down Spock!\" \"An alternate timeline Captain...\".",
-      "review_date": "2009-07-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "All the critics liked this picture lots, but it left me cold. Maybe I'm getting old, but it seemed rather gen-y for my taste. I didn't find Kirk charismatic; in fact, I found his simpering frat-boy superiority off-putting. Also, All the critics liked this picture lots, but it left me cold. Maybe I'm getting old, but it seemed rather gen-y for my taste. I didn't find Kirk charismatic; in fact, I found his simpering frat-boy superiority off-putting. Also, the character doing 'Bones' seemed constantly on the verge of blowing his accent. And I thought the plot was thin. I felt the story gratuitously celebrated its more aggressive impulses in the form of constant (often unnecessary) fist-fights etc. The thing that made the first Star Trek so legendary was its message of hope, which it addressed while asking more serious questions about human nature. Although well executed, this picture seemed to be more spectacle than substance.",
-      "review_date": "2009-05-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film features very slick effects, and plenty of action. Its storyline, however, is so astonishingly weak that it occasionally offends. The leaps one is asked to take in order to follow along can hardly be believed. This picture is This film features very slick effects, and plenty of action. Its storyline, however, is so astonishingly weak that it occasionally offends. The leaps one is asked to take in order to follow along can hardly be believed. This picture is filled with ridiculous contrivances, and laughable caricatures of supporting characters from the Star Trek mythos. There is a dash of interesting development for Kirk and Spock in the mix, but it does not save the film. With the exception of these precious bits, this film is entirely disposable.",
-      "review_date": "2009-05-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Star Trek is actually a really good action sci-fi film and I feel really bad with myself that I haven't watched this excellent film these years. It has great action and really good special effects and even though I saw the film in my computerStar Trek is actually a really good action sci-fi film and I feel really bad with myself that I haven't watched this excellent film these years. It has great action and really good special effects and even though I saw the film in my computer the it felt like I was at the cinema which was a great experience for me. I've never watched before Star Trek and my first impression is really positive. I liked the characters and the actors were great too. J.J.Abrams made a really good film after Lost which was a great tv show and I'm really looking forward watching the sequel of that film and I hope that it's even better than this film which was really good. A must-watch!",
-      "review_date": "2013-08-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I was lucky enough to get tickets to an early preview screening of this movie on Tuesday and I can wholeheartedly recommend it to Trekkies and regular moviegoers alike. I usually only review films that are so bad I have no choice but to go I was lucky enough to get tickets to an early preview screening of this movie on Tuesday and I can wholeheartedly recommend it to Trekkies and regular moviegoers alike. I usually only review films that are so bad I have no choice but to go online and rant about their crappiness. Star Trek, however, delivered the goods :) This is the Star Trek movie that the franchise sorely needed and blows all the others away with the exception of Kahn. The casting is spot on for pretty much every major character. Pegg, I was dubious of at first, but he actually did a great job. Every actor pulled off their respective characters superbly, in particular, Pine as Kirk as I believe he had the hardest task of reviving Kirk while not \"doing a Shatner\". Spock, McCoy, Uhura, Scotty etc. all put in excellent performances. Oh, Bana's very good too as Nero. The visual effects are beautiful and the look of the movie manages to remain true to the old series as does the script but in a fresh, modern way. Not everyone will get all of the Trek references throughout the film (which by the way, somehow manage to avoid being cheesy at all and are often very funny). That being said, the film is full of humour that everyone will appreciate anyway as the dialogue is snappy and very funny at times. The story is compelling and manages to introduce the characters and establish their roles and relationships with each other in a convincing and meaningful way and they all get their moment in the sun. Action-wise you've got fisticuffs, space battles, shootouts, explosions and plenty more so there's no excuse for people sending up Z's during the flick ;) Okay so to sum up; spot on casting, good story, great performances, lots of action, sharp dialogue and plenty of laughs. What are you waiting for? See it. PS: I just saw that two users gave this a really low score. I",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I thought the movie was boring. There wasn't really anything that grabbed my full attention.",
-      "review_date": "2011-03-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I liked the cast, Thought the film had some solid acting. I wish Nero, the film's villain, had a bigger presence though, Felt he was barely in the film at all, Which is rather disappointing. Also, The film was a bit too fast paced. II liked the cast, Thought the film had some solid acting. I wish Nero, the film's villain, had a bigger presence though, Felt he was barely in the film at all, Which is rather disappointing. Also, The film was a bit too fast paced. I understand that you can only pack so much into a film and that Star Trek is a massive series, Heck I am shocked that they packed so much into this film, but still it sort of hurt the movie. That being said, It wasn't a bad movie. I enjoyed it enough to give the sequel a chance.",
-      "review_date": "2013-05-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Star Trek is true enough to its name to provide a satisfying quasi-reboot for the decades-old franchise. The science of this sci-fi action film is very thin, but the heart's still there, in no small part because of the participation ofStar Trek is true enough to its name to provide a satisfying quasi-reboot for the decades-old franchise. The science of this sci-fi action film is very thin, but the heart's still there, in no small part because of the participation of Leonard Nimoy, who has a surprisingly substantial role.",
-      "review_date": "2016-08-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Who: Chris Pine, Sylar, Gary King, Pam Dawson, The 2003 Hulk, and Kyle Reese as Pavel Chekov\rWhat: A fantastic re-branding of an already fantastic franchise\rWhere: The Final Frontier\r\nWhen (Can I watch again): Whenever you need proof J.J.Who: Chris Pine, Sylar, Gary King, Pam Dawson, The 2003 Hulk, and Kyle Reese as Pavel Chekov\rWhat: A fantastic re-branding of an already fantastic franchise\rWhere: The Final Frontier\rWhen (Can I watch again): Whenever you need proof J.J. Abrams is god\rWhy: Even if your somehow not a fan of the franchise this is a perfect adventure blockbuster that you can completely get sucked into while forgetting about all of life's problems.",
-      "review_date": "2016-05-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nWhile it does destroy fifty years of canon with time-travel mumbo jumbo, J.J. Abrams' 'Star Trek' is nevertheless a brilliant origin story with great performances and direction.\r Simon Pegg is still as funny as ever, and Leonard Nimoy returns as a callback to the show in the form of 'Old Spock', which is great.\r But 'Star Trek' is not without flaws; the villain is underdeveloped and has some nonsense plan about drilling holes in planets or something like that, and as I said above, it deems the show non-canon with a confusing plot about time travel.\r But in short, 'Star Trek', although not without flaws, is a great origin story to one of the most popular science-fiction shows of all time.",
-      "review_date": "2016-03-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Star Trek is one of those stupid series that geeks love for no reason. It is not exciting or awesome. The formula is bland after well the first movie but geeks still love it. This movie is only for geeks.",
-      "review_date": "2016-07-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Impressive Hollywood product, exciting story, outstanding acting performances! This one is an excellent sci-fi movie, stunning and much more spectacular than usually we may see any other fantastic tale!",
-      "review_date": "2013-01-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I'm not a sci-fi person and I rarely enjoy this genre but Star Trek convinces me otherwise. With surprisingly great acting and solid (but enjoyable) plot, they managed to pull it off with such dominance I have to name it Best Film of I'm not a sci-fi person and I rarely enjoy this genre but Star Trek convinces me otherwise. With surprisingly great acting and solid (but enjoyable) plot, they managed to pull it off with such dominance I have to name it Best Film of 2009. Now waiting for the sequel.",
-      "review_date": "2010-01-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Unwatchable. J.J. Abrams hates Star Trek and it shows. Full of Bugs Bunny/Loony Toons gags and action scenes without the humour or entertainment. Kirk hanging on a precipice could be a drinking game in this movie it happens so many times. Unwatchable. J.J. Abrams hates Star Trek and it shows. Full of Bugs Bunny/Loony Toons gags and action scenes without the humour or entertainment. Kirk hanging on a precipice could be a drinking game in this movie it happens so many times. There is no story to speak of. There is, however, 122 minutes of the classic Star Trek characters squabbling with each other, tiresome fist fights and Uhura being up skirted by the camera as a nonsensical \"plot\" unfolds. Dialogue is laughably bad. Kirk's mother being rushed to a shuttle craft while in labour is right out of Mystery Science Theatre 3000. The visual effects are frenetic and cluttered. Many interiors of the ships are wildly out of scale and were filmed in what are obviously existing factories and other industrial locations. There were better engineering room sets in Star Trek The Motion Picture from 1979! In this movie you will be blinded by the ceaseless lens flares and be nauseated by the constantly spinning, twirling, twisting camera. McCoy is performed as a mocking impersonation of DeForest Kelly. Abrams has pulled down his pants and mooned movie goers. An appalling mess from start to finish.",
-      "review_date": "2009-11-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I JUST SAW IT YESTERDAY AND SPEAKING AS A LONG-TIME STAR TREK FAN: Like most movies made recently, it was a special-effects extravaganza. Also like most movies made today, the plot seems like it was written for a comic book. Star Trek I JUST SAW IT YESTERDAY AND SPEAKING AS A LONG-TIME STAR TREK FAN: Like most movies made recently, it was a special-effects extravaganza. Also like most movies made today, the plot seems like it was written for a comic book. Star Trek purists will be especially disappointed. The actors selected to portray the characters were OK, but the film suffered from an unbelievably moronic story line. I",
-      "review_date": "2009-05-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just how the Next Generation movies failed to capture the spirit of TNG, this move failed to capture the spirit of Trek is general. Despite having a stunning opening, you eventually realise that this is a generic action movie with little Just how the Next Generation movies failed to capture the spirit of TNG, this move failed to capture the spirit of Trek is general. Despite having a stunning opening, you eventually realise that this is a generic action movie with little plot. Oh, an things don't make sense. Why do Kirk and Spock hate each other so much that they fight on the bridge? Why does Nero blame Spock for all his problems? Why is Nimoy in this film? Why have a scene where Kirk drives a car of a cliff? When did black holes become time travel portals (har, har)? Still, if you want a generic action movie...",
-      "review_date": "2009-07-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I can't believe that any Star Trek fan enjoyed this movie. It failed, in every aspect, to capture the spirit of what made Star Trek great. Even without the Star Trek grievances, it was still a bad movie. So the special effects were cool I can't believe that any Star Trek fan enjoyed this movie. It failed, in every aspect, to capture the spirit of what made Star Trek great. Even without the Star Trek grievances, it was still a bad movie. So the special effects were cool and the acting was pretty good, but the script was lame and horribly cliched and the plot was just utter nonsense. Not to mention the pacing, which was so fast it was physically draining. The only reason I watched the whole movie was so that I could make an informed criticism. Had it not been a Star Trek movie, I would have stopped watching after the first 20 minutes or so. But I'm not surprised; it did share the same writers and director as Mission Impossible 3 and I walked out of that in the second scene.",
-      "review_date": "2009-12-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A very enjoyable action extravaganza. I loved it pretty much from start to finish and laughed out loud in parts. Chris Pine did a great job as Captain Kirk and Simon Pegg as Scotty!!!",
-      "review_date": "2011-10-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Action? Yes, in abundance. Special FX? Obviously, being a movie about outer space and the future. Story? NO, zero story - zilch. I mean dragging out the temporal distortion alternate future time traveling episode filler is nothing new for Action? Yes, in abundance. Special FX? Obviously, being a movie about outer space and the future. Story? NO, zero story - zilch. I mean dragging out the temporal distortion alternate future time traveling episode filler is nothing new for ST, but couldn't they come up with something more original? Lot's of eyecandy but no research into the ST universe at all. And Scotty... what ludicrous ACID-snorting twit came up with the idea to make that guy scotty? sure he's a good actor (to some extent) but he aint and never will be scotty. I mean it's one thing getting used to Syler being (a very emotional) Spock (I swear at times I could hear the ticking timepieces!) And then to end the most profound meeting there could be between the two spocks ends, not with a vulcan Live Long and prosper greeting but, with a goodbye. That's not innovation. It's heresy. All REAL trekkies should band together and go put the director (or as he will from now on be known - T.A.C.) to the torch. Or the phaser or whatever.. Ps. If they insist on adapting Star Trek into an action thrill ride for the Mindless-want-it-now! generation of today... rather call it some else and let ST die a quiet and dignified death.",
-      "review_date": "2009-06-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Awful. Just awful. Let's start from the beginning. . . what's with the Beastie Boy's \"Sabotage\" doing in a Star Trek film? I knew this movie was bogus from about that point on. The character development was poor. The villain Awful. Just awful. Let's start from the beginning. . . what's with the Beastie Boy's \"Sabotage\" doing in a Star Trek film? I knew this movie was bogus from about that point on. The character development was poor. The villain was not menacing. Poor acting all around. Each fight scene is predictable. Horrible score. At certain points I felt like I was watching a college drama in space. . .complete with sex scenes and plenty of make outs. Wtf was Winona Ryder doing in this?!? Were we supposed to care about ANY of these characters? I sure didn't! The only thing I cared about was checking my watch in hopes that this flop was almost done with. And how about the final battle that was practically lifted from Star Wars?? I kept waiting for Han Solo to yell \"You're all clear kid, now let's blow this thing and go home!\" However, the film does deserve a couple points for great visual effects. Unfortunately even the effects were sometimes cheesy. I wasn't sure if I was watching a movie or playing a game of Halo. This one is a stinker!",
-      "review_date": "2009-05-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is utter trash. I must say, the beginning scene stood out as pretty damn epic, but after that, the film quickly deteriorated. There is little to no character development with the exception of Kirk, Spock, and Bones, only one of This movie is utter trash. I must say, the beginning scene stood out as pretty damn epic, but after that, the film quickly deteriorated. There is little to no character development with the exception of Kirk, Spock, and Bones, only one of whom (Bones) had an astounding actor (Karl Urban). Uhura was there for romance scenes, Scott was put in to spout one-liners, and Chekov was obviously just a waste of space filled in order to make the audience chuckle at the actor's (Anton Yelchin's) horribly fake Russian accent. The story behind the criminal's intentions aren't revealed until the fourth quarter of the film, and the backstory is truly abysmal with enough pseudoscientifc nonsense to make any Enterprise fanboy cringe and the worst criminal reasoning in Star Trek since Soran from \"Generations.\" The time paradoxes are badly thought out and make little sense. During said first three quarters of the film, the cast of the film chase the bad guy around and try to stop him. This is utterly boring so the director and writers and such try to make up for this by \"pace faking\" by making characters argue and be violent and have romance scenes in-between the boring conflicts. The directing thoroughly lacks in logic, as bringing phasers along instead of fist-and-sword fighting Romulans on an orbital platform with gigantic fiery exhaust ports is obviously highly illogical. Another stupid thing that I didn't understand at all is why the film opened up with a fight. They have a little utilitarian ship in the middle of space and a portal opens and a big dark spiky ship comes out so they start firing at will without checking if the mysterious enemy has shields powered or weapons ready. They just go by \"It's big and dark and it just appeared in front of us. We didn't try hailing it because every ugly thing in space is obviously evil.\" It of course does actually turn out to be evil, but that is not Star Trek. There are also the canon and plausibility concerns, which are wrecked entirely, so it doesn't deserve to be called Trek. Everything else mentioned here (excluding Karl Urban) just made it even worse.",
-      "review_date": "2009-05-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The worst movie I have seen in awhile. I went into this movie without any prior feelings on star trek. I left never wanting to see another piece of media from the property again.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I think I remember a movie incredibly similar to this done back in 2005. It had the same violence, the same bright special effects, and the same angry group of characters. It was called Doom. Except, I think it was better because there were I think I remember a movie incredibly similar to this done back in 2005. It had the same violence, the same bright special effects, and the same angry group of characters. It was called Doom. Except, I think it was better because there were less lens flares, the action was better paced, and Karl Urban had a bigger roll.",
-      "review_date": "2009-06-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "About as deep as \"The A-Team in Space.\" Lots of explosions and fistfights signifying *nothing*. Heinous product placement and a disrespectful rip of Spock's death line from Wrath of Khan on top of herky-jerky abrasive cinematography.",
-      "review_date": "2009-05-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "How very ironic that this gratuitous sci-fi film with an incomprehensible plot should be rated as 'good'.",
-      "review_date": "2009-09-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThe writing was atrocious. This movie felt like it was just filled with a bunch of lines from classic Star Trek so reviewers would say its Star Trek. Instead of making me hark back to any classic Trek they just made me feel ripped off with such cheap gimmicks when none of the characters felt like they were in the series like Spock yelling, choking, and marooning Kirk and Scotty and Chekov are reduced to mere comic reliefs. Red matter was some magical blob that did what the writers wanted to whenever they wanted the plot to do something, it was not science fiction. But that should be expected from the same writers who wrote such Hollywood \"greats\" like Transformers and The Island. The Star Trek franchise has now stooped so utterly low that for humor it now needs cartoons and bestiality jokes, now uses \"your mommy was a whore\" insults, and is now totally reliant on special effects, fistfights, endless shouting for \"entertainment.\"  Mr. Abrams promises much but like his mystery in Lost it they're pretty empty despite all the initial hype. He says its a prequel to the series, but then he uses a cheap trick that its an alternate universe to avoid creative thought and so he can just put in whatever he wants to still claim he didn't wipe anything. This movie shamelessly tries to milk every last penny out of the Star Trek name instead of letting it die with the miniscule dignity it had left.",
-      "review_date": "2012-01-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A depressingly shallow and moronic action/explosions fest masquarading as a star trek film. The character limit is simply far too small for me to list all of this film's flaws, but I'll have a go at it anyway: the pointless and non-sensicalA depressingly shallow and moronic action/explosions fest masquarading as a star trek film. The character limit is simply far too small for me to list all of this film's flaws, but I'll have a go at it anyway: the pointless and non-sensical destruction of Vulcan. Warping Kirk into some kind of Twilight-esque pretty boy thug and thief who beats people up in seedy bars. Making Kirk and Spock enemies, for no other reason than to provide some \"dramatic tension\". Romulans that weren't even recognisable as Romulans. The pretentious, in-your-face overuse of shaky camera and lense flare. And a plot that can be summed up in one sentence: Blow up the Romulans. And all of these flaws conveniently hidden by Abrams with the lazy, cliche'd excuse:  \"but it's a parallel world, so it can be different.\" To a point, maybe, not so different that it becomes unrecognisable and turns into star wars. To quote another reviewer, Gene Roddenberry must indeed be rolling in his grave, while Rick Berman tears his hair out and has an anurism. In conclusion: avoid this film like you would avoid Justin Beiber's new single.",
-      "review_date": "2012-08-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Disgustingly and absurdly dumb movie.",
-      "review_date": "2010-01-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Star Trek is intelligent, funny, witty, visually dazzling, surprisingly well acted, and the story is told with a surprising amount of depth. It benefits from its mesmerizing action and true heart. I give this movie 89%.",
-      "review_date": "2012-02-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I dont care how good the director is, I dont care how good the plot is, I even dont care how good the SFX are in this movie. In the STAR TREK franchise I only care about the cast, becouse STAR TREK has one and only thing that matters for I dont care how good the director is, I dont care how good the plot is, I even dont care how good the SFX are in this movie. In the STAR TREK franchise I only care about the cast, becouse STAR TREK has one and only thing that matters for recieving its message. The Star Trek franchise is mainly based on the chatacters visual impact on the wiever, you will almost immediately recognise who must be the Captain J.T.KIrk, who is Mr. Spock, who is Dr. Bones and ecetera. But this new STar Trek ruined everything for characters comprehension. The new STAR TREK is full of wanna be actors that belong to the infamous cheap third world Soap Operas subgenre, they do not have charismatic unique faces as th eoriginal cast, they just have strange faces, and not even fanny. WHen I watched the wanna be Kirk, Spok, Bones and other crew members, I couldnt believ how badly they ruined the franchise of TOS STAR TREK. There are things that is best never try to fix, becosue they still work as they are timeless. We were all ok with the old crew from TV series, and living our short live unaware of the great shock of seeing somebody so ignornat and crazy enough to destroy the franchise by putting absolutely wrong cast in place of real charismatic living legends.",
-      "review_date": "2009-09-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A two hour setup for a sequel. The plot consists of recycled Star Trek (and Star Wars) cliches and the dialogue seems to mostly be wink and nod quotations for the fans. I'm not a hardcore Trekker and I couldn't care less if they A two hour setup for a sequel. The plot consists of recycled Star Trek (and Star Wars) cliches and the dialogue seems to mostly be wink and nod quotations for the fans. I'm not a hardcore Trekker and I couldn't care less if they mess with the Star Trek universe but this was a bad movie. Maybe it is time to bury it once and for all.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Horrid film---no true fan of Star Trek would recognize this as being part of the ST legacy. It's formulated for the 2009 audience, i.e. nothing but the anger, action, violence that's demanded of the (mostly pubescent male) video Horrid film---no true fan of Star Trek would recognize this as being part of the ST legacy. It's formulated for the 2009 audience, i.e. nothing but the anger, action, violence that's demanded of the (mostly pubescent male) video gamer crowd, its intended demographic.",
-      "review_date": "2009-07-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Had all the heart and soul of the original series!",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Story, action, cassic lines cleverly inserted without cheesiness all make for a wonderful eye-candied amazing movie.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolute masterpiece - saw it at IMAX and would have happily walked straight back in and watched it again.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a fantastic film, not only does it have classic nods to the orignal and does not over do them, but it focuses on the relationship between Spock and Kirk in a new interesting way. The CGI is fantastic and it looks like the film has This is a fantastic film, not only does it have classic nods to the orignal and does not over do them, but it focuses on the relationship between Spock and Kirk in a new interesting way. The CGI is fantastic and it looks like the film has been made made trekkies as they seem to have looked at what was cheesy and moved away from it. The rapport between Kirk and Spock is fantastic and the film is very pacey. I think the best film of the year.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Easily one of the most satisfying films ever, not to mention the best prequel I've ever seen.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Easily one of the best films I've seen in the past few years - non stop action, accessible for everyone, and everyone left the screening beaming with joy and happiness - the way a great movie should leave you feeling. Even after seeing Easily one of the best films I've seen in the past few years - non stop action, accessible for everyone, and everyone left the screening beaming with joy and happiness - the way a great movie should leave you feeling. Even after seeing it early, Ill be the first in line to see it again tonight when it opens.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Loved it, but i didnt feel it epic enough on the battle scenes it felt more of a pilot for a series tbh still great though",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Pine really is a revelation as Kirk. Not a slavish homage, but a fresh look that capture the spirit and some of the manerisms. Quinto is awesome as Spock and the whole cast shines in a whipcrack paced fun film. This is what Bond should be Pine really is a revelation as Kirk. Not a slavish homage, but a fresh look that capture the spirit and some of the manerisms. Quinto is awesome as Spock and the whole cast shines in a whipcrack paced fun film. This is what Bond should be doing after the dull Quantum; embrace what made the series famous and run with it. Done well there is no need to be ashamed of its roots.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is an outstanding reboot of the classic sci-fi series we all know and love, partly because it introduces new and fresh ideas into the series while still paying homage to the original films.",
-      "review_date": "2010-09-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Star Trek is, generally speaking, a good movie that appeals to both established fans and outsiders alike. The acting is enjoyable, the actors are very well cast for their iconic roles, the special effects are great, the score is rousing, andStar Trek is, generally speaking, a good movie that appeals to both established fans and outsiders alike. The acting is enjoyable, the actors are very well cast for their iconic roles, the special effects are great, the score is rousing, and there are tons of great little details only long time Star Trek fans will notice. Unfortunately the biggest problem this movie has is that it is a reboot of the series and as such disregards much of the established lore and history. While it goes about this in an interesting way in the end it opts to stand apart from almost fifty years of Star Trek rather then adding to the universe millions have come to love.",
-      "review_date": "2010-09-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "don't know too much about the Star Trek series but i found the movie very enjoyable with its stunning visuals and decent story. Star Trek might be forgettable but it was good while it last",
-      "review_date": "2015-11-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I'm not a trekkie fan or a Star Wars fan, I like them both more or less.  With that said:  this movie is a perfect representation of this soul-less ADHD generation.  This movie is so forgettable I had to read the reviews to be reminded of theI'm not a trekkie fan or a Star Wars fan, I like them both more or less.  With that said:  this movie is a perfect representation of this soul-less ADHD generation.  This movie is so forgettable I had to read the reviews to be reminded of the plot.  I'd normally give it a zero, but I think I'll give it a 1 for Orion chic boobs; apparently that's all I remember about the movie.",
-      "review_date": "2013-04-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A fantastic thrill ride that is great because of the cast.  The casting in this film is pitch perfect and director J.J. Abrams makes a Star Trek film not just for Star Trek fans but fans of any good sci-fi films.",
-      "review_date": "2013-06-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "enough of the BS! this game is broken. Namco employess creating fake accounts to help promote them game. Not fininding any co-op support for days. Just and awful experience",
-      "review_date": "2013-04-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I don't get the positive reviews and ratings. The action scenes were a herky-jerky mess. The plot blazed along so quickly, with so little exposition, that the characters felt paper thin. The setting was the typical Trek blah, with no I don't get the positive reviews and ratings. The action scenes were a herky-jerky mess. The plot blazed along so quickly, with so little exposition, that the characters felt paper thin. The setting was the typical Trek blah, with no sense of culture, time or place. Most of all, it didn't look like a MOVIE, it looked like an overgrown TV episode -- and I saw it on an IMAX screen! For all their many (MANY) weaknesses, when you watch a Star Wars movie, at least you feel like you're seeing a real movie. The plot contrivances were so massive that you gave up any pretense of reality before the second half. Consider what a coincidence it was that Kirk happened to confront the man who killed his father, as a newly commissioned captain, just like his father. Wow, how significant. The reviews are all wrong, sorry.",
-      "review_date": "2009-05-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Something mentioned in few reviews (including most of those on this site) is how relentlessly DUMB this film is. Previous Trek films have had plot holes, to be sure, but this one is essentially two hours of end-to-end plot holes. Yes, the Something mentioned in few reviews (including most of those on this site) is how relentlessly DUMB this film is. Previous Trek films have had plot holes, to be sure, but this one is essentially two hours of end-to-end plot holes. Yes, the acting is good, and the (drastically revised) characters are moderately interesting. But the story is so incredibly senseless - and so breathlessly paced - that no real character development is possible. One gets the feeling that Roddenberry's Trek has been deliberately dumbed-down and had its higher aspirations eviscerated to suit the mentally and morally deficient tone of our times. The film's amazing popularity is thus a sad comment on who its audience has become. Far from being a 'reboot' of the franchise, this Star Trek is more like a demonic changeling that's murdered the original and been left in its place. I'd give it a 1 for the talent of its stars, but that might imply that if this abomination were the last film in the world, it might, however remotely, be worth seeing. It wouldn't. This film goes beyond 'bad' all the way to 'evil' - and should be avoided at all costs.",
-      "review_date": "2009-07-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I only needed twenty minutes to know the next one hundred would be garbage. A trite, melodramatic script that aggressively violates the \"show, don't tell\" rule, passable CGI ruined by a baffling decision to drench EVERYTHING in sun glare, andI only needed twenty minutes to know the next one hundred would be garbage. A trite, melodramatic script that aggressively violates the \"show, don't tell\" rule, passable CGI ruined by a baffling decision to drench EVERYTHING in sun glare, and editing so brisk it makes one feel as if they are watching a collection of (poorly made) short films instead of one fully fledged story. Pass.",
-      "review_date": "2012-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThis is the \"Twilight: Bitter Moon Redux-Sparkles Edition\" of the Star Trek movie universe.  Lots of sexy kids running around and not making much sense along with plot holes you could pilot two death stars through side-by-side.These included a dreadful sword fighting scene, a dreadful ice-planet chase scene by a CGI-generated monster that was mostly membrane and protoplasm- hardly suited for cold weather, but ideal for THIS movie, and a lackluster Spock from the old series who was far more concerned with how much fun it was to be Kirk's friend than 6 billion Vulcans dying.This movie had a tongue-in-cheek (I think) reference to Galaxy Quest and its infamous, sake-inspired Chompers- obstacles that don't make sense that our heroes must navigate and which contribute to a silliness that sharp movie-goers should sense.  Our example here is clear, fluid-filled tubes that lead to a shredding mechanism (better to endanger intrepid characters) equipped with a trap door and a lever for saving hapless humans that managed to get trapped inside-in the nick of Time!!!This movie is a joke.  The fact that critics universally failed to notice is depressing.  At least there are a few trekkies out there that took a hard look and came up with the right answer.",
-      "review_date": "2011-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The movie by itself deserves maybe a 5 out of 10 just for being another semi-entertaining one size fits all action flick that doesn't have any real artistry to bolster it.  It's cliche and it's designed mainly for teenagers.  However, theThe movie by itself deserves maybe a 5 out of 10 just for being another semi-entertaining one size fits all action flick that doesn't have any real artistry to bolster it.  It's cliche and it's designed mainly for teenagers.  However, the **** that used the Trek label to sell this kind of smut should be tarred and feathered for dealing the final blow to a beautiful legacy that peaked with TNG.  Trek is now dead and lives on as a twisted, reanimated, disgusting corpse.  Sucks.",
-      "review_date": "2011-12-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Looks liked I missed something, but to me this movie was awful!!! I found it so boring, it reminded me of the old star trek, just with new special effects. Why do all the other aliens have to have a humanoid shape?",
-      "review_date": "2009-12-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "They have some balls, to do this to such a great franchise. The last 50 years worth of movies and tv shows never even happened in this new, rebooted, startrek universe. It is not a prequel, it's a sh.tty attempt at a remake ment to They have some balls, to do this to such a great franchise. The last 50 years worth of movies and tv shows never even happened in this new, rebooted, startrek universe. It is not a prequel, it's a sh.tty attempt at a remake ment to appeal to the lowest common denominator. Not to mention the use of the cheap modern \"shaking the camera\" trick to avoid any artistic input into the shooting. A real sin. This is the first startrek movie and or show that negates everything else. Terrible.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As many trek fans knew, this film was not going to follow the same path as other trek films however even the most biased trekkies can relate to JJ's Star Trek. The cast are absolutely superb with Karl Urban standing out for me and Chris As many trek fans knew, this film was not going to follow the same path as other trek films however even the most biased trekkies can relate to JJ's Star Trek. The cast are absolutely superb with Karl Urban standing out for me and Chris Pine doing an excellent job of adding his own spin to Kirk Michael Ginacchio's score is perhaps the biggest let down for me, while still an excellent soundtrack for the film it fails to add that epic, majestic feeling former trek films have had. the film was also too short in all the wrong places with the climatic battle ending far too swiftly, regardless this film is still up to or on par with the Wrath of Khan, even better than First Contact and one definately not to miss by stubborn trekkers. JJ has a fantastic little set up here and the next film should be mind blowing.",
-      "review_date": "2009-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a travesty and an insult to the memory of Star Trek. Especially egregious: as any Trekker (fan of the original series) knows, far from being a rebel, Jim Kirk was a straight-laced, uptight, over-achiever type in his pre-Enterprise This is a travesty and an insult to the memory of Star Trek. Especially egregious: as any Trekker (fan of the original series) knows, far from being a rebel, Jim Kirk was a straight-laced, uptight, over-achiever type in his pre-Enterprise days. This is referenced in several episodes and is a continuing facet of his character throughout some of the most important plotlines. The SNL skit with Belushi and Chase was far better Star Trek.",
-      "review_date": "2009-05-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "now for jj abrhams the guy who was involved in my worst movie ever seen . that movie being Cloverfield i was very suprised at how well he did with this film . now im not a big treky i did enjoy star trek the next gen , and have seen some ofnow for jj abrhams the guy who was involved in my worst movie ever seen . that movie being Cloverfield i was very suprised at how well he did with this film . now im not a big treky i did enjoy star trek the next gen , and have seen some of the original films with shatner and most of the original series . so im not hardcore enough to where some are mad at him altering the whole story line . which i think even if i was he did it in away that made sense and if they did a sequel it would be new and interesting (hopefully) . its the branching time line deal where some thing was changed in the past that follows the original star trek time line and creates a new one and thats the one we are now following . i thought eric bana did a good job as the romulan captin . as well as most of the other actors who did the main roles of the crew of the enterprise . its not great acting but it was good enough . this new plot line makes us wonder more not ever being sure whats gona happen next . it has some nice visuals and some pretty decent story telling . so old JJ redeams himself alittle for that abombinashon known as cloverfield . so if this is the future of the series then i say all ahead warp factor 8.",
-      "review_date": "2010-08-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There are some good scenes but just too many silly action sequences, silly plot turns, self referential winks. At 120 mins it's a grind to get to the end.",
-      "review_date": "2010-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When my family and a friend went to see this movie and since two of them are Star Trek junkies, I thought they loved this movie, as I have never been really interested in Sci-Fi. When I asked them about the movie, they were prettyWhen my family and a friend went to see this movie and since two of them are Star Trek junkies, I thought they loved this movie, as I have never been really interested in Sci-Fi. When I asked them about the movie, they were pretty disappointed with this movie. And this is coming from total Star Trek junkie. TOTAL. Here's the bad parts: The violence is random and unnecessary. Captain Kirk ha a drink, then gets beaten up. The characters are as bland and tasteless as supermarket own brand sweets. The special effects are over the top and I suffered a mild headache. There's this green guy who looks like it was an exact copy of Yoda. Most of the acting is poor, some actually do a decent job. This movie has no tension whatsoever. Most of the scenes play out like a soap opera, or like a couple of British ladies discussing money and fashion over a cup of tea and a biscuit. I DID like the part with the young Captain Kirk: well acted and it was funny. Overall, it's like a car that does a good job of going up a hill until the battery died and it makes it's long journey down the hill before the back goes into a tree.",
-      "review_date": "2011-01-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Perfect, everything was perfect.\rIt's amazing. I will never ever like old Star Trek, but I love this. Ships, Starfighters,  costume, makeup, characters, weapons, story,  everything were horrible, but the new one everything became very uglyPerfect, everything was perfect.\rIt's amazing. I will never ever like old Star Trek, but I love this. Ships, Starfighters,  costume, makeup, characters, weapons, story,  everything were horrible, but the new one everything became very ugly to very beautiful.\rI hate all martial arts movies, and gun battle movies, movies like The Expendables 2, Jason Statham movies, The Dark Knight Rises, but I loved hand to hand combat and stunt scenes from Star Trek.\rI also don't like people with too much muscles. I want Star Wars to be like this Start Trek, I want Star Wars to have many hand to hand combat, street fight like how Kirk did. and many stunt scenes.\rI specially liked Spock, Spock prime, Kirk, warp drive, story, music, heartwarming scenes. But there were things I felt missing, I wanted to see more starfighters battle scenes, not ships battle scenes. I wanted to see some small Aliens like from Cloverfield and Metro 2033.",
-      "review_date": "2013-05-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Kirk is Star Trek and in this movie they not only get you fired up about him you know it's in his genes. I've seen plenty of movie's where the opening sequence was brilliant. Casino Royale sans Craig, The Fifth Element, Mission Impossible, toKirk is Star Trek and in this movie they not only get you fired up about him you know it's in his genes. I've seen plenty of movie's where the opening sequence was brilliant. Casino Royale sans Craig, The Fifth Element, Mission Impossible, to name a few but none have taken the Hero call to this level. The tone from the start is exactly what Roddenberrry's vision was all about, the crusade of hegemony into space and how that construct behaved with alien contact. This movie has it all and then updates everything. You don't have to be a Star Trek freak to enjoy this rocket ship into the future.",
-      "review_date": "2010-12-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Poor excuse for a Star Trek movie, ok as a generic action/adventure flick, should be regulated to a b movie status.",
-      "review_date": "2009-05-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolutely thrilling! Star Trek left me in awe as I left the theater; I was completely blown away by the epic scale of this incredible masterpiece.",
-      "review_date": "2009-05-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terible, terible film. It was unsure if it was parody, homage or reboot and it is very clear that Abrams was a Star Wars not a Star Trek fan. It takes an iconic brand and converts it into a generic sci-fi/action film. The plot is terrible Terible, terible film. It was unsure if it was parody, homage or reboot and it is very clear that Abrams was a Star Wars not a Star Trek fan. It takes an iconic brand and converts it into a generic sci-fi/action film. The plot is terrible and doesn't hold up to even minor scrutiny and turning Kirk into the main character from Top Gun was unforgivable. Too many action scenes that are only punctuated by some forced dialogue and endless exposition.",
-      "review_date": "2009-05-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Plot was so thin it was see through. Nothing but special effects. Makes the old star trek films look good.",
-      "review_date": "2009-08-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There is no snippet of hope in this film. It is worse than even I had felt possible and symbolizes everything that is currently wrong with the Hollywood film industry and its treatment of Science Fiction in particular. The final minute gives There is no snippet of hope in this film. It is worse than even I had felt possible and symbolizes everything that is currently wrong with the Hollywood film industry and its treatment of Science Fiction in particular. The final minute gives us the immortal Trek tagline, spoken wistfully by Leonard Nimoy. As the words echoed around the cinema, (",
-      "review_date": "2009-05-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Awful movie if you're a trekkie. There is very little in this movie that makes Star Trek special-- no morality, no intelligent problem solving, etc. JJ Abrams has turned Star Trek into a bad Star Wars replica.",
-      "review_date": "2009-05-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film was made for retards. No plot at all. Only good acting came from the McCoy actor.",
-      "review_date": "2009-08-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "[***SPOILERS***] First off this movie is really fun and exciting to watch. The writing is plenty passable and the acting was fine. The only issues were someof the logic in the plot. Just a couple things: 1) Nero would probably attempt to warn[***SPOILERS***] First off this movie is really fun and exciting to watch. The writing is plenty passable and the acting was fine. The only issues were someof the logic in the plot. Just a couple things: 1) Nero would probably attempt to warn the romulans of the future then get all hell bent on revenge for something not even done yet. 2) Why does spock have to pod kirk to an unhospitable ice planet just for being disobedient? And I saw that planet, its HUGE. What a coincidence he runs into spock's cave of all places to further the plot. 3) Lastly, a gigantic drill that goes into a planet? why didn't the vulcans send one tiny spacecraft to shoot the lengthy thin drilling device down? thats all young spock did to stop the drilling. Hell any modernday jet could have torpedo'ed the drill apart to prevent the drilling. But hey, its summer, and its fun so enjoy the ride",
-      "review_date": "2009-05-12",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 146
+    "title": "Star Trek",
+    "rating": 7.8,
+    "release_date": "2009-05-07",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "summary": "The greatest adventure of all time begins with Star Trek, the incredible story of a young crew's maiden voyage onboard the most advanced starship ever created: the U.S.S. Enterprise. On a journey filled with action, comedy and cosmic peril, the new recruits must find a way to stop an evil being whose mission of vengeance threatens all ofThe greatest adventure of all time begins with Star Trek, the incredible story of a young crew's maiden voyage onboard the most advanced starship ever created: the U.S.S. Enterprise. On a journey filled with action, comedy and cosmic peril, the new recruits must find a way to stop an evil being whose mission of vengeance threatens all of mankind. The fate of the galaxy rests in the hands of bitter rivals. One, James T. Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before! [Paramount]\u2026 Expand",
+    "critic_reviews": [
+        "This new Star Trek is fast-moving, funny, exciting warp-speed entertainment and, heaven help me, even quite moving - the kind of film that shows that, like it or not, commercial cinema can still deliver a sledgehammer punch.",
+        "Paced at warp speed with spectacular action sequences rendered brilliantly and with a cast so expert that all the familiar characters are instantly identifiable.",
+        "Blasting onto the screen at warp speed and remaining there for two hours, the new and improved Star Trek will transport fans to sci-fi nirvana.",
+        "The new Star Trek is more than a coat of paint on a space-age wagon train. It's an exciting, stellar-yet-earthy blast that successfully blends the hip and the classic.",
+        "Not only does this Star Trek proffer smart thrills and slick kicks, but it builds upon the original's history\u2013from its very first pilot episode to Robert Wise's 1979 \"Star Trek: The Motion Picture\" and beyond\u2013while creating an entirely new future.",
+        "In the pop high it delivers, this is the greatest prequel ever made.",
+        "This installment has achieved a nearly impossible hat trick. It's a movie that is exegetically correct enough to appease the most hard-core buffs, while opening up the final frontier to a whole new generation of fans who have yet to appreciate Star Trek's ineffable combination of sci-fi action, campy humor and yin-yang philosophical tussle between logic and emotion.",
+        "The new, vastly improved Star Trek moves at warp speed through a marvelously reinvented sci-fi franchise, reverent to the past and firmly entrenched in the now.",
+        "The clever and infectious reboot of the amazingly enduring sci-fi classic, director J.J. Abrams crafts an origin myth that avoids any hint of the origin doldrums. That's because he rewires us back into the original Star Trek's primal appeal.",
+        "Full of life, wit, smarts, thrills and sheer gratifying entertainment that it launches the mind on a stream of merry somersaults.",
+        "It's hard to imagine anyone caring much why we're plunging ahead at warp speed, when the ride is so insanely satisfying.",
+        "Retains the original Star Trek's spirit of optimism, curiosity, and humor.",
+        "An affectionate, exuberant picture that seeks to bring even those who don't know Klingon from Portuguese into the embrace of a pop-culture phenomenon.",
+        "Isn't just a pleasurable rethink of your geek uncle's favorite science-fiction series. It's also a testament to television's power as mythmaker, as a source for some of the fundamental stories we tell about ourselves, who we are and where we came from.",
+        "Star Trek goes back to the legend's roots with a boldness that brings a fatigued franchise back to life.",
+        "It's not necessary to be a longtime fan of the Star Trek universe to appreciate the sheer emotional punch and swagger of this rough and randy Enterprise crew.",
+        "Vigorously played as a young man by Chris Pine, Kirk is a brilliant, sports-car driving, bar-brawling rebel who is finally shamed into joining Starfleet Academy.",
+        "The result is more exciting than the last four ST pictures put together, more fun than a barrel of Tribbles, and the most satisfying action-adventure since last year's \"Iron Man.\"",
+        "A burst of pure filmmaking exhilaration that manages to pay homage to the classic 1960s TV series and still boldly go where no man, William Shatner and Leonard Nimoy included, has gone before.",
+        "We were also glad to see they didn't ignore the humorous elements that made the original so great. Plus, the casting is spot on.",
+        "It fulfills its promise of rebooting the series while leaving us wanting more, and it does so with style and energy to spare. Now that's an origins tale that truly delivers.",
+        "Gripping action and vulnerable heroes writ large. It boldly goes somewhere different and makes it hard to leave the film not hoping for a return voyage soon.",
+        "This is a grand success \u2013 perhaps a new populist benchmark in what to do with a flagging franchise, and a witty, light-on-its-feet prequel.",
+        "The overall impression is one of unbridled enthusiasm on the part of the film\u2019s makers, both for its predecessors and for the brave new universe Abrams and his crew are exploring.",
+        "Buoyant, buffed and with the promise of even better to come, this is the freshest Trek in decades.",
+        "The movie is fun, it's smart and there's plenty of action. There are enough knowing nods to old-school fans to satisfy them, but the nods don't get in the way. In fact - and a feel for this kind of thing is what makes Abrams so good - they're perfect, nice accents that won't slow down the uninitiated.",
+        "Odd-number curse be gone. The most exhilarating Trek to date marks a new future for Kirk and co. If this can boldly go on to seek out ideas to match its speed and style, a franchise is reborn.",
+        "Abrams and his writers (Roberto Orci and Alex Kurtzman) have come up with a way to make you dig the souped-up new scenery while pining for the familiar--a good thing.",
+        "It's a real family film, relatively light on the violence and funny without being overly crude; it even has some touching moments.",
+        "Though it has its over-caffeinated aspects and its missteps, this Star Trek has in general bridged the gap between the old and the new with alacrity and purpose.",
+        "Star Trek is pretty damn enjoyable. By resetting the franchise to what is essentially Year One, Abrams has the luxury of...gently reshaping the core characters.",
+        "This is easily the best \u201cTrek\u201d movie since \u201cKhan,\u201d giving the rebooted franchise ample reason to proceed at warp speed.",
+        "Ultimately, when the end credits roll, we're left with the sense that Star Trek represents a good beginning. As a film tasked with getting all the characters together, re-booting a timeline, and finding a way to return a veteran actor to his beloved role, Star Trek works.",
+        "Breathlessly paced bordering on manic, but propulsively entertaining.",
+        "There is considerable fun in discovering the hows and whys the crew of the U.S.S. Enterprise came together, and each member has at least one moment in the spotlight, including the esteemed helmsman Sulu.",
+        "When it comes to sheer spectacle, Star Trek, as re-imagined by J.J. Abrams, delivers.",
+        "What makes this movie ultra-contemporary is the way Abrams has re-imagined Spock and Kirk as a team of rivals.",
+        "Smart and youthful, with a well-balanced package of humour, romance, crisp action and character-based drama, Star Trek gives popcorn movies a good name.",
+        "At its best, the effect is like seeing life panoramically, past and future, simultaneous and magnificent.",
+        "The young cast is mostly callow and TV-bland and the special effects don't quite seem worth that hefty price tag, but overall this is a presentable addition to the franchise.",
+        "It's one heck of a fun ride, a pure popcorn spectacle that doesn't require a knowledge of the Star Trek mythology to make it enjoyable.",
+        "Like the original cast\u2019s best movie, The Wrath of Khan, this Star Trek essentially turns out to be a war film, with the occasional philosophical timeout to discuss love, friendship, and duty until the next bone-crunching fistfight or multi-weapon rumble with the Romulans. But Bana\u2019s villain lacks the wit and corny majesty of Ricardo Montalban\u2019s.",
+        "The movie deals with narrative housekeeping. Perhaps the next one will engage these characters in a more challenging and devious story, one more about testing their personalities than re-establishing them. In the meantime, you want space opera, you got it.",
+        "The visual effects are predictably excellent -- sometimes, in the case of a three-man free fall through space, unexpectedly lyrical -- but most of the movie's dramatic conflicts feel strictly pro forma.",
+        "This new Star Trek is nonsense, no question (\"Prepare the red matter!\"), but at least it's not boggy nonsense, the way most of the other movies were, and it powers along, unheeding of its own absurdity, with a drive and a confidence that the producers of the original TV series might have smiled upon.",
+        "A relatively mindless thrill ride that would have made the old NBC execs grin from ear to ear."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Star trek 2009, as I call it, Star Trek: the MOVING Picture is a fast paced thrill ride that leaves it brain at the door. Don\u00e2",
+            "review_date": "2011-04-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Well this movie strips out all the smarts of the original IP and replaces it with brainless action, I didn't watch Star Trek for it's action scenes, I watched it so I could enjoy the escapades of the crew and their adventures in space, sureWell this movie strips out all the smarts of the original IP and replaces it with brainless action, I didn't watch Star Trek for it's action scenes, I watched it so I could enjoy the escapades of the crew and their adventures in space, sure in the original series the only \"Real\" characters were McCoy, Spock, & Kirk, and this movie just does horrible things to them. I'm not here to say that's it's a bad movie per se, but it fails to do the IP justice, wand assassinates the characters along the way.",
+            "review_date": "2011-03-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As a long time Trek fan,i was really looking forward to this movie,especiially after watching the full trailer with the rousing music by Two Steps from Hell.Have to say though,i found the movie completely underwelming.. I know its supposed toAs a long time Trek fan,i was really looking forward to this movie,especiially after watching the full trailer with the rousing music by Two Steps from Hell.Have to say though,i found the movie completely underwelming.. I know its supposed to be a reboot,but why make a Trek movie,if your going to ignore the whole history of ALL the series,with events like the Vulcan home planet getting destroyed?! Dont get me wrong,the film has its moments,& is quite slickly shot,But Kirk trying to get it on with Uhuru? Spock IN a relationship with Uhuru? Kirk taking command the way he did was lame.The cast were prett good on the whole,but Notably good in the film was the guy who played Spock(I forget his name),& Karl Urban as Dr Mcoy i thought.The effects were pretty good on the whole,but there was far & away not enough space sequences/battles,& what there was,was lackluster.These are supposed to be big lumbering ships,with alot of crew members doing all sorts of tasks on board,so why is this never really capitalised & done justice in the Trek movies to make tense & prolonged battles between starships?.. The ones that came the closest to this was The Wrath of Khan,& Nemisis,both better movies for it.Though my favourate Trek movie stll has to be First Contact BY FAR,followed by Nemisis,then Wrath of Khan.I hope the next movie(if there is one),has a proper space battle you can sink your teeth into & enjoy,cos this movie didnt,Far from it.",
+            "review_date": "2011-06-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Star Trek is really awful. The original series was known for being cheesy and stupid, which is also why it never resonated with me too much. Sadly, so is this one. Packed with stupid quips that are supposed to be funny but are not, Star TrekStar Trek is really awful. The original series was known for being cheesy and stupid, which is also why it never resonated with me too much. Sadly, so is this one. Packed with stupid quips that are supposed to be funny but are not, Star Trek is also maligned by many other faults. The entire cast is dreadful, the story is beyond stupid, convoluted, and ruined by the time travel element. The time travel element, instead of being interesting, is really poorly executed and makes no sense whatsoever. It adds a layer of complexity to a plot that did not really need another layer of complexity. The resolution comes far too quickly and easily. Sure, some people die, but the crew is never really threatened. The plot is packed with filler that really adds nothing other than an opportunity to play 80's music. The dialogue is horrifically cringe-inducing and, even worse, it looks fake. The set design is blatantly obvious and is so bad it is reminiscent of a 50's movie when somebody is \"driving\" a car - it is that obvious. The only saving grace here is the special effects, which are incredible. Unfortunately, the look of the film is ruined by JJ Abrams' hard on for lens flare, which is distracting and wildly overused. Overall, Star Trek may have stunning space visuals and some cool designs, but the film is like the hot girl with no personality.",
+            "review_date": "2016-08-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Cliched action and awful characters. Misses everything that makes Star Trek interesting.",
+            "review_date": "2018-04-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A little bit more heart, substance and dare I say it \u2013 logic \u2013 and I might have enjoyed the fun parts where the things blew up and the people yelled at each other.",
+            "review_date": "2014-08-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I give this movie a 6.5/10. My reaction to it was, \"...meh.\" I just din't really care for it. It wasn't as exciting or well written as I had hoped but it certainly wasn't a bad movie. Maybe I'd liek it more if I were a die hard Star Trek fanI give this movie a 6.5/10. My reaction to it was, \"...meh.\" I just din't really care for it. It wasn't as exciting or well written as I had hoped but it certainly wasn't a bad movie. Maybe I'd liek it more if I were a die hard Star Trek fan but this was actually the first movie of it I saw. I prefer Into Darkness over this movie by far, but that's not to say this isn't a pretty decent movie.",
+            "review_date": "2015-05-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's amazing! The writers have balls! Finally the reset button is hit and all that cannon can start over!",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In a word: perfect. And I feel the need to point out that I'm -not- a Trekkie, and I -am- a really harsh critic. I know that sounds lame, but go see this and say I'm wrong.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As a child and teenager, I grew up with the \"Star Trek: The Next Generation\". While I was never a hardcore Star Trek fan, I did enjoy quite a few seasons of that series as well as \"Star Trek: Voyager\" and \"Star Trek: Deep Space Nine\". Still,As a child and teenager, I grew up with the \"Star Trek: The Next Generation\". While I was never a hardcore Star Trek fan, I did enjoy quite a few seasons of that series as well as \"Star Trek: Voyager\" and \"Star Trek: Deep Space Nine\". Still, the original series never really appealed to me. They always came off as outdated in so many ways I guess I outgrew them before I had the chance to get into them.\r \"Star Trek: The Future Begins\" didn't really manage to impress me, largely because it's basically nothing but barely disguised \"fan service\" for the fans of the original series stretched in a thin two hour plot.\r That plot evolves around two heroes : Spock and James T. Kirk. After a couple of scenes depicting their childhood, both meet each other as Starfleet cadets during a pretty contrived conflict and end up in a couple more conflicts until they realize they need to overcome their differences and collaborate to save the future of the earth. That pretty much sums up the whole plot.\r Several supporting characters from the original series are also included in the movie, although they're given so little screen time and character development you barely get to know them at all. All the attention goes to Spock and James T. Kirk, and even these characters are barely developed beyond caricatures. The main protagonist of the story has been given a back story not just very thin but so far-fetched and random he felt more like an afterthought than an integral plot of the movie.\r While the visual effects were as professional as one would expect of a movie with this budget, I also wasn't impressed by the movie when I tried to forget about all the plot holes and just tried looking at pretty pictures. Too much shaky cam, a ridiculous amount of annoying lens flares, awkward close-ups and an ADHD pacing gave the movie not nearly the amount of eye-candy I most definitely did expect of a movie like this, leaving me mostly disappointed by the time the credits passed the screen.\r I did very much appreciate the movie's sense of humor, though, but jokes were too few and too far in between to be a redeeming factor.",
+            "review_date": "2016-01-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This one, just like the second movie, is taken so far away from what Star Trek was supposed to be - an interesting, exciting and dramatic sci-fi, that drifts along in a slow, gentle pace, where character development, exploration, intrigue andThis one, just like the second movie, is taken so far away from what Star Trek was supposed to be - an interesting, exciting and dramatic sci-fi, that drifts along in a slow, gentle pace, where character development, exploration, intrigue and character interactions are given a lot of space.\rI know this was a movie, so it's not capable of filling as much of that in, but JJ Abrams didn't even try. He didn't want to try, as he's mentioned in interviews, with Jon Stewart for example, that Star Trek was always \"too philosophical\". You need to think too much, apparently, to like Star Trek in his mind, so he turned it into action schlock, where some of the in-universe science has just been thrown out the window (I mean c'mon, there's nitpicking and then there's stars that THREATEN THE ENTIRE GALAXY).\rStar Trek had proceeded towards its death for a long time though. But Abrams and his team didn't want to try to resurrect it, instead they stabbed the corpse.",
+            "review_date": "2015-06-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Painfully dull clich\u00e9d action fare, Star Trek is not Star Trek. Transposed aspects of the original are diluted, stripped-down, downright illogical and nonsensical. Appropriate for 'teen' audiences, the mentally deficient and those not yetPainfully dull clich\u00e9d action fare, Star Trek is not Star Trek. Transposed aspects of the original are diluted, stripped-down, downright illogical and nonsensical. Appropriate for 'teen' audiences, the mentally deficient and those not yet born when even The Next Generation was on air. Dreck.",
+            "review_date": "2014-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Where to begin. How to compare the reboot to original trek and whether to compare it to TNG?\r Firstly, what made trek trek? Above all, star trek had at its core a humanistic theme and vision. It was often a story of how to tackle 1 or 2Where to begin. How to compare the reboot to original trek and whether to compare it to TNG?\r Firstly, what made trek trek? Above all, star trek had at its core a humanistic theme and vision. It was often a story of how to tackle 1 or 2 specific current day issues without the pragmatic constraints of our current day world. It was often hopelessly idealistically naive (from our point of view) but always thought provoking and sometimes (mainstream) ground-breaking. This is what set the star trek franchise apart from generic sci-fi and space adventure like Star Wars.\r Sadly, this movie utterly failed to capture that essence of trek.\r The first 20 mins of opening sequence are a beautiful and somewhat emotional alternate/new back-story to Captain Kirk. If all the movie were like this it would get 9 or 10 stars from me. From there on however this movie primarily trades on nostalgia quotes and references in-between modern cgi explosions and fisticuffs. By the middle of the movie this is starting to wear thin and you are starting to notice the omnipresent lens-flares. A pointless scene shot in an obvious distillery marks the low-point and realisation that this is all it has to offer.\r This is a cheap, popcorn action flick trading on the beloved franchise in name and nostalgia only. Worse than that, the time taken by the shallow and transparent throwbacks leaves the characters feeling very 2 dimensional and there isn't any room for a plot worth speaking of (except by the many plot contrivances). It manages to have less gravitas than the average stand-alone, high-budget, Hollywood action movie.\r In short; it's just loud, fast and dumb, exactly what classic trek was deliberately and notably not.",
+            "review_date": "2016-01-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A thrilling ride from start to finish. An outstanding ensemble cast embarks on an epic mission paired with superb special effects and numerous laugh out loud moments. 2 things bothering me: physics got flushed down the toilet and the new A thrilling ride from start to finish. An outstanding ensemble cast embarks on an epic mission paired with superb special effects and numerous laugh out loud moments. 2 things bothering me: physics got flushed down the toilet and the new alternative universe.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Overall, this could have been any C grade science fiction movie. Let's break this down. Here's what was bad about this movie:The script - it was so horribly cliched, and full of massive plot holes that render some major scenes inert. TheOverall, this could have been any C grade science fiction movie. Let's break this down. Here's what was bad about this movie:The script - it was so horribly cliched, and full of massive plot holes that render some major scenes inert. The pacing was too well done, no time out is taken to get to know these characters particularly well, and we get the bare minimum of development. On the whole, this film is just a Transformers style action film punctuated with bursts of emotion in ways that are so obviously contrived I don't know how anyone fell for this.The villain - has the worst motivations for doing what he is doing in any film. Future Spock did his best to help him, and failed in his attempt. So its logical to assume that because of that, cliche villain will now destroy all the Federation planets, so in the future, nobody can help him. And before anyone tries to tell me he's crazy, Bana's performance and the dialogue given to him does not suggest someone who is crazy. Heath Ledger's Joker is crazy. This guy isn't. Kirk - What an **** At the end of the movie we get no sense that he is any different from the pompous prick who crashed his step dad's car for fun at the beginning of the movie. What awful character development. The cinematography - EVERYTHING has to be shot from within 10 feet of the **** subject. Whoever the DoP for this film was, don't hire them again. They don't know how to set up a goddamn shot, everything was shot so close and with the camera shaking so much like it was sat on a giant vibrator, it got difficult to tell what was supposed to be happening. Also, take out all the lens flares. Yeah, they look nice for some shots, but not every shot in the film. Unexplained things - So, this red matter can destroy a planet. Or it can be completely harmless to ships so they can be sent back in time so we can have this film. And then later on, it destroys the ships. Thanks for the explanation guys. Oh yeah, that's right, the plot says it has to happen, so it does.Having said that, there are a few things that were good in this film. Zachary Quinto and Karl Urban both did a good job with what they had to work with, Quinto especially. I didn't like Zoe Saldana in this film, she just seemed to come off as arrogant as Uhura, and Chris Pine as Kirk didn't go very well, though at times he really showed off his acting ability with what awful material he had to work from. The design overall was nice, I loved the new look for engineering, its how I'd imagine the engine room of a vast starship to look like. Just little subtle things like these made this film pop up a bit more. It's definitely not an intelligent movie, but it sort of serves as a bridge between the best of Trek films and the worst of Trek films. It's a movie that you can enjoy with your buddies while eating a pizza and having some beer, but its not a film to watch if you want something intelligent. And that is the problem - Star Trek is capable, and has to be about big ideas. This isn't Star Trek at all.",
+            "review_date": "2011-12-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Movie that killed Star Trek,\r unlogical Vulcans, oddly size changing ships (from 320m to 700m, dvd extras), no explanation why tech evolved so quickly apart from the prime-timeline.\r\n\r\nWay too much Star Wars effect in a Star Trek movie.The Movie that killed Star Trek,\r unlogical Vulcans, oddly size changing ships (from 320m to 700m, dvd extras), no explanation why tech evolved so quickly apart from the prime-timeline.\r Way too much Star Wars effect in a Star Trek movie.  No boldly going, just kill and shot.",
+            "review_date": "2013-04-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "We were pleasantly surprised with this well polished and incredibly entertaining instalment of movie genius.  Great casting and stunning visuals  a real treat on the big screen.  Love the character development and it stayed true to theWe were pleasantly surprised with this well polished and incredibly entertaining instalment of movie genius.  Great casting and stunning visuals  a real treat on the big screen.  Love the character development and it stayed true to the original series but was easily enjoyed by those that aren't all that familiar with the Star Trek format.  Top notch work and a must see!",
+            "review_date": "2013-09-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you're looking for just good entertainment and no more, that's what it delivers. Entertaining, occasionally exciting, but completely forgettable. Any episode of Battlestar Galactica is as exciting AND 100 times more memorable If you're looking for just good entertainment and no more, that's what it delivers. Entertaining, occasionally exciting, but completely forgettable. Any episode of Battlestar Galactica is as exciting AND 100 times more memorable and resonant.",
+            "review_date": "2009-12-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Seriously, haven't we seen this plot before?  A villan from future comes back to destroy the past ala 'Borg Queen' using time travel once again as a cure all for bad writing.  It's just an excuse to 'reboot' everything and frankly, it didn'tSeriously, haven't we seen this plot before?  A villan from future comes back to destroy the past ala 'Borg Queen' using time travel once again as a cure all for bad writing.  It's just an excuse to 'reboot' everything and frankly, it didn't succeed in being convincing.  It's tired, sad and so overused.  It's such a bad plot device I wish they'd stop using it.  The acting was good, not great but then what can you expect?  The rest, well average to poor at best.",
+            "review_date": "2011-04-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A Star Trek movie for people who don't like Star Trek? Fine. But what about the people that do? Couldn't they find younger actors to portray the crew? And what's with the sex scene? This is taking the 60s show a bit too far A Star Trek movie for people who don't like Star Trek? Fine. But what about the people that do? Couldn't they find younger actors to portray the crew? And what's with the sex scene? This is taking the 60s show a bit too far into the 2000s when it didn't need to. Stay away!!!",
+            "review_date": "2009-05-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best Star Trek movie yet! Even without the Borg, this movie was well written and well-executed through and through! Bravo!!",
+            "review_date": "2009-12-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Huge disappointment! I've watched Star Trek since the 60's and am a great fan. I was really psyched for this movie but hugely let down after watching it. As other critics here have mentioned, wonderful SFX, but contrived, formulaic Huge disappointment! I've watched Star Trek since the 60's and am a great fan. I was really psyched for this movie but hugely let down after watching it. As other critics here have mentioned, wonderful SFX, but contrived, formulaic and predictable plot and (except for Kirk, Spock, McCoy) virtually non-existent character development for the others. Plot also has inconsistencies, is not believable and diverging from established Star Trek 'history' is very unsatisfying. This is one of the few movies I've purchased.",
+            "review_date": "2009-12-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Thank God I can give this movie a zero here. On IMDB I had to give it a one. This movie was comedic and pitiful, a disgrace to the whole Star Trek series. William Shatner should be grateful that they didn't ask him to appear and Leonard Thank God I can give this movie a zero here. On IMDB I had to give it a one. This movie was comedic and pitiful, a disgrace to the whole Star Trek series. William Shatner should be grateful that they didn't ask him to appear and Leonard Nimoy must need a paycheck really bad. I was done when they resorted to Alien Monsters and Tyler Perry.",
+            "review_date": "2009-05-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I wish I could have better liked this movie. The acting was very good, the SFX was mind-blowing ... but ... it simple is not Star Trek. I can understand why the studio and J.J. Abrams felt the need to upgrade the concept for new younger I wish I could have better liked this movie. The acting was very good, the SFX was mind-blowing ... but ... it simple is not Star Trek. I can understand why the studio and J.J. Abrams felt the need to upgrade the concept for new younger audiences. But in the process of concept transformation, they left the older trekkers in the dust. The use of fast editing techniques, shaky camera, and an overabundance of lens flare may work for the video game generation, but older trekkers, who delighted in the Star Trek universe since the late 1960's, will find nothing but disappointment. The problem is that Star Trek's appeal to many fans was that it written and staged as a traditional drama. In fact, plot lines were almost Shakespearean in form and content. The best of the Star Trek films and television episodes, for example, were all scripted in such a fashion, even to the point of using lines lifted directly from the bard himself. This version of Star Trek is totally missing any dramatic structure. It has a plot of sorts but it passes through the viewer conscious like grease through a goose; to quickly to absorb. This is probably a good thing because if you had the time to think very much about plot points you would discover a lot of holes. The film was designed to be an audio-visual experience and not a traditional thoughtful and multi-layered Star Trek script. Too bad. I assume it made a lot of money anyway and perhaps the next film will will actually tell a story.",
+            "review_date": "2009-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There was no grace or glamor to this film whatsoever. It sped from scene to scene with very little clarity. The jokes seemed forced and slapstick. The plot was vague. The cinematics were anything but. The soundtrack was nothing more than the There was no grace or glamor to this film whatsoever. It sped from scene to scene with very little clarity. The jokes seemed forced and slapstick. The plot was vague. The cinematics were anything but. The soundtrack was nothing more than the same 3 notes being played over and over again. All in all, it was a poor Star Trek. I am stunned that the critics bought in so completely into the hype.",
+            "review_date": "2009-05-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just: wow. I think this one finally beats the StarTrek movie-grail \"Wrath of Khan\" (which gets a *winkwink* shout-out in this film, chock-full of such tasty tidbits). It's great because it's not just geek-friendly -- tho sure, Just: wow. I think this one finally beats the StarTrek movie-grail \"Wrath of Khan\" (which gets a *winkwink* shout-out in this film, chock-full of such tasty tidbits). It's great because it's not just geek-friendly -- tho sure, they'll be out in force -- it also opens a huge door for others to (re-)discover this legend. Like StarWars, LOTR and HarryPotter, I hope this will spawn a boom in the shared mythology that is StarTrek. And the great part is, the seriously FEW ticks at which you might quibble, let you feel superior while still enjoying the be-whatzis out of the rest of this fantastic ride! Get a LARGE popcorn, WITH butter. What are you waiting for?? GO!",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What garbage. This is true bull-sh**. It success is unknown. The same people must being going to the theater every week. The female characters in this movie are the most pathetic representation of women I've seen in a movie in a long What garbage. This is true bull-sh**. It success is unknown. The same people must being going to the theater every week. The female characters in this movie are the most pathetic representation of women I've seen in a movie in a long time. The main actor, chris pine, is really horrible and is only existing in movies cuz of his looks, like mark wahlberg. This movie is sewer with poor fans living in it. Its nothing like the original.",
+            "review_date": "2009-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A list of things the director was thinking -never go more than 3 minutes without a sequence of explosions. -don't skip the cheese when introducing the main characters. -get leonord nemoy in there as old spoc but also have a young spoc. A list of things the director was thinking -never go more than 3 minutes without a sequence of explosions. -don't skip the cheese when introducing the main characters. -get leonord nemoy in there as old spoc but also have a young spoc. Write the plot around that. -make every other scene an action scene, even if it has nothing to do with the plot. If you can't think of a way to get the bad guys zapping at the good guys, throw some ice monsters in there. -any characters who seem boring should have a funny foreign accent so their scenes can be entertaining -red matter looks and sounds cool -the laws of physics don't matter. Not just quantum physics but third grade you-can't-dive-through-the-atmosphere-or-you'll-burn-up-physics. -americans just want action action action. They don't think and if you throw in some sex appeal and cheap comic relief they will see your movie again and again. This is logical.",
+            "review_date": "2009-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I could have forgiven, the non-existent plot, the time travel fallacies, the departures from cannon...I could have forgiven almost everything except bad special effects. These rank as some of the worst special effects Trek fans have ever had I could have forgiven, the non-existent plot, the time travel fallacies, the departures from cannon...I could have forgiven almost everything except bad special effects. These rank as some of the worst special effects Trek fans have ever had to endure, maybe its good that the entire movie was shot in ultra close-up so that making out the special effects is nearly impossible...no I'm just kidding that just made it worse.",
+            "review_date": "2009-06-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The trailers told the truth, this is NOT your fathers trek, and it's not mine either. This movie is in no way Star Trek, save for the title and the names of the characters, and this appears to be completely coincidental. This movie is The trailers told the truth, this is NOT your fathers trek, and it's not mine either. This movie is in no way Star Trek, save for the title and the names of the characters, and this appears to be completely coincidental. This movie is built on a flimsy and well worn premise that defies logic and tells no story. It sells itself as an origin story and reboot and complete wipe of a franchise that merely needed minor resuscitation. All while still attempting to remain true to forty years of Trek with empty posturing that doesn't even fit with the preposterously inane plot and telling the audience that it's all taking place in an alternate reality. JJ Abrams, and the writers Orci and Kurtzman, clearly wanted to have their cake and eat it too. Trekkies paid for it, and all three are laughing all the way to the bank. I can't stress this enough; the plot exists only to move the action along, there's no story. But, there's plenty of action, however unlike even the atrociously silly Star Trek V, this star trek has clearly had no THOUGHT put into it, and impolitely asks it's audience not to think either. What's worse than this disservice, is the insulting nature of the camera work itself. Lens flares, blurry action, and laser shows that are more Star Wars than Trek. JJ Abrams demonstrates his inability to tell a story even through pictures in every seizure inducing scene. The only positives that come from this movie, is that many non-trekkies may become trek fans if they bother to watch what's come before, and they'll soon realize what garbage this movie was. The only actual positive point in the movie itself, was the guy who played McCoy, who should clearly be in serious movies, and not mindless action romps like this one.",
+            "review_date": "2009-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you like a mindless story line, lots of meaningless explosions and summer stock acting, I urge you to see this thorough waste of two hours. If you are over twelve, ignore my advice and stay home.",
+            "review_date": "2009-05-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I gave this a 2 - for the 2 reasons that did make some impression. Mr. Leonard Nimoy. You are still the best, sir. And the ending of this awful movie full of contridictions of the original t.v. show. Mr. Nimoy and the ending was the only two I gave this a 2 - for the 2 reasons that did make some impression. Mr. Leonard Nimoy. You are still the best, sir. And the ending of this awful movie full of contridictions of the original t.v. show. Mr. Nimoy and the ending was the only two good things about this wannabe rip off.",
+            "review_date": "2009-05-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"It's Star Trek Jim, but not as we know it.\" \"But Spock, with alternate timelines anything is now possible! Remakes of Ben-Hur fighting Romans with phasers; John Wayne could be the man who nuked Liberty Valance; the Orcs could use \"It's Star Trek Jim, but not as we know it.\" \"But Spock, with alternate timelines anything is now possible! Remakes of Ben-Hur fighting Romans with phasers; John Wayne could be the man who nuked Liberty Valance; the Orcs could use transporters to capture the ring of power from Frodo in Lord of the Rings; or imagine Casablanca where Humphrey Bogart flies off with, what's her name?\" \"Bergman, Captain. Ingrid Bergman.\" \"Yes Bergman. Much better if she went off with Bogart rather than Victor Laszlo. And with an alternate timeline, maybe they could cut the smoking. And fight those Klingons rather than the Germans. And maybe there need be no world war two anyway! Think of all the lives saved Spock!\" \"That would indeed be Casablanca Jim, but not as we know it.\" \"But Spock. If we had enough computer-generated special effects, the critics would give it a 10. Who would care whether it was faithful to the original... Spock? Spock! Put that phaser down Spock!\" \"An alternate timeline Captain...\".",
+            "review_date": "2009-07-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "All the critics liked this picture lots, but it left me cold. Maybe I'm getting old, but it seemed rather gen-y for my taste. I didn't find Kirk charismatic; in fact, I found his simpering frat-boy superiority off-putting. Also, All the critics liked this picture lots, but it left me cold. Maybe I'm getting old, but it seemed rather gen-y for my taste. I didn't find Kirk charismatic; in fact, I found his simpering frat-boy superiority off-putting. Also, the character doing 'Bones' seemed constantly on the verge of blowing his accent. And I thought the plot was thin. I felt the story gratuitously celebrated its more aggressive impulses in the form of constant (often unnecessary) fist-fights etc. The thing that made the first Star Trek so legendary was its message of hope, which it addressed while asking more serious questions about human nature. Although well executed, this picture seemed to be more spectacle than substance.",
+            "review_date": "2009-05-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film features very slick effects, and plenty of action. Its storyline, however, is so astonishingly weak that it occasionally offends. The leaps one is asked to take in order to follow along can hardly be believed. This picture is This film features very slick effects, and plenty of action. Its storyline, however, is so astonishingly weak that it occasionally offends. The leaps one is asked to take in order to follow along can hardly be believed. This picture is filled with ridiculous contrivances, and laughable caricatures of supporting characters from the Star Trek mythos. There is a dash of interesting development for Kirk and Spock in the mix, but it does not save the film. With the exception of these precious bits, this film is entirely disposable.",
+            "review_date": "2009-05-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Star Trek is actually a really good action sci-fi film and I feel really bad with myself that I haven't watched this excellent film these years. It has great action and really good special effects and even though I saw the film in my computerStar Trek is actually a really good action sci-fi film and I feel really bad with myself that I haven't watched this excellent film these years. It has great action and really good special effects and even though I saw the film in my computer the it felt like I was at the cinema which was a great experience for me. I've never watched before Star Trek and my first impression is really positive. I liked the characters and the actors were great too. J.J.Abrams made a really good film after Lost which was a great tv show and I'm really looking forward watching the sequel of that film and I hope that it's even better than this film which was really good. A must-watch!",
+            "review_date": "2013-08-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I was lucky enough to get tickets to an early preview screening of this movie on Tuesday and I can wholeheartedly recommend it to Trekkies and regular moviegoers alike. I usually only review films that are so bad I have no choice but to go I was lucky enough to get tickets to an early preview screening of this movie on Tuesday and I can wholeheartedly recommend it to Trekkies and regular moviegoers alike. I usually only review films that are so bad I have no choice but to go online and rant about their crappiness. Star Trek, however, delivered the goods :) This is the Star Trek movie that the franchise sorely needed and blows all the others away with the exception of Kahn. The casting is spot on for pretty much every major character. Pegg, I was dubious of at first, but he actually did a great job. Every actor pulled off their respective characters superbly, in particular, Pine as Kirk as I believe he had the hardest task of reviving Kirk while not \"doing a Shatner\". Spock, McCoy, Uhura, Scotty etc. all put in excellent performances. Oh, Bana's very good too as Nero. The visual effects are beautiful and the look of the movie manages to remain true to the old series as does the script but in a fresh, modern way. Not everyone will get all of the Trek references throughout the film (which by the way, somehow manage to avoid being cheesy at all and are often very funny). That being said, the film is full of humour that everyone will appreciate anyway as the dialogue is snappy and very funny at times. The story is compelling and manages to introduce the characters and establish their roles and relationships with each other in a convincing and meaningful way and they all get their moment in the sun. Action-wise you've got fisticuffs, space battles, shootouts, explosions and plenty more so there's no excuse for people sending up Z's during the flick ;) Okay so to sum up; spot on casting, good story, great performances, lots of action, sharp dialogue and plenty of laughs. What are you waiting for? See it. PS: I just saw that two users gave this a really low score. I",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thought the movie was boring. There wasn't really anything that grabbed my full attention.",
+            "review_date": "2011-03-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I liked the cast, Thought the film had some solid acting. I wish Nero, the film's villain, had a bigger presence though, Felt he was barely in the film at all, Which is rather disappointing. Also, The film was a bit too fast paced. II liked the cast, Thought the film had some solid acting. I wish Nero, the film's villain, had a bigger presence though, Felt he was barely in the film at all, Which is rather disappointing. Also, The film was a bit too fast paced. I understand that you can only pack so much into a film and that Star Trek is a massive series, Heck I am shocked that they packed so much into this film, but still it sort of hurt the movie. That being said, It wasn't a bad movie. I enjoyed it enough to give the sequel a chance.",
+            "review_date": "2013-05-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Star Trek is true enough to its name to provide a satisfying quasi-reboot for the decades-old franchise. The science of this sci-fi action film is very thin, but the heart's still there, in no small part because of the participation ofStar Trek is true enough to its name to provide a satisfying quasi-reboot for the decades-old franchise. The science of this sci-fi action film is very thin, but the heart's still there, in no small part because of the participation of Leonard Nimoy, who has a surprisingly substantial role.",
+            "review_date": "2016-08-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Who: Chris Pine, Sylar, Gary King, Pam Dawson, The 2003 Hulk, and Kyle Reese as Pavel Chekov\rWhat: A fantastic re-branding of an already fantastic franchise\rWhere: The Final Frontier\r\nWhen (Can I watch again): Whenever you need proof J.J.Who: Chris Pine, Sylar, Gary King, Pam Dawson, The 2003 Hulk, and Kyle Reese as Pavel Chekov\rWhat: A fantastic re-branding of an already fantastic franchise\rWhere: The Final Frontier\rWhen (Can I watch again): Whenever you need proof J.J. Abrams is god\rWhy: Even if your somehow not a fan of the franchise this is a perfect adventure blockbuster that you can completely get sucked into while forgetting about all of life's problems.",
+            "review_date": "2016-05-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nWhile it does destroy fifty years of canon with time-travel mumbo jumbo, J.J. Abrams' 'Star Trek' is nevertheless a brilliant origin story with great performances and direction.\r Simon Pegg is still as funny as ever, and Leonard Nimoy returns as a callback to the show in the form of 'Old Spock', which is great.\r But 'Star Trek' is not without flaws; the villain is underdeveloped and has some nonsense plan about drilling holes in planets or something like that, and as I said above, it deems the show non-canon with a confusing plot about time travel.\r But in short, 'Star Trek', although not without flaws, is a great origin story to one of the most popular science-fiction shows of all time.",
+            "review_date": "2016-03-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Star Trek is one of those stupid series that geeks love for no reason. It is not exciting or awesome. The formula is bland after well the first movie but geeks still love it. This movie is only for geeks.",
+            "review_date": "2016-07-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Impressive Hollywood product, exciting story, outstanding acting performances! This one is an excellent sci-fi movie, stunning and much more spectacular than usually we may see any other fantastic tale!",
+            "review_date": "2013-01-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I'm not a sci-fi person and I rarely enjoy this genre but Star Trek convinces me otherwise. With surprisingly great acting and solid (but enjoyable) plot, they managed to pull it off with such dominance I have to name it Best Film of I'm not a sci-fi person and I rarely enjoy this genre but Star Trek convinces me otherwise. With surprisingly great acting and solid (but enjoyable) plot, they managed to pull it off with such dominance I have to name it Best Film of 2009. Now waiting for the sequel.",
+            "review_date": "2010-01-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Unwatchable. J.J. Abrams hates Star Trek and it shows. Full of Bugs Bunny/Loony Toons gags and action scenes without the humour or entertainment. Kirk hanging on a precipice could be a drinking game in this movie it happens so many times. Unwatchable. J.J. Abrams hates Star Trek and it shows. Full of Bugs Bunny/Loony Toons gags and action scenes without the humour or entertainment. Kirk hanging on a precipice could be a drinking game in this movie it happens so many times. There is no story to speak of. There is, however, 122 minutes of the classic Star Trek characters squabbling with each other, tiresome fist fights and Uhura being up skirted by the camera as a nonsensical \"plot\" unfolds. Dialogue is laughably bad. Kirk's mother being rushed to a shuttle craft while in labour is right out of Mystery Science Theatre 3000. The visual effects are frenetic and cluttered. Many interiors of the ships are wildly out of scale and were filmed in what are obviously existing factories and other industrial locations. There were better engineering room sets in Star Trek The Motion Picture from 1979! In this movie you will be blinded by the ceaseless lens flares and be nauseated by the constantly spinning, twirling, twisting camera. McCoy is performed as a mocking impersonation of DeForest Kelly. Abrams has pulled down his pants and mooned movie goers. An appalling mess from start to finish.",
+            "review_date": "2009-11-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I JUST SAW IT YESTERDAY AND SPEAKING AS A LONG-TIME STAR TREK FAN: Like most movies made recently, it was a special-effects extravaganza. Also like most movies made today, the plot seems like it was written for a comic book. Star Trek I JUST SAW IT YESTERDAY AND SPEAKING AS A LONG-TIME STAR TREK FAN: Like most movies made recently, it was a special-effects extravaganza. Also like most movies made today, the plot seems like it was written for a comic book. Star Trek purists will be especially disappointed. The actors selected to portray the characters were OK, but the film suffered from an unbelievably moronic story line. I",
+            "review_date": "2009-05-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just how the Next Generation movies failed to capture the spirit of TNG, this move failed to capture the spirit of Trek is general. Despite having a stunning opening, you eventually realise that this is a generic action movie with little Just how the Next Generation movies failed to capture the spirit of TNG, this move failed to capture the spirit of Trek is general. Despite having a stunning opening, you eventually realise that this is a generic action movie with little plot. Oh, an things don't make sense. Why do Kirk and Spock hate each other so much that they fight on the bridge? Why does Nero blame Spock for all his problems? Why is Nimoy in this film? Why have a scene where Kirk drives a car of a cliff? When did black holes become time travel portals (har, har)? Still, if you want a generic action movie...",
+            "review_date": "2009-07-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I can't believe that any Star Trek fan enjoyed this movie. It failed, in every aspect, to capture the spirit of what made Star Trek great. Even without the Star Trek grievances, it was still a bad movie. So the special effects were cool I can't believe that any Star Trek fan enjoyed this movie. It failed, in every aspect, to capture the spirit of what made Star Trek great. Even without the Star Trek grievances, it was still a bad movie. So the special effects were cool and the acting was pretty good, but the script was lame and horribly cliched and the plot was just utter nonsense. Not to mention the pacing, which was so fast it was physically draining. The only reason I watched the whole movie was so that I could make an informed criticism. Had it not been a Star Trek movie, I would have stopped watching after the first 20 minutes or so. But I'm not surprised; it did share the same writers and director as Mission Impossible 3 and I walked out of that in the second scene.",
+            "review_date": "2009-12-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A very enjoyable action extravaganza. I loved it pretty much from start to finish and laughed out loud in parts. Chris Pine did a great job as Captain Kirk and Simon Pegg as Scotty!!!",
+            "review_date": "2011-10-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Action? Yes, in abundance. Special FX? Obviously, being a movie about outer space and the future. Story? NO, zero story - zilch. I mean dragging out the temporal distortion alternate future time traveling episode filler is nothing new for Action? Yes, in abundance. Special FX? Obviously, being a movie about outer space and the future. Story? NO, zero story - zilch. I mean dragging out the temporal distortion alternate future time traveling episode filler is nothing new for ST, but couldn't they come up with something more original? Lot's of eyecandy but no research into the ST universe at all. And Scotty... what ludicrous ACID-snorting twit came up with the idea to make that guy scotty? sure he's a good actor (to some extent) but he aint and never will be scotty. I mean it's one thing getting used to Syler being (a very emotional) Spock (I swear at times I could hear the ticking timepieces!) And then to end the most profound meeting there could be between the two spocks ends, not with a vulcan Live Long and prosper greeting but, with a goodbye. That's not innovation. It's heresy. All REAL trekkies should band together and go put the director (or as he will from now on be known - T.A.C.) to the torch. Or the phaser or whatever.. Ps. If they insist on adapting Star Trek into an action thrill ride for the Mindless-want-it-now! generation of today... rather call it some else and let ST die a quiet and dignified death.",
+            "review_date": "2009-06-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Awful. Just awful. Let's start from the beginning. . . what's with the Beastie Boy's \"Sabotage\" doing in a Star Trek film? I knew this movie was bogus from about that point on. The character development was poor. The villain Awful. Just awful. Let's start from the beginning. . . what's with the Beastie Boy's \"Sabotage\" doing in a Star Trek film? I knew this movie was bogus from about that point on. The character development was poor. The villain was not menacing. Poor acting all around. Each fight scene is predictable. Horrible score. At certain points I felt like I was watching a college drama in space. . .complete with sex scenes and plenty of make outs. Wtf was Winona Ryder doing in this?!? Were we supposed to care about ANY of these characters? I sure didn't! The only thing I cared about was checking my watch in hopes that this flop was almost done with. And how about the final battle that was practically lifted from Star Wars?? I kept waiting for Han Solo to yell \"You're all clear kid, now let's blow this thing and go home!\" However, the film does deserve a couple points for great visual effects. Unfortunately even the effects were sometimes cheesy. I wasn't sure if I was watching a movie or playing a game of Halo. This one is a stinker!",
+            "review_date": "2009-05-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is utter trash. I must say, the beginning scene stood out as pretty damn epic, but after that, the film quickly deteriorated. There is little to no character development with the exception of Kirk, Spock, and Bones, only one of This movie is utter trash. I must say, the beginning scene stood out as pretty damn epic, but after that, the film quickly deteriorated. There is little to no character development with the exception of Kirk, Spock, and Bones, only one of whom (Bones) had an astounding actor (Karl Urban). Uhura was there for romance scenes, Scott was put in to spout one-liners, and Chekov was obviously just a waste of space filled in order to make the audience chuckle at the actor's (Anton Yelchin's) horribly fake Russian accent. The story behind the criminal's intentions aren't revealed until the fourth quarter of the film, and the backstory is truly abysmal with enough pseudoscientifc nonsense to make any Enterprise fanboy cringe and the worst criminal reasoning in Star Trek since Soran from \"Generations.\" The time paradoxes are badly thought out and make little sense. During said first three quarters of the film, the cast of the film chase the bad guy around and try to stop him. This is utterly boring so the director and writers and such try to make up for this by \"pace faking\" by making characters argue and be violent and have romance scenes in-between the boring conflicts. The directing thoroughly lacks in logic, as bringing phasers along instead of fist-and-sword fighting Romulans on an orbital platform with gigantic fiery exhaust ports is obviously highly illogical. Another stupid thing that I didn't understand at all is why the film opened up with a fight. They have a little utilitarian ship in the middle of space and a portal opens and a big dark spiky ship comes out so they start firing at will without checking if the mysterious enemy has shields powered or weapons ready. They just go by \"It's big and dark and it just appeared in front of us. We didn't try hailing it because every ugly thing in space is obviously evil.\" It of course does actually turn out to be evil, but that is not Star Trek. There are also the canon and plausibility concerns, which are wrecked entirely, so it doesn't deserve to be called Trek. Everything else mentioned here (excluding Karl Urban) just made it even worse.",
+            "review_date": "2009-05-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The worst movie I have seen in awhile. I went into this movie without any prior feelings on star trek. I left never wanting to see another piece of media from the property again.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think I remember a movie incredibly similar to this done back in 2005. It had the same violence, the same bright special effects, and the same angry group of characters. It was called Doom. Except, I think it was better because there were I think I remember a movie incredibly similar to this done back in 2005. It had the same violence, the same bright special effects, and the same angry group of characters. It was called Doom. Except, I think it was better because there were less lens flares, the action was better paced, and Karl Urban had a bigger roll.",
+            "review_date": "2009-06-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "About as deep as \"The A-Team in Space.\" Lots of explosions and fistfights signifying *nothing*. Heinous product placement and a disrespectful rip of Spock's death line from Wrath of Khan on top of herky-jerky abrasive cinematography.",
+            "review_date": "2009-05-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How very ironic that this gratuitous sci-fi film with an incomprehensible plot should be rated as 'good'.",
+            "review_date": "2009-09-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThe writing was atrocious. This movie felt like it was just filled with a bunch of lines from classic Star Trek so reviewers would say its Star Trek. Instead of making me hark back to any classic Trek they just made me feel ripped off with such cheap gimmicks when none of the characters felt like they were in the series like Spock yelling, choking, and marooning Kirk and Scotty and Chekov are reduced to mere comic reliefs. Red matter was some magical blob that did what the writers wanted to whenever they wanted the plot to do something, it was not science fiction. But that should be expected from the same writers who wrote such Hollywood \"greats\" like Transformers and The Island. The Star Trek franchise has now stooped so utterly low that for humor it now needs cartoons and bestiality jokes, now uses \"your mommy was a whore\" insults, and is now totally reliant on special effects, fistfights, endless shouting for \"entertainment.\"  Mr. Abrams promises much but like his mystery in Lost it they're pretty empty despite all the initial hype. He says its a prequel to the series, but then he uses a cheap trick that its an alternate universe to avoid creative thought and so he can just put in whatever he wants to still claim he didn't wipe anything. This movie shamelessly tries to milk every last penny out of the Star Trek name instead of letting it die with the miniscule dignity it had left.",
+            "review_date": "2012-01-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A depressingly shallow and moronic action/explosions fest masquarading as a star trek film. The character limit is simply far too small for me to list all of this film's flaws, but I'll have a go at it anyway: the pointless and non-sensicalA depressingly shallow and moronic action/explosions fest masquarading as a star trek film. The character limit is simply far too small for me to list all of this film's flaws, but I'll have a go at it anyway: the pointless and non-sensical destruction of Vulcan. Warping Kirk into some kind of Twilight-esque pretty boy thug and thief who beats people up in seedy bars. Making Kirk and Spock enemies, for no other reason than to provide some \"dramatic tension\". Romulans that weren't even recognisable as Romulans. The pretentious, in-your-face overuse of shaky camera and lense flare. And a plot that can be summed up in one sentence: Blow up the Romulans. And all of these flaws conveniently hidden by Abrams with the lazy, cliche'd excuse:  \"but it's a parallel world, so it can be different.\" To a point, maybe, not so different that it becomes unrecognisable and turns into star wars. To quote another reviewer, Gene Roddenberry must indeed be rolling in his grave, while Rick Berman tears his hair out and has an anurism. In conclusion: avoid this film like you would avoid Justin Beiber's new single.",
+            "review_date": "2012-08-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Disgustingly and absurdly dumb movie.",
+            "review_date": "2010-01-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Star Trek is intelligent, funny, witty, visually dazzling, surprisingly well acted, and the story is told with a surprising amount of depth. It benefits from its mesmerizing action and true heart. I give this movie 89%.",
+            "review_date": "2012-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I dont care how good the director is, I dont care how good the plot is, I even dont care how good the SFX are in this movie. In the STAR TREK franchise I only care about the cast, becouse STAR TREK has one and only thing that matters for I dont care how good the director is, I dont care how good the plot is, I even dont care how good the SFX are in this movie. In the STAR TREK franchise I only care about the cast, becouse STAR TREK has one and only thing that matters for recieving its message. The Star Trek franchise is mainly based on the chatacters visual impact on the wiever, you will almost immediately recognise who must be the Captain J.T.KIrk, who is Mr. Spock, who is Dr. Bones and ecetera. But this new STar Trek ruined everything for characters comprehension. The new STAR TREK is full of wanna be actors that belong to the infamous cheap third world Soap Operas subgenre, they do not have charismatic unique faces as th eoriginal cast, they just have strange faces, and not even fanny. WHen I watched the wanna be Kirk, Spok, Bones and other crew members, I couldnt believ how badly they ruined the franchise of TOS STAR TREK. There are things that is best never try to fix, becosue they still work as they are timeless. We were all ok with the old crew from TV series, and living our short live unaware of the great shock of seeing somebody so ignornat and crazy enough to destroy the franchise by putting absolutely wrong cast in place of real charismatic living legends.",
+            "review_date": "2009-09-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A two hour setup for a sequel. The plot consists of recycled Star Trek (and Star Wars) cliches and the dialogue seems to mostly be wink and nod quotations for the fans. I'm not a hardcore Trekker and I couldn't care less if they A two hour setup for a sequel. The plot consists of recycled Star Trek (and Star Wars) cliches and the dialogue seems to mostly be wink and nod quotations for the fans. I'm not a hardcore Trekker and I couldn't care less if they mess with the Star Trek universe but this was a bad movie. Maybe it is time to bury it once and for all.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Horrid film---no true fan of Star Trek would recognize this as being part of the ST legacy. It's formulated for the 2009 audience, i.e. nothing but the anger, action, violence that's demanded of the (mostly pubescent male) video Horrid film---no true fan of Star Trek would recognize this as being part of the ST legacy. It's formulated for the 2009 audience, i.e. nothing but the anger, action, violence that's demanded of the (mostly pubescent male) video gamer crowd, its intended demographic.",
+            "review_date": "2009-07-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Had all the heart and soul of the original series!",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Story, action, cassic lines cleverly inserted without cheesiness all make for a wonderful eye-candied amazing movie.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolute masterpiece - saw it at IMAX and would have happily walked straight back in and watched it again.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a fantastic film, not only does it have classic nods to the orignal and does not over do them, but it focuses on the relationship between Spock and Kirk in a new interesting way. The CGI is fantastic and it looks like the film has This is a fantastic film, not only does it have classic nods to the orignal and does not over do them, but it focuses on the relationship between Spock and Kirk in a new interesting way. The CGI is fantastic and it looks like the film has been made made trekkies as they seem to have looked at what was cheesy and moved away from it. The rapport between Kirk and Spock is fantastic and the film is very pacey. I think the best film of the year.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Easily one of the most satisfying films ever, not to mention the best prequel I've ever seen.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Easily one of the best films I've seen in the past few years - non stop action, accessible for everyone, and everyone left the screening beaming with joy and happiness - the way a great movie should leave you feeling. Even after seeing Easily one of the best films I've seen in the past few years - non stop action, accessible for everyone, and everyone left the screening beaming with joy and happiness - the way a great movie should leave you feeling. Even after seeing it early, Ill be the first in line to see it again tonight when it opens.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Loved it, but i didnt feel it epic enough on the battle scenes it felt more of a pilot for a series tbh still great though",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Pine really is a revelation as Kirk. Not a slavish homage, but a fresh look that capture the spirit and some of the manerisms. Quinto is awesome as Spock and the whole cast shines in a whipcrack paced fun film. This is what Bond should be Pine really is a revelation as Kirk. Not a slavish homage, but a fresh look that capture the spirit and some of the manerisms. Quinto is awesome as Spock and the whole cast shines in a whipcrack paced fun film. This is what Bond should be doing after the dull Quantum; embrace what made the series famous and run with it. Done well there is no need to be ashamed of its roots.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is an outstanding reboot of the classic sci-fi series we all know and love, partly because it introduces new and fresh ideas into the series while still paying homage to the original films.",
+            "review_date": "2010-09-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Star Trek is, generally speaking, a good movie that appeals to both established fans and outsiders alike. The acting is enjoyable, the actors are very well cast for their iconic roles, the special effects are great, the score is rousing, andStar Trek is, generally speaking, a good movie that appeals to both established fans and outsiders alike. The acting is enjoyable, the actors are very well cast for their iconic roles, the special effects are great, the score is rousing, and there are tons of great little details only long time Star Trek fans will notice. Unfortunately the biggest problem this movie has is that it is a reboot of the series and as such disregards much of the established lore and history. While it goes about this in an interesting way in the end it opts to stand apart from almost fifty years of Star Trek rather then adding to the universe millions have come to love.",
+            "review_date": "2010-09-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "don't know too much about the Star Trek series but i found the movie very enjoyable with its stunning visuals and decent story. Star Trek might be forgettable but it was good while it last",
+            "review_date": "2015-11-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I'm not a trekkie fan or a Star Wars fan, I like them both more or less.  With that said:  this movie is a perfect representation of this soul-less ADHD generation.  This movie is so forgettable I had to read the reviews to be reminded of theI'm not a trekkie fan or a Star Wars fan, I like them both more or less.  With that said:  this movie is a perfect representation of this soul-less ADHD generation.  This movie is so forgettable I had to read the reviews to be reminded of the plot.  I'd normally give it a zero, but I think I'll give it a 1 for Orion chic boobs; apparently that's all I remember about the movie.",
+            "review_date": "2013-04-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A fantastic thrill ride that is great because of the cast.  The casting in this film is pitch perfect and director J.J. Abrams makes a Star Trek film not just for Star Trek fans but fans of any good sci-fi films.",
+            "review_date": "2013-06-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "enough of the BS! this game is broken. Namco employess creating fake accounts to help promote them game. Not fininding any co-op support for days. Just and awful experience",
+            "review_date": "2013-04-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't get the positive reviews and ratings. The action scenes were a herky-jerky mess. The plot blazed along so quickly, with so little exposition, that the characters felt paper thin. The setting was the typical Trek blah, with no I don't get the positive reviews and ratings. The action scenes were a herky-jerky mess. The plot blazed along so quickly, with so little exposition, that the characters felt paper thin. The setting was the typical Trek blah, with no sense of culture, time or place. Most of all, it didn't look like a MOVIE, it looked like an overgrown TV episode -- and I saw it on an IMAX screen! For all their many (MANY) weaknesses, when you watch a Star Wars movie, at least you feel like you're seeing a real movie. The plot contrivances were so massive that you gave up any pretense of reality before the second half. Consider what a coincidence it was that Kirk happened to confront the man who killed his father, as a newly commissioned captain, just like his father. Wow, how significant. The reviews are all wrong, sorry.",
+            "review_date": "2009-05-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Something mentioned in few reviews (including most of those on this site) is how relentlessly DUMB this film is. Previous Trek films have had plot holes, to be sure, but this one is essentially two hours of end-to-end plot holes. Yes, the Something mentioned in few reviews (including most of those on this site) is how relentlessly DUMB this film is. Previous Trek films have had plot holes, to be sure, but this one is essentially two hours of end-to-end plot holes. Yes, the acting is good, and the (drastically revised) characters are moderately interesting. But the story is so incredibly senseless - and so breathlessly paced - that no real character development is possible. One gets the feeling that Roddenberry's Trek has been deliberately dumbed-down and had its higher aspirations eviscerated to suit the mentally and morally deficient tone of our times. The film's amazing popularity is thus a sad comment on who its audience has become. Far from being a 'reboot' of the franchise, this Star Trek is more like a demonic changeling that's murdered the original and been left in its place. I'd give it a 1 for the talent of its stars, but that might imply that if this abomination were the last film in the world, it might, however remotely, be worth seeing. It wouldn't. This film goes beyond 'bad' all the way to 'evil' - and should be avoided at all costs.",
+            "review_date": "2009-07-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I only needed twenty minutes to know the next one hundred would be garbage. A trite, melodramatic script that aggressively violates the \"show, don't tell\" rule, passable CGI ruined by a baffling decision to drench EVERYTHING in sun glare, andI only needed twenty minutes to know the next one hundred would be garbage. A trite, melodramatic script that aggressively violates the \"show, don't tell\" rule, passable CGI ruined by a baffling decision to drench EVERYTHING in sun glare, and editing so brisk it makes one feel as if they are watching a collection of (poorly made) short films instead of one fully fledged story. Pass.",
+            "review_date": "2012-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis is the \"Twilight: Bitter Moon Redux-Sparkles Edition\" of the Star Trek movie universe.  Lots of sexy kids running around and not making much sense along with plot holes you could pilot two death stars through side-by-side.These included a dreadful sword fighting scene, a dreadful ice-planet chase scene by a CGI-generated monster that was mostly membrane and protoplasm- hardly suited for cold weather, but ideal for THIS movie, and a lackluster Spock from the old series who was far more concerned with how much fun it was to be Kirk's friend than 6 billion Vulcans dying.This movie had a tongue-in-cheek (I think) reference to Galaxy Quest and its infamous, sake-inspired Chompers- obstacles that don't make sense that our heroes must navigate and which contribute to a silliness that sharp movie-goers should sense.  Our example here is clear, fluid-filled tubes that lead to a shredding mechanism (better to endanger intrepid characters) equipped with a trap door and a lever for saving hapless humans that managed to get trapped inside-in the nick of Time!!!This movie is a joke.  The fact that critics universally failed to notice is depressing.  At least there are a few trekkies out there that took a hard look and came up with the right answer.",
+            "review_date": "2011-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie by itself deserves maybe a 5 out of 10 just for being another semi-entertaining one size fits all action flick that doesn't have any real artistry to bolster it.  It's cliche and it's designed mainly for teenagers.  However, theThe movie by itself deserves maybe a 5 out of 10 just for being another semi-entertaining one size fits all action flick that doesn't have any real artistry to bolster it.  It's cliche and it's designed mainly for teenagers.  However, the **** that used the Trek label to sell this kind of smut should be tarred and feathered for dealing the final blow to a beautiful legacy that peaked with TNG.  Trek is now dead and lives on as a twisted, reanimated, disgusting corpse.  Sucks.",
+            "review_date": "2011-12-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Looks liked I missed something, but to me this movie was awful!!! I found it so boring, it reminded me of the old star trek, just with new special effects. Why do all the other aliens have to have a humanoid shape?",
+            "review_date": "2009-12-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "They have some balls, to do this to such a great franchise. The last 50 years worth of movies and tv shows never even happened in this new, rebooted, startrek universe. It is not a prequel, it's a sh.tty attempt at a remake ment to They have some balls, to do this to such a great franchise. The last 50 years worth of movies and tv shows never even happened in this new, rebooted, startrek universe. It is not a prequel, it's a sh.tty attempt at a remake ment to appeal to the lowest common denominator. Not to mention the use of the cheap modern \"shaking the camera\" trick to avoid any artistic input into the shooting. A real sin. This is the first startrek movie and or show that negates everything else. Terrible.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As many trek fans knew, this film was not going to follow the same path as other trek films however even the most biased trekkies can relate to JJ's Star Trek. The cast are absolutely superb with Karl Urban standing out for me and Chris As many trek fans knew, this film was not going to follow the same path as other trek films however even the most biased trekkies can relate to JJ's Star Trek. The cast are absolutely superb with Karl Urban standing out for me and Chris Pine doing an excellent job of adding his own spin to Kirk Michael Ginacchio's score is perhaps the biggest let down for me, while still an excellent soundtrack for the film it fails to add that epic, majestic feeling former trek films have had. the film was also too short in all the wrong places with the climatic battle ending far too swiftly, regardless this film is still up to or on par with the Wrath of Khan, even better than First Contact and one definately not to miss by stubborn trekkers. JJ has a fantastic little set up here and the next film should be mind blowing.",
+            "review_date": "2009-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a travesty and an insult to the memory of Star Trek. Especially egregious: as any Trekker (fan of the original series) knows, far from being a rebel, Jim Kirk was a straight-laced, uptight, over-achiever type in his pre-Enterprise This is a travesty and an insult to the memory of Star Trek. Especially egregious: as any Trekker (fan of the original series) knows, far from being a rebel, Jim Kirk was a straight-laced, uptight, over-achiever type in his pre-Enterprise days. This is referenced in several episodes and is a continuing facet of his character throughout some of the most important plotlines. The SNL skit with Belushi and Chase was far better Star Trek.",
+            "review_date": "2009-05-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "now for jj abrhams the guy who was involved in my worst movie ever seen . that movie being Cloverfield i was very suprised at how well he did with this film . now im not a big treky i did enjoy star trek the next gen , and have seen some ofnow for jj abrhams the guy who was involved in my worst movie ever seen . that movie being Cloverfield i was very suprised at how well he did with this film . now im not a big treky i did enjoy star trek the next gen , and have seen some of the original films with shatner and most of the original series . so im not hardcore enough to where some are mad at him altering the whole story line . which i think even if i was he did it in away that made sense and if they did a sequel it would be new and interesting (hopefully) . its the branching time line deal where some thing was changed in the past that follows the original star trek time line and creates a new one and thats the one we are now following . i thought eric bana did a good job as the romulan captin . as well as most of the other actors who did the main roles of the crew of the enterprise . its not great acting but it was good enough . this new plot line makes us wonder more not ever being sure whats gona happen next . it has some nice visuals and some pretty decent story telling . so old JJ redeams himself alittle for that abombinashon known as cloverfield . so if this is the future of the series then i say all ahead warp factor 8.",
+            "review_date": "2010-08-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There are some good scenes but just too many silly action sequences, silly plot turns, self referential winks. At 120 mins it's a grind to get to the end.",
+            "review_date": "2010-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When my family and a friend went to see this movie and since two of them are Star Trek junkies, I thought they loved this movie, as I have never been really interested in Sci-Fi. When I asked them about the movie, they were prettyWhen my family and a friend went to see this movie and since two of them are Star Trek junkies, I thought they loved this movie, as I have never been really interested in Sci-Fi. When I asked them about the movie, they were pretty disappointed with this movie. And this is coming from total Star Trek junkie. TOTAL. Here's the bad parts: The violence is random and unnecessary. Captain Kirk ha a drink, then gets beaten up. The characters are as bland and tasteless as supermarket own brand sweets. The special effects are over the top and I suffered a mild headache. There's this green guy who looks like it was an exact copy of Yoda. Most of the acting is poor, some actually do a decent job. This movie has no tension whatsoever. Most of the scenes play out like a soap opera, or like a couple of British ladies discussing money and fashion over a cup of tea and a biscuit. I DID like the part with the young Captain Kirk: well acted and it was funny. Overall, it's like a car that does a good job of going up a hill until the battery died and it makes it's long journey down the hill before the back goes into a tree.",
+            "review_date": "2011-01-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Perfect, everything was perfect.\rIt's amazing. I will never ever like old Star Trek, but I love this. Ships, Starfighters,  costume, makeup, characters, weapons, story,  everything were horrible, but the new one everything became very uglyPerfect, everything was perfect.\rIt's amazing. I will never ever like old Star Trek, but I love this. Ships, Starfighters,  costume, makeup, characters, weapons, story,  everything were horrible, but the new one everything became very ugly to very beautiful.\rI hate all martial arts movies, and gun battle movies, movies like The Expendables 2, Jason Statham movies, The Dark Knight Rises, but I loved hand to hand combat and stunt scenes from Star Trek.\rI also don't like people with too much muscles. I want Star Wars to be like this Start Trek, I want Star Wars to have many hand to hand combat, street fight like how Kirk did. and many stunt scenes.\rI specially liked Spock, Spock prime, Kirk, warp drive, story, music, heartwarming scenes. But there were things I felt missing, I wanted to see more starfighters battle scenes, not ships battle scenes. I wanted to see some small Aliens like from Cloverfield and Metro 2033.",
+            "review_date": "2013-05-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Kirk is Star Trek and in this movie they not only get you fired up about him you know it's in his genes. I've seen plenty of movie's where the opening sequence was brilliant. Casino Royale sans Craig, The Fifth Element, Mission Impossible, toKirk is Star Trek and in this movie they not only get you fired up about him you know it's in his genes. I've seen plenty of movie's where the opening sequence was brilliant. Casino Royale sans Craig, The Fifth Element, Mission Impossible, to name a few but none have taken the Hero call to this level. The tone from the start is exactly what Roddenberrry's vision was all about, the crusade of hegemony into space and how that construct behaved with alien contact. This movie has it all and then updates everything. You don't have to be a Star Trek freak to enjoy this rocket ship into the future.",
+            "review_date": "2010-12-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Poor excuse for a Star Trek movie, ok as a generic action/adventure flick, should be regulated to a b movie status.",
+            "review_date": "2009-05-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolutely thrilling! Star Trek left me in awe as I left the theater; I was completely blown away by the epic scale of this incredible masterpiece.",
+            "review_date": "2009-05-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terible, terible film. It was unsure if it was parody, homage or reboot and it is very clear that Abrams was a Star Wars not a Star Trek fan. It takes an iconic brand and converts it into a generic sci-fi/action film. The plot is terrible Terible, terible film. It was unsure if it was parody, homage or reboot and it is very clear that Abrams was a Star Wars not a Star Trek fan. It takes an iconic brand and converts it into a generic sci-fi/action film. The plot is terrible and doesn't hold up to even minor scrutiny and turning Kirk into the main character from Top Gun was unforgivable. Too many action scenes that are only punctuated by some forced dialogue and endless exposition.",
+            "review_date": "2009-05-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Plot was so thin it was see through. Nothing but special effects. Makes the old star trek films look good.",
+            "review_date": "2009-08-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There is no snippet of hope in this film. It is worse than even I had felt possible and symbolizes everything that is currently wrong with the Hollywood film industry and its treatment of Science Fiction in particular. The final minute gives There is no snippet of hope in this film. It is worse than even I had felt possible and symbolizes everything that is currently wrong with the Hollywood film industry and its treatment of Science Fiction in particular. The final minute gives us the immortal Trek tagline, spoken wistfully by Leonard Nimoy. As the words echoed around the cinema, (",
+            "review_date": "2009-05-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Awful movie if you're a trekkie. There is very little in this movie that makes Star Trek special-- no morality, no intelligent problem solving, etc. JJ Abrams has turned Star Trek into a bad Star Wars replica.",
+            "review_date": "2009-05-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film was made for retards. No plot at all. Only good acting came from the McCoy actor.",
+            "review_date": "2009-08-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "[***SPOILERS***] First off this movie is really fun and exciting to watch. The writing is plenty passable and the acting was fine. The only issues were someof the logic in the plot. Just a couple things: 1) Nero would probably attempt to warn[***SPOILERS***] First off this movie is really fun and exciting to watch. The writing is plenty passable and the acting was fine. The only issues were someof the logic in the plot. Just a couple things: 1) Nero would probably attempt to warn the romulans of the future then get all hell bent on revenge for something not even done yet. 2) Why does spock have to pod kirk to an unhospitable ice planet just for being disobedient? And I saw that planet, its HUGE. What a coincidence he runs into spock's cave of all places to further the plot. 3) Lastly, a gigantic drill that goes into a planet? why didn't the vulcans send one tiny spacecraft to shoot the lengthy thin drilling device down? thats all young spock did to stop the drilling. Hell any modernday jet could have torpedo'ed the drill apart to prevent the drilling. But hey, its summer, and its fun so enjoy the ride",
+            "review_date": "2009-05-12",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 146
 }

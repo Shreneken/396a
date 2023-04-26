@@ -1,40 +1,42 @@
 {
-  "title": "Brief Encounter",
-  "rating": 7.6,
-  "release_date": "1946-08-24",
-  "genre": [
-    "Drama",
-    "Romance"
-  ],
-  "summary": "Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.",
-  "critic_reviews": [
-    "David Lean ably directed Noel Coward's script for this intensely passionate film in which almost nothing happens.",
-    "The film is thrillingly, unapologetically about decency and honour, about, as Laura heartrendingly puts it, controlling oneself.",
-    "David Lean's wondrous romance, adapted from Noel Coward's story, is one of the most emotionally devastating movies of all time.",
-    "Encounter remains the definition of timeless, a beautifully shot, heartbreakingly acted, minutely detailed illustration of thoroughly recognizable human frailty.",
-    "David Lean’s Brief Encounter captures love at its most ephemeral.",
-    "Shockingly modern in sensibility, construction, and execution, Brief Encounter is very different from what one thinks of as a David Lean movie, whose historical epics have come to define posh, mid-century, cinematic excellence.",
-    "A touching, exquisitely handled film dealing with two ordinary people who accidentally fall in love.",
-    "Director David Lean’s magnificent rendering of the short, passionate, and unconsummated affair between two middle-class, middle-aged Brits remains the most memorable treatment of extramarital romance in movie history.",
-    "An uncommonly good little picture.",
-    "We rarely see films that are so loaded in meaning and symbolism yet subdued in action. It’s a treat to be sure, one that can be relished seventy years on with renewed fervour.",
-    "Beautifully monochrome rendering of a love that cannot be.",
-    "Based on his playlet, Still Life from Tonight at 8.30, Brief Encounter does more for Noel Coward's reputation as a skilled film producer than In Which We Serve. His use of express trains thundering through a village station coupled with frantic, last-minute dashes for local trains is only one of the clever touches masking the inherent static quality of the drama.",
-    "Survives more as a social document than a genuinely compelling drama."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "This is quite a daydreamy type film. It seemed like I was listening to someone read their diary (journal) aloud. It's a bit slow in terms of plot pace but to be fair it's certainly somewhat immersive/atmospheric. I thought it had a nice useThis is quite a daydreamy type film. It seemed like I was listening to someone read their diary (journal) aloud. It's a bit slow in terms of plot pace but to be fair it's certainly somewhat immersive/atmospheric. I thought it had a nice use of orchestral music, which adds to the atmosphere. As a bit of escapism, its good and I enjoyed it overall - indeed I found myself rooting for the main female character, wondering what would happen next and if things would work out between them so yes, I'd recommend it.",
-      "review_date": "2021-11-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best British and Romantic films of all time and has aged very well.Keep a box of tissues nearby, this ones a tearjerker.",
-      "review_date": "2020-09-08",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 15
+    "title": "Brief Encounter",
+    "rating": 7.6,
+    "release_date": "1946-08-24",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "summary": "Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.",
+    "critic_reviews": [
+        "David Lean ably directed Noel Coward's script for this intensely passionate film in which almost nothing happens.",
+        "The film is thrillingly, unapologetically about decency and honour, about, as Laura heartrendingly puts it, controlling oneself.",
+        "David Lean's wondrous romance, adapted from Noel Coward's story, is one of the most emotionally devastating movies of all time.",
+        "Encounter remains the definition of timeless, a beautifully shot, heartbreakingly acted, minutely detailed illustration of thoroughly recognizable human frailty.",
+        "David Lean\u2019s Brief Encounter captures love at its most ephemeral.",
+        "Shockingly modern in sensibility, construction, and execution, Brief Encounter is very different from what one thinks of as a David Lean movie, whose historical epics have come to define posh, mid-century, cinematic excellence.",
+        "A touching, exquisitely handled film dealing with two ordinary people who accidentally fall in love.",
+        "Director David Lean\u2019s magnificent rendering of the short, passionate, and unconsummated affair between two middle-class, middle-aged Brits remains the most memorable treatment of extramarital romance in movie history.",
+        "An uncommonly good little picture.",
+        "We rarely see films that are so loaded in meaning and symbolism yet subdued in action. It\u2019s a treat to be sure, one that can be relished seventy years on with renewed fervour.",
+        "Beautifully monochrome rendering of a love that cannot be.",
+        "Based on his playlet, Still Life from Tonight at 8.30, Brief Encounter does more for Noel Coward's reputation as a skilled film producer than In Which We Serve. His use of express trains thundering through a village station coupled with frantic, last-minute dashes for local trains is only one of the clever touches masking the inherent static quality of the drama.",
+        "Survives more as a social document than a genuinely compelling drama."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "This is quite a daydreamy type film. It seemed like I was listening to someone read their diary (journal) aloud. It's a bit slow in terms of plot pace but to be fair it's certainly somewhat immersive/atmospheric. I thought it had a nice useThis is quite a daydreamy type film. It seemed like I was listening to someone read their diary (journal) aloud. It's a bit slow in terms of plot pace but to be fair it's certainly somewhat immersive/atmospheric. I thought it had a nice use of orchestral music, which adds to the atmosphere. As a bit of escapism, its good and I enjoyed it overall - indeed I found myself rooting for the main female character, wondering what would happen next and if things would work out between them so yes, I'd recommend it.",
+            "review_date": "2021-11-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best British and Romantic films of all time and has aged very well.Keep a box of tissues nearby, this ones a tearjerker.",
+            "review_date": "2020-09-08",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 15
 }

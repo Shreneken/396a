@@ -1,43 +1,45 @@
 {
-  "title": "Underground",
-  "rating": 7.6,
-  "release_date": "1997-06-20",
-  "genre": [
-    "Drama",
-    "Fantasy",
-    "Comedy",
-    "War"
-  ],
-  "summary": "A group of Serbian socialists prepares for the war in a surreal underground filled by parties, tragedies, love and hate.",
-  "critic_reviews": [
-    "Underground is a unique blend of lowbrow slapstick and sophisticated war commentary, earning it well-deserved comparisons to Ernst Lubitsch’s brilliant To Be and Not To Be (possibly the funniest movie ever made) and the films of Abbott and Costello.",
-    "At almost three hours, it's a masterwork of brilliant editing and design; not a frame is unwarranted, not a scene excessive, and it holds together over its lengthy running time in a way few films half its length can manage.",
-    "Delirious in its excess, but never less than ferociously intelligent and operatically emotional, Underground represents one of those rare, exhilarating moments when an outsize artistic vision is fueled by an apparently unlimited budget. Not to be missed.",
-    "However one chooses to take its jaundiced view of history, it's probably the best film to date by the talented Kusturica (Time of the Gypsies, Arizona Dream), a triumph of mise en scene mated to a comic vision that keeps topping its own hyperbole.",
-    "Underground is bravura filmmaking at its most entrancing and its labyrinthine political context only serves to heighten its fascinating appeal.",
-    "Feverish, whimsical allegory elevated by moments of brilliant clarity.",
-    "It’s a sprawling, rowdy, vital film laced with both outrageous absurdist dark humor and unspeakable pain, suffering and injustice.",
-    "Emir Kusturica's epic black comedy about Yugoslavia from 1941 to 1992 is a three-hour steamroller circus that leaves the viewer dazed and exhausted, but mightily impressed.",
-    "Emir Kusturica's magnificent fresco rips through half a century of the tragic history of his homeland -- the former Yugoslavia -- with all the solemnity of an amusement park ride.",
-    "Compelling epic filmmaking.",
-    "Kusturica is sturdier on style than substance.",
-    "Played as broad, noisy black farce, the film is about the deception of politics and heroism, dog-eat-dog morals and the propensity for violence, but one can't help thinking that behind the sometimes sensational apocalyptic imagery, there's less here than meets the eye.",
-    "The same message could have been delivered in half the time, at half the volume.",
-    "I suppose Kusturica can justify the 167-minute length by the historical breadth of the movie, but it simply doesn't sustain one's interest, significant or not."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Too naive to be called a war movie. Kusturica's Underground is more about songs and dance than it is about war. The film fails to consider the socio-political aspects, and just gives everything a comical effect.",
-      "review_date": "2023-02-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nOne of the best films ever made - a pinnacle in Emir Kusturica's film universe, where Balkan history, music and folklore is melted into a unique pituresque image of delightful and despondent madness. Why this masterpiece isn't much more frequently on the menu list in diverse streaming channels is a mystery.",
-      "review_date": "2021-12-24",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 16
+    "title": "Underground",
+    "rating": 7.6,
+    "release_date": "1997-06-20",
+    "genre": [
+        "Drama",
+        "Fantasy",
+        "Comedy",
+        "War"
+    ],
+    "summary": "A group of Serbian socialists prepares for the war in a surreal underground filled by parties, tragedies, love and hate.",
+    "critic_reviews": [
+        "Underground is a unique blend of lowbrow slapstick and sophisticated war commentary, earning it well-deserved comparisons to Ernst Lubitsch\u2019s brilliant To Be and Not To Be (possibly the funniest movie ever made) and the films of Abbott and Costello.",
+        "At almost three hours, it's a masterwork of brilliant editing and design; not a frame is unwarranted, not a scene excessive, and it holds together over its lengthy running time in a way few films half its length can manage.",
+        "Delirious in its excess, but never less than ferociously intelligent and operatically emotional, Underground represents one of those rare, exhilarating moments when an outsize artistic vision is fueled by an apparently unlimited budget. Not to be missed.",
+        "However one chooses to take its jaundiced view of history, it's probably the best film to date by the talented Kusturica (Time of the Gypsies, Arizona Dream), a triumph of mise en scene mated to a comic vision that keeps topping its own hyperbole.",
+        "Underground is bravura filmmaking at its most entrancing and its labyrinthine political context only serves to heighten its fascinating appeal.",
+        "Feverish, whimsical allegory elevated by moments of brilliant clarity.",
+        "It\u2019s a sprawling, rowdy, vital film laced with both outrageous absurdist dark humor and unspeakable pain, suffering and injustice.",
+        "Emir Kusturica's epic black comedy about Yugoslavia from 1941 to 1992 is a three-hour steamroller circus that leaves the viewer dazed and exhausted, but mightily impressed.",
+        "Emir Kusturica's magnificent fresco rips through half a century of the tragic history of his homeland -- the former Yugoslavia -- with all the solemnity of an amusement park ride.",
+        "Compelling epic filmmaking.",
+        "Kusturica is sturdier on style than substance.",
+        "Played as broad, noisy black farce, the film is about the deception of politics and heroism, dog-eat-dog morals and the propensity for violence, but one can't help thinking that behind the sometimes sensational apocalyptic imagery, there's less here than meets the eye.",
+        "The same message could have been delivered in half the time, at half the volume.",
+        "I suppose Kusturica can justify the 167-minute length by the historical breadth of the movie, but it simply doesn't sustain one's interest, significant or not."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Too naive to be called a war movie. Kusturica's Underground is more about songs and dance than it is about war. The film fails to consider the socio-political aspects, and just gives everything a comical effect.",
+            "review_date": "2023-02-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nOne of the best films ever made - a pinnacle in Emir Kusturica's film universe, where Balkan history, music and folklore is melted into a unique pituresque image of delightful and despondent madness. Why this masterpiece isn't much more frequently on the menu list in diverse streaming channels is a mystery.",
+            "review_date": "2021-12-24",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 16
 }

@@ -1,22 +1,23 @@
 {
-  "title": "Queen",
-  "rating": 6.5,
-  "release_date": "2014-03-07",
-  "genre": [
-    "Drama",
-    "Comedy"
-  ],
-  "summary": "A Delhi girl from a traditional family sets out on a solo honeymoon after her marriage gets canceled.",
-  "critic_reviews": [
-    "The film could easily be a half-hour shorter; shot in a loose, handheld style that involved some improvisation, it feels unfocused and repetitive at times, to the point of aimlessness."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "For swimming against the Bollywood tide, Queen earns full marks. But purely in terms of a cinematic experience, Queen meanders, cliches, stereotypes and keeps repeating itself - again, the excellent cast and great attention to detail help.",
-      "review_date": "2014-06-15",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 2
+    "title": "Queen",
+    "rating": 6.5,
+    "release_date": "2014-03-07",
+    "genre": [
+        "Drama",
+        "Comedy"
+    ],
+    "summary": "A Delhi girl from a traditional family sets out on a solo honeymoon after her marriage gets canceled.",
+    "critic_reviews": [
+        "The film could easily be a half-hour shorter; shot in a loose, handheld style that involved some improvisation, it feels unfocused and repetitive at times, to the point of aimlessness."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "For swimming against the Bollywood tide, Queen earns full marks. But purely in terms of a cinematic experience, Queen meanders, cliches, stereotypes and keeps repeating itself - again, the excellent cast and great attention to detail help.",
+            "review_date": "2014-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 2
 }

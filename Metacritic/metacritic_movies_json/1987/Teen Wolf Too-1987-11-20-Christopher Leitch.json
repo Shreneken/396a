@@ -1,38 +1,41 @@
 {
-  "title": "Teen Wolf Too",
-  "rating": 1.8,
-  "release_date": "1987-11-20",
-  "genre": [
-    "Fantasy",
-    "Comedy",
-    "Family"
-  ],
-  "summary": "Todd Howard is a struggling teenager. Nothing seems to be going very well for him, until he turns into a wolf.",
-  "critic_reviews": [
-    "Given the grosses of the original, a sequel to Teen Wolf was inevitable-and it was inevitable, too, that the sequel would lose the quality of innocence and unconscious artfulness that made the first film work. The material has been broken down, analyzed and reassembled with scientific precision; what was instinctive in the original has become self-conscious and calculated in the followup, and the spirit is gone.",
-    "No one expects realism from a movie called Teen Wolf Too... still, the film makers could pretend to know what college is like, might try to liven up the kindly werewolf formula.",
-    "Teen Wolf Too is nothing a jar of Nair wouldn't cure.",
-    "Teen Wolf Too embellishes its inane, cookie-cutter plot with remote direction, witless dialogue and charmless characters."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Given the grosses of the original, a sequel to Teen Wolf was inevitable-and it was inevitable, too, that the sequel would lose the quality of innocence and unconscious artfulness that made the first film work. The material has been brokenGiven the grosses of the original, a sequel to Teen Wolf was inevitable-and it was inevitable, too, that the sequel would lose the quality of innocence and unconscious artfulness that made the first film work. The material has been broken down, analyzed and reassembled with scientific precision; what was instinctive in the original has become self-conscious and calculated in the followup, and the spirit is gone.",
-      "review_date": "2016-09-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Who even wanted a sequel? The plot is the same and the acting is as bad as ever. Its just the same annoying movie but a sequel. Anyone who likes this movie I am worried for.",
-      "review_date": "2017-07-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Nothing wrong with it but nothing really to look at. Not that great to listen to. It was just standard procedure. Terrible script. It just copied the first movie watering it down. The ending was horrible. I really recommend avoiding thisNothing wrong with it but nothing really to look at. Not that great to listen to. It was just standard procedure. Terrible script. It just copied the first movie watering it down. The ending was horrible. I really recommend avoiding this cash-in travesty.",
-      "review_date": "2022-02-16",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 7
+    "title": "Teen Wolf Too",
+    "rating": 1.8,
+    "release_date": "1987-11-20",
+    "genre": [
+        "Fantasy",
+        "Comedy",
+        "Family"
+    ],
+    "summary": "Todd Howard is a struggling teenager. Nothing seems to be going very well for him, until he turns into a wolf.",
+    "critic_reviews": [
+        "Given the grosses of the original, a sequel to Teen Wolf was inevitable-and it was inevitable, too, that the sequel would lose the quality of innocence and unconscious artfulness that made the first film work. The material has been broken down, analyzed and reassembled with scientific precision; what was instinctive in the original has become self-conscious and calculated in the followup, and the spirit is gone.",
+        "No one expects realism from a movie called Teen Wolf Too... still, the film makers could pretend to know what college is like, might try to liven up the kindly werewolf formula.",
+        "Teen Wolf Too is nothing a jar of Nair wouldn't cure.",
+        "Teen Wolf Too embellishes its inane, cookie-cutter plot with remote direction, witless dialogue and charmless characters."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Given the grosses of the original, a sequel to Teen Wolf was inevitable-and it was inevitable, too, that the sequel would lose the quality of innocence and unconscious artfulness that made the first film work. The material has been brokenGiven the grosses of the original, a sequel to Teen Wolf was inevitable-and it was inevitable, too, that the sequel would lose the quality of innocence and unconscious artfulness that made the first film work. The material has been broken down, analyzed and reassembled with scientific precision; what was instinctive in the original has become self-conscious and calculated in the followup, and the spirit is gone.",
+            "review_date": "2016-09-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Who even wanted a sequel? The plot is the same and the acting is as bad as ever. Its just the same annoying movie but a sequel. Anyone who likes this movie I am worried for.",
+            "review_date": "2017-07-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Nothing wrong with it but nothing really to look at. Not that great to listen to. It was just standard procedure. Terrible script. It just copied the first movie watering it down. The ending was horrible. I really recommend avoiding thisNothing wrong with it but nothing really to look at. Not that great to listen to. It was just standard procedure. Terrible script. It just copied the first movie watering it down. The ending was horrible. I really recommend avoiding this cash-in travesty.",
+            "review_date": "2022-02-16",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 7
 }

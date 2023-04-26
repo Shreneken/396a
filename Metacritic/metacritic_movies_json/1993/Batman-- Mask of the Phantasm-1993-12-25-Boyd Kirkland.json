@@ -1,86 +1,95 @@
 {
-  "title": "Batman: Mask of the Phantasm",
-  "rating": 7.1,
-  "release_date": "1993-12-25",
-  "genre": [
-    "Action",
-    "Adventure",
-    "Sci-Fi",
-    "Mystery",
-    "Crime",
-    "Animation",
-    "Family"
-  ],
-  "summary": "Batman is wrongly implicated in a series of murders of mob bosses actually done by a new vigilante assassin.",
-  "critic_reviews": [
-    "Though this spin-off from the excellent animated Batman TV series, was too dark to catch the audiences who flocked to The Lion King, it is certainly the best cartoon feature of 1993.",
-    "Mark Hamill nails every one liner the writers throw at him (I tried to get as many as I could in Stray Observations, but I’m sure I missed some), and his signature Joker laugh is used to chilling effect throughout the film.",
-    "Batman: Mask of the Phantasm is simply the closest any TV or movie incarnation has ever come to the spirit of the original Batman comic books.",
-    "There is much to admire here. A surreal battle between Batman and the Joker amid skyscrapers and elevated trains in a miniaturized Gotham City stands out, as does an extended sequence in which our hero is hunted by police SWAT teams. The most impressive piece of animation is the opening credit sequence: a stunning two-minute, computer-generated 3D flight through Gotham City. This absorbing adventure should resonate with those who take the notion of heroism seriously--especially adolescent boys.",
-    "As usual, it's the colorful and loquacious Joker who is most riveting. Shirley Walker's orchestral score is also quite powerful.",
-    "It's quite possibly the greatest Batman movie ever.",
-    "A romantic, flashback-rich narrative distinguishes this feature-length animated effort, which Warner Bros. was confident enough in to give a theatrical release.",
-    "With its pointed, cavernous backgrounds and a Gotham City setting that evokes a 1940's-style futurism, \"Mask of the Phantasm\" looks splendid. But its story is too complicated and the editing too jerky for the movie to achieve narrative coherence. And the resemblance between the movie's hero and its enigmatic arch-villain is so close that audiences are likely to be confused.",
-    "While it's sad the filmmakers didn't lavish more detail on the characters' faces and fluidity of their movement, the picture is still dynamic looking: moody, haunting, full of bold shapes and action, striking compositions, and clever quotes from the encyclopedia of noir. It has style to spare. And for any kid at heart whose breath catches at the sight of a caped figure swooping across the sky, it has moments when your lungs will be stopped by a Dark Knight to dream on.",
-    "Recalling the animated \"Superman\" shorts of the 1940s, \"Batman: Mask of the Phantasm\" is a baroque, melodramatic tale of good and evil that's a tad too sophisticated for its intended youthful audience. The shrill thriller is a throwback to a bygone time more appealing to adults.",
-    "In the end the violence is too realistic (though not terribly graphic) to qualify as cartoony escapism, yet the movie lacks the sophistication, vision or satirical edge to lay claim to any higher purpose. It's merely dark for dark's sake.",
-    "Background stylist/co-director Eric Radomski has created a terrific-looking world of film noir-influenced Art Deco skyscrapers, shadows, gargoyles and windows. Unfortunately, some of the worst-animated characters in any recent feature get in front of those stylish backgrounds."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "The first DC animated film is definitely one of the better ones. Mask of the Phantasm follows Batman as he hunts down a vigilante assassinating mob bosses in Gotham. It's a surprisingly emotional tale that fittingly jump-starts the animated universe.",
-      "review_date": "2023-02-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Phantasm wasn't bad, but after all of the circlejerk surrounding it before I saw it, with people claiming it's better than TDK, it was a huge let down. I don't really see what sets it apart from a good episode of the animated Batman series.",
-      "review_date": "2022-08-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Batman 1989, Mask of the Phantasm and then The Dark Knight. These are the top 3, in that order- in my opinion.",
-      "review_date": "2022-08-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Mask of the Phantasm is one of the best Batman movies ever made. Right up there with Begins.",
-      "review_date": "2022-08-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Phantom is the single greatest animated comic book movie ever made. Period.",
-      "review_date": "2022-08-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Twelve-year-old me remembers the Fox Batman cartoon series as being a masterpiece, but a full feature feels long with a juvenile script and mediocre animation.",
-      "review_date": "2022-08-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "just okay at best, the batman 20222 and the dark knight 2008 are way better",
-      "review_date": "2022-08-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Even though it's not the best Batman movie, it is a really impressive film to admire in terms of animation, action, and twists. Its story and characters may be recycled (and I mean from the animated series this film is supposed to beEven though it's not the best Batman movie, it is a really impressive film to admire in terms of animation, action, and twists. Its story and characters may be recycled (and I mean from the animated series this film is supposed to be connected with), but I still found it to be intense and suspenseful enough to keep my interest going.",
-      "review_date": "2022-08-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The story is simple but well done. Good voice acting and love the art style. It reminded me that I need to go back and watch the animated series which I remember really enjoying as a child.",
-      "review_date": "2022-08-29",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 21
+    "title": "Batman: Mask of the Phantasm",
+    "rating": 7.1,
+    "release_date": "1993-12-25",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Mystery",
+        "Crime",
+        "Animation",
+        "Family"
+    ],
+    "summary": "Batman is wrongly implicated in a series of murders of mob bosses actually done by a new vigilante assassin.",
+    "critic_reviews": [
+        "Though this spin-off from the excellent animated Batman TV series, was too dark to catch the audiences who flocked to The Lion King, it is certainly the best cartoon feature of 1993.",
+        "Mark Hamill nails every one liner the writers throw at him (I tried to get as many as I could in Stray Observations, but I\u2019m sure I missed some), and his signature Joker laugh is used to chilling effect throughout the film.",
+        "Batman: Mask of the Phantasm is simply the closest any TV or movie incarnation has ever come to the spirit of the original Batman comic books.",
+        "There is much to admire here. A surreal battle between Batman and the Joker amid skyscrapers and elevated trains in a miniaturized Gotham City stands out, as does an extended sequence in which our hero is hunted by police SWAT teams. The most impressive piece of animation is the opening credit sequence: a stunning two-minute, computer-generated 3D flight through Gotham City. This absorbing adventure should resonate with those who take the notion of heroism seriously--especially adolescent boys.",
+        "As usual, it's the colorful and loquacious Joker who is most riveting. Shirley Walker's orchestral score is also quite powerful.",
+        "It's quite possibly the greatest Batman movie ever.",
+        "A romantic, flashback-rich narrative distinguishes this feature-length animated effort, which Warner Bros. was confident enough in to give a theatrical release.",
+        "With its pointed, cavernous backgrounds and a Gotham City setting that evokes a 1940's-style futurism, \"Mask of the Phantasm\" looks splendid. But its story is too complicated and the editing too jerky for the movie to achieve narrative coherence. And the resemblance between the movie's hero and its enigmatic arch-villain is so close that audiences are likely to be confused.",
+        "While it's sad the filmmakers didn't lavish more detail on the characters' faces and fluidity of their movement, the picture is still dynamic looking: moody, haunting, full of bold shapes and action, striking compositions, and clever quotes from the encyclopedia of noir. It has style to spare. And for any kid at heart whose breath catches at the sight of a caped figure swooping across the sky, it has moments when your lungs will be stopped by a Dark Knight to dream on.",
+        "Recalling the animated \"Superman\" shorts of the 1940s, \"Batman: Mask of the Phantasm\" is a baroque, melodramatic tale of good and evil that's a tad too sophisticated for its intended youthful audience. The shrill thriller is a throwback to a bygone time more appealing to adults.",
+        "In the end the violence is too realistic (though not terribly graphic) to qualify as cartoony escapism, yet the movie lacks the sophistication, vision or satirical edge to lay claim to any higher purpose. It's merely dark for dark's sake.",
+        "Background stylist/co-director Eric Radomski has created a terrific-looking world of film noir-influenced Art Deco skyscrapers, shadows, gargoyles and windows. Unfortunately, some of the worst-animated characters in any recent feature get in front of those stylish backgrounds."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "The first DC animated film is definitely one of the better ones. Mask of the Phantasm follows Batman as he hunts down a vigilante assassinating mob bosses in Gotham. It's a surprisingly emotional tale that fittingly jump-starts the animated universe.",
+            "review_date": "2023-02-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Phantasm wasn't bad, but after all of the circlejerk surrounding it before I saw it, with people claiming it's better than TDK, it was a huge let down. I don't really see what sets it apart from a good episode of the animated Batman series.",
+            "review_date": "2022-08-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Batman 1989, Mask of the Phantasm and then The Dark Knight. These are the top 3, in that order- in my opinion.",
+            "review_date": "2022-08-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Mask of the Phantasm is one of the best Batman movies ever made. Right up there with Begins.",
+            "review_date": "2022-08-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Phantom is the single greatest animated comic book movie ever made. Period.",
+            "review_date": "2022-08-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Twelve-year-old me remembers the Fox Batman cartoon series as being a masterpiece, but a full feature feels long with a juvenile script and mediocre animation.",
+            "review_date": "2022-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "just okay at best, the batman 20222 and the dark knight 2008 are way better",
+            "review_date": "2022-08-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Even though it's not the best Batman movie, it is a really impressive film to admire in terms of animation, action, and twists. Its story and characters may be recycled (and I mean from the animated series this film is supposed to beEven though it's not the best Batman movie, it is a really impressive film to admire in terms of animation, action, and twists. Its story and characters may be recycled (and I mean from the animated series this film is supposed to be connected with), but I still found it to be intense and suspenseful enough to keep my interest going.",
+            "review_date": "2022-08-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The story is simple but well done. Good voice acting and love the art style. It reminded me that I need to go back and watch the animated series which I remember really enjoying as a child.",
+            "review_date": "2022-08-29",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 21
 }

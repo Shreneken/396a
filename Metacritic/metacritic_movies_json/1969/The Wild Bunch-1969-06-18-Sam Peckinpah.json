@@ -1,60 +1,64 @@
 {
-  "title": "The Wild Bunch",
-  "rating": 7.6,
-  "release_date": "1969-06-18",
-  "genre": [
-    "Action",
-    "Adventure",
-    "Western"
-  ],
-  "summary": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
-  "critic_reviews": [
-    "The on-screen carnage established a new level in American movies, but few of the films that followed in its wake could duplicate Peckinpah's depth of feeling.",
-    "The Wild Bunch is one of the great defining moments of modern movies.",
-    "It’s no accident that you feel a sense of loss for each killer of the Bunch: Peckinpah has made them seem heroically, mythically alive on the screen.",
-    "The Wild Bunch still retains its sorrowful, fatal power because of the complexity of Peckinpah's attitudes about violence. He forces us to confront our own voyeuristic ambivalence; we're alternately horrified by the butchery and exhilarated by the orgiastic energy his balletic spectacles stir up.",
-    "It is certainly one of the best westerns ever made, and the best film of any kind to come out in 1969.",
-    "The hard action, bracing wit and mournful grace of Peckinpah’s cowboy classic shames every new movie around. It’s a towering achievement that grows more riveting and resonant with the years.",
-    "Not only does The Wild Bunch illustrate Peckinpah's mastery of his medium, but it presents a story that is effective on nearly every level: the emotional, the visual, and the visceral.",
-    "Maybe the best shoot-'em-up ever made, the one that turned meanness into a haunting pictorial poetry and summed up the corruption of guilt, old age and death in the American fantasy of the Old West.",
-    "At once strongly metaphoric and shamelessly visceral, Peckinpah’s saga of outlaws on the lam is arguably the strongest Hollywood movie of the 1960s—a western that galvanizes the clichés of its dying genre with a shocking jolt of delirious carnage.",
-    "Peckinpah's grasp, for once, matches his reach and in this Western story he achieves a mythological tone for his moral fable.",
-    "It remains one of the best-written and best-performed American films of all time.",
-    "Rivetingly realistic, edited in a gripping and exciting style unseen up to that time, and marvelously scripted.",
-    "An extraordinarily well-made film about anachronistic outlaws in the early 20th century, Sam Peckinpah's The Wild Bunch feels like it should have been the final western.",
-    "From The Godfather to Heat, the stamp of The Wild Bunch is self-evident. Italian director Carlo Carlei summed up the debt owed to the film and its director when he said, \"There is a chain of inspiration like The Bible... Everything comes from Peckinpah.\"",
-    "While the movie may be a Western—one of the best Westerns ever made, in fact—it’s also an action movie, one that was crucial to action movies becoming what they would eventually be.",
-    "In purely cinematic terms, the film is a savagely beautiful spectacle, Lucien Ballard's superb cinematography complementing Peckinpah's darkly elegiac vision.",
-    "Very beautiful and the first truly interesting, American-made western in years.",
-    "A thrilling and infuriating burst of movie id, The Wild Bunch makes you want to slump into the dust and stare dumbly into the distance.",
-    "The Wild Bunch contains faults and mistakes, but its accomplishments are more than sufficient to confirm that Peckinpah, along with Stanley Kubrick and Arthur Penn, belongs with the best of the newer generation of American film makers.",
-    "Film at 145 minutes is far over-length, and should be tightened extensively, particularly in first half. After a bang-up and exciting opening, it appears that scripters lost sight of their narrative to drag in Mexican songs, dancing and way of life, plus an overage of dialog, to the detriment of action."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Fairly entertaining and well made western with good acting and writing. Quite good.",
-      "review_date": "2019-04-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The problem with this film is that a great deal of time is spent showing the protagonists laughing, drinking, and wenching, and riding horses here and there, and after ten or fifteen minutes of this it starts getting very old.The otherThe problem with this film is that a great deal of time is spent showing the protagonists laughing, drinking, and wenching, and riding horses here and there, and after ten or fifteen minutes of this it starts getting very old.The other problem, of course, is that the protagonists are all bad guys.  They're not antiheros.  You need to have some redeeming characteristics to qualify as an antihero.  And if you're going to carry a movie you need some redeeming characteristics. Don Corleone had his family \"honor.\"  Tommy DeVito made for a funny psycho.  William Holden and company are all fine actors, but their characters are dry as dust and we the audience are supposed to sympathize because they're ageing out of the outlaw business and the times they are a-changing.  So never mind that they shoot up a bunch of civilians and a bunch of fellas from the US Army.  Never mind that they shoot up a bunch of guys from the army of Mexico.  We're supposed to go along with this.  And, sorry, but I ain't buying.Sure, the bad guys do a couple of things that might be described as \"nice,\" but there's nothing in the film to explain why these particular characters would do things like this, since gold and profit seem to be their only motivation.I wondered if my criticism of the film might be unfair because, after all, it was shot in 1969.  Things were different then.  But then I discovered that Butch Cassidy and the Sundance Kid was also shot in 1969, and that, as I recall, was a film about bad guys too, but a far far far more successful attempt at entertainment.",
-      "review_date": "2019-05-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best Western movie of all time.  The original movie version is better than the director's cut.",
-      "review_date": "2022-12-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "“We're not gonna get rid of anybody! We're gonna stick together, just like it used to be! When you side with a man, you stay with him! And if you can't do that, you're like some animal, you're finished! *We're* finished! All of us!”",
-      "review_date": "2020-03-18",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 24
+    "title": "The Wild Bunch",
+    "rating": 7.6,
+    "release_date": "1969-06-18",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Western"
+    ],
+    "summary": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+    "critic_reviews": [
+        "The on-screen carnage established a new level in American movies, but few of the films that followed in its wake could duplicate Peckinpah's depth of feeling.",
+        "The Wild Bunch is one of the great defining moments of modern movies.",
+        "It\u2019s no accident that you feel a sense of loss for each killer of the Bunch: Peckinpah has made them seem heroically, mythically alive on the screen.",
+        "The Wild Bunch still retains its sorrowful, fatal power because of the complexity of Peckinpah's attitudes about violence. He forces us to confront our own voyeuristic ambivalence; we're alternately horrified by the butchery and exhilarated by the orgiastic energy his balletic spectacles stir up.",
+        "It is certainly one of the best westerns ever made, and the best film of any kind to come out in 1969.",
+        "The hard action, bracing wit and mournful grace of Peckinpah\u2019s cowboy classic shames every new movie around. It\u2019s a towering achievement that grows more riveting and resonant with the years.",
+        "Not only does The Wild Bunch illustrate Peckinpah's mastery of his medium, but it presents a story that is effective on nearly every level: the emotional, the visual, and the visceral.",
+        "Maybe the best shoot-'em-up ever made, the one that turned meanness into a haunting pictorial poetry and summed up the corruption of guilt, old age and death in the American fantasy of the Old West.",
+        "At once strongly metaphoric and shamelessly visceral, Peckinpah\u2019s saga of outlaws on the lam is arguably the strongest Hollywood movie of the 1960s\u2014a western that galvanizes the clich\u00e9s of its dying genre with a shocking jolt of delirious carnage.",
+        "Peckinpah's grasp, for once, matches his reach and in this Western story he achieves a mythological tone for his moral fable.",
+        "It remains one of the best-written and best-performed American films of all time.",
+        "Rivetingly realistic, edited in a gripping and exciting style unseen up to that time, and marvelously scripted.",
+        "An extraordinarily well-made film about anachronistic outlaws in the early 20th century, Sam Peckinpah's The Wild Bunch feels like it should have been the final western.",
+        "From The Godfather to Heat, the stamp of The Wild Bunch is self-evident. Italian director Carlo Carlei summed up the debt owed to the film and its director when he said, \"There is a chain of inspiration like The Bible... Everything comes from Peckinpah.\"",
+        "While the movie may be a Western\u2014one of the best Westerns ever made, in fact\u2014it\u2019s also an action movie, one that was crucial to action movies becoming what they would eventually be.",
+        "In purely cinematic terms, the film is a savagely beautiful spectacle, Lucien Ballard's superb cinematography complementing Peckinpah's darkly elegiac vision.",
+        "Very beautiful and the first truly interesting, American-made western in years.",
+        "A thrilling and infuriating burst of movie id, The Wild Bunch makes you want to slump into the dust and stare dumbly into the distance.",
+        "The Wild Bunch contains faults and mistakes, but its accomplishments are more than sufficient to confirm that Peckinpah, along with Stanley Kubrick and Arthur Penn, belongs with the best of the newer generation of American film makers.",
+        "Film at 145 minutes is far over-length, and should be tightened extensively, particularly in first half. After a bang-up and exciting opening, it appears that scripters lost sight of their narrative to drag in Mexican songs, dancing and way of life, plus an overage of dialog, to the detriment of action."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Fairly entertaining and well made western with good acting and writing. Quite good.",
+            "review_date": "2019-04-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The problem with this film is that a great deal of time is spent showing the protagonists laughing, drinking, and wenching, and riding horses here and there, and after ten or fifteen minutes of this it starts getting very old.The otherThe problem with this film is that a great deal of time is spent showing the protagonists laughing, drinking, and wenching, and riding horses here and there, and after ten or fifteen minutes of this it starts getting very old.The other problem, of course, is that the protagonists are all bad guys.  They're not antiheros.  You need to have some redeeming characteristics to qualify as an antihero.  And if you're going to carry a movie you need some redeeming characteristics. Don Corleone had his family \"honor.\"  Tommy DeVito made for a funny psycho.  William Holden and company are all fine actors, but their characters are dry as dust and we the audience are supposed to sympathize because they're ageing out of the outlaw business and the times they are a-changing.  So never mind that they shoot up a bunch of civilians and a bunch of fellas from the US Army.  Never mind that they shoot up a bunch of guys from the army of Mexico.  We're supposed to go along with this.  And, sorry, but I ain't buying.Sure, the bad guys do a couple of things that might be described as \"nice,\" but there's nothing in the film to explain why these particular characters would do things like this, since gold and profit seem to be their only motivation.I wondered if my criticism of the film might be unfair because, after all, it was shot in 1969.  Things were different then.  But then I discovered that Butch Cassidy and the Sundance Kid was also shot in 1969, and that, as I recall, was a film about bad guys too, but a far far far more successful attempt at entertainment.",
+            "review_date": "2019-05-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best Western movie of all time.  The original movie version is better than the director's cut.",
+            "review_date": "2022-12-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\u201cWe're not gonna get rid of anybody! We're gonna stick together, just like it used to be! When you side with a man, you stay with him! And if you can't do that, you're like some animal, you're finished! *We're* finished! All of us!\u201d",
+            "review_date": "2020-03-18",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 24
 }

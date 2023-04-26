@@ -1,29 +1,30 @@
 {
-  "title": "Wait Until Dark",
-  "rating": 7.0,
-  "release_date": "1967-10-26",
-  "genre": [
-    "Thriller",
-    "Horror"
-  ],
-  "summary": "A recently blinded woman is terrorized by a trio of thugs while they search for a heroin-stuffed doll they believe is in her apartment.",
-  "critic_reviews": [
-    "Miss Hepburn is perhaps too simple and trusting, and Alan Arkin (as a sadistic killer) is not particularly convincing in an exaggerated performance. But there are some nice, juicy passages of terror, and after a slow start the plot does seduce you.",
-    "When the lights go out at the end of the film, so did the lights in the movie theaters.Terence Young’s tense cinematic adaptation so ruthlessly tightens the screws of tension that one could be forgiven for not noticing an earthquake, much less dimmed house lights.",
-    "Once this build-up is accomplished—once the sinister plot is launched and the young woman suddenly realizes that she has been duped and is in grave peril—the shock and suspense of the situation hit the audience with almost the same force, I'd imagine, as they evidently hit her. And from here on, the tension is terrific and the melodramatic action is wild as the blind woman uses all her courage and ingenuity to foil her assailants and save her life.",
-    "Hepburn's blend of pluckiness and self-pity and Arkin's cool cunning give Wait Until Dark emotional weight, but their final tussle is what most fans of the film remember.",
-    "An outstanding thriller based on a stageplay (by Frederick Knott) that fits so much better on the screen because, as well as the expansive, cinema is really good at claustrophobia.",
-    "This thriller draws its effectiveness less from the intelligence of the direction (by Terence Young) than from the unbridled sadism of the concept: Audrey Hepburn is a blind woman in unknowing possession of a doll stuffed with pure heroin. Alone in her New York apartment, she's terrorized by a gang of thugs that includes slobbering psycho Alan Arkin and smooth-talking Richard Crenna.",
-    "Expertly directed by veteran British helmsman Young, Wait Until Dark is an exciting, original chiller.",
-    "An effective shocker which has the blind Hepburn alone in the house when psychotic villain Arkin and his hoodlum pals (Crenna and Weston) arrive to retrieve a doll containing heroin which her husband (Zimbalist) unwittingly brought through customs for them. Though based on a stage play (by Frederick Knott), the skillful use of interiors for once transcends the visual limitations."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Slightly wobbly shots but nice colour and solid sound even if there is only one channel. Impressive for the time. It is psychological. Because she is blind it is far scarier. There is an exciting ending and great story development along theSlightly wobbly shots but nice colour and solid sound even if there is only one channel. Impressive for the time. It is psychological. Because she is blind it is far scarier. There is an exciting ending and great story development along the way. Quite entertaining but not really scary. It doesn't make you jump - more think about it and put yourself in the scary situation. A good solid thriller well worth a watch and a think.",
-      "review_date": "2022-02-16",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 9
+    "title": "Wait Until Dark",
+    "rating": 7.0,
+    "release_date": "1967-10-26",
+    "genre": [
+        "Thriller",
+        "Horror"
+    ],
+    "summary": "A recently blinded woman is terrorized by a trio of thugs while they search for a heroin-stuffed doll they believe is in her apartment.",
+    "critic_reviews": [
+        "Miss Hepburn is perhaps too simple and trusting, and Alan Arkin (as a sadistic killer) is not particularly convincing in an exaggerated performance. But there are some nice, juicy passages of terror, and after a slow start the plot does seduce you.",
+        "When the lights go out at the end of the film, so did the lights in the movie theaters.Terence Young\u2019s tense cinematic adaptation so ruthlessly tightens the screws of tension that one could be forgiven for not noticing an earthquake, much less dimmed house lights.",
+        "Once this build-up is accomplished\u2014once the sinister plot is launched and the young woman suddenly realizes that she has been duped and is in grave peril\u2014the shock and suspense of the situation hit the audience with almost the same force, I'd imagine, as they evidently hit her. And from here on, the tension is terrific and the melodramatic action is wild as the blind woman uses all her courage and ingenuity to foil her assailants and save her life.",
+        "Hepburn's blend of pluckiness and self-pity and Arkin's cool cunning give Wait Until Dark emotional weight, but their final tussle is what most fans of the film remember.",
+        "An outstanding thriller based on a stageplay (by Frederick Knott) that fits so much better on the screen because, as well as the expansive, cinema is really good at claustrophobia.",
+        "This thriller draws its effectiveness less from the intelligence of the direction (by Terence Young) than from the unbridled sadism of the concept: Audrey Hepburn is a blind woman in unknowing possession of a doll stuffed with pure heroin. Alone in her New York apartment, she's terrorized by a gang of thugs that includes slobbering psycho Alan Arkin and smooth-talking Richard Crenna.",
+        "Expertly directed by veteran British helmsman Young, Wait Until Dark is an exciting, original chiller.",
+        "An effective shocker which has the blind Hepburn alone in the house when psychotic villain Arkin and his hoodlum pals (Crenna and Weston) arrive to retrieve a doll containing heroin which her husband (Zimbalist) unwittingly brought through customs for them. Though based on a stage play (by Frederick Knott), the skillful use of interiors for once transcends the visual limitations."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Slightly wobbly shots but nice colour and solid sound even if there is only one channel. Impressive for the time. It is psychological. Because she is blind it is far scarier. There is an exciting ending and great story development along theSlightly wobbly shots but nice colour and solid sound even if there is only one channel. Impressive for the time. It is psychological. Because she is blind it is far scarier. There is an exciting ending and great story development along the way. Quite entertaining but not really scary. It doesn't make you jump - more think about it and put yourself in the scary situation. A good solid thriller well worth a watch and a think.",
+            "review_date": "2022-02-16",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 9
 }

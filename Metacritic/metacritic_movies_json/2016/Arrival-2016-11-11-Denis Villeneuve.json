@@ -1,669 +1,762 @@
 {
-  "title": "Arrival",
-  "rating": 8.2,
-  "release_date": "2016-11-11",
-  "genre": [
-    "Sci-Fi",
-    "Drama",
-    "Mystery",
-    "Thriller"
-  ],
-  "summary": "When mysterious spacecraft touch down across the globe, an elite team is put together to investigate – including language expert Louise Banks (Amy Adams). Mankind teeters on the verge of global war as everyone scrambles for answers – and to find them, Banks will take a chance that could threaten her life, and quite possibly humanity.",
-  "critic_reviews": [
-    "Arrival is really Adams' film, a showcase for her ability to quietly and effectively meld intelligence, empathy and reserve.",
-    "Arrival works as mainstream entertainment, but includes hallmarks of the “2001: A Space Odyssey”/“Silent Running” era of artist-driven science fiction. It has Hollywood stars, but makes great effort to strip them of any false glamour. The film is tightly calibrated, but leaves things open to interpretation, for discussion on the ride home and beyond.",
-    "Although Arrival is about first contact with extraterrestrials, it says more about the human experience than the creatures from another world. This is a singularly powerful movie, without question one of 2016’s best.",
-    "It's one of a handful of movies that have legitimately fooled me; not with an abrupt twist but a dawning awareness of where it's going thematically, how deeply and how distanced from sci-fi as usual.",
-    "Adams gives her best performance as a lonely woman who has to make a decision that will haunt her – though perhaps in a good way – for the rest of her life.",
-    "Arrival is such a beautiful and thought-provoking film that it almost singlehandedly makes up for every bad aliens-coming-to-Earth film you’ve ever seen. Yes, even Independence Day: Resurgence.",
-    "Arrival is a beautifully polished puzzle box of a story whose emotional and cerebral heft should enable it to withstand nit-picky scrutiny. And like all the best sci-fi, it has something pertinent to say about today’s world; particularly about the importance of communication, and how we need to transcend cultural divides and misconceptions if we’re to survive as a species.",
-    "An intelligent, eloquent and stirring sci-fi that grips from start to finish, Arrival is up there with the year’s best movies.",
-    "[A] truly remarkable film.",
-    "This is riveting, dizzying stuff from Villeneuve.",
-    "The extraordinary success of Arrival is that it combines its bravura style and grand sci-fi questions with tremendous emotional intelligence and a heart so full it’s ready to burst.",
-    "That’s the movie’s greatest feint, though: Ultimately, it’s far less interested in galactic destiny than the infinite, uncharted landscape of the human heart.",
-    "Arrival, the shimmering apex of Villeneuve’s run of form that started back in 2010 with “Incendies,” calmly, unfussily and with superb craft, thinks its way out of the black hole that tends to open up when ideas like time travel, alien contact and the next phase of human evolution are bandied about.",
-    "It is intelligent, moving and wholly original.",
-    "Anchored by an internalized performance from Amy Adams rich in emotional depth, this is a grownup sci-fi drama that sustains fear and tension while striking affecting chords on love and loss.",
-    "A twisty, cerebral drama that just happens to involve aliens, Denis Villeneuve’s film is a truly beguiling take on both the sci-fi canon and what, exactly, a grown-up Hollywood film is supposed to be.",
-    "Arrival makes a moving case that we’ve only scratched the surface of what we think is possible — and what we define as intelligence.",
-    "Arrival is science fiction in the classic sense and a film of otherworldly ambition.",
-    "Arrival would be nothing without Adams.",
-    "I’m not entirely convinced the ending is the perfect landing to everything that transpired before, but Arrival is not a linear adventure of the mind, and it is a film probably best seen twice.",
-    "So much of the pleasure of Denis Villeneuve’s poignant science-fiction drama Arrival lies in watching Amy Adams figure things out.",
-    "Arrival puts Villeneuve, who first came to attention with “Incendies,” firmly in the first rank of filmmakers, a director capable of not just entertaining, but challenging. And the wide-eyed Adams, near the top of the list of the best actresses never to win an Oscar, delivers another riveting, melancholy and life-affirming performance that threatens to change that, maybe as soon as next February.",
-    "Adams, her face a reflection of conflicting emotions, is simply stellar in an Oscar-buzzed performance of amazing grit and grace. Without her, Arrival might be too cerebral to warm up to. With her, the film gets inside your head and emerges as something intimate and epic, a linguistics odyssey through space and time. It's the stuff that dreams are made of.",
-    "Adams’s clear-eyed, open-minded doctor forces us to ask how much we’re willing to communicate.",
-    "Arrival has come, like a visitor from the cosmos, to blow minds and break hearts.",
-    "Arrival isn’t a visionary movie, an intellectual rebus or a head movie; it’s pretty straight in some respects and sometimes fairly corny, with a visual design that’s lovely rather than landmark.",
-    "What’s remarkable about Arrival is its contemplative core—and, of course, Ms. Adams’s star performance, which is no less impassioned for being self-effacing.",
-    "For most of its running time, Arrival is entrancing, intimate, and moving — a sci-fi movie that looks not up at the stars but rather deep within.",
-    "It may be weaker in the resolution than in the setup, but that is an inbuilt hazard of science fiction, and what lingers, days after you leave the cinema, is neither the wizardry nor the climax but the zephyr of emotional intensity that blows through the film.",
-    "Arrival is a smart film, but it’s not a cold or clinical one. Both the first and last scene brought me to the verge of tears.",
-    "Despite some imperfections, Arrival is a close encounter with the best of intelligent, thoughtful science fiction.",
-    "Arrivals becomes an unexpectedly moving rumination on life’s bigger questions by its end. While it looks to other worlds, its main pleasure turns out to be the most intimate of questions.",
-    "Arrival is a big, risky, showy movie which jumps up on its high-concept highwire and disdains a net. And yes, there are moments of silliness when it wobbles a little, but it provides you with spectacle and fervent romance.",
-    "A deeply soulful film, shot through with loss, regret, and hope. Like almost all great sci-fi films it’s less about the alien unknown than it is about the human condition.",
-    "Muted, measured and meditative, Arrival brings taste and restraint to a genre in the midst of a mini golden age: It comes in peace.",
-    "Shot under gray skies and in artful shadows by cinematographer Bradford Young, scored to wickedly disorienting music by Oscar-nominated \"Sicario\" composer Johann Johannsson, Arrival will cast a spell on some while merely discombobulating others. Right there, I'd say that indicates it's worth seeing.",
-    "With its icy symphonic score (courtesy of Iceland’s Johan Johansson) and a palette of rainy-day colors, Arrival is at once majestic and melancholy. It’s a grand endeavor, and Adams, at the center of it all, brings pluck and smarts and a deep-seated sorrow to her role. This is her movie, no doubt.",
-    "It’s a movie designed to simultaneously challenge viewers, move them and get them talking. For the most part, it succeeds.",
-    "Denis Villeneuve ponders the ramifications and possibilities of a potential first-contact between human beings and an advanced alien race and comes up with a sporadically incoherent film, but also some interesting ideas.",
-    "It’s not impossible to give audiences both a puzzle-box narrative and an exploration of life choices and what it means to be human, but the balance just doesn’t play here.",
-    "Arrival is a science fiction confection that wants to be smart. But the truly fascinating material that would have made this a very good movie rather than a pretty decent one likely ended up on what they used to call the cutting-room floor.",
-    "Why did Villeneuve and the screenwriter, Eric Heisserer, let the grade-B military melodrama run away with the story?",
-    "Arrival challenges viewers to a brainier sci-fi conundrum than they're used to, which makes for an intellectual breath of fresh air.",
-    "Adams gives a nicely polished, muted performance: She keeps the story grounded when the ideas Villeneuve is striving for threaten to get too lofty. And the picture is intelligently and effectively crafted, one of those enterprises where the cinematography, sound design and score, as well as the special effects, melt into a seamless, organic whole.",
-    "Adams draws on her gift for making each and every moment quiver with discovery. The actress is alive to what’s around her, even when it’s just ordinary, and when it’s extraordinary the inner fervor she communicates is quietly transporting.",
-    "Though the film is not more than sum of its parts, well, those parts are pretty great. You just wish they belonged to a slightly deeper film.",
-    "The film's searching images counterpoint the hyper-articulate methodology of its characters' sense of imbalance and uncertainty.",
-    "Watching it, I was excited that such a strange piece of science fiction got made—and disappointed to realize that it is strange in just about all the ways that Interstellar is. But while even Nolan’s detractors couldn’t deny his skill at manufacturing awe, the primary emotion that Arrival evokes is puzzlement.",
-    "To enjoy the film's arresting musings on language, time and how much we can ever understand others, you'll have to close your eyes and ears to the wealth of schlocky hokum surrounding them.",
-    "Unless there’s something truly momentous going on, I prefer my sci-fi to be a lot more weightless than weighty.",
-    "The best science fiction leaves you with questions and ideas to ponder. Arrival is the sort of superficially profound movie that initially seems deep and weighty but stops making sense the moment you put down the bong.",
-    "\"Enemy\" and \"Sicario\" were unspeakable disasters, and Arrival, the director’s latest exercise in pretentious poopery, gives me every reason to believe I have parted company with Denis Villeneuve for good."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Just like Villeneuve's other films, this one has proved that he is one of the greatest director nowadays. The way that he approaches a common theme in movies is almost revolutionary.",
-      "review_date": "2016-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Denis Villeneuve is a talented and promising filmmaker, 'Prisoners' being an obvious benchmark. While I'm still looking forward to his Blade Runner sequel I have to say Arrival was a huge disappointment. Amy Adams great performanceDenis Villeneuve is a talented and promising filmmaker, 'Prisoners' being an obvious benchmark. While I'm still looking forward to his Blade Runner sequel I have to say Arrival was a huge disappointment. Amy Adams great performance notwithstanding, this was a ponderous, superficially profound movie that ultimately goes nowhere.",
-      "review_date": "2016-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As other have commented, Villeneuve is a good director but this is a step in the wrong direction for him. I hate to use the B word {boring}, but Arrival is a real endurance test even for fans of serious, thought provoking movies.",
-      "review_date": "2016-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An 'alien' film to leave you totally alienated! This is so self-important and ponderously dull that it makes Ingmar Bergman's depressive dramas seem like comic farces. The screenplay is all **** and pretension in which Amy Adams' languageAn 'alien' film to leave you totally alienated! This is so self-important and ponderously dull that it makes Ingmar Bergman's depressive dramas seem like comic farces. The screenplay is all **** and pretension in which Amy Adams' language specialist amazingly deciphers the black ink vocabulary of the extra-terrestrials in record breaking time. A feat that only ever happens in the movies. The creatures themselves look like a cross between giant squids and an elephant's foot, and it's no exaggeration to state that their presence is underwhelming. The first ten minutes promise much but we never get that film. Instead as soon as the alien pods arrive degeneration in to boredom is immediate and sleep inducingly effective. Praised by the highbrow critics, make no mistake this is alarmingly over rated. A totally confused and uninteresting example of the sci-fi genre. Arrive? It certainly did. However, I couldn't wait to leave!",
-      "review_date": "2016-11-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nNothing here that hasn't been done a thousand times. Simple time loop paradox. If you're looking for a movie about aliens, this is not it. It really has nothing to do at all with aliens. It's a weak tug at heart strings depicting a story about a parent that loses a child. The chemistry between the two main actors is non existent. Just a terrible waste of 2 hours.",
-      "review_date": "2016-11-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not great. As others have said, it is slow. Also, it feels like they just did a wikipedia search for \"linguistics\" and then wrote a script around the first paragraph. I don't see this as a cerebral sci fi film at all. More of a cheesy, slog-fest.",
-      "review_date": "2016-11-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival is being called one of the best Science Fiction films in years. It is one of the best rated and reviewed films of 2016, and is drawing comparisons to Close Encounters of The Third Kind, but I have a question, did they watch the sameArrival is being called one of the best Science Fiction films in years. It is one of the best rated and reviewed films of 2016, and is drawing comparisons to Close Encounters of The Third Kind, but I have a question, did they watch the same film that I did? I wasn't crazy about Close Encounters, but that movie was leaps and bounds ahead of this one. Twelve alien crafts land in random places all across the planet, and the people are in a panic. Some countries react with hostility, but the U.S. Government decides to act cautiously (yeah right), and send Dr. Louise Banks (Amy Adams), the best linguist they have, to figure out a way to community with the aliens. The aliens, turn out to be giant octopus, whose language turns out to be ink that they squirt into the air. This movie features flashbacks and flash-forwards, that seemingly make no sense, until the end when you finally figure out what they mean and once you do, you realize that you just wasted two hours of your life. If that wasn't bad enough, the film moves at an absolute snails pace, I mean you could take everything that actually happened in the film and squeeze it into about twenty minutes. The rest is just people talking to each other about the same damn thing over and over again. Trying to figure out the same thing over and over again. Worrying about the same things over and over again. The characters have no personality whatsoever, and you might think that it's one of those slow moving weird films that all comes together in an amazing ending, but no, it doesn't. Once you can see the whole picture, as one lady in the theater so eloquently shouted out, \"really, that's it, that was so stupid.\" Her uncontrolled outburst really sums up this entire film. Honestly I think the slower and more artistic a film is, the more the critics love it, but I am one critic who isn't fooled by great actors and emotional music, this isn't the best film of the year, this is the biggest turd of the year, and it should be avoided at all costs!",
-      "review_date": "2016-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "boooooring. As a big fan of Sicario and Prisoners i expected better. paint dries more entertainingky than this. like watching a kid draw with an etch a sketch for 2 hours. Even Forrest Whitaker sucked. Jeremy Renner often sucks, no surpriseboooooring. As a big fan of Sicario and Prisoners i expected better. paint dries more entertainingky than this. like watching a kid draw with an etch a sketch for 2 hours. Even Forrest Whitaker sucked. Jeremy Renner often sucks, no surprise there. it felt like they were afraid to wake up the audience.",
-      "review_date": "2016-11-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The movie preview showed aircraft flying overhead.  This was the only action in the entire movie.  A low budget, slow, out of focus movie.  Watching paint dry has more action.  A rare film that wanted to make me demand my money back.",
-      "review_date": "2016-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This was on my must see movie list.  The movie starts out very slow, then gets slower until finally I started to doze off. The movie makes absolutely no sense. There's no suspense or any action. Other than Amy Adams performance the rest ofThis was on my must see movie list.  The movie starts out very slow, then gets slower until finally I started to doze off. The movie makes absolutely no sense. There's no suspense or any action. Other than Amy Adams performance the rest of the cast is nothing as they mailed their parts in. The ending is beyond ridiculous. Avoid unless you have insomnia. You've been warned.",
-      "review_date": "2016-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Viewer be warned.  Preview contains all the \"excitement\" of this supposedly \"clever\" sci-fi movie (very sad).  Actually, this has been grossly overhyped by professional film critics.  I would like to have my money back if possible.  Dark,Viewer be warned.  Preview contains all the \"excitement\" of this supposedly \"clever\" sci-fi movie (very sad).  Actually, this has been grossly overhyped by professional film critics.  I would like to have my money back if possible.  Dark, slow, incoherent plot that challenge you to stay awake.  Tried my very hardest to enjoy this movie, but failed to do so.  One film critic graciously rated this as: wait until it comes out in DVD.  My vote: skip this movie and spend your hard earned money elsewhere.  In summary, I feel scammed by the professional film critics, similar to the many fake reviews on Amazon.",
-      "review_date": "2016-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What a moving film. A first contact movie that makes you think rather than just relying on the latest CGI effects. They enhance rather than carry the movie.Amy Adams is perfect as the interpreter. All her emotions are there to see.If movieWhat a moving film. A first contact movie that makes you think rather than just relying on the latest CGI effects. They enhance rather than carry the movie.Amy Adams is perfect as the interpreter. All her emotions are there to see.If movie length CGI battles are your thing then this probably isn't the movie for you.It's how I would imagine First contact would be like.",
-      "review_date": "2016-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There are generally two different types of \"good\" sci-fi in my book: Straight forward that uses the film's setting to its advantage (Aliens, Terminator 2), and cerebral which makes the viewer think about new ideas and old ones in new ways.There are generally two different types of \"good\" sci-fi in my book: Straight forward that uses the film's setting to its advantage (Aliens, Terminator 2), and cerebral which makes the viewer think about new ideas and old ones in new ways. Arrival falls into the latter.It's a little slow for multiple viewings, but it poses an interesting idea and a mystery that you'll be as eager to figure out as the characters.",
-      "review_date": "2018-02-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nI don't think this movie is about that \"what makes us human\". Personally I think it is about creating your own reality. The whole movie developes around the ability of a character to understand a language. In a way, Adams' character is a child (humanity) learning to speak. She has to go through all the tribulations of learning a new language, a powerful one at that. The premise is quite interesting and it took me two views to get it: Your language (the way you express what you think) determines your reality. They even mention it at the beginning of the movie, with the Sapir-Whorf theory. This is by far a very metaphysical proposal, and a very adecuate one at that, one that has been told to us by great master of ancient (\"For by your words you will be justified, and by your words you will be condemned\"). In a way, language IS reality, it is the only way we have to describe it and thus create it. So it would make sense that a more powerful language would create a different, more powerful reality. In the movie, learning the aliens' language would opne the doors of time and space for you, and this can be wither a weapon (as first understood by humans) or a gift, as later realized by Adams. Of course the ability to thread between past, present and future could be a powerful weapon, or a great gift. Once she realizes this, it is quite interesting that she still chooses to have her baby, aware of the outcome, but the most important choice she makes, while having the ability to visit the past or future, is to live in the present. Powerful message indeed. So now you know, choose your words carefully.",
-      "review_date": "2020-03-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An intriguing film with an interesting concept of first  contact with aliens. Its only drawback is that an IQ 80+ is required to enjoy a movie without an abundance of shootings, explosions, and naked boobs. Otherwise, you will write onAn intriguing film with an interesting concept of first  contact with aliens. Its only drawback is that an IQ 80+ is required to enjoy a movie without an abundance of shootings, explosions, and naked boobs. Otherwise, you will write on metacritic that you were bored \"cuz here iz nut enugh acteon, dood!\"",
-      "review_date": "2020-06-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best sci-fy films. One of the best and innovative directors. Predictable result.",
-      "review_date": "2021-10-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The most intelligent film ever.The best Sci-Fi film ever.The best film of Denis Villeneuve.\nIt's the best multisensorial experience; how script, directing, cinematography, editing, sound, production design, visual effects and performancesThe most intelligent film ever.The best Sci-Fi film ever.The best film of Denis Villeneuve.It's the best multisensorial experience; how script, directing, cinematography, editing, sound, production design, visual effects and performances strike a great balance one each other to breakthrough a new way to watch and understand the pass time.",
-      "review_date": "2021-12-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival is one of the best sci-fi movies ever made. Everything from Amy Adams'performance to the design of the ships, the aliens, the concept of the time, and how we perceive it, is extraordinary. Denis Villeneuve is a genius.",
-      "review_date": "2022-02-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is something extremely rare among science fiction movies.  It is thoughtful, intelligent and well-done science fiction at its best.  There are no space battles or super heroes or wookies.  The aliens don't want to eat us.  In factThis movie is something extremely rare among science fiction movies.  It is thoughtful, intelligent and well-done science fiction at its best.  There are no space battles or super heroes or wookies.  The aliens don't want to eat us.  In fact the point of the movie is to figure out why the aliens have come in the first place.  I don't want to gush but I love this movie.",
-      "review_date": "2021-07-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is quite an eery film - I felt it seemed almost more like a documentary than a sci-fi drama film at one point, with a narrator explaining to the viewer what had been learnt about the mysterious new beings from outer space who haveThis is quite an eery film - I felt it seemed almost more like a documentary than a sci-fi drama film at one point, with a narrator explaining to the viewer what had been learnt about the mysterious new beings from outer space who have apparently taken up residence in a number of locations on Earth. I liked the nostalgic flashbacks shown, a reminder of childrens curiosity and wonder when faced with seeing certain things for the first time. Its a relatively atmospheric film, with looming music used in the background, not dissimilar to that present in other previous sci-fi films, most notably Close Encounters of the Third Kind. It also reminded me somewhat of Jodie Foster in the film Contact from the 1990s.Its a somewhat deep film that makes you think about how threats are handled, at a global level, the responses by various governments and the like. If anything, I found it refreshing that in this instance, the US didn't exactly go in 'all guns blazing' and I appreciated that the main character, Louise Banks, tries very hard to understand and see things from the unknowns' point of view. I don't think I can say much more but suffice to say, I recommend this film.",
-      "review_date": "2021-11-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great plot, soundtrack, art, characters, actors and everything you can imagine. The director really gave hints in every moment and used a typical cinema technique to hide the plot.",
-      "review_date": "2021-11-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amy Adams gives a superb performance in what could be called \"Independence Day with a Brain.\" Denis Villeneuve delivers an intentional methodically paced script with the sort of intelligence, nuance, and confidence that feels wholly refreshing.",
-      "review_date": "2022-03-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie a huge disappointment. It's boring, the plot is a joke, and it tries to very deep and philosophical even though by the end of the movie, you don't care about the characters or their troubles. A waste of time.",
-      "review_date": "2017-02-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nReally amazing movie with great visuals,the characters in the movie were described beautifully and intelligently.Arrival in my opinion did everything right what other alien invasion movie ruins,it is a perfect response to bad movies",
-      "review_date": "2020-04-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival is a beautifully complex film that centres on the role of humanity in this world rather than the \"arrivals\". With this, the movie brings a new look to the sci-fi genre, as it deals with themes and emotions that many can relate to inArrival is a beautifully complex film that centres on the role of humanity in this world rather than the \"arrivals\". With this, the movie brings a new look to the sci-fi genre, as it deals with themes and emotions that many can relate to in the modern world. Arrival proves to be one-of-a-kind and one of the best in the genre, not just for pure action or the cliches we tend to see in such movies, but for its creativity and thought-provoking ideas it presents to the viewer. It is a movie that does require utmost attention, however, the experience is truly rewarding, as director, Denis Villeneuve continues his run of exceptional movies. Amy Adams, who plays a linguistic professor, leads the movie with a strong performance, yet playing a vulnerable character who succumbs to the events that unfold. The 'arrivals' themselves are wonderfully designed and their language particularly is a topic in on itself. Crafted with great cinematography and moving music, this was a deserved Oscar-nominated film, and truly one for the ages.",
-      "review_date": "2017-07-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is not for everyone. If you wanted a science fiction action blockbuster then you will be disappointed. However it is one of the most brilliant plots in scifi. I won’t spoil the details but once you understand the twist it’s justThis movie is not for everyone. If you wanted a science fiction action blockbuster then you will be disappointed. However it is one of the most brilliant plots in scifi. I won’t spoil the details but once you understand the twist it’s just magnificent. It is a movie worth to discuss with friends and very memorable because it does something completely different. The ideas for follow up stories are basically endless. It is based on the book “The story of her life” if I am correct. Also all actors were the right choices for their respected rolls. I think this will be a forgotten masterpiece because it is not mainstream enough. Sorry for not going in in details, but it will ruin the movie. Think about the twist in “The sixth sense”. If someone spoiled it for you the movie would be less good (or a lesser experience?).",
-      "review_date": "2019-12-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I finally got around to seeing this one and I am so glad I did!  An interesting premise and cerebral plot more focused on language and geopolitical relations than the aliens themselves.  The movie also respects the science that it dives intoI finally got around to seeing this one and I am so glad I did!  An interesting premise and cerebral plot more focused on language and geopolitical relations than the aliens themselves.  The movie also respects the science that it dives into and doesn't use it as a simple plot contrivance like many action sci-fi movies do.  I was left with a feeling of hope and intrigue after finishing it.",
-      "review_date": "2020-06-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival is one of my favorite Sci Fi movies of all time.The movie doesn't need flashy action sequences or superficial Drama to deliver a thoughtful and emotional experience.Even the \"plot twist\" if you may call it that is in clear serviceArrival is one of my favorite Sci Fi movies of all time.The movie doesn't need flashy action sequences or superficial Drama to deliver a thoughtful and emotional experience.Even the \"plot twist\" if you may call it that is in clear service of the story and not just a plot twist for the sake of it.Arrival manages to connect with me every time I watch it. I think this is some of the best that Sci Fi has to offer.",
-      "review_date": "2020-04-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Arrival\" é inovador, mesclando conceitos ambíguos a uma premissa talvez antes nunca explorada, subvertendo tudo que esperávamos sobre o longa.A atmosfera do filme é muito bem construída aqui, moldando o plot desde a primeira cena do filme.\"Arrival\" é inovador, mesclando conceitos ambíguos a uma premissa talvez antes nunca explorada, subvertendo tudo que esperávamos sobre o longa.A atmosfera do filme é muito bem construída aqui, moldando o plot desde a primeira cena do filme. A subversão dos até então \"flashback's\"; a elegância da fotografia, respeitando muito bem as magnitudes, o que deixa claro que esse filme foi feito para telões; o background da trama é bem definido pelos telejornais, o que gera uma influencia grande da trama, tanto nos acontecimentos quanto na nossa percepção dos acontecimentos. A OST é magnifica, tanto no conjunto como no clímax.A compreensão do tempo é muito bem representada aqui, com um plot inteligente e uma abordagem como eu disse acima, inovadora. Enfim, todos esses fatores - e muito mais - tornam a experiencia incrível. É um filme essencial para os fans do gênero.Audio: English, with portugueses subtitles. Q60T 50' TV Speakers [Dolby 5.1]Quality: 4K HDR [Bluray]",
-      "review_date": "2020-09-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Phenomenal movie. I wouldn't have watched this movie if I hadnt known about the intriguing ending (yes I was spoiled but I don't mind). I've never been a fan of Amy Adams in Superman or Jeremy Renner in Marvel but the story, delivery and slowPhenomenal movie. I wouldn't have watched this movie if I hadnt known about the intriguing ending (yes I was spoiled but I don't mind). I've never been a fan of Amy Adams in Superman or Jeremy Renner in Marvel but the story, delivery and slow pacing really punches this movie high. I wasn't disappointed at all. It has never a dull moment and there are many parts I can rewatch many times just to think about how they unfold. Lots of small details to look out for too like Abbot's actions before something happens. This movie is right up there with District 9, Contact, The Martian and Interstellar.",
-      "review_date": "2019-12-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best thriller/sci-fi film I have ever seen in my life. The work behind the camera by Denis Villeneuve is majestic. The concept behind the origin and the meaning of the \"aliens\" is absolutely original in every shape. The work made by JoeThe best thriller/sci-fi film I have ever seen in my life. The work behind the camera by Denis Villeneuve is majestic. The concept behind the origin and the meaning of the \"aliens\" is absolutely original in every shape. The work made by Joe Walker in the sound editing with the beautiful shots made by Brandon Young gave that little touch to the film to make it feel smoother.",
-      "review_date": "2020-04-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "After seeing Arrival, I understand my dog better. So for all owners of a young dog, the movie is quite worth your while ;)Okay, this is a strange intro to my review but fits. The film is all about communications and different senses. And itsAfter seeing Arrival, I understand my dog better. So for all owners of a young dog, the movie is quite worth your while ;)Okay, this is a strange intro to my review but fits. The film is all about communications and different senses. And its execution is great.The movie is a very intelligent one that sells its seemingly impossible message quite plausibly. It's also a slow and quite movie. Those craving for lots of actions and explosions maybe should elsewhere.And miss out on an impressive experience, of course.",
-      "review_date": "2018-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a science fiction movie about aliens visiting our planet. Or rather about attempts the mankind takes trying to establish a contact with aliens.The movie is done quite professionally, and I liked it's cinematography and sound track.This is a science fiction movie about aliens visiting our planet. Or rather about attempts the mankind takes trying to establish a contact with aliens.The movie is done quite professionally, and I liked it's cinematography and sound track.There are good actors starring there (Amy Adams, Jeremy Renner, Forest Whitaker), and they deliver adequate performance. Most of the movie kept me interested. Sometimes pseudo-philosophical lingo carried me away. I think the movie was too long, and the script has not been thought through, leading to nowhere. Which is a shame, it had a lot of potential.",
-      "review_date": "2016-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival is intelligent, dramatic, scary and heartfelt from beginning to end. The main character's quest to understand the mystery behind the alien's purpose is extremely engaging. With each twist and turn the film kept me begging to know more.",
-      "review_date": "2016-12-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It’s the end of the world as we know it! A much discussed and sometimes feared story has come true which, honestly, always sounded a bit ridiculous to actually happen in the real world.I am, of course, talking about this new sci-fi dramaIt’s the end of the world as we know it! A much discussed and sometimes feared story has come true which, honestly, always sounded a bit ridiculous to actually happen in the real world.I am, of course, talking about this new sci-fi drama „Arrival“ where mankind is greeted by huge alien spaceships in the sky who seem to be coming in peace… wait, did you think I was referring to Trump becoming the next leader of the free world?But yeah, these two events have a very similar plot summary so it’s only fitting that I had the chance to experience them in the very same morning.Directed by Denis Villeneuve – the man behind „Prisoners“, mindbending „Enemy“ with Jake Gyllenhaal, „Sicario“ and currently filming „Blade Runner“ sequel –, one could expect „Arrival“ to be a thinking person’s sci-fi. And one is not wrong.It is a 116 minute slow-burner all heavy on atmosphere and light on explosions or any quick thrills. If you wish a quick reference to any recent well-known movies, the result is a bit like Christopher Nolan’s „Interstellar“ crossed with Terrence Malick’s „The Tree of Life“. Robert Zemeckis’s „Contact“ (1997) would not be very far either, because „Arrival“ also focuses on fragile yet brave female protagonist whose quality acting is one of the main pillars carrying the whole experience. The other one would be overall atmosphere, deliciously dark and ominous. Some will like it, others will probably find it depressing and maybe a bit slow for their taste.I haven’t read the award-winning short story by Ted Chiang that „Arrival“ is based on. Wikipedia says that the major themes explored are determinism, language and Sapir-Whorf hypothesis which sounds mighty dry and mostly sci-fi geek friendly. So it’s nice to witness movie makers adding some mainstream appeal which comes mostly in the form of Amy Adams’s great performance. She truly holds the movie together as a woman going where no-one has ever gone before. You will believe her hesitations, the tears, and also the silent determination when the going gets tough. This kind of role is tricky because of the need to play it out mostly alone, often in close-up where every detail and tone has to be clearly seen and felt. Think Matthew McConaughey's mighty turn in „Interstellar“ but decidedly less showoffish.So it’s mostly Adams’s one-woman-show, and a quite rare chance to see her doing something memorable and worthwhile on screen. She accepts too many decorative pretty girl roles, even in more ambitious projects. The all-male supporting cast is good too, especially star players such as Jeremy Renner and Forest Whitaker. As stated above, I don’t know the original story but \"Arrival's\" message is rather spiritual and not \"dry\" at all. Essentially it is a reminder that mankind’s future depends heavily on our ability to understand and connect to the world, rather than attacking and overpowering everything we find foreign or downright alien. It’s a call to rise above the inflexible ego-based mind the western society so dearly values, and to find balance with our intuitive side.Overall, „Arrival“ is a good movie although I wasn’t especially happy with the final act which seemed rushed. It felt like somebody grew impatient near the end and wanted to add something „impressive“ just in case the people were not happy with this slow-moving tale. I do not want to talk about it here in detail but, for me, it lessened some of the movie’s overall impact. Mostly because there was not enough time to play it out as properly as the stuff that had come before.But yeah, if you are into more intelligent sci-fi and don’t prioritize explosions, „Arrival“ is good to go.",
-      "review_date": "2016-12-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival is an excellent offer by sci-fi director Denis Villeneuve, and I think he is going to be our generation's great sci-fi director. A beautiful script that makes this alien visit so personal and yet so grand at the same time, ArrivalArrival is an excellent offer by sci-fi director Denis Villeneuve, and I think he is going to be our generation's great sci-fi director. A beautiful script that makes this alien visit so personal and yet so grand at the same time, Arrival plays like a parable about communication and the human condition. Amy Adams and Jeremy Renner give GREAT performances, and Villeneuve's shots are nothing sort of beautiful. People who are not science fiction fans might have difficulty getting into Arrival fully, but once you're in, YOURE IN!",
-      "review_date": "2017-11-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Dialectics, metaphysics and anthropology are sciences that are structured by a simple and complex tool: language. And that's what the pelucla is about, to build, through communicative language, space, mind, time and the elements that surroundDialectics, metaphysics and anthropology are sciences that are structured by a simple and complex tool: language. And that's what the pelucla is about, to build, through communicative language, space, mind, time and the elements that surround us. All with a loose but useful anti-war discourse. A wonderful movie from start to finish.",
-      "review_date": "2018-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I will put this movie one of the best Sci-Fi movies, same level with Interstellar. The eerie atmosphere and mystery kept me the edge of my seat. Also the scenes of the movie is beautiful and gorgeous and so is the soundtrack. Amy Adams? SheI will put this movie one of the best Sci-Fi movies, same level with Interstellar. The eerie atmosphere and mystery kept me the edge of my seat. Also the scenes of the movie is beautiful and gorgeous and so is the soundtrack. Amy Adams? She nailed it.",
-      "review_date": "2019-03-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nWhat humanity needs is to strive for a common goal. I love science fiction because it can paint somewhat realistic scenarios like ARRIVAL, in which our planet is saved by extraterrestrial intervention. But more real than our first alien contact is the way ARRIVAL depicts a planet divided by invisible borders and nations unwilling to cooperate. God I love this movie.",
-      "review_date": "2019-03-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you like movies like Contact, or Interstellar, you will love this one. Don't want to say too much, just...MINDBLOWING",
-      "review_date": "2021-03-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Unlike other sci-fi extra-terrestrial first contact films, Arrival is much slower paced. It focuses on contemplation, thought rather than action. That is not a bad thing, and in fact bodes well for the tone. It manages to be both suspensefulUnlike other sci-fi extra-terrestrial first contact films, Arrival is much slower paced. It focuses on contemplation, thought rather than action. That is not a bad thing, and in fact bodes well for the tone. It manages to be both suspenseful and intriguing, though it has the potential to expect more from its audience. I see many similarities between Villeneuve and Christopher Nolan; both of whom create visually striking scenes with a deep story to back it up.",
-      "review_date": "2017-03-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Perhaps perfect in its writing and direction and utterly dissimilar to any of its alien-themed predecessors. Arrival is smart, but slow and wholly touching and exciting so.",
-      "review_date": "2019-07-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In his first foray into sci-fi, Villeneuve's lofty ambitions are as over-calculated as they are under-executed. Arrival is far from the promised humanist thriller, coming across as a wannabee Nolan thinker, only less coherent and moreIn his first foray into sci-fi, Villeneuve's lofty ambitions are as over-calculated as they are under-executed. Arrival is far from the promised humanist thriller, coming across as a wannabee Nolan thinker, only less coherent and more pretentious. After the abominations of Enemy and Sicario, this may just be strike 3 for Denis.",
-      "review_date": "2017-02-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was so dull that I’d watch Barney Reruns while eating whatever I can find in the garbage bin rather than sit through all two hours of this severely underwhelming story again.",
-      "review_date": "2017-11-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival is a sci-fi film only in presentation, as the film explores deeper themes of human communication and aggressiveness. While Arrival’s initial presentation may seem jarring and somewhat flawed, as the movie progresses and the twist isArrival is a sci-fi film only in presentation, as the film explores deeper themes of human communication and aggressiveness. While Arrival’s initial presentation may seem jarring and somewhat flawed, as the movie progresses and the twist is revealed, the editing choices and the pseudo-confusing sequencing end up contributing to the movie's meaning as a larger whole. Arrival explores various linguistic and psychological theories and takes them to an extreme, even using them as the crux for its storytelling. While it does benefit the viewer to be familiar with psychological concepts, especially linguistic determinism, the film does a good job explaining the fundamental concepts the story is based upon. Arrival is not only a cautionary tale but also a hopeful one. Arrival purports that through cooperation and coordination, i.e. through avoiding competition, a future which benefits more to a greater degree can be achieved. In this way, Arrival is a greatly anti-capitalist film presented in a widely digestible way. Villeneuve is a highly-skilled director, and, with Arrival, he shows that he can blend genres and excel while doing it.",
-      "review_date": "2020-05-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was fantastic. Villeneuve's direction was beautiful, it just reminded us that he's one of the greatest directors of our generation.",
-      "review_date": "2020-08-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "With no doubt, one of the best movies of the decade, far from the typical Hollywood script.",
-      "review_date": "2021-06-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Tremendously overrated. It is a good movie, and has very good special effects, but it did not deserve a best picture nomination. At best it is forgettable.",
-      "review_date": "2017-03-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This writer gets no cred on the street I live on. Read \"Story of your life\" by Ted Chaing. Get real with yourself. Look in the mirror dogdamnit.",
-      "review_date": "2018-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "First time you watch it: 8/10.Second time: 10/10, hands down. A true masterpiece.",
-      "review_date": "2022-03-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I personally think it is a very good video, it nicely presents how communication with a foreign species could take place.  nicely done!",
-      "review_date": "2022-03-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What initially seems like a sci-fi film about an alien takeover is really the starting point to explore deep themes of unification, connection, and the unique emotional experiences that bridges us as humans beings which transcend time andWhat initially seems like a sci-fi film about an alien takeover is really the starting point to explore deep themes of unification, connection, and the unique emotional experiences that bridges us as humans beings which transcend time and space. A beautiful, moving, and complex exploration of nearly spiritual themes of the human experience. The aliens are really just a way in but it's less about them and more about us. Great movie. Loved it!",
-      "review_date": "2016-12-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This one is getting reviewed higher than I believe it deserves, so I will reply.  I love Denis Villeneuve's other movies, and the cinematography and general quality of this one is consistent.  We get lost in being too philosophical andThis one is getting reviewed higher than I believe it deserves, so I will reply.  I love Denis Villeneuve's other movies, and the cinematography and general quality of this one is consistent.  We get lost in being too philosophical and digging for a big philosophical point, but never really finding it, I felt. Simple as that.",
-      "review_date": "2016-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I continue to think about this movie days after viewing it. Its themes resonated with me and I found it to be thought very provoking as well as very engaging.",
-      "review_date": "2017-01-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The aliens have returned. This time in cool-looking, mysterious crafts that hover above the earth in 12 places. Amy Adams is the expert linguist (with a troubled past?) who's brought in to try to establish communications with the mysteriousThe aliens have returned. This time in cool-looking, mysterious crafts that hover above the earth in 12 places. Amy Adams is the expert linguist (with a troubled past?) who's brought in to try to establish communications with the mysterious creatures. This film's concepts for otherworldly design are intriguing, but after seeing the film, the reason for their visit is still hazy. While there's lots of enticing set up, the proceedings move slowly to a repetitive and frustrating crawl before it's over. To make matters worse, the ending may leave you flummoxed. (Some internet research helped explain it.) While the premise is certainly fascinating, the dwindling pace and lack of much tension results in a less-than-satisfying outcome to this untraditional extraterrestrial narrative.",
-      "review_date": "2016-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "wow.  record breaking boring for an alien movie.  disappointing from top to bottom.  almost unwatchable.  pretentious, slow, dry.  i seriously thought of asking for my money back on the way out.  sheesh.",
-      "review_date": "2016-11-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Sci-fi once again shows it's hope for humanity. Excellent film that left me with plenty to think about. Don't expect laser blasting space battles; it's a movie about us humans and our ability to progress as a species.",
-      "review_date": "2017-02-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nUltimately a boring yarn that resolves on a 'twist' that a presumed flashback is actually a flash forward.Dull and ambiguous but lacking in mystery. Flawed.",
-      "review_date": "2016-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Dealing with heady ideas on an intimate scale, Dennis Villenueve's Arrival is an emotionally rewarding, intelligent, beautifully acted and gripping sci-fi film that isn't afraid to dispose of the generic conventions of a modern blockbuster inDealing with heady ideas on an intimate scale, Dennis Villenueve's Arrival is an emotionally rewarding, intelligent, beautifully acted and gripping sci-fi film that isn't afraid to dispose of the generic conventions of a modern blockbuster in favour of a more slow-burning, cerebral take on the arrival of aliens.",
-      "review_date": "2017-01-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As a “thought-provoking” movie, Arrival is over-rated drivel.  Amy Adams is a good actor, and she does yeoman’s work here, but she breaks no new ground.   The movie is a “Fail” almost every other level.  Forest Whitaker is wooden, and TheAs a “thought-provoking” movie, Arrival is over-rated drivel.  Amy Adams is a good actor, and she does yeoman’s work here, but she breaks no new ground.   The movie is a “Fail” almost every other level.  Forest Whitaker is wooden, and The Notebook like story within a story is lame.Amy Adams plays Dr. Louise Banks, a linguist, trying to figure out how to speak to aliens that have arrived at earth in dark, giant, scary looking, pods that look like slag. The aliens have no spoken or alphabet based written language.   Instead, the aliens converse using ink blots (which look like the stain that a wine glass might leave on a cardboard coaster, and made me wonder if the writer came up with the whole idea while sitting at a bar.)  Equally boring and conventional are the aliens.  (Why do aliens always seem to have squid-like bodies?)Dr. Banks is apparently the only gifted linguist left in the world, and the gov’t seeks out her expertise to the exclusion of all others.  (Ugh!)  Dr. Banks speculates that the aliens are so advanced that they have no apparent way to communicate with humans, and thus it is up to the humans to figure out how to communicate with them.  (Groan!)  For Kumbaya reasons, the aliens have split the message they want to convey to the people of earth into 12 parts, and use 12 different space craft to deliver it to 12 different populations across the earth. (Ay Yi Yi!)  Of course, the reaction of earth people is to go loot Best Buy and then try to blow up the aliens.There is a story within the story about time travel (Oh no!) and Amy Adams daughter who, we learn early on, has died from some rare disease.  This is supposed to give the movie its heart, but when you separate out the two movies halves, neither part has enough weight to give the movie any real substance.  As far as director Denis Vileneuve goes, I liked his work in Sicario.  Arrival is a step backwards.",
-      "review_date": "2016-11-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Being a sci-fi buff I was anxious to see this film. It was not all I hoped it would be. Repeated scenes over & over lost the interest of the audience as I could feel. The acting was average and the sub plot was difficult to follow. JustBeing a sci-fi buff I was anxious to see this film. It was not all I hoped it would be. Repeated scenes over & over lost the interest of the audience as I could feel. The acting was average and the sub plot was difficult to follow. Just couldn't rate it as some have.",
-      "review_date": "2016-11-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Look, if you want the Hollywood version with explosions and shooting watch Edge of Tomorrow, which is actually a good movie also. Arrival is an intelligent and beautiful movie, simultaneously a story about the meaning of communication and aLook, if you want the Hollywood version with explosions and shooting watch Edge of Tomorrow, which is actually a good movie also. Arrival is an intelligent and beautiful movie, simultaneously a story about the meaning of communication and a meditation on the value of life and choice. Like all great film you're not the same after seeing it as before. More prosaic and lacking the epic sweep of 2001 (the greatest film ever), reminiscent but more accessible. I've now seen Sicarios and Arrival and I'm sold on Villeneuve - I'm interested in anything he makes now.  I have to laugh that the one negative review is from Trump's son-in-law's paper. Imagine a super advanced alien species arriving on Earth and Trump representing us!",
-      "review_date": "2017-01-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just a pseudo-intellectual movie. It looks like a intelligent movie, but it really isn't. The plot is stupid, the characters are all stupid, the pacing is terrible and, during the whole movie, NOTHING interesting and smart happens. Hell, IJust a pseudo-intellectual movie. It looks like a intelligent movie, but it really isn't. The plot is stupid, the characters are all stupid, the pacing is terrible and, during the whole movie, NOTHING interesting and smart happens. Hell, I could even say nothing happens in the movie at all...This is really a hipster movie. It looks different and smart, but is has nothing going for it.",
-      "review_date": "2017-01-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A truly intelligent, intimate and moving film that firmly confirms Villeneuve as one of our generation's greats.  Amazing score, incredible cinematography, and a stellar performance by Amy Adams, makes this film firmly one of this years favourites.",
-      "review_date": "2017-12-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Awful, make no sense, probably one of the worst science fiction movie of all time....boring to death...really, if you want to sleep, watch it....the good press is all wrong ....",
-      "review_date": "2017-02-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I've never seen a movie so tedious and suspenseful at the same time with such a letdown in the end. Although the acting was superb, unless you like art for art's sake, don't bother with this one. The critics really got this one wrong. ItI've never seen a movie so tedious and suspenseful at the same time with such a letdown in the end. Although the acting was superb, unless you like art for art's sake, don't bother with this one. The critics really got this one wrong. It won't answer most of the questions you'll come up with while watching it, including the one that makes the whole story unnecessary: just learn their language the same way your children learn English. Duh!",
-      "review_date": "2016-11-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nTypical dead child of cancer (hollywood typical **** the movie tries that you feel sad about the child but you don't get to know her so you don't care, nothing happens in the movie, boring. I want my money and time back.",
-      "review_date": "2016-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "You know those movies people tell you they like because they want to seem cool. This is one. What a bunch of convoluted goo. Not worth your time. Sicario was awesome this tries to be too mystic and ends up being boring and pretentious.",
-      "review_date": "2016-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "“Arrival” stars Amy Adams, Jeremy Renner and Forest Whitaker in this sci-fi drama written by  Eric Heisserer based on a novel by Ted Chiang (“The Story of Your Life”). The film was directed by Denis Villanueve who, together with the writer“Arrival” stars Amy Adams, Jeremy Renner and Forest Whitaker in this sci-fi drama written by  Eric Heisserer based on a novel by Ted Chiang (“The Story of Your Life”). The film was directed by Denis Villanueve who, together with the writer and the editor, if there was one, must take full responsibility for the 2 hours I wasted watching their product. The movie is slow, confusing and complicated and the scenes float back in time and place without ever clearly indicating what was intended by its creative team. Ms. Adams can do no wrong for she is a talented actor but somehow she got placed in this amateurish attempt at a modern day “ET”. The film is not only a disservice to Ms. Adams’ talent but to the audience that must suffer through the picture  as well. I must have looked at my watch at least 5X during the course of the film and, in so doing,  found the hands on my timepiece more interesting that that which was being projected on to the screen. What amazes me most is that so many professional critics found this movie to be worthy of their highest rating, again proving that being paid for an opinion doesn’t mean it has value. I give this film a 1.0 rating and if I hadn’t been in the company of my wife and friends, I would have walked out of the theater mid way through it. The only recommendation I can make about this film is to respectfully suggest to Ms. Adams that she  hire a new talent agent..",
-      "review_date": "2016-11-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nLet's face it, a story like this hasn't crossed the paths of viewers only once before, right? I thoroughly enjoyed the actors in this production. Kudos for the CGI (thank goodness there was a lot of grays available). Question me this: Why did her hands shake? What was said to make her husband leave? How could she figure out what was being said? Was it \"flash back\" or flash forward\" or \"flash sideways\"? Why was Costello dying? Why did the story take the audience through the back door (again) to find us at the beginning? Did this happen? Was it going to happen? Did one of the last lines allow us to think that maybe the end results that have been seen will be changed? As for the production: Why were the interiors so dark? To save money. Go NFN whenever possible, right? There are several more questions to ask, but I do not want to actually ask direct questions that no one will answer of this movie. I do not know what movie the other people who commented were watching on this site (and a few others), but the one we just watched is far from being “Oscar” material as one person mentioned. The idea of the visitor… Well, I suppose it was an easy way to “communicate” to the persons portrayed, but come on,really? Did the writers answer any questions? No. There is a whole lot more, but I can easily state (and without reserve), I would rather have watched “Gravity” again. I mean no disrespect to the actors. It should have started and finished. The script was created –middle – “present” – middle – “present”. The comments of those few people who saw the movie today were walking out saying “huh”? There was a chance at the first few scenes to make this a gripping idea. Then...well, we were all inked!",
-      "review_date": "2016-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Took nearly 90 minutes to figure out what this movie was really about. I will never get that time back. This is a love story and about time, with aliens.I will never get nearly 2 hour of my life back.",
-      "review_date": "2016-11-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Sorry, movies rated 81 are supposed to rock the house. They mailed it in for the last 30 minutes. Stay home, save your money, and watch it on your flat screen.",
-      "review_date": "2016-11-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I don't mind that the film is slow.  2001 is a slow movie and I love every frame of it.  This movie is boring at times.  I looked at my watch a couple of times.  I don't believe we could decipher the complex symbols as quickly as they did,I don't mind that the film is slow.  2001 is a slow movie and I love every frame of it.  This movie is boring at times.  I looked at my watch a couple of times.  I don't believe we could decipher the complex symbols as quickly as they did, and I always have to wonder why super intelligent beings have a hard time learning our language(s).  I also felt ZERO chemistry between the two leads.  I also thought about the movie \"Contact\" several times as there is too many similarities.  On the positive side, the visuals are striking at times, and Amy Adams is wonderful, as she is in every film she is in.",
-      "review_date": "2016-11-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "a must see experience with a touur de force performance by the incredible Amy Adams ,a showcase of technical brilliance and the most cinematography of the year.what the movie lacks in action scenes and thriller sequences is made up througha must see experience with a touur de force performance by the incredible Amy Adams ,a showcase of technical brilliance and the most cinematography of the year.what the movie lacks in action scenes and thriller sequences is made up through the breathtaking plot twist at the end of the movie which will stay with you and follow you for days after watching Arrival, the best movie of 2016 by far !!!",
-      "review_date": "2016-12-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's a good movie, but not quite as good as the critics are painting it. The film tries to tie in two big concepts, one about communication, and another about time. In the end those concepts get somewhat muddled and open a number of plotIt's a good movie, but not quite as good as the critics are painting it. The film tries to tie in two big concepts, one about communication, and another about time. In the end those concepts get somewhat muddled and open a number of plot holes that were obvious even on a first viewing, and would be positively glaring on repeat viewings. The atmosphere is great and the acting is spot on, but the film is a bit hampered by a script and plot that starts off strong and then begins to droop towards the end.",
-      "review_date": "2017-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I thought the beginning half of the movie was fairly good and I was interested in the story. The ending was so bad it actually made me angry and I yelled at my TV.",
-      "review_date": "2017-02-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I went to see “Arrival” sort of reluctantly because I am not into sci-fi movies with aliens coming to take the world over and a war ensues between the good guys (us) and the Bad (the aliens) and we always win. It was a choice of seeing thisI went to see “Arrival” sort of reluctantly because I am not into sci-fi movies with aliens coming to take the world over and a war ensues between the good guys (us) and the Bad (the aliens) and we always win. It was a choice of seeing this movie or “Rules Don’t Apply” and I am not a fan of Warren Beatty’s and I understand it is really a flop so I decided on “Arrival”.The main reasons I was interested in seeing “Arrival” was because I am becoming a big fan of Amy Adams and on YouTube I saw a video titled “Arrival Ending Explained” which intrigued me though I didn’t watch it until after I saw the movie.The first hour of the movie was like watching a foreign language film without subtitles and didn’t hold me interest at all. The second hour with the 12 egg-shaped UFOs all over the world set up the standard them versus us but that isn’t where it goes.Amy Adams is Dr. Louise Banks, is a language expert, who had a daughter who died at the age of 12, and is called on to help make contact with the aliens who are named Abbot & Costello by the theoretical physicist Ian Donnelly, played by Jeremy Renner, who brings the  very rare humor in the movie. They work together in ways not exactly up to what Colonel Weber, (Forest Whitaker) and a CIA agent played by Michael Stuhlbarg want from them.The film revolves around Adams and Renner with little time for the other actors except for an important cameo by Tzi Ma who plays the Chinese leader though it is Adams who holds your attention every time she is on screen which is through the whole film.The film is not about them versus us but about time and how it can be looked at in different ways. We see many scenes with the mother and daughter from birth until her death 12 years later and by the ending these scenes all are looked at in a way that we weren’t aware while watching them.The ending is done subtly by the director Denis Villeneuve and screenwriter Eric Heisserer instead of hammering the audience over the head but I really wished I had watched that YouTube video before I saw the film.Adams performance is constrained, as it should be, where it could have been melodramatic. When it comes to her what it all is about she calmly accepts and understands what is happening and what happened. Renner is very strong support for her performance.This is not an ‘entertaining’ film in the sense you can sit back, munch on your popcorn and enjoy aliens invading earth but to which you have to think.“Arrival” for the most part is a boring film except for the last 15 minutes and I didn’t think the time invested was really worth the first 101 minutes and time is what the film is all about.",
-      "review_date": "2016-11-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I don't get all the praise heaped on this movie. Maybe if I knew more of what to expect going in, because I expected sci fi/thriller type along the lines of Prometheus and Interstellar. While this movie starts out very promising with a lot ofI don't get all the praise heaped on this movie. Maybe if I knew more of what to expect going in, because I expected sci fi/thriller type along the lines of Prometheus and Interstellar. While this movie starts out very promising with a lot of intrigue about the alien visitors, it soon drags, devolving into a commentary on human existence that really isn't emotionally moving or anything. There is a twist to the movie that was mildly interesting but seemed very copy cat of Interstellar, and then it ended very abruptly. I hated the ending. Basically there was no explanation of the reasoning behind anything and you are left hanging. It's just supposed to make you appreciate your humanity and question your life choices I guess.The one positive though is the acting throughout is superb. Even the dialogue is fine, just the pacing and ending are awful.",
-      "review_date": "2016-12-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A breathtaking film. Fantastic acting, brilliant story. Keeps you on the edge of your seat. One of the most impressive films I have seen in a while now. A must see! All the low reviewers clearly don't know a good movie if it slapped them inA breathtaking film. Fantastic acting, brilliant story. Keeps you on the edge of your seat. One of the most impressive films I have seen in a while now. A must see! All the low reviewers clearly don't know a good movie if it slapped them in the face. Watch it now!",
-      "review_date": "2017-02-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival offers a vastly different experience than you usually get in the alien invasion genre. By replacing explosions and action with captivating dialogue and conversations, it gives us arguably the most intriguing film of 2016.",
-      "review_date": "2016-12-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I attended this movie with a friend and we were looking forward to seeing it.  When it was over we both looked at each other and asked 'what was that movie about ?  The flashbacks to her child and the confusion of future and past events madeI attended this movie with a friend and we were looking forward to seeing it.  When it was over we both looked at each other and asked 'what was that movie about ?  The flashbacks to her child and the confusion of future and past events made us spend more time trying to figure the scripts meaning.  We could not understand the complexity of the movie and what turned the evening into a chaotic movie was truly disappointing and hours later we were still trying to figure it out.  If it could have been less entangled with the past, present and future it would have been wonderful.  It was a waste of hard earned money.",
-      "review_date": "2016-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Excellent! The Arrival is one of the best films of 2016 and is a must see! The film deserves all good reviews and at least one Oscar. The film might get them waterworks going and will help you reflect on your own life.",
-      "review_date": "2017-01-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I'm sorry I don't know how this movie got such good reviews. It was dumb dumb dumb and boring. I would describe it as a chick-flick sci-fi movie. Don't bother seeing it and these high reviews are way off. Must be the \"different\" effect.I'm sorry I don't know how this movie got such good reviews. It was dumb dumb dumb and boring. I would describe it as a chick-flick sci-fi movie. Don't bother seeing it and these high reviews are way off. Must be the \"different\" effect. Different does not = good.",
-      "review_date": "2016-11-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Arrival is one of the best Alien SI-FI movies to date; with excellent performances, amazing cinematography & smart plot line. Someone give Amy Adams an award! The arrival is a must watch of 2016.",
-      "review_date": "2016-12-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The visuals and acting are great. And the initial interactions with the aliens were fascinating. Unfortunately, emotional flashbacks (forwards), which make little sense, are becoming a bit of a cliche for humanizing these kinds of movies. IThe visuals and acting are great. And the initial interactions with the aliens were fascinating. Unfortunately, emotional flashbacks (forwards), which make little sense, are becoming a bit of a cliche for humanizing these kinds of movies. I wish these directors could accept that the geeky aspects are enough to sustain a kick-ass sci-fi movie (if done well). What next: faster-than-light travel powered by a mother's love for her child?",
-      "review_date": "2016-12-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nBoring, boring, boring....blablabla boring, boring, boring.DonT waste your money on this **** movie.The biggest disappointment in cinema history. Better watch \"it came from outer space\"",
-      "review_date": "2016-12-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Human, profound, thought provoking and creative. The acting is superb, the storytelling style and presentation is excellent, it is a powerful and beautiful movie about life, the human condition and the reality of our world today.",
-      "review_date": "2017-02-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is the BEST realistic what happened if movie, if aliens visited earth. I wished there was alittle more story while I was watching the movie. It did feel alittle boring and dragged on.",
-      "review_date": "2017-03-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival is a beautifully enthralling sci-fi thriller, which masterfully balances an actually intelligent 'alien invasion' story with heart-wrenching emotion. Amy Adams is sensational.",
-      "review_date": "2017-09-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Gotta say this is some brilliant work! I started watching thinking one thing and finished the movie in another state of mind, Amy Adams was breathtaking, the end with such an unexpected twist and still beautiful... they changed the \"sic-fi\"Gotta say this is some brilliant work! I started watching thinking one thing and finished the movie in another state of mind, Amy Adams was breathtaking, the end with such an unexpected twist and still beautiful... they changed the \"sic-fi\" of an alien invasion and did something new, where there not so much sic-fi as you would expect from an alien invasion movie",
-      "review_date": "2017-02-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "D.O.A.Sterile, lifeless, dull, drab, uninspiring, anti-climatic, confused, uncharismatic, overrated, unappealing, frustrating, tired, sleep-inducing, unimaginative, cheezy.",
-      "review_date": "2016-12-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival's deliberately slow pacing may serve as a turnoff for some; but it's incredible bits of tension and terrific performances provide an interesting look into a complex world of grief, love, and wonder.",
-      "review_date": "2017-02-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I went to see this because when I arrived at the theatre Arrival was the only movie that just started. I liked Jeremy Renner in other movies like The Town, so I thought I would watch this one. I was pretty disappointed and could not give moreI went to see this because when I arrived at the theatre Arrival was the only movie that just started. I liked Jeremy Renner in other movies like The Town, so I thought I would watch this one. I was pretty disappointed and could not give more than a 6. It seems he did not get enough acting in and even looked quiet at times like his lines were cut out. I don't see him in a romantic role either and the music was too overwhelming for me. It is an interesting idea but I don't believe the writing was really there, her flashbacks were predictable, and you knew what was going to happen. One of those films basically you know as the ones that rely on the CGI to get the ticket sales which is a losing concept to me.",
-      "review_date": "2016-11-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Sorry but I must have missed something here.... an alien culture that has the intelligence to travel millions of light years to our planet and they rely on us for translation and to communicate?",
-      "review_date": "2016-12-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Excellent movie! The jumps in time seem to make it somewhat hard to follow for some, if I can go by reactions I heard from people in the theater. It's a lot better than I expected going in. It' probably the best take on really differentExcellent movie! The jumps in time seem to make it somewhat hard to follow for some, if I can go by reactions I heard from people in the theater. It's a lot better than I expected going in. It' probably the best take on really different aliens I've ever seen. Heptapods, never heard that before. The space ships, the influencing of time, it's different all right. I understand some people being quite confused at the end of it all, but this is just not your generic X-files aliens movie. It's a movie really worth seeing, but you have to keep paying attention to the time jumps, which turn out to be flash-forwards instead of flashbacks, or you're going to be left quite bewildered at the end. If you're looking for something like Independence Day, then you're not going to get what you want. You have been warned.",
-      "review_date": "2016-12-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Arrival is a solid project that benefits not only from some great directing, but also from a strong plot that comes to genius conclusions, a strong performance from Amy Adams, and an undeniably outstanding score that will absolutely leave youArrival is a solid project that benefits not only from some great directing, but also from a strong plot that comes to genius conclusions, a strong performance from Amy Adams, and an undeniably outstanding score that will absolutely leave you in tears. I wouldn't be surprised if it was nominated for a lot of Oscars.",
-      "review_date": "2017-01-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nA rare type of Spielberg-Nolan style science-fiction drama full of metaphors that is steep in its specific themes told in a sense of realism. The film is an unusual discovery, it starts emotionally, moves in a deliberate pacing, slowly builds up a puzzle of complex paradox and ends up stunningly impactful, amplifying the questions of existential dilemma. It does not need any action sequences, it is all about life, language and unity that bring to the twisted concept of the overall plot development with several hints throughout the entire story, further surprising audiences to view it from different fascinating ways. Amy Adams gains respects for her brilliant performance as a believable thinker and expert communicator while her emotions are handled well in order to engage the entire structure of the film. The theme song \"On the Nature of Daylight\" in both the opening and ending of the movie, as well as scores composed by Johann Johannsson enhance the the atmosphere of the film especially the thrilling suspense of invasions, the horror moments during the contact and the emotional depth on life perception. The arrival of the extra terrestrial amazes viewers on how creatively a science fiction may diverge from its generic aspects and link to life - telling us that life is a journey without destination and to live as if the answer is, even if you have known everything about the future.",
-      "review_date": "2017-01-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was totally meant for me! \"Time\" is the most important thing to me and this movie hit it on the spot!!  People who are giving this movie a 5 or less is because they want a sci-fi to be action packed like Guardians of Galaxy orThis movie was totally meant for me! \"Time\" is the most important thing to me and this movie hit it on the spot!!  People who are giving this movie a 5 or less is because they want a sci-fi to be action packed like Guardians of Galaxy or Transformer.  THIS IS NOT IT!!  This is an adult movie who is looking for more thought provoking ideas and understanding.  The people who gave it low scores did NOT understand the premise of the movie...  Also, people who felt it wasted their time obviously missed the entire movie! I am giving it a perfect 10 because it had all of the elements of a great movie - DEEP STORY, PLOT, Character development, and etc.  People think slow equates to no action.  Action does not mean fast.  Because you can have a lot of action but it can be a really slow movie.   People who are looking for some Interstellar, Transformer, or some Alien gun slinging movie this is NOT it! If people are looking for a real story, love, and understanding of how time. This is a must see movie of the year!!  Amazing as a my girl said this movie was meant for me!",
-      "review_date": "2016-12-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Boring, boring, boring.  Worst Sci-fi ever. I want my money back!!!  This is what you get when a Millennial finds his parents LSD, trips out on it and produces a movie. I fell asleep three times!  It is unbelievable, boring, slow, slow, slowBoring, boring, boring.  Worst Sci-fi ever. I want my money back!!!  This is what you get when a Millennial finds his parents LSD, trips out on it and produces a movie. I fell asleep three times!  It is unbelievable, boring, slow, slow, slow and not logical.",
-      "review_date": "2016-12-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Have you ever discovered something that just captured your curiosity to the point where you wanted to learn everything about it? That's the effect Arrival had on me. Every new development filled me with a sense of childlike wonder and causedHave you ever discovered something that just captured your curiosity to the point where you wanted to learn everything about it? That's the effect Arrival had on me. Every new development filled me with a sense of childlike wonder and caused my interest in the film's otherworldly visitors to grow even deeper. Tensions understandably rise as twelve spacecrafts arrive across the globe and humanity races to find out why. It's far from an original set up for a sci-fi movie, but what sets apart this quest to discover extraterrestrial motives is the approach taken. You'll notice the familiar elements of human paranoia and governmental mistrust running in the background, but Arrival's main focus is on the establishment and discovery of communication. That is what makes all the difference.The imaginative and complex method of conveyance crafted for this film is nothing less than brilliant. It really sells the outer space lifeforms as real, intelligent creatures. Of course that is also helped by how good the film looks (minus Amy Adams' CGI spaghetti hair). The film's core idea of deciphering a dialect and written language unlike anything we know seems like something that would be an insurmountable challenge, but it reminds us that this has been done before when humans discovered each other living on completely different sides of the planet. Arrival's intelligent handling and understanding of linguistics makes what could have been a boring process something that is fascinating to watch unfold. The big reveal is one heck of a revelation. It causes the final leg of the film to take an interesting turn. While it goes off in a different and kind of strange new direction, it speaks to something so human that it's hard to not appreciate it. This is of course bolstered by the incredible performance from Adams. She's got other talented people alongside her in the cast, but it's really up to her to carry the movie. Something she does so exquisitely that the lack of even a nomination for an Oscar is baffling. Arrival is such a breath of fresh air for the sci-fi genre. It shows off a level of intelligence and believability that feels all too rare, and it manages to do so with the old \"are they friend or foe?\" approach that's been done so many times before. Something that speaks highly of Denis Villeneuve's ability and shows that apparently there are ways to mine new depth from even among the most overused concepts. In closing, Arrival is absolutely captivating and it might just be the best sci-fi film I've ever seen.",
-      "review_date": "2018-02-26",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 152
+    "title": "Arrival",
+    "rating": 8.2,
+    "release_date": "2016-11-11",
+    "genre": [
+        "Sci-Fi",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "summary": "When mysterious spacecraft touch down across the globe, an elite team is put together to investigate \u2013 including language expert Louise Banks (Amy Adams). Mankind teeters on the verge of global war as everyone scrambles for answers \u2013 and to find them, Banks will take a chance that could threaten her life, and quite possibly humanity.",
+    "critic_reviews": [
+        "Arrival is really Adams' film, a showcase for her ability to quietly and effectively meld intelligence, empathy and reserve.",
+        "Arrival works as mainstream entertainment, but includes hallmarks of the \u201c2001: A Space Odyssey\u201d/\u201cSilent Running\u201d era of artist-driven science fiction. It has Hollywood stars, but makes great effort to strip them of any false glamour. The film is tightly calibrated, but leaves things open to interpretation, for discussion on the ride home and beyond.",
+        "Although Arrival is about first contact with extraterrestrials, it says more about the human experience than the creatures from another world. This is a singularly powerful movie, without question one of 2016\u2019s best.",
+        "It's one of a handful of movies that have legitimately fooled me; not with an abrupt twist but a dawning awareness of where it's going thematically, how deeply and how distanced from sci-fi as usual.",
+        "Adams gives her best performance as a lonely woman who has to make a decision that will haunt her \u2013 though perhaps in a good way \u2013 for the rest of her life.",
+        "Arrival is such a beautiful and thought-provoking film that it almost singlehandedly makes up for every bad aliens-coming-to-Earth film you\u2019ve ever seen. Yes, even Independence Day: Resurgence.",
+        "Arrival is a beautifully polished puzzle box of a story whose emotional and cerebral heft should enable it to withstand nit-picky scrutiny. And like all the best sci-fi, it has something pertinent to say about today\u2019s world; particularly about the importance of communication, and how we need to transcend cultural divides and misconceptions if we\u2019re to survive as a species.",
+        "An intelligent, eloquent and stirring sci-fi that grips from start to finish, Arrival is up there with the year\u2019s best movies.",
+        "[A] truly remarkable film.",
+        "This is riveting, dizzying stuff from Villeneuve.",
+        "The extraordinary success of Arrival is that it combines its bravura style and grand sci-fi questions with tremendous emotional intelligence and a heart so full it\u2019s ready to burst.",
+        "That\u2019s the movie\u2019s greatest feint, though: Ultimately, it\u2019s far less interested in galactic destiny than the infinite, uncharted landscape of the human heart.",
+        "Arrival, the shimmering apex of Villeneuve\u2019s run of form that started back in 2010 with \u201cIncendies,\u201d calmly, unfussily and with superb craft, thinks its way out of the black hole that tends to open up when ideas like time travel, alien contact and the next phase of human evolution are bandied about.",
+        "It is intelligent, moving and wholly original.",
+        "Anchored by an internalized performance from Amy Adams rich in emotional depth, this is a grownup sci-fi drama that sustains fear and tension while striking affecting chords on love and loss.",
+        "A twisty, cerebral drama that just happens to involve aliens, Denis Villeneuve\u2019s film is a truly beguiling take on both the sci-fi canon and what, exactly, a grown-up Hollywood film is supposed to be.",
+        "Arrival makes a moving case that we\u2019ve only scratched the surface of what we think is possible \u2014 and what we define as intelligence.",
+        "Arrival is science fiction in the classic sense and a film of otherworldly ambition.",
+        "Arrival would be nothing without Adams.",
+        "I\u2019m not entirely convinced the ending is the perfect landing to everything that transpired before, but Arrival is not a linear adventure of the mind, and it is a film probably best seen twice.",
+        "So much of the pleasure of Denis Villeneuve\u2019s poignant science-fiction drama Arrival lies in watching Amy Adams figure things out.",
+        "Arrival puts Villeneuve, who first came to attention with \u201cIncendies,\u201d firmly in the first rank of filmmakers, a director capable of not just entertaining, but challenging. And the wide-eyed Adams, near the top of the list of the best actresses never to win an Oscar, delivers another riveting, melancholy and life-affirming performance that threatens to change that, maybe as soon as next February.",
+        "Adams, her face a reflection of conflicting emotions, is simply stellar in an Oscar-buzzed performance of amazing grit and grace. Without her, Arrival might be too cerebral to warm up to. With her, the film gets inside your head and emerges as something intimate and epic, a linguistics odyssey through space and time. It's the stuff that dreams are made of.",
+        "Adams\u2019s clear-eyed, open-minded doctor forces us to ask how much we\u2019re willing to communicate.",
+        "Arrival has come, like a visitor from the cosmos, to blow minds and break hearts.",
+        "Arrival isn\u2019t a visionary movie, an intellectual rebus or a head movie; it\u2019s pretty straight in some respects and sometimes fairly corny, with a visual design that\u2019s lovely rather than landmark.",
+        "What\u2019s remarkable about Arrival is its contemplative core\u2014and, of course, Ms. Adams\u2019s star performance, which is no less impassioned for being self-effacing.",
+        "For most of its running time, Arrival is entrancing, intimate, and moving \u2014 a sci-fi movie that looks not up at the stars but rather deep within.",
+        "It may be weaker in the resolution than in the setup, but that is an inbuilt hazard of science fiction, and what lingers, days after you leave the cinema, is neither the wizardry nor the climax but the zephyr of emotional intensity that blows through the film.",
+        "Arrival is a smart film, but it\u2019s not a cold or clinical one. Both the first and last scene brought me to the verge of tears.",
+        "Despite some imperfections, Arrival is a close encounter with the best of intelligent, thoughtful science fiction.",
+        "Arrivals becomes an unexpectedly moving rumination on life\u2019s bigger questions by its end. While it looks to other worlds, its main pleasure turns out to be the most intimate of questions.",
+        "Arrival is a big, risky, showy movie which jumps up on its high-concept highwire and disdains a net. And yes, there are moments of silliness when it wobbles a little, but it provides you with spectacle and fervent romance.",
+        "A deeply soulful film, shot through with loss, regret, and hope. Like almost all great sci-fi films it\u2019s less about the alien unknown than it is about the human condition.",
+        "Muted, measured and meditative, Arrival brings taste and restraint to a genre in the midst of a mini golden age: It comes in peace.",
+        "Shot under gray skies and in artful shadows by cinematographer Bradford Young, scored to wickedly disorienting music by Oscar-nominated \"Sicario\" composer Johann Johannsson, Arrival will cast a spell on some while merely discombobulating others. Right there, I'd say that indicates it's worth seeing.",
+        "With its icy symphonic score (courtesy of Iceland\u2019s Johan Johansson) and a palette of rainy-day colors, Arrival is at once majestic and melancholy. It\u2019s a grand endeavor, and Adams, at the center of it all, brings pluck and smarts and a deep-seated sorrow to her role. This is her movie, no doubt.",
+        "It\u2019s a movie designed to simultaneously challenge viewers, move them and get them talking. For the most part, it succeeds.",
+        "Denis Villeneuve ponders the ramifications and possibilities of a potential first-contact between human beings and an advanced alien race and comes up with a sporadically incoherent film, but also some interesting ideas.",
+        "It\u2019s not impossible to give audiences both a puzzle-box narrative and an exploration of life choices and what it means to be human, but the balance just doesn\u2019t play here.",
+        "Arrival is a science fiction confection that wants to be smart. But the truly fascinating material that would have made this a very good movie rather than a pretty decent one likely ended up on what they used to call the cutting-room floor.",
+        "Why did Villeneuve and the screenwriter, Eric Heisserer, let the grade-B military melodrama run away with the story?",
+        "Arrival challenges viewers to a brainier sci-fi conundrum than they're used to, which makes for an intellectual breath of fresh air.",
+        "Adams gives a nicely polished, muted performance: She keeps the story grounded when the ideas Villeneuve is striving for threaten to get too lofty. And the picture is intelligently and effectively crafted, one of those enterprises where the cinematography, sound design and score, as well as the special effects, melt into a seamless, organic whole.",
+        "Adams draws on her gift for making each and every moment quiver with discovery. The actress is alive to what\u2019s around her, even when it\u2019s just ordinary, and when it\u2019s extraordinary the inner fervor she communicates is quietly transporting.",
+        "Though the film is not more than sum of its parts, well, those parts are pretty great. You just wish they belonged to a slightly deeper film.",
+        "The film's searching images counterpoint the hyper-articulate methodology of its characters' sense of imbalance and uncertainty.",
+        "Watching it, I was excited that such a strange piece of science fiction got made\u2014and disappointed to realize that it is strange in just about all the ways that Interstellar is. But while even Nolan\u2019s detractors couldn\u2019t deny his skill at manufacturing awe, the primary emotion that Arrival evokes is puzzlement.",
+        "To enjoy the film's arresting musings on language, time and how much we can ever understand others, you'll have to close your eyes and ears to the wealth of schlocky hokum surrounding them.",
+        "Unless there\u2019s something truly momentous going on, I prefer my sci-fi to be a lot more weightless than weighty.",
+        "The best science fiction leaves you with questions and ideas to ponder. Arrival is the sort of superficially profound movie that initially seems deep and weighty but stops making sense the moment you put down the bong.",
+        "\"Enemy\" and \"Sicario\" were unspeakable disasters, and Arrival, the director\u2019s latest exercise in pretentious poopery, gives me every reason to believe I have parted company with Denis Villeneuve for good."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Just like Villeneuve's other films, this one has proved that he is one of the greatest director nowadays. The way that he approaches a common theme in movies is almost revolutionary.",
+            "review_date": "2016-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Denis Villeneuve is a talented and promising filmmaker, 'Prisoners' being an obvious benchmark. While I'm still looking forward to his Blade Runner sequel I have to say Arrival was a huge disappointment. Amy Adams great performanceDenis Villeneuve is a talented and promising filmmaker, 'Prisoners' being an obvious benchmark. While I'm still looking forward to his Blade Runner sequel I have to say Arrival was a huge disappointment. Amy Adams great performance notwithstanding, this was a ponderous, superficially profound movie that ultimately goes nowhere.",
+            "review_date": "2016-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As other have commented, Villeneuve is a good director but this is a step in the wrong direction for him. I hate to use the B word {boring}, but Arrival is a real endurance test even for fans of serious, thought provoking movies.",
+            "review_date": "2016-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An 'alien' film to leave you totally alienated! This is so self-important and ponderously dull that it makes Ingmar Bergman's depressive dramas seem like comic farces. The screenplay is all **** and pretension in which Amy Adams' languageAn 'alien' film to leave you totally alienated! This is so self-important and ponderously dull that it makes Ingmar Bergman's depressive dramas seem like comic farces. The screenplay is all **** and pretension in which Amy Adams' language specialist amazingly deciphers the black ink vocabulary of the extra-terrestrials in record breaking time. A feat that only ever happens in the movies. The creatures themselves look like a cross between giant squids and an elephant's foot, and it's no exaggeration to state that their presence is underwhelming. The first ten minutes promise much but we never get that film. Instead as soon as the alien pods arrive degeneration in to boredom is immediate and sleep inducingly effective. Praised by the highbrow critics, make no mistake this is alarmingly over rated. A totally confused and uninteresting example of the sci-fi genre. Arrive? It certainly did. However, I couldn't wait to leave!",
+            "review_date": "2016-11-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nNothing here that hasn't been done a thousand times. Simple time loop paradox. If you're looking for a movie about aliens, this is not it. It really has nothing to do at all with aliens. It's a weak tug at heart strings depicting a story about a parent that loses a child. The chemistry between the two main actors is non existent. Just a terrible waste of 2 hours.",
+            "review_date": "2016-11-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not great. As others have said, it is slow. Also, it feels like they just did a wikipedia search for \"linguistics\" and then wrote a script around the first paragraph. I don't see this as a cerebral sci fi film at all. More of a cheesy, slog-fest.",
+            "review_date": "2016-11-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival is being called one of the best Science Fiction films in years. It is one of the best rated and reviewed films of 2016, and is drawing comparisons to Close Encounters of The Third Kind, but I have a question, did they watch the sameArrival is being called one of the best Science Fiction films in years. It is one of the best rated and reviewed films of 2016, and is drawing comparisons to Close Encounters of The Third Kind, but I have a question, did they watch the same film that I did? I wasn't crazy about Close Encounters, but that movie was leaps and bounds ahead of this one. Twelve alien crafts land in random places all across the planet, and the people are in a panic. Some countries react with hostility, but the U.S. Government decides to act cautiously (yeah right), and send Dr. Louise Banks (Amy Adams), the best linguist they have, to figure out a way to community with the aliens. The aliens, turn out to be giant octopus, whose language turns out to be ink that they squirt into the air. This movie features flashbacks and flash-forwards, that seemingly make no sense, until the end when you finally figure out what they mean and once you do, you realize that you just wasted two hours of your life. If that wasn't bad enough, the film moves at an absolute snails pace, I mean you could take everything that actually happened in the film and squeeze it into about twenty minutes. The rest is just people talking to each other about the same damn thing over and over again. Trying to figure out the same thing over and over again. Worrying about the same things over and over again. The characters have no personality whatsoever, and you might think that it's one of those slow moving weird films that all comes together in an amazing ending, but no, it doesn't. Once you can see the whole picture, as one lady in the theater so eloquently shouted out, \"really, that's it, that was so stupid.\" Her uncontrolled outburst really sums up this entire film. Honestly I think the slower and more artistic a film is, the more the critics love it, but I am one critic who isn't fooled by great actors and emotional music, this isn't the best film of the year, this is the biggest turd of the year, and it should be avoided at all costs!",
+            "review_date": "2016-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "boooooring. As a big fan of Sicario and Prisoners i expected better. paint dries more entertainingky than this. like watching a kid draw with an etch a sketch for 2 hours. Even Forrest Whitaker sucked. Jeremy Renner often sucks, no surpriseboooooring. As a big fan of Sicario and Prisoners i expected better. paint dries more entertainingky than this. like watching a kid draw with an etch a sketch for 2 hours. Even Forrest Whitaker sucked. Jeremy Renner often sucks, no surprise there. it felt like they were afraid to wake up the audience.",
+            "review_date": "2016-11-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie preview showed aircraft flying overhead.  This was the only action in the entire movie.  A low budget, slow, out of focus movie.  Watching paint dry has more action.  A rare film that wanted to make me demand my money back.",
+            "review_date": "2016-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This was on my must see movie list.  The movie starts out very slow, then gets slower until finally I started to doze off. The movie makes absolutely no sense. There's no suspense or any action. Other than Amy Adams performance the rest ofThis was on my must see movie list.  The movie starts out very slow, then gets slower until finally I started to doze off. The movie makes absolutely no sense. There's no suspense or any action. Other than Amy Adams performance the rest of the cast is nothing as they mailed their parts in. The ending is beyond ridiculous. Avoid unless you have insomnia. You've been warned.",
+            "review_date": "2016-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Viewer be warned.  Preview contains all the \"excitement\" of this supposedly \"clever\" sci-fi movie (very sad).  Actually, this has been grossly overhyped by professional film critics.  I would like to have my money back if possible.  Dark,Viewer be warned.  Preview contains all the \"excitement\" of this supposedly \"clever\" sci-fi movie (very sad).  Actually, this has been grossly overhyped by professional film critics.  I would like to have my money back if possible.  Dark, slow, incoherent plot that challenge you to stay awake.  Tried my very hardest to enjoy this movie, but failed to do so.  One film critic graciously rated this as: wait until it comes out in DVD.  My vote: skip this movie and spend your hard earned money elsewhere.  In summary, I feel scammed by the professional film critics, similar to the many fake reviews on Amazon.",
+            "review_date": "2016-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What a moving film. A first contact movie that makes you think rather than just relying on the latest CGI effects. They enhance rather than carry the movie.Amy Adams is perfect as the interpreter. All her emotions are there to see.If movieWhat a moving film. A first contact movie that makes you think rather than just relying on the latest CGI effects. They enhance rather than carry the movie.Amy Adams is perfect as the interpreter. All her emotions are there to see.If movie length CGI battles are your thing then this probably isn't the movie for you.It's how I would imagine First contact would be like.",
+            "review_date": "2016-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There are generally two different types of \"good\" sci-fi in my book: Straight forward that uses the film's setting to its advantage (Aliens, Terminator 2), and cerebral which makes the viewer think about new ideas and old ones in new ways.There are generally two different types of \"good\" sci-fi in my book: Straight forward that uses the film's setting to its advantage (Aliens, Terminator 2), and cerebral which makes the viewer think about new ideas and old ones in new ways. Arrival falls into the latter.It's a little slow for multiple viewings, but it poses an interesting idea and a mystery that you'll be as eager to figure out as the characters.",
+            "review_date": "2018-02-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nI don't think this movie is about that \"what makes us human\". Personally I think it is about creating your own reality. The whole movie developes around the ability of a character to understand a language. In a way, Adams' character is a child (humanity) learning to speak. She has to go through all the tribulations of learning a new language, a powerful one at that. The premise is quite interesting and it took me two views to get it: Your language (the way you express what you think) determines your reality. They even mention it at the beginning of the movie, with the Sapir-Whorf theory. This is by far a very metaphysical proposal, and a very adecuate one at that, one that has been told to us by great master of ancient (\"For by your words you will be justified, and by your words you will be condemned\"). In a way, language IS reality, it is the only way we have to describe it and thus create it. So it would make sense that a more powerful language would create a different, more powerful reality. In the movie, learning the aliens' language would opne the doors of time and space for you, and this can be wither a weapon (as first understood by humans) or a gift, as later realized by Adams. Of course the ability to thread between past, present and future could be a powerful weapon, or a great gift. Once she realizes this, it is quite interesting that she still chooses to have her baby, aware of the outcome, but the most important choice she makes, while having the ability to visit the past or future, is to live in the present. Powerful message indeed. So now you know, choose your words carefully.",
+            "review_date": "2020-03-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An intriguing film with an interesting concept of first  contact with aliens. Its only drawback is that an IQ 80+ is required to enjoy a movie without an abundance of shootings, explosions, and naked boobs. Otherwise, you will write onAn intriguing film with an interesting concept of first  contact with aliens. Its only drawback is that an IQ 80+ is required to enjoy a movie without an abundance of shootings, explosions, and naked boobs. Otherwise, you will write on metacritic that you were bored \"cuz here iz nut enugh acteon, dood!\"",
+            "review_date": "2020-06-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best sci-fy films. One of the best and innovative directors. Predictable result.",
+            "review_date": "2021-10-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The most intelligent film ever.The best Sci-Fi film ever.The best film of Denis Villeneuve.\nIt's the best multisensorial experience; how script, directing, cinematography, editing, sound, production design, visual effects and performancesThe most intelligent film ever.The best Sci-Fi film ever.The best film of Denis Villeneuve.It's the best multisensorial experience; how script, directing, cinematography, editing, sound, production design, visual effects and performances strike a great balance one each other to breakthrough a new way to watch and understand the pass time.",
+            "review_date": "2021-12-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival is one of the best sci-fi movies ever made. Everything from Amy Adams'performance to the design of the ships, the aliens, the concept of the time, and how we perceive it, is extraordinary. Denis Villeneuve is a genius.",
+            "review_date": "2022-02-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is something extremely rare among science fiction movies.  It is thoughtful, intelligent and well-done science fiction at its best.  There are no space battles or super heroes or wookies.  The aliens don't want to eat us.  In factThis movie is something extremely rare among science fiction movies.  It is thoughtful, intelligent and well-done science fiction at its best.  There are no space battles or super heroes or wookies.  The aliens don't want to eat us.  In fact the point of the movie is to figure out why the aliens have come in the first place.  I don't want to gush but I love this movie.",
+            "review_date": "2021-07-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is quite an eery film - I felt it seemed almost more like a documentary than a sci-fi drama film at one point, with a narrator explaining to the viewer what had been learnt about the mysterious new beings from outer space who haveThis is quite an eery film - I felt it seemed almost more like a documentary than a sci-fi drama film at one point, with a narrator explaining to the viewer what had been learnt about the mysterious new beings from outer space who have apparently taken up residence in a number of locations on Earth. I liked the nostalgic flashbacks shown, a reminder of childrens curiosity and wonder when faced with seeing certain things for the first time. Its a relatively atmospheric film, with looming music used in the background, not dissimilar to that present in other previous sci-fi films, most notably Close Encounters of the Third Kind. It also reminded me somewhat of Jodie Foster in the film Contact from the 1990s.Its a somewhat deep film that makes you think about how threats are handled, at a global level, the responses by various governments and the like. If anything, I found it refreshing that in this instance, the US didn't exactly go in 'all guns blazing' and I appreciated that the main character, Louise Banks, tries very hard to understand and see things from the unknowns' point of view. I don't think I can say much more but suffice to say, I recommend this film.",
+            "review_date": "2021-11-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great plot, soundtrack, art, characters, actors and everything you can imagine. The director really gave hints in every moment and used a typical cinema technique to hide the plot.",
+            "review_date": "2021-11-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amy Adams gives a superb performance in what could be called \"Independence Day with a Brain.\" Denis Villeneuve delivers an intentional methodically paced script with the sort of intelligence, nuance, and confidence that feels wholly refreshing.",
+            "review_date": "2022-03-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie a huge disappointment. It's boring, the plot is a joke, and it tries to very deep and philosophical even though by the end of the movie, you don't care about the characters or their troubles. A waste of time.",
+            "review_date": "2017-02-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nReally amazing movie with great visuals,the characters in the movie were described beautifully and intelligently.Arrival in my opinion did everything right what other alien invasion movie ruins,it is a perfect response to bad movies",
+            "review_date": "2020-04-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival is a beautifully complex film that centres on the role of humanity in this world rather than the \"arrivals\". With this, the movie brings a new look to the sci-fi genre, as it deals with themes and emotions that many can relate to inArrival is a beautifully complex film that centres on the role of humanity in this world rather than the \"arrivals\". With this, the movie brings a new look to the sci-fi genre, as it deals with themes and emotions that many can relate to in the modern world. Arrival proves to be one-of-a-kind and one of the best in the genre, not just for pure action or the cliches we tend to see in such movies, but for its creativity and thought-provoking ideas it presents to the viewer. It is a movie that does require utmost attention, however, the experience is truly rewarding, as director, Denis Villeneuve continues his run of exceptional movies. Amy Adams, who plays a linguistic professor, leads the movie with a strong performance, yet playing a vulnerable character who succumbs to the events that unfold. The 'arrivals' themselves are wonderfully designed and their language particularly is a topic in on itself. Crafted with great cinematography and moving music, this was a deserved Oscar-nominated film, and truly one for the ages.",
+            "review_date": "2017-07-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is not for everyone. If you wanted a science fiction action blockbuster then you will be disappointed. However it is one of the most brilliant plots in scifi. I won\u2019t spoil the details but once you understand the twist it\u2019s justThis movie is not for everyone. If you wanted a science fiction action blockbuster then you will be disappointed. However it is one of the most brilliant plots in scifi. I won\u2019t spoil the details but once you understand the twist it\u2019s just magnificent. It is a movie worth to discuss with friends and very memorable because it does something completely different. The ideas for follow up stories are basically endless. It is based on the book \u201cThe story of her life\u201d if I am correct. Also all actors were the right choices for their respected rolls. I think this will be a forgotten masterpiece because it is not mainstream enough. Sorry for not going in in details, but it will ruin the movie. Think about the twist in \u201cThe sixth sense\u201d. If someone spoiled it for you the movie would be less good (or a lesser experience?).",
+            "review_date": "2019-12-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I finally got around to seeing this one and I am so glad I did!  An interesting premise and cerebral plot more focused on language and geopolitical relations than the aliens themselves.  The movie also respects the science that it dives intoI finally got around to seeing this one and I am so glad I did!  An interesting premise and cerebral plot more focused on language and geopolitical relations than the aliens themselves.  The movie also respects the science that it dives into and doesn't use it as a simple plot contrivance like many action sci-fi movies do.  I was left with a feeling of hope and intrigue after finishing it.",
+            "review_date": "2020-06-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival is one of my favorite Sci Fi movies of all time.The movie doesn't need flashy action sequences or superficial Drama to deliver a thoughtful and emotional experience.Even the \"plot twist\" if you may call it that is in clear serviceArrival is one of my favorite Sci Fi movies of all time.The movie doesn't need flashy action sequences or superficial Drama to deliver a thoughtful and emotional experience.Even the \"plot twist\" if you may call it that is in clear service of the story and not just a plot twist for the sake of it.Arrival manages to connect with me every time I watch it. I think this is some of the best that Sci Fi has to offer.",
+            "review_date": "2020-04-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Phenomenal movie. I wouldn't have watched this movie if I hadnt known about the intriguing ending (yes I was spoiled but I don't mind). I've never been a fan of Amy Adams in Superman or Jeremy Renner in Marvel but the story, delivery and slowPhenomenal movie. I wouldn't have watched this movie if I hadnt known about the intriguing ending (yes I was spoiled but I don't mind). I've never been a fan of Amy Adams in Superman or Jeremy Renner in Marvel but the story, delivery and slow pacing really punches this movie high. I wasn't disappointed at all. It has never a dull moment and there are many parts I can rewatch many times just to think about how they unfold. Lots of small details to look out for too like Abbot's actions before something happens. This movie is right up there with District 9, Contact, The Martian and Interstellar.",
+            "review_date": "2019-12-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best thriller/sci-fi film I have ever seen in my life. The work behind the camera by Denis Villeneuve is majestic. The concept behind the origin and the meaning of the \"aliens\" is absolutely original in every shape. The work made by JoeThe best thriller/sci-fi film I have ever seen in my life. The work behind the camera by Denis Villeneuve is majestic. The concept behind the origin and the meaning of the \"aliens\" is absolutely original in every shape. The work made by Joe Walker in the sound editing with the beautiful shots made by Brandon Young gave that little touch to the film to make it feel smoother.",
+            "review_date": "2020-04-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "After seeing Arrival, I understand my dog better. So for all owners of a young dog, the movie is quite worth your while ;)Okay, this is a strange intro to my review but fits. The film is all about communications and different senses. And itsAfter seeing Arrival, I understand my dog better. So for all owners of a young dog, the movie is quite worth your while ;)Okay, this is a strange intro to my review but fits. The film is all about communications and different senses. And its execution is great.The movie is a very intelligent one that sells its seemingly impossible message quite plausibly. It's also a slow and quite movie. Those craving for lots of actions and explosions maybe should elsewhere.And miss out on an impressive experience, of course.",
+            "review_date": "2018-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a science fiction movie about aliens visiting our planet. Or rather about attempts the mankind takes trying to establish a contact with aliens.The movie is done quite professionally, and I liked it's cinematography and sound track.This is a science fiction movie about aliens visiting our planet. Or rather about attempts the mankind takes trying to establish a contact with aliens.The movie is done quite professionally, and I liked it's cinematography and sound track.There are good actors starring there (Amy Adams, Jeremy Renner, Forest Whitaker), and they deliver adequate performance. Most of the movie kept me interested. Sometimes pseudo-philosophical lingo carried me away. I think the movie was too long, and the script has not been thought through, leading to nowhere. Which is a shame, it had a lot of potential.",
+            "review_date": "2016-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival is intelligent, dramatic, scary and heartfelt from beginning to end. The main character's quest to understand the mystery behind the alien's purpose is extremely engaging. With each twist and turn the film kept me begging to know more.",
+            "review_date": "2016-12-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It\u2019s the end of the world as we know it! A much discussed and sometimes feared story has come true which, honestly, always sounded a bit ridiculous to actually happen in the real world.I am, of course, talking about this new sci-fi dramaIt\u2019s the end of the world as we know it! A much discussed and sometimes feared story has come true which, honestly, always sounded a bit ridiculous to actually happen in the real world.I am, of course, talking about this new sci-fi drama \u201eArrival\u201c where mankind is greeted by huge alien spaceships in the sky who seem to be coming in peace\u2026 wait, did you think I was referring to Trump becoming the next leader of the free world?But yeah, these two events have a very similar plot summary so it\u2019s only fitting that I had the chance to experience them in the very same morning.Directed by Denis Villeneuve \u2013 the man behind \u201ePrisoners\u201c, mindbending \u201eEnemy\u201c with Jake Gyllenhaal, \u201eSicario\u201c and currently filming \u201eBlade Runner\u201c sequel \u2013, one could expect \u201eArrival\u201c to be a thinking person\u2019s sci-fi. And one is not wrong.It is a 116 minute slow-burner all heavy on atmosphere and light on explosions or any quick thrills. If you wish a quick reference to any recent well-known movies, the result is a bit like Christopher Nolan\u2019s \u201eInterstellar\u201c crossed with Terrence Malick\u2019s \u201eThe Tree of Life\u201c. Robert Zemeckis\u2019s \u201eContact\u201c (1997) would not be very far either, because \u201eArrival\u201c also focuses on fragile yet brave female protagonist whose quality acting is one of the main pillars carrying the whole experience. The other one would be overall atmosphere, deliciously dark and ominous. Some will like it, others will probably find it depressing and maybe a bit slow for their taste.I haven\u2019t read the award-winning short story by Ted Chiang that \u201eArrival\u201c is based on. Wikipedia says that the major themes explored are determinism, language and Sapir-Whorf hypothesis which sounds mighty dry and mostly sci-fi geek friendly. So it\u2019s nice to witness movie makers adding some mainstream appeal which comes mostly in the form of Amy Adams\u2019s great performance. She truly holds the movie together as a woman going where no-one has ever gone before. You will believe her hesitations, the tears, and also the silent determination when the going gets tough. This kind of role is tricky because of the need to play it out mostly alone, often in close-up where every detail and tone has to be clearly seen and felt. Think Matthew McConaughey's mighty turn in \u201eInterstellar\u201c but decidedly less showoffish.So it\u2019s mostly Adams\u2019s one-woman-show, and a quite rare chance to see her doing something memorable and worthwhile on screen. She accepts too many decorative pretty girl roles, even in more ambitious projects. The all-male supporting cast is good too, especially star players such as Jeremy Renner and Forest Whitaker. As stated above, I don\u2019t know the original story but \"Arrival's\" message is rather spiritual and not \"dry\" at all. Essentially it is a reminder that mankind\u2019s future depends heavily on our ability to understand and connect to the world, rather than attacking and overpowering everything we find foreign or downright alien. It\u2019s a call to rise above the inflexible ego-based mind the western society so dearly values, and to find balance with our intuitive side.Overall, \u201eArrival\u201c is a good movie although I wasn\u2019t especially happy with the final act which seemed rushed. It felt like somebody grew impatient near the end and wanted to add something \u201eimpressive\u201c just in case the people were not happy with this slow-moving tale. I do not want to talk about it here in detail but, for me, it lessened some of the movie\u2019s overall impact. Mostly because there was not enough time to play it out as properly as the stuff that had come before.But yeah, if you are into more intelligent sci-fi and don\u2019t prioritize explosions, \u201eArrival\u201c is good to go.",
+            "review_date": "2016-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival is an excellent offer by sci-fi director Denis Villeneuve, and I think he is going to be our generation's great sci-fi director. A beautiful script that makes this alien visit so personal and yet so grand at the same time, ArrivalArrival is an excellent offer by sci-fi director Denis Villeneuve, and I think he is going to be our generation's great sci-fi director. A beautiful script that makes this alien visit so personal and yet so grand at the same time, Arrival plays like a parable about communication and the human condition. Amy Adams and Jeremy Renner give GREAT performances, and Villeneuve's shots are nothing sort of beautiful. People who are not science fiction fans might have difficulty getting into Arrival fully, but once you're in, YOURE IN!",
+            "review_date": "2017-11-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Dialectics, metaphysics and anthropology are sciences that are structured by a simple and complex tool: language. And that's what the pelucla is about, to build, through communicative language, space, mind, time and the elements that surroundDialectics, metaphysics and anthropology are sciences that are structured by a simple and complex tool: language. And that's what the pelucla is about, to build, through communicative language, space, mind, time and the elements that surround us. All with a loose but useful anti-war discourse. A wonderful movie from start to finish.",
+            "review_date": "2018-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I will put this movie one of the best Sci-Fi movies, same level with Interstellar. The eerie atmosphere and mystery kept me the edge of my seat. Also the scenes of the movie is beautiful and gorgeous and so is the soundtrack. Amy Adams? SheI will put this movie one of the best Sci-Fi movies, same level with Interstellar. The eerie atmosphere and mystery kept me the edge of my seat. Also the scenes of the movie is beautiful and gorgeous and so is the soundtrack. Amy Adams? She nailed it.",
+            "review_date": "2019-03-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nWhat humanity needs is to strive for a common goal. I love science fiction because it can paint somewhat realistic scenarios like ARRIVAL, in which our planet is saved by extraterrestrial intervention. But more real than our first alien contact is the way ARRIVAL depicts a planet divided by invisible borders and nations unwilling to cooperate. God I love this movie.",
+            "review_date": "2019-03-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you like movies like Contact, or Interstellar, you will love this one. Don't want to say too much, just...MINDBLOWING",
+            "review_date": "2021-03-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Unlike other sci-fi extra-terrestrial first contact films, Arrival is much slower paced. It focuses on contemplation, thought rather than action. That is not a bad thing, and in fact bodes well for the tone. It manages to be both suspensefulUnlike other sci-fi extra-terrestrial first contact films, Arrival is much slower paced. It focuses on contemplation, thought rather than action. That is not a bad thing, and in fact bodes well for the tone. It manages to be both suspenseful and intriguing, though it has the potential to expect more from its audience. I see many similarities between Villeneuve and Christopher Nolan; both of whom create visually striking scenes with a deep story to back it up.",
+            "review_date": "2017-03-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Perhaps perfect in its writing and direction and utterly dissimilar to any of its alien-themed predecessors. Arrival is smart, but slow and wholly touching and exciting so.",
+            "review_date": "2019-07-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In his first foray into sci-fi, Villeneuve's lofty ambitions are as over-calculated as they are under-executed. Arrival is far from the promised humanist thriller, coming across as a wannabee Nolan thinker, only less coherent and moreIn his first foray into sci-fi, Villeneuve's lofty ambitions are as over-calculated as they are under-executed. Arrival is far from the promised humanist thriller, coming across as a wannabee Nolan thinker, only less coherent and more pretentious. After the abominations of Enemy and Sicario, this may just be strike 3 for Denis.",
+            "review_date": "2017-02-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was so dull that I\u2019d watch Barney Reruns while eating whatever I can find in the garbage bin rather than sit through all two hours of this severely underwhelming story again.",
+            "review_date": "2017-11-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival is a sci-fi film only in presentation, as the film explores deeper themes of human communication and aggressiveness. While Arrival\u2019s initial presentation may seem jarring and somewhat flawed, as the movie progresses and the twist isArrival is a sci-fi film only in presentation, as the film explores deeper themes of human communication and aggressiveness. While Arrival\u2019s initial presentation may seem jarring and somewhat flawed, as the movie progresses and the twist is revealed, the editing choices and the pseudo-confusing sequencing end up contributing to the movie's meaning as a larger whole. Arrival explores various linguistic and psychological theories and takes them to an extreme, even using them as the crux for its storytelling. While it does benefit the viewer to be familiar with psychological concepts, especially linguistic determinism, the film does a good job explaining the fundamental concepts the story is based upon. Arrival is not only a cautionary tale but also a hopeful one. Arrival purports that through cooperation and coordination, i.e. through avoiding competition, a future which benefits more to a greater degree can be achieved. In this way, Arrival is a greatly anti-capitalist film presented in a widely digestible way. Villeneuve is a highly-skilled director, and, with Arrival, he shows that he can blend genres and excel while doing it.",
+            "review_date": "2020-05-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was fantastic. Villeneuve's direction was beautiful, it just reminded us that he's one of the greatest directors of our generation.",
+            "review_date": "2020-08-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With no doubt, one of the best movies of the decade, far from the typical Hollywood script.",
+            "review_date": "2021-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Tremendously overrated. It is a good movie, and has very good special effects, but it did not deserve a best picture nomination. At best it is forgettable.",
+            "review_date": "2017-03-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This writer gets no cred on the street I live on. Read \"Story of your life\" by Ted Chaing. Get real with yourself. Look in the mirror dogdamnit.",
+            "review_date": "2018-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "First time you watch it: 8/10.Second time: 10/10, hands down. A true masterpiece.",
+            "review_date": "2022-03-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I personally think it is a very good video, it nicely presents how communication with a foreign species could take place.  nicely done!",
+            "review_date": "2022-03-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What initially seems like a sci-fi film about an alien takeover is really the starting point to explore deep themes of unification, connection, and the unique emotional experiences that bridges us as humans beings which transcend time andWhat initially seems like a sci-fi film about an alien takeover is really the starting point to explore deep themes of unification, connection, and the unique emotional experiences that bridges us as humans beings which transcend time and space. A beautiful, moving, and complex exploration of nearly spiritual themes of the human experience. The aliens are really just a way in but it's less about them and more about us. Great movie. Loved it!",
+            "review_date": "2016-12-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This one is getting reviewed higher than I believe it deserves, so I will reply.  I love Denis Villeneuve's other movies, and the cinematography and general quality of this one is consistent.  We get lost in being too philosophical andThis one is getting reviewed higher than I believe it deserves, so I will reply.  I love Denis Villeneuve's other movies, and the cinematography and general quality of this one is consistent.  We get lost in being too philosophical and digging for a big philosophical point, but never really finding it, I felt. Simple as that.",
+            "review_date": "2016-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I continue to think about this movie days after viewing it. Its themes resonated with me and I found it to be thought very provoking as well as very engaging.",
+            "review_date": "2017-01-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The aliens have returned. This time in cool-looking, mysterious crafts that hover above the earth in 12 places. Amy Adams is the expert linguist (with a troubled past?) who's brought in to try to establish communications with the mysteriousThe aliens have returned. This time in cool-looking, mysterious crafts that hover above the earth in 12 places. Amy Adams is the expert linguist (with a troubled past?) who's brought in to try to establish communications with the mysterious creatures. This film's concepts for otherworldly design are intriguing, but after seeing the film, the reason for their visit is still hazy. While there's lots of enticing set up, the proceedings move slowly to a repetitive and frustrating crawl before it's over. To make matters worse, the ending may leave you flummoxed. (Some internet research helped explain it.) While the premise is certainly fascinating, the dwindling pace and lack of much tension results in a less-than-satisfying outcome to this untraditional extraterrestrial narrative.",
+            "review_date": "2016-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "wow.  record breaking boring for an alien movie.  disappointing from top to bottom.  almost unwatchable.  pretentious, slow, dry.  i seriously thought of asking for my money back on the way out.  sheesh.",
+            "review_date": "2016-11-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Sci-fi once again shows it's hope for humanity. Excellent film that left me with plenty to think about. Don't expect laser blasting space battles; it's a movie about us humans and our ability to progress as a species.",
+            "review_date": "2017-02-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nUltimately a boring yarn that resolves on a 'twist' that a presumed flashback is actually a flash forward.Dull and ambiguous but lacking in mystery. Flawed.",
+            "review_date": "2016-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Dealing with heady ideas on an intimate scale, Dennis Villenueve's Arrival is an emotionally rewarding, intelligent, beautifully acted and gripping sci-fi film that isn't afraid to dispose of the generic conventions of a modern blockbuster inDealing with heady ideas on an intimate scale, Dennis Villenueve's Arrival is an emotionally rewarding, intelligent, beautifully acted and gripping sci-fi film that isn't afraid to dispose of the generic conventions of a modern blockbuster in favour of a more slow-burning, cerebral take on the arrival of aliens.",
+            "review_date": "2017-01-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As a \u201cthought-provoking\u201d movie, Arrival is over-rated drivel.  Amy Adams is a good actor, and she does yeoman\u2019s work here, but she breaks no new ground.   The movie is a \u201cFail\u201d almost every other level.  Forest Whitaker is wooden, and TheAs a \u201cthought-provoking\u201d movie, Arrival is over-rated drivel.  Amy Adams is a good actor, and she does yeoman\u2019s work here, but she breaks no new ground.   The movie is a \u201cFail\u201d almost every other level.  Forest Whitaker is wooden, and The Notebook like story within a story is lame.Amy Adams plays Dr. Louise Banks, a linguist, trying to figure out how to speak to aliens that have arrived at earth in dark, giant, scary looking, pods that look like slag. The aliens have no spoken or alphabet based written language.   Instead, the aliens converse using ink blots (which look like the stain that a wine glass might leave on a cardboard coaster, and made me wonder if the writer came up with the whole idea while sitting at a bar.)  Equally boring and conventional are the aliens.  (Why do aliens always seem to have squid-like bodies?)Dr. Banks is apparently the only gifted linguist left in the world, and the gov\u2019t seeks out her expertise to the exclusion of all others.  (Ugh!)  Dr. Banks speculates that the aliens are so advanced that they have no apparent way to communicate with humans, and thus it is up to the humans to figure out how to communicate with them.  (Groan!)  For Kumbaya reasons, the aliens have split the message they want to convey to the people of earth into 12 parts, and use 12 different space craft to deliver it to 12 different populations across the earth. (Ay Yi Yi!)  Of course, the reaction of earth people is to go loot Best Buy and then try to blow up the aliens.There is a story within the story about time travel (Oh no!) and Amy Adams daughter who, we learn early on, has died from some rare disease.  This is supposed to give the movie its heart, but when you separate out the two movies halves, neither part has enough weight to give the movie any real substance.  As far as director Denis Vileneuve goes, I liked his work in Sicario.  Arrival is a step backwards.",
+            "review_date": "2016-11-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Being a sci-fi buff I was anxious to see this film. It was not all I hoped it would be. Repeated scenes over & over lost the interest of the audience as I could feel. The acting was average and the sub plot was difficult to follow. JustBeing a sci-fi buff I was anxious to see this film. It was not all I hoped it would be. Repeated scenes over & over lost the interest of the audience as I could feel. The acting was average and the sub plot was difficult to follow. Just couldn't rate it as some have.",
+            "review_date": "2016-11-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Look, if you want the Hollywood version with explosions and shooting watch Edge of Tomorrow, which is actually a good movie also. Arrival is an intelligent and beautiful movie, simultaneously a story about the meaning of communication and aLook, if you want the Hollywood version with explosions and shooting watch Edge of Tomorrow, which is actually a good movie also. Arrival is an intelligent and beautiful movie, simultaneously a story about the meaning of communication and a meditation on the value of life and choice. Like all great film you're not the same after seeing it as before. More prosaic and lacking the epic sweep of 2001 (the greatest film ever), reminiscent but more accessible. I've now seen Sicarios and Arrival and I'm sold on Villeneuve - I'm interested in anything he makes now.  I have to laugh that the one negative review is from Trump's son-in-law's paper. Imagine a super advanced alien species arriving on Earth and Trump representing us!",
+            "review_date": "2017-01-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just a pseudo-intellectual movie. It looks like a intelligent movie, but it really isn't. The plot is stupid, the characters are all stupid, the pacing is terrible and, during the whole movie, NOTHING interesting and smart happens. Hell, IJust a pseudo-intellectual movie. It looks like a intelligent movie, but it really isn't. The plot is stupid, the characters are all stupid, the pacing is terrible and, during the whole movie, NOTHING interesting and smart happens. Hell, I could even say nothing happens in the movie at all...This is really a hipster movie. It looks different and smart, but is has nothing going for it.",
+            "review_date": "2017-01-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A truly intelligent, intimate and moving film that firmly confirms Villeneuve as one of our generation's greats.  Amazing score, incredible cinematography, and a stellar performance by Amy Adams, makes this film firmly one of this years favourites.",
+            "review_date": "2017-12-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Awful, make no sense, probably one of the worst science fiction movie of all time....boring to death...really, if you want to sleep, watch it....the good press is all wrong ....",
+            "review_date": "2017-02-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I've never seen a movie so tedious and suspenseful at the same time with such a letdown in the end. Although the acting was superb, unless you like art for art's sake, don't bother with this one. The critics really got this one wrong. ItI've never seen a movie so tedious and suspenseful at the same time with such a letdown in the end. Although the acting was superb, unless you like art for art's sake, don't bother with this one. The critics really got this one wrong. It won't answer most of the questions you'll come up with while watching it, including the one that makes the whole story unnecessary: just learn their language the same way your children learn English. Duh!",
+            "review_date": "2016-11-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nTypical dead child of cancer (hollywood typical **** the movie tries that you feel sad about the child but you don't get to know her so you don't care, nothing happens in the movie, boring. I want my money and time back.",
+            "review_date": "2016-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "You know those movies people tell you they like because they want to seem cool. This is one. What a bunch of convoluted goo. Not worth your time. Sicario was awesome this tries to be too mystic and ends up being boring and pretentious.",
+            "review_date": "2016-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\u201cArrival\u201d stars Amy Adams, Jeremy Renner and Forest Whitaker in this sci-fi drama written by  Eric Heisserer based on a novel by Ted Chiang (\u201cThe Story of Your Life\u201d). The film was directed by Denis Villanueve who, together with the writer\u201cArrival\u201d stars Amy Adams, Jeremy Renner and Forest Whitaker in this sci-fi drama written by  Eric Heisserer based on a novel by Ted Chiang (\u201cThe Story of Your Life\u201d). The film was directed by Denis Villanueve who, together with the writer and the editor, if there was one, must take full responsibility for the 2 hours I wasted watching their product. The movie is slow, confusing and complicated and the scenes float back in time and place without ever clearly indicating what was intended by its creative team. Ms. Adams can do no wrong for she is a talented actor but somehow she got placed in this amateurish attempt at a modern day \u201cET\u201d. The film is not only a disservice to Ms. Adams\u2019 talent but to the audience that must suffer through the picture  as well. I must have looked at my watch at least 5X during the course of the film and, in so doing,  found the hands on my timepiece more interesting that that which was being projected on to the screen. What amazes me most is that so many professional critics found this movie to be worthy of their highest rating, again proving that being paid for an opinion doesn\u2019t mean it has value. I give this film a 1.0 rating and if I hadn\u2019t been in the company of my wife and friends, I would have walked out of the theater mid way through it. The only recommendation I can make about this film is to respectfully suggest to Ms. Adams that she  hire a new talent agent..",
+            "review_date": "2016-11-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nLet's face it, a story like this hasn't crossed the paths of viewers only once before, right? I thoroughly enjoyed the actors in this production. Kudos for the CGI (thank goodness there was a lot of grays available). Question me this: Why did her hands shake? What was said to make her husband leave? How could she figure out what was being said? Was it \"flash back\" or flash forward\" or \"flash sideways\"? Why was Costello dying? Why did the story take the audience through the back door (again) to find us at the beginning? Did this happen? Was it going to happen? Did one of the last lines allow us to think that maybe the end results that have been seen will be changed? As for the production: Why were the interiors so dark? To save money. Go NFN whenever possible, right? There are several more questions to ask, but I do not want to actually ask direct questions that no one will answer of this movie. I do not know what movie the other people who commented were watching on this site (and a few others), but the one we just watched is far from being \u201cOscar\u201d material as one person mentioned. The idea of the visitor\u2026 Well, I suppose it was an easy way to \u201ccommunicate\u201d to the persons portrayed, but come on,really? Did the writers answer any questions? No. There is a whole lot more, but I can easily state (and without reserve), I would rather have watched \u201cGravity\u201d again. I mean no disrespect to the actors. It should have started and finished. The script was created \u2013middle \u2013 \u201cpresent\u201d \u2013 middle \u2013 \u201cpresent\u201d. The comments of those few people who saw the movie today were walking out saying \u201chuh\u201d? There was a chance at the first few scenes to make this a gripping idea. Then...well, we were all inked!",
+            "review_date": "2016-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Took nearly 90 minutes to figure out what this movie was really about. I will never get that time back. This is a love story and about time, with aliens.I will never get nearly 2 hour of my life back.",
+            "review_date": "2016-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Sorry, movies rated 81 are supposed to rock the house. They mailed it in for the last 30 minutes. Stay home, save your money, and watch it on your flat screen.",
+            "review_date": "2016-11-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't mind that the film is slow.  2001 is a slow movie and I love every frame of it.  This movie is boring at times.  I looked at my watch a couple of times.  I don't believe we could decipher the complex symbols as quickly as they did,I don't mind that the film is slow.  2001 is a slow movie and I love every frame of it.  This movie is boring at times.  I looked at my watch a couple of times.  I don't believe we could decipher the complex symbols as quickly as they did, and I always have to wonder why super intelligent beings have a hard time learning our language(s).  I also felt ZERO chemistry between the two leads.  I also thought about the movie \"Contact\" several times as there is too many similarities.  On the positive side, the visuals are striking at times, and Amy Adams is wonderful, as she is in every film she is in.",
+            "review_date": "2016-11-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "a must see experience with a touur de force performance by the incredible Amy Adams ,a showcase of technical brilliance and the most cinematography of the year.what the movie lacks in action scenes and thriller sequences is made up througha must see experience with a touur de force performance by the incredible Amy Adams ,a showcase of technical brilliance and the most cinematography of the year.what the movie lacks in action scenes and thriller sequences is made up through the breathtaking plot twist at the end of the movie which will stay with you and follow you for days after watching Arrival, the best movie of 2016 by far !!!",
+            "review_date": "2016-12-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's a good movie, but not quite as good as the critics are painting it. The film tries to tie in two big concepts, one about communication, and another about time. In the end those concepts get somewhat muddled and open a number of plotIt's a good movie, but not quite as good as the critics are painting it. The film tries to tie in two big concepts, one about communication, and another about time. In the end those concepts get somewhat muddled and open a number of plot holes that were obvious even on a first viewing, and would be positively glaring on repeat viewings. The atmosphere is great and the acting is spot on, but the film is a bit hampered by a script and plot that starts off strong and then begins to droop towards the end.",
+            "review_date": "2017-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thought the beginning half of the movie was fairly good and I was interested in the story. The ending was so bad it actually made me angry and I yelled at my TV.",
+            "review_date": "2017-02-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I went to see \u201cArrival\u201d sort of reluctantly because I am not into sci-fi movies with aliens coming to take the world over and a war ensues between the good guys (us) and the Bad (the aliens) and we always win. It was a choice of seeing thisI went to see \u201cArrival\u201d sort of reluctantly because I am not into sci-fi movies with aliens coming to take the world over and a war ensues between the good guys (us) and the Bad (the aliens) and we always win. It was a choice of seeing this movie or \u201cRules Don\u2019t Apply\u201d and I am not a fan of Warren Beatty\u2019s and I understand it is really a flop so I decided on \u201cArrival\u201d.The main reasons I was interested in seeing \u201cArrival\u201d was because I am becoming a big fan of Amy Adams and on YouTube I saw a video titled \u201cArrival Ending Explained\u201d which intrigued me though I didn\u2019t watch it until after I saw the movie.The first hour of the movie was like watching a foreign language film without subtitles and didn\u2019t hold me interest at all. The second hour with the 12 egg-shaped UFOs all over the world set up the standard them versus us but that isn\u2019t where it goes.Amy Adams is Dr. Louise Banks, is a language expert, who had a daughter who died at the age of 12, and is called on to help make contact with the aliens who are named Abbot & Costello by the theoretical physicist Ian Donnelly, played by Jeremy Renner, who brings the  very rare humor in the movie. They work together in ways not exactly up to what Colonel Weber, (Forest Whitaker) and a CIA agent played by Michael Stuhlbarg want from them.The film revolves around Adams and Renner with little time for the other actors except for an important cameo by Tzi Ma who plays the Chinese leader though it is Adams who holds your attention every time she is on screen which is through the whole film.The film is not about them versus us but about time and how it can be looked at in different ways. We see many scenes with the mother and daughter from birth until her death 12 years later and by the ending these scenes all are looked at in a way that we weren\u2019t aware while watching them.The ending is done subtly by the director Denis Villeneuve and screenwriter Eric Heisserer instead of hammering the audience over the head but I really wished I had watched that YouTube video before I saw the film.Adams performance is constrained, as it should be, where it could have been melodramatic. When it comes to her what it all is about she calmly accepts and understands what is happening and what happened. Renner is very strong support for her performance.This is not an \u2018entertaining\u2019 film in the sense you can sit back, munch on your popcorn and enjoy aliens invading earth but to which you have to think.\u201cArrival\u201d for the most part is a boring film except for the last 15 minutes and I didn\u2019t think the time invested was really worth the first 101 minutes and time is what the film is all about.",
+            "review_date": "2016-11-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't get all the praise heaped on this movie. Maybe if I knew more of what to expect going in, because I expected sci fi/thriller type along the lines of Prometheus and Interstellar. While this movie starts out very promising with a lot ofI don't get all the praise heaped on this movie. Maybe if I knew more of what to expect going in, because I expected sci fi/thriller type along the lines of Prometheus and Interstellar. While this movie starts out very promising with a lot of intrigue about the alien visitors, it soon drags, devolving into a commentary on human existence that really isn't emotionally moving or anything. There is a twist to the movie that was mildly interesting but seemed very copy cat of Interstellar, and then it ended very abruptly. I hated the ending. Basically there was no explanation of the reasoning behind anything and you are left hanging. It's just supposed to make you appreciate your humanity and question your life choices I guess.The one positive though is the acting throughout is superb. Even the dialogue is fine, just the pacing and ending are awful.",
+            "review_date": "2016-12-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A breathtaking film. Fantastic acting, brilliant story. Keeps you on the edge of your seat. One of the most impressive films I have seen in a while now. A must see! All the low reviewers clearly don't know a good movie if it slapped them inA breathtaking film. Fantastic acting, brilliant story. Keeps you on the edge of your seat. One of the most impressive films I have seen in a while now. A must see! All the low reviewers clearly don't know a good movie if it slapped them in the face. Watch it now!",
+            "review_date": "2017-02-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival offers a vastly different experience than you usually get in the alien invasion genre. By replacing explosions and action with captivating dialogue and conversations, it gives us arguably the most intriguing film of 2016.",
+            "review_date": "2016-12-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I attended this movie with a friend and we were looking forward to seeing it.  When it was over we both looked at each other and asked 'what was that movie about ?  The flashbacks to her child and the confusion of future and past events madeI attended this movie with a friend and we were looking forward to seeing it.  When it was over we both looked at each other and asked 'what was that movie about ?  The flashbacks to her child and the confusion of future and past events made us spend more time trying to figure the scripts meaning.  We could not understand the complexity of the movie and what turned the evening into a chaotic movie was truly disappointing and hours later we were still trying to figure it out.  If it could have been less entangled with the past, present and future it would have been wonderful.  It was a waste of hard earned money.",
+            "review_date": "2016-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent! The Arrival is one of the best films of 2016 and is a must see! The film deserves all good reviews and at least one Oscar. The film might get them waterworks going and will help you reflect on your own life.",
+            "review_date": "2017-01-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I'm sorry I don't know how this movie got such good reviews. It was dumb dumb dumb and boring. I would describe it as a chick-flick sci-fi movie. Don't bother seeing it and these high reviews are way off. Must be the \"different\" effect.I'm sorry I don't know how this movie got such good reviews. It was dumb dumb dumb and boring. I would describe it as a chick-flick sci-fi movie. Don't bother seeing it and these high reviews are way off. Must be the \"different\" effect. Different does not = good.",
+            "review_date": "2016-11-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Arrival is one of the best Alien SI-FI movies to date; with excellent performances, amazing cinematography & smart plot line. Someone give Amy Adams an award! The arrival is a must watch of 2016.",
+            "review_date": "2016-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The visuals and acting are great. And the initial interactions with the aliens were fascinating. Unfortunately, emotional flashbacks (forwards), which make little sense, are becoming a bit of a cliche for humanizing these kinds of movies. IThe visuals and acting are great. And the initial interactions with the aliens were fascinating. Unfortunately, emotional flashbacks (forwards), which make little sense, are becoming a bit of a cliche for humanizing these kinds of movies. I wish these directors could accept that the geeky aspects are enough to sustain a kick-ass sci-fi movie (if done well). What next: faster-than-light travel powered by a mother's love for her child?",
+            "review_date": "2016-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nBoring, boring, boring....blablabla boring, boring, boring.DonT waste your money on this **** movie.The biggest disappointment in cinema history. Better watch \"it came from outer space\"",
+            "review_date": "2016-12-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Human, profound, thought provoking and creative. The acting is superb, the storytelling style and presentation is excellent, it is a powerful and beautiful movie about life, the human condition and the reality of our world today.",
+            "review_date": "2017-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is the BEST realistic what happened if movie, if aliens visited earth. I wished there was alittle more story while I was watching the movie. It did feel alittle boring and dragged on.",
+            "review_date": "2017-03-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival is a beautifully enthralling sci-fi thriller, which masterfully balances an actually intelligent 'alien invasion' story with heart-wrenching emotion. Amy Adams is sensational.",
+            "review_date": "2017-09-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Gotta say this is some brilliant work! I started watching thinking one thing and finished the movie in another state of mind, Amy Adams was breathtaking, the end with such an unexpected twist and still beautiful... they changed the \"sic-fi\"Gotta say this is some brilliant work! I started watching thinking one thing and finished the movie in another state of mind, Amy Adams was breathtaking, the end with such an unexpected twist and still beautiful... they changed the \"sic-fi\" of an alien invasion and did something new, where there not so much sic-fi as you would expect from an alien invasion movie",
+            "review_date": "2017-02-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "D.O.A.Sterile, lifeless, dull, drab, uninspiring, anti-climatic, confused, uncharismatic, overrated, unappealing, frustrating, tired, sleep-inducing, unimaginative, cheezy.",
+            "review_date": "2016-12-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival's deliberately slow pacing may serve as a turnoff for some; but it's incredible bits of tension and terrific performances provide an interesting look into a complex world of grief, love, and wonder.",
+            "review_date": "2017-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I went to see this because when I arrived at the theatre Arrival was the only movie that just started. I liked Jeremy Renner in other movies like The Town, so I thought I would watch this one. I was pretty disappointed and could not give moreI went to see this because when I arrived at the theatre Arrival was the only movie that just started. I liked Jeremy Renner in other movies like The Town, so I thought I would watch this one. I was pretty disappointed and could not give more than a 6. It seems he did not get enough acting in and even looked quiet at times like his lines were cut out. I don't see him in a romantic role either and the music was too overwhelming for me. It is an interesting idea but I don't believe the writing was really there, her flashbacks were predictable, and you knew what was going to happen. One of those films basically you know as the ones that rely on the CGI to get the ticket sales which is a losing concept to me.",
+            "review_date": "2016-11-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Sorry but I must have missed something here.... an alien culture that has the intelligence to travel millions of light years to our planet and they rely on us for translation and to communicate?",
+            "review_date": "2016-12-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent movie! The jumps in time seem to make it somewhat hard to follow for some, if I can go by reactions I heard from people in the theater. It's a lot better than I expected going in. It' probably the best take on really differentExcellent movie! The jumps in time seem to make it somewhat hard to follow for some, if I can go by reactions I heard from people in the theater. It's a lot better than I expected going in. It' probably the best take on really different aliens I've ever seen. Heptapods, never heard that before. The space ships, the influencing of time, it's different all right. I understand some people being quite confused at the end of it all, but this is just not your generic X-files aliens movie. It's a movie really worth seeing, but you have to keep paying attention to the time jumps, which turn out to be flash-forwards instead of flashbacks, or you're going to be left quite bewildered at the end. If you're looking for something like Independence Day, then you're not going to get what you want. You have been warned.",
+            "review_date": "2016-12-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Arrival is a solid project that benefits not only from some great directing, but also from a strong plot that comes to genius conclusions, a strong performance from Amy Adams, and an undeniably outstanding score that will absolutely leave youArrival is a solid project that benefits not only from some great directing, but also from a strong plot that comes to genius conclusions, a strong performance from Amy Adams, and an undeniably outstanding score that will absolutely leave you in tears. I wouldn't be surprised if it was nominated for a lot of Oscars.",
+            "review_date": "2017-01-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nA rare type of Spielberg-Nolan style science-fiction drama full of metaphors that is steep in its specific themes told in a sense of realism. The film is an unusual discovery, it starts emotionally, moves in a deliberate pacing, slowly builds up a puzzle of complex paradox and ends up stunningly impactful, amplifying the questions of existential dilemma. It does not need any action sequences, it is all about life, language and unity that bring to the twisted concept of the overall plot development with several hints throughout the entire story, further surprising audiences to view it from different fascinating ways. Amy Adams gains respects for her brilliant performance as a believable thinker and expert communicator while her emotions are handled well in order to engage the entire structure of the film. The theme song \"On the Nature of Daylight\" in both the opening and ending of the movie, as well as scores composed by Johann Johannsson enhance the the atmosphere of the film especially the thrilling suspense of invasions, the horror moments during the contact and the emotional depth on life perception. The arrival of the extra terrestrial amazes viewers on how creatively a science fiction may diverge from its generic aspects and link to life - telling us that life is a journey without destination and to live as if the answer is, even if you have known everything about the future.",
+            "review_date": "2017-01-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was totally meant for me! \"Time\" is the most important thing to me and this movie hit it on the spot!!  People who are giving this movie a 5 or less is because they want a sci-fi to be action packed like Guardians of Galaxy orThis movie was totally meant for me! \"Time\" is the most important thing to me and this movie hit it on the spot!!  People who are giving this movie a 5 or less is because they want a sci-fi to be action packed like Guardians of Galaxy or Transformer.  THIS IS NOT IT!!  This is an adult movie who is looking for more thought provoking ideas and understanding.  The people who gave it low scores did NOT understand the premise of the movie...  Also, people who felt it wasted their time obviously missed the entire movie! I am giving it a perfect 10 because it had all of the elements of a great movie - DEEP STORY, PLOT, Character development, and etc.  People think slow equates to no action.  Action does not mean fast.  Because you can have a lot of action but it can be a really slow movie.   People who are looking for some Interstellar, Transformer, or some Alien gun slinging movie this is NOT it! If people are looking for a real story, love, and understanding of how time. This is a must see movie of the year!!  Amazing as a my girl said this movie was meant for me!",
+            "review_date": "2016-12-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Boring, boring, boring.  Worst Sci-fi ever. I want my money back!!!  This is what you get when a Millennial finds his parents LSD, trips out on it and produces a movie. I fell asleep three times!  It is unbelievable, boring, slow, slow, slowBoring, boring, boring.  Worst Sci-fi ever. I want my money back!!!  This is what you get when a Millennial finds his parents LSD, trips out on it and produces a movie. I fell asleep three times!  It is unbelievable, boring, slow, slow, slow and not logical.",
+            "review_date": "2016-12-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Have you ever discovered something that just captured your curiosity to the point where you wanted to learn everything about it? That's the effect Arrival had on me. Every new development filled me with a sense of childlike wonder and causedHave you ever discovered something that just captured your curiosity to the point where you wanted to learn everything about it? That's the effect Arrival had on me. Every new development filled me with a sense of childlike wonder and caused my interest in the film's otherworldly visitors to grow even deeper. Tensions understandably rise as twelve spacecrafts arrive across the globe and humanity races to find out why. It's far from an original set up for a sci-fi movie, but what sets apart this quest to discover extraterrestrial motives is the approach taken. You'll notice the familiar elements of human paranoia and governmental mistrust running in the background, but Arrival's main focus is on the establishment and discovery of communication. That is what makes all the difference.The imaginative and complex method of conveyance crafted for this film is nothing less than brilliant. It really sells the outer space lifeforms as real, intelligent creatures. Of course that is also helped by how good the film looks (minus Amy Adams' CGI spaghetti hair). The film's core idea of deciphering a dialect and written language unlike anything we know seems like something that would be an insurmountable challenge, but it reminds us that this has been done before when humans discovered each other living on completely different sides of the planet. Arrival's intelligent handling and understanding of linguistics makes what could have been a boring process something that is fascinating to watch unfold. The big reveal is one heck of a revelation. It causes the final leg of the film to take an interesting turn. While it goes off in a different and kind of strange new direction, it speaks to something so human that it's hard to not appreciate it. This is of course bolstered by the incredible performance from Adams. She's got other talented people alongside her in the cast, but it's really up to her to carry the movie. Something she does so exquisitely that the lack of even a nomination for an Oscar is baffling. Arrival is such a breath of fresh air for the sci-fi genre. It shows off a level of intelligence and believability that feels all too rare, and it manages to do so with the old \"are they friend or foe?\" approach that's been done so many times before. Something that speaks highly of Denis Villeneuve's ability and shows that apparently there are ways to mine new depth from even among the most overused concepts. In closing, Arrival is absolutely captivating and it might just be the best sci-fi film I've ever seen.",
+            "review_date": "2018-02-26",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 152
 }

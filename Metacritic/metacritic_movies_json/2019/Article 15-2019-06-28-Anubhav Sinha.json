@@ -1,24 +1,17 @@
 {
-  "title": "Article 15",
-  "rating": 5.8,
-  "release_date": "2019-06-28",
-  "genre": [
-    "Drama",
-    "Thriller",
-    "Crime"
-  ],
-  "summary": "Set against the backdrop of Badaun gangrape and murder case (2014), Anubhav Sinha's Article 15 is a thrilling investigative drama based on true events.",
-  "critic_reviews": [
-    "The storytelling never lacks for sincerity and quiet power. It’s a cry from the heart with a courageous message.",
-    "Ayushmann Khurrana, playing the good cop who can’t bring himself to look away to preserve “society’s balance”, combines soulful Bollywood heartthrob charisma with an arrestingly intense performance."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Una película decente; la trama está bien, pero es un poco larga y lenta; los actores son buenos y tiene escenas memorables.",
-      "review_date": "2021-03-21",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 3
+    "title": "Article 15",
+    "rating": 5.8,
+    "release_date": "2019-06-28",
+    "genre": [
+        "Drama",
+        "Thriller",
+        "Crime"
+    ],
+    "summary": "Set against the backdrop of Badaun gangrape and murder case (2014), Anubhav Sinha's Article 15 is a thrilling investigative drama based on true events.",
+    "critic_reviews": [
+        "The storytelling never lacks for sincerity and quiet power. It\u2019s a cry from the heart with a courageous message.",
+        "Ayushmann Khurrana, playing the good cop who can\u2019t bring himself to look away to preserve \u201csociety\u2019s balance\u201d, combines soulful Bollywood heartthrob charisma with an arrestingly intense performance."
+    ],
+    "reviews": [],
+    "num_reviews": 3
 }

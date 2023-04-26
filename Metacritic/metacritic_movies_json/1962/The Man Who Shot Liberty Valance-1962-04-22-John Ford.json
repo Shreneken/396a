@@ -1,30 +1,31 @@
 {
-  "title": "The Man Who Shot Liberty Valance",
-  "rating": 8.6,
-  "release_date": "1962-04-22",
-  "genre": [
-    "Drama",
-    "Western"
-  ],
-  "summary": "A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.",
-  "critic_reviews": [
-    "In a few characters and a gripping story, Ford dramatizes the debate about guns that still continues in many Western states. That he does this by mixing in history, humorous supporting characters and a poignant romance is typical; his films were complete and self-contained in a way that approaches perfection. Without ever seeming to hurry, he doesn't include a single gratuitous shot.",
-    "Mr. Ford, who has struck more gold in the West than any other film-maker, also has mined a rich vein here. He is again exposing the explosive forces involving the advent of law, in the shape of Mr. Stewart, on the raw denizens of a lawless frontier town. When legend becomes fact, a newspaper editor tells Mr. Stewart, print the legend. In Liberty Valance, there is too much of a good legend.",
-    "It’s both the most romantic of Westerns and the greatest American political movie. But the movie is also romantic in another, intimate way—it’s a great love story and a painful triangle, involving the tenderfoot lawyer (James Stewart), his gunslinger friend (John Wayne), and the woman they both love (Vera Miles).",
-    "Along with The Searchers, it represents John Ford at his most accomplished. And it is one of the best Westerns Hollywood has ever produced.",
-    "A bittersweet look at the closing of the frontier by focusing on two strikingly different men who help one town choose law and order over the chaos of the open range.",
-    "Arguably, the best John Ford film ever, certainly one the very best, The Man Who Shot Liberty Valance is an American classic. Ford addresses the complexity of heroism in a poetic manner.",
-    "A great film, rich in thought and feeling, composed in rhythms that vary from the elegiac to the spontaneous.",
-    "The movie is certainly above average, thanks to the performances by Stewart and Wayne, but Marvin is so flamboyant a badman that he is simply a caricature, even more so than in his outlandish Oscar-winning turn in Cat Ballou.",
-    "The Man Who Shot Liberty Valance is an entertaining and emotionally involving western. Yet, while it is an enjoyable film it falls distinctly shy of its innate story potential."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Justice, democracy, violence and press are the mainstay themes of this marvellous film. This intelligent and mature yet fun western is masterfully directed by Ford and performed by every member of the cast. One of the best screenplays I haveJustice, democracy, violence and press are the mainstay themes of this marvellous film. This intelligent and mature yet fun western is masterfully directed by Ford and performed by every member of the cast. One of the best screenplays I have ever seen!",
-      "review_date": "2021-08-01",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 10
+    "title": "The Man Who Shot Liberty Valance",
+    "rating": 8.6,
+    "release_date": "1962-04-22",
+    "genre": [
+        "Drama",
+        "Western"
+    ],
+    "summary": "A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.",
+    "critic_reviews": [
+        "In a few characters and a gripping story, Ford dramatizes the debate about guns that still continues in many Western states. That he does this by mixing in history, humorous supporting characters and a poignant romance is typical; his films were complete and self-contained in a way that approaches perfection. Without ever seeming to hurry, he doesn't include a single gratuitous shot.",
+        "Mr. Ford, who has struck more gold in the West than any other film-maker, also has mined a rich vein here. He is again exposing the explosive forces involving the advent of law, in the shape of Mr. Stewart, on the raw denizens of a lawless frontier town. When legend becomes fact, a newspaper editor tells Mr. Stewart, print the legend. In Liberty Valance, there is too much of a good legend.",
+        "It\u2019s both the most romantic of Westerns and the greatest American political movie. But the movie is also romantic in another, intimate way\u2014it\u2019s a great love story and a painful triangle, involving the tenderfoot lawyer (James Stewart), his gunslinger friend (John Wayne), and the woman they both love (Vera Miles).",
+        "Along with The Searchers, it represents John Ford at his most accomplished. And it is one of the best Westerns Hollywood has ever produced.",
+        "A bittersweet look at the closing of the frontier by focusing on two strikingly different men who help one town choose law and order over the chaos of the open range.",
+        "Arguably, the best John Ford film ever, certainly one the very best, The Man Who Shot Liberty Valance is an American classic. Ford addresses the complexity of heroism in a poetic manner.",
+        "A great film, rich in thought and feeling, composed in rhythms that vary from the elegiac to the spontaneous.",
+        "The movie is certainly above average, thanks to the performances by Stewart and Wayne, but Marvin is so flamboyant a badman that he is simply a caricature, even more so than in his outlandish Oscar-winning turn in Cat Ballou.",
+        "The Man Who Shot Liberty Valance is an entertaining and emotionally involving western. Yet, while it is an enjoyable film it falls distinctly shy of its innate story potential."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Justice, democracy, violence and press are the mainstay themes of this marvellous film. This intelligent and mature yet fun western is masterfully directed by Ford and performed by every member of the cast. One of the best screenplays I haveJustice, democracy, violence and press are the mainstay themes of this marvellous film. This intelligent and mature yet fun western is masterfully directed by Ford and performed by every member of the cast. One of the best screenplays I have ever seen!",
+            "review_date": "2021-08-01",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 10
 }

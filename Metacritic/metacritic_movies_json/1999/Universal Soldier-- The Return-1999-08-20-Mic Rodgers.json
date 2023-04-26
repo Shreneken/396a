@@ -1,33 +1,34 @@
 {
-  "title": "Universal Soldier: The Return",
-  "rating": 4.7,
-  "release_date": "1999-08-20",
-  "genre": [
-    "Action",
-    "Sci-Fi"
-  ],
-  "summary": "Luc Deveraux (Van Damme), who has survived his experiences as a Universal Soldier, recovered, and is now retired and working as a technical advisor on a government project to revive and improve the Universal Soldier training program, creating stronger, smarter and more versatile cyborg Soldiers.   When S.E.T.H., the supercomputerLuc Deveraux (Van Damme), who has survived his experiences as a Universal Soldier, recovered, and is now retired and working as a technical advisor on a government project to revive and improve the Universal Soldier training program, creating stronger, smarter and more versatile cyborg Soldiers.   When S.E.T.H., the supercomputer controlling the Soldiers, becomes discontent and takes over a la HAL, Luc is the only one who can battle this team of deadly warriors and save the human race.… Expand",
-  "critic_reviews": [
-    "Has a shameless B-movie exuberance.",
-    "Engagingly silly sub-\"Moonlighting\"-style banter.",
-    "Jean-Claude Van Damme's latest dud.",
-    "Lightning fails to strike twice -- an underwhelming follow-up to one of the career-stalled action star's better efforts.",
-    "Must have been slapped together fast: live-action stunts created by uninspired editing lead up to computer-generated imagery that's just as lame.",
-    "Devoid of personality and has an annoying gratuitous sentimental streak.",
-    "The Return is about bullets, bombs and boobs - the biggest boob being Van Damme, natch, but there are also mammaries aplenty.",
-    "Plenty of bone-crunching brawn, but not a brain cell in sight.",
-    "Custom-made for an audience of mouth-breathers.",
-    "Slow-moving and violent mess...feels slow even at a scant 82 minutes...Even by the slack standards of Van Damme's oeuvre, \"The Return\"  is a letdown.",
-    "A mind-numbing exercise in high body counts and big tits.",
-    "Lame, mindless dialogue makes Wing Commander seem Cukoresque by comparison."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "I think Bill Goldberg is a good addition to the movie 'cuz he's lean and mean and fits the part very well. All the other parts can be thrown out.",
-      "review_date": "2006-07-21",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 13
+    "title": "Universal Soldier: The Return",
+    "rating": 4.7,
+    "release_date": "1999-08-20",
+    "genre": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "summary": "Luc Deveraux (Van Damme), who has survived his experiences as a Universal Soldier, recovered, and is now retired and working as a technical advisor on a government project to revive and improve the Universal Soldier training program, creating stronger, smarter and more versatile cyborg Soldiers.   When S.E.T.H., the supercomputerLuc Deveraux (Van Damme), who has survived his experiences as a Universal Soldier, recovered, and is now retired and working as a technical advisor on a government project to revive and improve the Universal Soldier training program, creating stronger, smarter and more versatile cyborg Soldiers.   When S.E.T.H., the supercomputer controlling the Soldiers, becomes discontent and takes over a la HAL, Luc is the only one who can battle this team of deadly warriors and save the human race.\u2026 Expand",
+    "critic_reviews": [
+        "Has a shameless B-movie exuberance.",
+        "Engagingly silly sub-\"Moonlighting\"-style banter.",
+        "Jean-Claude Van Damme's latest dud.",
+        "Lightning fails to strike twice -- an underwhelming follow-up to one of the career-stalled action star's better efforts.",
+        "Must have been slapped together fast: live-action stunts created by uninspired editing lead up to computer-generated imagery that's just as lame.",
+        "Devoid of personality and has an annoying gratuitous sentimental streak.",
+        "The Return is about bullets, bombs and boobs - the biggest boob being Van Damme, natch, but there are also mammaries aplenty.",
+        "Plenty of bone-crunching brawn, but not a brain cell in sight.",
+        "Custom-made for an audience of mouth-breathers.",
+        "Slow-moving and violent mess...feels slow even at a scant 82 minutes...Even by the slack standards of Van Damme's oeuvre, \"The Return\"  is a letdown.",
+        "A mind-numbing exercise in high body counts and big tits.",
+        "Lame, mindless dialogue makes Wing Commander seem Cukoresque by comparison."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "I think Bill Goldberg is a good addition to the movie 'cuz he's lean and mean and fits the part very well. All the other parts can be thrown out.",
+            "review_date": "2006-07-21",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 13
 }

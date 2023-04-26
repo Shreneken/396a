@@ -1,41 +1,43 @@
 {
-  "title": "Rio Bravo",
-  "rating": 8.2,
-  "release_date": "1959-04-04",
-  "genre": [
-    "Action",
-    "Drama",
-    "Western"
-  ],
-  "summary": "A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
-  "critic_reviews": [
-    "It's American filmmaking at its finest—clean, clear, and direct—and it's also the most optimistic masterpiece on film, valiantly shoring fragments against human ruin.",
-    "To watch Rio Bravo is to see a master craftsman at work. The film is seamless. There is not a shot that is wrong. It is uncommonly absorbing, and the 141-minute running time flows past like running water.",
-    "Directed by Howard Hawks, Rio Bravo has its fair share of gunfights and saloon showdowns (including a bravura opening confrontation that unfolds with barely any words). Yet the film resembles other Westerns less than it does Hawks’ snappy romances, such as Bringing Up Baby, His Girl Friday, and To Have and Have Not.",
-    "Rio Bravo is an excellent film featuring strong, proud, but very human characters who fight against their various handicaps and pull together to do a job and do it right.",
-    "Rio Bravo features characters who form a familial bond while performing an impossible task in the face of death. It is, in other words, a Howard Hawks movie. It's a great one, too, and if it's not Hawks' best, it's certainly the most Hawksian.",
-    "Faultless, freewheeling-and very funny.",
-    "Over the course of Rio Bravo we are treated to an entertainment masterclass, a high watermark of Hollywood cinema in its heyday.",
-    "Directed by Howard Hawks with his sly sidearm grace, this is top-of-the-genre stuff.",
-    "The movie is simultaneously an apogee of the classic Western style, with its principled violence in defense of just law, and an eccentrically hyperbolic work of modernism, which yokes both bumptious erotic comedy and soul-searing rawness to the mission.",
-    "Beautifully acted, wonderfully observed, and scripted with enormous wit and generosity, it's the sort of film, in David Thomson's words, which reveals that 'men are more expressive rolling a cigarette than saving the world'.",
-    "Producer-director Howard Hawks makes handsome use of force in logically unravelling his hard-hitting narrative, creating suspense at times and occasionally inserting lighter moments to give variety.",
-    "With an unnecessarily protracted running length of more than 140 minutes, Rio Bravo at times moves too slowly for its own good but the climax is as rousing as that of any Western made during the decade when the genre was at its peak.",
-    "Despite its slickness, virility, occasional humor and, if it may be repeated, authentic professional approach, it is well-made but awfully familiar fare."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Pretty much garbage. I don't know why people once thought John Wayne was a good actor. Unrealistic overly long and brainless.",
-      "review_date": "2020-07-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best westerns ever made. with great performance of john wayne dean martin and Ricky Nelson. howard hawks in rio bravo used Art for entertainment",
-      "review_date": "2020-07-19",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 15
+    "title": "Rio Bravo",
+    "rating": 8.2,
+    "release_date": "1959-04-04",
+    "genre": [
+        "Action",
+        "Drama",
+        "Western"
+    ],
+    "summary": "A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+    "critic_reviews": [
+        "It's American filmmaking at its finest\u2014clean, clear, and direct\u2014and it's also the most optimistic masterpiece on film, valiantly shoring fragments against human ruin.",
+        "To watch Rio Bravo is to see a master craftsman at work. The film is seamless. There is not a shot that is wrong. It is uncommonly absorbing, and the 141-minute running time flows past like running water.",
+        "Directed by Howard Hawks, Rio Bravo has its fair share of gunfights and saloon showdowns (including a bravura opening confrontation that unfolds with barely any words). Yet the film resembles other Westerns less than it does Hawks\u2019 snappy romances, such as Bringing Up Baby, His Girl Friday, and To Have and Have Not.",
+        "Rio Bravo is an excellent film featuring strong, proud, but very human characters who fight against their various handicaps and pull together to do a job and do it right.",
+        "Rio Bravo features characters who form a familial bond while performing an impossible task in the face of death. It is, in other words, a Howard Hawks movie. It's a great one, too, and if it's not Hawks' best, it's certainly the most Hawksian.",
+        "Faultless, freewheeling-and very funny.",
+        "Over the course of Rio Bravo we are treated to an entertainment masterclass, a high watermark of Hollywood cinema in its heyday.",
+        "Directed by Howard Hawks with his sly sidearm grace, this is top-of-the-genre stuff.",
+        "The movie is simultaneously an apogee of the classic Western style, with its principled violence in defense of just law, and an eccentrically hyperbolic work of modernism, which yokes both bumptious erotic comedy and soul-searing rawness to the mission.",
+        "Beautifully acted, wonderfully observed, and scripted with enormous wit and generosity, it's the sort of film, in David Thomson's words, which reveals that 'men are more expressive rolling a cigarette than saving the world'.",
+        "Producer-director Howard Hawks makes handsome use of force in logically unravelling his hard-hitting narrative, creating suspense at times and occasionally inserting lighter moments to give variety.",
+        "With an unnecessarily protracted running length of more than 140 minutes, Rio Bravo at times moves too slowly for its own good but the climax is as rousing as that of any Western made during the decade when the genre was at its peak.",
+        "Despite its slickness, virility, occasional humor and, if it may be repeated, authentic professional approach, it is well-made but awfully familiar fare."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Pretty much garbage. I don't know why people once thought John Wayne was a good actor. Unrealistic overly long and brainless.",
+            "review_date": "2020-07-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best westerns ever made. with great performance of john wayne dean martin and Ricky Nelson. howard hawks in rio bravo used Art for entertainment",
+            "review_date": "2020-07-19",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 15
 }

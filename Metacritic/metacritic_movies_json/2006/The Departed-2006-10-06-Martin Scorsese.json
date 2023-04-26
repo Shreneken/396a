@@ -1,654 +1,740 @@
 {
-  "title": "The Departed",
-  "rating": 7.0,
-  "release_date": "2006-10-06",
-  "genre": [
-    "Mystery",
-    "Thriller",
-    "Crime"
-  ],
-  "summary": "This gritty crime drama from director Martin Scorsese takes us into the lives of two cops: Colin Sullivan (Matt Damon), smart and unabashedly ambitious, appears to be on the fast track in the Massachusetts State Police Department's elite Special Investigations Unit, whose prime target is powerful Irish mob boss Frank Costello (JackThis gritty crime drama from director Martin Scorsese takes us into the lives of two cops: Colin Sullivan (Matt Damon), smart and unabashedly ambitious, appears to be on the fast track in the Massachusetts State Police Department's elite Special Investigations Unit, whose prime target is powerful Irish mob boss Frank Costello (Jack Nicholson). Billy Costigan (Leonardo DiCaprio), street-smart and tough, is purported to have a violent temper that costs him his badge and eventually lands him back on the rough streets of South Boston, where he is recruited into Costello's ranks. But neither man is what he seems and, as they work at cross purposes, they are plunged into a dangerous game of cat and mouse in which the stakes could not be higher.  [Warner Bros.]… Expand",
-  "critic_reviews": [
-    "A new American crime classic from the legendary Martin Scorsese, whose talent shines here on its highest beams.",
-    "A ferociously entertaining film.",
-    "The Departed is Scorsese's most purely enjoyable movie in years. But it's not for the faint of heart. It's rude, bleak, violent and defiantly un-PC. But if you doubt that it's also OK to laugh throughout this rat's nest of paranoia, deceit and bloodshed, keep your eyes on the final frames. Scorsese's parting shot is an uncharacteristic, but well-earned, wink.",
-    "The original film was gritty and entertaining (\"Infernal Affairs\"); the new version is a masterpiece - the best effort Scorsese has brought to the screen since \"Goodfellas.\"",
-    "A triumphant revisiting of territory in which Scorsese is an unchallenged master -- the crime drama.",
-    "DiCaprio harnesses a terrific, buggy intensity reminiscent of \"GoodFellas'\" hopped-up Henry Hill (Ray Liotta).",
-    "When a director of Scorsese's caliber is working at the top of his game, it's a reminder of why we go to the movies in the first place.",
-    "A movie-movie of the first rank.",
-    "This is the most vibrant, exciting and invigorating movie-movie of the year.",
-    "Thelma Schoonmaker, a Scorsese collaborator for over a quarter-century, did the bull's-eye editing. The moviemaking throughout is swift, unaffected, masterly.",
-    "A thrilling return to form.",
-    "It is intriguing to wonder what Scorsese saw in the Hong Kong movie that inspired him to make the second remake of his career (after \"Cape Fear\"). I think he instantly recognized that this story, at a buried level, brought two sides of his art and psyche into equal focus.",
-    "The very title The Departed suggests a James Joycean take on Irish-Catholic sentiment when, of course, this story is anything but: It's Scorsesean, and he's in full bloom.",
-    "DiCaprio's performance is a revelation only for those who have underestimated him. In Scorsese's previous films, \"The Gangs of New York\" and \"The Aviator,\" he seemed callow and miscast, but here he has the presence of a full-bodied adult. He's grown into his emotions.",
-    "Whatever it is, the film is the first major release of the fall worth talking about: a fast-paced, visually slick, psychologically fascinating Boston-set cops-and-crooks saga.",
-    "It isn't in the same league as the director's best work, chiefly because it lacks the bravura flourishes of cinematic craft that helped make his name. But it's so vital and bloody and funny and wicked and tense and unapologetic that it feels kin to those films, which little of the director's work of the past decade has managed to pull off.",
-    "This reworking of a popular Hong Kong picture pulses with energy, tangy dialogue and crackling performances from a fine cast.",
-    "Scorsese didn't need to remake \"Infernal Affairs,\" but what he has done with it is a compliment rather than an affront to the original: The Departed reimagines its source material rather than just leeching off it, preserving the bone structure of the first movie while finding new curves in it. The story has been clarified; the ellipses of the original have been filled in with just the right amount of exploratory shading. This is a picture of grand gestures and subtle intricacies, a movie that, even at more than two hours long, feels miraculously lean. It's a smart shot of lucid storytelling.",
-    "This is a dream cast for both Scorsese and the viewer, and everyone is working at the peak of their craft. Nicholson's flawless performance as the increasingly unhinged crime boss is a marvel of manic, paranoid ruination.",
-    "The film's score and editing brilliantly heighten the film's energy, keeping the audience somewhat off-kilter and unsure where things are headed.",
-    "The profanity-laced but witty and literate dialogue by William Monahan (\"Kingdom of Heaven\") is delivered by a brilliantly chosen cast, almost all of whom are operating at the very top of their game.",
-    "It's a movie with a pulse. Sometimes, it flies off the chart.",
-    "When The Departed roars to life, as it does in so many of its scenes, you feel like nobody understands movies -- the delirious highs, the unforgiving moral depths -- as well as this man does. Welcome back, Marty.",
-    "The movie works smashingly, especially if you haven't seen its Hong Kong counterpart and haven't a clue what's coming. But for all its snap, crackle, and pop, it's nowhere near as galvanic emotionally.",
-    "Back to the streets and with a stellar cast, Martin Scorsese proves once again that he's the master of urban storytelling -- and of thrillingly violent filmmaking.",
-    "What helps make The Departed at once a success and a relief isn't that the director of \"Kundun,\" Mr. Scorsese's deeply felt film about the Dalai Lama, is back on the mean streets where he belongs; what's at stake here is the film and the filmmaking, not the director's epic importance.",
-    "Frequently excessive but never dull, The Departed is a little too much of a lot of the things that define Martin Scorsese films but it's also almost impossible to resist. Too operatic at times, too in love with violence and macho posturing at others, it's a potboiler dressed up in upscale designer clothes, but oh how that pot does boil.",
-    "Crackles right along, stopping only long enough for Scorsese's signature bursts of explosive violence. Those brawls feel a bit rote, but what's different here is a newfound playful humor.",
-    "Not one of Scorsese's greatest films; it doesn't use the camera to reveal the psychological and aesthetic dimensions of an entire world, as \"Mean Streets,\" \"Taxi Driver,\" \"Raging Bull,\" and \"Goodfellas\" did. But it's a viciously merry, violent, high-wattage entertainment, and speech is the most brazenly flamboyant element in it.",
-    "The Departed exists in a movie-place about as far from personal statements as a storied director can get. Maybe those days for Scorsese are long gone. But Scorsese's sense of craft remains sure.",
-    "There's no attempt at greatness here, just a fabulously successful attempt at a good crime movie. The Oscar-bait self-consciousness of \"Gangs of New York\" and \"The Aviator\" is gone. In its place is a buoyancy, an impish delight in telling a harsh urban story in the most effective terms possible.",
-    "The Departed is completely engrossing, a master class in suspense. But in moral terms it may be the least involving story that Scorsese -- an artist much preoccupied with morality -- has ever taken on.",
-    "This isn't to say The Departed is a bad movie, far from it, but knowing who's directing it and the amount of talent he had to work with, it's hard not to be disappointed that Scorsese didn't knock us on our asses. Is it his best movie since \"Goodfellas?\" Sure, but it falls shy of that film's excellence.",
-    "It's nice to see Scorsese back in the saddle and a treat to find a cops-and-robbers thriller with some energy and wit. But even so, it's a stylish head rush of a movie that flies by, even at two-and-a-half hours, and keeps turning the knife (and your stomach) up to the final scene.",
-    "Rarely has a star's look-at-me turn so completely torpedoed a project. Whenever the picture threatens to gain some momentum, up pops Jack to stop it dead in its tracks. The loyal few may be laughing with him, but the rest of us are definitely laughing at him.",
-    "Neither a debacle nor a bore, The Departed works but only up to a point, and never emotionally--even if the director does contrive to supply his version of a happy ending.",
-    "Scorsese in his prime might've made better use of this hamming, but this picture feels like an exercise by a Scorsese clone who has tackled the master's themes - without his energy and economy of style.",
-    "Is Scorsese desperate? This screenplay has the scent of it, as if he is scraping for material to feed his basic filmic interests. But the risk in this case--not evaded--was that his need led him close to painful strain. I can't remember another Scorsese moment as shockingly banal as the finishing touch here."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "The film is not a film like taxi driver or Raging bull but, it is instead a regular crime thriller film with scorcesse's special touch. This film would have been just an average film if it werent for 2 things. Scorcesse's direction and theThe film is not a film like taxi driver or Raging bull but, it is instead a regular crime thriller film with scorcesse's special touch. This film would have been just an average film if it werent for 2 things. Scorcesse's direction and the acting ensemble. The films writting is also masterful but, it works extremely well because of the acting. Overall a great film.",
-      "review_date": "2012-03-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An excellent film with an outstanding cast brilliant direction and genius writing and a spectacular ending. This is one of the finest films of Scorsese since Goodfellas & Taxi Driver.",
-      "review_date": "2013-05-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is not a film Scorsese will be or should be remembered for - though fans of Goodfellas may relish the profligate bloodshed,It was really boring and i didnt like it at all.",
-      "review_date": "2017-08-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It seems as if the Christian fundies have invaded this site. This film is truly one of my favorite films, ever. A true gangster film, with a great story, great acting, and overall an exceptional film.",
-      "review_date": "2007-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great story, great acting, great film.",
-      "review_date": "2006-11-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I think it will be the best movie of 2006. If you haven",
-      "review_date": "2006-11-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What a nice return to the good stuff from the director. I don't think it's his best since \"Goodfellas\" ( I think \"Casino\" is) , but it is really one of his best. And definitely best Dicaprio's work.",
-      "review_date": "2006-11-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Slightly overrated. The acting was superb from all quarters, EVERYONE. But Di Caprio carried the movie. I actually wanted to see more of Mark Whalberg in this film, his character was intense. Matt was Matt (his best work for me with regards Slightly overrated. The acting was superb from all quarters, EVERYONE. But Di Caprio carried the movie. I actually wanted to see more of Mark Whalberg in this film, his character was intense. Matt was Matt (his best work for me with regards to Damon to this day still remains to be the first remake of the Bourne Identity, but he did a good job here too). Jack was Jack and you can't say anything more. But Leo was definitely the character I empathized with the most and like I said he carried the film. Maybe it was all the hype leading up to me seeing the movie that let me down a bit though the ending was really good. 8/8 Worth the $$$.",
-      "review_date": "2006-10-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best movies I have ever seen! It keeps you on the edge of your seat the whole time. The actings fantastic, the music is great. This movie is thrilling, unpredictable, and amazing!",
-      "review_date": "2007-09-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "the film was great. all of the complaints people have about it are invalid. the plot was great, the acting suited the film perfectly, and character development worked well. if people can't understand the motivation of a character in athe film was great. all of the complaints people have about it are invalid. the plot was great, the acting suited the film perfectly, and character development worked well. if people can't understand the motivation of a character in a film directed this well, it's the fault of their incompetence, not poor screenwriting or directing or acting. the film is by no means \"safe\", the editing was very sporatic for effect and necessity and the cursing realistic... if you want to be shocked for shock's sake, watch hobos fight on the internet.",
-      "review_date": "2007-02-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nSolid performances from all actors but once again DiCaprio especially impresses me.  He's undercover, struggling with unimaginable anxiety and paranoia which he barely manages to keep a lid on through abuse of anxiolytics and he delivers us a solid and believable character.Mark Wahlberg's outrageous swearing and in-your-face attitude reminds us there are few, if any, true heroes out there.  Faced with the reality of sociopathic criminals and blood-ridden crime scenes even the good guys get gritty.  And on the topic of sociopathy, Jack Nicholson unflinchingly becomes the personification of depravity.  For me, the graphic violence and bad language is justified: these are men pushed to their limits.  And the death of the characters (especially the unexpected death of DiCaprio's character) is shocking and therefore the violence of their deaths should also be shocking.",
-      "review_date": "2010-11-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Being a bit skeptical going into this movie knowing that it is going to be a bloodbath and use f*** as a space-marker, the story telling, acting, and overall plot totally diverts your attention away from the gruesomeness. DiCaprio'sBeing a bit skeptical going into this movie knowing that it is going to be a bloodbath and use f*** as a space-marker, the story telling, acting, and overall plot totally diverts your attention away from the gruesomeness. DiCaprio's performance deserved and Oscar as well as Scorsese's direction. Brilliant movie.",
-      "review_date": "2011-07-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "i've never seen a more gritty and dramatic insight into mob families. will brilliant performances from the entire cast. this is a brilliant action packed movie. brilliantly directed by scorcese, this is one of my favourites.",
-      "review_date": "2011-08-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What can I say? Martin is a genius. Perfectly casted, directed, written. Why are some people giving it 1/10? It's almost an insult to give it a low score like that. The movie is brilliant",
-      "review_date": "2011-09-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just a fantastic film. Each and every actor does such a marvelous job and the movie leaves you wanting more, which is the key reason why this is a 10. The end was great, but yet, I still want more. I'm almost sad that the movie is over.Just a fantastic film. Each and every actor does such a marvelous job and the movie leaves you wanting more, which is the key reason why this is a 10. The end was great, but yet, I still want more. I'm almost sad that the movie is over. Highly recommend. Fantastic film.",
-      "review_date": "2013-06-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What is it about Matt Damon, that's driving me crazyy?! He is simply annoying, his face is antipathic and his smile is complacent. He is on the top of my hate-actors-pyramid. This guy is 100% not for the cinema. He is like those young divas,What is it about Matt Damon, that's driving me crazyy?! He is simply annoying, his face is antipathic and his smile is complacent. He is on the top of my hate-actors-pyramid. This guy is 100% not for the cinema. He is like those young divas, who can't sing, but dad has money. And I don't know why they choose him for such good movies, he destroy them all!!!Back to the movie. :) Great. But my score is mainly due to the badas* ending.",
-      "review_date": "2018-07-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThis is one of the worst, most overrated movies I've ever seen. Critics pretended it was good so that Scorsese could win his best picture that he never won before for the times he really did deserve it like Goodfellas and Casino. This movie was ridiculously unrealistic. Jack Nicholson was horrible in his role. Why would the mob boss be personally involved in all the day to day business? Unrealistic. Why would he personally meet with his police dept. mole in the adult movie theatre and then whip out a s*x toy and do a weird joke thing? That was one of the worst scenes I've ever seen. He was annoying and not all likeable or interesting. He constantly wore that stupid hat and ugly glasses and when he didn't, he had his overly long hair which flared on the sides like they were little wings. Stupid and frustrating to look at. Also, there was the constant offensive language and profanity. Why the need for all the racial and anti-LGBT language? Another horrible scene: when Alec Baldwin's character tells the other guy, \"You one of those guys who works out? Go f*ck yourself\". Yes, that's how bad the dialogue was. The script was unbearably bad. Also, the main female character of a psychiatrist? Why would she sleep with her client who acts like a total lunatic and is extremely insulting to her? Is this Scorsese's fantasy of women? You can treat them like crap and then they break their professional ethics to sleep with you? Horrible. I just watched Casino the night before and was on a Scorsese kick. Wow, what a comparison. Casino is about 100 times better than this one. I can't believe I thought this was a good movie when it first came out. What was I thinking? I guess if you are desperate enough to believe the hype, you can like just about anything. I guess that explains all the positive reviews here. Sad. Deeply painful movie to watch and not at all worth the 2.5 hours of my life I'll never get back. Don't waste your time watching unless you enjoy watching movies just to see how terrible they can get.",
-      "review_date": "2021-01-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I really wanted to like this movie considering the cast and Scorcese, however, I found it jumped all over and was hard to follow. The plot was ok and the acting was mediocre at best as there was a lot of over-acting for dramatic effect whichI really wanted to like this movie considering the cast and Scorcese, however, I found it jumped all over and was hard to follow. The plot was ok and the acting was mediocre at best as there was a lot of over-acting for dramatic effect which diminished the realism and believability. It felt like I wasn't watching fictional characters with any depth, instead just actors acting with bad fake Bahstun accents. I think this would have been a much better movie with some quality new or unknown actors instead of the typical multi-Millionaires, of course, that isn't how the movie business works - it's all about the money and the A-listers get more cattle to the box office. Finally, the cover of Pink Floyd's classic Comfortably Numb was absolutely terrible, I actually cringed when I heard this beautiful song being completely butchered. The band, singer, and anyone involved with this decision should be lined up against a wall and pelted with rotten cantaloupe until they sob, apologize, and promise to never do this again.",
-      "review_date": "2016-07-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Phenomenal. Definitely as good (if not better) than Goodfellas.",
-      "review_date": "2006-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Departed has good acting and a pretty good story but it felt like just another gangster film; violence, drugs, and a bunch of thugs after one thing, money.",
-      "review_date": "2012-04-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of Scorsese's most brilliant works. It may be an adaptation, but the rebirth is stronger like a phoenix. Strong, strong acting, excellent directing, and involving storyline make this mob thriller one of the highlight films of the year.",
-      "review_date": "2011-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Mr. Scorsese just put me in a position, after watching this movie, to be appalled at how gruesome and unnecessarily violent this movie is, or to say, \"What a masterpiece!\" I think I'll go with the latter.",
-      "review_date": "2011-01-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Marty does it again!! and I really really hate DeCaprio (this is baseless old fashioned, old school unreasoning hate, like a clan member but instead of ethnic groups I hate the beautiful people who get to eat cheese burgers off of super Marty does it again!! and I really really hate DeCaprio (this is baseless old fashioned, old school unreasoning hate, like a clan member but instead of ethnic groups I hate the beautiful people who get to eat cheese burgers off of super model asses!)",
-      "review_date": "2007-09-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This Movie is one of the best on the past decade. Excellent job.",
-      "review_date": "2006-12-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not as good as Scorsese's transcendant \"Goodfellas\", but what film could be compared to that masterpiece other than \"The Godfather\"? It's pretty shocking to see that this is the only film directed by Scorsese that ever won Best Picture (notNot as good as Scorsese's transcendant \"Goodfellas\", but what film could be compared to that masterpiece other than \"The Godfather\"? It's pretty shocking to see that this is the only film directed by Scorsese that ever won Best Picture (not that it matters), because I can think of four or five films that I prefer of his over \"The Departed\". Maybe what this film does more than anything is show how illustrious and superb Scorsese's career has been.",
-      "review_date": "2010-08-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I honestly do not know why many people say it's a masterpiece. For me it was a good movie, but not a masterpiece. However, the actors do a great job..",
-      "review_date": "2014-12-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "At least 30 minutes too long, which cost it a point from my point of view. It starts very slowly before building to a slow but intriguing pace. I didn't find myself caring about the fate of any of the characters, which ultimately left meAt least 30 minutes too long, which cost it a point from my point of view. It starts very slowly before building to a slow but intriguing pace. I didn't find myself caring about the fate of any of the characters, which ultimately left me feeling detached from what was going on.However, it was intriguing and I genuinely did want to know what happened in the end. I struggled a bit in the middle because it was so long. Ending did disappoint, however. It made little sense and lacked payoff.",
-      "review_date": "2020-06-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is pretty much an overrated remake of Infernal Affairs. When I first saw this movie I thought it would be AMAZING since it had won the oscar fo best picture and all. I was very disappointed and all I remember was mostly peopleThis movie is pretty much an overrated remake of Infernal Affairs. When I first saw this movie I thought it would be AMAZING since it had won the oscar fo best picture and all. I was very disappointed and all I remember was mostly people saying the F word over and over again. Some parts of the movie tries to have crude humor but it fails miserably. Now I saw this movie before I saw the original infernal affairs I saw infernal affairs about a year after an thought the original was much much MUCH better. This movie lacks proper character development and we feel no emotion for the characters. The only thing better about this remake is the mob boss played by Jack Nicholson. This movie is WAY overrated and I really don't recomend watching it. I however can recomend watching the original movie. The orginal movie \"Inferna Affairs\" has what this movies missing(a heart).",
-      "review_date": "2010-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Uninteresting. It is very overrated. It is too bad that Marty won for this film when he clearly had better work that was overlooked. The accents seem so forced and the storyline is just another gangster film.",
-      "review_date": "2012-03-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Possibly Leo's finest hour........but as with so many recent Scorcese films the ending seemed rushed and the storyline needed work -[***SPOILERS***] how 'bout Wahlberg dropping the brown envelope on the body at the end?. Maybe the Possibly Leo's finest hour........but as with so many recent Scorcese films the ending seemed rushed and the storyline needed work -[***SPOILERS***] how 'bout Wahlberg dropping the brown envelope on the body at the end?. Maybe the last 5 minutes should have been cut entirely and I think Marty should have had a few less 'Yes' men watch the film before it came out. The Departed = Disappointed",
-      "review_date": "2006-10-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nBottom Line: Crime film is very thrilling, hard to stop watching. Deserving of its Best Picture Oscar.\r Scorsese directs a violent update of the well-known Chinese mob film, INFERNAL AFFAIRS, from just four years prior. Set in Boston, Massachusetts, the story tells of a mob boss named Frank Costello (Jack Nicholson) who sends out a criminal, Colin Sullivan (Matt Damon). Simultaneously, the local police have sent out Billy Costigan (Leonardo DiCaprio) to infiltrate Costelloâ",
-      "review_date": "2011-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nMartin Scorsese's translation of \"Internal Affairs\" offers nothing new or shocking except for a surprisingly well performed Wahlberg. He ends the movie with his own american twist (everybody dies) and boom, before you know it the movie is barely done. Overall its good, but he barely makes his point in \"The Departed\" with his overaggressive 'American' translation of the stunning original. I recommend Martin Scorsese to try better, like the time where he had the spirit to direct \"Taxi Driver\".",
-      "review_date": "2011-09-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I really wish someone would explain to me how this is a good movie. Is the acting great? You bet. Direction? Sure. But, how about this... There is absolutely no way in my mind that the events portrayed in the movie could ever be considered I really wish someone would explain to me how this is a good movie. Is the acting great? You bet. Direction? Sure. But, how about this... There is absolutely no way in my mind that the events portrayed in the movie could ever be considered believable. Leonardo DiCaprios character wouldn't have survived any longer than the amount of time it took Jack Nicholson to find him after hearing that there was a rat in the group. Secondly, if there is a leak in a department, they would bring in from outside the group to investigate, not just tell the guy in charge to do it. I dislike this movie only for the reason that I find it amazingly unbelievable and ludicrous.",
-      "review_date": "2008-07-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "While the original Hong Kong version was plausible due to their cultural standards, Scorsese's version was way below imaginable standards. While the HK verison had some plot devices, there was a lot implausible gaps and forced concepts While the original Hong Kong version was plausible due to their cultural standards, Scorsese's version was way below imaginable standards. While the HK verison had some plot devices, there was a lot implausible gaps and forced concepts that didn't work out in the American version. Like a boss sitting in the front of a car so the mole can communicate in the back. A gang boss will never sit in the front of a car! Using cell-phones to bring down a gang is just lame and un-inspiring! Colin Sullivan, who claimed to not be able to use the password on his computer all of a sudden uses it to delete Costigans profile on his very own computer seconds later. The list goes on and gets very tiresome to mention. Didn't anyone review these forced issues and plotholes before making the film? That's right, they just tried to copy IA, forgetting about the lost in translation consequences. Its a shame that America never bothered to release the IA trilogy instead in theaters. The original stories encompassed balanced story-telling, better suspense and emotional content, slick cat-and mouse chase, psychological dept, and well-developed and intriguing characters. We also get to see how being in the police and triads truly bring grief in their lives. The Departed was done sloppy in comparison only saved by typical Scorsese violence and swearing. The characters in Departed were lame and boring. Billy Costigan (Leo Dicpario) is the only character probably that got his role right. Matt Damon, a good actor, had a very dull and typical bad guy character in comparison to Andy Lau's tormented role in IA. Martin Sheen was a poor father figure and a watse of time. and of course, there are other lame, pointless filler characters that aren't worth mentioning. Sadly, Scorsese will get praises from the audience no matter how he makes his films. Had Scorsese's name not been on the director's list, this film would had got a worser rating. All in all, it was IA that was more realistic. People say Departed is, but tell yourself this, not one person swears that much, nor do you see bloodshed like that in reality. 4 guys getting bullets in their heads one after another? There was a reason why IA had the bullet in the head scenerio but Scorsese and Monahan just really never knew what it meant, did they?",
-      "review_date": "2008-05-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Overrated. Unfortunately, overexcessive swearing and violence makes this film too unrealistic. Scorsese is starting to lack polish in his films.",
-      "review_date": "2007-12-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Solid acting through out by a very talented cast. I think they got a bit full of themselves plot wise with the constant twists, Most of which were rather eh and not in the least bit surprising. There are a few needless sub plots too. At 2 andSolid acting through out by a very talented cast. I think they got a bit full of themselves plot wise with the constant twists, Most of which were rather eh and not in the least bit surprising. There are a few needless sub plots too. At 2 and a half hours, It's a bit long to sit through as it did lose my interest a little more than half way.Overall, I didn't mind it but I didn't think that it was a movie that deserved a near 90 overall score.",
-      "review_date": "2016-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "For once ,I agree with the negative reviews here. I simply didn't like the film and Scorsese's way beyond fictional views. I don't see how anyone could give this film a 8 or above.",
-      "review_date": "2008-07-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not necessary. Martin, William, leonardo, Matt, Mark, and Jack put together a performance that goes way over the top and totally unexpected. But 90 minutes in the movie, you can expect the violent killings at the end due to a non-stop Not necessary. Martin, William, leonardo, Matt, Mark, and Jack put together a performance that goes way over the top and totally unexpected. But 90 minutes in the movie, you can expect the violent killings at the end due to a non-stop functional randomly made-up look into crazy lives that is impossibly accurate.",
-      "review_date": "2007-10-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Why is Mark Wahlberg affecting a Bostonian accent in this movie: he's FROM Boston! And, as usual, Scorcese can't direct a believable female character at all. Ever. This-- ALL this said-- it is certainly a better movie than his Why is Mark Wahlberg affecting a Bostonian accent in this movie: he's FROM Boston! And, as usual, Scorcese can't direct a believable female character at all. Ever. This-- ALL this said-- it is certainly a better movie than his post-2000 attempts: the tedious GANGS OF NY and the unwatchable THE AVIATOR...faint praise, indeed.",
-      "review_date": "2009-06-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Martin Scorsese is obsessed with sinful everything. This movie is written, and every character never does follow the ten commandments, only the devils.",
-      "review_date": "2007-10-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Better than awful, but really the most artificial, least compelling, 2d characters, standard run of the mill crap crime movie. If you don't have integrity, you'll enjoy the whole movie. If you do, you might think it's Better than awful, but really the most artificial, least compelling, 2d characters, standard run of the mill crap crime movie. If you don't have integrity, you'll enjoy the whole movie. If you do, you might think it's occasionally touching when the lead men interact with their shared love interest. The rest is just Tarantino-style violence/vulgarity porn for cheap thrills. Worst Mark Wahlberg movie I've seen. WTF?",
-      "review_date": "2007-03-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "James Hoberman was completely on target: Neither a debacle nor a bore. The film's first two-thirds were well constructed. The interlude sequence with Costello (portrayed by Nicholson) lured the audience in with a certain mood. With a James Hoberman was completely on target: Neither a debacle nor a bore. The film's first two-thirds were well constructed. The interlude sequence with Costello (portrayed by Nicholson) lured the audience in with a certain mood. With a technical and fictional (story telling) plan, Martin Scorsese, accompanied by his skilled editor Thelma Schoonmaker succeeded with engaging the audience with a tight cast of characters furthered by precise directing from Martin Scorsese",
-      "review_date": "2006-11-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Be sure to take a pillow for the long nap.",
-      "review_date": "2006-10-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Casting Decaprio as the undercover tough guy ruined the movie. He was only convincing as the innocent young cop and since much of the movie revolved around a sense of sympathy or at least belief in the tribulations of his character, Casting Decaprio as the undercover tough guy ruined the movie. He was only convincing as the innocent young cop and since much of the movie revolved around a sense of sympathy or at least belief in the tribulations of his character, Decaprio's cardbard portrayal destroyed any emotional engagement in the characters. As usual Mark Walburg stole the show becuase his character was lovable but Damon really showed his prowess in creating a character of depth, with frailty and orginality. Unfortunatley brilliance on his part was dependent on Decaprio's reflection. The script was a little heavy handed and frankly seemed to try to be a little too hard in the final sequences to be a Tarintino movie. The Gen Y's I went with seemed to think it was the \"pulp ficiton\" of thier generation.. hopefully they will get something more uniquely thier own than this canned attempt.",
-      "review_date": "2006-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The critics worship at the shrine of Scorsese., but this is a good, not great, movie.. Good actors, well-directed and a pretty good story, but this film does not deserve to be called great and is way overrated. Too long, too much of the same The critics worship at the shrine of Scorsese., but this is a good, not great, movie.. Good actors, well-directed and a pretty good story, but this film does not deserve to be called great and is way overrated. Too long, too much of the same thing... Jack's great and some of his lines are classics., but the film is , really, pretty thin and fairly average-not in the league with Goodfellows, or GF 1 and 2-as some critics are saying.",
-      "review_date": "2006-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A waste of film on every level. Scorsese is in bad need of a dominatrix.",
-      "review_date": "2006-10-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I've noticed that most of the positive comments of this movie tend to come from people who are essentially Scorcese worshippers - people who will praise anything the 'great director' comes up with. While this film might have I've noticed that most of the positive comments of this movie tend to come from people who are essentially Scorcese worshippers - people who will praise anything the 'great director' comes up with. While this film might have its merits, this movie suffers from terrible characterisation, enough to kill this film. As somebody called JR M posted earlier, \"Since much of the movie revolved around a sense of sympathy or at least belief in the tribulations of his character, Decaprio's cardbard portrayal destroyed any emotional engagement in the character\". It was hard to care about a guy who spent the whole movie whining. [***SPOILER***] I cheered when Dicaprio's character got shot, and then I asked myself, 'Hey, aren't I supposed to be rooting for this guy?' His character was poorly concieved, poorly written, poorly characterised, and above all poorly (over) acted.",
-      "review_date": "2007-01-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I don't see how this movie made anyone's \"Best of 2006\" list -- except that the critics love Scorsese. It's a far-from-groundbreaking \"rat in the police dept\" story with tons of bloody gun violence and almost no satisfaction I don't see how this movie made anyone's \"Best of 2006\" list -- except that the critics love Scorsese. It's a far-from-groundbreaking \"rat in the police dept\" story with tons of bloody gun violence and almost no satisfaction plotwise. Acting is OK, but It's like \"Goodfellas\" and \"Pulp Fiction\" minus any style or humor ... and you'll hear the f-word enough to last you the rest of your life.",
-      "review_date": "2007-01-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Steven is right about this movie getting high ratings due to Scorsese worshippers. This movie is poorly contrived in comparison to the original HK movie. The cast is either poorly used or miscast. In the HK one, the Matt Damon character is Steven is right about this movie getting high ratings due to Scorsese worshippers. This movie is poorly contrived in comparison to the original HK movie. The cast is either poorly used or miscast. In the HK one, the Matt Damon character is more interesting and has a dual personality. Martin Sheen is so dull as Leo's supervisor. This movie also lacks the emotion of the original . How this movie is getting high ratings seem to be pure propaganda to boost Scorsese's failing career. To simply put it, America lacks in the ideas department. If this film gets any oscar at all, there goes any integrity Americans have for foreign films.",
-      "review_date": "2007-01-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "America has forgotten what makes a truly great movie. Is this movie way better than most in recent years? Yes. Is this movie Shawshank Redemption or The God Father 2? No. Why? It lacks inclusion. It's an art that is hard to master and America has forgotten what makes a truly great movie. Is this movie way better than most in recent years? Yes. Is this movie Shawshank Redemption or The God Father 2? No. Why? It lacks inclusion. It's an art that is hard to master and hard to explain. Basically, it's a lack of connection between myself (the audience) and the characters. At the end when everyone gets shot, I really didn't care too much about any of the characters' fates. Maybe it's the tabloid cast. We know so much about these people personally, it might as well be our parents or friends on screen. We know that DiCaprio gets up from the floor, cleans off the fake bullet hole in his head, and goes back to his perfect \"real\" life of fame and wealth. We weren't so certain about that back in 1992 with Morgan Freeman and Tim Robbins. We need to either stop with the tabloids or find new actors that will enable our suspension of disbelief again.",
-      "review_date": "2007-03-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It was a good movie all the way until the end. The end ruined everything. I feel like i watched 2 hours of people getting closer and closer to figuring it out for nothing..everybody just dies. stupid!",
-      "review_date": "2008-07-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The actors were great and very credible. But the plot was very blind of artfulness. I cant believe that any people can survive in this ambiance with this blindness. To far from any reality. A Movie just like a comic, nothing else.",
-      "review_date": "2009-04-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The worst script of this year!!! The last 30 minutes of the movies are a completely nonsense!!",
-      "review_date": "2006-11-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Thorough waste of time and money. Cannot for the life of me understand why it is getting all the accolades it is. Too long. People were looking at their watches way before this thing ended. Not a satisfying movie by any stretch.",
-      "review_date": "2006-10-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I",
-      "review_date": "2006-10-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When I saw the preview for the movie I instantly knew that it was a remake of Infernal Affairs. I was excited to see the movie translated, until of course I sat down and watched it. The film was poorly translated. Most of the character When I saw the preview for the movie I instantly knew that it was a remake of Infernal Affairs. I was excited to see the movie translated, until of course I sat down and watched it. The film was poorly translated. Most of the character nuances were lost. Now this wasn't to say that the acting was bad. In fact Nicholson and DiCaprio did a great job, but Matt Damon was pitiful. In the original movie of the characters had a habit of tapping. It was an important part of the movie that was completely removed. Also, the music was very poorly selected and implemented. Nothing like having your ears suddenly blown off in the middle of the movie. Then they turn it down sharply and two seconds later turn it off completely. Makes you wonder how much time they spent on the movie.",
-      "review_date": "2006-10-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "*MILD SPOILERS*  It's an entertaining movie until the \"last act\" of the movie which devolves pretty quickly into something that is rather silly and pointless.  The ending of a movie can make or break a movie and consider this movie*MILD SPOILERS*  It's an entertaining movie until the \"last act\" of the movie which devolves pretty quickly into something that is rather silly and pointless.  The ending of a movie can make or break a movie and consider this movie thoroughly broken.   I left the movie theater feeling hollow and that the first 100 minutes of the movie were a waste.  It's a shame that this is what Scorcese came up with in the end.  It really felt like a cop-out .  If you don't like senseless violence, and I do mean senseless, you might want to steer clear of this one.  You'll probably enjoy it if you are thoroughly desensitized to violence and the value of human life.  I like to enjoy my moviegoing experience, not leave with this nihislitc feeling of \"What's the point???\"",
-      "review_date": "2006-10-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I don't see why this movie won such praise by the critics. The acting was good but that was about it, the story seemed so worn out and done before and the movie was overly long at 2hr and 40mins.",
-      "review_date": "2006-10-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Unfortunately, Scorsese won best director. The original director did a much better job and some how Scorsese won best director for telling a weaker story. American cinema is dead at best.",
-      "review_date": "2007-01-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I had to back up my TIVO when I saw Scorsese get up & start speaking at the podium! I guess I didn't get the word that The Departed was in the running for best director...likely, because it's ridiculous that it be considered & I had to back up my TIVO when I saw Scorsese get up & start speaking at the podium! I guess I didn't get the word that The Departed was in the running for best director...likely, because it's ridiculous that it be considered & placed among the ranks of films actually worthy of the nomination for Best Director! Really...I like Scorses's films, for the most part. But let's face it, even those considered to be among the best at their craft can bomb now & then. The Departed was entertaining at first, but ended up a monumental disappointment & certainly not \"award-worthy!\" It took too much work to stay involved in the movie. I witnessed so many blatant flaws, it was incredible. A completely convoluted movie - one that should have been a Movie of the Week or on HBO...but a Golden Globe contender? Actually, I think I was okay with the movie until about the last 40 minutes. But, whether I liked the movie or not, it wasn't worthy of a Golden Globe - or any award, for that matter! It did explain to me, however, why Nicolson sat at the front table & the cameras graced us with shots of the various 'smug' looks he had plastered across his face whenever somebody on stage looked down at him & brought him into their 'moment' on stage. He sat back in his chair like he was Omnipotent! It was sickening. I like Nicolson as an actor. I also believe he's a very shrewd business man. But let's get serious. If this movie was so great, why wasn't Nicolson up for best actor? That makes no sense! And, Scorsese seemed awkward on stage - I'm thinkin' he had to feel a tad out of place, suddenly, having to look into the faces of those directors he was up against who actually deserved to be in the best director category this year. The one other thing that made me lose complete respect for what the Golden Globes event represents, was Warren Beatty being honored. Let's see...he won 'best director' for REDS way back when...he's been in more forgettable films than memorable. He hasn't done anything in years, except get himself in the limelight hoping people actually believe he belongs in politics...for which he proved himself to be a big buffoon & that Tom Hanks found a way to make Beatty seem somehow amazing...well. that - alone -deserves some kind of awward! I'll say one thing for Nicolson...despite his 'better than thou' attitude, he has proved himself to be an excellent actor. That doesn't mean everything he's in is worthy of an award. It all makes sense to me now...Scorsese winning for \"Best Director,\" Nicolson behaving as if only a select two or three were worthy of his attention, and Beatty being honored...quite a threesome there.",
-      "review_date": "2007-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Honestly, Jack Nicholson took over the screen, and not in a good way, Matt Damon's character was too one-sided, and we never really understood what motive the shrink girlfriend had to sleep with Di-Caprio's character... AND it was Honestly, Jack Nicholson took over the screen, and not in a good way, Matt Damon's character was too one-sided, and we never really understood what motive the shrink girlfriend had to sleep with Di-Caprio's character... AND it was too long. The last image was just too obvious and dissapointing... as was the whole flick.",
-      "review_date": "2007-01-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is an over-rated made for t.v dramedy. A perfect \"Oscar\" type film; both safe and inoffensive. The actors perform their best acting schticks (Jack Nicholson) and do it well - ho hum. It took me a while to realize that it was more comedy This is an over-rated made for t.v dramedy. A perfect \"Oscar\" type film; both safe and inoffensive. The actors perform their best acting schticks (Jack Nicholson) and do it well - ho hum. It took me a while to realize that it was more comedy than drama. Watch out for the BAD photoshopped photo of the girl on the bike and the rat at the end. Also, more money should have been spent on the sets rather than actor's salaries (Jack Nicholson). At least they might have elevated it beyond the look of a daytime soap. Save your money and wait until it comes out on DVD.",
-      "review_date": "2007-01-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Like tScorsese himself, The Departed is vastly overrated. A genre picture that barely improves on standard HBO fare...and showing the rat at the end was the most insipid call a director has made all year.",
-      "review_date": "2007-01-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I was disappointed given all the hype. I'm a long-time Scorsese fan and thought this was nowhere near his best efforts. The film was emotionally dead. Many actors (Nicholson, Damon, Sheen) were miscast. The dialogue was crisp and witty I was disappointed given all the hype. I'm a long-time Scorsese fan and thought this was nowhere near his best efforts. The film was emotionally dead. Many actors (Nicholson, Damon, Sheen) were miscast. The dialogue was crisp and witty but got tiresome - no one talks like that in real life. The script really needed a doctor. If Martin wins a best director oscar it will be for life achievement. To tell the truth I couldn't even finish it.",
-      "review_date": "2007-02-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Very bad movie. Full of dramatic errors, completely illogical, sometimes even ridiculous: Why should the shrink fall in love with Damon? Why should she fall in love with di Caprio? Has she a macho-problem? And: What a strange coincidence Very bad movie. Full of dramatic errors, completely illogical, sometimes even ridiculous: Why should the shrink fall in love with Damon? Why should she fall in love with di Caprio? Has she a macho-problem? And: What a strange coincidence that the two guys sleep with the same woman. Why did Costigan risk to see the shrink who worked on floor under the police? Costello knew that Costigan was an ex-statie: Why did he suspect him sooooo late? The police had a second mole in the Costello gang - but Costigan didn't know it? The police could have arrested Costello much more earlier: They had enough proves and more than enough witnesses? Or the scene with die Chinese guys: The head of operations tells his team that they could locate Costello by cell phones - and 30 seconds later all the cell phone signals dissappear. Evidently one member of the team must have been the mole. And what happened to the brown envelope Costigan gave the shrink? Much too long, stupid script, sometimes even unintentionally funny. And a language that is shocking nobody anymore.",
-      "review_date": "2007-02-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Really enjoyed DiCaprio's acting, I just think the consecutive killings at the end were a bit goofy. I also don't understand why everyone believes Scorsese has to win an \"Oscar\" to cement himself as a very good if not great Really enjoyed DiCaprio's acting, I just think the consecutive killings at the end were a bit goofy. I also don't understand why everyone believes Scorsese has to win an \"Oscar\" to cement himself as a very good if not great director. There should be no \" he deserves a long awaited Oscar.\" Thats a bunch of crap! Stop feeling sorry for the guy.",
-      "review_date": "2007-02-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fair movie but the ending seemed hurried just to get the thing over with. [***SPOILER***] The ending could have been better if Wahlberg's character would have been hit by a car and died too. Why not kill Baldwin's character while Fair movie but the ending seemed hurried just to get the thing over with. [***SPOILER***] The ending could have been better if Wahlberg's character would have been hit by a car and died too. Why not kill Baldwin's character while we're at it.",
-      "review_date": "2007-02-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Enjoyable until the last 1/2 hour and then you suspend all belief feel cheated for investing time to have it taken away with random happenings. With the second mole you may as well have had John rambo come up in the left and kill the whole Enjoyable until the last 1/2 hour and then you suspend all belief feel cheated for investing time to have it taken away with random happenings. With the second mole you may as well have had John rambo come up in the left and kill the whole gang, in fact I would have prefered that, in fact im off to watch rambo and at least you know that he's gonna kill everything cause it's not meant to be REAL like this which is so UNREALISTIC, oh well bring on Rambo 4.",
-      "review_date": "2007-02-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's really too bad that the best film of Scorsese is a just a translation of the excellent Infernal Affairs... It's a complete copycat movie and appart from the names being switched and gangs being transposed to america It's really too bad that the best film of Scorsese is a just a translation of the excellent Infernal Affairs... It's a complete copycat movie and appart from the names being switched and gangs being transposed to america there's not much new... It's still worth seeing for the excellent performances of all the cast and if you haven't seen the original chinese version.",
-      "review_date": "2007-03-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Pretty overrated. It's not really bad, but is pretty bland and didn't engage me at all.",
-      "review_date": "2007-03-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "After viewing this movie, I only wish I hadn't Departed with my money to purchase the tickets! The violence portrayed is so gratuitous and constant that by the time the climax arrivies it degenerates into a bad joke. Another title for After viewing this movie, I only wish I hadn't Departed with my money to purchase the tickets! The violence portrayed is so gratuitous and constant that by the time the climax arrivies it degenerates into a bad joke. Another title for this film could have been, \"People being shot in the Head\". If Americans regard this ultra vulgar, ultru violent movie as the best of the year, then America has problems. Not worthy of Scorsese and his team.",
-      "review_date": "2007-03-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Jeepers I'm so glad I didn't pay money to see this. What a load of cobblers. It was laugh out loud ridiculous. The way Americans are portrayed is simply insulting to you lot. Cops hitting each other in full view of staff -plain Jeepers I'm so glad I didn't pay money to see this. What a load of cobblers. It was laugh out loud ridiculous. The way Americans are portrayed is simply insulting to you lot. Cops hitting each other in full view of staff -plain stupid.Everyone SHOUTING ALL THE TIME IS NOT HOW IT IS.The 'love interest' jeezus how weak can you get??? Best line was Di talking about how cops were portrayed on TV -oh the irony !! How on earth can this be best picture ? Avoid!! Cheers Richard",
-      "review_date": "2007-03-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fine actors, but pretty standard stuff. I didn't care much about any of the characters or what would happen to them. If this is the best, it must have been a bad year for pictures.",
-      "review_date": "2007-03-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I have lost so much respect for all the people who raved about how good this movie was. It's a shame that THIS is the movie that scorcese wins an oscar for. Weak, convoluded plot that falls apart if you think about it too much. I have lost so much respect for all the people who raved about how good this movie was. It's a shame that THIS is the movie that scorcese wins an oscar for. Weak, convoluded plot that falls apart if you think about it too much. Absolutely no character development whatsoever.",
-      "review_date": "2007-04-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Scorsese at the top of his game. Yah sure. The acting was well done and the plot was pretty good but overall the movie was unexpecdedly boring. For example: when Alec Baldwin and Mark Wahlberg were in that meeting room confronting the staff, Scorsese at the top of his game. Yah sure. The acting was well done and the plot was pretty good but overall the movie was unexpecdedly boring. For example: when Alec Baldwin and Mark Wahlberg were in that meeting room confronting the staff, they talked so quickly with them saying random things that just made me wonder.",
-      "review_date": "2007-05-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Leo was great, Jack was asleep, Matt was as boring as ever, Markie Mark was a joke. All this film does is underscore the fact that Good Fellas was one of the greatest films ever made. None of these guys can touch Ray Liotta's genius; Leo was great, Jack was asleep, Matt was as boring as ever, Markie Mark was a joke. All this film does is underscore the fact that Good Fellas was one of the greatest films ever made. None of these guys can touch Ray Liotta's genius; he's America's most under-rated and underappreciated actor by far.",
-      "review_date": "2007-05-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I hated it. I couldn't follow the plot or get involved with the characters. I was just lost a lot of the time. The violence was gratuitous and the script was a mess. I just didn't buy the whole thing. I have seen Scorsese do some I hated it. I couldn't follow the plot or get involved with the characters. I was just lost a lot of the time. The violence was gratuitous and the script was a mess. I just didn't buy the whole thing. I have seen Scorsese do some great films. This was not one of them.",
-      "review_date": "2006-10-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Gratitous and indulgent, but well crafted of course.",
-      "review_date": "2006-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A poor incarnation of it's Hong Kong forerunner. Low on suspense, poorly staged action scenes, only rescued by a great first hour and excellent acting by Nicholson.",
-      "review_date": "2006-10-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Violence, blood and gore does not a movie make. There are more holes in the story than Swiss cheese. The acting was superb but there wasn't much to work with as far as the story goes. I could rip it apart but it will be deleted as Violence, blood and gore does not a movie make. There are more holes in the story than Swiss cheese. The acting was superb but there wasn't much to work with as far as the story goes. I could rip it apart but it will be deleted as spoilers. If you like endless bloodshed in which almost everyone comically buys the farm then you will like this. Not my cup of tea as it was totally ridiculous as Jack should have whacked Leonardo as there wasn't any bond between the two.",
-      "review_date": "2006-10-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I went to see this fim because I like the work of the leads and the Director, but in my opinion this was a complete waste of time.  Lame, actors doing a job for their fees, no tension of any sort, and lots of distracting blood, guts, swearingI went to see this fim because I like the work of the leads and the Director, but in my opinion this was a complete waste of time.  Lame, actors doing a job for their fees, no tension of any sort, and lots of distracting blood, guts, swearing and women with their heads in the laps of smelly old men - the main point of which seemed to be to distract from the emptiness of the whole event.  I enjoyed the original.  Hire it. Don't waste your money on this one.",
-      "review_date": "2006-10-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I have to say how disappointed I was with the film after all the good reviews I seen. I guess if it says \"Directed by Martin Scorsese\" that's good enough for a 9 from the \"critics\". Well he obviously phoned this one in. The signature I have to say how disappointed I was with the film after all the good reviews I seen. I guess if it says \"Directed by Martin Scorsese\" that's good enough for a 9 from the \"critics\". Well he obviously phoned this one in. The signature moves from \"Goodfellas\" are no where in sight. In addition, The Departed never touches the original, \"Infernal Affairs\", in terms of style, speed, or just plain storytelling. The film gets bogged down after the first act and Nicholson went from stellar to laughable (not to mention his accent disappeared halfway through the film). DiCaprio and Damon are the only real reason to see the film. To say this is Scorsese at his best, really doesn't do the man justice because his best films, \"Goodfellas\", \"Last Temptation of Christ\" and \"Raging Bull\" are so much better.",
-      "review_date": "2006-10-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Caught The Departed last night and I have to say, its one abject failure of a remake. I was expecting it to be good, and truth be told, I wanted it to be good because it is based on Hongkong",
-      "review_date": "2006-10-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "OVER-RATED!",
-      "review_date": "2006-10-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Caught The Departed last night and I have to say, its one abject failure of a remake. I was expecting it to be good, and truth be told, I wanted it to be good because it is based on Hongkong",
-      "review_date": "2006-10-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Only thing good about the film is the music score and the acting. Directing and script are kind of \"let's make a movie and put a known director to it\". By far not the best movie of the year imo.",
-      "review_date": "2006-12-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Is everyone else watching a different movie because if there was any common sense and justice, every publication who gave this movie such high marks should be responsible of refunding every ticket sold. Even without watching Infernal Affairs Is everyone else watching a different movie because if there was any common sense and justice, every publication who gave this movie such high marks should be responsible of refunding every ticket sold. Even without watching Infernal Affairs which this was remade from, The Departed is a prolonged bizarre and trite 1 hour and 50 minutes. With wiseguy dialogues that run three words too long of a sentence, it also boasts senseless need of violence on screen. Do American cinema take a few steps backward every few years? The only reason why anyone would give this movie such praise is by just reviewing the credits and not watching it. Where Infernal Affairs was a well-paced film, this was, as one cinema-goer so well put it, \"all over the place.\" Thank you very much for wasting my weekend and also for proving once again, of all the fairness and realism placed in portraying every other race, the Chinese are still made to look like numbskulls who can't even speak their own language properly.",
-      "review_date": "2006-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A thoroughly unpleasant moviegoing experience, easily the most overrated movie of the year.",
-      "review_date": "2006-10-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Banal Dialogue, trite acting, terrible overall.",
-      "review_date": "2007-01-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I saw the Hong Kong one and it was good but not great. After seeing this one it makes the Hong Kong one look like a masterpiece. Warner Bros did confirm that the movie is based on IA and IA 2, and if you watch some segments carefully, I saw the Hong Kong one and it was good but not great. After seeing this one it makes the Hong Kong one look like a masterpiece. Warner Bros did confirm that the movie is based on IA and IA 2, and if you watch some segments carefully, Scorsese does use a few things from IA 3. I guess I just found the plot to be a bit convoluted and maybe it could had done better if they deleted half and hour of nonsense and made the action more dramatic and exciting. The abundance of swearing didn't help either. I probably rent this movie again but not enough spark for me to buy it.",
-      "review_date": "2007-01-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As I have seen Infernal Affairs (which was a damn good movie) first, I was highly disappointed by The Departed. In comparison the characters in this movie are boring and don't seem realistic. But the worst thing to ruin the story was As I have seen Infernal Affairs (which was a damn good movie) first, I was highly disappointed by The Departed. In comparison the characters in this movie are boring and don't seem realistic. But the worst thing to ruin the story was the ending.",
-      "review_date": "2007-02-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I personally don't see what the big deal is with this movie. Amazing performances from Wahlberg and Alec Baldwin but the rest is average. Scorsese doesn't deserve to win for this. He deserved it for Gangs of New York and The I personally don't see what the big deal is with this movie. Amazing performances from Wahlberg and Alec Baldwin but the rest is average. Scorsese doesn't deserve to win for this. He deserved it for Gangs of New York and The Aviator but the award should go to Paul Greengrass this year.",
-      "review_date": "2007-02-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie became absurd on about the third killing, and there must be 30 of 'em. If you're a fan of Scorcese, as I am, this is a disappointment on the scale of Gangs of New York. It falls apart about 2/3 of the way through. This movie became absurd on about the third killing, and there must be 30 of 'em. If you're a fan of Scorcese, as I am, this is a disappointment on the scale of Gangs of New York. It falls apart about 2/3 of the way through. What's a movie without a satisfying ending? Unsatisfying.",
-      "review_date": "2007-02-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I just couldn't get into this movie. This movie is filled with plotholes and implausible themes. Best left only to be rented. Scorsese fails to deliever once again. Stick to his old time classics like Casino or Goodfellas.",
-      "review_date": "2007-02-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Too many over-the-top performances, plot not realistic enough.",
-      "review_date": "2007-02-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great acting, but the second half is BORING. Just hurry up and shoot each other point-blank in the face already!",
-      "review_date": "2007-03-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It was a blast to watch. One of the best times I had at the movies in a while. But Best Picture? Someones trying way to hard to please some Scorsese fans. You can't call it original, since it's based on Infernal Affairs (which is It was a blast to watch. One of the best times I had at the movies in a while. But Best Picture? Someones trying way to hard to please some Scorsese fans. You can't call it original, since it's based on Infernal Affairs (which is far better, from what I hear). The acting is over the top and deeply lacking in depth. Leanardo is angry the whole movie (even during love scenes), Nicholson is crazy the whole movie (never saw that before... wait, yes I have), Damon was a jerk the whole movie. Should I keep going through the entire cast? I had fun, yeah, but I also had fun in Pirates of the Carribean and Talledega Nights. Should they have been nominated too?",
-      "review_date": "2007-03-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Boring script-story telling. As if it was made by an apprentice. Many times had to press the forward button on dvd player just to get it over with. Every time the action was building up for one of the main cop characters the movie switch Boring script-story telling. As if it was made by an apprentice. Many times had to press the forward button on dvd player just to get it over with. Every time the action was building up for one of the main cop characters the movie switch over to the other parallel character without reaching any apex.An on-off pattern without any climax. Only exception the sceen at the elevetor towards the end of the movie. Some characters like the female shrink doctor had no reason to exist. Even when she realised the role of one of the characters she was not given any active role in the action. Only thing that saved it was the excellent play by Nicholson.Some of the images of the mob characters had the potential to project their inner feelings to the viewer and support the overall atmosphere of the movie.The images were there but not the script to support them. So they remained just the 'guys'. No doubt Scorsese deserved an Oscar but NOT for this one.",
-      "review_date": "2007-03-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My friend *finally* let me borrow his DVD of \"The Departed\". What a huge disappointment this movie turned out to be. I can't even believe Scorsese accepted this award with a straight-face (actually, I'm not sure he did, since I My friend *finally* let me borrow his DVD of \"The Departed\". What a huge disappointment this movie turned out to be. I can't even believe Scorsese accepted this award with a straight-face (actually, I'm not sure he did, since I skipped the Oscars). I've never seen so many uses of \"deus ex machina\" in one movie in my entire life. Nicholson recorded all of his conversations? How convenient! Nicholson trusted DiCaprio more than anyone else? How convenient! Nicholson's lawyer handed over the tapes to him? How convenient! Nicholson's got other moles in the force? How convenient! Aforementioned mole is waiting at the bottom of the elevator, and happens to be a \"gung-ho\" kind of mole? How convenient! Mark Wahlberg in paper slippers, what, to hand me an Oscar-winning ending? How convenient! The only thing I enjoyed about the ending - and mind you, i picked this up the second time around - is that when Damon gets shot at the end of the movie, he spills bread and milk on the floor, the same stuff that filled Nicholson filled his grocery bag with in the beginning of the movie.",
-      "review_date": "2007-03-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I don't understand the hype...The movie \"feels\" good but I was left feeling confused and a bit empty at the end. Plus, those two blonde kids look too much alike so that made me even more confused. Jack was good.",
-      "review_date": "2007-03-30",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 138
+    "title": "The Departed",
+    "rating": 7.0,
+    "release_date": "2006-10-06",
+    "genre": [
+        "Mystery",
+        "Thriller",
+        "Crime"
+    ],
+    "summary": "This gritty crime drama from director Martin Scorsese takes us into the lives of two cops: Colin Sullivan (Matt Damon), smart and unabashedly ambitious, appears to be on the fast track in the Massachusetts State Police Department's elite Special Investigations Unit, whose prime target is powerful Irish mob boss Frank Costello (JackThis gritty crime drama from director Martin Scorsese takes us into the lives of two cops: Colin Sullivan (Matt Damon), smart and unabashedly ambitious, appears to be on the fast track in the Massachusetts State Police Department's elite Special Investigations Unit, whose prime target is powerful Irish mob boss Frank Costello (Jack Nicholson). Billy Costigan (Leonardo DiCaprio), street-smart and tough, is purported to have a violent temper that costs him his badge and eventually lands him back on the rough streets of South Boston, where he is recruited into Costello's ranks. But neither man is what he seems and, as they work at cross purposes, they are plunged into a dangerous game of cat and mouse in which the stakes could not be higher.  [Warner Bros.]\u2026 Expand",
+    "critic_reviews": [
+        "A new American crime classic from the legendary Martin Scorsese, whose talent shines here on its highest beams.",
+        "A ferociously entertaining film.",
+        "The Departed is Scorsese's most purely enjoyable movie in years. But it's not for the faint of heart. It's rude, bleak, violent and defiantly un-PC. But if you doubt that it's also OK to laugh throughout this rat's nest of paranoia, deceit and bloodshed, keep your eyes on the final frames. Scorsese's parting shot is an uncharacteristic, but well-earned, wink.",
+        "The original film was gritty and entertaining (\"Infernal Affairs\"); the new version is a masterpiece - the best effort Scorsese has brought to the screen since \"Goodfellas.\"",
+        "A triumphant revisiting of territory in which Scorsese is an unchallenged master -- the crime drama.",
+        "DiCaprio harnesses a terrific, buggy intensity reminiscent of \"GoodFellas'\" hopped-up Henry Hill (Ray Liotta).",
+        "When a director of Scorsese's caliber is working at the top of his game, it's a reminder of why we go to the movies in the first place.",
+        "A movie-movie of the first rank.",
+        "This is the most vibrant, exciting and invigorating movie-movie of the year.",
+        "Thelma Schoonmaker, a Scorsese collaborator for over a quarter-century, did the bull's-eye editing. The moviemaking throughout is swift, unaffected, masterly.",
+        "A thrilling return to form.",
+        "It is intriguing to wonder what Scorsese saw in the Hong Kong movie that inspired him to make the second remake of his career (after \"Cape Fear\"). I think he instantly recognized that this story, at a buried level, brought two sides of his art and psyche into equal focus.",
+        "The very title The Departed suggests a James Joycean take on Irish-Catholic sentiment when, of course, this story is anything but: It's Scorsesean, and he's in full bloom.",
+        "DiCaprio's performance is a revelation only for those who have underestimated him. In Scorsese's previous films, \"The Gangs of New York\" and \"The Aviator,\" he seemed callow and miscast, but here he has the presence of a full-bodied adult. He's grown into his emotions.",
+        "Whatever it is, the film is the first major release of the fall worth talking about: a fast-paced, visually slick, psychologically fascinating Boston-set cops-and-crooks saga.",
+        "It isn't in the same league as the director's best work, chiefly because it lacks the bravura flourishes of cinematic craft that helped make his name. But it's so vital and bloody and funny and wicked and tense and unapologetic that it feels kin to those films, which little of the director's work of the past decade has managed to pull off.",
+        "This reworking of a popular Hong Kong picture pulses with energy, tangy dialogue and crackling performances from a fine cast.",
+        "Scorsese didn't need to remake \"Infernal Affairs,\" but what he has done with it is a compliment rather than an affront to the original: The Departed reimagines its source material rather than just leeching off it, preserving the bone structure of the first movie while finding new curves in it. The story has been clarified; the ellipses of the original have been filled in with just the right amount of exploratory shading. This is a picture of grand gestures and subtle intricacies, a movie that, even at more than two hours long, feels miraculously lean. It's a smart shot of lucid storytelling.",
+        "This is a dream cast for both Scorsese and the viewer, and everyone is working at the peak of their craft. Nicholson's flawless performance as the increasingly unhinged crime boss is a marvel of manic, paranoid ruination.",
+        "The film's score and editing brilliantly heighten the film's energy, keeping the audience somewhat off-kilter and unsure where things are headed.",
+        "The profanity-laced but witty and literate dialogue by William Monahan (\"Kingdom of Heaven\") is delivered by a brilliantly chosen cast, almost all of whom are operating at the very top of their game.",
+        "It's a movie with a pulse. Sometimes, it flies off the chart.",
+        "When The Departed roars to life, as it does in so many of its scenes, you feel like nobody understands movies -- the delirious highs, the unforgiving moral depths -- as well as this man does. Welcome back, Marty.",
+        "The movie works smashingly, especially if you haven't seen its Hong Kong counterpart and haven't a clue what's coming. But for all its snap, crackle, and pop, it's nowhere near as galvanic emotionally.",
+        "Back to the streets and with a stellar cast, Martin Scorsese proves once again that he's the master of urban storytelling -- and of thrillingly violent filmmaking.",
+        "What helps make The Departed at once a success and a relief isn't that the director of \"Kundun,\" Mr. Scorsese's deeply felt film about the Dalai Lama, is back on the mean streets where he belongs; what's at stake here is the film and the filmmaking, not the director's epic importance.",
+        "Frequently excessive but never dull, The Departed is a little too much of a lot of the things that define Martin Scorsese films but it's also almost impossible to resist. Too operatic at times, too in love with violence and macho posturing at others, it's a potboiler dressed up in upscale designer clothes, but oh how that pot does boil.",
+        "Crackles right along, stopping only long enough for Scorsese's signature bursts of explosive violence. Those brawls feel a bit rote, but what's different here is a newfound playful humor.",
+        "Not one of Scorsese's greatest films; it doesn't use the camera to reveal the psychological and aesthetic dimensions of an entire world, as \"Mean Streets,\" \"Taxi Driver,\" \"Raging Bull,\" and \"Goodfellas\" did. But it's a viciously merry, violent, high-wattage entertainment, and speech is the most brazenly flamboyant element in it.",
+        "The Departed exists in a movie-place about as far from personal statements as a storied director can get. Maybe those days for Scorsese are long gone. But Scorsese's sense of craft remains sure.",
+        "There's no attempt at greatness here, just a fabulously successful attempt at a good crime movie. The Oscar-bait self-consciousness of \"Gangs of New York\" and \"The Aviator\" is gone. In its place is a buoyancy, an impish delight in telling a harsh urban story in the most effective terms possible.",
+        "The Departed is completely engrossing, a master class in suspense. But in moral terms it may be the least involving story that Scorsese -- an artist much preoccupied with morality -- has ever taken on.",
+        "This isn't to say The Departed is a bad movie, far from it, but knowing who's directing it and the amount of talent he had to work with, it's hard not to be disappointed that Scorsese didn't knock us on our asses. Is it his best movie since \"Goodfellas?\" Sure, but it falls shy of that film's excellence.",
+        "It's nice to see Scorsese back in the saddle and a treat to find a cops-and-robbers thriller with some energy and wit. But even so, it's a stylish head rush of a movie that flies by, even at two-and-a-half hours, and keeps turning the knife (and your stomach) up to the final scene.",
+        "Rarely has a star's look-at-me turn so completely torpedoed a project. Whenever the picture threatens to gain some momentum, up pops Jack to stop it dead in its tracks. The loyal few may be laughing with him, but the rest of us are definitely laughing at him.",
+        "Neither a debacle nor a bore, The Departed works but only up to a point, and never emotionally--even if the director does contrive to supply his version of a happy ending.",
+        "Scorsese in his prime might've made better use of this hamming, but this picture feels like an exercise by a Scorsese clone who has tackled the master's themes - without his energy and economy of style.",
+        "Is Scorsese desperate? This screenplay has the scent of it, as if he is scraping for material to feed his basic filmic interests. But the risk in this case--not evaded--was that his need led him close to painful strain. I can't remember another Scorsese moment as shockingly banal as the finishing touch here."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "The film is not a film like taxi driver or Raging bull but, it is instead a regular crime thriller film with scorcesse's special touch. This film would have been just an average film if it werent for 2 things. Scorcesse's direction and theThe film is not a film like taxi driver or Raging bull but, it is instead a regular crime thriller film with scorcesse's special touch. This film would have been just an average film if it werent for 2 things. Scorcesse's direction and the acting ensemble. The films writting is also masterful but, it works extremely well because of the acting. Overall a great film.",
+            "review_date": "2012-03-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An excellent film with an outstanding cast brilliant direction and genius writing and a spectacular ending. This is one of the finest films of Scorsese since Goodfellas & Taxi Driver.",
+            "review_date": "2013-05-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is not a film Scorsese will be or should be remembered for - though fans of Goodfellas may relish the profligate bloodshed,It was really boring and i didnt like it at all.",
+            "review_date": "2017-08-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It seems as if the Christian fundies have invaded this site. This film is truly one of my favorite films, ever. A true gangster film, with a great story, great acting, and overall an exceptional film.",
+            "review_date": "2007-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great story, great acting, great film.",
+            "review_date": "2006-11-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think it will be the best movie of 2006. If you haven",
+            "review_date": "2006-11-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What a nice return to the good stuff from the director. I don't think it's his best since \"Goodfellas\" ( I think \"Casino\" is) , but it is really one of his best. And definitely best Dicaprio's work.",
+            "review_date": "2006-11-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Slightly overrated. The acting was superb from all quarters, EVERYONE. But Di Caprio carried the movie. I actually wanted to see more of Mark Whalberg in this film, his character was intense. Matt was Matt (his best work for me with regards Slightly overrated. The acting was superb from all quarters, EVERYONE. But Di Caprio carried the movie. I actually wanted to see more of Mark Whalberg in this film, his character was intense. Matt was Matt (his best work for me with regards to Damon to this day still remains to be the first remake of the Bourne Identity, but he did a good job here too). Jack was Jack and you can't say anything more. But Leo was definitely the character I empathized with the most and like I said he carried the film. Maybe it was all the hype leading up to me seeing the movie that let me down a bit though the ending was really good. 8/8 Worth the $$$.",
+            "review_date": "2006-10-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best movies I have ever seen! It keeps you on the edge of your seat the whole time. The actings fantastic, the music is great. This movie is thrilling, unpredictable, and amazing!",
+            "review_date": "2007-09-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "the film was great. all of the complaints people have about it are invalid. the plot was great, the acting suited the film perfectly, and character development worked well. if people can't understand the motivation of a character in athe film was great. all of the complaints people have about it are invalid. the plot was great, the acting suited the film perfectly, and character development worked well. if people can't understand the motivation of a character in a film directed this well, it's the fault of their incompetence, not poor screenwriting or directing or acting. the film is by no means \"safe\", the editing was very sporatic for effect and necessity and the cursing realistic... if you want to be shocked for shock's sake, watch hobos fight on the internet.",
+            "review_date": "2007-02-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nSolid performances from all actors but once again DiCaprio especially impresses me.  He's undercover, struggling with unimaginable anxiety and paranoia which he barely manages to keep a lid on through abuse of anxiolytics and he delivers us a solid and believable character.Mark Wahlberg's outrageous swearing and in-your-face attitude reminds us there are few, if any, true heroes out there.  Faced with the reality of sociopathic criminals and blood-ridden crime scenes even the good guys get gritty.  And on the topic of sociopathy, Jack Nicholson unflinchingly becomes the personification of depravity.  For me, the graphic violence and bad language is justified: these are men pushed to their limits.  And the death of the characters (especially the unexpected death of DiCaprio's character) is shocking and therefore the violence of their deaths should also be shocking.",
+            "review_date": "2010-11-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Being a bit skeptical going into this movie knowing that it is going to be a bloodbath and use f*** as a space-marker, the story telling, acting, and overall plot totally diverts your attention away from the gruesomeness. DiCaprio'sBeing a bit skeptical going into this movie knowing that it is going to be a bloodbath and use f*** as a space-marker, the story telling, acting, and overall plot totally diverts your attention away from the gruesomeness. DiCaprio's performance deserved and Oscar as well as Scorsese's direction. Brilliant movie.",
+            "review_date": "2011-07-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "i've never seen a more gritty and dramatic insight into mob families. will brilliant performances from the entire cast. this is a brilliant action packed movie. brilliantly directed by scorcese, this is one of my favourites.",
+            "review_date": "2011-08-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What can I say? Martin is a genius. Perfectly casted, directed, written. Why are some people giving it 1/10? It's almost an insult to give it a low score like that. The movie is brilliant",
+            "review_date": "2011-09-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just a fantastic film. Each and every actor does such a marvelous job and the movie leaves you wanting more, which is the key reason why this is a 10. The end was great, but yet, I still want more. I'm almost sad that the movie is over.Just a fantastic film. Each and every actor does such a marvelous job and the movie leaves you wanting more, which is the key reason why this is a 10. The end was great, but yet, I still want more. I'm almost sad that the movie is over. Highly recommend. Fantastic film.",
+            "review_date": "2013-06-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What is it about Matt Damon, that's driving me crazyy?! He is simply annoying, his face is antipathic and his smile is complacent. He is on the top of my hate-actors-pyramid. This guy is 100% not for the cinema. He is like those young divas,What is it about Matt Damon, that's driving me crazyy?! He is simply annoying, his face is antipathic and his smile is complacent. He is on the top of my hate-actors-pyramid. This guy is 100% not for the cinema. He is like those young divas, who can't sing, but dad has money. And I don't know why they choose him for such good movies, he destroy them all!!!Back to the movie. :) Great. But my score is mainly due to the badas* ending.",
+            "review_date": "2018-07-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis is one of the worst, most overrated movies I've ever seen. Critics pretended it was good so that Scorsese could win his best picture that he never won before for the times he really did deserve it like Goodfellas and Casino. This movie was ridiculously unrealistic. Jack Nicholson was horrible in his role. Why would the mob boss be personally involved in all the day to day business? Unrealistic. Why would he personally meet with his police dept. mole in the adult movie theatre and then whip out a s*x toy and do a weird joke thing? That was one of the worst scenes I've ever seen. He was annoying and not all likeable or interesting. He constantly wore that stupid hat and ugly glasses and when he didn't, he had his overly long hair which flared on the sides like they were little wings. Stupid and frustrating to look at. Also, there was the constant offensive language and profanity. Why the need for all the racial and anti-LGBT language? Another horrible scene: when Alec Baldwin's character tells the other guy, \"You one of those guys who works out? Go f*ck yourself\". Yes, that's how bad the dialogue was. The script was unbearably bad. Also, the main female character of a psychiatrist? Why would she sleep with her client who acts like a total lunatic and is extremely insulting to her? Is this Scorsese's fantasy of women? You can treat them like crap and then they break their professional ethics to sleep with you? Horrible. I just watched Casino the night before and was on a Scorsese kick. Wow, what a comparison. Casino is about 100 times better than this one. I can't believe I thought this was a good movie when it first came out. What was I thinking? I guess if you are desperate enough to believe the hype, you can like just about anything. I guess that explains all the positive reviews here. Sad. Deeply painful movie to watch and not at all worth the 2.5 hours of my life I'll never get back. Don't waste your time watching unless you enjoy watching movies just to see how terrible they can get.",
+            "review_date": "2021-01-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really wanted to like this movie considering the cast and Scorcese, however, I found it jumped all over and was hard to follow. The plot was ok and the acting was mediocre at best as there was a lot of over-acting for dramatic effect whichI really wanted to like this movie considering the cast and Scorcese, however, I found it jumped all over and was hard to follow. The plot was ok and the acting was mediocre at best as there was a lot of over-acting for dramatic effect which diminished the realism and believability. It felt like I wasn't watching fictional characters with any depth, instead just actors acting with bad fake Bahstun accents. I think this would have been a much better movie with some quality new or unknown actors instead of the typical multi-Millionaires, of course, that isn't how the movie business works - it's all about the money and the A-listers get more cattle to the box office. Finally, the cover of Pink Floyd's classic Comfortably Numb was absolutely terrible, I actually cringed when I heard this beautiful song being completely butchered. The band, singer, and anyone involved with this decision should be lined up against a wall and pelted with rotten cantaloupe until they sob, apologize, and promise to never do this again.",
+            "review_date": "2016-07-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Phenomenal. Definitely as good (if not better) than Goodfellas.",
+            "review_date": "2006-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Departed has good acting and a pretty good story but it felt like just another gangster film; violence, drugs, and a bunch of thugs after one thing, money.",
+            "review_date": "2012-04-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of Scorsese's most brilliant works. It may be an adaptation, but the rebirth is stronger like a phoenix. Strong, strong acting, excellent directing, and involving storyline make this mob thriller one of the highlight films of the year.",
+            "review_date": "2011-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Mr. Scorsese just put me in a position, after watching this movie, to be appalled at how gruesome and unnecessarily violent this movie is, or to say, \"What a masterpiece!\" I think I'll go with the latter.",
+            "review_date": "2011-01-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Marty does it again!! and I really really hate DeCaprio (this is baseless old fashioned, old school unreasoning hate, like a clan member but instead of ethnic groups I hate the beautiful people who get to eat cheese burgers off of super Marty does it again!! and I really really hate DeCaprio (this is baseless old fashioned, old school unreasoning hate, like a clan member but instead of ethnic groups I hate the beautiful people who get to eat cheese burgers off of super model asses!)",
+            "review_date": "2007-09-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This Movie is one of the best on the past decade. Excellent job.",
+            "review_date": "2006-12-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not as good as Scorsese's transcendant \"Goodfellas\", but what film could be compared to that masterpiece other than \"The Godfather\"? It's pretty shocking to see that this is the only film directed by Scorsese that ever won Best Picture (notNot as good as Scorsese's transcendant \"Goodfellas\", but what film could be compared to that masterpiece other than \"The Godfather\"? It's pretty shocking to see that this is the only film directed by Scorsese that ever won Best Picture (not that it matters), because I can think of four or five films that I prefer of his over \"The Departed\". Maybe what this film does more than anything is show how illustrious and superb Scorsese's career has been.",
+            "review_date": "2010-08-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I honestly do not know why many people say it's a masterpiece. For me it was a good movie, but not a masterpiece. However, the actors do a great job..",
+            "review_date": "2014-12-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "At least 30 minutes too long, which cost it a point from my point of view. It starts very slowly before building to a slow but intriguing pace. I didn't find myself caring about the fate of any of the characters, which ultimately left meAt least 30 minutes too long, which cost it a point from my point of view. It starts very slowly before building to a slow but intriguing pace. I didn't find myself caring about the fate of any of the characters, which ultimately left me feeling detached from what was going on.However, it was intriguing and I genuinely did want to know what happened in the end. I struggled a bit in the middle because it was so long. Ending did disappoint, however. It made little sense and lacked payoff.",
+            "review_date": "2020-06-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is pretty much an overrated remake of Infernal Affairs. When I first saw this movie I thought it would be AMAZING since it had won the oscar fo best picture and all. I was very disappointed and all I remember was mostly peopleThis movie is pretty much an overrated remake of Infernal Affairs. When I first saw this movie I thought it would be AMAZING since it had won the oscar fo best picture and all. I was very disappointed and all I remember was mostly people saying the F word over and over again. Some parts of the movie tries to have crude humor but it fails miserably. Now I saw this movie before I saw the original infernal affairs I saw infernal affairs about a year after an thought the original was much much MUCH better. This movie lacks proper character development and we feel no emotion for the characters. The only thing better about this remake is the mob boss played by Jack Nicholson. This movie is WAY overrated and I really don't recomend watching it. I however can recomend watching the original movie. The orginal movie \"Inferna Affairs\" has what this movies missing(a heart).",
+            "review_date": "2010-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Uninteresting. It is very overrated. It is too bad that Marty won for this film when he clearly had better work that was overlooked. The accents seem so forced and the storyline is just another gangster film.",
+            "review_date": "2012-03-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Possibly Leo's finest hour........but as with so many recent Scorcese films the ending seemed rushed and the storyline needed work -[***SPOILERS***] how 'bout Wahlberg dropping the brown envelope on the body at the end?. Maybe the Possibly Leo's finest hour........but as with so many recent Scorcese films the ending seemed rushed and the storyline needed work -[***SPOILERS***] how 'bout Wahlberg dropping the brown envelope on the body at the end?. Maybe the last 5 minutes should have been cut entirely and I think Marty should have had a few less 'Yes' men watch the film before it came out. The Departed = Disappointed",
+            "review_date": "2006-10-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nBottom Line: Crime film is very thrilling, hard to stop watching. Deserving of its Best Picture Oscar.\r Scorsese directs a violent update of the well-known Chinese mob film, INFERNAL AFFAIRS, from just four years prior. Set in Boston, Massachusetts, the story tells of a mob boss named Frank Costello (Jack Nicholson) who sends out a criminal, Colin Sullivan (Matt Damon). Simultaneously, the local police have sent out Billy Costigan (Leonardo DiCaprio) to infiltrate Costello\u00e2",
+            "review_date": "2011-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nMartin Scorsese's translation of \"Internal Affairs\" offers nothing new or shocking except for a surprisingly well performed Wahlberg. He ends the movie with his own american twist (everybody dies) and boom, before you know it the movie is barely done. Overall its good, but he barely makes his point in \"The Departed\" with his overaggressive 'American' translation of the stunning original. I recommend Martin Scorsese to try better, like the time where he had the spirit to direct \"Taxi Driver\".",
+            "review_date": "2011-09-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really wish someone would explain to me how this is a good movie. Is the acting great? You bet. Direction? Sure. But, how about this... There is absolutely no way in my mind that the events portrayed in the movie could ever be considered I really wish someone would explain to me how this is a good movie. Is the acting great? You bet. Direction? Sure. But, how about this... There is absolutely no way in my mind that the events portrayed in the movie could ever be considered believable. Leonardo DiCaprios character wouldn't have survived any longer than the amount of time it took Jack Nicholson to find him after hearing that there was a rat in the group. Secondly, if there is a leak in a department, they would bring in from outside the group to investigate, not just tell the guy in charge to do it. I dislike this movie only for the reason that I find it amazingly unbelievable and ludicrous.",
+            "review_date": "2008-07-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While the original Hong Kong version was plausible due to their cultural standards, Scorsese's version was way below imaginable standards. While the HK verison had some plot devices, there was a lot implausible gaps and forced concepts While the original Hong Kong version was plausible due to their cultural standards, Scorsese's version was way below imaginable standards. While the HK verison had some plot devices, there was a lot implausible gaps and forced concepts that didn't work out in the American version. Like a boss sitting in the front of a car so the mole can communicate in the back. A gang boss will never sit in the front of a car! Using cell-phones to bring down a gang is just lame and un-inspiring! Colin Sullivan, who claimed to not be able to use the password on his computer all of a sudden uses it to delete Costigans profile on his very own computer seconds later. The list goes on and gets very tiresome to mention. Didn't anyone review these forced issues and plotholes before making the film? That's right, they just tried to copy IA, forgetting about the lost in translation consequences. Its a shame that America never bothered to release the IA trilogy instead in theaters. The original stories encompassed balanced story-telling, better suspense and emotional content, slick cat-and mouse chase, psychological dept, and well-developed and intriguing characters. We also get to see how being in the police and triads truly bring grief in their lives. The Departed was done sloppy in comparison only saved by typical Scorsese violence and swearing. The characters in Departed were lame and boring. Billy Costigan (Leo Dicpario) is the only character probably that got his role right. Matt Damon, a good actor, had a very dull and typical bad guy character in comparison to Andy Lau's tormented role in IA. Martin Sheen was a poor father figure and a watse of time. and of course, there are other lame, pointless filler characters that aren't worth mentioning. Sadly, Scorsese will get praises from the audience no matter how he makes his films. Had Scorsese's name not been on the director's list, this film would had got a worser rating. All in all, it was IA that was more realistic. People say Departed is, but tell yourself this, not one person swears that much, nor do you see bloodshed like that in reality. 4 guys getting bullets in their heads one after another? There was a reason why IA had the bullet in the head scenerio but Scorsese and Monahan just really never knew what it meant, did they?",
+            "review_date": "2008-05-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Overrated. Unfortunately, overexcessive swearing and violence makes this film too unrealistic. Scorsese is starting to lack polish in his films.",
+            "review_date": "2007-12-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Solid acting through out by a very talented cast. I think they got a bit full of themselves plot wise with the constant twists, Most of which were rather eh and not in the least bit surprising. There are a few needless sub plots too. At 2 andSolid acting through out by a very talented cast. I think they got a bit full of themselves plot wise with the constant twists, Most of which were rather eh and not in the least bit surprising. There are a few needless sub plots too. At 2 and a half hours, It's a bit long to sit through as it did lose my interest a little more than half way.Overall, I didn't mind it but I didn't think that it was a movie that deserved a near 90 overall score.",
+            "review_date": "2016-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For once ,I agree with the negative reviews here. I simply didn't like the film and Scorsese's way beyond fictional views. I don't see how anyone could give this film a 8 or above.",
+            "review_date": "2008-07-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not necessary. Martin, William, leonardo, Matt, Mark, and Jack put together a performance that goes way over the top and totally unexpected. But 90 minutes in the movie, you can expect the violent killings at the end due to a non-stop Not necessary. Martin, William, leonardo, Matt, Mark, and Jack put together a performance that goes way over the top and totally unexpected. But 90 minutes in the movie, you can expect the violent killings at the end due to a non-stop functional randomly made-up look into crazy lives that is impossibly accurate.",
+            "review_date": "2007-10-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Why is Mark Wahlberg affecting a Bostonian accent in this movie: he's FROM Boston! And, as usual, Scorcese can't direct a believable female character at all. Ever. This-- ALL this said-- it is certainly a better movie than his Why is Mark Wahlberg affecting a Bostonian accent in this movie: he's FROM Boston! And, as usual, Scorcese can't direct a believable female character at all. Ever. This-- ALL this said-- it is certainly a better movie than his post-2000 attempts: the tedious GANGS OF NY and the unwatchable THE AVIATOR...faint praise, indeed.",
+            "review_date": "2009-06-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Martin Scorsese is obsessed with sinful everything. This movie is written, and every character never does follow the ten commandments, only the devils.",
+            "review_date": "2007-10-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Better than awful, but really the most artificial, least compelling, 2d characters, standard run of the mill crap crime movie. If you don't have integrity, you'll enjoy the whole movie. If you do, you might think it's Better than awful, but really the most artificial, least compelling, 2d characters, standard run of the mill crap crime movie. If you don't have integrity, you'll enjoy the whole movie. If you do, you might think it's occasionally touching when the lead men interact with their shared love interest. The rest is just Tarantino-style violence/vulgarity porn for cheap thrills. Worst Mark Wahlberg movie I've seen. WTF?",
+            "review_date": "2007-03-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "James Hoberman was completely on target: Neither a debacle nor a bore. The film's first two-thirds were well constructed. The interlude sequence with Costello (portrayed by Nicholson) lured the audience in with a certain mood. With a James Hoberman was completely on target: Neither a debacle nor a bore. The film's first two-thirds were well constructed. The interlude sequence with Costello (portrayed by Nicholson) lured the audience in with a certain mood. With a technical and fictional (story telling) plan, Martin Scorsese, accompanied by his skilled editor Thelma Schoonmaker succeeded with engaging the audience with a tight cast of characters furthered by precise directing from Martin Scorsese",
+            "review_date": "2006-11-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Be sure to take a pillow for the long nap.",
+            "review_date": "2006-10-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Casting Decaprio as the undercover tough guy ruined the movie. He was only convincing as the innocent young cop and since much of the movie revolved around a sense of sympathy or at least belief in the tribulations of his character, Casting Decaprio as the undercover tough guy ruined the movie. He was only convincing as the innocent young cop and since much of the movie revolved around a sense of sympathy or at least belief in the tribulations of his character, Decaprio's cardbard portrayal destroyed any emotional engagement in the characters. As usual Mark Walburg stole the show becuase his character was lovable but Damon really showed his prowess in creating a character of depth, with frailty and orginality. Unfortunatley brilliance on his part was dependent on Decaprio's reflection. The script was a little heavy handed and frankly seemed to try to be a little too hard in the final sequences to be a Tarintino movie. The Gen Y's I went with seemed to think it was the \"pulp ficiton\" of thier generation.. hopefully they will get something more uniquely thier own than this canned attempt.",
+            "review_date": "2006-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The critics worship at the shrine of Scorsese., but this is a good, not great, movie.. Good actors, well-directed and a pretty good story, but this film does not deserve to be called great and is way overrated. Too long, too much of the same The critics worship at the shrine of Scorsese., but this is a good, not great, movie.. Good actors, well-directed and a pretty good story, but this film does not deserve to be called great and is way overrated. Too long, too much of the same thing... Jack's great and some of his lines are classics., but the film is , really, pretty thin and fairly average-not in the league with Goodfellows, or GF 1 and 2-as some critics are saying.",
+            "review_date": "2006-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A waste of film on every level. Scorsese is in bad need of a dominatrix.",
+            "review_date": "2006-10-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I've noticed that most of the positive comments of this movie tend to come from people who are essentially Scorcese worshippers - people who will praise anything the 'great director' comes up with. While this film might have I've noticed that most of the positive comments of this movie tend to come from people who are essentially Scorcese worshippers - people who will praise anything the 'great director' comes up with. While this film might have its merits, this movie suffers from terrible characterisation, enough to kill this film. As somebody called JR M posted earlier, \"Since much of the movie revolved around a sense of sympathy or at least belief in the tribulations of his character, Decaprio's cardbard portrayal destroyed any emotional engagement in the character\". It was hard to care about a guy who spent the whole movie whining. [***SPOILER***] I cheered when Dicaprio's character got shot, and then I asked myself, 'Hey, aren't I supposed to be rooting for this guy?' His character was poorly concieved, poorly written, poorly characterised, and above all poorly (over) acted.",
+            "review_date": "2007-01-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't see how this movie made anyone's \"Best of 2006\" list -- except that the critics love Scorsese. It's a far-from-groundbreaking \"rat in the police dept\" story with tons of bloody gun violence and almost no satisfaction I don't see how this movie made anyone's \"Best of 2006\" list -- except that the critics love Scorsese. It's a far-from-groundbreaking \"rat in the police dept\" story with tons of bloody gun violence and almost no satisfaction plotwise. Acting is OK, but It's like \"Goodfellas\" and \"Pulp Fiction\" minus any style or humor ... and you'll hear the f-word enough to last you the rest of your life.",
+            "review_date": "2007-01-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Steven is right about this movie getting high ratings due to Scorsese worshippers. This movie is poorly contrived in comparison to the original HK movie. The cast is either poorly used or miscast. In the HK one, the Matt Damon character is Steven is right about this movie getting high ratings due to Scorsese worshippers. This movie is poorly contrived in comparison to the original HK movie. The cast is either poorly used or miscast. In the HK one, the Matt Damon character is more interesting and has a dual personality. Martin Sheen is so dull as Leo's supervisor. This movie also lacks the emotion of the original . How this movie is getting high ratings seem to be pure propaganda to boost Scorsese's failing career. To simply put it, America lacks in the ideas department. If this film gets any oscar at all, there goes any integrity Americans have for foreign films.",
+            "review_date": "2007-01-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "America has forgotten what makes a truly great movie. Is this movie way better than most in recent years? Yes. Is this movie Shawshank Redemption or The God Father 2? No. Why? It lacks inclusion. It's an art that is hard to master and America has forgotten what makes a truly great movie. Is this movie way better than most in recent years? Yes. Is this movie Shawshank Redemption or The God Father 2? No. Why? It lacks inclusion. It's an art that is hard to master and hard to explain. Basically, it's a lack of connection between myself (the audience) and the characters. At the end when everyone gets shot, I really didn't care too much about any of the characters' fates. Maybe it's the tabloid cast. We know so much about these people personally, it might as well be our parents or friends on screen. We know that DiCaprio gets up from the floor, cleans off the fake bullet hole in his head, and goes back to his perfect \"real\" life of fame and wealth. We weren't so certain about that back in 1992 with Morgan Freeman and Tim Robbins. We need to either stop with the tabloids or find new actors that will enable our suspension of disbelief again.",
+            "review_date": "2007-03-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was a good movie all the way until the end. The end ruined everything. I feel like i watched 2 hours of people getting closer and closer to figuring it out for nothing..everybody just dies. stupid!",
+            "review_date": "2008-07-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The actors were great and very credible. But the plot was very blind of artfulness. I cant believe that any people can survive in this ambiance with this blindness. To far from any reality. A Movie just like a comic, nothing else.",
+            "review_date": "2009-04-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The worst script of this year!!! The last 30 minutes of the movies are a completely nonsense!!",
+            "review_date": "2006-11-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Thorough waste of time and money. Cannot for the life of me understand why it is getting all the accolades it is. Too long. People were looking at their watches way before this thing ended. Not a satisfying movie by any stretch.",
+            "review_date": "2006-10-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When I saw the preview for the movie I instantly knew that it was a remake of Infernal Affairs. I was excited to see the movie translated, until of course I sat down and watched it. The film was poorly translated. Most of the character When I saw the preview for the movie I instantly knew that it was a remake of Infernal Affairs. I was excited to see the movie translated, until of course I sat down and watched it. The film was poorly translated. Most of the character nuances were lost. Now this wasn't to say that the acting was bad. In fact Nicholson and DiCaprio did a great job, but Matt Damon was pitiful. In the original movie of the characters had a habit of tapping. It was an important part of the movie that was completely removed. Also, the music was very poorly selected and implemented. Nothing like having your ears suddenly blown off in the middle of the movie. Then they turn it down sharply and two seconds later turn it off completely. Makes you wonder how much time they spent on the movie.",
+            "review_date": "2006-10-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "*MILD SPOILERS*  It's an entertaining movie until the \"last act\" of the movie which devolves pretty quickly into something that is rather silly and pointless.  The ending of a movie can make or break a movie and consider this movie*MILD SPOILERS*  It's an entertaining movie until the \"last act\" of the movie which devolves pretty quickly into something that is rather silly and pointless.  The ending of a movie can make or break a movie and consider this movie thoroughly broken.   I left the movie theater feeling hollow and that the first 100 minutes of the movie were a waste.  It's a shame that this is what Scorcese came up with in the end.  It really felt like a cop-out .  If you don't like senseless violence, and I do mean senseless, you might want to steer clear of this one.  You'll probably enjoy it if you are thoroughly desensitized to violence and the value of human life.  I like to enjoy my moviegoing experience, not leave with this nihislitc feeling of \"What's the point???\"",
+            "review_date": "2006-10-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't see why this movie won such praise by the critics. The acting was good but that was about it, the story seemed so worn out and done before and the movie was overly long at 2hr and 40mins.",
+            "review_date": "2006-10-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Unfortunately, Scorsese won best director. The original director did a much better job and some how Scorsese won best director for telling a weaker story. American cinema is dead at best.",
+            "review_date": "2007-01-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I had to back up my TIVO when I saw Scorsese get up & start speaking at the podium! I guess I didn't get the word that The Departed was in the running for best director...likely, because it's ridiculous that it be considered & I had to back up my TIVO when I saw Scorsese get up & start speaking at the podium! I guess I didn't get the word that The Departed was in the running for best director...likely, because it's ridiculous that it be considered & placed among the ranks of films actually worthy of the nomination for Best Director! Really...I like Scorses's films, for the most part. But let's face it, even those considered to be among the best at their craft can bomb now & then. The Departed was entertaining at first, but ended up a monumental disappointment & certainly not \"award-worthy!\" It took too much work to stay involved in the movie. I witnessed so many blatant flaws, it was incredible. A completely convoluted movie - one that should have been a Movie of the Week or on HBO...but a Golden Globe contender? Actually, I think I was okay with the movie until about the last 40 minutes. But, whether I liked the movie or not, it wasn't worthy of a Golden Globe - or any award, for that matter! It did explain to me, however, why Nicolson sat at the front table & the cameras graced us with shots of the various 'smug' looks he had plastered across his face whenever somebody on stage looked down at him & brought him into their 'moment' on stage. He sat back in his chair like he was Omnipotent! It was sickening. I like Nicolson as an actor. I also believe he's a very shrewd business man. But let's get serious. If this movie was so great, why wasn't Nicolson up for best actor? That makes no sense! And, Scorsese seemed awkward on stage - I'm thinkin' he had to feel a tad out of place, suddenly, having to look into the faces of those directors he was up against who actually deserved to be in the best director category this year. The one other thing that made me lose complete respect for what the Golden Globes event represents, was Warren Beatty being honored. Let's see...he won 'best director' for REDS way back when...he's been in more forgettable films than memorable. He hasn't done anything in years, except get himself in the limelight hoping people actually believe he belongs in politics...for which he proved himself to be a big buffoon & that Tom Hanks found a way to make Beatty seem somehow amazing...well. that - alone -deserves some kind of awward! I'll say one thing for Nicolson...despite his 'better than thou' attitude, he has proved himself to be an excellent actor. That doesn't mean everything he's in is worthy of an award. It all makes sense to me now...Scorsese winning for \"Best Director,\" Nicolson behaving as if only a select two or three were worthy of his attention, and Beatty being honored...quite a threesome there.",
+            "review_date": "2007-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Honestly, Jack Nicholson took over the screen, and not in a good way, Matt Damon's character was too one-sided, and we never really understood what motive the shrink girlfriend had to sleep with Di-Caprio's character... AND it was Honestly, Jack Nicholson took over the screen, and not in a good way, Matt Damon's character was too one-sided, and we never really understood what motive the shrink girlfriend had to sleep with Di-Caprio's character... AND it was too long. The last image was just too obvious and dissapointing... as was the whole flick.",
+            "review_date": "2007-01-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is an over-rated made for t.v dramedy. A perfect \"Oscar\" type film; both safe and inoffensive. The actors perform their best acting schticks (Jack Nicholson) and do it well - ho hum. It took me a while to realize that it was more comedy This is an over-rated made for t.v dramedy. A perfect \"Oscar\" type film; both safe and inoffensive. The actors perform their best acting schticks (Jack Nicholson) and do it well - ho hum. It took me a while to realize that it was more comedy than drama. Watch out for the BAD photoshopped photo of the girl on the bike and the rat at the end. Also, more money should have been spent on the sets rather than actor's salaries (Jack Nicholson). At least they might have elevated it beyond the look of a daytime soap. Save your money and wait until it comes out on DVD.",
+            "review_date": "2007-01-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Like tScorsese himself, The Departed is vastly overrated. A genre picture that barely improves on standard HBO fare...and showing the rat at the end was the most insipid call a director has made all year.",
+            "review_date": "2007-01-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I was disappointed given all the hype. I'm a long-time Scorsese fan and thought this was nowhere near his best efforts. The film was emotionally dead. Many actors (Nicholson, Damon, Sheen) were miscast. The dialogue was crisp and witty I was disappointed given all the hype. I'm a long-time Scorsese fan and thought this was nowhere near his best efforts. The film was emotionally dead. Many actors (Nicholson, Damon, Sheen) were miscast. The dialogue was crisp and witty but got tiresome - no one talks like that in real life. The script really needed a doctor. If Martin wins a best director oscar it will be for life achievement. To tell the truth I couldn't even finish it.",
+            "review_date": "2007-02-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very bad movie. Full of dramatic errors, completely illogical, sometimes even ridiculous: Why should the shrink fall in love with Damon? Why should she fall in love with di Caprio? Has she a macho-problem? And: What a strange coincidence Very bad movie. Full of dramatic errors, completely illogical, sometimes even ridiculous: Why should the shrink fall in love with Damon? Why should she fall in love with di Caprio? Has she a macho-problem? And: What a strange coincidence that the two guys sleep with the same woman. Why did Costigan risk to see the shrink who worked on floor under the police? Costello knew that Costigan was an ex-statie: Why did he suspect him sooooo late? The police had a second mole in the Costello gang - but Costigan didn't know it? The police could have arrested Costello much more earlier: They had enough proves and more than enough witnesses? Or the scene with die Chinese guys: The head of operations tells his team that they could locate Costello by cell phones - and 30 seconds later all the cell phone signals dissappear. Evidently one member of the team must have been the mole. And what happened to the brown envelope Costigan gave the shrink? Much too long, stupid script, sometimes even unintentionally funny. And a language that is shocking nobody anymore.",
+            "review_date": "2007-02-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Really enjoyed DiCaprio's acting, I just think the consecutive killings at the end were a bit goofy. I also don't understand why everyone believes Scorsese has to win an \"Oscar\" to cement himself as a very good if not great Really enjoyed DiCaprio's acting, I just think the consecutive killings at the end were a bit goofy. I also don't understand why everyone believes Scorsese has to win an \"Oscar\" to cement himself as a very good if not great director. There should be no \" he deserves a long awaited Oscar.\" Thats a bunch of crap! Stop feeling sorry for the guy.",
+            "review_date": "2007-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fair movie but the ending seemed hurried just to get the thing over with. [***SPOILER***] The ending could have been better if Wahlberg's character would have been hit by a car and died too. Why not kill Baldwin's character while Fair movie but the ending seemed hurried just to get the thing over with. [***SPOILER***] The ending could have been better if Wahlberg's character would have been hit by a car and died too. Why not kill Baldwin's character while we're at it.",
+            "review_date": "2007-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Enjoyable until the last 1/2 hour and then you suspend all belief feel cheated for investing time to have it taken away with random happenings. With the second mole you may as well have had John rambo come up in the left and kill the whole Enjoyable until the last 1/2 hour and then you suspend all belief feel cheated for investing time to have it taken away with random happenings. With the second mole you may as well have had John rambo come up in the left and kill the whole gang, in fact I would have prefered that, in fact im off to watch rambo and at least you know that he's gonna kill everything cause it's not meant to be REAL like this which is so UNREALISTIC, oh well bring on Rambo 4.",
+            "review_date": "2007-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's really too bad that the best film of Scorsese is a just a translation of the excellent Infernal Affairs... It's a complete copycat movie and appart from the names being switched and gangs being transposed to america It's really too bad that the best film of Scorsese is a just a translation of the excellent Infernal Affairs... It's a complete copycat movie and appart from the names being switched and gangs being transposed to america there's not much new... It's still worth seeing for the excellent performances of all the cast and if you haven't seen the original chinese version.",
+            "review_date": "2007-03-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Pretty overrated. It's not really bad, but is pretty bland and didn't engage me at all.",
+            "review_date": "2007-03-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "After viewing this movie, I only wish I hadn't Departed with my money to purchase the tickets! The violence portrayed is so gratuitous and constant that by the time the climax arrivies it degenerates into a bad joke. Another title for After viewing this movie, I only wish I hadn't Departed with my money to purchase the tickets! The violence portrayed is so gratuitous and constant that by the time the climax arrivies it degenerates into a bad joke. Another title for this film could have been, \"People being shot in the Head\". If Americans regard this ultra vulgar, ultru violent movie as the best of the year, then America has problems. Not worthy of Scorsese and his team.",
+            "review_date": "2007-03-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Jeepers I'm so glad I didn't pay money to see this. What a load of cobblers. It was laugh out loud ridiculous. The way Americans are portrayed is simply insulting to you lot. Cops hitting each other in full view of staff -plain Jeepers I'm so glad I didn't pay money to see this. What a load of cobblers. It was laugh out loud ridiculous. The way Americans are portrayed is simply insulting to you lot. Cops hitting each other in full view of staff -plain stupid.Everyone SHOUTING ALL THE TIME IS NOT HOW IT IS.The 'love interest' jeezus how weak can you get??? Best line was Di talking about how cops were portrayed on TV -oh the irony !! How on earth can this be best picture ? Avoid!! Cheers Richard",
+            "review_date": "2007-03-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fine actors, but pretty standard stuff. I didn't care much about any of the characters or what would happen to them. If this is the best, it must have been a bad year for pictures.",
+            "review_date": "2007-03-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I have lost so much respect for all the people who raved about how good this movie was. It's a shame that THIS is the movie that scorcese wins an oscar for. Weak, convoluded plot that falls apart if you think about it too much. I have lost so much respect for all the people who raved about how good this movie was. It's a shame that THIS is the movie that scorcese wins an oscar for. Weak, convoluded plot that falls apart if you think about it too much. Absolutely no character development whatsoever.",
+            "review_date": "2007-04-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Scorsese at the top of his game. Yah sure. The acting was well done and the plot was pretty good but overall the movie was unexpecdedly boring. For example: when Alec Baldwin and Mark Wahlberg were in that meeting room confronting the staff, Scorsese at the top of his game. Yah sure. The acting was well done and the plot was pretty good but overall the movie was unexpecdedly boring. For example: when Alec Baldwin and Mark Wahlberg were in that meeting room confronting the staff, they talked so quickly with them saying random things that just made me wonder.",
+            "review_date": "2007-05-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Leo was great, Jack was asleep, Matt was as boring as ever, Markie Mark was a joke. All this film does is underscore the fact that Good Fellas was one of the greatest films ever made. None of these guys can touch Ray Liotta's genius; Leo was great, Jack was asleep, Matt was as boring as ever, Markie Mark was a joke. All this film does is underscore the fact that Good Fellas was one of the greatest films ever made. None of these guys can touch Ray Liotta's genius; he's America's most under-rated and underappreciated actor by far.",
+            "review_date": "2007-05-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I hated it. I couldn't follow the plot or get involved with the characters. I was just lost a lot of the time. The violence was gratuitous and the script was a mess. I just didn't buy the whole thing. I have seen Scorsese do some I hated it. I couldn't follow the plot or get involved with the characters. I was just lost a lot of the time. The violence was gratuitous and the script was a mess. I just didn't buy the whole thing. I have seen Scorsese do some great films. This was not one of them.",
+            "review_date": "2006-10-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Gratitous and indulgent, but well crafted of course.",
+            "review_date": "2006-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A poor incarnation of it's Hong Kong forerunner. Low on suspense, poorly staged action scenes, only rescued by a great first hour and excellent acting by Nicholson.",
+            "review_date": "2006-10-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Violence, blood and gore does not a movie make. There are more holes in the story than Swiss cheese. The acting was superb but there wasn't much to work with as far as the story goes. I could rip it apart but it will be deleted as Violence, blood and gore does not a movie make. There are more holes in the story than Swiss cheese. The acting was superb but there wasn't much to work with as far as the story goes. I could rip it apart but it will be deleted as spoilers. If you like endless bloodshed in which almost everyone comically buys the farm then you will like this. Not my cup of tea as it was totally ridiculous as Jack should have whacked Leonardo as there wasn't any bond between the two.",
+            "review_date": "2006-10-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I went to see this fim because I like the work of the leads and the Director, but in my opinion this was a complete waste of time.  Lame, actors doing a job for their fees, no tension of any sort, and lots of distracting blood, guts, swearingI went to see this fim because I like the work of the leads and the Director, but in my opinion this was a complete waste of time.  Lame, actors doing a job for their fees, no tension of any sort, and lots of distracting blood, guts, swearing and women with their heads in the laps of smelly old men - the main point of which seemed to be to distract from the emptiness of the whole event.  I enjoyed the original.  Hire it. Don't waste your money on this one.",
+            "review_date": "2006-10-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I have to say how disappointed I was with the film after all the good reviews I seen. I guess if it says \"Directed by Martin Scorsese\" that's good enough for a 9 from the \"critics\". Well he obviously phoned this one in. The signature I have to say how disappointed I was with the film after all the good reviews I seen. I guess if it says \"Directed by Martin Scorsese\" that's good enough for a 9 from the \"critics\". Well he obviously phoned this one in. The signature moves from \"Goodfellas\" are no where in sight. In addition, The Departed never touches the original, \"Infernal Affairs\", in terms of style, speed, or just plain storytelling. The film gets bogged down after the first act and Nicholson went from stellar to laughable (not to mention his accent disappeared halfway through the film). DiCaprio and Damon are the only real reason to see the film. To say this is Scorsese at his best, really doesn't do the man justice because his best films, \"Goodfellas\", \"Last Temptation of Christ\" and \"Raging Bull\" are so much better.",
+            "review_date": "2006-10-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Caught The Departed last night and I have to say, its one abject failure of a remake. I was expecting it to be good, and truth be told, I wanted it to be good because it is based on Hongkong",
+            "review_date": "2006-10-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Caught The Departed last night and I have to say, its one abject failure of a remake. I was expecting it to be good, and truth be told, I wanted it to be good because it is based on Hongkong",
+            "review_date": "2006-10-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Only thing good about the film is the music score and the acting. Directing and script are kind of \"let's make a movie and put a known director to it\". By far not the best movie of the year imo.",
+            "review_date": "2006-12-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Is everyone else watching a different movie because if there was any common sense and justice, every publication who gave this movie such high marks should be responsible of refunding every ticket sold. Even without watching Infernal Affairs Is everyone else watching a different movie because if there was any common sense and justice, every publication who gave this movie such high marks should be responsible of refunding every ticket sold. Even without watching Infernal Affairs which this was remade from, The Departed is a prolonged bizarre and trite 1 hour and 50 minutes. With wiseguy dialogues that run three words too long of a sentence, it also boasts senseless need of violence on screen. Do American cinema take a few steps backward every few years? The only reason why anyone would give this movie such praise is by just reviewing the credits and not watching it. Where Infernal Affairs was a well-paced film, this was, as one cinema-goer so well put it, \"all over the place.\" Thank you very much for wasting my weekend and also for proving once again, of all the fairness and realism placed in portraying every other race, the Chinese are still made to look like numbskulls who can't even speak their own language properly.",
+            "review_date": "2006-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A thoroughly unpleasant moviegoing experience, easily the most overrated movie of the year.",
+            "review_date": "2006-10-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Banal Dialogue, trite acting, terrible overall.",
+            "review_date": "2007-01-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I saw the Hong Kong one and it was good but not great. After seeing this one it makes the Hong Kong one look like a masterpiece. Warner Bros did confirm that the movie is based on IA and IA 2, and if you watch some segments carefully, I saw the Hong Kong one and it was good but not great. After seeing this one it makes the Hong Kong one look like a masterpiece. Warner Bros did confirm that the movie is based on IA and IA 2, and if you watch some segments carefully, Scorsese does use a few things from IA 3. I guess I just found the plot to be a bit convoluted and maybe it could had done better if they deleted half and hour of nonsense and made the action more dramatic and exciting. The abundance of swearing didn't help either. I probably rent this movie again but not enough spark for me to buy it.",
+            "review_date": "2007-01-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As I have seen Infernal Affairs (which was a damn good movie) first, I was highly disappointed by The Departed. In comparison the characters in this movie are boring and don't seem realistic. But the worst thing to ruin the story was As I have seen Infernal Affairs (which was a damn good movie) first, I was highly disappointed by The Departed. In comparison the characters in this movie are boring and don't seem realistic. But the worst thing to ruin the story was the ending.",
+            "review_date": "2007-02-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I personally don't see what the big deal is with this movie. Amazing performances from Wahlberg and Alec Baldwin but the rest is average. Scorsese doesn't deserve to win for this. He deserved it for Gangs of New York and The I personally don't see what the big deal is with this movie. Amazing performances from Wahlberg and Alec Baldwin but the rest is average. Scorsese doesn't deserve to win for this. He deserved it for Gangs of New York and The Aviator but the award should go to Paul Greengrass this year.",
+            "review_date": "2007-02-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie became absurd on about the third killing, and there must be 30 of 'em. If you're a fan of Scorcese, as I am, this is a disappointment on the scale of Gangs of New York. It falls apart about 2/3 of the way through. This movie became absurd on about the third killing, and there must be 30 of 'em. If you're a fan of Scorcese, as I am, this is a disappointment on the scale of Gangs of New York. It falls apart about 2/3 of the way through. What's a movie without a satisfying ending? Unsatisfying.",
+            "review_date": "2007-02-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I just couldn't get into this movie. This movie is filled with plotholes and implausible themes. Best left only to be rented. Scorsese fails to deliever once again. Stick to his old time classics like Casino or Goodfellas.",
+            "review_date": "2007-02-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Too many over-the-top performances, plot not realistic enough.",
+            "review_date": "2007-02-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great acting, but the second half is BORING. Just hurry up and shoot each other point-blank in the face already!",
+            "review_date": "2007-03-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was a blast to watch. One of the best times I had at the movies in a while. But Best Picture? Someones trying way to hard to please some Scorsese fans. You can't call it original, since it's based on Infernal Affairs (which is It was a blast to watch. One of the best times I had at the movies in a while. But Best Picture? Someones trying way to hard to please some Scorsese fans. You can't call it original, since it's based on Infernal Affairs (which is far better, from what I hear). The acting is over the top and deeply lacking in depth. Leanardo is angry the whole movie (even during love scenes), Nicholson is crazy the whole movie (never saw that before... wait, yes I have), Damon was a jerk the whole movie. Should I keep going through the entire cast? I had fun, yeah, but I also had fun in Pirates of the Carribean and Talledega Nights. Should they have been nominated too?",
+            "review_date": "2007-03-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Boring script-story telling. As if it was made by an apprentice. Many times had to press the forward button on dvd player just to get it over with. Every time the action was building up for one of the main cop characters the movie switch Boring script-story telling. As if it was made by an apprentice. Many times had to press the forward button on dvd player just to get it over with. Every time the action was building up for one of the main cop characters the movie switch over to the other parallel character without reaching any apex.An on-off pattern without any climax. Only exception the sceen at the elevetor towards the end of the movie. Some characters like the female shrink doctor had no reason to exist. Even when she realised the role of one of the characters she was not given any active role in the action. Only thing that saved it was the excellent play by Nicholson.Some of the images of the mob characters had the potential to project their inner feelings to the viewer and support the overall atmosphere of the movie.The images were there but not the script to support them. So they remained just the 'guys'. No doubt Scorsese deserved an Oscar but NOT for this one.",
+            "review_date": "2007-03-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My friend *finally* let me borrow his DVD of \"The Departed\". What a huge disappointment this movie turned out to be. I can't even believe Scorsese accepted this award with a straight-face (actually, I'm not sure he did, since I My friend *finally* let me borrow his DVD of \"The Departed\". What a huge disappointment this movie turned out to be. I can't even believe Scorsese accepted this award with a straight-face (actually, I'm not sure he did, since I skipped the Oscars). I've never seen so many uses of \"deus ex machina\" in one movie in my entire life. Nicholson recorded all of his conversations? How convenient! Nicholson trusted DiCaprio more than anyone else? How convenient! Nicholson's lawyer handed over the tapes to him? How convenient! Nicholson's got other moles in the force? How convenient! Aforementioned mole is waiting at the bottom of the elevator, and happens to be a \"gung-ho\" kind of mole? How convenient! Mark Wahlberg in paper slippers, what, to hand me an Oscar-winning ending? How convenient! The only thing I enjoyed about the ending - and mind you, i picked this up the second time around - is that when Damon gets shot at the end of the movie, he spills bread and milk on the floor, the same stuff that filled Nicholson filled his grocery bag with in the beginning of the movie.",
+            "review_date": "2007-03-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't understand the hype...The movie \"feels\" good but I was left feeling confused and a bit empty at the end. Plus, those two blonde kids look too much alike so that made me even more confused. Jack was good.",
+            "review_date": "2007-03-30",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 138
 }

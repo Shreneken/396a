@@ -1,39 +1,40 @@
 {
-  "title": "The Big Sleep",
-  "rating": 8.4,
-  "release_date": "1946-08-31",
-  "genre": [
-    "Mystery",
-    "Thriller",
-    "Crime",
-    "Film-Noir"
-  ],
-  "summary": "Private detective Philip Marlowe is hired by a wealthy family. Before the complex case is over, he's seen murder, blackmail, and what might be love.",
-  "critic_reviews": [
-    "It is one of the great film noirs, a black-and-white symphony that exactly reproduces Chandler's ability, on the page, to find a tone of voice that keeps its distance, and yet is wry and humorous and cares.",
-    "Bogart as Marlowe is compelling in this classic thriller that is complex but triumph of atmospheric cool.",
-    "This is arguably the high-water mark of Hollywood’s love affair with the infinitely slippery possibilities of the English language.",
-    "THE BIG SLEEP comes magically alive through Hawks's careful direction and Bogart's persona, which is twin to his character of Philip Marlowe.",
-    "Bogart’s portrayal of the detective as wisecracking moralist now seems to be what makes The Big Sleep the best of the eight Philip Marlowe pictures made to date.",
-    "Director Howard Hawks’s movie is a film noir touchstone, and features one of Bogart’s best good-man-in-a-tough-spot performances, alongside the irresistible Lauren Bacall.",
-    "Bogart and Bacall's exchanges are wittily playful, and the only femme fatale is a minor though crucial figure who destroys that perennial noir fall-guy, Elisha Cook Jr. But it's unmissable, irresistible.",
-    "The Big Sleep remains one of Hollywood's most intriguing and enduring examples of film noir. It's a movie that every film student should study and every movie lover should watch at least once.",
-    "It is by far Bogart's most successfully playful role.",
-    "The movie's disturbing labyrinthine story of murder and betrayal now looks like a fable by David Lynch: and the witty, charged dialogue between the leads shows that no screen couple, before or since, had as much chemistry as Bogart and Bacall.",
-    "The Big Sleep is as fresh and perverse as ever, and remains one of Hollywood's most entrancingly strange bedtime stories.",
-    "Even on the chaste screen Hawks manages to get down a good deal of the glamorous tawdriness of big-city low life, discreetly laced with hints of dope addiction, voyeurism and fornication. A round dozen minor players help him out with great efficiency— not to mention Miss Bacall, who is like an adolescent cougar.",
-    "Brittle Chandler characters have been transferred to the screen with punch by Howard Hawks' production and direction, providing full load of rough, tense action most of the way.",
-    "A very good movie (1946), and by far the best Raymond Chandler adaptation, but it isn’t one of Howard Hawks’s most refined efforts—it lacks his clarity of line, his balance, his sense of a free spirit at play within a carefully set structure.",
-    "The Big Sleep, though, is witty and sinister, and in an odd way is a realistic portrayal of big-city life with Arabian Nights overtones.",
-    "The Big Sleep is one of those pictures in which so many cryptic things occur amid so much involved and devious plotting that the mind becomes utterly confused. And, to make it more aggravating, the brilliant detective in the case is continuously making shrewd deductions which he stubbornly keeps to himself."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "One of the greatest crime films of the 1940s. The wonderful sleaze that Marlowe wades thru in the novel is cleaned up enough for the Production Code, but still gives a sense of turning over a wet rock and finding these characters. I guessOne of the greatest crime films of the 1940s. The wonderful sleaze that Marlowe wades thru in the novel is cleaned up enough for the Production Code, but still gives a sense of turning over a wet rock and finding these characters. I guess because of a similarly unnecessary scene in TO HAVE AND HAVE NOT, Bacall sings a song. Otherwise she's fine, especially for a 20 year-old with hardly any acting experience. She's terrific with Bogart and the film uses much of Chandler's superb dialog. This is a classic that holds up very well today.",
-      "review_date": "2022-06-07",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 17
+    "title": "The Big Sleep",
+    "rating": 8.4,
+    "release_date": "1946-08-31",
+    "genre": [
+        "Mystery",
+        "Thriller",
+        "Crime",
+        "Film-Noir"
+    ],
+    "summary": "Private detective Philip Marlowe is hired by a wealthy family. Before the complex case is over, he's seen murder, blackmail, and what might be love.",
+    "critic_reviews": [
+        "It is one of the great film noirs, a black-and-white symphony that exactly reproduces Chandler's ability, on the page, to find a tone of voice that keeps its distance, and yet is wry and humorous and cares.",
+        "Bogart as Marlowe is compelling in this classic thriller that is complex but triumph of atmospheric cool.",
+        "This is arguably the high-water mark of Hollywood\u2019s love affair with the infinitely slippery possibilities of the English language.",
+        "THE BIG SLEEP comes magically alive through Hawks's careful direction and Bogart's persona, which is twin to his character of Philip Marlowe.",
+        "Bogart\u2019s portrayal of the detective as wisecracking moralist now seems to be what makes The Big Sleep the best of the eight Philip Marlowe pictures made to date.",
+        "Director Howard Hawks\u2019s movie is a film noir touchstone, and features one of Bogart\u2019s best good-man-in-a-tough-spot performances, alongside the irresistible Lauren Bacall.",
+        "Bogart and Bacall's exchanges are wittily playful, and the only femme fatale is a minor though crucial figure who destroys that perennial noir fall-guy, Elisha Cook Jr. But it's unmissable, irresistible.",
+        "The Big Sleep remains one of Hollywood's most intriguing and enduring examples of film noir. It's a movie that every film student should study and every movie lover should watch at least once.",
+        "It is by far Bogart's most successfully playful role.",
+        "The movie's disturbing labyrinthine story of murder and betrayal now looks like a fable by David Lynch: and the witty, charged dialogue between the leads shows that no screen couple, before or since, had as much chemistry as Bogart and Bacall.",
+        "The Big Sleep is as fresh and perverse as ever, and remains one of Hollywood's most entrancingly strange bedtime stories.",
+        "Even on the chaste screen Hawks manages to get down a good deal of the glamorous tawdriness of big-city low life, discreetly laced with hints of dope addiction, voyeurism and fornication. A round dozen minor players help him out with great efficiency\u2014 not to mention Miss Bacall, who is like an adolescent cougar.",
+        "Brittle Chandler characters have been transferred to the screen with punch by Howard Hawks' production and direction, providing full load of rough, tense action most of the way.",
+        "A very good movie (1946), and by far the best Raymond Chandler adaptation, but it isn\u2019t one of Howard Hawks\u2019s most refined efforts\u2014it lacks his clarity of line, his balance, his sense of a free spirit at play within a carefully set structure.",
+        "The Big Sleep, though, is witty and sinister, and in an odd way is a realistic portrayal of big-city life with Arabian Nights overtones.",
+        "The Big Sleep is one of those pictures in which so many cryptic things occur amid so much involved and devious plotting that the mind becomes utterly confused. And, to make it more aggravating, the brilliant detective in the case is continuously making shrewd deductions which he stubbornly keeps to himself."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "One of the greatest crime films of the 1940s. The wonderful sleaze that Marlowe wades thru in the novel is cleaned up enough for the Production Code, but still gives a sense of turning over a wet rock and finding these characters. I guessOne of the greatest crime films of the 1940s. The wonderful sleaze that Marlowe wades thru in the novel is cleaned up enough for the Production Code, but still gives a sense of turning over a wet rock and finding these characters. I guess because of a similarly unnecessary scene in TO HAVE AND HAVE NOT, Bacall sings a song. Otherwise she's fine, especially for a 20 year-old with hardly any acting experience. She's terrific with Bogart and the film uses much of Chandler's superb dialog. This is a classic that holds up very well today.",
+            "review_date": "2022-06-07",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 17
 }

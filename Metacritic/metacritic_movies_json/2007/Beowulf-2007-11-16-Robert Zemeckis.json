@@ -1,652 +1,738 @@
 {
-  "title": "Beowulf",
-  "rating": 6.3,
-  "release_date": "2007-11-16",
-  "genre": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Animation"
-  ],
-  "summary": "In a time of heroes, the mighty warrior Beowulf slays the monster Grendel and incurs the wrath of its monstrous yet seductive mother, in a conflict that transforms a king into a legend. (Paramount Pictures)",
-  "critic_reviews": [
-    "Zemeckis springs so many pow 3-D surprises you'll think Beowulf is your own private fun house.",
-    "Beowulf is a solemnly gorgeous, at times borderline stolid piece of Tolkien-with-a-joystick mythology.",
-    "For the record, it's truly puzzling that this film has been rated PG-13; it's much stronger than that. The monsters of \"Beowulf\" have haunted human imagination for more than a millennium; the ones in this film will easily provoke a few nightmares.",
-    "It’s not a reinvention of the wheel, but in 3D this is an astonishing experience that borders on ‘must-see’, and raises the bar for what James Cameron is planning with Avatar. And you’ll be glad to know that the creepy dead eyes thing has been fixed.",
-    "It's got power and depth, and two kings whose greatness is diluted by hubris, and a thrilling dragon fight, and the demon Grendel as a tortured outcast, and a naked monster who looks a lot like Angelina Jolie.",
-    "Highly entertaining - but far from classic.",
-    "Zemeckis has converted the epic poem about the warrior who slays the monster Grendel into a species of computer game. He employs the same motion-capture technology that he first used in \"The Polar Express,\" to slightly better effect.",
-    "We are not looking at flesh-and-blood actors but special effects that look uncannily convincing, even though I am reasonably certain that Angelina Jolie does not have spike-heeled feet. That's right: feet, not shoes.",
-    "Beowulf couldn't be less faithful to the original epic poem, and that's actually a good thing for moviegoers. It's a lot more fun than the mythic adventure most of us read in school.",
-    "Regardless of the medium, this is an effectively brutal story of swords, sorcery, demons, and heroes, with an Oedipal hint or two thrown in for flavor.",
-    "Not all of it works - and not all of it works the way the target audience of jacked-up young males might want it to - but the movie is hugely provocative fun, and I'm pretty sure that's on purpose.",
-    "Director Robert Zemeckis not only deploys 21st century movie technology at its finest to turn the heroic poem into a vibrant, nerve-tingling piece of pop culture, but his film actually makes sense of Beowulf. In Zemeckis' hands, it's an intriguing look at a hero as a flawed human being.",
-    "Beowulf may ultimately be viewed as a failure, but it’s a fascinating one.",
-    "The story works, but I wish they'd teach these avatars to act.",
-    "Beowulf deserves to be taken semiseriously; its eye candy is mixed with narrative fiber and dramatic protein. But it begs to be taken frivolously. Effects have grown so exciting in the realm of the third dimension that you just sit there all agog behind your polarizing glasses.",
-    "The bolder stroke comes from screenwriters Roger Avary (Pulp Fiction) and Neil Gaiman (the graphic novel Sandman), who’ve turned the arthritic legend into sort of an Arthur Miller play in chain mail.",
-    "Could call Zemeckis subtle; but his style\r\nWell suits the poem's crude and earthy brawn.\r\nComic-Con geeks and cinephiles alike\r\nWill gape at the resplendent imagery\r\n(But don ye specs, and see it in 3-D).",
-    "Although this version of Beowulf (the script, ricocheting between thrilling, heroic, and hilarious, is by Neil Gaiman and Roger Avary) does take some liberties with certain heretofore undreamed of aspects of parentage, it's as faithful to the extant version as it needs to be.",
-    "People's eyes still look as glassy and dull as a taxidermized possum's. But if you're going to Beowulf to experience the sweeping passions that only real eyes can convey, you're missing the point.",
-    "If the arrival of Beowulf is any indication, movie actors will soon all be replaced by lifelike, digitally animated facsimiles. The good news is that some of them might still sound like John Malkovich.",
-    "As dazzling a feast for the eyes as the hungriest eyes can take.",
-    "Beowulf is many things, but boring isn't one of them.",
-    "For all its visual sweep and propulsively violent action, this bloodthirsty rendition of the Old English epic can't overcome the disadvantage of being enacted by digital waxworks rather than flesh-and-blood Danes and demons.",
-    "Beowulf is all right as far as it goes, and it goes pretty far for a PG-13 rating: Dismemberment, “300”-style blood globules comin’ atcha, and a digitally futzed and, for all practical purposes, completely naked!!!",
-    "Zemeckis, who blazed trails mixing live-action with animation in \"Who Framed Roger Rabbit,\" blazes not even a footpath here.",
-    "The 3-D is necessary to the film only in so far as it keeps your eyes engaged when your mind starts to wander. Stripped of much of the original poem’s language, its cadences, deep history and context, this film version of Beowulf doesn’t offer much beyond 3-D oohs and ahs, sword clanging and a nicely conceived dragon, which probably explains why Mr. Zemeckis and his collaborators have tried to sex it up with Ms. Jolie, among other comic-book flourishes.",
-    "I like a good flying, fire-breathing dragon as much as the next fellow. Beowulf's excesses, though, are such that the film ought to carry the subtitle …But This Is Ridiculous.",
-    "First and foremost a showcase for the latest developments in motion-capture and 3-D technology.",
-    "As for Beowulf itself, it's all about the visuals, which means that as soon as the novelty of 3-D wears off, the experience has been had.",
-    "Ten years from now, Beowulf may look like the groundbreaking project that helped kill live-action movies, but for the moment, its uncomfortable jokes and fakey rendering of life leave it wedged firmly in the uncanny valley. (Insert your own joke about Jolie's astonishing animated anatomy here.)",
-    "Owing more to the sword-and-sex-play fantasies of 12-year-olds than the traditions of Old English poetry, Robert Zemeckis' Beowulf will allow adolescents to have their cheesecake - and beefcake - and eat it, too.",
-    "Certainly, modern interpretations should add their own spin to an ancient tale, but in the hands of director Robert Zemeckis, Beowulf becomes... silly.",
-    "Beowulf appears so cartoony, in fact, that the academy just put it on the short list of films to be considered for the Oscar in feature animation.",
-    "Ambitious, overbearing and hollow; it goes overboard to impress, yet it never feels truly inventive or imaginative. At best, it achieves a level of clumsy camp.",
-    "The most interesting thing about Beowulf, alas, is its technology. It's the work of a man who has fallen in love with his toys, but I miss the wicked satirist who made \"Used Cars.\" And the truth is the motion capture in Beowulf comes across as an unsatisfying compromise between animation and live action."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "As a Greek I always thought that film adaptations of Greek epic songs, mytholgy or history were the worst kind. I have to admit, I was wrong. Beowulf is BY FAR the most disgracing piece of computer images put together. If you have read theAs a Greek I always thought that film adaptations of Greek epic songs, mytholgy or history were the worst kind. I have to admit, I was wrong. Beowulf is BY FAR the most disgracing piece of computer images put together. If you have read the book the film is absurd. If you haven't it's demented. Thank Odin the book is miles and LEAGUES away from the piece of junk the collaborators of this retardation came up with. If Beowulf was anything like what was presented in the film, then the \"Lord of the Rings\" would have been called \"The Grey King's Biography\" and it would have been written by someone else. In short; if any Geatish hero still exists, I call upon thee, to slay the producers and director of this atrocity. These are the only monsters that endager your kingdom.",
-      "review_date": "2013-04-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Robert Zemeckis made a well animated 3-D epic but nothing that I observe is special. The first half is dull and second half has a bit more gore and kiddish story of the book and epics is not well used but some fun provides. In voice acting orRobert Zemeckis made a well animated 3-D epic but nothing that I observe is special. The first half is dull and second half has a bit more gore and kiddish story of the book and epics is not well used but some fun provides. In voice acting or CGI acting its cool but nothing special. The ending is clueless and characters have no depth or story. The 3-D is good, yeah but could have been used well. The gore and violence is endless and the UNRATED version is worse. Zemeckis makes the real  he digs in deep and makes it up to serve the nudity, sex, gore and violence of this dull war epic.",
-      "review_date": "2013-08-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "None of the reviewers who gave it over a 30 actually have ever read beowulf, I have and this has almost zero to do with the epic poem. It is just a bad attempt to \"hollywoodize\" the poem",
-      "review_date": "2010-12-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Beowulf\" is a epic remake of the original tale of vikings. It lacks the depth or symbolism of the characters, but it certainly does have the glorious gore and blood going on.",
-      "review_date": "2011-09-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beowulf is a fun cheap ride that you will walk away and forget. However while in the film, you will enjoy yourself, but maybe feel a little unsatisfied.",
-      "review_date": "2015-02-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The animation and the story are incredible. Definitely one of the best movies ever made. I can't wait to watch it again. One of those movies that make the real world so boring for a few days after you watch it.",
-      "review_date": "2011-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love this movie, one of my favorites. Even though it didn't follow the story of the book as much as I would have preferred, the movie has it's own little storyline thing that is very good. The CGI is extremely well done, as is the script.I love this movie, one of my favorites. Even though it didn't follow the story of the book as much as I would have preferred, the movie has it's own little storyline thing that is very good. The CGI is extremely well done, as is the script. And the actors they used are amazing. This is the most underrated movie of all time.",
-      "review_date": "2013-04-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Looks okay but a trifle tedious.",
-      "review_date": "2008-02-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I loved this movie.  I thought it brought a difficult text to life, giving it a new interpretation suited for cinematic length and modern audiences, and would be brilliant for A level literature students.  When this poem was first writtenI loved this movie.  I thought it brought a difficult text to life, giving it a new interpretation suited for cinematic length and modern audiences, and would be brilliant for A level literature students.  When this poem was first written down it had already been narrated by travelling storytellers for centuries, changing and improvising it into many versions, so those who complain it isn't a strict interpretation should see it in its historical context.  I thought the animation was brilliant; dark , chilling, horrific, gory and allowing fight sequences worthy of its heroes.  The cast, even behind their animated avatars, were brave and noble.  And I thought the story of Grendel's mother was a great plot idea giving an extra, modern twist to the tragedy.  All in all, one of the best movies I have seen for ages.",
-      "review_date": "2010-10-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Hugely underestimated gem. On the surface, it's just another hero movie, with a rambunctious and invincible Beowulf. It goes much deeper than that though, with a persistent feeling of an Age that is coming to an end.Beowulf is a liar,Hugely underestimated gem. On the surface, it's just another hero movie, with a rambunctious and invincible Beowulf. It goes much deeper than that though, with a persistent feeling of an Age that is coming to an end.Beowulf is a liar, exaggerating his own adventures, and learns all too soon that your dreams tend to decay around you once you make them come true. He fails his most important trial and will eventually have to pay a hefty price for that.Rothgar is an aging, disgusting pig living on past glories, surrounded by adulators who only crave his gold. His famed mead hall is just a glorified shack.When Beowulf comes as the hero who will defeat the monster, there is no oceanic crowd cheering him but just a few, unconvinced peasants. And in the background the Christian religion is undermining what remains of the days of the glorious heroes, fighting in the name of the Norse Gods.It's a crepuscular tale of regret and longing, for an ideal that cannot really exist. In many ways, it can be regarded of a coming of age tale, of romanticism that eventually needs to confront reality.",
-      "review_date": "2020-09-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolute garbage!!!! Anyone wanting to go see good cg should buy final fantasy advent children.Im familiar with the beowulf legend and this movie represented it fairly but that doesnt make for a good movie..The cg was very poor the overall Absolute garbage!!!! Anyone wanting to go see good cg should buy final fantasy advent children.Im familiar with the beowulf legend and this movie represented it fairly but that doesnt make for a good movie..The cg was very poor the overall look was completely sparse and it was so boring through the whole thing I was tempted to walk out as many others did.The movie was generally pretty quiet.. there wasnt much of a score nor was there any effective bgs which made it that much easier to tune out..My friend agreed and it left us both unsatisfied and ripped off in the end...Save your money and wait 3 months for the dvd..The 1 by the way is just for ANgelina Jolie she was gorgeous in it.",
-      "review_date": "2007-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Ok, for the life of me I don't understand the negative reviews. Let me compare it to an earlier \"Blockbuster\" this year. This is the type of Movie I expected to see when I walked into 300, but didn't get from 300. Its Beautiful to Ok, for the life of me I don't understand the negative reviews. Let me compare it to an earlier \"Blockbuster\" this year. This is the type of Movie I expected to see when I walked into 300, but didn't get from 300. Its Beautiful to look at, full of action, and \"overall\" the dialogue is engaging. I found it a relief to have actually enjoyed an action movie for once this year as all I have gotten was 2 hours of dull drool and 20 minutes of campy action that took itself too serious. And for god sakes as far as an enjoyable theater experience, see this thing in 3D, you cant beat it.",
-      "review_date": "2007-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Here is a thought! Abolish the MPAA rating system. Since apparently the one in place absolutely cannot be trusted. I quote from the MPAA PG-13 guidelines, \"More than brief nudity will require at least a PG-13 rating, but such nudity in a Here is a thought! Abolish the MPAA rating system. Since apparently the one in place absolutely cannot be trusted. I quote from the MPAA PG-13 guidelines, \"More than brief nudity will require at least a PG-13 rating, but such nudity in a PG-13 rated motion picture generally will not be sexually oriented.\" Wow, I guess I was imaging things because I could have sworn while watching Beowulf that not only is the nudity in this picture prolonged, but it extremely sexuality oriented, having unrelenting sexual references throughout the moving as well. Oh, and don't forget the obvious sexual moaning during a scene with nearly fully exposed heaving breasts either. The sexual wording is such that it carefully and conveniently circumvents direct reference to sex using antiquated wording like \"fornication\" and \"having knowledge,\" while sexual acts, some of which are highly incestuous, are explicitly implied. Furthermore, the violence in this movie is over the top. \"There may be depictions of violence in a PG-13 movie, but generally not both realistic and extreme or persistent violence.\" The violence in this movie is highly realistic, extreme, and persistent. Due to the 3-D effects, this movie is quite intense. This movie obviously belongs in a category higher than PG-13- the MPAA system guidelines state so plain as day. Who needs an MPAA system anyway. The movie industry clearly does not care about rating a movie properly, only about appealing to as many demographic areas as possible at the same time in order to make as much money as possible.",
-      "review_date": "2007-12-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I went into the film with some trepidation, and came away feeling that I just just watched something between Shrek and Austin Powers. Beowulf himself had the voice of Ray Winstone, but the look of Sean Bean. Worst of all seemed to be the I went into the film with some trepidation, and came away feeling that I just just watched something between Shrek and Austin Powers. Beowulf himself had the voice of Ray Winstone, but the look of Sean Bean. Worst of all seemed to be the inconsistency of dialects; whoever heard of a cockney South African? The story was well told and some sequences were very well done, but not much good to say about a 2-hour film.",
-      "review_date": "2007-12-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Interesting action, accentuated by the absorbing and involving nature of the new Real D format. The characters were however, still as plastic as previous 3D offers and dialogue bland and corny.",
-      "review_date": "2008-05-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beowulf is top notch. The scenes were amazing. with the 3d look I was blown away. It was great.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great. Amazing. Please win Oscar nomination.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I found this movie's anti Christian point of view from the Viking world rather interesting. The Dragon scene is one of the best ever.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "First of all, don't pay attention to the critics that only enjoy movies about gay swans and kids with one arm. This movie is for the warrior at heart. I really enjoyed this retelling of a classic. I like the contrast that shows the First of all, don't pay attention to the critics that only enjoy movies about gay swans and kids with one arm. This movie is for the warrior at heart. I really enjoyed this retelling of a classic. I like the contrast that shows the difference between the deeds of heroes and their lives. . It shows the human falicy that can exist in even the most legendary of men. Also the 3-D was spectacular. Axes, swords, blood, guts, and fire right in your face! Top notch stuff!. I am defiantly going to see this again. If you want gay swans..stick to the art house. If you want satisfying action with some sword swinging gusto..check out BEOWULF!",
-      "review_date": "2007-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What a piece of Dragon poo. I mean, a demon-Angelina Jolie-lookalike with high heels? Well at least I had a good laugh with Beowulf constantly taking his cloths off, we called him FKK-Wulf afterwards...",
-      "review_date": "2007-11-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "These movie critics make me laugh. Of course this is not some deep thought provoking movie. It is a fun, action packed adventure. You got to see it in 3D. The 3D effects are fantastic. My girlfriend loved it. Real men like action movies with These movie critics make me laugh. Of course this is not some deep thought provoking movie. It is a fun, action packed adventure. You got to see it in 3D. The 3D effects are fantastic. My girlfriend loved it. Real men like action movies with hotties , like Angelina. We don't like slow sub-titled boring movies that win film festivals.",
-      "review_date": "2007-12-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Saw this in Imax 3D",
-      "review_date": "2007-12-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is a technological feast for the eyes. If you see it, see it in 3-D and be prepared to be amazed. I've seen 3-D movies before and having objects come out of the screen and poke at the audience is one of the main draws of 3-D. This movie is a technological feast for the eyes. If you see it, see it in 3-D and be prepared to be amazed. I've seen 3-D movies before and having objects come out of the screen and poke at the audience is one of the main draws of 3-D. There's plenty of that in this movie but also something else I don't recall seeing --- that is having objects appear to come from behind the audience and move toward the screen. The story was good and interesting and the battle scenes, especially the last scene with the dragon, were exciting and imaginative. A great movie which will stay in my memory for a long, long time.",
-      "review_date": "2007-12-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There are few things in this film that may remind you of the 8th century epic poem which it is supposedly based on. Pros: Some battle instances and scenary layout. Cons: -No deep understanding at all of Germanic conscience. -Angelina There are few things in this film that may remind you of the 8th century epic poem which it is supposedly based on. Pros: Some battle instances and scenary layout. Cons: -No deep understanding at all of Germanic conscience. -Angelina Jolie's character is a platitude in itself thanks to \"modern\" additions (female fluidity, females and temptation...etc). -In the poem, beowulf cuts the heads of Grendel and his mother. In the \"modern\" version, Mr. Zemeckis seems more interested in hinting at a sexual curse (with profuse tasteless puns and one-liners throughout the film) than in rendering the epic poem as it was originally compiled. -Complete misunderstanding of the conflict between Germanic and Christian thought in the original poem. -I bet Mr. Zemeckis has never read J. R. R. Tolkien's article \"The Monsters and the Critics\" in order to get to know what the monster deal in this epic poem is about. The film actually blasts away the sense of doom in these Germanic tribes' conscience and pays no attention to the description that the original 8th-century poem makes of Grendel and his mother. The important thing to Mr. Zemeckis seems just to display Miss Jolie and to bring up a circa 1975 depiction of grendel as a victim of society. It is a \"passtime\" film easily entertaining to people who have not read the original poem, who had no idea about its plot or cultural context and who may not express their disgust at Mr. Zemeckis' platitudinal and superficial portrayal of Germanic society. The director, the actors and the scriptwriter should have read the Anglo Saxon poem first (or Seamus Heaney's verse translation) and some articles on it, including Tolkien's \"The Monsters and the Critics\". This film is a \"fast-food passtime\", a lost opportunity that pays little homage to the original Anglo-Saxon work.",
-      "review_date": "2007-12-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Aside from the graphics there is absolutely nothing original about this movie. It's all been done before, over and over again... and so on. Stereotypical, unoriginal, cliché.",
-      "review_date": "2008-01-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Worst animated movie of all times!!!!!!",
-      "review_date": "2008-02-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What does the academy have against robert zemeckis .. heres an animated feature that was both incredible to watch and beautiful crafted and voiced picture.... not even a tech nomination ?",
-      "review_date": "2008-02-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The computer enhanced live action seems to be the main focus of the film, and once the novelty of that wears off, it doesn't leave much substance. It is impressive to watch however and I was never bored, but by the end I was a little The computer enhanced live action seems to be the main focus of the film, and once the novelty of that wears off, it doesn't leave much substance. It is impressive to watch however and I was never bored, but by the end I was a little tired of it.",
-      "review_date": "2008-02-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Intense action rivaling LotR and 300.",
-      "review_date": "2008-02-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "At times, it almost looks cool, but never quite looks right. The story is a mess and Hollywood warps another classic tale by re-telling it the wrong way. A waste of time that will probably be loved by everyone who regularly watches the junk At times, it almost looks cool, but never quite looks right. The story is a mess and Hollywood warps another classic tale by re-telling it the wrong way. A waste of time that will probably be loved by everyone who regularly watches the junk on Sci-Fi Network.",
-      "review_date": "2008-02-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "We should thank Mr.Zemeckis and the Anonymous writer of Beowulf for reminding us that: We father our own children of deeds.",
-      "review_date": "2008-07-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "We",
-      "review_date": "2007-11-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you're going to rate 'Beowulf' fairly, you need to grade it on two seperate scales. On one scale is the 3-D and animation, which are (and this a word I rarely if ever use to describe anything) perfect- pore to pore, pimple If you're going to rate 'Beowulf' fairly, you need to grade it on two seperate scales. On one scale is the 3-D and animation, which are (and this a word I rarely if ever use to describe anything) perfect- pore to pore, pimple to pimple, these characters and their world comprise what is without a doubt the single most realistic animated film ever. It doesn't hurt that the 3-D is put to very good use, not so much a ploy as it is a plot thread in of itself, as it totally and completely submerges us into the story. But if this sounds like a rave review, don't be mistaken- if anything, Beowulf is more of a failure than a success. Why? Well, for one, these characters, as realistic and stunning to look at as they are, are only that- stunning to look at. They have no depth, soul, and heart, which makes it very difficult to even care about them, let alone what they're doing or what's even happening the movie itself. The actual plot itself is a bit of a letdown, too- I realize that it's based on an old poem, but from what I've heard, they do change it quite a bit, and it's a shame that the story eventually desolves into a simple case of back and forth, back and forth (I won't reveal anything, but suffice to say, should you see it, you'll immediately see what I'm talking about, and just as quickly get heavy eyed). All in all, it is an entertaining, visually astonishing film... but altogether, it's just not a very successful or meaningful one.",
-      "review_date": "2007-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wonderfully enjoyable and unexpectedly sexy - and I'm talking about the hunky, naked lead himself! If you're gonna see it, you MUST experience it in 3-D. It made movie-going an actual event.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I am from Japan and I have never seen anything like this movie. The poem I read in class was somewhat like this. and i am wowed at this moment.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love this movie. It was really great. Though it had some weird flaws. I didn't like some parts. It was okay. overall 7/10.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love Robert Zemeckis. Even though some of his movies were downfalls, this movie was good. The 3d animation was amazing. How is that done? Great. Should win best animation for Oscar.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I recently read the book (poem) and the movie turned out to be very good even though there were some flaws. The animation was really great. I didn't think it would be like this, but it was amazing. The action was good and the whole I recently read the book (poem) and the movie turned out to be very good even though there were some flaws. The animation was really great. I didn't think it would be like this, but it was amazing. The action was good and the whole concept was great.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great. Barely any flaws. But great.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Stunning visuals. I'm amazed how far the technology has come and imagine where it will be in a few years. Its impact on the economics and traditional production of film-making will be resounding. The only serious flaw I care to dwell on Stunning visuals. I'm amazed how far the technology has come and imagine where it will be in a few years. Its impact on the economics and traditional production of film-making will be resounding. The only serious flaw I care to dwell on also concerns the CGI. For all its achievements with realism, its still cannot replicate pathos or any of the subtler shades of feeling that constitute fine dramas. Characters appear sallow, their faces and eyes lack vitality, and their interactions are distant.",
-      "review_date": "2007-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Don't be distracted by mediocre video game animation. This is a bad movie that throws the original epic out the window of a shiny Hollywood limo.",
-      "review_date": "2007-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Might have been a good movie if they didn't blatantly sex it up for the male 13-29 demographic. It's hard to suspend disbelief when you can tell every second that you're being pandered to. Filmmakers also need to realize that Might have been a good movie if they didn't blatantly sex it up for the male 13-29 demographic. It's hard to suspend disbelief when you can tell every second that you're being pandered to. Filmmakers also need to realize that overuse of CGI makes it extremely hard to suspend disbelief.",
-      "review_date": "2007-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Visually stunning, especially the Digital 3-D that I saw. However, I don't know if I would've liked it much if I just saw the 2-D movie. There are some grand ideas here that seem to fall short, as if the screenwriters wanted to Visually stunning, especially the Digital 3-D that I saw. However, I don't know if I would've liked it much if I just saw the 2-D movie. There are some grand ideas here that seem to fall short, as if the screenwriters wanted to explore themes, but got lost thanks to the studio making cuts. I would've like to hear more about the loss of myths thanks to the move from polytheism to monotheism. It's mentioned, but feels more like an afterthought. The action scenes, however, are stunning, and the whole 3-D element gives it the feel of a great theme park ride. It succeeds in spades on that aspect alone. All it needs is a better told story.",
-      "review_date": "2007-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was purely entertaining. Solid story, great voice acting and stunning special effects. This will prove to be a high water mark in CGI actor movies much like Terminator 2 was for live action film.",
-      "review_date": "2007-11-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "How can people not like this film? It's fantastic, engaging, beautifully made and different than other things you see nowadays. Thoroughly innovative and fun. I never wanted it to end.",
-      "review_date": "2007-11-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I've walked out of fewer than five movies in my entire life, and this was one of them. I'm sorry, but I don't see how an awful story/script can be redeemed by groundbreaking special effects. The only demographic I see this I've walked out of fewer than five movies in my entire life, and this was one of them. I'm sorry, but I don't see how an awful story/script can be redeemed by groundbreaking special effects. The only demographic I see this satisfying are 14 year old video game addicts, and the few adults who think the next breakthrough in Hollywood CGI constitutes \"art\" in film. I can just imagine how the script read... BEOWULF: AAAAHHHHHHH!!!!! Cut to Grendel. GRENDEL: AAAAHHHHHHH!!!!!! Cut to Beowulf's soldier. SOLDIER: AAAAHHHHHHH!!!!! Cut to King Hrothgar. HROTHGAR: AAAAAHHHHH!!!!!! And here's the real problem... CGI is getting so realistic it's almost good enough to fool you into believing the animated characters are real people. WHY do we want to do this? Is there some hidden virtue getting to this point? Consider this... why do people go to hear live musical performances when they can listen to practically perfect studio recordings without leaving their couch?",
-      "review_date": "2007-11-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terrible. Just terrible. The animated actors are all stuck in the Uncanny Valley.",
-      "review_date": "2007-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It was the best!! The movie was packed with 3D effects and I've never seen anything like it. Beowulf is one of the most entertaining movies I've ever seen so far.",
-      "review_date": "2007-11-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"I...am...Beowulf! *croaky*\"? What the hell? This is the worst phrase I never heard before (plus this film sucks, and has terrible stories). Ok, here's a great and catchy phrase: \"This...is...SPARTA!!\". Now this is what I call \"best \"I...am...Beowulf! *croaky*\"? What the hell? This is the worst phrase I never heard before (plus this film sucks, and has terrible stories). Ok, here's a great and catchy phrase: \"This...is...SPARTA!!\". Now this is what I call \"best voice\". Actor who played as Beowulf, please drink a lot of water.",
-      "review_date": "2007-12-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What??i can't believe this movie getting 0s,this movie was incredible,best animated movie since toy story in my opinion. don't listen to those harsh criticizers. My guess is that they are old english scholars still reciting the What??i can't believe this movie getting 0s,this movie was incredible,best animated movie since toy story in my opinion. don't listen to those harsh criticizers. My guess is that they are old english scholars still reciting the beowulf poem or something. 10/10,hands down. watch it and be amazed.",
-      "review_date": "2007-12-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "IMAX is the way to go, best looking thing I ever saw. Without it slips a little but that didn't matter cause it does something no other non kiddy movie has ever done. Adult subject matter and CG finally as one and those stupid Final IMAX is the way to go, best looking thing I ever saw. Without it slips a little but that didn't matter cause it does something no other non kiddy movie has ever done. Adult subject matter and CG finally as one and those stupid Final Fantasy movies don't count.",
-      "review_date": "2007-12-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great film. The first scene with Grendel in the hall is breathtaking, really took my breath away. I've never seen such a thrilling and downright scary scene.",
-      "review_date": "2007-12-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you already know the story of Beowulf, your going to be relying on the graphics and violence to entertain you, fortunately for the flim theyve done a cracking job with it. the long range sweeping visuals are just stunning, and the If you already know the story of Beowulf, your going to be relying on the graphics and violence to entertain you, fortunately for the flim theyve done a cracking job with it. the long range sweeping visuals are just stunning, and the violence is at time comically ott. Mr Malkovic is the star of the show in terms of acting, with sir Anthony a modest second. My favourite bit is the naked fight.",
-      "review_date": "2007-12-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wiglaf(Brendan Gleeson) is like the guy in John Ford's \"The Man Who Shot Liberty Valance\" who says(about the Jimmy Stewart character), \"When the legend becomes truth. Print the legend.\" This adaptation of the eleventh century historical Wiglaf(Brendan Gleeson) is like the guy in John Ford's \"The Man Who Shot Liberty Valance\" who says(about the Jimmy Stewart character), \"When the legend becomes truth. Print the legend.\" This adaptation of the eleventh century historical poem by an anonymous writer is about as literary as Roland Joffe's torching of Nathaniel Hawthorne's \"The Scarlet Letter\", but it has an accidental sophistication, an intertextuality which transforms this special-effects extravaganza into an ingeniusous display of meta-fiction. It's fun to imagine that Wiglaf is the anonymous poet who wanted to honor his friend, so he left out the juicy innuendoes and concentrated on Beowulf's good points. As a writer of the times, an epoch in which our literary heroes were archetypal, infallible men of bravery and valor, it's only natural that Wiglaf would neglect to document his friend's affair with Grendel's hot mom. This seemingly stupid Hollywood take on a hallowed text from the English canon is not so stupid if you're aware that it's widely speculated among theologian scholars that the Old and New Testaments were censored texts. This movie transforms the original \"Beowulf\" into a censored text.",
-      "review_date": "2007-12-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I liked this movie a lot. But God, why is it PG-13? It had Angelina Jolie with the anatomy of a barbie doll. And the ending was satifying. But Beowulf is so cool and is a visual masterpiece. I give it a 9/10",
-      "review_date": "2008-01-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Impressive storytelling through animation.",
-      "review_date": "2008-02-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A little shallow, but still a very impressive animated movie with some fantastic action.",
-      "review_date": "2008-02-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best real 3d movie I have ever seen. It is great that they have managed to capture the personalities of the real actors. The definition of an action movie.",
-      "review_date": "2008-03-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's a cartoon - if you go from that premise it's not too bad. I thought some of the scenes were in poor taste early on which took away from the story which was okay to watch. A little better editing would have helped out some. The It's a cartoon - if you go from that premise it's not too bad. I thought some of the scenes were in poor taste early on which took away from the story which was okay to watch. A little better editing would have helped out some. The format has promise.",
-      "review_date": "2008-03-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Intense action, fantastic visuals, excellent story, awesome violence. thumbs up.",
-      "review_date": "2008-03-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Obviously This movie was impressive what did you think? No Blood or guts? PaaaaLease! Great Job, Robert Zemeckis.",
-      "review_date": "2008-06-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the worst movies of all time! I love the book and I was hoping that they would take more from it than just the character names, and lo and behold That's all they took from it! And plus there was a severe lack of clothing!",
-      "review_date": "2008-07-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Undoubtedly the worst book adaptation of all time, and one of the worst movies I've seen. What happened to the amazing story? All they had to do was use the book as a script, but noooooo, they had to screw it up. If they want to change Undoubtedly the worst book adaptation of all time, and one of the worst movies I've seen. What happened to the amazing story? All they had to do was use the book as a script, but noooooo, they had to screw it up. If they want to change the story so it surprises more people, it better be a good change, not something atrocious.",
-      "review_date": "2008-09-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just another piece of junk.",
-      "review_date": "2007-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Awesome.",
-      "review_date": "2007-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I started by trying to pick out the mistakes and ended up just being engulfed in a good movie. I saw the 3d screening and I really enjoyed it. Hurray for technology... Art comes in many forms and good art often creates a commentary. There I started by trying to pick out the mistakes and ended up just being engulfed in a good movie. I saw the 3d screening and I really enjoyed it. Hurray for technology... Art comes in many forms and good art often creates a commentary. There has never been art that was meant to keep the people quiet. As they say \"Any news is good news!\"",
-      "review_date": "2007-11-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I could say that this was a exciting film, but I couldn't do that. The film was complete flaw. It didn't match up to all the hipe and expectation, I found it to be. Though it did have its moments, that were truely grand. But it I could say that this was a exciting film, but I couldn't do that. The film was complete flaw. It didn't match up to all the hipe and expectation, I found it to be. Though it did have its moments, that were truely grand. But it still didn't help my judgement on this film, Beowulf.",
-      "review_date": "2007-11-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "3D animation can be criticized heavily; in my opinion, it was needed for this film. Whenever real live actors and computer animated monsters appear, the realism is destroyed. Since the whole film is computer animated, there is no distinction 3D animation can be criticized heavily; in my opinion, it was needed for this film. Whenever real live actors and computer animated monsters appear, the realism is destroyed. Since the whole film is computer animated, there is no distinction between real actors and monsters, keeping you glued to the film. Great action, voice acting, and eye candy. It offers a violent, sexy attitude, keeping your interest as to what is going to happen next. This film would have been a perfect 10 if it kept everything that it had, but ADDED more to it with regards to the actual story of Beowulf. I love what was done with the story, but if there was more cohesion to the original story on top of what was done to this film, I feel that the audience and reviewers would have been totally blown away. As a final note: PG 13? I guess mass amounts of blood, gore, and violence is no concern for children anymore!",
-      "review_date": "2007-11-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beowulf is a highly enjoyable action packed thrilling theme park ride. It was the funnest experience at the movies I ever had. The entire film was in 3-D and it was just fun, a lot of fun. It was really like a ride, I can't stress that Beowulf is a highly enjoyable action packed thrilling theme park ride. It was the funnest experience at the movies I ever had. The entire film was in 3-D and it was just fun, a lot of fun. It was really like a ride, I can't stress that enough. Spears coming at you, dragons breathing a you, etc. It was full of those kind of things. And this is obviously starting a push for 3-D, seeing as all the previews were for future entire-3D (come out at you) movies. The 3D was awesome, but behind what is the film behind it? If not in 3D it would have probally gotten a c-something from me. The story, although based on a classic, is for the most part one dimensonal. There's a few things that get you thinking, but that was not the point- it's obviously tough strong good guy vs. Bad guy. Or more correctly, -bda-girl. Bad, bad girl. Angelina Jolie, is naked, even though there's just a little gold. And Beowulf is naked for a large protion too. But what's the problem- there isn't. It's just amazing how many sex jokes were snuck into this pg-13 movie. Brilliant animation abounding, it was a thrill ride. But the characters wern't too lively-, it was like seeing the people in shrek, they showed no emotion. That's not to say the movie's not good. If enjoyed as a 3d- ride through a stylized epic- it is. But a non 3d, shallow, low-story film would only be other wise. Solidity echoes throught this niqe film that can't be missed. I'll take this over the \"epic poem\" any day!",
-      "review_date": "2007-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "first off, let me say one thing: anyone who comes to this movie looking for great CG animation is in for a visual treat. there is no denying that...the animation is downright amazing, i forgot i was watching animation at times. however, first off, let me say one thing: anyone who comes to this movie looking for great CG animation is in for a visual treat. there is no denying that...the animation is downright amazing, i forgot i was watching animation at times. however, anybody expecting anything more will be dissapointed. we could go through the laundry list of why everything else was horrible, but instead lets just summarize: no plot, over-the-top violence and nudity, horrible acting, hilariously cheesy lines, etc, etc... and if anyone wants to know, i did not read the poem and i don't care if the adaptation was \"faithful\" or not...i only care that it was bad. in short, pretty face but nothing else.",
-      "review_date": "2007-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Now ranks as one of my favorite films, all-time!",
-      "review_date": "2007-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was amazing! a must see in IMAX.....i could not belive the level of detail in the characters! this is truly groundbreaking in terms of total cgi movies are concerned. a blast of a movie! plan on seeing again...oh yes!",
-      "review_date": "2007-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I was highly dissapointed in this movie, I thought this movie was going to be very action packed but it shows 5min of that and the rest is boredom. The plot is okay but uninteresting and a bit obviouis. O and the worst ending ever. The only I was highly dissapointed in this movie, I thought this movie was going to be very action packed but it shows 5min of that and the rest is boredom. The plot is okay but uninteresting and a bit obviouis. O and the worst ending ever. The only reason i give this a 4 is because the visual effects are outstanding, its a stunning movie but this just didn't have a great plot or action, sorry i didnt think this movie wasn't so great imo.",
-      "review_date": "2007-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was great. Action was great. The book was good too. The movie didnt really 100% go along with the book but it was well made. If you see the movie in IMAX it is INCREDIBLE.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beowulf is truly an epic film. Many people will be turned off by the films use of CG, but sitting back and taking in the film is one of the best movie experiences I've seen in a very long time. This movie is downright haunting at how Beowulf is truly an epic film. Many people will be turned off by the films use of CG, but sitting back and taking in the film is one of the best movie experiences I've seen in a very long time. This movie is downright haunting at how well the characters can instill their emotion in the spectator.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I like how this movie had great new 3d animation. it was so great that i want to see it again.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I like this movie. Beowulf is the greatest action movie so far. Ray Winstone was really great.",
-      "review_date": "2007-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "English majors, rejoice. Canterbury Tales can't be long in following... The visuals (I saw in 3-D) dominate this film, because you can create so many gorgeous shots with impossible focus and rollercoaster pans when you are working with English majors, rejoice. Canterbury Tales can't be long in following... The visuals (I saw in 3-D) dominate this film, because you can create so many gorgeous shots with impossible focus and rollercoaster pans when you are working with animation. The story is myth and the imagery is completely harmonious with that approach. Gaiman's story is really a reimagining of the poem, where Hrothgar and Beowulf have common vulnerabilities and flaws (specifically Angelina Jolie nude) that cost them their chance at happiness. One thing that CGI still can't replicate well is the movement of the mouth. Polar Express, Final Fantasy and Beowulf still lack the sneer, spittle, pursing of the cheeks and the baring of the upper teeth that distinguish live movement from flat lip flapping. The other negative is the poor development of the king's wife's character, which is another dreamed-up concept; for it to be believable, Gaiman should have given her something to do other than be the kept woman and damsel in distress. The final battle with the dragon ranks as one of the most intense CGI experiences, in the same class as Gandalf's descending battle with the underworld demon in LOTR: Two Towers and Harry Potter's duel with the dragon in HP: Goblet of Fire. Don't take your children under 13, seriously. Grendel is as nightmare-inducing as the creature of the original poem.",
-      "review_date": "2007-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Best thing I have ever scene in digital 3d at IMAX . the whole movie through is packed with the 3d effect . Unlike nightmare before Christmas which redid 2 scenes and the opening credits in the 3d. .... cant wait till Phillips wowvx is out . Best thing I have ever scene in digital 3d at IMAX . the whole movie through is packed with the 3d effect . Unlike nightmare before Christmas which redid 2 scenes and the opening credits in the 3d. .... cant wait till Phillips wowvx is out . This will be the best showcase of what digital 3d can do .",
-      "review_date": "2007-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I really liked it! Adventure packed!",
-      "review_date": "2007-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The film is very entertaining and the animation is superb, but don't go in looking for the same depth from the epic poem. The movie is a big budget, sex- and-sword action film. Don't be distracted by the animation to think it is The film is very entertaining and the animation is superb, but don't go in looking for the same depth from the epic poem. The movie is a big budget, sex- and-sword action film. Don't be distracted by the animation to think it is for kids, Beowulf is mainly aimed at young men who find Angelina Jolie hot. The movie isn't deep so if you don't expect too much from the storytelling, you will be pleasantly surprised.",
-      "review_date": "2007-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Its a shame that people give this movie negative reviews based on its style especially when its style is such an achievement. But be warned, if you cant enjoy this film because of a lack of experience with, or an appreciation for this style, Its a shame that people give this movie negative reviews based on its style especially when its style is such an achievement. But be warned, if you cant enjoy this film because of a lack of experience with, or an appreciation for this style, you wont be able to get past it. I found it refreshing that this movie doesn't try to do anything other than provide an entertaining thrill ride. Those expecting anything else are looking for a different movie, which isn't the fault of the movie, its the fault of the viewer.",
-      "review_date": "2007-11-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great looking film, but weak in a lot of areas. Overall I can only give it a 5 out of 10.",
-      "review_date": "2007-11-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is a lot of fun! It has great heroes, monsters, hot women, exciting action, just enough drama, and a nice sense of humur. The 3D version rocks, but it is easy to focus almost completely on the visuals and not the story itself.",
-      "review_date": "2007-11-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Overall I thought this film was okay. It was worth seeing in the theater, however the odds of my buying it are still low.",
-      "review_date": "2007-11-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fantastic graphics. Great actors. Interesting reworking of the English language's oldest epic.",
-      "review_date": "2007-11-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Critics suck. best popcorn movie i've seen in a long, long time",
-      "review_date": "2007-11-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "okay you can work with cgi. wow... So does the video game community for quite some time already... I only went to see it because I had free tickets... I walked out after I think about 20 minutes give or take (first time ever I walked out on okay you can work with cgi. wow... So does the video game community for quite some time already... I only went to see it because I had free tickets... I walked out after I think about 20 minutes give or take (first time ever I walked out on a movie) and went for a drink... I had a couple of Long Island Ice Teas... They were good... It makes more sense to rate the bar next to the movie theatre. But seriously, who (outside Brad Pitt obviously and pubescent teenagers) still thinks Angelina Jolie is good-looking? I mean she never had acting skills anyway so CG is her futere I guess... even there she looks as fake as in real life... And the first twenty so minutes wern't really that well-done either... I've seen better videogames so....",
-      "review_date": "2007-12-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Little of what we find in the epic is presented in the film, but such must be expected of a screenplay drawn from so rich a work. Rather than presenting and exploring any one of the old ideas, though, this movie seems to flirt with some, and Little of what we find in the epic is presented in the film, but such must be expected of a screenplay drawn from so rich a work. Rather than presenting and exploring any one of the old ideas, though, this movie seems to flirt with some, and totally misunderstand others. It tells its own original tale of a repeating chain of nobility, pride, temptation, regret and atonement, but that story gets easily lost among clumsy jabs at the epic themes. It would have been better off to have claimed no relation to the epic whatsoever. It could even stand on its own as merely a healthy mix of sex and violence.",
-      "review_date": "2007-12-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Pretty good animation-movie (?) and i would like to see more movies like this. Story could been better and they should have use more special effects but after all good movie.",
-      "review_date": "2007-12-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was juvenile. It lost significance by departing from the original story. Instead of getting an ancient epic that questions the legitimacy of oral tradition itself, you get a 2-hour CG fart joke. A few of the 3D characters were This movie was juvenile. It lost significance by departing from the original story. Instead of getting an ancient epic that questions the legitimacy of oral tradition itself, you get a 2-hour CG fart joke. A few of the 3D characters were well rendered, but many were mediocre. It's rated PG-13 because that's the only demographic this movie would appeal to, 13 year olds.",
-      "review_date": "2007-12-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The mixed between animation and reality is too confused. It could be the violent side of Fairytopia.",
-      "review_date": "2007-12-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Do yourselves a favor, and read the actual story... You'll have a much better time than watching this... Oh, and one more thing: This is far from the story of Beowulf than I've ever seen. DAMN HOLLYWOOD! COME UP WITH SOMETHING Do yourselves a favor, and read the actual story... You'll have a much better time than watching this... Oh, and one more thing: This is far from the story of Beowulf than I've ever seen. DAMN HOLLYWOOD! COME UP WITH SOMETHING ORIGINAL FOR ONCE!!!",
-      "review_date": "2007-12-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A cool animated film, although I kept expecting Beowulf to fidn Shreck and bone him like a fish! Seriously, though, the adaptation is an interesting reimagining of the Beowulf story, treating Beowful himself as an unreliable narrator, while A cool animated film, although I kept expecting Beowulf to fidn Shreck and bone him like a fish! Seriously, though, the adaptation is an interesting reimagining of the Beowulf story, treating Beowful himself as an unreliable narrator, while tying in the various elements of his life in to a coherent whole. Not for purists of myth, perhaps, but those who enjoy studying the film for its merits as a modern remake will enjoy it. One side note: I found the Grendel bits almost painful to watch, like experiencing some sort of weird acid trip. The film got better after he was dead, thankfully! Except for John Malkovich, whos typically painful performance as a an egocentric, opinionated and driven narcissist continues to haunt all films he aspires to act in; I wish the guy would stop ruining movies with his stale one-act performance and retire, please!",
-      "review_date": "2007-12-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you go into this movie just looking for a bit of fun it will deliver just fine. If you can't see this in 3D then I really wouldn't recommend it. I am a fan of the original poem and was dissapointed when important themes were If you go into this movie just looking for a bit of fun it will deliver just fine. If you can't see this in 3D then I really wouldn't recommend it. I am a fan of the original poem and was dissapointed when important themes were left our and annoying modern themes were added. All in all, they made a fun average movie that could have been much, much, better.",
-      "review_date": "2007-12-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Nicly done. The CGI looked good and didn't distract from the story too much. It was refreshing to see a CG film for adults.",
-      "review_date": "2007-12-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The movie just failed to interest me on ANY level.",
-      "review_date": "2007-12-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I just saw this in 3D IMAX and while I am not usually a big action film fan, this was the frickin' bomb! It's visually stunning and the action sequences are amazing. Scholars will undoubtedly be aghast at the liberties taken with I just saw this in 3D IMAX and while I am not usually a big action film fan, this was the frickin' bomb! It's visually stunning and the action sequences are amazing. Scholars will undoubtedly be aghast at the liberties taken with the original, but for the rest of us, fasten your seat belts and enjoy the ride. If you are going to see only one movie in the theater, this is the one. It will be dreadful as a home rental on the small screen--I don't care how big your home theater is. See it 3-D IMAX if at all possible. Is this the beginning of a melding of video games and film? Perhaps and that is certainly disquieting in concept, but for now, I AM BOEWULF.",
-      "review_date": "2007-12-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not the worst movie but 300 was way better, it seemed more real.. don't care for the 3-D.. seemed too cartoony.",
-      "review_date": "2008-01-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Really liked this movie. State of art animation. And Anthony Hopkins is doing well as usual. Even the animated Anthony. Not bad.",
-      "review_date": "2008-01-24",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 135
+    "title": "Beowulf",
+    "rating": 6.3,
+    "release_date": "2007-11-16",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+    ],
+    "summary": "In a time of heroes, the mighty warrior Beowulf slays the monster Grendel and incurs the wrath of its monstrous yet seductive mother, in a conflict that transforms a king into a legend. (Paramount Pictures)",
+    "critic_reviews": [
+        "Zemeckis springs so many pow 3-D surprises you'll think Beowulf is your own private fun house.",
+        "Beowulf is a solemnly gorgeous, at times borderline stolid piece of Tolkien-with-a-joystick mythology.",
+        "For the record, it's truly puzzling that this film has been rated PG-13; it's much stronger than that. The monsters of \"Beowulf\" have haunted human imagination for more than a millennium; the ones in this film will easily provoke a few nightmares.",
+        "It\u2019s not a reinvention of the wheel, but in 3D this is an astonishing experience that borders on \u2018must-see\u2019, and raises the bar for what James Cameron is planning with Avatar. And you\u2019ll be glad to know that the creepy dead eyes thing has been fixed.",
+        "It's got power and depth, and two kings whose greatness is diluted by hubris, and a thrilling dragon fight, and the demon Grendel as a tortured outcast, and a naked monster who looks a lot like Angelina Jolie.",
+        "Highly entertaining - but far from classic.",
+        "Zemeckis has converted the epic poem about the warrior who slays the monster Grendel into a species of computer game. He employs the same motion-capture technology that he first used in \"The Polar Express,\" to slightly better effect.",
+        "We are not looking at flesh-and-blood actors but special effects that look uncannily convincing, even though I am reasonably certain that Angelina Jolie does not have spike-heeled feet. That's right: feet, not shoes.",
+        "Beowulf couldn't be less faithful to the original epic poem, and that's actually a good thing for moviegoers. It's a lot more fun than the mythic adventure most of us read in school.",
+        "Regardless of the medium, this is an effectively brutal story of swords, sorcery, demons, and heroes, with an Oedipal hint or two thrown in for flavor.",
+        "Not all of it works - and not all of it works the way the target audience of jacked-up young males might want it to - but the movie is hugely provocative fun, and I'm pretty sure that's on purpose.",
+        "Director Robert Zemeckis not only deploys 21st century movie technology at its finest to turn the heroic poem into a vibrant, nerve-tingling piece of pop culture, but his film actually makes sense of Beowulf. In Zemeckis' hands, it's an intriguing look at a hero as a flawed human being.",
+        "Beowulf may ultimately be viewed as a failure, but it\u2019s a fascinating one.",
+        "The story works, but I wish they'd teach these avatars to act.",
+        "Beowulf deserves to be taken semiseriously; its eye candy is mixed with narrative fiber and dramatic protein. But it begs to be taken frivolously. Effects have grown so exciting in the realm of the third dimension that you just sit there all agog behind your polarizing glasses.",
+        "The bolder stroke comes from screenwriters Roger Avary (Pulp Fiction) and Neil Gaiman (the graphic novel Sandman), who\u2019ve turned the arthritic legend into sort of an Arthur Miller play in chain mail.",
+        "Could call Zemeckis subtle; but his style\r\nWell suits the poem's crude and earthy brawn.\r\nComic-Con geeks and cinephiles alike\r\nWill gape at the resplendent imagery\r\n(But don ye specs, and see it in 3-D).",
+        "Although this version of Beowulf (the script, ricocheting between thrilling, heroic, and hilarious, is by Neil Gaiman and Roger Avary) does take some liberties with certain heretofore undreamed of aspects of parentage, it's as faithful to the extant version as it needs to be.",
+        "People's eyes still look as glassy and dull as a taxidermized possum's. But if you're going to Beowulf to experience the sweeping passions that only real eyes can convey, you're missing the point.",
+        "If the arrival of Beowulf is any indication, movie actors will soon all be replaced by lifelike, digitally animated facsimiles. The good news is that some of them might still sound like John Malkovich.",
+        "As dazzling a feast for the eyes as the hungriest eyes can take.",
+        "Beowulf is many things, but boring isn't one of them.",
+        "For all its visual sweep and propulsively violent action, this bloodthirsty rendition of the Old English epic can't overcome the disadvantage of being enacted by digital waxworks rather than flesh-and-blood Danes and demons.",
+        "Beowulf is all right as far as it goes, and it goes pretty far for a PG-13 rating: Dismemberment, \u201c300\u201d-style blood globules comin\u2019 atcha, and a digitally futzed and, for all practical purposes, completely naked!!!",
+        "Zemeckis, who blazed trails mixing live-action with animation in \"Who Framed Roger Rabbit,\" blazes not even a footpath here.",
+        "The 3-D is necessary to the film only in so far as it keeps your eyes engaged when your mind starts to wander. Stripped of much of the original poem\u2019s language, its cadences, deep history and context, this film version of Beowulf doesn\u2019t offer much beyond 3-D oohs and ahs, sword clanging and a nicely conceived dragon, which probably explains why Mr. Zemeckis and his collaborators have tried to sex it up with Ms. Jolie, among other comic-book flourishes.",
+        "I like a good flying, fire-breathing dragon as much as the next fellow. Beowulf's excesses, though, are such that the film ought to carry the subtitle \u2026But This Is Ridiculous.",
+        "First and foremost a showcase for the latest developments in motion-capture and 3-D technology.",
+        "As for Beowulf itself, it's all about the visuals, which means that as soon as the novelty of 3-D wears off, the experience has been had.",
+        "Ten years from now, Beowulf may look like the groundbreaking project that helped kill live-action movies, but for the moment, its uncomfortable jokes and fakey rendering of life leave it wedged firmly in the uncanny valley. (Insert your own joke about Jolie's astonishing animated anatomy here.)",
+        "Owing more to the sword-and-sex-play fantasies of 12-year-olds than the traditions of Old English poetry, Robert Zemeckis' Beowulf will allow adolescents to have their cheesecake - and beefcake - and eat it, too.",
+        "Certainly, modern interpretations should add their own spin to an ancient tale, but in the hands of director Robert Zemeckis, Beowulf becomes... silly.",
+        "Beowulf appears so cartoony, in fact, that the academy just put it on the short list of films to be considered for the Oscar in feature animation.",
+        "Ambitious, overbearing and hollow; it goes overboard to impress, yet it never feels truly inventive or imaginative. At best, it achieves a level of clumsy camp.",
+        "The most interesting thing about Beowulf, alas, is its technology. It's the work of a man who has fallen in love with his toys, but I miss the wicked satirist who made \"Used Cars.\" And the truth is the motion capture in Beowulf comes across as an unsatisfying compromise between animation and live action."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "As a Greek I always thought that film adaptations of Greek epic songs, mytholgy or history were the worst kind. I have to admit, I was wrong. Beowulf is BY FAR the most disgracing piece of computer images put together. If you have read theAs a Greek I always thought that film adaptations of Greek epic songs, mytholgy or history were the worst kind. I have to admit, I was wrong. Beowulf is BY FAR the most disgracing piece of computer images put together. If you have read the book the film is absurd. If you haven't it's demented. Thank Odin the book is miles and LEAGUES away from the piece of junk the collaborators of this retardation came up with. If Beowulf was anything like what was presented in the film, then the \"Lord of the Rings\" would have been called \"The Grey King's Biography\" and it would have been written by someone else. In short; if any Geatish hero still exists, I call upon thee, to slay the producers and director of this atrocity. These are the only monsters that endager your kingdom.",
+            "review_date": "2013-04-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Robert Zemeckis made a well animated 3-D epic but nothing that I observe is special. The first half is dull and second half has a bit more gore and kiddish story of the book and epics is not well used but some fun provides. In voice acting orRobert Zemeckis made a well animated 3-D epic but nothing that I observe is special. The first half is dull and second half has a bit more gore and kiddish story of the book and epics is not well used but some fun provides. In voice acting or CGI acting its cool but nothing special. The ending is clueless and characters have no depth or story. The 3-D is good, yeah but could have been used well. The gore and violence is endless and the UNRATED version is worse. Zemeckis makes the real  he digs in deep and makes it up to serve the nudity, sex, gore and violence of this dull war epic.",
+            "review_date": "2013-08-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "None of the reviewers who gave it over a 30 actually have ever read beowulf, I have and this has almost zero to do with the epic poem. It is just a bad attempt to \"hollywoodize\" the poem",
+            "review_date": "2010-12-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Beowulf\" is a epic remake of the original tale of vikings. It lacks the depth or symbolism of the characters, but it certainly does have the glorious gore and blood going on.",
+            "review_date": "2011-09-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beowulf is a fun cheap ride that you will walk away and forget. However while in the film, you will enjoy yourself, but maybe feel a little unsatisfied.",
+            "review_date": "2015-02-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The animation and the story are incredible. Definitely one of the best movies ever made. I can't wait to watch it again. One of those movies that make the real world so boring for a few days after you watch it.",
+            "review_date": "2011-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love this movie, one of my favorites. Even though it didn't follow the story of the book as much as I would have preferred, the movie has it's own little storyline thing that is very good. The CGI is extremely well done, as is the script.I love this movie, one of my favorites. Even though it didn't follow the story of the book as much as I would have preferred, the movie has it's own little storyline thing that is very good. The CGI is extremely well done, as is the script. And the actors they used are amazing. This is the most underrated movie of all time.",
+            "review_date": "2013-04-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Looks okay but a trifle tedious.",
+            "review_date": "2008-02-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I loved this movie.  I thought it brought a difficult text to life, giving it a new interpretation suited for cinematic length and modern audiences, and would be brilliant for A level literature students.  When this poem was first writtenI loved this movie.  I thought it brought a difficult text to life, giving it a new interpretation suited for cinematic length and modern audiences, and would be brilliant for A level literature students.  When this poem was first written down it had already been narrated by travelling storytellers for centuries, changing and improvising it into many versions, so those who complain it isn't a strict interpretation should see it in its historical context.  I thought the animation was brilliant; dark , chilling, horrific, gory and allowing fight sequences worthy of its heroes.  The cast, even behind their animated avatars, were brave and noble.  And I thought the story of Grendel's mother was a great plot idea giving an extra, modern twist to the tragedy.  All in all, one of the best movies I have seen for ages.",
+            "review_date": "2010-10-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Hugely underestimated gem. On the surface, it's just another hero movie, with a rambunctious and invincible Beowulf. It goes much deeper than that though, with a persistent feeling of an Age that is coming to an end.Beowulf is a liar,Hugely underestimated gem. On the surface, it's just another hero movie, with a rambunctious and invincible Beowulf. It goes much deeper than that though, with a persistent feeling of an Age that is coming to an end.Beowulf is a liar, exaggerating his own adventures, and learns all too soon that your dreams tend to decay around you once you make them come true. He fails his most important trial and will eventually have to pay a hefty price for that.Rothgar is an aging, disgusting pig living on past glories, surrounded by adulators who only crave his gold. His famed mead hall is just a glorified shack.When Beowulf comes as the hero who will defeat the monster, there is no oceanic crowd cheering him but just a few, unconvinced peasants. And in the background the Christian religion is undermining what remains of the days of the glorious heroes, fighting in the name of the Norse Gods.It's a crepuscular tale of regret and longing, for an ideal that cannot really exist. In many ways, it can be regarded of a coming of age tale, of romanticism that eventually needs to confront reality.",
+            "review_date": "2020-09-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolute garbage!!!! Anyone wanting to go see good cg should buy final fantasy advent children.Im familiar with the beowulf legend and this movie represented it fairly but that doesnt make for a good movie..The cg was very poor the overall Absolute garbage!!!! Anyone wanting to go see good cg should buy final fantasy advent children.Im familiar with the beowulf legend and this movie represented it fairly but that doesnt make for a good movie..The cg was very poor the overall look was completely sparse and it was so boring through the whole thing I was tempted to walk out as many others did.The movie was generally pretty quiet.. there wasnt much of a score nor was there any effective bgs which made it that much easier to tune out..My friend agreed and it left us both unsatisfied and ripped off in the end...Save your money and wait 3 months for the dvd..The 1 by the way is just for ANgelina Jolie she was gorgeous in it.",
+            "review_date": "2007-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Ok, for the life of me I don't understand the negative reviews. Let me compare it to an earlier \"Blockbuster\" this year. This is the type of Movie I expected to see when I walked into 300, but didn't get from 300. Its Beautiful to Ok, for the life of me I don't understand the negative reviews. Let me compare it to an earlier \"Blockbuster\" this year. This is the type of Movie I expected to see when I walked into 300, but didn't get from 300. Its Beautiful to look at, full of action, and \"overall\" the dialogue is engaging. I found it a relief to have actually enjoyed an action movie for once this year as all I have gotten was 2 hours of dull drool and 20 minutes of campy action that took itself too serious. And for god sakes as far as an enjoyable theater experience, see this thing in 3D, you cant beat it.",
+            "review_date": "2007-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Here is a thought! Abolish the MPAA rating system. Since apparently the one in place absolutely cannot be trusted. I quote from the MPAA PG-13 guidelines, \"More than brief nudity will require at least a PG-13 rating, but such nudity in a Here is a thought! Abolish the MPAA rating system. Since apparently the one in place absolutely cannot be trusted. I quote from the MPAA PG-13 guidelines, \"More than brief nudity will require at least a PG-13 rating, but such nudity in a PG-13 rated motion picture generally will not be sexually oriented.\" Wow, I guess I was imaging things because I could have sworn while watching Beowulf that not only is the nudity in this picture prolonged, but it extremely sexuality oriented, having unrelenting sexual references throughout the moving as well. Oh, and don't forget the obvious sexual moaning during a scene with nearly fully exposed heaving breasts either. The sexual wording is such that it carefully and conveniently circumvents direct reference to sex using antiquated wording like \"fornication\" and \"having knowledge,\" while sexual acts, some of which are highly incestuous, are explicitly implied. Furthermore, the violence in this movie is over the top. \"There may be depictions of violence in a PG-13 movie, but generally not both realistic and extreme or persistent violence.\" The violence in this movie is highly realistic, extreme, and persistent. Due to the 3-D effects, this movie is quite intense. This movie obviously belongs in a category higher than PG-13- the MPAA system guidelines state so plain as day. Who needs an MPAA system anyway. The movie industry clearly does not care about rating a movie properly, only about appealing to as many demographic areas as possible at the same time in order to make as much money as possible.",
+            "review_date": "2007-12-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I went into the film with some trepidation, and came away feeling that I just just watched something between Shrek and Austin Powers. Beowulf himself had the voice of Ray Winstone, but the look of Sean Bean. Worst of all seemed to be the I went into the film with some trepidation, and came away feeling that I just just watched something between Shrek and Austin Powers. Beowulf himself had the voice of Ray Winstone, but the look of Sean Bean. Worst of all seemed to be the inconsistency of dialects; whoever heard of a cockney South African? The story was well told and some sequences were very well done, but not much good to say about a 2-hour film.",
+            "review_date": "2007-12-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Interesting action, accentuated by the absorbing and involving nature of the new Real D format. The characters were however, still as plastic as previous 3D offers and dialogue bland and corny.",
+            "review_date": "2008-05-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beowulf is top notch. The scenes were amazing. with the 3d look I was blown away. It was great.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great. Amazing. Please win Oscar nomination.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I found this movie's anti Christian point of view from the Viking world rather interesting. The Dragon scene is one of the best ever.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "First of all, don't pay attention to the critics that only enjoy movies about gay swans and kids with one arm. This movie is for the warrior at heart. I really enjoyed this retelling of a classic. I like the contrast that shows the First of all, don't pay attention to the critics that only enjoy movies about gay swans and kids with one arm. This movie is for the warrior at heart. I really enjoyed this retelling of a classic. I like the contrast that shows the difference between the deeds of heroes and their lives. . It shows the human falicy that can exist in even the most legendary of men. Also the 3-D was spectacular. Axes, swords, blood, guts, and fire right in your face! Top notch stuff!. I am defiantly going to see this again. If you want gay swans..stick to the art house. If you want satisfying action with some sword swinging gusto..check out BEOWULF!",
+            "review_date": "2007-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What a piece of Dragon poo. I mean, a demon-Angelina Jolie-lookalike with high heels? Well at least I had a good laugh with Beowulf constantly taking his cloths off, we called him FKK-Wulf afterwards...",
+            "review_date": "2007-11-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "These movie critics make me laugh. Of course this is not some deep thought provoking movie. It is a fun, action packed adventure. You got to see it in 3D. The 3D effects are fantastic. My girlfriend loved it. Real men like action movies with These movie critics make me laugh. Of course this is not some deep thought provoking movie. It is a fun, action packed adventure. You got to see it in 3D. The 3D effects are fantastic. My girlfriend loved it. Real men like action movies with hotties , like Angelina. We don't like slow sub-titled boring movies that win film festivals.",
+            "review_date": "2007-12-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Saw this in Imax 3D",
+            "review_date": "2007-12-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is a technological feast for the eyes. If you see it, see it in 3-D and be prepared to be amazed. I've seen 3-D movies before and having objects come out of the screen and poke at the audience is one of the main draws of 3-D. This movie is a technological feast for the eyes. If you see it, see it in 3-D and be prepared to be amazed. I've seen 3-D movies before and having objects come out of the screen and poke at the audience is one of the main draws of 3-D. There's plenty of that in this movie but also something else I don't recall seeing --- that is having objects appear to come from behind the audience and move toward the screen. The story was good and interesting and the battle scenes, especially the last scene with the dragon, were exciting and imaginative. A great movie which will stay in my memory for a long, long time.",
+            "review_date": "2007-12-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There are few things in this film that may remind you of the 8th century epic poem which it is supposedly based on. Pros: Some battle instances and scenary layout. Cons: -No deep understanding at all of Germanic conscience. -Angelina There are few things in this film that may remind you of the 8th century epic poem which it is supposedly based on. Pros: Some battle instances and scenary layout. Cons: -No deep understanding at all of Germanic conscience. -Angelina Jolie's character is a platitude in itself thanks to \"modern\" additions (female fluidity, females and temptation...etc). -In the poem, beowulf cuts the heads of Grendel and his mother. In the \"modern\" version, Mr. Zemeckis seems more interested in hinting at a sexual curse (with profuse tasteless puns and one-liners throughout the film) than in rendering the epic poem as it was originally compiled. -Complete misunderstanding of the conflict between Germanic and Christian thought in the original poem. -I bet Mr. Zemeckis has never read J. R. R. Tolkien's article \"The Monsters and the Critics\" in order to get to know what the monster deal in this epic poem is about. The film actually blasts away the sense of doom in these Germanic tribes' conscience and pays no attention to the description that the original 8th-century poem makes of Grendel and his mother. The important thing to Mr. Zemeckis seems just to display Miss Jolie and to bring up a circa 1975 depiction of grendel as a victim of society. It is a \"passtime\" film easily entertaining to people who have not read the original poem, who had no idea about its plot or cultural context and who may not express their disgust at Mr. Zemeckis' platitudinal and superficial portrayal of Germanic society. The director, the actors and the scriptwriter should have read the Anglo Saxon poem first (or Seamus Heaney's verse translation) and some articles on it, including Tolkien's \"The Monsters and the Critics\". This film is a \"fast-food passtime\", a lost opportunity that pays little homage to the original Anglo-Saxon work.",
+            "review_date": "2007-12-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Aside from the graphics there is absolutely nothing original about this movie. It's all been done before, over and over again... and so on. Stereotypical, unoriginal, clich\u00e9.",
+            "review_date": "2008-01-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Worst animated movie of all times!!!!!!",
+            "review_date": "2008-02-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What does the academy have against robert zemeckis .. heres an animated feature that was both incredible to watch and beautiful crafted and voiced picture.... not even a tech nomination ?",
+            "review_date": "2008-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The computer enhanced live action seems to be the main focus of the film, and once the novelty of that wears off, it doesn't leave much substance. It is impressive to watch however and I was never bored, but by the end I was a little The computer enhanced live action seems to be the main focus of the film, and once the novelty of that wears off, it doesn't leave much substance. It is impressive to watch however and I was never bored, but by the end I was a little tired of it.",
+            "review_date": "2008-02-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Intense action rivaling LotR and 300.",
+            "review_date": "2008-02-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "At times, it almost looks cool, but never quite looks right. The story is a mess and Hollywood warps another classic tale by re-telling it the wrong way. A waste of time that will probably be loved by everyone who regularly watches the junk At times, it almost looks cool, but never quite looks right. The story is a mess and Hollywood warps another classic tale by re-telling it the wrong way. A waste of time that will probably be loved by everyone who regularly watches the junk on Sci-Fi Network.",
+            "review_date": "2008-02-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "We should thank Mr.Zemeckis and the Anonymous writer of Beowulf for reminding us that: We father our own children of deeds.",
+            "review_date": "2008-07-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you're going to rate 'Beowulf' fairly, you need to grade it on two seperate scales. On one scale is the 3-D and animation, which are (and this a word I rarely if ever use to describe anything) perfect- pore to pore, pimple If you're going to rate 'Beowulf' fairly, you need to grade it on two seperate scales. On one scale is the 3-D and animation, which are (and this a word I rarely if ever use to describe anything) perfect- pore to pore, pimple to pimple, these characters and their world comprise what is without a doubt the single most realistic animated film ever. It doesn't hurt that the 3-D is put to very good use, not so much a ploy as it is a plot thread in of itself, as it totally and completely submerges us into the story. But if this sounds like a rave review, don't be mistaken- if anything, Beowulf is more of a failure than a success. Why? Well, for one, these characters, as realistic and stunning to look at as they are, are only that- stunning to look at. They have no depth, soul, and heart, which makes it very difficult to even care about them, let alone what they're doing or what's even happening the movie itself. The actual plot itself is a bit of a letdown, too- I realize that it's based on an old poem, but from what I've heard, they do change it quite a bit, and it's a shame that the story eventually desolves into a simple case of back and forth, back and forth (I won't reveal anything, but suffice to say, should you see it, you'll immediately see what I'm talking about, and just as quickly get heavy eyed). All in all, it is an entertaining, visually astonishing film... but altogether, it's just not a very successful or meaningful one.",
+            "review_date": "2007-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wonderfully enjoyable and unexpectedly sexy - and I'm talking about the hunky, naked lead himself! If you're gonna see it, you MUST experience it in 3-D. It made movie-going an actual event.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I am from Japan and I have never seen anything like this movie. The poem I read in class was somewhat like this. and i am wowed at this moment.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love this movie. It was really great. Though it had some weird flaws. I didn't like some parts. It was okay. overall 7/10.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love Robert Zemeckis. Even though some of his movies were downfalls, this movie was good. The 3d animation was amazing. How is that done? Great. Should win best animation for Oscar.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I recently read the book (poem) and the movie turned out to be very good even though there were some flaws. The animation was really great. I didn't think it would be like this, but it was amazing. The action was good and the whole I recently read the book (poem) and the movie turned out to be very good even though there were some flaws. The animation was really great. I didn't think it would be like this, but it was amazing. The action was good and the whole concept was great.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great. Barely any flaws. But great.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Stunning visuals. I'm amazed how far the technology has come and imagine where it will be in a few years. Its impact on the economics and traditional production of film-making will be resounding. The only serious flaw I care to dwell on Stunning visuals. I'm amazed how far the technology has come and imagine where it will be in a few years. Its impact on the economics and traditional production of film-making will be resounding. The only serious flaw I care to dwell on also concerns the CGI. For all its achievements with realism, its still cannot replicate pathos or any of the subtler shades of feeling that constitute fine dramas. Characters appear sallow, their faces and eyes lack vitality, and their interactions are distant.",
+            "review_date": "2007-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Don't be distracted by mediocre video game animation. This is a bad movie that throws the original epic out the window of a shiny Hollywood limo.",
+            "review_date": "2007-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Might have been a good movie if they didn't blatantly sex it up for the male 13-29 demographic. It's hard to suspend disbelief when you can tell every second that you're being pandered to. Filmmakers also need to realize that Might have been a good movie if they didn't blatantly sex it up for the male 13-29 demographic. It's hard to suspend disbelief when you can tell every second that you're being pandered to. Filmmakers also need to realize that overuse of CGI makes it extremely hard to suspend disbelief.",
+            "review_date": "2007-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Visually stunning, especially the Digital 3-D that I saw. However, I don't know if I would've liked it much if I just saw the 2-D movie. There are some grand ideas here that seem to fall short, as if the screenwriters wanted to Visually stunning, especially the Digital 3-D that I saw. However, I don't know if I would've liked it much if I just saw the 2-D movie. There are some grand ideas here that seem to fall short, as if the screenwriters wanted to explore themes, but got lost thanks to the studio making cuts. I would've like to hear more about the loss of myths thanks to the move from polytheism to monotheism. It's mentioned, but feels more like an afterthought. The action scenes, however, are stunning, and the whole 3-D element gives it the feel of a great theme park ride. It succeeds in spades on that aspect alone. All it needs is a better told story.",
+            "review_date": "2007-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was purely entertaining. Solid story, great voice acting and stunning special effects. This will prove to be a high water mark in CGI actor movies much like Terminator 2 was for live action film.",
+            "review_date": "2007-11-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How can people not like this film? It's fantastic, engaging, beautifully made and different than other things you see nowadays. Thoroughly innovative and fun. I never wanted it to end.",
+            "review_date": "2007-11-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I've walked out of fewer than five movies in my entire life, and this was one of them. I'm sorry, but I don't see how an awful story/script can be redeemed by groundbreaking special effects. The only demographic I see this I've walked out of fewer than five movies in my entire life, and this was one of them. I'm sorry, but I don't see how an awful story/script can be redeemed by groundbreaking special effects. The only demographic I see this satisfying are 14 year old video game addicts, and the few adults who think the next breakthrough in Hollywood CGI constitutes \"art\" in film. I can just imagine how the script read... BEOWULF: AAAAHHHHHHH!!!!! Cut to Grendel. GRENDEL: AAAAHHHHHHH!!!!!! Cut to Beowulf's soldier. SOLDIER: AAAAHHHHHHH!!!!! Cut to King Hrothgar. HROTHGAR: AAAAAHHHHH!!!!!! And here's the real problem... CGI is getting so realistic it's almost good enough to fool you into believing the animated characters are real people. WHY do we want to do this? Is there some hidden virtue getting to this point? Consider this... why do people go to hear live musical performances when they can listen to practically perfect studio recordings without leaving their couch?",
+            "review_date": "2007-11-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terrible. Just terrible. The animated actors are all stuck in the Uncanny Valley.",
+            "review_date": "2007-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was the best!! The movie was packed with 3D effects and I've never seen anything like it. Beowulf is one of the most entertaining movies I've ever seen so far.",
+            "review_date": "2007-11-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"I...am...Beowulf! *croaky*\"? What the hell? This is the worst phrase I never heard before (plus this film sucks, and has terrible stories). Ok, here's a great and catchy phrase: \"This...is...SPARTA!!\". Now this is what I call \"best \"I...am...Beowulf! *croaky*\"? What the hell? This is the worst phrase I never heard before (plus this film sucks, and has terrible stories). Ok, here's a great and catchy phrase: \"This...is...SPARTA!!\". Now this is what I call \"best voice\". Actor who played as Beowulf, please drink a lot of water.",
+            "review_date": "2007-12-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What??i can't believe this movie getting 0s,this movie was incredible,best animated movie since toy story in my opinion. don't listen to those harsh criticizers. My guess is that they are old english scholars still reciting the What??i can't believe this movie getting 0s,this movie was incredible,best animated movie since toy story in my opinion. don't listen to those harsh criticizers. My guess is that they are old english scholars still reciting the beowulf poem or something. 10/10,hands down. watch it and be amazed.",
+            "review_date": "2007-12-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "IMAX is the way to go, best looking thing I ever saw. Without it slips a little but that didn't matter cause it does something no other non kiddy movie has ever done. Adult subject matter and CG finally as one and those stupid Final IMAX is the way to go, best looking thing I ever saw. Without it slips a little but that didn't matter cause it does something no other non kiddy movie has ever done. Adult subject matter and CG finally as one and those stupid Final Fantasy movies don't count.",
+            "review_date": "2007-12-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great film. The first scene with Grendel in the hall is breathtaking, really took my breath away. I've never seen such a thrilling and downright scary scene.",
+            "review_date": "2007-12-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you already know the story of Beowulf, your going to be relying on the graphics and violence to entertain you, fortunately for the flim theyve done a cracking job with it. the long range sweeping visuals are just stunning, and the If you already know the story of Beowulf, your going to be relying on the graphics and violence to entertain you, fortunately for the flim theyve done a cracking job with it. the long range sweeping visuals are just stunning, and the violence is at time comically ott. Mr Malkovic is the star of the show in terms of acting, with sir Anthony a modest second. My favourite bit is the naked fight.",
+            "review_date": "2007-12-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wiglaf(Brendan Gleeson) is like the guy in John Ford's \"The Man Who Shot Liberty Valance\" who says(about the Jimmy Stewart character), \"When the legend becomes truth. Print the legend.\" This adaptation of the eleventh century historical Wiglaf(Brendan Gleeson) is like the guy in John Ford's \"The Man Who Shot Liberty Valance\" who says(about the Jimmy Stewart character), \"When the legend becomes truth. Print the legend.\" This adaptation of the eleventh century historical poem by an anonymous writer is about as literary as Roland Joffe's torching of Nathaniel Hawthorne's \"The Scarlet Letter\", but it has an accidental sophistication, an intertextuality which transforms this special-effects extravaganza into an ingeniusous display of meta-fiction. It's fun to imagine that Wiglaf is the anonymous poet who wanted to honor his friend, so he left out the juicy innuendoes and concentrated on Beowulf's good points. As a writer of the times, an epoch in which our literary heroes were archetypal, infallible men of bravery and valor, it's only natural that Wiglaf would neglect to document his friend's affair with Grendel's hot mom. This seemingly stupid Hollywood take on a hallowed text from the English canon is not so stupid if you're aware that it's widely speculated among theologian scholars that the Old and New Testaments were censored texts. This movie transforms the original \"Beowulf\" into a censored text.",
+            "review_date": "2007-12-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I liked this movie a lot. But God, why is it PG-13? It had Angelina Jolie with the anatomy of a barbie doll. And the ending was satifying. But Beowulf is so cool and is a visual masterpiece. I give it a 9/10",
+            "review_date": "2008-01-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Impressive storytelling through animation.",
+            "review_date": "2008-02-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A little shallow, but still a very impressive animated movie with some fantastic action.",
+            "review_date": "2008-02-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best real 3d movie I have ever seen. It is great that they have managed to capture the personalities of the real actors. The definition of an action movie.",
+            "review_date": "2008-03-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's a cartoon - if you go from that premise it's not too bad. I thought some of the scenes were in poor taste early on which took away from the story which was okay to watch. A little better editing would have helped out some. The It's a cartoon - if you go from that premise it's not too bad. I thought some of the scenes were in poor taste early on which took away from the story which was okay to watch. A little better editing would have helped out some. The format has promise.",
+            "review_date": "2008-03-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Intense action, fantastic visuals, excellent story, awesome violence. thumbs up.",
+            "review_date": "2008-03-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Obviously This movie was impressive what did you think? No Blood or guts? PaaaaLease! Great Job, Robert Zemeckis.",
+            "review_date": "2008-06-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the worst movies of all time! I love the book and I was hoping that they would take more from it than just the character names, and lo and behold That's all they took from it! And plus there was a severe lack of clothing!",
+            "review_date": "2008-07-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Undoubtedly the worst book adaptation of all time, and one of the worst movies I've seen. What happened to the amazing story? All they had to do was use the book as a script, but noooooo, they had to screw it up. If they want to change Undoubtedly the worst book adaptation of all time, and one of the worst movies I've seen. What happened to the amazing story? All they had to do was use the book as a script, but noooooo, they had to screw it up. If they want to change the story so it surprises more people, it better be a good change, not something atrocious.",
+            "review_date": "2008-09-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just another piece of junk.",
+            "review_date": "2007-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I started by trying to pick out the mistakes and ended up just being engulfed in a good movie. I saw the 3d screening and I really enjoyed it. Hurray for technology... Art comes in many forms and good art often creates a commentary. There I started by trying to pick out the mistakes and ended up just being engulfed in a good movie. I saw the 3d screening and I really enjoyed it. Hurray for technology... Art comes in many forms and good art often creates a commentary. There has never been art that was meant to keep the people quiet. As they say \"Any news is good news!\"",
+            "review_date": "2007-11-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I could say that this was a exciting film, but I couldn't do that. The film was complete flaw. It didn't match up to all the hipe and expectation, I found it to be. Though it did have its moments, that were truely grand. But it I could say that this was a exciting film, but I couldn't do that. The film was complete flaw. It didn't match up to all the hipe and expectation, I found it to be. Though it did have its moments, that were truely grand. But it still didn't help my judgement on this film, Beowulf.",
+            "review_date": "2007-11-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "3D animation can be criticized heavily; in my opinion, it was needed for this film. Whenever real live actors and computer animated monsters appear, the realism is destroyed. Since the whole film is computer animated, there is no distinction 3D animation can be criticized heavily; in my opinion, it was needed for this film. Whenever real live actors and computer animated monsters appear, the realism is destroyed. Since the whole film is computer animated, there is no distinction between real actors and monsters, keeping you glued to the film. Great action, voice acting, and eye candy. It offers a violent, sexy attitude, keeping your interest as to what is going to happen next. This film would have been a perfect 10 if it kept everything that it had, but ADDED more to it with regards to the actual story of Beowulf. I love what was done with the story, but if there was more cohesion to the original story on top of what was done to this film, I feel that the audience and reviewers would have been totally blown away. As a final note: PG 13? I guess mass amounts of blood, gore, and violence is no concern for children anymore!",
+            "review_date": "2007-11-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beowulf is a highly enjoyable action packed thrilling theme park ride. It was the funnest experience at the movies I ever had. The entire film was in 3-D and it was just fun, a lot of fun. It was really like a ride, I can't stress that Beowulf is a highly enjoyable action packed thrilling theme park ride. It was the funnest experience at the movies I ever had. The entire film was in 3-D and it was just fun, a lot of fun. It was really like a ride, I can't stress that enough. Spears coming at you, dragons breathing a you, etc. It was full of those kind of things. And this is obviously starting a push for 3-D, seeing as all the previews were for future entire-3D (come out at you) movies. The 3D was awesome, but behind what is the film behind it? If not in 3D it would have probally gotten a c-something from me. The story, although based on a classic, is for the most part one dimensonal. There's a few things that get you thinking, but that was not the point- it's obviously tough strong good guy vs. Bad guy. Or more correctly, -bda-girl. Bad, bad girl. Angelina Jolie, is naked, even though there's just a little gold. And Beowulf is naked for a large protion too. But what's the problem- there isn't. It's just amazing how many sex jokes were snuck into this pg-13 movie. Brilliant animation abounding, it was a thrill ride. But the characters wern't too lively-, it was like seeing the people in shrek, they showed no emotion. That's not to say the movie's not good. If enjoyed as a 3d- ride through a stylized epic- it is. But a non 3d, shallow, low-story film would only be other wise. Solidity echoes throught this niqe film that can't be missed. I'll take this over the \"epic poem\" any day!",
+            "review_date": "2007-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "first off, let me say one thing: anyone who comes to this movie looking for great CG animation is in for a visual treat. there is no denying that...the animation is downright amazing, i forgot i was watching animation at times. however, first off, let me say one thing: anyone who comes to this movie looking for great CG animation is in for a visual treat. there is no denying that...the animation is downright amazing, i forgot i was watching animation at times. however, anybody expecting anything more will be dissapointed. we could go through the laundry list of why everything else was horrible, but instead lets just summarize: no plot, over-the-top violence and nudity, horrible acting, hilariously cheesy lines, etc, etc... and if anyone wants to know, i did not read the poem and i don't care if the adaptation was \"faithful\" or not...i only care that it was bad. in short, pretty face but nothing else.",
+            "review_date": "2007-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Now ranks as one of my favorite films, all-time!",
+            "review_date": "2007-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was amazing! a must see in IMAX.....i could not belive the level of detail in the characters! this is truly groundbreaking in terms of total cgi movies are concerned. a blast of a movie! plan on seeing again...oh yes!",
+            "review_date": "2007-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I was highly dissapointed in this movie, I thought this movie was going to be very action packed but it shows 5min of that and the rest is boredom. The plot is okay but uninteresting and a bit obviouis. O and the worst ending ever. The only I was highly dissapointed in this movie, I thought this movie was going to be very action packed but it shows 5min of that and the rest is boredom. The plot is okay but uninteresting and a bit obviouis. O and the worst ending ever. The only reason i give this a 4 is because the visual effects are outstanding, its a stunning movie but this just didn't have a great plot or action, sorry i didnt think this movie wasn't so great imo.",
+            "review_date": "2007-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was great. Action was great. The book was good too. The movie didnt really 100% go along with the book but it was well made. If you see the movie in IMAX it is INCREDIBLE.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beowulf is truly an epic film. Many people will be turned off by the films use of CG, but sitting back and taking in the film is one of the best movie experiences I've seen in a very long time. This movie is downright haunting at how Beowulf is truly an epic film. Many people will be turned off by the films use of CG, but sitting back and taking in the film is one of the best movie experiences I've seen in a very long time. This movie is downright haunting at how well the characters can instill their emotion in the spectator.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I like how this movie had great new 3d animation. it was so great that i want to see it again.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I like this movie. Beowulf is the greatest action movie so far. Ray Winstone was really great.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "English majors, rejoice. Canterbury Tales can't be long in following... The visuals (I saw in 3-D) dominate this film, because you can create so many gorgeous shots with impossible focus and rollercoaster pans when you are working with English majors, rejoice. Canterbury Tales can't be long in following... The visuals (I saw in 3-D) dominate this film, because you can create so many gorgeous shots with impossible focus and rollercoaster pans when you are working with animation. The story is myth and the imagery is completely harmonious with that approach. Gaiman's story is really a reimagining of the poem, where Hrothgar and Beowulf have common vulnerabilities and flaws (specifically Angelina Jolie nude) that cost them their chance at happiness. One thing that CGI still can't replicate well is the movement of the mouth. Polar Express, Final Fantasy and Beowulf still lack the sneer, spittle, pursing of the cheeks and the baring of the upper teeth that distinguish live movement from flat lip flapping. The other negative is the poor development of the king's wife's character, which is another dreamed-up concept; for it to be believable, Gaiman should have given her something to do other than be the kept woman and damsel in distress. The final battle with the dragon ranks as one of the most intense CGI experiences, in the same class as Gandalf's descending battle with the underworld demon in LOTR: Two Towers and Harry Potter's duel with the dragon in HP: Goblet of Fire. Don't take your children under 13, seriously. Grendel is as nightmare-inducing as the creature of the original poem.",
+            "review_date": "2007-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Best thing I have ever scene in digital 3d at IMAX . the whole movie through is packed with the 3d effect . Unlike nightmare before Christmas which redid 2 scenes and the opening credits in the 3d. .... cant wait till Phillips wowvx is out . Best thing I have ever scene in digital 3d at IMAX . the whole movie through is packed with the 3d effect . Unlike nightmare before Christmas which redid 2 scenes and the opening credits in the 3d. .... cant wait till Phillips wowvx is out . This will be the best showcase of what digital 3d can do .",
+            "review_date": "2007-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really liked it! Adventure packed!",
+            "review_date": "2007-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The film is very entertaining and the animation is superb, but don't go in looking for the same depth from the epic poem. The movie is a big budget, sex- and-sword action film. Don't be distracted by the animation to think it is The film is very entertaining and the animation is superb, but don't go in looking for the same depth from the epic poem. The movie is a big budget, sex- and-sword action film. Don't be distracted by the animation to think it is for kids, Beowulf is mainly aimed at young men who find Angelina Jolie hot. The movie isn't deep so if you don't expect too much from the storytelling, you will be pleasantly surprised.",
+            "review_date": "2007-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Its a shame that people give this movie negative reviews based on its style especially when its style is such an achievement. But be warned, if you cant enjoy this film because of a lack of experience with, or an appreciation for this style, Its a shame that people give this movie negative reviews based on its style especially when its style is such an achievement. But be warned, if you cant enjoy this film because of a lack of experience with, or an appreciation for this style, you wont be able to get past it. I found it refreshing that this movie doesn't try to do anything other than provide an entertaining thrill ride. Those expecting anything else are looking for a different movie, which isn't the fault of the movie, its the fault of the viewer.",
+            "review_date": "2007-11-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great looking film, but weak in a lot of areas. Overall I can only give it a 5 out of 10.",
+            "review_date": "2007-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is a lot of fun! It has great heroes, monsters, hot women, exciting action, just enough drama, and a nice sense of humur. The 3D version rocks, but it is easy to focus almost completely on the visuals and not the story itself.",
+            "review_date": "2007-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Overall I thought this film was okay. It was worth seeing in the theater, however the odds of my buying it are still low.",
+            "review_date": "2007-11-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fantastic graphics. Great actors. Interesting reworking of the English language's oldest epic.",
+            "review_date": "2007-11-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Critics suck. best popcorn movie i've seen in a long, long time",
+            "review_date": "2007-11-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "okay you can work with cgi. wow... So does the video game community for quite some time already... I only went to see it because I had free tickets... I walked out after I think about 20 minutes give or take (first time ever I walked out on okay you can work with cgi. wow... So does the video game community for quite some time already... I only went to see it because I had free tickets... I walked out after I think about 20 minutes give or take (first time ever I walked out on a movie) and went for a drink... I had a couple of Long Island Ice Teas... They were good... It makes more sense to rate the bar next to the movie theatre. But seriously, who (outside Brad Pitt obviously and pubescent teenagers) still thinks Angelina Jolie is good-looking? I mean she never had acting skills anyway so CG is her futere I guess... even there she looks as fake as in real life... And the first twenty so minutes wern't really that well-done either... I've seen better videogames so....",
+            "review_date": "2007-12-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Little of what we find in the epic is presented in the film, but such must be expected of a screenplay drawn from so rich a work. Rather than presenting and exploring any one of the old ideas, though, this movie seems to flirt with some, and Little of what we find in the epic is presented in the film, but such must be expected of a screenplay drawn from so rich a work. Rather than presenting and exploring any one of the old ideas, though, this movie seems to flirt with some, and totally misunderstand others. It tells its own original tale of a repeating chain of nobility, pride, temptation, regret and atonement, but that story gets easily lost among clumsy jabs at the epic themes. It would have been better off to have claimed no relation to the epic whatsoever. It could even stand on its own as merely a healthy mix of sex and violence.",
+            "review_date": "2007-12-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Pretty good animation-movie (?) and i would like to see more movies like this. Story could been better and they should have use more special effects but after all good movie.",
+            "review_date": "2007-12-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was juvenile. It lost significance by departing from the original story. Instead of getting an ancient epic that questions the legitimacy of oral tradition itself, you get a 2-hour CG fart joke. A few of the 3D characters were This movie was juvenile. It lost significance by departing from the original story. Instead of getting an ancient epic that questions the legitimacy of oral tradition itself, you get a 2-hour CG fart joke. A few of the 3D characters were well rendered, but many were mediocre. It's rated PG-13 because that's the only demographic this movie would appeal to, 13 year olds.",
+            "review_date": "2007-12-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The mixed between animation and reality is too confused. It could be the violent side of Fairytopia.",
+            "review_date": "2007-12-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Do yourselves a favor, and read the actual story... You'll have a much better time than watching this... Oh, and one more thing: This is far from the story of Beowulf than I've ever seen. DAMN HOLLYWOOD! COME UP WITH SOMETHING Do yourselves a favor, and read the actual story... You'll have a much better time than watching this... Oh, and one more thing: This is far from the story of Beowulf than I've ever seen. DAMN HOLLYWOOD! COME UP WITH SOMETHING ORIGINAL FOR ONCE!!!",
+            "review_date": "2007-12-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A cool animated film, although I kept expecting Beowulf to fidn Shreck and bone him like a fish! Seriously, though, the adaptation is an interesting reimagining of the Beowulf story, treating Beowful himself as an unreliable narrator, while A cool animated film, although I kept expecting Beowulf to fidn Shreck and bone him like a fish! Seriously, though, the adaptation is an interesting reimagining of the Beowulf story, treating Beowful himself as an unreliable narrator, while tying in the various elements of his life in to a coherent whole. Not for purists of myth, perhaps, but those who enjoy studying the film for its merits as a modern remake will enjoy it. One side note: I found the Grendel bits almost painful to watch, like experiencing some sort of weird acid trip. The film got better after he was dead, thankfully! Except for John Malkovich, whos typically painful performance as a an egocentric, opinionated and driven narcissist continues to haunt all films he aspires to act in; I wish the guy would stop ruining movies with his stale one-act performance and retire, please!",
+            "review_date": "2007-12-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you go into this movie just looking for a bit of fun it will deliver just fine. If you can't see this in 3D then I really wouldn't recommend it. I am a fan of the original poem and was dissapointed when important themes were If you go into this movie just looking for a bit of fun it will deliver just fine. If you can't see this in 3D then I really wouldn't recommend it. I am a fan of the original poem and was dissapointed when important themes were left our and annoying modern themes were added. All in all, they made a fun average movie that could have been much, much, better.",
+            "review_date": "2007-12-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Nicly done. The CGI looked good and didn't distract from the story too much. It was refreshing to see a CG film for adults.",
+            "review_date": "2007-12-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie just failed to interest me on ANY level.",
+            "review_date": "2007-12-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I just saw this in 3D IMAX and while I am not usually a big action film fan, this was the frickin' bomb! It's visually stunning and the action sequences are amazing. Scholars will undoubtedly be aghast at the liberties taken with I just saw this in 3D IMAX and while I am not usually a big action film fan, this was the frickin' bomb! It's visually stunning and the action sequences are amazing. Scholars will undoubtedly be aghast at the liberties taken with the original, but for the rest of us, fasten your seat belts and enjoy the ride. If you are going to see only one movie in the theater, this is the one. It will be dreadful as a home rental on the small screen--I don't care how big your home theater is. See it 3-D IMAX if at all possible. Is this the beginning of a melding of video games and film? Perhaps and that is certainly disquieting in concept, but for now, I AM BOEWULF.",
+            "review_date": "2007-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not the worst movie but 300 was way better, it seemed more real.. don't care for the 3-D.. seemed too cartoony.",
+            "review_date": "2008-01-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Really liked this movie. State of art animation. And Anthony Hopkins is doing well as usual. Even the animated Anthony. Not bad.",
+            "review_date": "2008-01-24",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 135
 }

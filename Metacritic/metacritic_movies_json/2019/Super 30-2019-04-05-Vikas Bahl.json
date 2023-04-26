@@ -1,19 +1,20 @@
 {
-  "title": "Super 30",
-  "rating": 7.8,
-  "release_date": "2019-04-05",
-  "genre": [
-    "Biography"
-  ],
-  "summary": "Super 30 is based on the remarkable life story of India’s genius mathematician Anand Kumar who was born into a very poor family in the Indian state of Bihar. Anand inducts 30 highly underprivileged but academically bright students into his ‘Super 30’ program every year and coaches them free of cost in an efficiently designed course to helpSuper 30 is based on the remarkable life story of India’s genius mathematician Anand Kumar who was born into a very poor family in the Indian state of Bihar. Anand inducts 30 highly underprivileged but academically bright students into his ‘Super 30’ program every year and coaches them free of cost in an efficiently designed course to help them crack India’s toughest entrance exam at Indian Institutes of Technology (IITs). … Expand",
-  "critic_reviews": [],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "The premise was awesome. But so much drama dimmed the shining spark of this film. Although acting was powerful. Hrithik Roshan deserves some nominations. But Pankaj Tripathi was wasted here.",
-      "review_date": "2019-09-20",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 1
+    "title": "Super 30",
+    "rating": 7.8,
+    "release_date": "2019-04-05",
+    "genre": [
+        "Biography"
+    ],
+    "summary": "Super 30 is based on the remarkable life story of India\u2019s genius mathematician Anand Kumar who was born into a very poor family in the Indian state of Bihar. Anand inducts 30 highly underprivileged but academically bright students into his \u2018Super 30\u2019 program every year and coaches them free of cost in an efficiently designed course to helpSuper 30 is based on the remarkable life story of India\u2019s genius mathematician Anand Kumar who was born into a very poor family in the Indian state of Bihar. Anand inducts 30 highly underprivileged but academically bright students into his \u2018Super 30\u2019 program every year and coaches them free of cost in an efficiently designed course to help them crack India\u2019s toughest entrance exam at Indian Institutes of Technology (IITs). \u2026 Expand",
+    "critic_reviews": [],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "The premise was awesome. But so much drama dimmed the shining spark of this film. Although acting was powerful. Hrithik Roshan deserves some nominations. But Pankaj Tripathi was wasted here.",
+            "review_date": "2019-09-20",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 1
 }

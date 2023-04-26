@@ -1,629 +1,708 @@
 {
-  "title": "Predator",
-  "rating": 8.7,
-  "release_date": "1987-06-12",
-  "genre": [
-    "Action",
-    "Adventure",
-    "Sci-Fi",
-    "Thriller"
-  ],
-  "summary": "Schaefer (Schwarzenegger) and his elite military unit are recruited to rescue hostages held by guerrillas in the Latin American jungle. But once there, they encounter an enemy more deadly than any on earth! (20th Century Fox)",
-  "critic_reviews": [
-    "Directed by John McTiernan, it’s an ’80s classic full of still-thrilling action, quotable one-liners (“Get to the chopper!” “Stick around!”) and sly digs at Uncle Sam’s penchant for unwinnable jungle wars.",
-    "The film tackles an age-old theme of man versus monster, but does so in a way that creates a strangely perfect balance between action, science fiction, and even a dash of horror.",
-    "Predator is a classic action/sci-fi film, albeit a dated action/sci-fi film.",
-    "Structurally, Predator is a classic behind-enemy-lines/buddy movies. Nothing much new, just well done.",
-    "Moves at a breakneck pace, it has strong and simple characterizations, it has good location photography and terrific special effects, and it supplies what it claims to supply: an effective action movie.",
-    "It's got thrills and chills and one of the most elegantly conceived monsters in the history of movies.",
-    "Crisply stylish and suspenseful, making brilliant use of optical special effects, Predator is one of Schwarzenegger's best.",
-    "A slightly above-average actioner that tries to compensate for tissue-thin-plot with ever-more-grisly death sequences and impressive special effects.",
-    "Despite the off-rhythm styling and suggestions of primeval menace, there's really not much going on here.",
-    "Alternately grisly and dull, with few surprises.",
-    "Frankly, scarier critters have checked into Roach Motels.",
-    "It's arguably one of the emptiest, feeblest, most derivative scripts ever made as a major studio movie. There's no need to do a Mad magazine movie parody of this; it's already on the screen."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Are the critics smoking something over there? It may not have the best script in the world but this was an entertaining movie, and great effects on the predator.",
-      "review_date": "2012-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Predator\" is a good action blockbuster movie; it succeeds to consistently maintain its tension and coolly blows it off in the end with Arnold Schwarzenegger.",
-      "review_date": "2011-09-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best alien movie of all time.  With classic arnold moments, and stan winston's creature effects, this movie was brilliant ever since I saw it when I was about 4. Classic.",
-      "review_date": "2011-12-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Usually when I look at a movie, like example horror or action or comedy or whatever. Then it depends on how scary it is or how destructive it is. This movie is a action horror. But with Arnold Swachenegger in it was more action than horror.Usually when I look at a movie, like example horror or action or comedy or whatever. Then it depends on how scary it is or how destructive it is. This movie is a action horror. But with Arnold Swachenegger in it was more action than horror. Doesn't matter, it all tied up when Arnold was being hunted by the PREDATOR. The universes best hunter ever, until it met Arnold. They both gave each other hell. Arnold gave the predator hell because he was sent in the middle of the jungle to help a team distress call. But instead he and his team find nothing but skinned soldiers and of course the predator. The PREDATOR gave him hell because its his right of passage to become a \"man\". All together the movie was awesome. Not the best graphics you ever saw but still what a movie. Thumbs up.",
-      "review_date": "2011-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "doesnt matter what 4 critics say, the has spoken and is one of thebest clasics ever, supense action good efects, is one of the best movies and schwarzenegger rocks, awesome movie everybody must have",
-      "review_date": "2014-06-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I thought this film was great. Loved some of the taglines such as, \" Get to da choppa!! \" and \" I aint got time to bleed \". I love to watch this film again and again.  9.15/10",
-      "review_date": "2010-08-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "god what movie did the critics see? this is a movie i know alot of people like. granted its 80s cheesey over the top action with even cheesier lines but it holds up. some movies just have that ability to do that while other as they age getgod what movie did the critics see? this is a movie i know alot of people like. granted its 80s cheesey over the top action with even cheesier lines but it holds up. some movies just have that ability to do that while other as they age get old smelly and moldy and unwachable this one how ever aged well. its a great idea for a film having a elite group of special forces go into the jungle to do a mission and run into a alien predator who hunts them down one by one . it has great action and is a fun roller coaster ride from start to finish . wish we could have learned more about the predator race is about my only gripe but other then that its a fun solid sci fi action film.",
-      "review_date": "2011-07-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "i must say that i really enjoyed this movie. firstly the movie was well performed by its cast and also the alien predator was played well as a hunter stalking its prey. the film delivers in suspense and action for its audience and ii must say that i really enjoyed this movie. firstly the movie was well performed by its cast and also the alien predator was played well as a hunter stalking its prey. the film delivers in suspense and action for its audience and i definitely would recommend it",
-      "review_date": "2010-09-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not the greatest film ever, but certainly arnie's best, and a contender for my all time top ten list. A classic that gets better with every view.",
-      "review_date": "2011-07-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "memorable film, and easily the most terrifying and unstoppable extraterrestrial ever conceived. the metacritic score makes less sense than this: 8d'@~j843.'#[ewiuo389.",
-      "review_date": "2012-05-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wow I just can't believe the critic score on this one! This is one of the best sci-fi movies I've ever saw, and to this day this movie aged very well - almost 30 years passed (!!) and we rarely see so well made scifi movies. We have 2016 nowWow I just can't believe the critic score on this one! This is one of the best sci-fi movies I've ever saw, and to this day this movie aged very well - almost 30 years passed (!!) and we rarely see so well made scifi movies. We have 2016 now and in december I havent seen anything released this year that would come near this one! After all these years its obvious - this is and will always be remembered as brilliant cult classic! 10 out of 10.",
-      "review_date": "2016-12-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nBehold!!! what the original expendables should have been. when you think about it, The Expendables was basically the same thing when you get down to the basic skeleton. a bunch of musclebound action stars led by Arnie fighting a threat none of them could be prepared for. the only difference is after all the fighting and ass kicking the team realizes there is a bigger threat out there and one by one they get picked off by an alien hunter with camouflage capabilities and weapons nobody could believe. Arnold ends up defeating it but by surprise he didn't kill it in the end, the predator kills itself when it saw no other way to win. this movie is so awesome that it makes me wish they left it alone and didn't make many sequels, having said that I am looking forward to The Predator this year which i will review after i see it.",
-      "review_date": "2018-08-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It surprises me that this amazing action film has such a low metascore. Is it too unintelligent, \"dumb\" or stupid for you snooty movie critics. It's an amazing witty one-liner filled romp from start to finish",
-      "review_date": "2013-04-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "You can't go wrong with an action classic that gave us an amazing sci-fi character in the Predator. It's everything you want in an action blockbuster.",
-      "review_date": "2019-01-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Why the low score? Although this isn't a cinema masterpiece, it's a classic movie, and one of the few Schwarzenegger movies that isn't terrible. This is a cool film to watch, and I recommend it to any fans of action movies, Schwarzenegger or AVP.",
-      "review_date": "2012-02-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's amazing some of the best atomsphere ever pure testorone fueled action shows whats bad about modern action movies    Arnold delivers the role and there is a great sense of humour",
-      "review_date": "2013-07-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The poor critic reviews for this film are ridiculous. They say the movie is derivative, derivative of what? This, arguably the best Schwarzenegger action film, is what endless sequels and imitations have come from. One of the best films ever made.",
-      "review_date": "2019-04-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator, one of the best action movie of all time, this movie has great special effects and great environment, and the story is very nice with some intense moments, some characters quotes are also pretty fun, really enjoy with my family andPredator, one of the best action movie of all time, this movie has great special effects and great environment, and the story is very nice with some intense moments, some characters quotes are also pretty fun, really enjoy with my family and friends, can't still believe that got 36 of score, some people doesn't appreciate gold.",
-      "review_date": "2017-02-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "C mon professional critcs! It kicks! The movie is awesome, even for this days! Its a good quality production, and its all about action and surviving.. Sometimes that is all!",
-      "review_date": "2009-10-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A highly enjoyable movie, with action and a great plot, I had a blast watching this, and it's one I could watch over and over again, if your into this kind of thing it's one you should see.",
-      "review_date": "2011-03-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The critic's score for this movie is frankly absurd! Predator is one of the best monster movies ever made, with only the first two Alien movies outperforming it. The setting is perfect, Arnie's squad of soldiers are well defined and memorableThe critic's score for this movie is frankly absurd! Predator is one of the best monster movies ever made, with only the first two Alien movies outperforming it. The setting is perfect, Arnie's squad of soldiers are well defined and memorable (elevating them far beyond monster-fodder) and the creature itself is a bonafide legend. My youth would not have been complete without Predator and the movie has stood the test of time with ease. An outright classic!",
-      "review_date": "2013-01-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "No matter how many times you watch it, this is the only film you'll never ever get bored. Best action/thriller film so far. You wont feel like you are watching a 80's film. Trust me;)",
-      "review_date": "2012-06-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Expertly crafted film with just as many jaw-drop moments as there are seat-jumper moments.",
-      "review_date": "2012-11-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is definitely underrated by \"professional critics\" as this movie is awesome it has very different and unique characters that bounce off of each other so well creating some great dialogue sequences. The action in this movie is alsoThis movie is definitely underrated by \"professional critics\" as this movie is awesome it has very different and unique characters that bounce off of each other so well creating some great dialogue sequences. The action in this movie is also great because it's not too \"over the top\" but it's also not extremely realistic.",
-      "review_date": "2013-07-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Obviously something is seriously wrong with critics' mind as i don't know why they gave Predator such a low Metascore. This action-packed sci-fi movie is original and also very scary to some points. Tension remains constant throughout theObviously something is seriously wrong with critics' mind as i don't know why they gave Predator such a low Metascore. This action-packed sci-fi movie is original and also very scary to some points. Tension remains constant throughout the entire film while simultaneously boasting solid performance from Arnold Schwarzenegger as a leader of a mercenary group fighting for a way out of the jungle in order to escape the invisible, deadly hunter they don't stand a chance of defeating",
-      "review_date": "2014-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Honestly. You want a film. You get a **** film. This is a brilliant, fast paced, action packed movie, full of twists, surprises, and as you'd expect from an Arnie film: a **** load of violence. Fantastic movie. You want to watch a movie, theHonestly. You want a film. You get a **** film. This is a brilliant, fast paced, action packed movie, full of twists, surprises, and as you'd expect from an Arnie film: a **** load of violence. Fantastic movie. You want to watch a movie, the critics are ****ed up in the head. I mean, Rambo First Blood got a **** 62% METASCORE! **** the critics. Watch this film.",
-      "review_date": "2014-04-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wait... the score is negative???  Oh yeah, this was before it got its cult following.  Either way, this is one of Arnold's action classics, and, even though the effects have aged pretty badly, it still remains a gripping, suspenseful actionWait... the score is negative???  Oh yeah, this was before it got its cult following.  Either way, this is one of Arnold's action classics, and, even though the effects have aged pretty badly, it still remains a gripping, suspenseful action movie, with one of the coolest alien monsters ever put on film.  Arnold couldn't have said it better:  \"One... ugly mother f*cker...\"\r 8/10",
-      "review_date": "2014-11-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A Metascore of 36? I can't believe I'm the first to say this: Bunch of slack-jawed ****\rAt least the late Roger Ebert knew \"an effective action movie\" when he saw one.",
-      "review_date": "2015-02-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Ticks all the boxes for the classic action movie.    .",
-      "review_date": "2014-12-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Whats't wrong with matacritc giving bad rating in here? 42? are you negatie reviewers kiding me? this movie is near to a classic masterpiece, people always seems to not appreciate the work they put into this film, Stan Winston, John MctiernanWhats't wrong with matacritc giving bad rating in here? 42? are you negatie reviewers kiding me? this movie is near to a classic masterpiece, people always seems to not appreciate the work they put into this film, Stan Winston, John Mctiernan and Kevin Peter Hall did a great job in bringing to life to one of the most iconic aliens on the big screen, not only that but they also had one of the most manliest badass team ever with some of the most memorable quotes of all time, and also the jokes worked really good on this film than the sequels or even modern action films that tries hard to have some comedy on it, and the score is well done by Alan Silvestri, the ending could've been better in my opinion but everything else was amazing. Without debut this is one of my fav films of all time. 9.2/10",
-      "review_date": "2018-02-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Excellent movie. Alien and Star Wars surpass it, but if no movies surpassed it, it would probably be a 10. I give it a 9.5/10, but metacritic won't let me score it that.",
-      "review_date": "2010-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Brillant action movie. Great effects and weapons - the Predator itself is just awesome! Watched this so many times cos it is superb.",
-      "review_date": "2007-04-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A simple movie in every way, but a superb cinema classic.",
-      "review_date": "2008-06-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A magnificent exercise in sci-fi horror, only disliked by those who do not understand it. The cinematography is beautiful, and Schwarzenegger delivers a Schwarzenegger-ish performance, which is good for an action movie. It's not meant A magnificent exercise in sci-fi horror, only disliked by those who do not understand it. The cinematography is beautiful, and Schwarzenegger delivers a Schwarzenegger-ish performance, which is good for an action movie. It's not meant to be deep, or thought provoking, it's meant to be a good, scary action sci-fi endeavor. And it succeeds on all counts.",
-      "review_date": "2010-04-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is friggin' awesome! This is an Arnold Swartznegger action movie at its best. The Predator is also pretty freakin' sweet too.",
-      "review_date": "2006-07-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Awesome movie, the story and characters are great. Predator rules!",
-      "review_date": "2007-12-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Its pretty sweet throughout.",
-      "review_date": "2007-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An amazing movie that beats the hell out of alien and aliens. it is the best movie ever made.",
-      "review_date": "2009-03-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A documentary on being badass.",
-      "review_date": "2007-05-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "They go in all balls and bravado, and leave in body bags. Classic action film.",
-      "review_date": "2009-12-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Pure perfection even to this day.",
-      "review_date": "2009-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is how the phone call from my friend went before I went over to his to watch Predator, when I was 8 years old...Friend: Dude, you have to come over, my bro rented me this awesome film with Arnie in, and he has to fight an alien!\nMe:This is how the phone call from my friend went before I went over to his to watch Predator, when I was 8 years old...Friend: Dude, you have to come over, my bro rented me this awesome film with Arnie in, and he has to fight an alien!Me: Really? I think I know it, my parents wouldn't let me watch it. Does the alien have a laser or something?Friend. Yeah, he has a big friggin laser on his shoulder. Me: Arnie, Aliens and lasers!? Dude I'll be right over!",
-      "review_date": "2019-01-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This was by far my favorite movie of all time. It is just something about a unstoppable alien going against the guy who has won Mr.Universe three times.",
-      "review_date": "2011-05-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best movie ever made - Action, soundtrack, story, characters, effects and pace. I've yet to see a better action film. Many have tried to copy but few have come close.",
-      "review_date": "2016-04-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator is a thrilling, science-fiction action film, that stars the incomparable action star Arnold Schwarzenegger. Released in 1987, Predator has gone one to be one of the most widely-recognised sci-fi's of all-time. A team ofPredator is a thrilling, science-fiction action film, that stars the incomparable action star Arnold Schwarzenegger. Released in 1987, Predator has gone one to be one of the most widely-recognised sci-fi's of all-time. A team of highly-professional soldiers get dropped off by helicopters in which seems to be an easy mission dealing with guerillas. They're there to take them out but little do the realise the'll be getting picked out, one by-one by an Alien Warrior that's ship had crash-landed in the central-american jungle. Alan \"Dutch\" Schaefer played by Arnold Schwarzenegger leads the team of soldiers.\r This film's unmatchable in every way and still remains the greatest of all three solo Predator films and is far better than both Alien vs Predator films too. Schwarzenegger is the greatest and also, for the add, BIGGEST action star of all-time, so he really makes this film what it is. I love it in every way. The incredible shoot-locations, pretty awesome dialogue, Science-Fiction, violence, plot and more. It's all great. I rate Predator a 10/10 as it's my all-time favourite film. I love so many films, but Predator is definitely my favourite (alongside a few other, non-related films).\r A+, 10/10.",
-      "review_date": "2014-04-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "More than just another dumb '80s Schwarzenegger actioner, Predator has gradually become a sci-fi and action classic. It's not difficult to see why. John McTiernan's direction is claustrophobic, fluid and assured, staging the action withMore than just another dumb '80s Schwarzenegger actioner, Predator has gradually become a sci-fi and action classic. It's not difficult to see why. John McTiernan's direction is claustrophobic, fluid and assured, staging the action with aplomb but concentrating just as much on tension and atmosphere.\r It's cheesy as hell, of course, but enormously entertaining and deeply cool, with a ton of quotable lines - 'I ainít got time to bleed' - while The Predator itself is an utterly unforgettable villain. But most bad guys are only as good as their heroes and, long before he became a shambling self-parody, Arnie delivers - and not just in the walking and talking without falling over sense. He's an awesomely indestructible figure here, at the height of his physical powers. He's the archetypal immovable force meeting an irresistible object. Only Arnie at his most iconic could convincingly defeat the Predator (as those who've seen Danny Glover in 'Predator 2' know).\r There's also something ironic in the climax, where immigrant Arnie - now fully embraced by the U.S. - kicks the tar out of a real illegal alien. We could go into the sexual subtext, but maybe we're just reading too much into it.\r A thumping piece of powerhouse cinema.",
-      "review_date": "2015-04-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wait, Metascore is 36/100?  WTF?  People are seriously not from this planet if 'critic reviewers' miss the whole point about Arnie movies... Its pure schtick, tongue in cheek machismo.  Pred is one of Arnies better flicks, certainly in theWait, Metascore is 36/100?  WTF?  People are seriously not from this planet if 'critic reviewers' miss the whole point about Arnie movies... Its pure schtick, tongue in cheek machismo.  Pred is one of Arnies better flicks, certainly in the top 5.  Its not a Terminator, its not Conan the Barbarian, but it is heyday Arnie in his prime.",
-      "review_date": "2015-07-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Really great effects, acting, action, just the ending could be better, but it really doesn't matter, I really enjoy this film, i'm big fan of this alien.",
-      "review_date": "2017-03-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A great action/horror/scifi flick, intense and good action throughout shot well by the director of die hard. Arnie is great and there are some great one liners!",
-      "review_date": "2018-10-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "La perfeccion hecha película, la mejor de la saga y una de las mejores peliculas de todos los tiempos",
-      "review_date": "2019-10-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator is an amazing movie. The story is nice, but it's mainly Schwarzenegger, and even more so is the atmosphere of the jungle in which this film is immersed. The First Predator is one of the best Emzac films ever made. Although he doesn'tPredator is an amazing movie. The story is nice, but it's mainly Schwarzenegger, and even more so is the atmosphere of the jungle in which this film is immersed. The First Predator is one of the best Emzac films ever made. Although he doesn't have an Alien, I definitely recommend watching it.",
-      "review_date": "2021-02-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The greatest movie ever",
-      "review_date": "2009-10-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A score of 36? it's not high cinema but COME ON! one of the best action movies ever.",
-      "review_date": "2010-04-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Hated by critics, loved by users, Predator is one of the best Schwarzenegger movies out there. But as ugly as it is, the actual \"predator\" isn't very scary, and we barely see it (it is implied most of the movie). But Predator is still a good film.",
-      "review_date": "2013-09-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I really don't know why the Metascore for this one is so low, I found it to be a highly enjoyable action movie. The monster is just awesome, too. Not really a thinking person's film, but it's not supposed to be.",
-      "review_date": "2010-08-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nthis is an EPIC movie\rDonno y its got only a score of 36\rEvery action movie fan must watch this\rMa fav scene is the iconic laugh at the end by the predator",
-      "review_date": "2011-10-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator is one of the great classics of the action genre. When a special forces team are sent in on a rescue mission things turn for the worse when they begin to be picked off one by one by an unseen Predator with superior fighting tactics &Predator is one of the great classics of the action genre. When a special forces team are sent in on a rescue mission things turn for the worse when they begin to be picked off one by one by an unseen Predator with superior fighting tactics & weaponry. Arnie provides a knockout \"tough guy\" role as ever and the supporting actors are just as good. One of those lazy afternoon action flicks you can really get stuck into.",
-      "review_date": "2012-10-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The editing is choppy at some points and some scenes could have been more fleshed out, but Predator succeeds largely with strong suspense and exciting action.",
-      "review_date": "2012-10-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Timeless classic. Action films these days lack this kind of testosterone, humor, and creativity.",
-      "review_date": "2018-08-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "most of the critics don't know what they're saying! plain and simple, this movie was a great action blockbuster with NO love stories which is good and the famous \"get to da choppa!\" the only down side was the action was kind of slow",
-      "review_date": "2013-12-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Outside of Terminator, Predator is probably one of Arnold's more underrated sci-fi action movies. An interesting premise tops off cool, practical effects with an interesting villain in the Predator.",
-      "review_date": "2017-08-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator, when you sit down and think about it, is a great deal more thoughtful than most of Arnie's brainless, all guns blazing action movies. The film is less sympathetic towards its military protagonists. Rather, it shows them up.Predator, when you sit down and think about it, is a great deal more thoughtful than most of Arnie's brainless, all guns blazing action movies. The film is less sympathetic towards its military protagonists. Rather, it shows them up. Juxtaposing Schwarzenegger and his fellow cast spending the first half of the film measuring each other's manhoods, we spend the film's climax with an excellently designed creature seemingly built for battle. While the Predator is born to fight, humanity chooses to. Ooh. That's probably a deeper analysis than the filmmakers ever intended. Aside from all that, it's loud, quite fun and it's got lovely violence all the way through.",
-      "review_date": "2017-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is one of those classic that are SUPER overrated from people that have a lot of nostalgia. How can people call THIS A MASTERPIECE? Like what!? If this for you it’s a masterpiece you need to learn a little more of the aspects ofThis movie is one of those classic that are SUPER overrated from people that have a lot of nostalgia. How can people call THIS A MASTERPIECE? Like what!? If this for you it’s a masterpiece you need to learn a little more of the aspects of filmmaking. There’s no plot, bad acting, bad script, the plot it’s not that thrilling, it’s boring and the only thing that is good for it’s time is the special effects, it’s just a piece of awfully directed crap. It's arguably one of the emptiest, feeblest, most derivative scripts ever made as a major studio movie. Arnold Schwarzenegger fights an outer-space monster in a third-world jungle. The monster never has a chance. Neither does the jungle. Neither does the audience. Then let’s not talk about the plot armor Arnorld had against the Predator. The shoulder canon is capable of firing powerful plasma blasts which have been shown to blow the heads clear off their targets, even Dillon get his arm destroyed by it and Arnold got a scratch....The Predator also has wrist blades, that he doesn’t use, super strength that he doesn’t use, spear, blade disc, etc. Dumb action sequences of Arnold fighting the Predator. Horrible movie 2/10",
-      "review_date": "2021-04-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I really could not understand why voters have given this movie a good rating. the movie does not even come close to a good script.it is just a piece of awfully directed scrap. even the plot is not that thrilling. the point of a action movieI really could not understand why voters have given this movie a good rating. the movie does not even come close to a good script.it is just a piece of awfully directed scrap. even the plot is not that thrilling. the point of a action movie is to keep the screenplay intact and that is not what the movie has achieved.",
-      "review_date": "2009-09-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good special effects; otherwise cartoonish and boring.",
-      "review_date": "2009-12-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What if there are not a plot, a storyline or good performances? This is a John McTiernan movie! Pure action not boring stuff. That´s the reason why, \"Predator\" is a cult action movie. That accomplishment is due to the real monster (not What if there are not a plot, a storyline or good performances? This is a John McTiernan movie! Pure action not boring stuff. That´s the reason why, \"Predator\" is a cult action movie. That accomplishment is due to the real monster (not Schwarzzy), an alien so scary than its freakiness can hold the entire movie. For the movie, in general, has a sense of a bad movie. A cross between alien terror movies and stupid action. Likes Rambo-meets-Alien in a Celebrity Deathmatch (for its capacity of absurdism). But after all, this is just a eighties action flick: nor superfluous neither important but sometimes, sometimes, that´s all that a movie needs to be a classic.",
-      "review_date": "2006-06-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Has some good action and tension, and Arnie is great, but they made the predator look really stupid.",
-      "review_date": "2019-04-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is the definition of action. It was entertaining in some parts but it does get rather predictable and boring as well. Also the acting was poor as well. It was ok though but not as good as it could have been.",
-      "review_date": "2011-12-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is your classic no plot, big guns, lots of fun blockbuster. Is there any brain work needed? no. Just sit back and watch some muscular men get picked off by an alien bloke, whilst in the process massacring a rainforest.",
-      "review_date": "2014-11-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Perfect Aci Fi Action movie with some horror elements, which are working. As a viewer you are even feeling to be hunted by the predator and start to think how to beat him. Arnold fits to this role and the other actors are doing a good jobPerfect Aci Fi Action movie with some horror elements, which are working. As a viewer you are even feeling to be hunted by the predator and start to think how to beat him. Arnold fits to this role and the other actors are doing a good job also. Action is fitting also.",
-      "review_date": "2020-04-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Science fiction, terror, suspense, action combined in one movie, and the distinctive touch of a mc tiernan movie, low rated jewell of the crtitics.",
-      "review_date": "2018-09-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The greatest movie ever made and this is no joke or overstatement. It is a masterpiece in film making from its SFX to its story telling, drama, cast, obtuse characters and so on. Even the mostly laughable Arnie (who i love) made it out ofThe greatest movie ever made and this is no joke or overstatement. It is a masterpiece in film making from its SFX to its story telling, drama, cast, obtuse characters and so on. Even the mostly laughable Arnie (who i love) made it out of this film with without a scratch (in terms of how his character dutch would be portrayed).The soundtrack is superb, the action is fantastic, the storytelling flows throughout and thewhole film doesnt age even after 30 years. It is a must watch",
-      "review_date": "2018-09-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "¿La película es perfecta como algunos dicen? No. Pero si se puede disfrutar. La historia es muy poca y simple, un equipo especial es enviado a acabar con unos guerrilleros y rescatar a unos ministros del país, pero se encuentran con un Alien¿La película es perfecta como algunos dicen? No. Pero si se puede disfrutar. La historia es muy poca y simple, un equipo especial es enviado a acabar con unos guerrilleros y rescatar a unos ministros del país, pero se encuentran con un Alien lo llaman Predator y tienen que exterminarlo. Eso es todo, muy simple y algo tonta, esto me parece mas que era para demostrar que Arnold puede acabar con un alienígena. Personalmente creo que esta sobre valorada. Hubiera preferido que mas bien fuera que todos podían morir y no un personaje principal que sobrevivirá si o si. La película intenta tomarse en serio pero no lo logra muy bien. Le doy un 06/10 mas que decente si buscas acción y poco mas. Yo prefiero Predator 2 y Predators por que se toman mas en serio y tienen menos: OK este es el prota el va a sobrevivir no importa como.",
-      "review_date": "2014-09-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator...There's no other movie that's so bad,it's good.I mean you get to see Arnold Schwarzenegger say 80's action movies typical cheesy one liners and go head to head with an alien...You don't see that anywhere else.",
-      "review_date": "2014-10-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator is an amazing film that has great plot and characters. Going to save people and then getting terrorized by a predator is awesome. My only problem is that it's a thriller film which doesn't really feel like it is a thriller. But IPredator is an amazing film that has great plot and characters. Going to save people and then getting terrorized by a predator is awesome. My only problem is that it's a thriller film which doesn't really feel like it is a thriller. But I still like it a lot.",
-      "review_date": "2017-10-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best sci-fi action movie of all time.What it 'Predator' does best, is starts off as a mere action flick. you just except explosions and fighting, and then the creepy things start to show.. and camera positions also make you feel as ifThe best sci-fi action movie of all time.What it 'Predator' does best, is starts off as a mere action flick. you just except explosions and fighting, and then the creepy things start to show.. and camera positions also make you feel as if you are there, being followed.Each character of the team has a different 'color', you get to attached to them a bit as get picked of one by one.So many epic scenes, the berserk-mode mini-gun blast through the forest, the knife showdown on the bridge, the battle cry at the end of the preparations.The music is also great and leaves you at suspense.The predator himself, first the looks, kind of a mix of a old tribal humanoid and a beast that hunts people for trophies - i mean, how epic is that? (and the costume itself has set an industry standard).10/10",
-      "review_date": "2020-03-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nHow come such critics, such admiration to what appears to be less than an average action movie ? The pace is bad, the plot unstructured, the acting is poor (excepting for Dillon who is embodied by Carl Weathers), the end is as long and boring as predictable, we don't know anything about the Predator, characters are pale stereotypes (with the notable excption of Billy, played by Sonny Landham), the whole story is just a runaway/embush plot, there is no balance between the opponents, the characters have no depth, the so-called thermic-view scenes are lame and visually disgusting.I however have to admit that the soundtrack is great, the special effects are impressive, some lines are iconic (in the middle of dumb dialogues), the weapons are powerful and the jungle looks awesome. Only one scene, when they attack the guerila camp is awesome, but the movie sadly struggles in maintaining a decent level of tension among all these useless scenes and unequal battles. Nothing more to add: it is boring, empty, and ends up in striking nonsense (why doesn't the Predator see Dutch when he is covered of mud ? I thought it could detect warmth ? Why and how did Dutch survive the laser blast since it killed many of its brothers id arms ? Why does the Predator play so long with him rather than to immediately kill him and transform him into a trophy ? Why will so many questions remain unanswered ?).",
-      "review_date": "2022-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator is an 1987 action sci-fi directed by John McTiernan and stars Arnold Schwarzenegger... He takes a team of elite commando's to rescue some hostages in this jungle like setting and finds out most of not all have been made a corpse outPredator is an 1987 action sci-fi directed by John McTiernan and stars Arnold Schwarzenegger... He takes a team of elite commando's to rescue some hostages in this jungle like setting and finds out most of not all have been made a corpse out of. He attacks some little village with his team, killing patrol guards and even takes one of he women but whether she's a hostage or member of the villains isn't explained. Anyway the badguy soldiers get killed, there are bullets, bombs and explosions going off and the area is secured. Then Arnold Schwarzenegger and his commando team must make it to the border presumably for pick up/collection by a chopper but is hunted by an extraterrestrial invisible and visible alien creature who has cool firing gadgets lol. The predator slays all of Schwarzenegger's soldier team members one by one using different methods of killing. He can see the heats of human body's and this is how he hunts and the soldiers and Arnold Schwarzenegger are carrying weapons so don't do themselves no favours. Packed with entertainment, suspense, bad language, blood, explosions and the usual violence and special effects I'd say Predator is a classic but certainly not better than earlier films such as Raw Deal made in 1986... Predator also stars Carl Weathers, Bill Duke, Sonny Landham, Jesse Ventura, Kevin Peter Hall as the predator.",
-      "review_date": "2020-03-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Loud, dumb, and a testosterone fueled excuse to see Arnold Schwarzenegger flex, Predator is a classic in the action sci-fi genre with blends of horror. Exciting, fun, and wholly thrilling, Predator actually works quite well. The characterLoud, dumb, and a testosterone fueled excuse to see Arnold Schwarzenegger flex, Predator is a classic in the action sci-fi genre with blends of horror. Exciting, fun, and wholly thrilling, Predator actually works quite well. The character development is, in a word, poor. However, the action more than makes up for it with the quite pacing and sheer watchability overcoming many of the film's technical faults. The look of the creature and the special effects are quite dated by now. However, even those are no match for this classic piece of 1980s action cheese with the picture of masculinity Arnold Schwarzenegger standing tall and flexing to fight this predator. Overall, Predator hunts and kills its prey with ease and entertains with similar ease.",
-      "review_date": "2016-07-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Pretty sweet cheese fest. Campy oh yeah but oh so good .  Special effects were decent for the time but it is sort of a parody of meat head porn that was so pervasive in the 80's . The 80's prime Arnold and cast .",
-      "review_date": "2015-05-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Predator\" is your usual 80's action movie. Big guys, big guns, big shootouts, explosions and great one-liners said by the great Schwarzenegger. If you're looking for a good Schwarzenegger action movie, you'll probably like it.",
-      "review_date": "2017-09-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It is the quintessential action movie made of adrenaline, action, one liners and testosterone seasoned with horror elements, dread and a small portion of humour. The best description I have heard for this movie is: You have an action movieIt is the quintessential action movie made of adrenaline, action, one liners and testosterone seasoned with horror elements, dread and a small portion of humour. The best description I have heard for this movie is: You have an action movie with a squad of badass soldiers who finished a mission in the jungle of central America. Then the predator invades the movie to hunt them done. This works very well. It is the whole cast that carries this performance. Yes you have Arnold Schwarzenegger who is of cause a badass but his whole squad are also badasses that would do well in every action movie. Their enemies are no match for them as they clearly out gun them with ease. Then comes the Predator who delivers these battle hardened men a feeling of dread, fear and hopelessness. It is a naked battle for survival against a superior enemy that outmanoeuvres them easily. This is the strength of the movie. It delivers this serious threat and the impact perfectly. It gets even more intense the longer the movie goes. Then there is the final battle which I wont spoil. Its a battle of wits. Each one knows the strengths of their enemies and try to outmanoeuvre the other. As far as action movies go this is one of the best if not best and a cult classic. Each sequel tries to recapture this formula but so far all have failed.",
-      "review_date": "2020-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is amazing, one of Arnold's best movies, it's a great movie, imagine Rambo vs aliens, and you get the picture of what the movie is like I won't ruin the plot for others but it's a great movie vary well done.",
-      "review_date": "2017-07-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What to say about this movie?It's definitely a classic and one of the best action movies and SCI FI movies of ALL TIME.The plot is really interesting and as it gets to the middle of the plot viewers get stuck by their chairs or couches theyWhat to say about this movie?It's definitely a classic and one of the best action movies and SCI FI movies of ALL TIME.The plot is really interesting and as it gets to the middle of the plot viewers get stuck by their chairs or couches they sit and they watch it with huge temptation of what's going to happen next.Predator costume is absolutely amazing and it's a big plus for a person who made the Predator visuals and sound.In this movie Arnold says \"Get to the choppa!\" haha nuff said.",
-      "review_date": "2014-12-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator never has to worry about unclogging a toilet, or cleaning burned-in cheese off of a steel frying pan, or being in awkward social situations. It just wants to drag every last muffuh down to hell through a hail of blood & bones.Predator never has to worry about unclogging a toilet, or cleaning burned-in cheese off of a steel frying pan, or being in awkward social situations. It just wants to drag every last muffuh down to hell through a hail of blood & bones. It's... it's just so good.",
-      "review_date": "2015-01-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As a child, I loved Predator. I thought it was fun, likable and efficient above other things. I revisited it again some time ago again, and was waiting for the opportunity to say that it has quickly become a favourite of mine. As far as JohnAs a child, I loved Predator. I thought it was fun, likable and efficient above other things. I revisited it again some time ago again, and was waiting for the opportunity to say that it has quickly become a favourite of mine. As far as John McTiernan's movies go, I think Die Hard is his best movie but Predator is for me definitely up there with his best. It is everything I thought it to be as a child and more.The action is exhilarating and kept at a snappy pace with enough suspense to thrill, while the special effects are truly excellent, they are memorable, look great and enhance rather than distract. The characterisation is also good, the story is gripping, Alan Silvestri's score is terrific, the pace is snappy, McTiernan's direction is efficient and the dialogue is quotable. The acting I have no problems with either, Arnold Schwarznegger gives one of his most charismatic, efficient and likable performances here.Overall, a great film and a classic of its decade. It may be a little too long perhaps, but it is great fun and works on all levels. 9/10 Bethany Cox",
-      "review_date": "2022-03-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I cant believe the metascore of this movie. This is one of the best Arnold Schwarzenegger movies, with great camera angles and good special effect. An interesting villian, also.",
-      "review_date": "2016-03-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie.is underrated in metacritic,and this movie is considered One of the best movies of all time.The critics were wrong.the fans,however,put the score it had deserved.It has my favorite movie character.one of the best final fights.andThis movie.is underrated in metacritic,and this movie is considered One of the best movies of all time.The critics were wrong.the fans,however,put the score it had deserved.It has my favorite movie character.one of the best final fights.and nothing ws boring of this movie.",
-      "review_date": "2016-02-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the all time action classics. Rough, cool and corny, just the way it should be. Still waiting for a good modern sequel... (Predator 2 is also worth a watch btw)",
-      "review_date": "2017-05-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In many respects, Predator is part of the Alien merchandise which is why there is a spin-off film to it called Alien vs. Predator. After I reviewed all of the Alien films I decided I would now review Predator which it stars ArnoldIn many respects, Predator is part of the Alien merchandise which is why there is a spin-off film to it called Alien vs. Predator. After I reviewed all of the Alien films I decided I would now review Predator which it stars Arnold Schwarzenegger and many more. It's not even a horror film, it's more like an action sci-fi film which occasionally had some scares. It's nothing that scary apart from when it's quiet. There occasionally have some blood and guts for the most part. The opening is pretty impressive and the ending is spectacular. the story is very basic, simple and straight forward. I know that years ago critics giving it mixed reviews saying the story is too flat and paper thinned, I can see why. The third act is where Arnold Schwarzenegger as Dutch being very quiet trying to kill the predator once and for all. The third act doesn't even have any dialogue apart from the end where he says ''Bleed, b!£$%^d.'' and the one that everybody says it's a memorable line in the movie industry is ''You one ugly motherf$%ker.'' I know there's plenty to go around but that's the way the movie goes. There's another memorable that Schwarzenegger said. All he said is ''Get to the chopper!'' I just realise that years back! Oh, oh, and if you think that is not enough? Why don't you take a look at this! Blain played by Jesse Ventura says a line that I know as a kid is that Jonah from Splashdown 2: Rides Gone Wild fails, he says ''I ain't got time to bleed.'' and wouldn't you know it? Jesse says it. Oh, Jesus, if many of the characters ripping off the films that many of the actors said, this game would be pop culture. Maybe Jesse Ventura have got time to duck. it really had an all star cast who are in the jungle. It has Arnold Schwarzenegger, Carl Weathers, Elpidia Carrillo, Jesse Ventura, Richard Chaves, Bill Duke, Sonny Landham, Shane Black and then there's Kevin Peter Hall as the Predator. It shows the from the beginning of the end credits which is really impressive. Bill Duke also worked with Arnold Schwarzenegger in Commando which is rather usual. He played a bad guy in Commando and now he played a good guy in Predator. Shane Black's character is the character who tells Billy laugh by telling his puxxy jokes. He only did it about two times. Billy played by Sonny Landham is afraid of no man. Now the Predator is in the jungle to kill people and take their body of bones out of their skins and camouflages like a chameleon and can make himself disappear. If you think Aliens isn't enough? Then you've haven't seen Predator with some action packed thrills and occasional scares and a straight forward simple basic story. I love the opening and I love the ending. I would actually prefer the Alien films because they're really scary film and it will scare the living s£!t out of you and me. Predator is just your good action sci-fi flick directed by the same guy who directed one of my favourite films of all time Die Hard, John McTiernan. It has some good effects on the predator and yeah, that's about it. There're sometimes one-liners in this from Schwarzenegger are too vague like ''Stick around.'' and ''Knock knock.'' but that's only two times. And you will the predator bleed showing green blood because if it bleeds, we can kill it. \"You one ugly motherf£$ker.''",
-      "review_date": "2021-11-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is the second best Arnold movie ever. The Predator is so much fun, Most of the movie is a lot like Rambo and towards the end is like Alien. My Father and I love watching this movie together, We laugh and we go wow. The final battleThis is the second best Arnold movie ever. The Predator is so much fun, Most of the movie is a lot like Rambo and towards the end is like Alien. My Father and I love watching this movie together, We laugh and we go wow. The final battle between Arnold and the Predator is truly epic, The only problem I have with this movie is I wish they spent some more time on the Characters so we could get to know them more. But in the end Predator is so much fun and truly awesome action movie. So all Of you, GET TO THE CHOPPER!!!",
-      "review_date": "2016-03-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of my most favorite monsters in its first movie with Arnold Schwarzenegger predator. Predator is about an elite commando unit to save some hostages in the jungle but they dont know that there are aliens hunting them down. So they each getOne of my most favorite monsters in its first movie with Arnold Schwarzenegger predator. Predator is about an elite commando unit to save some hostages in the jungle but they dont know that there are aliens hunting them down. So they each get killed one by one. But they try there very best not to die because they have one nonmember of there commando unit that they must protect as she trys to find a way out of the island. There is only one very elite soilder to withstand the alien. Major Alan Dutch aka Arnold Schwarzenegger is the only man to withstand any kind of pain long enough to defeat the Predator.",
-      "review_date": "2016-03-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThe movie is perfect at so many different levels that I will try to point most of them:First: The beginning of the movie is awesome - simple and powerful at the same time. Second: The music of the movie is thrilling, manly and penetrating which makes the atmosphere exactly like to be in a dangerous jungle. Every scene has it's own music which makes suspense even better. Third: The script: to the point and straight forward for the elite squad who are the hunters, until it makes a twist, and when the Predator came they become hunted. Fourth: The characters are simply perfect and there is no other actors who could play these roles as better as them. The general - excellent, with few lines and exact orders. Dutch - the perfect leader, strong, the biggest of the group, muscular as hell, composed and collected. Dillon - a little smaller than Dutch, cunning and determined to fulfill his own mission, after all succeeded until the moment the Predator came. Anna - great as portraying their prisoner. Mac - the best acting in the movie of all the actors in it, first in the scene where he saw the Predator, second after the shooting and third - his monologue about his buddy Blane. Blane - excluding Dutch, the biggest macho in the squad, and in real life the only actor in the movie who actually experienced war and being a real soldier. Billy - the powerful, big, strange, dark and foreboding Indian with his own code of war. Poncho - tough, almost as the big guys and with great lines in the movie, always helps when it counts. Hawkins - the perfect radio soldier with the sexist jokes to cheer up the others, and he would've been distinctive without his glasses. The Predator - great super tall actor who makes Dutch look small.Fifth - The effects - way ahead of it's time. Great even watching at 2016. May be the best effects an action movie ever made. Sixth - The lines - How can you forget: \"Get to the chopper!\", \"If it bleeds we can kill it!\", \"Any time.\", \"I ain't got time to bleed\", \"Stick around\", \"You're one ugly mother f&ck&r\" and many more. Seventh - The atmosphere of the movie is makes you feel you are one of them or the Predator. Hence: if you're an Action Sci-Fi Horror fan this is the best movie for you. For me it's the best of all time, because I've watched it more than 500-600 times and still watch it today.",
-      "review_date": "2016-12-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator is a real old-school action movie from the 80s. It is all soaked in this era and Schwarzenegger is great for this role. There is almost no plot here, only the jungle and Arnold smeared to the dirt. The predator does not scare at all,Predator is a real old-school action movie from the 80s. It is all soaked in this era and Schwarzenegger is great for this role. There is almost no plot here, only the jungle and Arnold smeared to the dirt. The predator does not scare at all, there is no such frightening unknown as with the Alien.",
-      "review_date": "2021-02-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator sous ses allures de série B -mais avec de gros moyens quand même- est un film de gros bourrin... et de bourrins à l'instar de ses personnages, véritables caricatures tout droit sorties d'une bande dessinée aussi simplette quePredator sous ses allures de série B -mais avec de gros moyens quand même- est un film de gros bourrin... et de bourrins à l'instar de ses personnages, véritables caricatures tout droit sorties d'une bande dessinée aussi simplette que spontanée. On a le gros moustachu avec sa cracheuse qui chique sa saloperie ; on a un gars qui a l'air plutôt \"normal\" mais qui se trimballe des lunettes de geek plus grandes que lui ; on a l'Amérindien psycho et demeuré en même temps, un vrai chien d'arrêt ; on a bien sûr Apollo Creed qui se fait rembarrer sans arrêt par tout le reste de l'équipe (c'est drôle) et ainsi de suite...Et on a surtout Schwarzy qui reprend du service dans cette sorte de \"Commando 2 : le retour dans la jungle de la revanche\". Et il faudra bien un Schwarzenegger au sommet de sa forme pour faire face... à la créature ! Le chasseur alien est en effet et à tout point de vue un magnifique concept, élégant, sophistiqué, intrigant et... mortel.Ce n'est pas que son apparence, son comportement ou ses gadgets : c'est aussi les étonnants effets sonores qui accompagnent et illustrent son formidable attirail. A propos de son ou plutôt de musique, la bande originale d'Alan Silvestri soutient parfaitement le film, martiale et implacable et décidément très prenante.Un film qui reprend en somme les codes du premier Alien et se tient aux unités de lieu, de temps et d'action, les trois dimensions axiomatiques de toute narration tragico-dramatique depuis l'invention du théâtre lui-même. La mise en scène de McTiernan est professionnelle et appliquée et se met au service du spectacle et de l'efficacité : pas de chichis inutiles ici.Evidemment, s'il faut un Schwarzy face au Predator, il faut en supporter les conséquences, à savoir quelques \"jokes\" de beauf et ses yeux en bille de Loto qui sont censées exprimer... quoi au juste ? l'étonnement, la peur, la colère, la détermination ? (ah non, pour la détermination, c'est les sourcils très froncés). M'enfin bref.On reste toujours autant captivé en tout cas par ce Predator -au contraire de tous les films de la franchise qui ont suivi- aussi bien par sa créature -fascinante- que par le film lui-même, cette BD grandeur nature qui se trimballe avec ses clichés sans sourciller... mais si rondement menée, si efficace qu'on a rarement vu mieux depuis dans le genre.",
-      "review_date": "2018-01-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A Masterpiece Of Thriller/HorrorPredator is an all out brilliant film that never gets old.",
-      "review_date": "2019-06-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Predator. What are you? A great start to the Skull Hunter franchise. Starting as a typical Vietnam film with Sylvester Stallone (Mistake) and his friend Arnold Schwarzenegger, after half an hour this film turns into a race to the bottom thatPredator. What are you? A great start to the Skull Hunter franchise. Starting as a typical Vietnam film with Sylvester Stallone (Mistake) and his friend Arnold Schwarzenegger, after half an hour this film turns into a race to the bottom that will be as hard as possible to survive. The Predator look was done superbly, it's not a terribly funny costume or a very disgusting one, it's the image of a real cruel space hunter. Music and endless trees and jungle foliage will keep you in suspense for just an hour of chasing and hiding from the alien. All the main characters perfectly showed their images of harsh and fearless warriors, but also whose hearts are ready to stop at the sight of Predator.",
-      "review_date": "2022-11-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I really do like this film. It's taken me a while to have a better appreciation for it. I remember seeing it with Aliens on a double feature when I was 7. Aliens scared the crap out of me but i don't remember how I reacted to this film. ForI really do like this film. It's taken me a while to have a better appreciation for it. I remember seeing it with Aliens on a double feature when I was 7. Aliens scared the crap out of me but i don't remember how I reacted to this film. For most of my young life macho stuff was pretty much thrusted down my throat by my father. It wasn't until later in life that I began to find an appreciation for it. Being an out gay man i can certainly appreciate how hunky Schwarzenegger and crew are but it's more than that. I love the brute force of this movie and how raw it is. It's big, it's dumb and it's silly and most of all it's unapologetic. The practical FX and gore are beyond amazing. The plot is pretty much a throwaway. It's pretty much our beast versus a beast from the stars. And on those simplistic limits it delivers a hell of a time.Budget: $18mDomestic Box Office: $60mWorldwide Box Office: $98m4/5",
-      "review_date": "2020-03-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Predator is a great movie. It has moments that do not work well and a poor script, but his movie direction and the actors are awesome. A great classic action movie.",
-      "review_date": "2019-02-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I enjoyed this movie when I was 12, now I enjoying this even more than ever, well done to the studio, those who gave it bad review probably did't made it to the choppa and got skinned alive.",
-      "review_date": "2018-02-21",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 112
+    "title": "Predator",
+    "rating": 8.7,
+    "release_date": "1987-06-12",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "summary": "Schaefer (Schwarzenegger) and his elite military unit are recruited to rescue hostages held by guerrillas in the Latin American jungle. But once there, they encounter an enemy more deadly than any on earth! (20th Century Fox)",
+    "critic_reviews": [
+        "Directed by John McTiernan, it\u2019s an \u201980s classic full of still-thrilling action, quotable one-liners (\u201cGet to the chopper!\u201d \u201cStick around!\u201d) and sly digs at Uncle Sam\u2019s penchant for unwinnable jungle wars.",
+        "The film tackles an age-old theme of man versus monster, but does so in a way that creates a strangely perfect balance between action, science fiction, and even a dash of horror.",
+        "Predator is a classic action/sci-fi film, albeit a dated action/sci-fi film.",
+        "Structurally, Predator is a classic behind-enemy-lines/buddy movies. Nothing much new, just well done.",
+        "Moves at a breakneck pace, it has strong and simple characterizations, it has good location photography and terrific special effects, and it supplies what it claims to supply: an effective action movie.",
+        "It's got thrills and chills and one of the most elegantly conceived monsters in the history of movies.",
+        "Crisply stylish and suspenseful, making brilliant use of optical special effects, Predator is one of Schwarzenegger's best.",
+        "A slightly above-average actioner that tries to compensate for tissue-thin-plot with ever-more-grisly death sequences and impressive special effects.",
+        "Despite the off-rhythm styling and suggestions of primeval menace, there's really not much going on here.",
+        "Alternately grisly and dull, with few surprises.",
+        "Frankly, scarier critters have checked into Roach Motels.",
+        "It's arguably one of the emptiest, feeblest, most derivative scripts ever made as a major studio movie. There's no need to do a Mad magazine movie parody of this; it's already on the screen."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Are the critics smoking something over there? It may not have the best script in the world but this was an entertaining movie, and great effects on the predator.",
+            "review_date": "2012-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Predator\" is a good action blockbuster movie; it succeeds to consistently maintain its tension and coolly blows it off in the end with Arnold Schwarzenegger.",
+            "review_date": "2011-09-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best alien movie of all time.  With classic arnold moments, and stan winston's creature effects, this movie was brilliant ever since I saw it when I was about 4. Classic.",
+            "review_date": "2011-12-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Usually when I look at a movie, like example horror or action or comedy or whatever. Then it depends on how scary it is or how destructive it is. This movie is a action horror. But with Arnold Swachenegger in it was more action than horror.Usually when I look at a movie, like example horror or action or comedy or whatever. Then it depends on how scary it is or how destructive it is. This movie is a action horror. But with Arnold Swachenegger in it was more action than horror. Doesn't matter, it all tied up when Arnold was being hunted by the PREDATOR. The universes best hunter ever, until it met Arnold. They both gave each other hell. Arnold gave the predator hell because he was sent in the middle of the jungle to help a team distress call. But instead he and his team find nothing but skinned soldiers and of course the predator. The PREDATOR gave him hell because its his right of passage to become a \"man\". All together the movie was awesome. Not the best graphics you ever saw but still what a movie. Thumbs up.",
+            "review_date": "2011-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "doesnt matter what 4 critics say, the has spoken and is one of thebest clasics ever, supense action good efects, is one of the best movies and schwarzenegger rocks, awesome movie everybody must have",
+            "review_date": "2014-06-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thought this film was great. Loved some of the taglines such as, \" Get to da choppa!! \" and \" I aint got time to bleed \". I love to watch this film again and again.  9.15/10",
+            "review_date": "2010-08-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "god what movie did the critics see? this is a movie i know alot of people like. granted its 80s cheesey over the top action with even cheesier lines but it holds up. some movies just have that ability to do that while other as they age getgod what movie did the critics see? this is a movie i know alot of people like. granted its 80s cheesey over the top action with even cheesier lines but it holds up. some movies just have that ability to do that while other as they age get old smelly and moldy and unwachable this one how ever aged well. its a great idea for a film having a elite group of special forces go into the jungle to do a mission and run into a alien predator who hunts them down one by one . it has great action and is a fun roller coaster ride from start to finish . wish we could have learned more about the predator race is about my only gripe but other then that its a fun solid sci fi action film.",
+            "review_date": "2011-07-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "i must say that i really enjoyed this movie. firstly the movie was well performed by its cast and also the alien predator was played well as a hunter stalking its prey. the film delivers in suspense and action for its audience and ii must say that i really enjoyed this movie. firstly the movie was well performed by its cast and also the alien predator was played well as a hunter stalking its prey. the film delivers in suspense and action for its audience and i definitely would recommend it",
+            "review_date": "2010-09-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not the greatest film ever, but certainly arnie's best, and a contender for my all time top ten list. A classic that gets better with every view.",
+            "review_date": "2011-07-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "memorable film, and easily the most terrifying and unstoppable extraterrestrial ever conceived. the metacritic score makes less sense than this: 8d'@~j843.'#[ewiuo389.",
+            "review_date": "2012-05-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wow I just can't believe the critic score on this one! This is one of the best sci-fi movies I've ever saw, and to this day this movie aged very well - almost 30 years passed (!!) and we rarely see so well made scifi movies. We have 2016 nowWow I just can't believe the critic score on this one! This is one of the best sci-fi movies I've ever saw, and to this day this movie aged very well - almost 30 years passed (!!) and we rarely see so well made scifi movies. We have 2016 now and in december I havent seen anything released this year that would come near this one! After all these years its obvious - this is and will always be remembered as brilliant cult classic! 10 out of 10.",
+            "review_date": "2016-12-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nBehold!!! what the original expendables should have been. when you think about it, The Expendables was basically the same thing when you get down to the basic skeleton. a bunch of musclebound action stars led by Arnie fighting a threat none of them could be prepared for. the only difference is after all the fighting and ass kicking the team realizes there is a bigger threat out there and one by one they get picked off by an alien hunter with camouflage capabilities and weapons nobody could believe. Arnold ends up defeating it but by surprise he didn't kill it in the end, the predator kills itself when it saw no other way to win. this movie is so awesome that it makes me wish they left it alone and didn't make many sequels, having said that I am looking forward to The Predator this year which i will review after i see it.",
+            "review_date": "2018-08-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It surprises me that this amazing action film has such a low metascore. Is it too unintelligent, \"dumb\" or stupid for you snooty movie critics. It's an amazing witty one-liner filled romp from start to finish",
+            "review_date": "2013-04-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "You can't go wrong with an action classic that gave us an amazing sci-fi character in the Predator. It's everything you want in an action blockbuster.",
+            "review_date": "2019-01-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Why the low score? Although this isn't a cinema masterpiece, it's a classic movie, and one of the few Schwarzenegger movies that isn't terrible. This is a cool film to watch, and I recommend it to any fans of action movies, Schwarzenegger or AVP.",
+            "review_date": "2012-02-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's amazing some of the best atomsphere ever pure testorone fueled action shows whats bad about modern action movies    Arnold delivers the role and there is a great sense of humour",
+            "review_date": "2013-07-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The poor critic reviews for this film are ridiculous. They say the movie is derivative, derivative of what? This, arguably the best Schwarzenegger action film, is what endless sequels and imitations have come from. One of the best films ever made.",
+            "review_date": "2019-04-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator, one of the best action movie of all time, this movie has great special effects and great environment, and the story is very nice with some intense moments, some characters quotes are also pretty fun, really enjoy with my family andPredator, one of the best action movie of all time, this movie has great special effects and great environment, and the story is very nice with some intense moments, some characters quotes are also pretty fun, really enjoy with my family and friends, can't still believe that got 36 of score, some people doesn't appreciate gold.",
+            "review_date": "2017-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "C mon professional critcs! It kicks! The movie is awesome, even for this days! Its a good quality production, and its all about action and surviving.. Sometimes that is all!",
+            "review_date": "2009-10-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A highly enjoyable movie, with action and a great plot, I had a blast watching this, and it's one I could watch over and over again, if your into this kind of thing it's one you should see.",
+            "review_date": "2011-03-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The critic's score for this movie is frankly absurd! Predator is one of the best monster movies ever made, with only the first two Alien movies outperforming it. The setting is perfect, Arnie's squad of soldiers are well defined and memorableThe critic's score for this movie is frankly absurd! Predator is one of the best monster movies ever made, with only the first two Alien movies outperforming it. The setting is perfect, Arnie's squad of soldiers are well defined and memorable (elevating them far beyond monster-fodder) and the creature itself is a bonafide legend. My youth would not have been complete without Predator and the movie has stood the test of time with ease. An outright classic!",
+            "review_date": "2013-01-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "No matter how many times you watch it, this is the only film you'll never ever get bored. Best action/thriller film so far. You wont feel like you are watching a 80's film. Trust me;)",
+            "review_date": "2012-06-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Expertly crafted film with just as many jaw-drop moments as there are seat-jumper moments.",
+            "review_date": "2012-11-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is definitely underrated by \"professional critics\" as this movie is awesome it has very different and unique characters that bounce off of each other so well creating some great dialogue sequences. The action in this movie is alsoThis movie is definitely underrated by \"professional critics\" as this movie is awesome it has very different and unique characters that bounce off of each other so well creating some great dialogue sequences. The action in this movie is also great because it's not too \"over the top\" but it's also not extremely realistic.",
+            "review_date": "2013-07-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Obviously something is seriously wrong with critics' mind as i don't know why they gave Predator such a low Metascore. This action-packed sci-fi movie is original and also very scary to some points. Tension remains constant throughout theObviously something is seriously wrong with critics' mind as i don't know why they gave Predator such a low Metascore. This action-packed sci-fi movie is original and also very scary to some points. Tension remains constant throughout the entire film while simultaneously boasting solid performance from Arnold Schwarzenegger as a leader of a mercenary group fighting for a way out of the jungle in order to escape the invisible, deadly hunter they don't stand a chance of defeating",
+            "review_date": "2014-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Honestly. You want a film. You get a **** film. This is a brilliant, fast paced, action packed movie, full of twists, surprises, and as you'd expect from an Arnie film: a **** load of violence. Fantastic movie. You want to watch a movie, theHonestly. You want a film. You get a **** film. This is a brilliant, fast paced, action packed movie, full of twists, surprises, and as you'd expect from an Arnie film: a **** load of violence. Fantastic movie. You want to watch a movie, the critics are ****ed up in the head. I mean, Rambo First Blood got a **** 62% METASCORE! **** the critics. Watch this film.",
+            "review_date": "2014-04-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wait... the score is negative???  Oh yeah, this was before it got its cult following.  Either way, this is one of Arnold's action classics, and, even though the effects have aged pretty badly, it still remains a gripping, suspenseful actionWait... the score is negative???  Oh yeah, this was before it got its cult following.  Either way, this is one of Arnold's action classics, and, even though the effects have aged pretty badly, it still remains a gripping, suspenseful action movie, with one of the coolest alien monsters ever put on film.  Arnold couldn't have said it better:  \"One... ugly mother f*cker...\"\r 8/10",
+            "review_date": "2014-11-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A Metascore of 36? I can't believe I'm the first to say this: Bunch of slack-jawed ****\rAt least the late Roger Ebert knew \"an effective action movie\" when he saw one.",
+            "review_date": "2015-02-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Ticks all the boxes for the classic action movie.    .",
+            "review_date": "2014-12-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Whats't wrong with matacritc giving bad rating in here? 42? are you negatie reviewers kiding me? this movie is near to a classic masterpiece, people always seems to not appreciate the work they put into this film, Stan Winston, John MctiernanWhats't wrong with matacritc giving bad rating in here? 42? are you negatie reviewers kiding me? this movie is near to a classic masterpiece, people always seems to not appreciate the work they put into this film, Stan Winston, John Mctiernan and Kevin Peter Hall did a great job in bringing to life to one of the most iconic aliens on the big screen, not only that but they also had one of the most manliest badass team ever with some of the most memorable quotes of all time, and also the jokes worked really good on this film than the sequels or even modern action films that tries hard to have some comedy on it, and the score is well done by Alan Silvestri, the ending could've been better in my opinion but everything else was amazing. Without debut this is one of my fav films of all time. 9.2/10",
+            "review_date": "2018-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent movie. Alien and Star Wars surpass it, but if no movies surpassed it, it would probably be a 10. I give it a 9.5/10, but metacritic won't let me score it that.",
+            "review_date": "2010-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Brillant action movie. Great effects and weapons - the Predator itself is just awesome! Watched this so many times cos it is superb.",
+            "review_date": "2007-04-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A simple movie in every way, but a superb cinema classic.",
+            "review_date": "2008-06-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A magnificent exercise in sci-fi horror, only disliked by those who do not understand it. The cinematography is beautiful, and Schwarzenegger delivers a Schwarzenegger-ish performance, which is good for an action movie. It's not meant A magnificent exercise in sci-fi horror, only disliked by those who do not understand it. The cinematography is beautiful, and Schwarzenegger delivers a Schwarzenegger-ish performance, which is good for an action movie. It's not meant to be deep, or thought provoking, it's meant to be a good, scary action sci-fi endeavor. And it succeeds on all counts.",
+            "review_date": "2010-04-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is friggin' awesome! This is an Arnold Swartznegger action movie at its best. The Predator is also pretty freakin' sweet too.",
+            "review_date": "2006-07-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Awesome movie, the story and characters are great. Predator rules!",
+            "review_date": "2007-12-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Its pretty sweet throughout.",
+            "review_date": "2007-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An amazing movie that beats the hell out of alien and aliens. it is the best movie ever made.",
+            "review_date": "2009-03-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A documentary on being badass.",
+            "review_date": "2007-05-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "They go in all balls and bravado, and leave in body bags. Classic action film.",
+            "review_date": "2009-12-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Pure perfection even to this day.",
+            "review_date": "2009-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is how the phone call from my friend went before I went over to his to watch Predator, when I was 8 years old...Friend: Dude, you have to come over, my bro rented me this awesome film with Arnie in, and he has to fight an alien!\nMe:This is how the phone call from my friend went before I went over to his to watch Predator, when I was 8 years old...Friend: Dude, you have to come over, my bro rented me this awesome film with Arnie in, and he has to fight an alien!Me: Really? I think I know it, my parents wouldn't let me watch it. Does the alien have a laser or something?Friend. Yeah, he has a big friggin laser on his shoulder. Me: Arnie, Aliens and lasers!? Dude I'll be right over!",
+            "review_date": "2019-01-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This was by far my favorite movie of all time. It is just something about a unstoppable alien going against the guy who has won Mr.Universe three times.",
+            "review_date": "2011-05-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best movie ever made - Action, soundtrack, story, characters, effects and pace. I've yet to see a better action film. Many have tried to copy but few have come close.",
+            "review_date": "2016-04-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator is a thrilling, science-fiction action film, that stars the incomparable action star Arnold Schwarzenegger. Released in 1987, Predator has gone one to be one of the most widely-recognised sci-fi's of all-time. A team ofPredator is a thrilling, science-fiction action film, that stars the incomparable action star Arnold Schwarzenegger. Released in 1987, Predator has gone one to be one of the most widely-recognised sci-fi's of all-time. A team of highly-professional soldiers get dropped off by helicopters in which seems to be an easy mission dealing with guerillas. They're there to take them out but little do the realise the'll be getting picked out, one by-one by an Alien Warrior that's ship had crash-landed in the central-american jungle. Alan \"Dutch\" Schaefer played by Arnold Schwarzenegger leads the team of soldiers.\r This film's unmatchable in every way and still remains the greatest of all three solo Predator films and is far better than both Alien vs Predator films too. Schwarzenegger is the greatest and also, for the add, BIGGEST action star of all-time, so he really makes this film what it is. I love it in every way. The incredible shoot-locations, pretty awesome dialogue, Science-Fiction, violence, plot and more. It's all great. I rate Predator a 10/10 as it's my all-time favourite film. I love so many films, but Predator is definitely my favourite (alongside a few other, non-related films).\r A+, 10/10.",
+            "review_date": "2014-04-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "More than just another dumb '80s Schwarzenegger actioner, Predator has gradually become a sci-fi and action classic. It's not difficult to see why. John McTiernan's direction is claustrophobic, fluid and assured, staging the action withMore than just another dumb '80s Schwarzenegger actioner, Predator has gradually become a sci-fi and action classic. It's not difficult to see why. John McTiernan's direction is claustrophobic, fluid and assured, staging the action with aplomb but concentrating just as much on tension and atmosphere.\r It's cheesy as hell, of course, but enormously entertaining and deeply cool, with a ton of quotable lines - 'I ain\u00edt got time to bleed' - while The Predator itself is an utterly unforgettable villain. But most bad guys are only as good as their heroes and, long before he became a shambling self-parody, Arnie delivers - and not just in the walking and talking without falling over sense. He's an awesomely indestructible figure here, at the height of his physical powers. He's the archetypal immovable force meeting an irresistible object. Only Arnie at his most iconic could convincingly defeat the Predator (as those who've seen Danny Glover in 'Predator 2' know).\r There's also something ironic in the climax, where immigrant Arnie - now fully embraced by the U.S. - kicks the tar out of a real illegal alien. We could go into the sexual subtext, but maybe we're just reading too much into it.\r A thumping piece of powerhouse cinema.",
+            "review_date": "2015-04-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wait, Metascore is 36/100?  WTF?  People are seriously not from this planet if 'critic reviewers' miss the whole point about Arnie movies... Its pure schtick, tongue in cheek machismo.  Pred is one of Arnies better flicks, certainly in theWait, Metascore is 36/100?  WTF?  People are seriously not from this planet if 'critic reviewers' miss the whole point about Arnie movies... Its pure schtick, tongue in cheek machismo.  Pred is one of Arnies better flicks, certainly in the top 5.  Its not a Terminator, its not Conan the Barbarian, but it is heyday Arnie in his prime.",
+            "review_date": "2015-07-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Really great effects, acting, action, just the ending could be better, but it really doesn't matter, I really enjoy this film, i'm big fan of this alien.",
+            "review_date": "2017-03-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A great action/horror/scifi flick, intense and good action throughout shot well by the director of die hard. Arnie is great and there are some great one liners!",
+            "review_date": "2018-10-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator is an amazing movie. The story is nice, but it's mainly Schwarzenegger, and even more so is the atmosphere of the jungle in which this film is immersed. The First Predator is one of the best Emzac films ever made. Although he doesn'tPredator is an amazing movie. The story is nice, but it's mainly Schwarzenegger, and even more so is the atmosphere of the jungle in which this film is immersed. The First Predator is one of the best Emzac films ever made. Although he doesn't have an Alien, I definitely recommend watching it.",
+            "review_date": "2021-02-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The greatest movie ever",
+            "review_date": "2009-10-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A score of 36? it's not high cinema but COME ON! one of the best action movies ever.",
+            "review_date": "2010-04-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Hated by critics, loved by users, Predator is one of the best Schwarzenegger movies out there. But as ugly as it is, the actual \"predator\" isn't very scary, and we barely see it (it is implied most of the movie). But Predator is still a good film.",
+            "review_date": "2013-09-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really don't know why the Metascore for this one is so low, I found it to be a highly enjoyable action movie. The monster is just awesome, too. Not really a thinking person's film, but it's not supposed to be.",
+            "review_date": "2010-08-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nthis is an EPIC movie\rDonno y its got only a score of 36\rEvery action movie fan must watch this\rMa fav scene is the iconic laugh at the end by the predator",
+            "review_date": "2011-10-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator is one of the great classics of the action genre. When a special forces team are sent in on a rescue mission things turn for the worse when they begin to be picked off one by one by an unseen Predator with superior fighting tactics &Predator is one of the great classics of the action genre. When a special forces team are sent in on a rescue mission things turn for the worse when they begin to be picked off one by one by an unseen Predator with superior fighting tactics & weaponry. Arnie provides a knockout \"tough guy\" role as ever and the supporting actors are just as good. One of those lazy afternoon action flicks you can really get stuck into.",
+            "review_date": "2012-10-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The editing is choppy at some points and some scenes could have been more fleshed out, but Predator succeeds largely with strong suspense and exciting action.",
+            "review_date": "2012-10-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Timeless classic. Action films these days lack this kind of testosterone, humor, and creativity.",
+            "review_date": "2018-08-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "most of the critics don't know what they're saying! plain and simple, this movie was a great action blockbuster with NO love stories which is good and the famous \"get to da choppa!\" the only down side was the action was kind of slow",
+            "review_date": "2013-12-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Outside of Terminator, Predator is probably one of Arnold's more underrated sci-fi action movies. An interesting premise tops off cool, practical effects with an interesting villain in the Predator.",
+            "review_date": "2017-08-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator, when you sit down and think about it, is a great deal more thoughtful than most of Arnie's brainless, all guns blazing action movies. The film is less sympathetic towards its military protagonists. Rather, it shows them up.Predator, when you sit down and think about it, is a great deal more thoughtful than most of Arnie's brainless, all guns blazing action movies. The film is less sympathetic towards its military protagonists. Rather, it shows them up. Juxtaposing Schwarzenegger and his fellow cast spending the first half of the film measuring each other's manhoods, we spend the film's climax with an excellently designed creature seemingly built for battle. While the Predator is born to fight, humanity chooses to. Ooh. That's probably a deeper analysis than the filmmakers ever intended. Aside from all that, it's loud, quite fun and it's got lovely violence all the way through.",
+            "review_date": "2017-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is one of those classic that are SUPER overrated from people that have a lot of nostalgia. How can people call THIS A MASTERPIECE? Like what!? If this for you it\u2019s a masterpiece you need to learn a little more of the aspects ofThis movie is one of those classic that are SUPER overrated from people that have a lot of nostalgia. How can people call THIS A MASTERPIECE? Like what!? If this for you it\u2019s a masterpiece you need to learn a little more of the aspects of filmmaking. There\u2019s no plot, bad acting, bad script, the plot it\u2019s not that thrilling, it\u2019s boring and the only thing that is good for it\u2019s time is the special effects, it\u2019s just a piece of awfully directed crap. It's arguably one of the emptiest, feeblest, most derivative scripts ever made as a major studio movie. Arnold Schwarzenegger fights an outer-space monster in a third-world jungle. The monster never has a chance. Neither does the jungle. Neither does the audience. Then let\u2019s not talk about the plot armor Arnorld had against the Predator. The shoulder canon is capable of firing powerful plasma blasts which have been shown to blow the heads clear off their targets, even Dillon get his arm destroyed by it and Arnold got a scratch....The Predator also has wrist blades, that he doesn\u2019t use, super strength that he doesn\u2019t use, spear, blade disc, etc. Dumb action sequences of Arnold fighting the Predator. Horrible movie 2/10",
+            "review_date": "2021-04-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really could not understand why voters have given this movie a good rating. the movie does not even come close to a good script.it is just a piece of awfully directed scrap. even the plot is not that thrilling. the point of a action movieI really could not understand why voters have given this movie a good rating. the movie does not even come close to a good script.it is just a piece of awfully directed scrap. even the plot is not that thrilling. the point of a action movie is to keep the screenplay intact and that is not what the movie has achieved.",
+            "review_date": "2009-09-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good special effects; otherwise cartoonish and boring.",
+            "review_date": "2009-12-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What if there are not a plot, a storyline or good performances? This is a John McTiernan movie! Pure action not boring stuff. That\u00b4s the reason why, \"Predator\" is a cult action movie. That accomplishment is due to the real monster (not What if there are not a plot, a storyline or good performances? This is a John McTiernan movie! Pure action not boring stuff. That\u00b4s the reason why, \"Predator\" is a cult action movie. That accomplishment is due to the real monster (not Schwarzzy), an alien so scary than its freakiness can hold the entire movie. For the movie, in general, has a sense of a bad movie. A cross between alien terror movies and stupid action. Likes Rambo-meets-Alien in a Celebrity Deathmatch (for its capacity of absurdism). But after all, this is just a eighties action flick: nor superfluous neither important but sometimes, sometimes, that\u00b4s all that a movie needs to be a classic.",
+            "review_date": "2006-06-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Has some good action and tension, and Arnie is great, but they made the predator look really stupid.",
+            "review_date": "2019-04-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is the definition of action. It was entertaining in some parts but it does get rather predictable and boring as well. Also the acting was poor as well. It was ok though but not as good as it could have been.",
+            "review_date": "2011-12-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is your classic no plot, big guns, lots of fun blockbuster. Is there any brain work needed? no. Just sit back and watch some muscular men get picked off by an alien bloke, whilst in the process massacring a rainforest.",
+            "review_date": "2014-11-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Perfect Aci Fi Action movie with some horror elements, which are working. As a viewer you are even feeling to be hunted by the predator and start to think how to beat him. Arnold fits to this role and the other actors are doing a good jobPerfect Aci Fi Action movie with some horror elements, which are working. As a viewer you are even feeling to be hunted by the predator and start to think how to beat him. Arnold fits to this role and the other actors are doing a good job also. Action is fitting also.",
+            "review_date": "2020-04-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Science fiction, terror, suspense, action combined in one movie, and the distinctive touch of a mc tiernan movie, low rated jewell of the crtitics.",
+            "review_date": "2018-09-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The greatest movie ever made and this is no joke or overstatement. It is a masterpiece in film making from its SFX to its story telling, drama, cast, obtuse characters and so on. Even the mostly laughable Arnie (who i love) made it out ofThe greatest movie ever made and this is no joke or overstatement. It is a masterpiece in film making from its SFX to its story telling, drama, cast, obtuse characters and so on. Even the mostly laughable Arnie (who i love) made it out of this film with without a scratch (in terms of how his character dutch would be portrayed).The soundtrack is superb, the action is fantastic, the storytelling flows throughout and thewhole film doesnt age even after 30 years. It is a must watch",
+            "review_date": "2018-09-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator...There's no other movie that's so bad,it's good.I mean you get to see Arnold Schwarzenegger say 80's action movies typical cheesy one liners and go head to head with an alien...You don't see that anywhere else.",
+            "review_date": "2014-10-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator is an amazing film that has great plot and characters. Going to save people and then getting terrorized by a predator is awesome. My only problem is that it's a thriller film which doesn't really feel like it is a thriller. But IPredator is an amazing film that has great plot and characters. Going to save people and then getting terrorized by a predator is awesome. My only problem is that it's a thriller film which doesn't really feel like it is a thriller. But I still like it a lot.",
+            "review_date": "2017-10-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best sci-fi action movie of all time.What it 'Predator' does best, is starts off as a mere action flick. you just except explosions and fighting, and then the creepy things start to show.. and camera positions also make you feel as ifThe best sci-fi action movie of all time.What it 'Predator' does best, is starts off as a mere action flick. you just except explosions and fighting, and then the creepy things start to show.. and camera positions also make you feel as if you are there, being followed.Each character of the team has a different 'color', you get to attached to them a bit as get picked of one by one.So many epic scenes, the berserk-mode mini-gun blast through the forest, the knife showdown on the bridge, the battle cry at the end of the preparations.The music is also great and leaves you at suspense.The predator himself, first the looks, kind of a mix of a old tribal humanoid and a beast that hunts people for trophies - i mean, how epic is that? (and the costume itself has set an industry standard).10/10",
+            "review_date": "2020-03-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nHow come such critics, such admiration to what appears to be less than an average action movie ? The pace is bad, the plot unstructured, the acting is poor (excepting for Dillon who is embodied by Carl Weathers), the end is as long and boring as predictable, we don't know anything about the Predator, characters are pale stereotypes (with the notable excption of Billy, played by Sonny Landham), the whole story is just a runaway/embush plot, there is no balance between the opponents, the characters have no depth, the so-called thermic-view scenes are lame and visually disgusting.I however have to admit that the soundtrack is great, the special effects are impressive, some lines are iconic (in the middle of dumb dialogues), the weapons are powerful and the jungle looks awesome. Only one scene, when they attack the guerila camp is awesome, but the movie sadly struggles in maintaining a decent level of tension among all these useless scenes and unequal battles. Nothing more to add: it is boring, empty, and ends up in striking nonsense (why doesn't the Predator see Dutch when he is covered of mud ? I thought it could detect warmth ? Why and how did Dutch survive the laser blast since it killed many of its brothers id arms ? Why does the Predator play so long with him rather than to immediately kill him and transform him into a trophy ? Why will so many questions remain unanswered ?).",
+            "review_date": "2022-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator is an 1987 action sci-fi directed by John McTiernan and stars Arnold Schwarzenegger... He takes a team of elite commando's to rescue some hostages in this jungle like setting and finds out most of not all have been made a corpse outPredator is an 1987 action sci-fi directed by John McTiernan and stars Arnold Schwarzenegger... He takes a team of elite commando's to rescue some hostages in this jungle like setting and finds out most of not all have been made a corpse out of. He attacks some little village with his team, killing patrol guards and even takes one of he women but whether she's a hostage or member of the villains isn't explained. Anyway the badguy soldiers get killed, there are bullets, bombs and explosions going off and the area is secured. Then Arnold Schwarzenegger and his commando team must make it to the border presumably for pick up/collection by a chopper but is hunted by an extraterrestrial invisible and visible alien creature who has cool firing gadgets lol. The predator slays all of Schwarzenegger's soldier team members one by one using different methods of killing. He can see the heats of human body's and this is how he hunts and the soldiers and Arnold Schwarzenegger are carrying weapons so don't do themselves no favours. Packed with entertainment, suspense, bad language, blood, explosions and the usual violence and special effects I'd say Predator is a classic but certainly not better than earlier films such as Raw Deal made in 1986... Predator also stars Carl Weathers, Bill Duke, Sonny Landham, Jesse Ventura, Kevin Peter Hall as the predator.",
+            "review_date": "2020-03-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Loud, dumb, and a testosterone fueled excuse to see Arnold Schwarzenegger flex, Predator is a classic in the action sci-fi genre with blends of horror. Exciting, fun, and wholly thrilling, Predator actually works quite well. The characterLoud, dumb, and a testosterone fueled excuse to see Arnold Schwarzenegger flex, Predator is a classic in the action sci-fi genre with blends of horror. Exciting, fun, and wholly thrilling, Predator actually works quite well. The character development is, in a word, poor. However, the action more than makes up for it with the quite pacing and sheer watchability overcoming many of the film's technical faults. The look of the creature and the special effects are quite dated by now. However, even those are no match for this classic piece of 1980s action cheese with the picture of masculinity Arnold Schwarzenegger standing tall and flexing to fight this predator. Overall, Predator hunts and kills its prey with ease and entertains with similar ease.",
+            "review_date": "2016-07-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Pretty sweet cheese fest. Campy oh yeah but oh so good .  Special effects were decent for the time but it is sort of a parody of meat head porn that was so pervasive in the 80's . The 80's prime Arnold and cast .",
+            "review_date": "2015-05-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Predator\" is your usual 80's action movie. Big guys, big guns, big shootouts, explosions and great one-liners said by the great Schwarzenegger. If you're looking for a good Schwarzenegger action movie, you'll probably like it.",
+            "review_date": "2017-09-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It is the quintessential action movie made of adrenaline, action, one liners and testosterone seasoned with horror elements, dread and a small portion of humour. The best description I have heard for this movie is: You have an action movieIt is the quintessential action movie made of adrenaline, action, one liners and testosterone seasoned with horror elements, dread and a small portion of humour. The best description I have heard for this movie is: You have an action movie with a squad of badass soldiers who finished a mission in the jungle of central America. Then the predator invades the movie to hunt them done. This works very well. It is the whole cast that carries this performance. Yes you have Arnold Schwarzenegger who is of cause a badass but his whole squad are also badasses that would do well in every action movie. Their enemies are no match for them as they clearly out gun them with ease. Then comes the Predator who delivers these battle hardened men a feeling of dread, fear and hopelessness. It is a naked battle for survival against a superior enemy that outmanoeuvres them easily. This is the strength of the movie. It delivers this serious threat and the impact perfectly. It gets even more intense the longer the movie goes. Then there is the final battle which I wont spoil. Its a battle of wits. Each one knows the strengths of their enemies and try to outmanoeuvre the other. As far as action movies go this is one of the best if not best and a cult classic. Each sequel tries to recapture this formula but so far all have failed.",
+            "review_date": "2020-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is amazing, one of Arnold's best movies, it's a great movie, imagine Rambo vs aliens, and you get the picture of what the movie is like I won't ruin the plot for others but it's a great movie vary well done.",
+            "review_date": "2017-07-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What to say about this movie?It's definitely a classic and one of the best action movies and SCI FI movies of ALL TIME.The plot is really interesting and as it gets to the middle of the plot viewers get stuck by their chairs or couches theyWhat to say about this movie?It's definitely a classic and one of the best action movies and SCI FI movies of ALL TIME.The plot is really interesting and as it gets to the middle of the plot viewers get stuck by their chairs or couches they sit and they watch it with huge temptation of what's going to happen next.Predator costume is absolutely amazing and it's a big plus for a person who made the Predator visuals and sound.In this movie Arnold says \"Get to the choppa!\" haha nuff said.",
+            "review_date": "2014-12-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator never has to worry about unclogging a toilet, or cleaning burned-in cheese off of a steel frying pan, or being in awkward social situations. It just wants to drag every last muffuh down to hell through a hail of blood & bones.Predator never has to worry about unclogging a toilet, or cleaning burned-in cheese off of a steel frying pan, or being in awkward social situations. It just wants to drag every last muffuh down to hell through a hail of blood & bones. It's... it's just so good.",
+            "review_date": "2015-01-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As a child, I loved Predator. I thought it was fun, likable and efficient above other things. I revisited it again some time ago again, and was waiting for the opportunity to say that it has quickly become a favourite of mine. As far as JohnAs a child, I loved Predator. I thought it was fun, likable and efficient above other things. I revisited it again some time ago again, and was waiting for the opportunity to say that it has quickly become a favourite of mine. As far as John McTiernan's movies go, I think Die Hard is his best movie but Predator is for me definitely up there with his best. It is everything I thought it to be as a child and more.The action is exhilarating and kept at a snappy pace with enough suspense to thrill, while the special effects are truly excellent, they are memorable, look great and enhance rather than distract. The characterisation is also good, the story is gripping, Alan Silvestri's score is terrific, the pace is snappy, McTiernan's direction is efficient and the dialogue is quotable. The acting I have no problems with either, Arnold Schwarznegger gives one of his most charismatic, efficient and likable performances here.Overall, a great film and a classic of its decade. It may be a little too long perhaps, but it is great fun and works on all levels. 9/10 Bethany Cox",
+            "review_date": "2022-03-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I cant believe the metascore of this movie. This is one of the best Arnold Schwarzenegger movies, with great camera angles and good special effect. An interesting villian, also.",
+            "review_date": "2016-03-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie.is underrated in metacritic,and this movie is considered One of the best movies of all time.The critics were wrong.the fans,however,put the score it had deserved.It has my favorite movie character.one of the best final fights.andThis movie.is underrated in metacritic,and this movie is considered One of the best movies of all time.The critics were wrong.the fans,however,put the score it had deserved.It has my favorite movie character.one of the best final fights.and nothing ws boring of this movie.",
+            "review_date": "2016-02-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the all time action classics. Rough, cool and corny, just the way it should be. Still waiting for a good modern sequel... (Predator 2 is also worth a watch btw)",
+            "review_date": "2017-05-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In many respects, Predator is part of the Alien merchandise which is why there is a spin-off film to it called Alien vs. Predator. After I reviewed all of the Alien films I decided I would now review Predator which it stars ArnoldIn many respects, Predator is part of the Alien merchandise which is why there is a spin-off film to it called Alien vs. Predator. After I reviewed all of the Alien films I decided I would now review Predator which it stars Arnold Schwarzenegger and many more. It's not even a horror film, it's more like an action sci-fi film which occasionally had some scares. It's nothing that scary apart from when it's quiet. There occasionally have some blood and guts for the most part. The opening is pretty impressive and the ending is spectacular. the story is very basic, simple and straight forward. I know that years ago critics giving it mixed reviews saying the story is too flat and paper thinned, I can see why. The third act is where Arnold Schwarzenegger as Dutch being very quiet trying to kill the predator once and for all. The third act doesn't even have any dialogue apart from the end where he says ''Bleed, b!\u00a3$%^d.'' and the one that everybody says it's a memorable line in the movie industry is ''You one ugly motherf$%ker.'' I know there's plenty to go around but that's the way the movie goes. There's another memorable that Schwarzenegger said. All he said is ''Get to the chopper!'' I just realise that years back! Oh, oh, and if you think that is not enough? Why don't you take a look at this! Blain played by Jesse Ventura says a line that I know as a kid is that Jonah from Splashdown 2: Rides Gone Wild fails, he says ''I ain't got time to bleed.'' and wouldn't you know it? Jesse says it. Oh, Jesus, if many of the characters ripping off the films that many of the actors said, this game would be pop culture. Maybe Jesse Ventura have got time to duck. it really had an all star cast who are in the jungle. It has Arnold Schwarzenegger, Carl Weathers, Elpidia Carrillo, Jesse Ventura, Richard Chaves, Bill Duke, Sonny Landham, Shane Black and then there's Kevin Peter Hall as the Predator. It shows the from the beginning of the end credits which is really impressive. Bill Duke also worked with Arnold Schwarzenegger in Commando which is rather usual. He played a bad guy in Commando and now he played a good guy in Predator. Shane Black's character is the character who tells Billy laugh by telling his puxxy jokes. He only did it about two times. Billy played by Sonny Landham is afraid of no man. Now the Predator is in the jungle to kill people and take their body of bones out of their skins and camouflages like a chameleon and can make himself disappear. If you think Aliens isn't enough? Then you've haven't seen Predator with some action packed thrills and occasional scares and a straight forward simple basic story. I love the opening and I love the ending. I would actually prefer the Alien films because they're really scary film and it will scare the living s\u00a3!t out of you and me. Predator is just your good action sci-fi flick directed by the same guy who directed one of my favourite films of all time Die Hard, John McTiernan. It has some good effects on the predator and yeah, that's about it. There're sometimes one-liners in this from Schwarzenegger are too vague like ''Stick around.'' and ''Knock knock.'' but that's only two times. And you will the predator bleed showing green blood because if it bleeds, we can kill it. \"You one ugly motherf\u00a3$ker.''",
+            "review_date": "2021-11-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is the second best Arnold movie ever. The Predator is so much fun, Most of the movie is a lot like Rambo and towards the end is like Alien. My Father and I love watching this movie together, We laugh and we go wow. The final battleThis is the second best Arnold movie ever. The Predator is so much fun, Most of the movie is a lot like Rambo and towards the end is like Alien. My Father and I love watching this movie together, We laugh and we go wow. The final battle between Arnold and the Predator is truly epic, The only problem I have with this movie is I wish they spent some more time on the Characters so we could get to know them more. But in the end Predator is so much fun and truly awesome action movie. So all Of you, GET TO THE CHOPPER!!!",
+            "review_date": "2016-03-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of my most favorite monsters in its first movie with Arnold Schwarzenegger predator. Predator is about an elite commando unit to save some hostages in the jungle but they dont know that there are aliens hunting them down. So they each getOne of my most favorite monsters in its first movie with Arnold Schwarzenegger predator. Predator is about an elite commando unit to save some hostages in the jungle but they dont know that there are aliens hunting them down. So they each get killed one by one. But they try there very best not to die because they have one nonmember of there commando unit that they must protect as she trys to find a way out of the island. There is only one very elite soilder to withstand the alien. Major Alan Dutch aka Arnold Schwarzenegger is the only man to withstand any kind of pain long enough to defeat the Predator.",
+            "review_date": "2016-03-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThe movie is perfect at so many different levels that I will try to point most of them:First: The beginning of the movie is awesome - simple and powerful at the same time. Second: The music of the movie is thrilling, manly and penetrating which makes the atmosphere exactly like to be in a dangerous jungle. Every scene has it's own music which makes suspense even better. Third: The script: to the point and straight forward for the elite squad who are the hunters, until it makes a twist, and when the Predator came they become hunted. Fourth: The characters are simply perfect and there is no other actors who could play these roles as better as them. The general - excellent, with few lines and exact orders. Dutch - the perfect leader, strong, the biggest of the group, muscular as hell, composed and collected. Dillon - a little smaller than Dutch, cunning and determined to fulfill his own mission, after all succeeded until the moment the Predator came. Anna - great as portraying their prisoner. Mac - the best acting in the movie of all the actors in it, first in the scene where he saw the Predator, second after the shooting and third - his monologue about his buddy Blane. Blane - excluding Dutch, the biggest macho in the squad, and in real life the only actor in the movie who actually experienced war and being a real soldier. Billy - the powerful, big, strange, dark and foreboding Indian with his own code of war. Poncho - tough, almost as the big guys and with great lines in the movie, always helps when it counts. Hawkins - the perfect radio soldier with the sexist jokes to cheer up the others, and he would've been distinctive without his glasses. The Predator - great super tall actor who makes Dutch look small.Fifth - The effects - way ahead of it's time. Great even watching at 2016. May be the best effects an action movie ever made. Sixth - The lines - How can you forget: \"Get to the chopper!\", \"If it bleeds we can kill it!\", \"Any time.\", \"I ain't got time to bleed\", \"Stick around\", \"You're one ugly mother f&ck&r\" and many more. Seventh - The atmosphere of the movie is makes you feel you are one of them or the Predator. Hence: if you're an Action Sci-Fi Horror fan this is the best movie for you. For me it's the best of all time, because I've watched it more than 500-600 times and still watch it today.",
+            "review_date": "2016-12-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator is a real old-school action movie from the 80s. It is all soaked in this era and Schwarzenegger is great for this role. There is almost no plot here, only the jungle and Arnold smeared to the dirt. The predator does not scare at all,Predator is a real old-school action movie from the 80s. It is all soaked in this era and Schwarzenegger is great for this role. There is almost no plot here, only the jungle and Arnold smeared to the dirt. The predator does not scare at all, there is no such frightening unknown as with the Alien.",
+            "review_date": "2021-02-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A Masterpiece Of Thriller/HorrorPredator is an all out brilliant film that never gets old.",
+            "review_date": "2019-06-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Predator. What are you? A great start to the Skull Hunter franchise. Starting as a typical Vietnam film with Sylvester Stallone (Mistake) and his friend Arnold Schwarzenegger, after half an hour this film turns into a race to the bottom thatPredator. What are you? A great start to the Skull Hunter franchise. Starting as a typical Vietnam film with Sylvester Stallone (Mistake) and his friend Arnold Schwarzenegger, after half an hour this film turns into a race to the bottom that will be as hard as possible to survive. The Predator look was done superbly, it's not a terribly funny costume or a very disgusting one, it's the image of a real cruel space hunter. Music and endless trees and jungle foliage will keep you in suspense for just an hour of chasing and hiding from the alien. All the main characters perfectly showed their images of harsh and fearless warriors, but also whose hearts are ready to stop at the sight of Predator.",
+            "review_date": "2022-11-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really do like this film. It's taken me a while to have a better appreciation for it. I remember seeing it with Aliens on a double feature when I was 7. Aliens scared the crap out of me but i don't remember how I reacted to this film. ForI really do like this film. It's taken me a while to have a better appreciation for it. I remember seeing it with Aliens on a double feature when I was 7. Aliens scared the crap out of me but i don't remember how I reacted to this film. For most of my young life macho stuff was pretty much thrusted down my throat by my father. It wasn't until later in life that I began to find an appreciation for it. Being an out gay man i can certainly appreciate how hunky Schwarzenegger and crew are but it's more than that. I love the brute force of this movie and how raw it is. It's big, it's dumb and it's silly and most of all it's unapologetic. The practical FX and gore are beyond amazing. The plot is pretty much a throwaway. It's pretty much our beast versus a beast from the stars. And on those simplistic limits it delivers a hell of a time.Budget: $18mDomestic Box Office: $60mWorldwide Box Office: $98m4/5",
+            "review_date": "2020-03-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Predator is a great movie. It has moments that do not work well and a poor script, but his movie direction and the actors are awesome. A great classic action movie.",
+            "review_date": "2019-02-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I enjoyed this movie when I was 12, now I enjoying this even more than ever, well done to the studio, those who gave it bad review probably did't made it to the choppa and got skinned alive.",
+            "review_date": "2018-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 112
 }

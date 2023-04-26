@@ -1,77 +1,84 @@
 {
-  "title": "Battleship Potemkin",
-  "rating": 8.5,
-  "release_date": "1926-12-05",
-  "genre": [
-    "Drama",
-    "History",
-    "Thriller",
-    "War"
-  ],
-  "summary": "In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel's officers. The resulting street demonstration in Odessa brings on a police massacre.",
-  "critic_reviews": [
-    "If you are at all interested in the history of cinema, or the influence of 20th century politics on the medium, then this film is a must-see, although over an hour of Soviet propaganda is likely to test the patience of modern viewers.",
-    "One of the fundamental landmarks of cinema.",
-    "Eisenstein's film still has a hypnotic urgency.",
-    "It’s propaganda, yet of the most artistic variety.",
-    "Potemkin is a vital viewing experience that transcends its landmark/milestone status. Its virtuoso technique remains dazzling and is at the service of a revolutionary fervour we can still experience.",
-    "A persistently political work salvaged by its unforgettable grasp of motion.",
-    "Battleship Potemkin remains remarkable for the way it builds over a brisk 69 minutes, setting the pace for nearly every action movie made since.",
-    "Heralded as one of the most blisteringly influential films of all time, Eisenstein’s propaganda film has left an indelible scar on the establishment of film as art.",
-    "If you only ever see one silent film, this is the one it should be. A masterpiece.",
-    "It’s required viewing in virtually every Film 101 class. Look at any MTV video or any slick million- dollar minute of advertising, and you’ll see its origins in that assemblage of shots in Potemkin.",
-    "To this day one of the most riveting, horrific, and empathetically turbocharged pieces of motion picture history ever recorded, Eisenstein's mind-bogglingly complex composition – utilizing a seeming cast of thousands of extras in addition to the unnamed, iconic main figures – is a gory ballet of marching Cossacks, frantic Odessites, trampled innocence, and doomed dissent.",
-    "Let it suffice to say that if you've heard something about “montage” (the joining of filmed images to suggest an idea, create a mood, or evoke a theme), this is the work that defines it.",
-    "Eisenstein’s account of the 1905 rebellion aboard a Russian battleship has been endlessly pored over and broken down, analyzed shot by shot to illustrate the filmmaker’s adherence to Soviet theories of montage. But what can get lost in the close readings, to say nothing of the innumerable homages to the film’s climactic Odessa Steps sequence, is how radical -- and how thrilling -- Eisenstein’s techniques remain.",
-    "Battleship Potemkin is first and foremost an action drama, a work of straightforward emotion and pulse-quickening tension.",
-    "Whether or not one is disposed to accept all the details as a faithful record, the fact remains that it is a production in which the director displays a vivid imagination and an artistic appreciation of motion picture values.",
-    "Few films rival its ability to capture the danger, drama, uncertainty and energy of civil war or to respond so vitally to the urgent artistic challenges of their times.",
-    "For all Potemkin’s rabble-rousing propaganda, Eisenstein’s aestheticism is everywhere apparent.",
-    "A vibrant, cinematically radical, and extremely accomplished work which went on to become one of the most celebrated movies ever made."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "I haven t seen it yet, but it looks Epicard. I Love the ships movies and all that stuff.The brulmaster was here.",
-      "review_date": "2020-10-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThey kill everyone at the end, and it’s amazing. AMAZING. I don’t think you all understand me. It’s AMAZING",
-      "review_date": "2020-10-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I want you to take a moment to close your eyes and imagine the best movie you've ever seen in your entire life. Beautiful... Isn't it?",
-      "review_date": "2020-10-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "amazon, this is the best movie of all time and should be mark'd as an historic moment",
-      "review_date": "2020-10-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film noir portrait of corruption and morally-compromised obsessions stars Welles as Hank Quinlan, a crooked police chief who frames a Mexican youth as part of an intricate criminal plot. Charlton Heston plays an honorable MexicanThis film noir portrait of corruption and morally-compromised obsessions stars Welles as Hank Quinlan, a crooked police chief who frames a Mexican youth as part of an intricate criminal plot. Charlton Heston plays an honorable Mexican narcotics investigator who clashes with the bigoted Quinlan after probing into his dark past. A memorable",
-      "review_date": "2022-09-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A vibrant, cinematically radical, and extremely accomplished work which went on to become one of the most celebrated movies ever made.",
-      "review_date": "2021-02-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is a classic and very strong and influential film that deserves the most Praises.",
-      "review_date": "2021-12-09",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 25
+    "title": "Battleship Potemkin",
+    "rating": 8.5,
+    "release_date": "1926-12-05",
+    "genre": [
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+    ],
+    "summary": "In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel's officers. The resulting street demonstration in Odessa brings on a police massacre.",
+    "critic_reviews": [
+        "If you are at all interested in the history of cinema, or the influence of 20th century politics on the medium, then this film is a must-see, although over an hour of Soviet propaganda is likely to test the patience of modern viewers.",
+        "One of the fundamental landmarks of cinema.",
+        "Eisenstein's film still has a hypnotic urgency.",
+        "It\u2019s propaganda, yet of the most artistic variety.",
+        "Potemkin is a vital viewing experience that transcends its landmark/milestone status. Its virtuoso technique remains dazzling and is at the service of a revolutionary fervour we can still experience.",
+        "A persistently political work salvaged by its unforgettable grasp of motion.",
+        "Battleship Potemkin remains remarkable for the way it builds over a brisk 69 minutes, setting the pace for nearly every action movie made since.",
+        "Heralded as one of the most blisteringly influential films of all time, Eisenstein\u2019s propaganda film has left an indelible scar on the establishment of film as art.",
+        "If you only ever see one silent film, this is the one it should be. A masterpiece.",
+        "It\u2019s required viewing in virtually every Film 101 class. Look at any MTV video or any slick million- dollar minute of advertising, and you\u2019ll see its origins in that assemblage of shots in Potemkin.",
+        "To this day one of the most riveting, horrific, and empathetically turbocharged pieces of motion picture history ever recorded, Eisenstein's mind-bogglingly complex composition \u2013 utilizing a seeming cast of thousands of extras in addition to the unnamed, iconic main figures \u2013 is a gory ballet of marching Cossacks, frantic Odessites, trampled innocence, and doomed dissent.",
+        "Let it suffice to say that if you've heard something about \u201cmontage\u201d (the joining of filmed images to suggest an idea, create a mood, or evoke a theme), this is the work that defines it.",
+        "Eisenstein\u2019s account of the 1905 rebellion aboard a Russian battleship has been endlessly pored over and broken down, analyzed shot by shot to illustrate the filmmaker\u2019s adherence to Soviet theories of montage. But what can get lost in the close readings, to say nothing of the innumerable homages to the film\u2019s climactic Odessa Steps sequence, is how radical -- and how thrilling -- Eisenstein\u2019s techniques remain.",
+        "Battleship Potemkin is first and foremost an action drama, a work of straightforward emotion and pulse-quickening tension.",
+        "Whether or not one is disposed to accept all the details as a faithful record, the fact remains that it is a production in which the director displays a vivid imagination and an artistic appreciation of motion picture values.",
+        "Few films rival its ability to capture the danger, drama, uncertainty and energy of civil war or to respond so vitally to the urgent artistic challenges of their times.",
+        "For all Potemkin\u2019s rabble-rousing propaganda, Eisenstein\u2019s aestheticism is everywhere apparent.",
+        "A vibrant, cinematically radical, and extremely accomplished work which went on to become one of the most celebrated movies ever made."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "I haven t seen it yet, but it looks Epicard. I Love the ships movies and all that stuff.The brulmaster was here.",
+            "review_date": "2020-10-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThey kill everyone at the end, and it\u2019s amazing. AMAZING. I don\u2019t think you all understand me. It\u2019s AMAZING",
+            "review_date": "2020-10-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I want you to take a moment to close your eyes and imagine the best movie you've ever seen in your entire life. Beautiful... Isn't it?",
+            "review_date": "2020-10-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "amazon, this is the best movie of all time and should be mark'd as an historic moment",
+            "review_date": "2020-10-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film noir portrait of corruption and morally-compromised obsessions stars Welles as Hank Quinlan, a crooked police chief who frames a Mexican youth as part of an intricate criminal plot. Charlton Heston plays an honorable MexicanThis film noir portrait of corruption and morally-compromised obsessions stars Welles as Hank Quinlan, a crooked police chief who frames a Mexican youth as part of an intricate criminal plot. Charlton Heston plays an honorable Mexican narcotics investigator who clashes with the bigoted Quinlan after probing into his dark past. A memorable",
+            "review_date": "2022-09-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A vibrant, cinematically radical, and extremely accomplished work which went on to become one of the most celebrated movies ever made.",
+            "review_date": "2021-02-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is a classic and very strong and influential film that deserves the most Praises.",
+            "review_date": "2021-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 25
 }

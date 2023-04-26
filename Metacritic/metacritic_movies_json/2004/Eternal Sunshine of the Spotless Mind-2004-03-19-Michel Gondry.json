@@ -1,654 +1,733 @@
 {
-  "title": "Eternal Sunshine of the Spotless Mind",
-  "rating": 8.8,
-  "release_date": "2004-03-19",
-  "genre": [
-    "Drama",
-    "Romance"
-  ],
-  "summary": "Joel (Carrey) is stunned to discover that his girlfriend Clementine (Winslet) has had her memories of their tumultuous relationship erased.  Out of desperation, he contacts the inventor of the process, Dr. Howard Mierzwiak (Wilkinson), to have Clementine removed from his own memory.  But as Joel's memories progressively disappear, he beginsJoel (Carrey) is stunned to discover that his girlfriend Clementine (Winslet) has had her memories of their tumultuous relationship erased.  Out of desperation, he contacts the inventor of the process, Dr. Howard Mierzwiak (Wilkinson), to have Clementine removed from his own memory.  But as Joel's memories progressively disappear, he begins to rediscover his love for Clementine.  (Focus Features)… Expand",
-  "critic_reviews": [
-    "Not only (Kaufman's) most accessible and romantic screenplay, it's his most complete. The third act works like a charm and pulls all his themes, characters and conflicts together beautifully.",
-    "A wildly imaginative, hugely entertaining tour de force that asks big questions about life and love and fate while never ceasing to fully engage the viewer.",
-    "Watching Eternal Sunshine, you don't just watch a love story -- you fall in love with what love really is.",
-    "A thoughtful, audacious meditation on love and relationships that finds a group of wildly disparate talents clicking together in perfect unison.",
-    "It's a trippy but tender examination of human emotions, relationships, all-consuming love.",
-    "A complicated story that demands your full attention; Mr. Gondry unfolds it at a mind-bending pace. This alone makes it a hugely refreshing respite from ordinary multiplex fare.",
-    "Feels like something entirely brand-new; such are the gifts of Kaufman and Gondry, inventors and magicians.",
-    "A delightful little wormhole that takes us on a journey to another dimension of consciousness.",
-    "Audacious, thought-provoking and ruefully funny.",
-    "This is the best movie I've seen in a decade. For once it's no hyperbole to say, \"Unforgettable!\"",
-    "A masterpiece? Probably.  Ingenious? Absolutely!  Unforgettable? I'll see you at the 10th-year anniversary.",
-    "A Chayefsky movie isn't hard to identify, but I think it's safe to say that these days a Charlie Kaufman movie is even more recognizable.",
-    "Fresh, heartfelt and ultimately heartbreaking in its honest portrayal of a modern relationship.",
-    "Gondry's virtuosity lifts the film far past science fiction into cinematic efflorescence. He shows us, more seductively than other directors have done, how freehand use of film can capture the flashes in our minds that slip between words.",
-    "Adventuresome, melancholy and exhilarating.",
-    "If films about coping with memory loss and/or reverse-order storytelling now constitute a mini-genre, then Eternal Sunshine of the Spotless Mind is arguably the best of the lot.",
-    "Kaufman may be counting on the audience's will, insistence and yearning to create a coherent love story from the shards and shrapnel he provides us.",
-    "It's a baroque and intermittently brilliant brain twister so convoluted that it inevitably deposits the viewer in an alternate universe.",
-    "A surprisingly bittersweet love story at heart, Eternal Sunshine values the sum of experience, which in this case means a thorns-and-all openness to romantic possibilities.",
-    "A memory play and a sleight of hand, Eternal Sunshine is more than anything else deeply sincere. Like Spike Jonze, who directed \"Adaptation\" and \"Being John Malkovich,\" Gondry succeeds principally by balancing Kaufman's churning skepticism with unflinching hope.",
-    "Neither wholly cynical nor wholly romantic, Kaufman's story is a balance of smarts and sentiment. It's the most fully realized working out of his two favorite obsessions: the subjective nature of experience and the psychological mysteries of pair bonding.",
-    "Ingenious, exhilarating, funny and profound.",
-    "Chases so many ideas that it threatens to spin out of control. But with our multiplexes stuffed with toxic Hollywood formula, it's a gift to find a ballsy movie that thinks it can do anything, and damn near does.",
-    "This is unlike any other film I have seen... it's a great romance. It's willingness to flout conventions and eschew formulas is just one of many things to celebrate about this charmingly eccentric movie.",
-    "Despite jumping through the deliberately disorienting hoops of its story, Eternal Sunshine has an emotional center, and that's what makes it work.",
-    "It is by turns comic, dark and surprisingly tender. If one must reduce it to simple description, call it a love story with a twist. Or a twisted love story.",
-    "For most of Eternal Sunshine, I found myself fighting off Gondry's hyperactive intrusions in order to get at the melancholia at its core. Fortunately, the idea behind this movie is so richly suggestive that it carries you past Gondry's image clutter.",
-    "For once, Carrey is more than merely tolerable. He's actually good, and the film that ebbs and flows around him is something you won't soon forget.",
-    "Not particularly funny, or even very sunny, but it is Charlie Kaufman’s first whole screenplay, and as wonderful as it is weird.",
-    "Always engaging, never boring. You constantly appreciate Kaufman's intelligence and Gondry's lively filmmaking.",
-    "For all the silliness, Kaufman is posing a serious question: Are we better off forgetting things that brought us pain, especially if we didn't change or grow as a result? You may not agree with his conclusion, but who else in Hollywood would pose this query at all, or explore it in such a daffy, gratifyingly inventive way?",
-    "You'll be rewarded with a terrific finale. The twists here are the rare sort that seem both narratively surprising and emotionally engaging.",
-    "The thinking is shallow. The emotions are tepid. But the creativity is dazzling. If that sounds like a slam, consider that most Hollywood screenplays are predictable, rote and functional -- and those are the good ones, folks.",
-    "While it's flawed and often tedious, Kaufman's script is, on the whole, boldly imaginative and enjoyably challenging.",
-    "This is the art-film Carrey: repressed, lovesick, unshaven. Essentially he's doing the same intellectual sad sack played by John Cusack in \"Malkovich\" and Nicolas Cage in \"Adaptation\"",
-    "So daring, well-made and tirelessly inventive that I kept asking myself, “Why isn't this even better? Why isn't it moving me?” One huge problem is the hero... he's played by 42-year-old Jim Carrey, whose still-bottomless need to be loved invariably smacks of desperation and self-pity.",
-    "This angular and intelligent romantic comedy isn't entirely consistent. Even as you laugh, it's a movie you admire more than love.",
-    "Represents a failure of nerve: As if Gondry and Kaufman weren't sure that the story of Joel and Clementine would hold us, the doomed couple's unfolding-in-reverse romance is intercut with a subplot filled with zany touches.",
-    "Wants to be a bittersweet comedy about erotic loss and memory loss. But it doesn't have the heart or brain."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "This movie was amazing! I loved the characters and I thought it was a refreshing change of romantic comedy.  It really toughed base with the meaning behind a thoughtful relationship between one really odd couple. This movie really doesThis movie was amazing! I loved the characters and I thought it was a refreshing change of romantic comedy.  It really toughed base with the meaning behind a thoughtful relationship between one really odd couple. This movie really does express the meaning behind two opposites attract.",
-      "review_date": "2013-10-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It was the most powerful film in my entire life that really made me to have its dreams in nights and was a brilliant idea for more directors. HUMAN MIND... watching 1 time is really unfair.",
-      "review_date": "2008-02-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I had a chance to see this movie again in 2008 for only the second time. I saw it in the theater when it premiered 4 years earlier. What a piece of art! This movie goes deep into the heart of romantic love. It's not a love story, I had a chance to see this movie again in 2008 for only the second time. I saw it in the theater when it premiered 4 years earlier. What a piece of art! This movie goes deep into the heart of romantic love. It's not a love story, it's an internal examination of what love does to your mind. It's painful to watch at times because it dissects what most of us try to repress most of the time. But, if for just one moment, you allow yourself to \"get into\" this movie, you will have a deeper experience than you've ever had while viewing movie. Darwinian thought (as well as just about any religious thought) tells us that procreation is perhaps the most important of our human functions. Romantic love leads us in that venture and this movie delves into the most sensitive areas of that process. This film could have easily felt pseudointellectual had it not been for the way the film was shot. It looks like it was filmed inside someone's head - clausterphobic, impressionistic, etc. - all in the right balance.",
-      "review_date": "2008-03-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A perfect concept wrapped around great performances.  Kate Winslet, as usual, is spectacular.  Anybody who has been in a relationship full of hills and valleys will appreciate this movie and shed a tear or two by the end.  A movie to be filedA perfect concept wrapped around great performances.  Kate Winslet, as usual, is spectacular.  Anybody who has been in a relationship full of hills and valleys will appreciate this movie and shed a tear or two by the end.  A movie to be filed under \"original and thought provoking\".",
-      "review_date": "2011-02-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There are those movies that provide you with two hours of mind-numbing entertainment, and then there are those movies that can change your view on life and human emotions while still providing you with two hours of entertainment. This movieThere are those movies that provide you with two hours of mind-numbing entertainment, and then there are those movies that can change your view on life and human emotions while still providing you with two hours of entertainment. This movie belongs to the latter category.",
-      "review_date": "2011-04-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is one of my favorite movies without a doubt.  I never tire of watching it.  Jim Carrey and Kate Winslet are absolutely terrific together and I cry every time I see it.  There is very little wrong with the film.",
-      "review_date": "2011-05-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Easily, 2004's best film. Charlie Kaufman delivers us his best script yet, Kate Winslet's amazing acting is probably the biggest highlight of the movie and surprisingly Jim Carrey's acting is not that horrible.although the film is pureEasily, 2004's best film. Charlie Kaufman delivers us his best script yet, Kate Winslet's amazing acting is probably the biggest highlight of the movie and surprisingly Jim Carrey's acting is not that horrible.although the film is pure beauty it seems rather cheap for a 20,000,000$ movie.",
-      "review_date": "2011-05-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is wondrously creative, entertaining, clever and thought-provoking. It's based on an interesting premise, it's artistically shot and edited, and the story is told in an ingeniously innovative way. But this isn't half the reason it'sThis film is wondrously creative, entertaining, clever and thought-provoking. It's based on an interesting premise, it's artistically shot and edited, and the story is told in an ingeniously innovative way. But this isn't half the reason it's so good. At it's heart, it's a brilliantly acted bittersweet love story that avoids all cliches, feels uncannily real and ultimately engages the viewer emotionally on so many levels (which is rare for a Kaufman film, despite the guy's obvious artistic talent). I know a lot of people don't like Jim Carrey that much because he's been in a lot of rubbish stuff, but the guy can certainly act when given the opportunity, and Kate Winslet is simply brilliant. Together they make a wondrously believable couple that I've never stopped to question for an instant. Overall, one of my favorite all time films and an amazing cinematic achievement. Don't miss out on this!",
-      "review_date": "2011-06-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Please do not be scared of this film by those ignorant reviews saying that this film is \"too artsy\" or \"to complicated\". That is absolute bulls**t. This is one of the best films I've ever seen so I strongly advise everyone to watch it.",
-      "review_date": "2012-01-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This was just a delight. It was clever, it was original and it was downright emotional on so many levels that that  have made this a timeless classic.\rEternal Sunshine tells the story of socially awkward Joel (Jim Carrey), who is detachedThis was just a delight. It was clever, it was original and it was downright emotional on so many levels that that  have made this a timeless classic.\rEternal Sunshine tells the story of socially awkward Joel (Jim Carrey), who is detached from his surroundings and everything going on around him, until he meets Clementine (Kate Winslet), a confrontational and free spirited woman who he immediately hits if off with, simply because their worlds couldn't be further apart.\rThe film is told in a very much non-linear fashion, and this is set up through the apparent break-up of the happy couple, Joel soon learns that Clementine has forgotten who Joel is, she did this through getting her memory of him erased by Lacuna, a company which deals in this.\rJoel eventually decides to do the same thing and is told the process is done while he sleeps.\rWhat follows is the true shining moment of the film, as Joel visits happier times with Clementine, to which we soon realise all is not as it seems.\rThe supporting cast includes Mark Ruffalo and Elijah Wood as technicians who carry out the erase part, Kirsten Dunst as the Lacuna receptionist and Tom Wilkinson as the Lacuna doctor, Howard Mierzwiak.\rThese characters, however, hold their own unique secrets and revelations that truly create a wonderful piece of cinema.\rJim Carrey and Kate Winslet are simply fantastic as Joel and Clementine and it was wonderful to see these two step out of their comfort zone, Carrey the awkward and unfunny man, and Winslet the free and crude woman. The messages which are put across heighten the beauty and dramatic context of the film that never lets go of the wheel.\rThe pace of the story may leave some confused, but this is where the film truly becomes unique, there are so many elements of surprise and so many heart wrenching moments that succeed in creating a truly unique masterpiece, full of colourful scenes and artistic filmmaking that push the film further than many other love stories.\rIts not surprising for many to say that this is one of their favourite films, there is enough drama to last a lifetime and enough talent to surpass your expectations in this flawless gem.",
-      "review_date": "2013-03-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Marvellous! Jim carrey proves us than he can be more than a clown. The plot is creative. I can't believe that we were waiting for something as awful as 'the green lantern'' from Gondry afterward, such a waste of talent.",
-      "review_date": "2012-02-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There are so few perfect movies.  This is one of them.  One of my all time favorite movies.  So funny yet intelligent and romantic.  It gets better every time you watch it.",
-      "review_date": "2013-06-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is by far the best movie of 2004, and one of the greatest films of all-time. Jim Carrey and Kate Wislet share a magnetic bond that evolves way past the usual chemistry in movies. They are absolutely amazing, and they were both robbed of This is by far the best movie of 2004, and one of the greatest films of all-time. Jim Carrey and Kate Wislet share a magnetic bond that evolves way past the usual chemistry in movies. They are absolutely amazing, and they were both robbed of should-be Oscars. (especially Carrey, who wasn't even nominated) This film will forever be remembered as one of the films considered a true classic from the new era of 2000 and on. Brilliant.",
-      "review_date": "2005-10-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Probably the most accurate, brutally honest dissection of what it is to be in love ever put to film. The concept behind the film may sound gimmicky, but it really is implemented brilliantly. A masterwork for all involved.",
-      "review_date": "2006-12-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is a heartbreaker. Probably the most beautiful movie I've ever seen. Fantastic acting. Interesting story. Great soundtrack. If it doesn't move you, then you've never been in love.",
-      "review_date": "2006-12-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just spellbinding. It's a while to build up and the wait is worth every second. Michel Gondry's direction is on top-form and brilliantly accompanied with a beautiful score and a precise screenplay. The story seems to go off astray but forJust spellbinding. It's a while to build up and the wait is worth every second. Michel Gondry's direction is on top-form and brilliantly accompanied with a beautiful score and a precise screenplay. The story seems to go off astray but for some reason, that's one of its best qualities. Jim Carrey is at his best since The Truman Show and thoroughly gives a performance that will be remembered for years. But the carpet from under his feet is Kate Winslet who delivers yet another monumental performance. This is my favourite role she's played because she played someone modern and she was funny at times. PLEASE, more Kate Winslet comedies. I rather liked Kirsten Dunst as the quirky receptionist who quotes Alexander Pope but underneath lies a secret unbeknownst to her. This is probably the best film of 2004 and one of my favourite films of all time.",
-      "review_date": "2010-10-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Did you ever fall in love so deeply and then you just broke up with her/him? That is the feeling you got from watching thiz film. The feeling about how you fall in love with her, and later you realize that time would never come back again.Did you ever fall in love so deeply and then you just broke up with her/him? That is the feeling you got from watching thiz film. The feeling about how you fall in love with her, and later you realize that time would never come back again. Starred by Jim Carrey, Kate Winslet, Mark Rufallo, and Kirsten Dunst. Directed by French Director, Michel Gondry. Gondry is one of the directors who always brings  some absurd stories as his features (such as: THE SCIENCE OF SLEEP (2006), that also I like very much). The story is about how you dreams your past and you can actually feel it as just happens at the present time. Sometimes it happens based on what you remember. Thiz is interesting  part, in one of the scene, the two characters (Carrey and Winslet) had interaction with each other but they surrounded by people who had plain/blank face, coz the Carey character don not remember how the people look like, so the scene describes it people with plain/blank face. Director was so lucky to got Carey and Winslet in appropriate time, Carey just desperately wants some serious drama beside his role always known as comedian, and Winslet wants to prove her truly acting skill after TITANIC (1997). Thiz Movie maybe not contains an extraordinary storyline, but can effectively reflects very well the description about how the event occurred.\r Visit My Blog on JONNY'S MOVEE : http://jonnyfendi.blogspot.com",
-      "review_date": "2011-01-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Eternal Sunshine Of The Spotless Mind\", blessed with director Michel Gondry's innovative creativity and vision, is a sad, sentimental, but a beautiful film as with excellent performances from Jim Carrey and Kate Winslet does the movie dive\"Eternal Sunshine Of The Spotless Mind\", blessed with director Michel Gondry's innovative creativity and vision, is a sad, sentimental, but a beautiful film as with excellent performances from Jim Carrey and Kate Winslet does the movie dive into memory, heartbreaking break-ups, and the ever-prevailing ultimacy of love for those who are troubled with and wanting to get the good memories with each other erased and move on.",
-      "review_date": "2015-08-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There is no way anyone could deny just how unique, clever, and original this movie is. The story and the characters are just so fresh, and while I don't think the movie is as ingenious as everyone proclaims, it is certainly a fine piece of cinema.",
-      "review_date": "2013-02-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Eternal sunshine of the spotless mind is a story about a couple who obviously don't get well with each other and so the women goes to a doctor who can erase her memories of the men. When the men learns about that he wants to do it too. It isEternal sunshine of the spotless mind is a story about a couple who obviously don't get well with each other and so the women goes to a doctor who can erase her memories of the men. When the men learns about that he wants to do it too. It is an interesting idea but in the beginning the film is too complicated, strange  rare and hard to understand which will confuse many people. Jim Carrey and Kate Winslet were amazing and that surprised me as I am used to see Jim Carrey only in comedies. The cinematography is amazing as well as the direction of that film but it is a little bit confusing which is something I really didn't like. Yes it it touching and passes the message that we have to give a second chance to some people. But it is still over complicated for the kind of these films yet it is a new idea.",
-      "review_date": "2013-08-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An imaginative and unique work of art. This films cast delivers their comedic dialogue perfectly, along with stunning imagery and visuals, phenomenal acting, touching and heartbreaking moments, a breathtaking soundtrack, and a masterfulAn imaginative and unique work of art. This films cast delivers their comedic dialogue perfectly, along with stunning imagery and visuals, phenomenal acting, touching and heartbreaking moments, a breathtaking soundtrack, and a masterful script. With its unclear ending and its \"easter eggs\" that you find throughout the film, \"Eternal Sunshine\" has you asking questions and coming to conclusions the likes of which may go forever unanswered. The abundance of melancholy in the air just makes the movie so much better. The characters are some of the most personable and lovable characters I have seen since \"The Perks Of Being A Wallflower.\" Their personalities consist of many traits that are noticeable, but one of those traits is over exaggerated to the point of making seem like caricatures, which makes their problems seem so much more important, making them so much more relatable, making them seem like long lost family members, which makes their emotions just so important to you. Emotional preparation is mandatory before watching this film. There are some scenes that just break your heart, it's just called good filmmaking. This beautiful film has put it's mark on cinema forever and will be always known as an instant classic. Its a masterpiece.",
-      "review_date": "2013-09-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Possibly the greatest romance movie ever. Incredibly touching, with a well thought out plot. This movie makes you think, It makes you relate, even if you don't want to. Jim Carrey and Kate Winslet put on a performance that is outstanding, youPossibly the greatest romance movie ever. Incredibly touching, with a well thought out plot. This movie makes you think, It makes you relate, even if you don't want to. Jim Carrey and Kate Winslet put on a performance that is outstanding, you don't even question their mismatched relationship because its so authentic. A must see movie for everyone.",
-      "review_date": "2013-10-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Eternal Sunshine of the Spotless Mind shows all of us that even Jim Carrey could need a little more starring to it. Regardless because this is one of those drama/romanace stuff and somehow Jim Carrey turned some of the scenes to a magicalEternal Sunshine of the Spotless Mind shows all of us that even Jim Carrey could need a little more starring to it. Regardless because this is one of those drama/romanace stuff and somehow Jim Carrey turned some of the scenes to a magical work of comedy.",
-      "review_date": "2016-08-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Would you delete the memory of someone, that you loved and was happy with, because your relationship ended and it seems you won't spend your life together as you imagined at first? A movie, that you can not fully understand and unravel from aWould you delete the memory of someone, that you loved and was happy with, because your relationship ended and it seems you won't spend your life together as you imagined at first? A movie, that you can not fully understand and unravel from a first watch. Simply brilliant! :)",
-      "review_date": "2018-02-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Perfect and TOUCHING. One of my most favorite movies ever. The message is incredible! Never gets old for me and something new is uncovered to me every time I watch it. The soundtrack is absolutely beautiful too! I've watched this Perfect and TOUCHING. One of my most favorite movies ever. The message is incredible! Never gets old for me and something new is uncovered to me every time I watch it. The soundtrack is absolutely beautiful too! I've watched this probably 10 times, and I'll watch it the next time it comes on too.",
-      "review_date": "2008-02-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is the perfect love movie. In every way it is perfect and clever. And I generally hate love movies, but twisting the genre into this is just a majestetic achievement. It's crazy, sad, beautiful, funny and full of love; what every This is the perfect love movie. In every way it is perfect and clever. And I generally hate love movies, but twisting the genre into this is just a majestetic achievement. It's crazy, sad, beautiful, funny and full of love; what every love movie wants to be, but only \"Eternal Sunshine Of The Spotless Mind\" is.",
-      "review_date": "2009-01-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Eternal Sunshine of the Spotless Mind is a heartfelt, funny, emotionally powerful, original, heartbreaking, piece of art. It features great performances from Winslet and Carrey, and offers a nice, sweet, fresh, twist on a regular romanticEternal Sunshine of the Spotless Mind is a heartfelt, funny, emotionally powerful, original, heartbreaking, piece of art. It features great performances from Winslet and Carrey, and offers a nice, sweet, fresh, twist on a regular romantic comedy. I give this movie 96%.",
-      "review_date": "2012-06-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This may be my favorite film ever. Perfect casting, perfect direction, perfect writing. Clementine: My crotch is still here, just as you remembered it. Joel: Yuck!",
-      "review_date": "2008-02-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is one of the best movie I have ever seen in my life. and in any way is not Analogous with \"being john Malkovich\" and any other memory and Mind and Remembrance movies. Thanks for your rating.",
-      "review_date": "2008-01-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Perfect. Favourite movie of all time. Showing a deeper and brilliant side to Jim Carrey that is lost with most of his hollywood comedies. Kate Winslet played the eccentric and irrational role of Clementine amazingly. Clever and thoughtful.",
-      "review_date": "2011-08-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The concept for Eternal Sunshine is simply incredible. Unfortunately, the narrative isn't. The love story should feel genuine, but it never gets fully fleshed out due to subplots that constantly get in the way of Joel's (Jim Carrey) storyThe concept for Eternal Sunshine is simply incredible. Unfortunately, the narrative isn't. The love story should feel genuine, but it never gets fully fleshed out due to subplots that constantly get in the way of Joel's (Jim Carrey) story arc. However, with strong performances from all cast members, interesting visuals and a great soundtrack, Eternal Sunshine of the Spotless Mind is worth a watch, at the very least.",
-      "review_date": "2011-04-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of my least favorite movies ever. The message is stupid. Watching it once was painful enough. All the actors should kiss their careers goodbye. I hated everything about it.",
-      "review_date": "2013-06-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "yes it was a very different and artsy and yes i does have a fairly important message at the end which is rather hackneyed but still even if i concede all that it still isn't a good movie, because a good movie entertains and this never yes it was a very different and artsy and yes i does have a fairly important message at the end which is rather hackneyed but still even if i concede all that it still isn't a good movie, because a good movie entertains and this never really entertained me. I never wondered what happened in the beginning, and when i found out it was anti-climactic even though i didn't care.",
-      "review_date": "2008-01-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Kaufman is a genius, nuff said.",
-      "review_date": "2010-01-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Only saw it last week... had been on my to watch list for too long. Very impressed though.",
-      "review_date": "2005-09-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My current favorite film. An intriguing story about relationship, the good and the bad. All those reviews in here that \"didn't get it\" or hated it, you're entitled to your opininions, but I'm sorry for you that you missed out My current favorite film. An intriguing story about relationship, the good and the bad. All those reviews in here that \"didn't get it\" or hated it, you're entitled to your opininions, but I'm sorry for you that you missed out on a great movie.",
-      "review_date": "2006-06-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Another classic of our time. There has never been another like it, nor will there ever be again. The elements conspire on this one to create something that leaves you not entirely sure what kind of movie you just watched- and loving it. Yes, Another classic of our time. There has never been another like it, nor will there ever be again. The elements conspire on this one to create something that leaves you not entirely sure what kind of movie you just watched- and loving it. Yes, it's funny, but never slapstick. Yes, it's dramatic, but it never goes Deep End of the Ocean. Yes, there are fantasy elements aplenty, but somehow it feels natural, as if the events just fit within the world of the film. There's even a mystery element, leaving you slightly confused until ut all comes together at the end. It has a slightly Donnie Darko-like quality in this way- somehow it feels like somewhere you missed something, and you have the urge to rewind and see what it was. Once all the threads are tied up, you're left with an \"aaahh\" sense of completetion. Complex characters, never dismissing development to focus on the more quirky elements of the film, never letting you get lazy as a viewer. No one character is a runaway favorite as each is flawed in the way they are supposed to be. One of the few movies that pulls off the darker, more morbid aspect without laying it on too thick. Outshines it's \"cousin\", Being John Malkovich, by a mile. My only critisism is possibly cramming just a leetle too much in there. Not enough to forfeit a point, though.",
-      "review_date": "2006-07-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Quite possibly one of the finest films ever made. Heart-wrenching and sweet all in one. I watch this DVD at least once a week and it never gets old. Considering my hatred of Jim Carrey, this is a remarkable and surprising use of his talent.",
-      "review_date": "2007-10-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Typically confusing, but sadly enjoyable. It really is a confusing movie but the vibe that it gives off...its very unique. Its not bad, but after rewatching another time, its not THAT comfortable. The way i recommend anybody watching it is: Typically confusing, but sadly enjoyable. It really is a confusing movie but the vibe that it gives off...its very unique. Its not bad, but after rewatching another time, its not THAT comfortable. The way i recommend anybody watching it is: watch it late at night, peacefully, relaxing and let the take you in",
-      "review_date": "2007-08-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beautiful and touching. Very creative.",
-      "review_date": "2007-09-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "To bad there are only fiew of such films.. The abstractism should predominate into more movies, because there are less people who understand them, but they could understand more, why not?",
-      "review_date": "2010-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Boring is the main word. So much \"why should I care\" moments and \"Oh my God when is the ending coming\" times as well. Another of the thousand times when Hollywood tries to impress us with \"art\" instead of entertainment. Movies that are worse Boring is the main word. So much \"why should I care\" moments and \"Oh my God when is the ending coming\" times as well. Another of the thousand times when Hollywood tries to impress us with \"art\" instead of entertainment. Movies that are worse than this are anything made by Wes Anderson.",
-      "review_date": "2008-09-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wow did this movie suck. I walked in thinking it would be the cinematic experience of my life from all the great reviews I read. Guess what? IT SUCKS!!!! I felt absolutely nothing for the characters. I wanted them all to forget each other so Wow did this movie suck. I walked in thinking it would be the cinematic experience of my life from all the great reviews I read. Guess what? IT SUCKS!!!! I felt absolutely nothing for the characters. I wanted them all to forget each other so they movie would END! Carrey, Carrey, Carrey, when are you going to learn that you cannot act at all. Go back to comedy and make us all happy. All the other performances felt forced and fake. Whoever tells you this movie is complex is a totaly dumba$$. I figured it out just by seeing the trailer and the commercials. DON'T SEE THIS AT ANY COST.",
-      "review_date": "2004-03-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Simply...the second worse film I have ever seen. How is it possible so many people love this film?!?!",
-      "review_date": "2005-09-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When I first saw Eternal Sunshine of the Spotless Mind, I wasn't expecting to love it, let alone like it. What a surprise when I saw it! I think this film is wonderful in every aspect, truly beautiful and packs a full emotional punch. InWhen I first saw Eternal Sunshine of the Spotless Mind, I wasn't expecting to love it, let alone like it. What a surprise when I saw it! I think this film is wonderful in every aspect, truly beautiful and packs a full emotional punch. In fact, if you don't mind me saying so, it is one of my favourite films of the 2000s.I especially loved how Eternal Sunshine of the Spotless Mind was shot. The whole film looks beautiful, not only with the cinematography which is indeed spellbinding but also in the scenery which was nothing short of amazing. Another impressive asset was the soundtrack/score. Eternal Sunshine of the Spotless Mind doesn't have the best soundtrack/score I have ever heard in my life, but the score makes the film all the more moving, while the soundtrack is well selected and appropriate.I was also very taken with the story. Eternal Sunshine of the Spotless Mind has one beautifully constructed story I can tell you, with an almost poignant message about it. It is strange and bizarre yes, but neither of those are bad, quite the contrary. Then there is the script which is both poignant and funny, not to mention very deep. The pacing very rarely feels boring if at all, and the direction is adept.I have very little to complain about Eternal Sunshine of the Spotless Mind's performances either. As good as the supporting performances are especially from the always splendid Tom Wilkinson, I have to give the real kudos to the leads. Jim Carrey has done some good performances in some good films, The Mask, Liar Liar, The Cable Guy and Bruce Almighty showcase his comedy talents wonderfully, but this and The Truman Show show he is perfectly good at drama too. He is very understated here, but it works as he still manages to be likable all the same. The real star though is Kate Winslet. A beautiful and captivating actress, Winslet is absolutely perfect in her role.Overall, wonderful film. Bizarre yes, but very tender and poignant helped by the exceptional performances and cinematography. 10/10 Bethany Cox",
-      "review_date": "2022-04-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The movie itself was fine, although I do have trouble with a director reusing the same scenes multiple times in a movie, it comes off as laziness. There is not much to get, it seems as though the people who say, \"Did you get it?\" were also The movie itself was fine, although I do have trouble with a director reusing the same scenes multiple times in a movie, it comes off as laziness. There is not much to get, it seems as though the people who say, \"Did you get it?\" were also overly enthralled by the Butterfly Effect and find fascination in the Gilmore Girls and One Tree Hill. The movie pulls off its premise, but does not providing a \"WOW\" factor by any means; the only saving grace is Jim Carrey doing what he does best in a quickly moving montage of acting as different characters from his past. Save yourself the time, go see Man in the Moon instead.",
-      "review_date": "2007-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In a word: breathtaking. I realize that the unconventional means of storytelling employed in this film won't be everybody's cup of tea; many viewers don't want to have to think too much or feel too much when watching a movie. In a word: breathtaking. I realize that the unconventional means of storytelling employed in this film won't be everybody's cup of tea; many viewers don't want to have to think too much or feel too much when watching a movie. But this is an extraordinary film, and it deserves the fulll investment of attention and emotional engagement that it demands. Despite the arty cinematic methods used by Gondry (which will either astound you or irritate you, depending on your tastes), there is nothing highbrow or inaccessible about the story's message: love is worth experiencing, even when it's difficult or painful or imperfect. And love - and our lovers - can never be removed from our psyches, no mater how much we may sometimes wish it all could be. Beautifully acted (Jim Carrey is better than I would have ever expected him to be, and Kate Winslet equals him in every way), imaginatively directed, exquisitely written, and boldly designed and shot. This film is a challenge, but those who rise to it will be richly rewarded. Truly awesome.",
-      "review_date": "2006-02-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My favorite movie of all time. not much else to say except it is amazingly insightful and touching.",
-      "review_date": "2007-06-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An absolutely riveting love story, that Gondry and Kauffman don't make a sappy mess out of.",
-      "review_date": "2009-10-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "People criticise it for being confusing, okay think you kind of missed the point, it does not make them think and they are not entertained... okay you can not help who you fall in love with and it is better to remember to have loved and lost People criticise it for being confusing, okay think you kind of missed the point, it does not make them think and they are not entertained... okay you can not help who you fall in love with and it is better to remember to have loved and lost than not at all. the film is entertaining and romantic and something different and beautiful. this film lies in my top ten of all films, Jim Carrey should have got an Oscar nomination. The film should have bagged director and technology nominations. the best of the past 10 years, difficult to say with some good ones but definately in the top 5. See it and enjoy and get taken to a side of cinema which we love and are surprised how vivid some directors and writers can be.",
-      "review_date": "2009-07-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Best movie I've seen in a while, I laughed, I cried, pretty good acting for the most part. The plot isn't too difficult to figure out, but the camera work, the script, and the emotions and thoughts that the film get at are all very Best movie I've seen in a while, I laughed, I cried, pretty good acting for the most part. The plot isn't too difficult to figure out, but the camera work, the script, and the emotions and thoughts that the film get at are all very refreshing and touching. Some off the subplots are a little bit tedious, but overall an excellent movie.",
-      "review_date": "2004-03-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Watched it on TV - so was not planned. The movie was confusingly interesting. It takes the viewer to another plane and makes u look at things very differently - so differntly that even Friends serial seemed to be intriguing and Watched it on TV - so was not planned. The movie was confusingly interesting. It takes the viewer to another plane and makes u look at things very differently - so differntly that even Friends serial seemed to be intriguing and 'confusing'! Couldnt get out of the movie frame for quite some time.",
-      "review_date": "2005-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An excellent movie, but left me unfulfilled. Something seemed empty in my heart as I walked away from it.",
-      "review_date": "2005-10-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Guess what? I get it. And it's WAY OVERRATED.",
-      "review_date": "2006-10-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best movies I have ever seen. Jim Carey is superb in this film and Kate Winslet does a great job as well. Anyone who has not seen this movie already should see it ASAP. It will change your life.",
-      "review_date": "2006-01-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If it's not the best movie of the 2004 it's one of the top 10 movies of that year, the best romantic comedy i'm sure...",
-      "review_date": "2006-01-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "THis is one of the most imaginative films ever created and its a shame that Kate Winslet didn't win an Academy Award for her role in the movie.",
-      "review_date": "2006-02-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "won't be good for everyone but it sure is a great movie to me. Incredibly original storyline, superb editing job, and by far the best acting of 2004. The ending is really odd, but next to the Passion of the Christ, best movie of the year!",
-      "review_date": "2006-04-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a really really good film. Unfortunately, I'm not surprised that so many people don't get it. The only complaint I have is that it didn't make me feel incredibly emotionally attached to the main characters, but This is a really really good film. Unfortunately, I'm not surprised that so many people don't get it. The only complaint I have is that it didn't make me feel incredibly emotionally attached to the main characters, but brilliant writing, directing, editting, score, and overall execution.",
-      "review_date": "2006-06-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There has never been, and probably never will, be anything like this movie. I loved seeing this movie, and loved seeing this movie again. Kate Winslet is spot-on in this movie, and near perfect. Jim Carrey does his best work, and the There has never been, and probably never will, be anything like this movie. I loved seeing this movie, and loved seeing this movie again. Kate Winslet is spot-on in this movie, and near perfect. Jim Carrey does his best work, and the ensemble is amazing. I don't like to give 10/10's but I give this one a 10/10 in a heartbeat.",
-      "review_date": "2006-08-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One Of The Best Movies Ever Made. Nothing More To Say Here.",
-      "review_date": "2007-11-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Its probably the best film of 2004, it reminds me what it's like to be in love and iI'm only 15, especially in the scenes where Winslet & Jim interact when they're not arguing. I love the pace and plot movement, and the music Its probably the best film of 2004, it reminds me what it's like to be in love and iI'm only 15, especially in the scenes where Winslet & Jim interact when they're not arguing. I love the pace and plot movement, and the music is great too.",
-      "review_date": "2007-05-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What is this film? A bleak parable of the emptiness of modern life? A ballad for the broken-hearted? A bold thought-experiment on the nature of consciousness? An uplifting demonstration of the power of love, of forgiving and of the power of What is this film? A bleak parable of the emptiness of modern life? A ballad for the broken-hearted? A bold thought-experiment on the nature of consciousness? An uplifting demonstration of the power of love, of forgiving and of the power of belief to change events? At this point I do not know the answer but this feels like a movie that I will be going back to in order try to understand more.",
-      "review_date": "2007-09-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Flawless.",
-      "review_date": "2008-03-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An amazing and entirely warped epic that pushes the boundaries of memory, love, and life.",
-      "review_date": "2008-07-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is possibly the most thought-provoking and worthwhile movie I have ever seen.",
-      "review_date": "2008-08-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just watched the movie, I'm speechless. Just know this, one of the best movie I've ever seen.",
-      "review_date": "2009-11-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Genius. I would give it a 9.5 if I had the option.",
-      "review_date": "2009-01-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Blessed are the forgetful, for they get the better even of their blunders.\" \"How happy is the blameless vestal's lot? \"The world forgetting, by the world forgot. \"Eternal sunshine of the spotless mind. Each prayer accepted and each \"Blessed are the forgetful, for they get the better even of their blunders.\" \"How happy is the blameless vestal's lot? \"The world forgetting, by the world forgot. \"Eternal sunshine of the spotless mind. Each prayer accepted and each wish resigned. \"",
-      "review_date": "2009-01-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In word of one syllable, it's incredible. How it implemented the idea of delete the things from patient's memories.",
-      "review_date": "2009-02-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There were times here and there where the story becomes a bit too disorienting, and I thought Gondry could've been slightly more subtle about the imagery. However, as a whole, the movie shines. I was crying by the end of it.",
-      "review_date": "2009-07-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Extremely satisfying, makes viewer think, very unique. The movie incorporates several genres (sci-fi, psychological thriller, romance) seamlessly while delivering one of the most original and creative plots. The acting is magnificent too, Extremely satisfying, makes viewer think, very unique. The movie incorporates several genres (sci-fi, psychological thriller, romance) seamlessly while delivering one of the most original and creative plots. The acting is magnificent too, since none of them over act. The events feel like they could happen in real life too, so it is loosely relatable. There are no problems on the surface level. Below is different, since I can think of some problems others may face. The movie demands more from the audience than to sit and watch. It can be extremely complex at times, since it will not tell or show exactly what is going on. It leads the audience places but doesn't offer explanations. You don't feel like \"Oh, there's the plot! Now I know where the movie will be going!\". The audience is forced to think and draw conclusions throughout the movie (not everybody likes this). The movie also jumps around, with events going 3-1-2 instead of 1-2-3, so initially it can be quite confusing if you don't catch on. It also has a very challenging attitude to some people and can turn them off by being so secretive. I had no problems personally with Eternal Sunshine Of The Spotless Mind, but it could have bombed given how much it tries to do. Fortunately that doesn't happen though. While some may be put off, those who watch will experience a thought provking session like no other. This is the work of just plain good script, actors, and production all coming together.",
-      "review_date": "2005-11-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing movie.",
-      "review_date": "2005-10-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Blitterfish Cafe, Bernice M., please just stick to movies like The Waterboy and The Fast and the Furious and leave the intelligent, thougtful, well-written and well-acted movies to the people who actually have an IQ above 10. This is Jim Blitterfish Cafe, Bernice M., please just stick to movies like The Waterboy and The Fast and the Furious and leave the intelligent, thougtful, well-written and well-acted movies to the people who actually have an IQ above 10. This is Jim Carrey and Kate Winslet's finest work, the best movie of 2004, and one of the best romance films in the history of cinema. It offends intelligent people when you give a film of this calibre such a low score. Just stick to giving Charlie's Angels a ten and leave the good films to us.",
-      "review_date": "2005-09-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An original masterpiece. Kate Winslet is beyond fabulous. She IS Celmentine...eye candy in every sense of the idea. Different in every way. Just plain perfect.",
-      "review_date": "2007-03-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing by every stretch of the imagination. Probably both Carrey and Winslet's best work.",
-      "review_date": "2007-05-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This had a very good story but it was too long, seeing all the different memories just got tedious, and predictable. I didn't like the ending, although I understood it, i think if the middle was shortened and the ending was lengthened This had a very good story but it was too long, seeing all the different memories just got tedious, and predictable. I didn't like the ending, although I understood it, i think if the middle was shortened and the ending was lengthened it would've been better. Worth seeing but definitely not amazing.",
-      "review_date": "2007-06-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": ":S Empire magazine gave it 5 stars? So whats with the 80% and the \"it's not particularly funny\" comment huuuh? xD",
-      "review_date": "2008-12-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I haven't cried from a movie since i was like 6. During this i bawled lke a baby.",
-      "review_date": "2008-03-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Charles Kaufman is so creative, and won an Oscar for the script, (he also wrote Being John Malkovich), this SF/comedy is unique in the annals of romance films. Who would think of selective amnesia mixed with love and relationships? Loved Charles Kaufman is so creative, and won an Oscar for the script, (he also wrote Being John Malkovich), this SF/comedy is unique in the annals of romance films. Who would think of selective amnesia mixed with love and relationships? Loved Kate Winslet too, a different part for Jim Carrey as well, not to be missed",
-      "review_date": "2008-08-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great plot, great acting, but disappointing ending",
-      "review_date": "2009-02-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Damn its good.",
-      "review_date": "2005-11-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This one hits the spot.",
-      "review_date": "2005-12-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It seems like the movies I enjoy might not have the absolute best acting or plot, but are unique in a number of ways or make me think. This movie is no different. Not perfect, but a really good movie.",
-      "review_date": "2010-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Jim Carey is no Ace Ventura, he is a real and serious actor with enduring qualities. In Eternal Sunshine of The Spotless Mind he shows this in an abundance. The story is just as good as well. It has enough real emotion to keep you hooked andJim Carey is no Ace Ventura, he is a real and serious actor with enduring qualities. In Eternal Sunshine of The Spotless Mind he shows this in an abundance. The story is just as good as well. It has enough real emotion to keep you hooked and enough dreamy sequence to keep your mind ticking over long after you have finished. That nightmarish image of The Melting Face reminds us we must keep memory...for it's all we have. Cinema that would make God happy.",
-      "review_date": "2010-10-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "a truly unique way of saying that we love who we love, and there isn't much we can do about it. filmed very cleverly, giving the viewer a new experience of the human psyche. a beautiful piece of film, and jim carey is so much better when he'sa truly unique way of saying that we love who we love, and there isn't much we can do about it. filmed very cleverly, giving the viewer a new experience of the human psyche. a beautiful piece of film, and jim carey is so much better when he's not trying to be funny",
-      "review_date": "2010-08-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Everything gets tied up a little too nicely at the end; but that doesn’t stop it from being a great film. This is not a typical story taking twists and turns that were unexpected and prevent the film from being generic. The romance betweenEverything gets tied up a little too nicely at the end; but that doesn’t stop it from being a great film. This is not a typical story taking twists and turns that were unexpected and prevent the film from being generic. The romance between Joel and Clementine felt genuine and was something that I genuinely wanted for Joel. The same goes for the relationships of the other characters. The film is also well shot and directed helping to nicely illustrate Joel’s dilemma. This is a great film that I would highly recommend just bring some tissues.",
-      "review_date": "2015-01-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie works on so many levels: love story, comedy, sci-fi, fantasy. It's one that I've watched several times and go something more out of it each time. It's surprising, and yet it all *makes sense*.",
-      "review_date": "2011-02-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Eternal Sunshine of the Spotless Mind is the best 'romantic' movie ever made. It's got genius writing, superb acting and deft directing. Despite it's sci-fi overtones, the movie feels incredibly authentic. It's heartbreaking and full ofEternal Sunshine of the Spotless Mind is the best 'romantic' movie ever made. It's got genius writing, superb acting and deft directing. Despite it's sci-fi overtones, the movie feels incredibly authentic. It's heartbreaking and full of redemptive catharsis. I don't really have the words to put across how moving and brilliant this film is. One of my favorites of all time.",
-      "review_date": "2012-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A beautiful, emotional, and completely enjoyable film on all levels. Jim Carrey will make you laugh like he always has. As a matter of fact, every member of the cast accomplishes this on some level, which is wonderful. But the film also has aA beautiful, emotional, and completely enjoyable film on all levels. Jim Carrey will make you laugh like he always has. As a matter of fact, every member of the cast accomplishes this on some level, which is wonderful. But the film also has a strong emotional heart. I won't say that I didn't see the ending coming from fairly early on, but that's ok, because I enjoyed getting to that ending anyway. Perhaps my favorite part is that they don't answer the question the characters propose at the ending. Because, in all honesty, nobody knows the answer.",
-      "review_date": "2011-04-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Having split with his girlfriend Joel discovers that she has had the memory of their relationship removed. In desperation he gets in contact with the inventor of the technology in order to have his own memories removed and help him move on.Having split with his girlfriend Joel discovers that she has had the memory of their relationship removed. In desperation he gets in contact with the inventor of the technology in order to have his own memories removed and help him move on.A love story told in reverse Eternal Sunshine is a clever and touching movie that’ll really make audiences think about the nature of relationships and it’s all anchored by excellent performances from Jim Carrey and, the always reliable, Kate Winslet. Recommended.",
-      "review_date": "2017-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An emotional film with important themes and a writer who has once again created a masterpiece. The film is a rejuvination of an exhausted genre. A funny thought provoking deeply sad RomCom. Jim Carrey's performance is also very memorableAn emotional film with important themes and a writer who has once again created a masterpiece. The film is a rejuvination of an exhausted genre. A funny thought provoking deeply sad RomCom. Jim Carrey's performance is also very memorable because of it's dramatic and comedic effect.",
-      "review_date": "2012-05-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Enchanting and emotionally-tapping comedy/drama that really made my top movies list.  Its story is also one that is...ironically realistic which is all the more touching.",
-      "review_date": "2011-08-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I like stories about memory manipulation, but the movie itself is B O R I N G. The concept is good but everything built around it is not.",
-      "review_date": "2019-04-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I cannot describe in words how amazing and beautiful this movie truly is. You have to see for yourself. A movie that I will come back to time and time again throughout my life.",
-      "review_date": "2012-04-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My favourtie movie of all time. Everything about it is brilliant. It never gets old no matter how many times you watch it. The order in which the stoy is done is remarkable and makes for a very captivating movie. The soundtrack is justMy favourtie movie of all time. Everything about it is brilliant. It never gets old no matter how many times you watch it. The order in which the stoy is done is remarkable and makes for a very captivating movie. The soundtrack is just magnificent. It is a truly unique story about love and loss. I've never seen anything quite like it or half as good.",
-      "review_date": "2012-01-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not just wonderfully acted, Carey easily gives the best performance of his career, but the story is so deep and powerful. The basis of said story is quite interesting as well. Would highly recommend this.",
-      "review_date": "2016-12-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just watched the movie like 20 minutes ago and its took me this long to figure out how good this movie really is. I dont know what to describe it as. So I will leave saying that you cant be narrow minded to watch this movie open your mind.Just watched the movie like 20 minutes ago and its took me this long to figure out how good this movie really is. I dont know what to describe it as. So I will leave saying that you cant be narrow minded to watch this movie open your mind. And then you will appreciate  the quality of the movie.",
-      "review_date": "2012-08-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Before this movie I hated Jim Carey, now I think he is fantastic. He is wonderful in this film. Honestly I can't fault this movie in any way, except that it created less tears than American Beauty did. The narrative is beautifully written,Before this movie I hated Jim Carey, now I think he is fantastic. He is wonderful in this film. Honestly I can't fault this movie in any way, except that it created less tears than American Beauty did. The narrative is beautifully written, and every performance is lovely. I love this film.",
-      "review_date": "2014-11-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An incredible blend of romance, comedy, science fiction, and drama, Eternal Sunshine of the Spotless Mind is an incredible film. Director and writer Charlie Kaufman continues to prove why he is one of the most talented people in HollywoodAn incredible blend of romance, comedy, science fiction, and drama, Eternal Sunshine of the Spotless Mind is an incredible film. Director and writer Charlie Kaufman continues to prove why he is one of the most talented people in Hollywood with this one as the direction and writing are both perfect. The entire cast is great, but especially Jim Carrey, Kate Winslet, and Kirsten Dunst. The cinematography and limited special effects here are also pitch perfect. A meditation on love and memory, Eternal Sunshine of the Spotless Mind is a film that sees a man learn he can erase the memory of a girl from his past and forget they ever had anything and after learning she has done the same to him, he opts to go for it, but quickly discovers that he does not want to go through it.\r *spoilers*\rOverall, Eternal Sunshine of the Spotless Mind argues that it is better to have loved and lost than to have never loved at all. Though love hurts and the end of it can leave you broken, the good memories and even the bad ones are part of who you are and, as such, are invaluable. If they just did not happen, you would lose a major piece of yourself. The nonlinear narrative of the story also poses an interesting question on the repeating nature of love and history as a whole. If we are unaware of it, we are doomed to repeat it. Finally, the film argues that though love may hurt and leave us with sad memories and \"scars\", it is ultimately worth it it, because of the good they can cause.\r*end spoilers*\r As a whole, those reasons and more are what make Eternal Sunshine of the Spotless Mind such a fantastic film and one that is sure to touch you in some way.",
-      "review_date": "2015-04-12",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 139
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "rating": 8.8,
+    "release_date": "2004-03-19",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "summary": "Joel (Carrey) is stunned to discover that his girlfriend Clementine (Winslet) has had her memories of their tumultuous relationship erased.  Out of desperation, he contacts the inventor of the process, Dr. Howard Mierzwiak (Wilkinson), to have Clementine removed from his own memory.  But as Joel's memories progressively disappear, he beginsJoel (Carrey) is stunned to discover that his girlfriend Clementine (Winslet) has had her memories of their tumultuous relationship erased.  Out of desperation, he contacts the inventor of the process, Dr. Howard Mierzwiak (Wilkinson), to have Clementine removed from his own memory.  But as Joel's memories progressively disappear, he begins to rediscover his love for Clementine.  (Focus Features)\u2026 Expand",
+    "critic_reviews": [
+        "Not only (Kaufman's) most accessible and romantic screenplay, it's his most complete. The third act works like a charm and pulls all his themes, characters and conflicts together beautifully.",
+        "A wildly imaginative, hugely entertaining tour de force that asks big questions about life and love and fate while never ceasing to fully engage the viewer.",
+        "Watching Eternal Sunshine, you don't just watch a love story -- you fall in love with what love really is.",
+        "A thoughtful, audacious meditation on love and relationships that finds a group of wildly disparate talents clicking together in perfect unison.",
+        "It's a trippy but tender examination of human emotions, relationships, all-consuming love.",
+        "A complicated story that demands your full attention; Mr. Gondry unfolds it at a mind-bending pace. This alone makes it a hugely refreshing respite from ordinary multiplex fare.",
+        "Feels like something entirely brand-new; such are the gifts of Kaufman and Gondry, inventors and magicians.",
+        "A delightful little wormhole that takes us on a journey to another dimension of consciousness.",
+        "Audacious, thought-provoking and ruefully funny.",
+        "This is the best movie I've seen in a decade. For once it's no hyperbole to say, \"Unforgettable!\"",
+        "A masterpiece? Probably.  Ingenious? Absolutely!  Unforgettable? I'll see you at the 10th-year anniversary.",
+        "A Chayefsky movie isn't hard to identify, but I think it's safe to say that these days a Charlie Kaufman movie is even more recognizable.",
+        "Fresh, heartfelt and ultimately heartbreaking in its honest portrayal of a modern relationship.",
+        "Gondry's virtuosity lifts the film far past science fiction into cinematic efflorescence. He shows us, more seductively than other directors have done, how freehand use of film can capture the flashes in our minds that slip between words.",
+        "Adventuresome, melancholy and exhilarating.",
+        "If films about coping with memory loss and/or reverse-order storytelling now constitute a mini-genre, then Eternal Sunshine of the Spotless Mind is arguably the best of the lot.",
+        "Kaufman may be counting on the audience's will, insistence and yearning to create a coherent love story from the shards and shrapnel he provides us.",
+        "It's a baroque and intermittently brilliant brain twister so convoluted that it inevitably deposits the viewer in an alternate universe.",
+        "A surprisingly bittersweet love story at heart, Eternal Sunshine values the sum of experience, which in this case means a thorns-and-all openness to romantic possibilities.",
+        "A memory play and a sleight of hand, Eternal Sunshine is more than anything else deeply sincere. Like Spike Jonze, who directed \"Adaptation\" and \"Being John Malkovich,\" Gondry succeeds principally by balancing Kaufman's churning skepticism with unflinching hope.",
+        "Neither wholly cynical nor wholly romantic, Kaufman's story is a balance of smarts and sentiment. It's the most fully realized working out of his two favorite obsessions: the subjective nature of experience and the psychological mysteries of pair bonding.",
+        "Ingenious, exhilarating, funny and profound.",
+        "Chases so many ideas that it threatens to spin out of control. But with our multiplexes stuffed with toxic Hollywood formula, it's a gift to find a ballsy movie that thinks it can do anything, and damn near does.",
+        "This is unlike any other film I have seen... it's a great romance. It's willingness to flout conventions and eschew formulas is just one of many things to celebrate about this charmingly eccentric movie.",
+        "Despite jumping through the deliberately disorienting hoops of its story, Eternal Sunshine has an emotional center, and that's what makes it work.",
+        "It is by turns comic, dark and surprisingly tender. If one must reduce it to simple description, call it a love story with a twist. Or a twisted love story.",
+        "For most of Eternal Sunshine, I found myself fighting off Gondry's hyperactive intrusions in order to get at the melancholia at its core. Fortunately, the idea behind this movie is so richly suggestive that it carries you past Gondry's image clutter.",
+        "For once, Carrey is more than merely tolerable. He's actually good, and the film that ebbs and flows around him is something you won't soon forget.",
+        "Not particularly funny, or even very sunny, but it is Charlie Kaufman\u2019s first whole screenplay, and as wonderful as it is weird.",
+        "Always engaging, never boring. You constantly appreciate Kaufman's intelligence and Gondry's lively filmmaking.",
+        "For all the silliness, Kaufman is posing a serious question: Are we better off forgetting things that brought us pain, especially if we didn't change or grow as a result? You may not agree with his conclusion, but who else in Hollywood would pose this query at all, or explore it in such a daffy, gratifyingly inventive way?",
+        "You'll be rewarded with a terrific finale. The twists here are the rare sort that seem both narratively surprising and emotionally engaging.",
+        "The thinking is shallow. The emotions are tepid. But the creativity is dazzling. If that sounds like a slam, consider that most Hollywood screenplays are predictable, rote and functional -- and those are the good ones, folks.",
+        "While it's flawed and often tedious, Kaufman's script is, on the whole, boldly imaginative and enjoyably challenging.",
+        "This is the art-film Carrey: repressed, lovesick, unshaven. Essentially he's doing the same intellectual sad sack played by John Cusack in \"Malkovich\" and Nicolas Cage in \"Adaptation\"",
+        "So daring, well-made and tirelessly inventive that I kept asking myself, \u201cWhy isn't this even better? Why isn't it moving me?\u201d One huge problem is the hero... he's played by 42-year-old Jim Carrey, whose still-bottomless need to be loved invariably smacks of desperation and self-pity.",
+        "This angular and intelligent romantic comedy isn't entirely consistent. Even as you laugh, it's a movie you admire more than love.",
+        "Represents a failure of nerve: As if Gondry and Kaufman weren't sure that the story of Joel and Clementine would hold us, the doomed couple's unfolding-in-reverse romance is intercut with a subplot filled with zany touches.",
+        "Wants to be a bittersweet comedy about erotic loss and memory loss. But it doesn't have the heart or brain."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "This movie was amazing! I loved the characters and I thought it was a refreshing change of romantic comedy.  It really toughed base with the meaning behind a thoughtful relationship between one really odd couple. This movie really doesThis movie was amazing! I loved the characters and I thought it was a refreshing change of romantic comedy.  It really toughed base with the meaning behind a thoughtful relationship between one really odd couple. This movie really does express the meaning behind two opposites attract.",
+            "review_date": "2013-10-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was the most powerful film in my entire life that really made me to have its dreams in nights and was a brilliant idea for more directors. HUMAN MIND... watching 1 time is really unfair.",
+            "review_date": "2008-02-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I had a chance to see this movie again in 2008 for only the second time. I saw it in the theater when it premiered 4 years earlier. What a piece of art! This movie goes deep into the heart of romantic love. It's not a love story, I had a chance to see this movie again in 2008 for only the second time. I saw it in the theater when it premiered 4 years earlier. What a piece of art! This movie goes deep into the heart of romantic love. It's not a love story, it's an internal examination of what love does to your mind. It's painful to watch at times because it dissects what most of us try to repress most of the time. But, if for just one moment, you allow yourself to \"get into\" this movie, you will have a deeper experience than you've ever had while viewing movie. Darwinian thought (as well as just about any religious thought) tells us that procreation is perhaps the most important of our human functions. Romantic love leads us in that venture and this movie delves into the most sensitive areas of that process. This film could have easily felt pseudointellectual had it not been for the way the film was shot. It looks like it was filmed inside someone's head - clausterphobic, impressionistic, etc. - all in the right balance.",
+            "review_date": "2008-03-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A perfect concept wrapped around great performances.  Kate Winslet, as usual, is spectacular.  Anybody who has been in a relationship full of hills and valleys will appreciate this movie and shed a tear or two by the end.  A movie to be filedA perfect concept wrapped around great performances.  Kate Winslet, as usual, is spectacular.  Anybody who has been in a relationship full of hills and valleys will appreciate this movie and shed a tear or two by the end.  A movie to be filed under \"original and thought provoking\".",
+            "review_date": "2011-02-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There are those movies that provide you with two hours of mind-numbing entertainment, and then there are those movies that can change your view on life and human emotions while still providing you with two hours of entertainment. This movieThere are those movies that provide you with two hours of mind-numbing entertainment, and then there are those movies that can change your view on life and human emotions while still providing you with two hours of entertainment. This movie belongs to the latter category.",
+            "review_date": "2011-04-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one of my favorite movies without a doubt.  I never tire of watching it.  Jim Carrey and Kate Winslet are absolutely terrific together and I cry every time I see it.  There is very little wrong with the film.",
+            "review_date": "2011-05-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Easily, 2004's best film. Charlie Kaufman delivers us his best script yet, Kate Winslet's amazing acting is probably the biggest highlight of the movie and surprisingly Jim Carrey's acting is not that horrible.although the film is pureEasily, 2004's best film. Charlie Kaufman delivers us his best script yet, Kate Winslet's amazing acting is probably the biggest highlight of the movie and surprisingly Jim Carrey's acting is not that horrible.although the film is pure beauty it seems rather cheap for a 20,000,000$ movie.",
+            "review_date": "2011-05-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is wondrously creative, entertaining, clever and thought-provoking. It's based on an interesting premise, it's artistically shot and edited, and the story is told in an ingeniously innovative way. But this isn't half the reason it'sThis film is wondrously creative, entertaining, clever and thought-provoking. It's based on an interesting premise, it's artistically shot and edited, and the story is told in an ingeniously innovative way. But this isn't half the reason it's so good. At it's heart, it's a brilliantly acted bittersweet love story that avoids all cliches, feels uncannily real and ultimately engages the viewer emotionally on so many levels (which is rare for a Kaufman film, despite the guy's obvious artistic talent). I know a lot of people don't like Jim Carrey that much because he's been in a lot of rubbish stuff, but the guy can certainly act when given the opportunity, and Kate Winslet is simply brilliant. Together they make a wondrously believable couple that I've never stopped to question for an instant. Overall, one of my favorite all time films and an amazing cinematic achievement. Don't miss out on this!",
+            "review_date": "2011-06-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Please do not be scared of this film by those ignorant reviews saying that this film is \"too artsy\" or \"to complicated\". That is absolute bulls**t. This is one of the best films I've ever seen so I strongly advise everyone to watch it.",
+            "review_date": "2012-01-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This was just a delight. It was clever, it was original and it was downright emotional on so many levels that that  have made this a timeless classic.\rEternal Sunshine tells the story of socially awkward Joel (Jim Carrey), who is detachedThis was just a delight. It was clever, it was original and it was downright emotional on so many levels that that  have made this a timeless classic.\rEternal Sunshine tells the story of socially awkward Joel (Jim Carrey), who is detached from his surroundings and everything going on around him, until he meets Clementine (Kate Winslet), a confrontational and free spirited woman who he immediately hits if off with, simply because their worlds couldn't be further apart.\rThe film is told in a very much non-linear fashion, and this is set up through the apparent break-up of the happy couple, Joel soon learns that Clementine has forgotten who Joel is, she did this through getting her memory of him erased by Lacuna, a company which deals in this.\rJoel eventually decides to do the same thing and is told the process is done while he sleeps.\rWhat follows is the true shining moment of the film, as Joel visits happier times with Clementine, to which we soon realise all is not as it seems.\rThe supporting cast includes Mark Ruffalo and Elijah Wood as technicians who carry out the erase part, Kirsten Dunst as the Lacuna receptionist and Tom Wilkinson as the Lacuna doctor, Howard Mierzwiak.\rThese characters, however, hold their own unique secrets and revelations that truly create a wonderful piece of cinema.\rJim Carrey and Kate Winslet are simply fantastic as Joel and Clementine and it was wonderful to see these two step out of their comfort zone, Carrey the awkward and unfunny man, and Winslet the free and crude woman. The messages which are put across heighten the beauty and dramatic context of the film that never lets go of the wheel.\rThe pace of the story may leave some confused, but this is where the film truly becomes unique, there are so many elements of surprise and so many heart wrenching moments that succeed in creating a truly unique masterpiece, full of colourful scenes and artistic filmmaking that push the film further than many other love stories.\rIts not surprising for many to say that this is one of their favourite films, there is enough drama to last a lifetime and enough talent to surpass your expectations in this flawless gem.",
+            "review_date": "2013-03-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Marvellous! Jim carrey proves us than he can be more than a clown. The plot is creative. I can't believe that we were waiting for something as awful as 'the green lantern'' from Gondry afterward, such a waste of talent.",
+            "review_date": "2012-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There are so few perfect movies.  This is one of them.  One of my all time favorite movies.  So funny yet intelligent and romantic.  It gets better every time you watch it.",
+            "review_date": "2013-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is by far the best movie of 2004, and one of the greatest films of all-time. Jim Carrey and Kate Wislet share a magnetic bond that evolves way past the usual chemistry in movies. They are absolutely amazing, and they were both robbed of This is by far the best movie of 2004, and one of the greatest films of all-time. Jim Carrey and Kate Wislet share a magnetic bond that evolves way past the usual chemistry in movies. They are absolutely amazing, and they were both robbed of should-be Oscars. (especially Carrey, who wasn't even nominated) This film will forever be remembered as one of the films considered a true classic from the new era of 2000 and on. Brilliant.",
+            "review_date": "2005-10-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Probably the most accurate, brutally honest dissection of what it is to be in love ever put to film. The concept behind the film may sound gimmicky, but it really is implemented brilliantly. A masterwork for all involved.",
+            "review_date": "2006-12-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is a heartbreaker. Probably the most beautiful movie I've ever seen. Fantastic acting. Interesting story. Great soundtrack. If it doesn't move you, then you've never been in love.",
+            "review_date": "2006-12-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just spellbinding. It's a while to build up and the wait is worth every second. Michel Gondry's direction is on top-form and brilliantly accompanied with a beautiful score and a precise screenplay. The story seems to go off astray but forJust spellbinding. It's a while to build up and the wait is worth every second. Michel Gondry's direction is on top-form and brilliantly accompanied with a beautiful score and a precise screenplay. The story seems to go off astray but for some reason, that's one of its best qualities. Jim Carrey is at his best since The Truman Show and thoroughly gives a performance that will be remembered for years. But the carpet from under his feet is Kate Winslet who delivers yet another monumental performance. This is my favourite role she's played because she played someone modern and she was funny at times. PLEASE, more Kate Winslet comedies. I rather liked Kirsten Dunst as the quirky receptionist who quotes Alexander Pope but underneath lies a secret unbeknownst to her. This is probably the best film of 2004 and one of my favourite films of all time.",
+            "review_date": "2010-10-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Did you ever fall in love so deeply and then you just broke up with her/him? That is the feeling you got from watching thiz film. The feeling about how you fall in love with her, and later you realize that time would never come back again.Did you ever fall in love so deeply and then you just broke up with her/him? That is the feeling you got from watching thiz film. The feeling about how you fall in love with her, and later you realize that time would never come back again. Starred by Jim Carrey, Kate Winslet, Mark Rufallo, and Kirsten Dunst. Directed by French Director, Michel Gondry. Gondry is one of the directors who always brings  some absurd stories as his features (such as: THE SCIENCE OF SLEEP (2006), that also I like very much). The story is about how you dreams your past and you can actually feel it as just happens at the present time. Sometimes it happens based on what you remember. Thiz is interesting  part, in one of the scene, the two characters (Carrey and Winslet) had interaction with each other but they surrounded by people who had plain/blank face, coz the Carey character don not remember how the people look like, so the scene describes it people with plain/blank face. Director was so lucky to got Carey and Winslet in appropriate time, Carey just desperately wants some serious drama beside his role always known as comedian, and Winslet wants to prove her truly acting skill after TITANIC (1997). Thiz Movie maybe not contains an extraordinary storyline, but can effectively reflects very well the description about how the event occurred.\r Visit My Blog on JONNY'S MOVEE : http://jonnyfendi.blogspot.com",
+            "review_date": "2011-01-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Eternal Sunshine Of The Spotless Mind\", blessed with director Michel Gondry's innovative creativity and vision, is a sad, sentimental, but a beautiful film as with excellent performances from Jim Carrey and Kate Winslet does the movie dive\"Eternal Sunshine Of The Spotless Mind\", blessed with director Michel Gondry's innovative creativity and vision, is a sad, sentimental, but a beautiful film as with excellent performances from Jim Carrey and Kate Winslet does the movie dive into memory, heartbreaking break-ups, and the ever-prevailing ultimacy of love for those who are troubled with and wanting to get the good memories with each other erased and move on.",
+            "review_date": "2015-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There is no way anyone could deny just how unique, clever, and original this movie is. The story and the characters are just so fresh, and while I don't think the movie is as ingenious as everyone proclaims, it is certainly a fine piece of cinema.",
+            "review_date": "2013-02-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Eternal sunshine of the spotless mind is a story about a couple who obviously don't get well with each other and so the women goes to a doctor who can erase her memories of the men. When the men learns about that he wants to do it too. It isEternal sunshine of the spotless mind is a story about a couple who obviously don't get well with each other and so the women goes to a doctor who can erase her memories of the men. When the men learns about that he wants to do it too. It is an interesting idea but in the beginning the film is too complicated, strange  rare and hard to understand which will confuse many people. Jim Carrey and Kate Winslet were amazing and that surprised me as I am used to see Jim Carrey only in comedies. The cinematography is amazing as well as the direction of that film but it is a little bit confusing which is something I really didn't like. Yes it it touching and passes the message that we have to give a second chance to some people. But it is still over complicated for the kind of these films yet it is a new idea.",
+            "review_date": "2013-08-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An imaginative and unique work of art. This films cast delivers their comedic dialogue perfectly, along with stunning imagery and visuals, phenomenal acting, touching and heartbreaking moments, a breathtaking soundtrack, and a masterfulAn imaginative and unique work of art. This films cast delivers their comedic dialogue perfectly, along with stunning imagery and visuals, phenomenal acting, touching and heartbreaking moments, a breathtaking soundtrack, and a masterful script. With its unclear ending and its \"easter eggs\" that you find throughout the film, \"Eternal Sunshine\" has you asking questions and coming to conclusions the likes of which may go forever unanswered. The abundance of melancholy in the air just makes the movie so much better. The characters are some of the most personable and lovable characters I have seen since \"The Perks Of Being A Wallflower.\" Their personalities consist of many traits that are noticeable, but one of those traits is over exaggerated to the point of making seem like caricatures, which makes their problems seem so much more important, making them so much more relatable, making them seem like long lost family members, which makes their emotions just so important to you. Emotional preparation is mandatory before watching this film. There are some scenes that just break your heart, it's just called good filmmaking. This beautiful film has put it's mark on cinema forever and will be always known as an instant classic. Its a masterpiece.",
+            "review_date": "2013-09-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Possibly the greatest romance movie ever. Incredibly touching, with a well thought out plot. This movie makes you think, It makes you relate, even if you don't want to. Jim Carrey and Kate Winslet put on a performance that is outstanding, youPossibly the greatest romance movie ever. Incredibly touching, with a well thought out plot. This movie makes you think, It makes you relate, even if you don't want to. Jim Carrey and Kate Winslet put on a performance that is outstanding, you don't even question their mismatched relationship because its so authentic. A must see movie for everyone.",
+            "review_date": "2013-10-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Eternal Sunshine of the Spotless Mind shows all of us that even Jim Carrey could need a little more starring to it. Regardless because this is one of those drama/romanace stuff and somehow Jim Carrey turned some of the scenes to a magicalEternal Sunshine of the Spotless Mind shows all of us that even Jim Carrey could need a little more starring to it. Regardless because this is one of those drama/romanace stuff and somehow Jim Carrey turned some of the scenes to a magical work of comedy.",
+            "review_date": "2016-08-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Would you delete the memory of someone, that you loved and was happy with, because your relationship ended and it seems you won't spend your life together as you imagined at first? A movie, that you can not fully understand and unravel from aWould you delete the memory of someone, that you loved and was happy with, because your relationship ended and it seems you won't spend your life together as you imagined at first? A movie, that you can not fully understand and unravel from a first watch. Simply brilliant! :)",
+            "review_date": "2018-02-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Perfect and TOUCHING. One of my most favorite movies ever. The message is incredible! Never gets old for me and something new is uncovered to me every time I watch it. The soundtrack is absolutely beautiful too! I've watched this Perfect and TOUCHING. One of my most favorite movies ever. The message is incredible! Never gets old for me and something new is uncovered to me every time I watch it. The soundtrack is absolutely beautiful too! I've watched this probably 10 times, and I'll watch it the next time it comes on too.",
+            "review_date": "2008-02-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is the perfect love movie. In every way it is perfect and clever. And I generally hate love movies, but twisting the genre into this is just a majestetic achievement. It's crazy, sad, beautiful, funny and full of love; what every This is the perfect love movie. In every way it is perfect and clever. And I generally hate love movies, but twisting the genre into this is just a majestetic achievement. It's crazy, sad, beautiful, funny and full of love; what every love movie wants to be, but only \"Eternal Sunshine Of The Spotless Mind\" is.",
+            "review_date": "2009-01-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Eternal Sunshine of the Spotless Mind is a heartfelt, funny, emotionally powerful, original, heartbreaking, piece of art. It features great performances from Winslet and Carrey, and offers a nice, sweet, fresh, twist on a regular romanticEternal Sunshine of the Spotless Mind is a heartfelt, funny, emotionally powerful, original, heartbreaking, piece of art. It features great performances from Winslet and Carrey, and offers a nice, sweet, fresh, twist on a regular romantic comedy. I give this movie 96%.",
+            "review_date": "2012-06-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This may be my favorite film ever. Perfect casting, perfect direction, perfect writing. Clementine: My crotch is still here, just as you remembered it. Joel: Yuck!",
+            "review_date": "2008-02-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is one of the best movie I have ever seen in my life. and in any way is not Analogous with \"being john Malkovich\" and any other memory and Mind and Remembrance movies. Thanks for your rating.",
+            "review_date": "2008-01-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Perfect. Favourite movie of all time. Showing a deeper and brilliant side to Jim Carrey that is lost with most of his hollywood comedies. Kate Winslet played the eccentric and irrational role of Clementine amazingly. Clever and thoughtful.",
+            "review_date": "2011-08-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The concept for Eternal Sunshine is simply incredible. Unfortunately, the narrative isn't. The love story should feel genuine, but it never gets fully fleshed out due to subplots that constantly get in the way of Joel's (Jim Carrey) storyThe concept for Eternal Sunshine is simply incredible. Unfortunately, the narrative isn't. The love story should feel genuine, but it never gets fully fleshed out due to subplots that constantly get in the way of Joel's (Jim Carrey) story arc. However, with strong performances from all cast members, interesting visuals and a great soundtrack, Eternal Sunshine of the Spotless Mind is worth a watch, at the very least.",
+            "review_date": "2011-04-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of my least favorite movies ever. The message is stupid. Watching it once was painful enough. All the actors should kiss their careers goodbye. I hated everything about it.",
+            "review_date": "2013-06-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "yes it was a very different and artsy and yes i does have a fairly important message at the end which is rather hackneyed but still even if i concede all that it still isn't a good movie, because a good movie entertains and this never yes it was a very different and artsy and yes i does have a fairly important message at the end which is rather hackneyed but still even if i concede all that it still isn't a good movie, because a good movie entertains and this never really entertained me. I never wondered what happened in the beginning, and when i found out it was anti-climactic even though i didn't care.",
+            "review_date": "2008-01-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Only saw it last week... had been on my to watch list for too long. Very impressed though.",
+            "review_date": "2005-09-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My current favorite film. An intriguing story about relationship, the good and the bad. All those reviews in here that \"didn't get it\" or hated it, you're entitled to your opininions, but I'm sorry for you that you missed out My current favorite film. An intriguing story about relationship, the good and the bad. All those reviews in here that \"didn't get it\" or hated it, you're entitled to your opininions, but I'm sorry for you that you missed out on a great movie.",
+            "review_date": "2006-06-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Another classic of our time. There has never been another like it, nor will there ever be again. The elements conspire on this one to create something that leaves you not entirely sure what kind of movie you just watched- and loving it. Yes, Another classic of our time. There has never been another like it, nor will there ever be again. The elements conspire on this one to create something that leaves you not entirely sure what kind of movie you just watched- and loving it. Yes, it's funny, but never slapstick. Yes, it's dramatic, but it never goes Deep End of the Ocean. Yes, there are fantasy elements aplenty, but somehow it feels natural, as if the events just fit within the world of the film. There's even a mystery element, leaving you slightly confused until ut all comes together at the end. It has a slightly Donnie Darko-like quality in this way- somehow it feels like somewhere you missed something, and you have the urge to rewind and see what it was. Once all the threads are tied up, you're left with an \"aaahh\" sense of completetion. Complex characters, never dismissing development to focus on the more quirky elements of the film, never letting you get lazy as a viewer. No one character is a runaway favorite as each is flawed in the way they are supposed to be. One of the few movies that pulls off the darker, more morbid aspect without laying it on too thick. Outshines it's \"cousin\", Being John Malkovich, by a mile. My only critisism is possibly cramming just a leetle too much in there. Not enough to forfeit a point, though.",
+            "review_date": "2006-07-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Quite possibly one of the finest films ever made. Heart-wrenching and sweet all in one. I watch this DVD at least once a week and it never gets old. Considering my hatred of Jim Carrey, this is a remarkable and surprising use of his talent.",
+            "review_date": "2007-10-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Typically confusing, but sadly enjoyable. It really is a confusing movie but the vibe that it gives off...its very unique. Its not bad, but after rewatching another time, its not THAT comfortable. The way i recommend anybody watching it is: Typically confusing, but sadly enjoyable. It really is a confusing movie but the vibe that it gives off...its very unique. Its not bad, but after rewatching another time, its not THAT comfortable. The way i recommend anybody watching it is: watch it late at night, peacefully, relaxing and let the take you in",
+            "review_date": "2007-08-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beautiful and touching. Very creative.",
+            "review_date": "2007-09-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "To bad there are only fiew of such films.. The abstractism should predominate into more movies, because there are less people who understand them, but they could understand more, why not?",
+            "review_date": "2010-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Boring is the main word. So much \"why should I care\" moments and \"Oh my God when is the ending coming\" times as well. Another of the thousand times when Hollywood tries to impress us with \"art\" instead of entertainment. Movies that are worse Boring is the main word. So much \"why should I care\" moments and \"Oh my God when is the ending coming\" times as well. Another of the thousand times when Hollywood tries to impress us with \"art\" instead of entertainment. Movies that are worse than this are anything made by Wes Anderson.",
+            "review_date": "2008-09-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wow did this movie suck. I walked in thinking it would be the cinematic experience of my life from all the great reviews I read. Guess what? IT SUCKS!!!! I felt absolutely nothing for the characters. I wanted them all to forget each other so Wow did this movie suck. I walked in thinking it would be the cinematic experience of my life from all the great reviews I read. Guess what? IT SUCKS!!!! I felt absolutely nothing for the characters. I wanted them all to forget each other so they movie would END! Carrey, Carrey, Carrey, when are you going to learn that you cannot act at all. Go back to comedy and make us all happy. All the other performances felt forced and fake. Whoever tells you this movie is complex is a totaly dumba$$. I figured it out just by seeing the trailer and the commercials. DON'T SEE THIS AT ANY COST.",
+            "review_date": "2004-03-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Simply...the second worse film I have ever seen. How is it possible so many people love this film?!?!",
+            "review_date": "2005-09-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When I first saw Eternal Sunshine of the Spotless Mind, I wasn't expecting to love it, let alone like it. What a surprise when I saw it! I think this film is wonderful in every aspect, truly beautiful and packs a full emotional punch. InWhen I first saw Eternal Sunshine of the Spotless Mind, I wasn't expecting to love it, let alone like it. What a surprise when I saw it! I think this film is wonderful in every aspect, truly beautiful and packs a full emotional punch. In fact, if you don't mind me saying so, it is one of my favourite films of the 2000s.I especially loved how Eternal Sunshine of the Spotless Mind was shot. The whole film looks beautiful, not only with the cinematography which is indeed spellbinding but also in the scenery which was nothing short of amazing. Another impressive asset was the soundtrack/score. Eternal Sunshine of the Spotless Mind doesn't have the best soundtrack/score I have ever heard in my life, but the score makes the film all the more moving, while the soundtrack is well selected and appropriate.I was also very taken with the story. Eternal Sunshine of the Spotless Mind has one beautifully constructed story I can tell you, with an almost poignant message about it. It is strange and bizarre yes, but neither of those are bad, quite the contrary. Then there is the script which is both poignant and funny, not to mention very deep. The pacing very rarely feels boring if at all, and the direction is adept.I have very little to complain about Eternal Sunshine of the Spotless Mind's performances either. As good as the supporting performances are especially from the always splendid Tom Wilkinson, I have to give the real kudos to the leads. Jim Carrey has done some good performances in some good films, The Mask, Liar Liar, The Cable Guy and Bruce Almighty showcase his comedy talents wonderfully, but this and The Truman Show show he is perfectly good at drama too. He is very understated here, but it works as he still manages to be likable all the same. The real star though is Kate Winslet. A beautiful and captivating actress, Winslet is absolutely perfect in her role.Overall, wonderful film. Bizarre yes, but very tender and poignant helped by the exceptional performances and cinematography. 10/10 Bethany Cox",
+            "review_date": "2022-04-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie itself was fine, although I do have trouble with a director reusing the same scenes multiple times in a movie, it comes off as laziness. There is not much to get, it seems as though the people who say, \"Did you get it?\" were also The movie itself was fine, although I do have trouble with a director reusing the same scenes multiple times in a movie, it comes off as laziness. There is not much to get, it seems as though the people who say, \"Did you get it?\" were also overly enthralled by the Butterfly Effect and find fascination in the Gilmore Girls and One Tree Hill. The movie pulls off its premise, but does not providing a \"WOW\" factor by any means; the only saving grace is Jim Carrey doing what he does best in a quickly moving montage of acting as different characters from his past. Save yourself the time, go see Man in the Moon instead.",
+            "review_date": "2007-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In a word: breathtaking. I realize that the unconventional means of storytelling employed in this film won't be everybody's cup of tea; many viewers don't want to have to think too much or feel too much when watching a movie. In a word: breathtaking. I realize that the unconventional means of storytelling employed in this film won't be everybody's cup of tea; many viewers don't want to have to think too much or feel too much when watching a movie. But this is an extraordinary film, and it deserves the fulll investment of attention and emotional engagement that it demands. Despite the arty cinematic methods used by Gondry (which will either astound you or irritate you, depending on your tastes), there is nothing highbrow or inaccessible about the story's message: love is worth experiencing, even when it's difficult or painful or imperfect. And love - and our lovers - can never be removed from our psyches, no mater how much we may sometimes wish it all could be. Beautifully acted (Jim Carrey is better than I would have ever expected him to be, and Kate Winslet equals him in every way), imaginatively directed, exquisitely written, and boldly designed and shot. This film is a challenge, but those who rise to it will be richly rewarded. Truly awesome.",
+            "review_date": "2006-02-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My favorite movie of all time. not much else to say except it is amazingly insightful and touching.",
+            "review_date": "2007-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An absolutely riveting love story, that Gondry and Kauffman don't make a sappy mess out of.",
+            "review_date": "2009-10-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "People criticise it for being confusing, okay think you kind of missed the point, it does not make them think and they are not entertained... okay you can not help who you fall in love with and it is better to remember to have loved and lost People criticise it for being confusing, okay think you kind of missed the point, it does not make them think and they are not entertained... okay you can not help who you fall in love with and it is better to remember to have loved and lost than not at all. the film is entertaining and romantic and something different and beautiful. this film lies in my top ten of all films, Jim Carrey should have got an Oscar nomination. The film should have bagged director and technology nominations. the best of the past 10 years, difficult to say with some good ones but definately in the top 5. See it and enjoy and get taken to a side of cinema which we love and are surprised how vivid some directors and writers can be.",
+            "review_date": "2009-07-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Best movie I've seen in a while, I laughed, I cried, pretty good acting for the most part. The plot isn't too difficult to figure out, but the camera work, the script, and the emotions and thoughts that the film get at are all very Best movie I've seen in a while, I laughed, I cried, pretty good acting for the most part. The plot isn't too difficult to figure out, but the camera work, the script, and the emotions and thoughts that the film get at are all very refreshing and touching. Some off the subplots are a little bit tedious, but overall an excellent movie.",
+            "review_date": "2004-03-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Watched it on TV - so was not planned. The movie was confusingly interesting. It takes the viewer to another plane and makes u look at things very differently - so differntly that even Friends serial seemed to be intriguing and Watched it on TV - so was not planned. The movie was confusingly interesting. It takes the viewer to another plane and makes u look at things very differently - so differntly that even Friends serial seemed to be intriguing and 'confusing'! Couldnt get out of the movie frame for quite some time.",
+            "review_date": "2005-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An excellent movie, but left me unfulfilled. Something seemed empty in my heart as I walked away from it.",
+            "review_date": "2005-10-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Guess what? I get it. And it's WAY OVERRATED.",
+            "review_date": "2006-10-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best movies I have ever seen. Jim Carey is superb in this film and Kate Winslet does a great job as well. Anyone who has not seen this movie already should see it ASAP. It will change your life.",
+            "review_date": "2006-01-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If it's not the best movie of the 2004 it's one of the top 10 movies of that year, the best romantic comedy i'm sure...",
+            "review_date": "2006-01-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "THis is one of the most imaginative films ever created and its a shame that Kate Winslet didn't win an Academy Award for her role in the movie.",
+            "review_date": "2006-02-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "won't be good for everyone but it sure is a great movie to me. Incredibly original storyline, superb editing job, and by far the best acting of 2004. The ending is really odd, but next to the Passion of the Christ, best movie of the year!",
+            "review_date": "2006-04-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a really really good film. Unfortunately, I'm not surprised that so many people don't get it. The only complaint I have is that it didn't make me feel incredibly emotionally attached to the main characters, but This is a really really good film. Unfortunately, I'm not surprised that so many people don't get it. The only complaint I have is that it didn't make me feel incredibly emotionally attached to the main characters, but brilliant writing, directing, editting, score, and overall execution.",
+            "review_date": "2006-06-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There has never been, and probably never will, be anything like this movie. I loved seeing this movie, and loved seeing this movie again. Kate Winslet is spot-on in this movie, and near perfect. Jim Carrey does his best work, and the There has never been, and probably never will, be anything like this movie. I loved seeing this movie, and loved seeing this movie again. Kate Winslet is spot-on in this movie, and near perfect. Jim Carrey does his best work, and the ensemble is amazing. I don't like to give 10/10's but I give this one a 10/10 in a heartbeat.",
+            "review_date": "2006-08-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One Of The Best Movies Ever Made. Nothing More To Say Here.",
+            "review_date": "2007-11-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Its probably the best film of 2004, it reminds me what it's like to be in love and iI'm only 15, especially in the scenes where Winslet & Jim interact when they're not arguing. I love the pace and plot movement, and the music Its probably the best film of 2004, it reminds me what it's like to be in love and iI'm only 15, especially in the scenes where Winslet & Jim interact when they're not arguing. I love the pace and plot movement, and the music is great too.",
+            "review_date": "2007-05-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What is this film? A bleak parable of the emptiness of modern life? A ballad for the broken-hearted? A bold thought-experiment on the nature of consciousness? An uplifting demonstration of the power of love, of forgiving and of the power of What is this film? A bleak parable of the emptiness of modern life? A ballad for the broken-hearted? A bold thought-experiment on the nature of consciousness? An uplifting demonstration of the power of love, of forgiving and of the power of belief to change events? At this point I do not know the answer but this feels like a movie that I will be going back to in order try to understand more.",
+            "review_date": "2007-09-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Flawless.",
+            "review_date": "2008-03-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An amazing and entirely warped epic that pushes the boundaries of memory, love, and life.",
+            "review_date": "2008-07-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is possibly the most thought-provoking and worthwhile movie I have ever seen.",
+            "review_date": "2008-08-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just watched the movie, I'm speechless. Just know this, one of the best movie I've ever seen.",
+            "review_date": "2009-11-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Genius. I would give it a 9.5 if I had the option.",
+            "review_date": "2009-01-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Blessed are the forgetful, for they get the better even of their blunders.\" \"How happy is the blameless vestal's lot? \"The world forgetting, by the world forgot. \"Eternal sunshine of the spotless mind. Each prayer accepted and each \"Blessed are the forgetful, for they get the better even of their blunders.\" \"How happy is the blameless vestal's lot? \"The world forgetting, by the world forgot. \"Eternal sunshine of the spotless mind. Each prayer accepted and each wish resigned. \"",
+            "review_date": "2009-01-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In word of one syllable, it's incredible. How it implemented the idea of delete the things from patient's memories.",
+            "review_date": "2009-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There were times here and there where the story becomes a bit too disorienting, and I thought Gondry could've been slightly more subtle about the imagery. However, as a whole, the movie shines. I was crying by the end of it.",
+            "review_date": "2009-07-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Extremely satisfying, makes viewer think, very unique. The movie incorporates several genres (sci-fi, psychological thriller, romance) seamlessly while delivering one of the most original and creative plots. The acting is magnificent too, Extremely satisfying, makes viewer think, very unique. The movie incorporates several genres (sci-fi, psychological thriller, romance) seamlessly while delivering one of the most original and creative plots. The acting is magnificent too, since none of them over act. The events feel like they could happen in real life too, so it is loosely relatable. There are no problems on the surface level. Below is different, since I can think of some problems others may face. The movie demands more from the audience than to sit and watch. It can be extremely complex at times, since it will not tell or show exactly what is going on. It leads the audience places but doesn't offer explanations. You don't feel like \"Oh, there's the plot! Now I know where the movie will be going!\". The audience is forced to think and draw conclusions throughout the movie (not everybody likes this). The movie also jumps around, with events going 3-1-2 instead of 1-2-3, so initially it can be quite confusing if you don't catch on. It also has a very challenging attitude to some people and can turn them off by being so secretive. I had no problems personally with Eternal Sunshine Of The Spotless Mind, but it could have bombed given how much it tries to do. Fortunately that doesn't happen though. While some may be put off, those who watch will experience a thought provking session like no other. This is the work of just plain good script, actors, and production all coming together.",
+            "review_date": "2005-11-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Blitterfish Cafe, Bernice M., please just stick to movies like The Waterboy and The Fast and the Furious and leave the intelligent, thougtful, well-written and well-acted movies to the people who actually have an IQ above 10. This is Jim Blitterfish Cafe, Bernice M., please just stick to movies like The Waterboy and The Fast and the Furious and leave the intelligent, thougtful, well-written and well-acted movies to the people who actually have an IQ above 10. This is Jim Carrey and Kate Winslet's finest work, the best movie of 2004, and one of the best romance films in the history of cinema. It offends intelligent people when you give a film of this calibre such a low score. Just stick to giving Charlie's Angels a ten and leave the good films to us.",
+            "review_date": "2005-09-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An original masterpiece. Kate Winslet is beyond fabulous. She IS Celmentine...eye candy in every sense of the idea. Different in every way. Just plain perfect.",
+            "review_date": "2007-03-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing by every stretch of the imagination. Probably both Carrey and Winslet's best work.",
+            "review_date": "2007-05-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This had a very good story but it was too long, seeing all the different memories just got tedious, and predictable. I didn't like the ending, although I understood it, i think if the middle was shortened and the ending was lengthened This had a very good story but it was too long, seeing all the different memories just got tedious, and predictable. I didn't like the ending, although I understood it, i think if the middle was shortened and the ending was lengthened it would've been better. Worth seeing but definitely not amazing.",
+            "review_date": "2007-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": ":S Empire magazine gave it 5 stars? So whats with the 80% and the \"it's not particularly funny\" comment huuuh? xD",
+            "review_date": "2008-12-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I haven't cried from a movie since i was like 6. During this i bawled lke a baby.",
+            "review_date": "2008-03-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Charles Kaufman is so creative, and won an Oscar for the script, (he also wrote Being John Malkovich), this SF/comedy is unique in the annals of romance films. Who would think of selective amnesia mixed with love and relationships? Loved Charles Kaufman is so creative, and won an Oscar for the script, (he also wrote Being John Malkovich), this SF/comedy is unique in the annals of romance films. Who would think of selective amnesia mixed with love and relationships? Loved Kate Winslet too, a different part for Jim Carrey as well, not to be missed",
+            "review_date": "2008-08-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great plot, great acting, but disappointing ending",
+            "review_date": "2009-02-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This one hits the spot.",
+            "review_date": "2005-12-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It seems like the movies I enjoy might not have the absolute best acting or plot, but are unique in a number of ways or make me think. This movie is no different. Not perfect, but a really good movie.",
+            "review_date": "2010-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Jim Carey is no Ace Ventura, he is a real and serious actor with enduring qualities. In Eternal Sunshine of The Spotless Mind he shows this in an abundance. The story is just as good as well. It has enough real emotion to keep you hooked andJim Carey is no Ace Ventura, he is a real and serious actor with enduring qualities. In Eternal Sunshine of The Spotless Mind he shows this in an abundance. The story is just as good as well. It has enough real emotion to keep you hooked and enough dreamy sequence to keep your mind ticking over long after you have finished. That nightmarish image of The Melting Face reminds us we must keep memory...for it's all we have. Cinema that would make God happy.",
+            "review_date": "2010-10-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "a truly unique way of saying that we love who we love, and there isn't much we can do about it. filmed very cleverly, giving the viewer a new experience of the human psyche. a beautiful piece of film, and jim carey is so much better when he'sa truly unique way of saying that we love who we love, and there isn't much we can do about it. filmed very cleverly, giving the viewer a new experience of the human psyche. a beautiful piece of film, and jim carey is so much better when he's not trying to be funny",
+            "review_date": "2010-08-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Everything gets tied up a little too nicely at the end; but that doesn\u2019t stop it from being a great film. This is not a typical story taking twists and turns that were unexpected and prevent the film from being generic. The romance betweenEverything gets tied up a little too nicely at the end; but that doesn\u2019t stop it from being a great film. This is not a typical story taking twists and turns that were unexpected and prevent the film from being generic. The romance between Joel and Clementine felt genuine and was something that I genuinely wanted for Joel. The same goes for the relationships of the other characters. The film is also well shot and directed helping to nicely illustrate Joel\u2019s dilemma. This is a great film that I would highly recommend just bring some tissues.",
+            "review_date": "2015-01-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie works on so many levels: love story, comedy, sci-fi, fantasy. It's one that I've watched several times and go something more out of it each time. It's surprising, and yet it all *makes sense*.",
+            "review_date": "2011-02-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Eternal Sunshine of the Spotless Mind is the best 'romantic' movie ever made. It's got genius writing, superb acting and deft directing. Despite it's sci-fi overtones, the movie feels incredibly authentic. It's heartbreaking and full ofEternal Sunshine of the Spotless Mind is the best 'romantic' movie ever made. It's got genius writing, superb acting and deft directing. Despite it's sci-fi overtones, the movie feels incredibly authentic. It's heartbreaking and full of redemptive catharsis. I don't really have the words to put across how moving and brilliant this film is. One of my favorites of all time.",
+            "review_date": "2012-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A beautiful, emotional, and completely enjoyable film on all levels. Jim Carrey will make you laugh like he always has. As a matter of fact, every member of the cast accomplishes this on some level, which is wonderful. But the film also has aA beautiful, emotional, and completely enjoyable film on all levels. Jim Carrey will make you laugh like he always has. As a matter of fact, every member of the cast accomplishes this on some level, which is wonderful. But the film also has a strong emotional heart. I won't say that I didn't see the ending coming from fairly early on, but that's ok, because I enjoyed getting to that ending anyway. Perhaps my favorite part is that they don't answer the question the characters propose at the ending. Because, in all honesty, nobody knows the answer.",
+            "review_date": "2011-04-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Having split with his girlfriend Joel discovers that she has had the memory of their relationship removed. In desperation he gets in contact with the inventor of the technology in order to have his own memories removed and help him move on.Having split with his girlfriend Joel discovers that she has had the memory of their relationship removed. In desperation he gets in contact with the inventor of the technology in order to have his own memories removed and help him move on.A love story told in reverse Eternal Sunshine is a clever and touching movie that\u2019ll really make audiences think about the nature of relationships and it\u2019s all anchored by excellent performances from Jim Carrey and, the always reliable, Kate Winslet. Recommended.",
+            "review_date": "2017-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An emotional film with important themes and a writer who has once again created a masterpiece. The film is a rejuvination of an exhausted genre. A funny thought provoking deeply sad RomCom. Jim Carrey's performance is also very memorableAn emotional film with important themes and a writer who has once again created a masterpiece. The film is a rejuvination of an exhausted genre. A funny thought provoking deeply sad RomCom. Jim Carrey's performance is also very memorable because of it's dramatic and comedic effect.",
+            "review_date": "2012-05-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Enchanting and emotionally-tapping comedy/drama that really made my top movies list.  Its story is also one that is...ironically realistic which is all the more touching.",
+            "review_date": "2011-08-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I like stories about memory manipulation, but the movie itself is B O R I N G. The concept is good but everything built around it is not.",
+            "review_date": "2019-04-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I cannot describe in words how amazing and beautiful this movie truly is. You have to see for yourself. A movie that I will come back to time and time again throughout my life.",
+            "review_date": "2012-04-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My favourtie movie of all time. Everything about it is brilliant. It never gets old no matter how many times you watch it. The order in which the stoy is done is remarkable and makes for a very captivating movie. The soundtrack is justMy favourtie movie of all time. Everything about it is brilliant. It never gets old no matter how many times you watch it. The order in which the stoy is done is remarkable and makes for a very captivating movie. The soundtrack is just magnificent. It is a truly unique story about love and loss. I've never seen anything quite like it or half as good.",
+            "review_date": "2012-01-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not just wonderfully acted, Carey easily gives the best performance of his career, but the story is so deep and powerful. The basis of said story is quite interesting as well. Would highly recommend this.",
+            "review_date": "2016-12-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just watched the movie like 20 minutes ago and its took me this long to figure out how good this movie really is. I dont know what to describe it as. So I will leave saying that you cant be narrow minded to watch this movie open your mind.Just watched the movie like 20 minutes ago and its took me this long to figure out how good this movie really is. I dont know what to describe it as. So I will leave saying that you cant be narrow minded to watch this movie open your mind. And then you will appreciate  the quality of the movie.",
+            "review_date": "2012-08-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Before this movie I hated Jim Carey, now I think he is fantastic. He is wonderful in this film. Honestly I can't fault this movie in any way, except that it created less tears than American Beauty did. The narrative is beautifully written,Before this movie I hated Jim Carey, now I think he is fantastic. He is wonderful in this film. Honestly I can't fault this movie in any way, except that it created less tears than American Beauty did. The narrative is beautifully written, and every performance is lovely. I love this film.",
+            "review_date": "2014-11-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An incredible blend of romance, comedy, science fiction, and drama, Eternal Sunshine of the Spotless Mind is an incredible film. Director and writer Charlie Kaufman continues to prove why he is one of the most talented people in HollywoodAn incredible blend of romance, comedy, science fiction, and drama, Eternal Sunshine of the Spotless Mind is an incredible film. Director and writer Charlie Kaufman continues to prove why he is one of the most talented people in Hollywood with this one as the direction and writing are both perfect. The entire cast is great, but especially Jim Carrey, Kate Winslet, and Kirsten Dunst. The cinematography and limited special effects here are also pitch perfect. A meditation on love and memory, Eternal Sunshine of the Spotless Mind is a film that sees a man learn he can erase the memory of a girl from his past and forget they ever had anything and after learning she has done the same to him, he opts to go for it, but quickly discovers that he does not want to go through it.\r *spoilers*\rOverall, Eternal Sunshine of the Spotless Mind argues that it is better to have loved and lost than to have never loved at all. Though love hurts and the end of it can leave you broken, the good memories and even the bad ones are part of who you are and, as such, are invaluable. If they just did not happen, you would lose a major piece of yourself. The nonlinear narrative of the story also poses an interesting question on the repeating nature of love and history as a whole. If we are unaware of it, we are doomed to repeat it. Finally, the film argues that though love may hurt and leave us with sad memories and \"scars\", it is ultimately worth it it, because of the good they can cause.\r*end spoilers*\r As a whole, those reasons and more are what make Eternal Sunshine of the Spotless Mind such a fantastic film and one that is sure to touch you in some way.",
+            "review_date": "2015-04-12",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 139
 }

@@ -1,14 +1,14 @@
 {
-  "title": "From Here to Eternity",
-  "rating": 7.9,
-  "release_date": "1953-08-28",
-  "genre": [
-    "Drama",
-    "Romance",
-    "War"
-  ],
-  "summary": "This 1953 classic portrays the loves, hopes and dreams of the soldiers in a close-knit Army barracks in Hawaii shortly before the attack on Pearl Harbor.",
-  "critic_reviews": [],
-  "reviews": [],
-  "num_reviews": 0
+    "title": "From Here to Eternity",
+    "rating": 7.9,
+    "release_date": "1953-08-28",
+    "genre": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "summary": "This 1953 classic portrays the loves, hopes and dreams of the soldiers in a close-knit Army barracks in Hawaii shortly before the attack on Pearl Harbor.",
+    "critic_reviews": [],
+    "reviews": [],
+    "num_reviews": 0
 }

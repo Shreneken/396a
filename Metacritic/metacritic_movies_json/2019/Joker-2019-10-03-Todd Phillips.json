@@ -1,679 +1,653 @@
 {
-  "title": "Joker",
-  "rating": 8.9,
-  "release_date": "2019-10-03",
-  "genre": [
-    "Action",
-    "Adventure",
-    "Drama",
-    "Thriller",
-    "Fantasy",
-    "Crime"
-  ],
-  "summary": "Arthur Fleck (Joaquin Phoenix) is struggling to find his way in Gotham’s fractured society.  A clown-for-hire by day, he aspires to be a stand-up comic at night…but finds the joke always seems to be on him.  Caught in a cyclical existence between apathy and cruelty, Arthur makes one bad decision that brings about a chain reaction ofArthur Fleck (Joaquin Phoenix) is struggling to find his way in Gotham’s fractured society.  A clown-for-hire by day, he aspires to be a stand-up comic at night…but finds the joke always seems to be on him.  Caught in a cyclical existence between apathy and cruelty, Arthur makes one bad decision that brings about a chain reaction of escalating events.… Expand",
-  "critic_reviews": [
-    "The true success of this film has everything to do with Joaquin Phoenix’s masterful performance.",
-    "Joker has what may be the best lead performance of the year, but it is not for the faint of heart. Director Todd Phillips digs deep into the shadow side of society for one of the darkest movies in recent memory.",
-    "What a gloriously daring and explosive film Joker is. It’s a tale that’s almost as twisted as the man at its centre, bulging with ideas and pitching towards anarchy.",
-    "Phoenix has created a masterful performance for a film which itself feels like a masterpiece: a cracked masterpiece.",
-    "Bold, devastating and utterly beautiful, Todd Phillips and Joaquin Phoenix have not just reimagined one of the most iconic villains in cinema history, but reimagined the comic book movie itself.",
-    "Joaquin Phoenix is devastating as the villain-in-the-making in this incendiary tale of psychological escape and psychopathy.",
-    "More character study than comic book movie, and anchored by an Oscar-worthy Joaquin Phoenix, Joker is a bravura blockbuster that proves you don’t need superpowered scraps to dazzle.",
-    "Featuring a riveting, fully realized, and Oscar-worthy performance by Joaquin Phoenix, Joker would work just as well as an engrossing character study without any of its DC Comics trappings; that it just so happens to be a brilliant Batman-universe movie is icing on the Batfan cake. You will likely leave Joker feeling like I did: unsettled and ready to debate the film for years to come.",
-    "As entertainment and provocation, Joker is simply stupendous.",
-    "A macabre masterpiece, Joker’s social relevance may be disputed for years, but the film and its star may never be denied the grandeur of their cinematic revolution.",
-    "An iconic comic-book villain gets an appropriately epic origin story in Joker, which allows Joaquin Phoenix’s raw talent its grandest stage yet.",
-    "Phoenix’s performance is astonishing.",
-    "Jaundiced and judicious, deeply cynical yet not quite ready to leap into the abyss, Joker is a provocatively toxic time capsule for an era of misguided rage. It’s galling, and pretty great.",
-    "A movie that borders on genius—repellant, dark, terrifying, disgusting, brilliant and unforgettable.",
-    "Repellently violent, intimately epic and powered by a performance so absorbed, hurt, confused and just “out there” that it makes everything that’s come before it in the genre just a vamp in tights, Joker turns every previous film in this justly maligned genre into “just a cartoon.” Damn. There’s an Oscar in this.",
-    "This is a disturbing film, a journey into the heart of a damaged man’s psychosis. In many ways, it’s more of a horror film than an action/adventure offering. Even Nolan’s The Dark Knight, the crown jewel of the 21st century DC/Warner Brothers cinematic catalog, traced a more traditional comic book movie template than Joker. Within this genre, there has never been anything quite like it.",
-    "At times the film overdoes it with the clown metaphors (including the use of songs such as “Everybody Plays the Fool” and “Send in the Clowns”), and I had major misgivings about one particular subplot, but with Phoenix appearing in virtually every minute of this movie and dominating the screen with his memorably creepy turn, Joker will cling to you like the aftermath of an unfortunately realistic nightmare.",
-    "Joker is a beautifully shot, wonderfully compelling movie that ends in horrific manner. That it’s initially so easy to love is exactly what makes it so capable of disturbing and nauseating us in the end; we couldn’t be queasy if we weren’t invested.",
-    "In amongst Joker’s fire and blood and chaos and its blackest of blackhearted laughter, there is the sense of a grotesque, green-haired genie being let out of a bottle, and whether it wreaks havoc or not, we’re not going to be able to put it back in.",
-    "This is the truly subversive comic book movie we’ve been waiting for. Now that it’s here, we might start to regret the monster we’ve conjured up.",
-    "Subtlety is not Phillips’s strong point. What he does have is an eye for a well-chosen location, an ear for a provocative line of dialogue and a finger on the pulse of very marketable, confrontational (if also “cynical”) entertainment. Add to this an incendiary central performance by Phoenix and Joker looks set to have the last laugh.",
-    "The Joker’s superpower is his resentment, his narcissism, and Phoenix cultivates these methodically in his performance, slowly transmuting the character’s awkward fragility into a kind of raging charisma — aided and abetted, of course, by all the tricks of art direction, sound design and editing that a journeyman filmmaker has at his disposal.",
-    "This is Phoenix's film, and he inhabits it with an insanity by turns pitiful and fearsome in an out-there performance that's no laughing matter. Not to discredit the imaginative vision of the writer-director, his co-scripter and invaluable tech and design teams, but Phoenix is the prime force that makes Joker such a distinctively edgy entry in the Hollywood comics industrial complex.",
-    "A part of me found Todd Phillips’s radical rethinking of the Batman villain Joker thrillingly uncompromising and hair-raisingly timely. Another thinks it should be locked in a strongbox then dropped in the ocean and never released.",
-    "It’s hypnotic just how horrifying Arthur’s existence is, just as Phoenix’s performance is hypnotic as he spirals from fragile hope into increasingly outsized and confident acts of destruction.",
-    "Joker is at times predictable and too familiar given the source material, yet it splendidly captures the essence of the iconic bad guy as a frighteningly unreliable narrator in the movie’s best moments.",
-    "It’s a very good movie, and it features a blood-curdling performance from Joaquin Phoenix, in the most frightening portrayal of a violent maniac in decades. One more thing: It’s clearly a response to the times.",
-    "For all its merits, however, Joker relies on perhaps a touch too much exposition as it attempts to shape a digestible origin story.",
-    "A villain will rise, as he must, and the inevitability of that spectacle is the source of this movie’s undeniable power as well as its real limitations.",
-    "For all its novelty and craft, Joker is more of a stylish stunt than anything else.",
-    "While Phoenix is always more than watchable (his scary-Fred-Astaire dance moves, born from Arthur’s habit of watching old movies with his mother, are both mesmerizing and disturbing), “Joker” really has nowhere to go. Its characters are one-note cartoony, but fun is the last thing on this movie’s mind; it’s all despair, from its opening scenes on downward.",
-    "Joker starts grim and gets grimmer, as Arthur embraces his inner demons and finds they resonate with the huddled masses of Gotham.",
-    "Joker reveals itself as very expensive cosplay: effective at first glance, but at its seams superficial, disposable and dishonest.",
-    "Director Todd Phillips is best known for \"The Hangover\" trilogy, and has seemingly overcompensated for his comedy roots by delivering a movie virtually devoid of humor.",
-    "The movie is, for a good stretch, a troubling and arresting character study, one done with nervy conviction. Eventually, though, Phillips has to more tightly attach this downward spiral to the larger Gotham mythology, which is where the provocative ambivalence of the film gives way to veneration.",
-    "It’s good enough to be dangerous, and bad enough to demand better. It’s going to turn the world upside down and make us all hysterical in the process. For better or worse, it’s exactly the movie the Joker would want.",
-    "The broadness of Phoenix’s work allows the rest of the ensemble — particularly Conroy, Zazie Beetz as a single-mom neighbor, and MVP character actors like Bill Camp, Shea Whigham and Brian Tyree Henry — to dial it down and give effectively human-size performances.",
-    "At the end of the day, Joker comes off as Scorsese-lite in the same way that Phillips' last movie, War Dogs, did - albeit, with great acting from Phoenix to elevate it, but also a sense of self-seriousness that borders on self-parody and pretentiousness that War Dogs did not have.",
-    "A calculatedly combustible concoction, designed, like its chaos-creating character, to cause a stir. To provoke and distort. I wish it was as radical as it thinks it is.",
-    "Having unleashed Phoenix, Phillips doesn’t seem to know how to contain or couch the performance. At some point he seems to have surrendered, and when the movie is over you realize Arthur is its only substantial character.",
-    "Do not let anyone tell you that Joker captures our specific time, represents our specific society, both births and defines our specific zeitgeist, grabs ahold of our specific faces and breathes smoke down our throats. It doesn’t. Joker is, more than anything, fine. And we, more than anything, are not.",
-    "If the Marvel/Disney comic-book movies tend toward the chromium brio of the “Avengers” series, the DC superhero movies purveyed by Warner Bros. have taken their cue over the years from the 1986 revisionist graphic novel “The Dark Knight Returns,” and they are very dark indeed. Joker is the culmination of that approach, a slab of self-important pop-culture masonry whose only bright spot is the figure dancing brilliantly along its top.",
-    "The truth is, it’s just a movie — a fine movie, not a great movie, a movie that will please the specific subculture of fans it aims to service, while those who have survived this long without caring about comic-book movies can go on not caring.",
-    "Joker is a well-made movie, with a killer performance from Joaquin Phoenix, who seems born to play the role. But there’s nothing “bonkers” about it. It has nothing to say about the Joker himself or what he represents, or even about the world in which his brand of evil exists. Go ahead and crack open the movie. It’s hollow to the core.",
-    "Neither Todd Phillips’ hollow script nor his hey-check-this-shit-out direction offer much to work with, but Phoenix still manages to wring enough out of Fleck to make Joker almost work as a character study.",
-    "As social commentary, Joker is pernicious garbage. But besides the wacky pleasures of Phoenix’s performance, it also displays some major movie studio core competencies, in a not dissimilar way to what “A Star Is Born” presented last year.",
-    "As Joker gets grimmer and descends further into bloody violence, it becomes little more than a horror show, bludgeoning its viewers out of any chance at insight.",
-    "This Joker has just one act in him: the first act. The film somehow manages to be desperately serious and very shallow.",
-    "Joker is a movie that thinks it has a lot to say and fancies itself The Social Commentary Of Our Time, but in reality it’s a mishmash of Hot Button Social Issues without anything interesting to say at all. So, in that respect, it’s the perfect movie for 2019. Joker is our comeuppance.",
-    "In a year of mass culture that gave us HBO’s excellent “Chernobyl,” Joker can claim the grimmest depiction of a meltdown.",
-    "The film is one that might have been dreamed up by one of the cynical douche bros from the Hangover during a blacked-out stupor.",
-    "Think of Joker as both dental drill and Novocain. This origin story of the famously depraved smiler deals in pain from start to finish — pain that the hero, Arthur Fleck, first suffers, then inflicts — and Joaquin Phoenix plays the title role with piercing intensity. Yet the film, directed by Todd Phillips, leaves you numb. And glum. Days after the screening I was still under its stultifying spell.",
-    "To be worth arguing about, a movie must first of all be interesting: it must have, if not a coherent point of view, at least a worked-out, thought-provoking set of themes, some kind of imaginative contact with the world as we know it. Joker, an empty, foggy exercise in second-hand style and second-rate philosophizing, has none of that.",
-    "Good or bad, it’s undeniably one of the most depressing comic-book movies ever made. (It’s also got one of the most depressing comic-book movie scores, an endless dirge of droning strings by Hildur Guðnadóttir.) The calls from some corners to ban the film because it could incite violence give the movie too much credit. It’s not irresponsible. It’s just immature.",
-    "It’s DC Comics playing rough, but not rough enough, but maybe that’s too much to ask. Where is the fucking \"Hellblazer\" movie already.",
-    "The downside to the performance is the downside to the movie: It’s one note played louder and louder.",
-    "Such is the strenuous effort of Phoenix’s performance that it becomes exhausting to behold.",
-    "The result is a movie of a cynicism so vast and pervasive as to render the viewing experience even emptier than its slapdash aesthetic does.",
-    "Joker is a bad movie, yes: It’s predictable, clichéd, deeply derivative of other, better movies, and overwritten to the point of self-parody. (If a feature-length sendup of Joker was made, it’s hard to imagine in what details it would differ from Joker itself.) The experience of sitting through it is highly unpleasant, but that unpleasantness has less to do with graphic violence — there are only one or two scenes that go hard, gore-wise — than with claustrophobia and boredom.",
-    "Phoenix is acting so hard you can feel the desperation throbbing in his veins. He leaves you wanting to start him a GoFundMe, so he won’t have to pour so much sweat into his job again. But the aggressive terribleness of his performance isn’t completely his fault."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Ladies and gentlemen!!! THIS IS A MASTERPIECE. It is an INCREDIBLE origin story. One of the best movies based on a comic character. Joaquin Phoenix's performance is SPECTACULAR! Thank you Todd Phillips for bringing us this shocking story.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A must watch movie of the year especially the month (October).Joaquin Phoenix's performance was a masterpiece.Robert De Niro's acting was also mind blowing.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This wasnt a superhero film, and thank God it wasnt!!Joker is, by far the darkest and most tragic story in all of the DC universe.  Not only was it respectable to the source material, everything in the movie reflected what The Joker is, whenThis wasnt a superhero film, and thank God it wasnt!!Joker is, by far the darkest and most tragic story in all of the DC universe.  Not only was it respectable to the source material, everything in the movie reflected what The Joker is, when you take Batman out of the story.  Fair warning:  the film is very graphic.  It holds nothing back.  Also dont expect a special fx show.  This is a sit down and shut up flick.  This is a film about madness, illness and sadness.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joker is one of those rare movies that my only regret in watching it is that I can never watch it again for the first time. That being said, I'm not sure when if ever I could watch it again as it's such an exhausting experience. And I meanJoker is one of those rare movies that my only regret in watching it is that I can never watch it again for the first time. That being said, I'm not sure when if ever I could watch it again as it's such an exhausting experience. And I mean that in a good way. One of the best movies of this century so far.",
-      "review_date": "2019-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I generally agree with Metacritic's movie score over Rotten Tomatoes but not this time. Forget the paid critics biased views of Joker and go and see one of the best movies of this century and maybe the last.",
-      "review_date": "2019-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joker is a hard film to love but an easy one to admire. As many others have commented, it is a very grim watch with only a few moments of gallows humor to lift the tension. That being said, I would urge any lover of cinema to see it. At least once.",
-      "review_date": "2019-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I think the word 'masterpiece'is going a bit far but Joker is an amazing film. If Joaquin Phoenix doesn't get the best actor oscar award there really is no justice; he's that good.",
-      "review_date": "2019-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joker is deep, immaculate, powerful, and triumphant as you witness Joaquin Phoenix giving the Oscar winning performance of his entire career as the Clown Prince of Crime in 1970’s unforgiving Gotham City. All thanks to Todd Phillips’Joker is deep, immaculate, powerful, and triumphant as you witness Joaquin Phoenix giving the Oscar winning performance of his entire career as the Clown Prince of Crime in 1970’s unforgiving Gotham City. All thanks to Todd Phillips’ inspiration from Martin Scorsese’s Taxi Driver and The King of Comedy, it is safe to say that this film is one of those films that will be talked about for a very long time. And there is no doubt that Joker can deliver a mature fish out of water story that is dark and psychologically brooding that every comic book fan needs to see. May the future of DC Black begin…",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Felt like more of an Arthur Fleck movie than a Joker movie. But in this case I think that worked in its favor. Honestly, when compared to other \"gritty\" and \"grounded\" dc comic book movies, this one actually works and is better than most.Felt like more of an Arthur Fleck movie than a Joker movie. But in this case I think that worked in its favor. Honestly, when compared to other \"gritty\" and \"grounded\" dc comic book movies, this one actually works and is better than most. But, if you are going to compare it to something like taxi driver? Well then it's just average. It has some issues but nothing glaring. Overall I think everything works well. Not blown away but impressed.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "the new “Joker” is totally worth to be considered as the best of DC’s movies now. gorgeous, breathtaking, horrifying but amazing.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Unrelentingly bleak but absolutely captivating. There's really nothing more that I can add to the praise it's already garnered. Go see.",
-      "review_date": "2019-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The film is an excellent story of origin, departs from comics, and allows you to see the psychology of the character. You can also see that it has enough similarity with the current era in some attitudes quite well reflected. It is a movie toThe film is an excellent story of origin, departs from comics, and allows you to see the psychology of the character. You can also see that it has enough similarity with the current era in some attitudes quite well reflected. It is a movie to feel and think.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I went into this film knowing two things, the score from Icelandic composer Hildur Guðnadóttir (friend of Johann and Chernobyl musical genius) meant the tone of this film was going to be glum at best and Phoenix throwing himself into all hisI went into this film knowing two things, the score from Icelandic composer Hildur Guðnadóttir (friend of Johann and Chernobyl musical genius) meant the tone of this film was going to be glum at best and Phoenix throwing himself into all his roles would undoubtedly deliver. Both of things for me at least were spot on.The story is desperately sad if not a little predictable, my only really gripe being  the use of on screen notes to move the plot along at times, I find trying to nail which part I am meant to be reading takes the immersion out a little and I’m pretty sure It happens on at least three occasions. Acting across the board is fantastic; I can understand why Phoenix has been called out by some reviewers but for my mind the Joker is meant to be over acted and his slow descent into madness is perfectly executed.Overall this feels like the sort of film you end up studying in English class, there is a lot to take in and you will have questions come the end. Not everyone will love this as it can plod a little at times but it’s a needed plot that adds to the overall mood of the film.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Don't listen to the critics who don't know the difference between art and reality. Go and watch the movie and make your own opinion.Joker is a masterpiece and JOAQUIN PHONEIX deserves all best actor awards of the year.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Is a joke not everyone gets.The critic can't decide if is good or not, so is up to you.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie, it touches the themes of mental illness well, and the necessity of escaping pain by suicide.. That some people feels, this is a different joker, who is trying to accept his cruel life.. Great movie, only bad aspect is that itGreat movie, it touches the themes of mental illness well, and the necessity of escaping pain by suicide.. That some people feels, this is a different joker, who is trying to accept his cruel life.. Great movie, only bad aspect is that it ends in a weird way.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "We truly do live in a societyBut in all seriousness, this movie was amazing. A dark and disturbing character piece led by an Oscar worthy performance by Joaquin Phoenix. You really do feel bad for this guy, which makes it all the moreWe truly do live in a societyBut in all seriousness, this movie was amazing. A dark and disturbing character piece led by an Oscar worthy performance by Joaquin Phoenix. You really do feel bad for this guy, which makes it all the more heartbreaking when he inevitably becomes the clown prince of crime we all know and love, although we've never seen him like this. We see him suffer throughout the movie to the point we're almost rooting for himk to become a mass murdering psyco clown, because that at least will make feel better; then it happens and we just wish this could have all just been avoided, because es so messed up. We feel for him and care about him. By the time he's the joker, we wish we could've helped him. There's a lot of great nods to the greater Batman universe, yet the movie is a self contained character piece. It had me shaking and disturbed for a long time after I left the cinema, and that can only be the mark of a great movie.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best performance by Joaquin, Bold and intense storytelling makes this one terrific and influential. Cinematography and set pieces were almost great. Don't miss this one",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beautiful piece of art the acting the shots the intensity I was focused on the screen through out the whole movie",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There’s no word describe how amazing this movie is. This man deserves an award for this role. The real Joker is back!",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The most disturbing movie ever made. It is seriously a must-see and the critic reviews lie.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Gives a view of the darkest the world can be and builds up well to the worst day someone can have with that dark life, which births the Joker. Doesn’t glorify violence, (spoilers) with the main character being initially hesitant to take a gunGives a view of the darkest the world can be and builds up well to the worst day someone can have with that dark life, which births the Joker. Doesn’t glorify violence, (spoilers) with the main character being initially hesitant to take a gun from a coworker (first 10 mins of the movie) and he expected says he doesn’t have any political stance and just manages to fall into place because of the public’s reaction. Not a movie I’m planning on seeing a millions times in my life because of it being so hard to watch someone fall like the Joker does, but it’s a movie that needs an award. All the acting is great, the plot (while similar to Taxi Driver) is brilliant and the quality of the movie shows you don’t need CGI super powers to be a great villain in a Superhero movie.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Having just finished watching, I am stunned to say the least. Jaquines' portrayal of a sociopathic, mentally unstable man's transformation to the iconic Joker was non other than a grippingly accurate, realistic and touching rendition. AsHaving just finished watching, I am stunned to say the least. Jaquines' portrayal of a sociopathic, mentally unstable man's transformation to the iconic Joker was non other than a grippingly accurate, realistic and touching rendition. As unfortunate event after unfortunate event baraded the Joker leading to circumstantial wrong-doings, I truly felt for the character, while also being aware that his actions were wrong. Amidst the action packed superhero movies presented today (and as much as I do enjoy those as well) this movie is truly in a league of it's own.  Joker takes the lore and characters we have grown to love and revere as immeasurable beings, and throws it in your face as an all too real, true to life possibility.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joaquin Phoenix shines in this dark character study about one of the most popular comic book villains. The slow but rewarding direction is accompanied by an eerie score that fits perfectly with Joaquins Oscar worthy performance and will leaveJoaquin Phoenix shines in this dark character study about one of the most popular comic book villains. The slow but rewarding direction is accompanied by an eerie score that fits perfectly with Joaquins Oscar worthy performance and will leave audiences feeling disturbed and uneasy,  exactly how the joker should make one feel.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Lived up to the hype, loved it, don’t listen to critics, they’re idiots, they got scared of this film, hence why the rating is low",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing and beautifully haunting film. Joaquin Phoenix oscar worthy performance in another level.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joaquin Phoenix gave extraordinary acting in depth as well as Tood Philips who was able to make the Joker the person I know best through his films.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Es una obra maestra absoluta, olvida los comentarios negativos, la pelicula no es aburrida y la actuación de Phoenix es, excepcional.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Данный фильм не рекомендуется любителем экшена, любителем комедий и прочей лабуды, фильм реально тяжелый, я был на третьем сеансе мировой премьеры, видел улыбающихся и смеющихся людей, которые заходили в зал с огромным количества еды.Я тоДанный фильм не рекомендуется любителем экшена, любителем комедий и прочей лабуды, фильм реально тяжелый, я был на третьем сеансе мировой премьеры, видел улыбающихся и смеющихся людей, которые заходили в зал с огромным количества еды.Я то знал на какой фильм пошел, а вот большинство зрителей увы нет, и моему удивлению не было предела когда на 20 минуте фильма и до самого конца, я не услышал ни одного звука в зале, люди смотрели закрыв рот, забыв про свою жратву. Теперь о фильме, повторюсь фильм тяжелый если в него вникать, а вам придется это сделать иначе вы не поймете фильм, это не Marvel, не каких глупых шуток и сисько-жопного юмора, но свой юмор все таки есть, в этом фильме всего около 15 выстрелов из револьвера. Игра Феникса на уровне, я не такой критик что бы как то дать оценку, этот Джокер хороший ответ Джокеру Хита, в гримме данный Джокер выглядит на много круче Леджера, один минус это акер дубляжа, хотел бы я посмотреть его в оригинале, и обязательно посмотрю. Моя оценка 10/10, возможно даже больше, фанатам DC фильм зайдет и тем кто попытается в него вникнуть.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joker Movie is a dark and emotional movie that hides behind the laughter of Joker . A disturbing movie but powerful performance by Joaquin Phoenix is the beginning of new era.It is one of the best example on flim making... Pure art work withJoker Movie is a dark and emotional movie that hides behind the laughter of Joker . A disturbing movie but powerful performance by Joaquin Phoenix is the beginning of new era.It is one of the best example on flim making... Pure art work with camera( Less VFX expenditure)Take a bow Todd Phillips for your excellent execution. Inspite of Todd Phillips's confirmation that Joaquin's joker won't meet Pattinson's Batman, I believe Todd and Joaquin,Both should reconsider their decision to unleash full potential performance against Robert's batman. Because joker needs batman in order to show his full potential. This movie is \"the raise of the joker.\"",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This was farthest thing from what you expect from a \"superhero\" universe type movie. Even if this movie had a different title and stood alone it would have been just as great! The writing was absolutely amazing. The mood set for the differentThis was farthest thing from what you expect from a \"superhero\" universe type movie. Even if this movie had a different title and stood alone it would have been just as great! The writing was absolutely amazing. The mood set for the different scenes and the slow uptick of this movie was absolutely on point. Phoenix deserves every accolade possible for this stunning portrayal. Would reccomend for anyone tha appreciates deep writing, dialogue amd the classic sense of how a truly timeless movie is put together!!!",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The movie is an absolute masterpiece.Joaquin Phoenix's performance is OSCAR worthy as well",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I find it somehow disturbing, yet undeniable amazing. Joaquin Phoenix did a great job in both being a normal person with bad days and the Joker, the one we are familiar with.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An amazingly well crafted masterpiece with perfect acting, great story, thrilling moments, great camera and actual deep message. Phoenix is perfect for the role and his depiction of a joker may be the best i have ever seen.BTW: go see theAn amazingly well crafted masterpiece with perfect acting, great story, thrilling moments, great camera and actual deep message. Phoenix is perfect for the role and his depiction of a joker may be the best i have ever seen.BTW: go see the movie dont let yourself fool by urinalist \"professional\" critics who started their campaign to denigrate the movie almost right after the first trailer. Remember those same people think that utter trash garbage like the last jedi or captain marvel were good movies. So go to see the Joker its the best movie about comic book character in many years",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie! Sometimes I feel these so called critics do not know a good movie and good acting even if it slaps them in the face.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Truly spectacular! It's been SO LONG since I've seen a movie with QUALITY, something that makes you think, something that's different and as creative as this. Honestly... just when I was starting to lose faith in the movie industry this comesTruly spectacular! It's been SO LONG since I've seen a movie with QUALITY, something that makes you think, something that's different and as creative as this. Honestly... just when I was starting to lose faith in the movie industry this comes along and blows me away, it gave me that feeling of \"finally! A movie we've been desperately needing in the age of reboots and remakes and remasters and live cartoon adaptations and political correctness BS\" this is the direction the movie industry has to go and keep going. It's exactly what I personally always wanted as a Joker movie, a character study analysis about a broken man. Joaquin Phoenix deserves an award for his performance he killed it and honestly crushes all the previous Joker's that came before him that we've seen on screen and that's a huge statement. That laugh will send chills of disturbances down your spine every single time. It's a mix of sadness, confusion and just downright creepy I will even dare to say it's better than Mark Hamill's laugh. Make of that what you will. Acting? Superb!! Atmosphere and tone was perfect for this style of movie very depressing. Story? I won't spoil but it is very engaging, makes you think and you definitely feel for the Arthur. You'll be asking yourself questions even after the credits roll. No post credits by the way so don't sit through it. Music is a huge plus the composer really made the perfect soundtrack for such a film, she captures the mood and mentality of Arthur with every key note played a real treat. Loved it, I don't care what anyone says this is a 10/10 to me. If you love the Joker, or just a very good thriller about a broken man - watch this you won't regret it. Also - the snowflakes crying about wanting this banned because of violence? Ha... there was hardly any. I think other movies are worse in that regard, more drama than action if anything so no it won't promote a mass shooting or anything like that if anything it helps raise awareness on helping the mentally ill. Don't believe the fake news and mass hysteria, do yourself a favor - watch it and make your own judgement.Joaquin Phoenix man... that guy never fails to impress.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "uma obra impecável e simplesmente perfeita, joaquin vc é lendário, taca um oscar nessalenda",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Uma obra de arte! Perturbador e encantador ao mesmo tempo, necessário para nosso tempo.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "That's beautiful. Лучше фильма в наше время, с такой актерской игрой вы не найдете.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Gorgeous film, haunting score and a pretty incredible performance from Joaquin Phoenix. It's a slow burn, and I can definitely see where the film will turn a lot of people off, but I really liked it. ﻿",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Um filme perturbador porém INCRÍVEL!!, Joaquin Phoenix fez mais do que um ótimo trabalho, o filme está impecável, sinto que o Oscar é de vocês.",
-      "review_date": "2019-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThe Joker is an entertaining movie and its depiction of the titular character was compelling from begging to end.  Joaquin Phoenix's performance was outstanding and will be remembered as on of the better Joker performances. Unfortunately, the movie falls flat when it comes to its themes and what it wants to say.It seems like it wants us to be on the side of the working class. After all, the joker is a working class man who's issues are exacerbated by the upperclass. The government cut funding to mental health services, leaving him without his therapist and medication. Thomas Wayne seems uncaring and critical of the poor and even his celebrity hero made jokes at his expense.  Following the Joker's actions, you can see how the class divide came to a head with the working class finally having enough of the oppression of the upper class and want social change.However, this falls apart when you consider the actions of the Joker and rioters. The Joker, while more sympathetic in this iteration, is still a psychopathic killer and he is propped up as the hero of the working class. The working class started rioting and one even murders the Waynes in the alley as a form of revenge on the upper class. If the film wants us to take the side of the working class as the ones being taken advantage of, it failed.  The upperclass were **** but the working class are dangerous criminals. This isn't helped by the fact that the movie showed the murder of the Waynes. We all know what will become of young Bruce. He becomes the hero of Gotham.  He is also the top 1% Billionaire playboy. So eventually the hero of Gotham will be a rich man saving Gotham from people like his parent's murderer, who happens to be a poor and angry at the rich.Even if the movie wanted to try to take a 'both sides' argument, it fails because the  actions of the working class were way worse than the actions of the upperclass.  The upperclass are the ones getting murdered in the streets. The working class are the ones idolising a killer clown. It seems very one sided.",
-      "review_date": "2019-10-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best film of the year and the best film of DC all timeJoaquin deserved an Oscar",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Coming from the dude who made the hangover films (which I dont think highly of) I was surprised to see joker, not watching any trailers I was surprised with the final product. Acting was amazing. Cinematography was phenomenal. However theComing from the dude who made the hangover films (which I dont think highly of) I was surprised to see joker, not watching any trailers I was surprised with the final product. Acting was amazing. Cinematography was phenomenal. However the major flaw to this film is the pacing. It jumped alot and there were moments where I asked myself why this part was important. Lots of slow mo wide shots pan the film tine to reach over the 2 hour mark. Its action is intense which is brilliant. Watch it",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolutely amazing, thought provoking movie that is more to do with mental health, modern society and culture than anything else.  Much better than mindless fantasy drivel; for although this has roots in fantasy storytelling, it paints aAbsolutely amazing, thought provoking movie that is more to do with mental health, modern society and culture than anything else.  Much better than mindless fantasy drivel; for although this has roots in fantasy storytelling, it paints a picture that is well within the bounds of reality and that will resonate with people of all ages and backgrounds.  10/10, magnificent.  Oh, and that Phoenix guy does and OK job, too.  :-)",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wow, relatively uncontrived drama from a big Hollywood movie.  When was the last time?  This movie surely slipped under the studio's radar.  Almost like they knew it was a gamble and green-lit total creative freedom.  Fantastic!  TheWow, relatively uncontrived drama from a big Hollywood movie.  When was the last time?  This movie surely slipped under the studio's radar.  Almost like they knew it was a gamble and green-lit total creative freedom.  Fantastic!  The soundtrack, both original and licensed, the setting, the pacing, the scene composition, the dialog and the story were all excellent.  I'm not sure the actor was the best fit for Joker, but he did a great job regardless.  He hit the somber lows really well, and the lows were necessary fuel for the Joker's highs that he performed satisfactorily.  There was still slight room for improvement, but not enough to push it out of the 10/10 slot: the movie could have ended 5 minutes earlier and been more subtle in a few places, almost like the director is asking \"Did you get it?  Let me explain it for some of you\", but overall, this goes well beyond expectations for a comic book movie.Now give Watchmen the same treatment!",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Psychiatrists will call you \"crazy\" and prescribe you drugs. Hypocritical people will tell you \"I care about you\" when they kick you in the ass. Whenever someone dares to speak about it, is beaten up. But the Joker puts some paint on all thatPsychiatrists will call you \"crazy\" and prescribe you drugs. Hypocritical people will tell you \"I care about you\" when they kick you in the ass. Whenever someone dares to speak about it, is beaten up. But the Joker puts some paint on all that and really stands out. He does care about things, although in a way that will hurt, just because most people are unable to face the ugly truth. Masterpiece.",
-      "review_date": "2019-10-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "La pelicula me ha encantado! Creo que es la mejor que he visto en mucho tiempo. La recomiendo 100%",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Easily Oscar material. Joaquin takes us on a tour de force into the insanity of a psychotic derange criminal from a beginning of a begnin man who struggles with mental illness and poor social circumstances. I absolutely loved the movie and IEasily Oscar material. Joaquin takes us on a tour de force into the insanity of a psychotic derange criminal from a beginning of a begnin man who struggles with mental illness and poor social circumstances. I absolutely loved the movie and I WILL watch it a second time in a Cinema, which is something I do not do ever.The storytelling, the in setting logic, the lore of the Joker, all was respected and all fitted. Well worth your money.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wow, I have to say I left the theater not knowing what to think, and I mean that in the best way possible. Never have I seen a film blend both fantasy and reality together so well since Pink Floyd The Wall. Excellent work to the filmmakersWow, I have to say I left the theater not knowing what to think, and I mean that in the best way possible. Never have I seen a film blend both fantasy and reality together so well since Pink Floyd The Wall. Excellent work to the filmmakers and the amazing actors.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The critics have never been more wrong. There are so many ways this could've been a disaster but it was pulled off really well. It has a lot of the melancholy origin Joker from A Killing Joke with a legitimately good story about someone onThe critics have never been more wrong. There are so many ways this could've been a disaster but it was pulled off really well. It has a lot of the melancholy origin Joker from A Killing Joke with a legitimately good story about someone on the bubble of being a functional adult with major mental health problems in a world that throws people away. It has some of it's own subplots that are unique to this telling of the Joker's origin. It's a far better origin story than the old \"vat of chemicals\" routine and it's made with the pacing of a serious movie. It's not a non-stop sizzle reel.",
-      "review_date": "2019-10-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I can't think of many films that follow a character through their descent into madness so well. The film really is daring and courageous to centre itself on such a perspective without wincing away.Phoenix deserves to be hailed as one of theI can't think of many films that follow a character through their descent into madness so well. The film really is daring and courageous to centre itself on such a perspective without wincing away.Phoenix deserves to be hailed as one of the best on screen actors of his generation. He is so convincing and uses every cell in his body to portray the mental state of Arthur, and is so precise and distinct with his reactions to the environment that surrounds him, as well as his unveiling past. The thing I like a lot about this film is that it's not disturbing for the sake of it. It's disturbing as a result of the story - where a lot of films sacrifice story for the sake of being disturbing.",
-      "review_date": "2019-10-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A deep character film with a huge payoff. This is what cinema needed. Something that made you feel and think about it. Easily my favorite film this year and one of the best films this decade.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Es una joya! La actuación es soberbia, una caracterización perfecta, fotografía hermosa y llena de simbolismos.",
-      "review_date": "2019-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joker is a brilliant character study that seeks to expose the pettiest and most intolerant side of society and its aftermath. It's a fantastic movie, an instant classic backed by a brutal and true story, Phoenix's transcendental acting,Joker is a brilliant character study that seeks to expose the pettiest and most intolerant side of society and its aftermath. It's a fantastic movie, an instant classic backed by a brutal and true story, Phoenix's transcendental acting, consistent soundtrack, and wonderfully beautiful and dirty cinematography. It can come with open arms Oscar, this one deserves recognition and respect!!",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A exceptionally fantastic movie that was an absolute pleasure/pain to watch. It left me drained and lost for words, I hope to come back and edit this review after watching it again in a few weeks and letting it stew for a while.  Go watchA exceptionally fantastic movie that was an absolute pleasure/pain to watch. It left me drained and lost for words, I hope to come back and edit this review after watching it again in a few weeks and letting it stew for a while.  Go watch this movie, you won't regret it.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Crítico politizado que vai assistir a esse filme, deveria se abster de dar opinião, já que estamos falando de cinema, não eleição.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThe most extraordinary portrait of Joker so far!! Phoenix is amazing and his acting just gets better with each movie he stars in.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An epic achievement in film. Phoenix is picture perfect, everyone involved went above & beyond. I was mesmerized for the entire duration. Can not recommend higher. Joker is an absolutely beautiful future classic. Well done Mr. Phillips!",
-      "review_date": "2019-10-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Inebriating awesome! What a perfomance by Joaquin Phoenix! The film hits you somehow that takes sometime after to make sense of everything",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joker is a thrilling twist on the classic character’s origin. Joaquin Phoenix’s outstanding performance as Arthur had me glued to the screen for the entire runtime.Unlike most ‘comic-book movies’, Joker tells a story of a mentally ill man,Joker is a thrilling twist on the classic character’s origin. Joaquin Phoenix’s outstanding performance as Arthur had me glued to the screen for the entire runtime.Unlike most ‘comic-book movies’, Joker tells a story of a mentally ill man, and how society failed him.It’s drawn out pacing is perfect as it doesn’t feel too long or too short.A truly amazing experience,Amazing soundtrackAmazing performancesJust go see the film.",
-      "review_date": "2019-10-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A successful dc movie finally..the depth into the joker story touches everybody..",
-      "review_date": "2019-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "pure genuine concept. must see movies. i think Joaquin will get an oscar for this outstanding movie. best part is the bloody smile",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Film ini sangat luar biasa, mampu membuat penonton merasa simpati terhadap supervilain seperti joket. Dan film ini memberikan pesan yg sangat mendalam bagi setiap orang agar selalu memperhatikan orang-orang disekitar dengan tulus",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nيظهر تأثر المخرج بكثير من الافلام وذلك لمرجعية ودراسة عل سبيل المثال الفيلم قريبًا جدًا من Taxi driver  إبداع خواكين لا يختلف عليه أثنين، الصعب كان سهلاً وكافي ليجعل منك مختل في ثوان.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's not often a movie makes an impact on me. In fact it's close to rare. \"Joker\" is a unique masterpiece in so many ways. I am absolutely blown away by the acting, music, cinematography, script, makeup, and the whole feel this movie has.It's not often a movie makes an impact on me. In fact it's close to rare. \"Joker\" is a unique masterpiece in so many ways. I am absolutely blown away by the acting, music, cinematography, script, makeup, and the whole feel this movie has. It's dark, sad and very realistic. It does a great job at showing the viewer, a story of a troubled mind, and answers the question \"What if the joker lived in our world. How would he have gotten there. What could push a person so far out, and hate society so much\".The scary thing is, you can really relate to his journey.Wonderful job everyone on the team of this movie.And kudos to DC Comics for daring to make this movie.Thank you.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is one of my favourites of the year. Filled with tension and a remarkable performance from Joaquin Phoenix. This movie will be in my head throughout awards season. 10/10",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nI'm not that qualified to review this, but who cares. Joker is a goddamn masterpiece and will probably be considered of the movies to define 2019. Knock Knock.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing film. Everything I wanted. Oscar-worthy performance by Joaquin Phoenix!",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Esse filme é um dos melhores filmes de super-heróis, nesse caso, super vilão de todos os tempos. Atuação impecável de Joaquin, demonstrando gigante profissionalismo. Oscar vindo aí.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nGood movie very informative on mental and an overall great character study on the effects of loneliness",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Um filme muito bom, incrivel em tudo e tem uma fotografia e cenário maravilhosos",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beautifully made movie. Emotional rollercoaster that hits a chord in your heart.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Nasty and thrillingBetter joker than Jared Leto. Cant wait for the ne xt movie.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThis movie is a masterpiece. When I went to the cinema, even the first scene was... Wow.Joker is unbelievable masterpiece with a lot of plot twists. Like these: Joker is imagining whole date, He killed his mother, His father is Thomas Wayne but when you get further in film: You will find out, that he is adopted and he don't know his father, not even his mom. I rate this movie 10/10. Hope it gets an oscar. Joaquin Phoenix is really a good actor and deserve your attention and of course... An oscar.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What a movie, acting , directing  , soundtracks , screen play , cinematography ..  at the top ! Joker is one of the best movies last 10 years without a doubt. can’t say more .. its a masterpiece!!",
-      "review_date": "2019-10-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nJe vais rarement au cinéma et en avant première encore moins mais j'ai absolument pas regretté ma place... Un petit chef d'œuvre cinématographique loin des films niant niant de super héros...",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "not only is this the best film franchise reboot ever... this is probably the best dc movie since the very first batman film.",
-      "review_date": "2019-11-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Very engrossing movie and story. I was mesmerized throughout the 2 hour playing time. A totally believable transition from sucker to horrifyingly scary maniac. Very worthy of the iconic villain that is the Joker. Obviously not very pleasantVery engrossing movie and story. I was mesmerized throughout the 2 hour playing time. A totally believable transition from sucker to horrifyingly scary maniac. Very worthy of the iconic villain that is the Joker. Obviously not very pleasant to watch at times, but very worth while. Highly recommend for those interested.",
-      "review_date": "2019-10-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Holy smokes! This is, without exaggeration, Oscar worthy! The story and plot are so well written and told, and the acting so believable that I was absolutely immersed all throughout those two hours! A solid 10/10 without hesitation!",
-      "review_date": "2019-10-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Uncomfortable laughter.Am I the only one laughing at this? I hope not.\n\nGreat movie, incredibly depressing.\n\nKind of felt like I did the first time I watched Natural Born Killers; disbelief; they actually made this movie, wow.\n\nBravo forUncomfortable laughter.Am I the only one laughing at this? I hope not.Great movie, incredibly depressing.Kind of felt like I did the first time I watched Natural Born Killers; disbelief; they actually made this movie, wow.Bravo for not shoveling the same old ****",
-      "review_date": "2019-11-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joker is one of those films that is quite enjoyable but overall I kept thinking, 'Damn, why is everything happening Arthur in the same week.' It pushes itself to dark places but doesn't take enough risks to be as tortured and it wants to be.",
-      "review_date": "2019-10-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joker is a fantastic character piece that takes place just outside of the Batman universe, it is very clearly inspired by other sources such as Batmans \"The Killing Joke\" and movies like \"Taxi Driver\". The story follows (Ben) Arthur FlecksJoker is a fantastic character piece that takes place just outside of the Batman universe, it is very clearly inspired by other sources such as Batmans \"The Killing Joke\" and movies like \"Taxi Driver\". The story follows (Ben) Arthur Flecks descent from a deranged recluse to an unhinged murderous lunatic with a cult following. This film uses current world issues to add plausibility to it's story, you never quite find yourself empathizing with Arthur, but you can understand how he gets to be the Joker and why. Joaquin Phoenix's performance is fantastic in this movie, you really can't help but think of how short changed Jared Leto must be feeling right now. The acting is great, the story is captivating if now a little slow at points and the cinemetography is gorgeous. Well worth a watch!",
-      "review_date": "2019-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Really good movie. It's a super good origin movie that is extremely sad and dark, but not overly political or artsy fartsy. It just is what it is, and the fact that the elite are horrified seeing their reflection in the dystopian Gotham whenReally good movie. It's a super good origin movie that is extremely sad and dark, but not overly political or artsy fartsy. It just is what it is, and the fact that the elite are horrified seeing their reflection in the dystopian Gotham when it's not overly stated is assuredly an added bonus. There's no cheesy writing or statements, but the horror of the movie is the same  dystopia that's our leaders of the last 50 years seem to be leading us too. But really it's just a Joker origin story. I love how they managed to pull this off. It's not about \"incels\" but is assuredly about croney capitalism, without ever outright saying it.",
-      "review_date": "2019-10-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "saw it twice, giving it a 10. god bless men. this was a movie that will drive feminists despise since the joker was not a female character.",
-      "review_date": "2019-11-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's been a very long time since a film so thoroughly gripped me from beginning to end. Joaquin has delivered a performance that stands toe to toe with the likes of Jack Nicholson and Heath Ledger. This film feels extremely prescient in ourIt's been a very long time since a film so thoroughly gripped me from beginning to end. Joaquin has delivered a performance that stands toe to toe with the likes of Jack Nicholson and Heath Ledger. This film feels extremely prescient in our time as many who are disaffected are shunned and treated like they're toxic by nature. The gulf between the critic score and user score speaks volumes about the kind of film this is. Just like Dave Chappelle's sticks and stones, this is another masterpiece that the critics fail to recognize.",
-      "review_date": "2019-10-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Ohhh my gosh. Wow. I am blown away. Talk about an intense movie. This is a genius movie. Joaquin Phoenix is just sooo believable that I had anxiety and an unsettling feeling the whole movie! That’s how real it felt. That’s how well the movieOhhh my gosh. Wow. I am blown away. Talk about an intense movie. This is a genius movie. Joaquin Phoenix is just sooo believable that I had anxiety and an unsettling feeling the whole movie! That’s how real it felt. That’s how well the movie was done. I left feeling stunned, but wowed! Not sure if that  makes sense but that’s how the movie made you FEEL! The movie deserves an Oscar, for the cinematography, the music...the music just set the tone...so well done....whoever the composer was deserves a nomination.... and the acting. Joaquin carries the whole weight of the movie from beginning to end. Let’s just say after this performance, I don’t think anyone can replay this role!!!!!",
-      "review_date": "2019-10-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Had no expectations but really enjoyed watching it. Phoenix carries it. There are one or two plot issues and I felt it was 5 minutes too long, but overall thought it was great.",
-      "review_date": "2019-10-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Un película increíble con grandes actuaciones, que hace sentir muchas emociones. Y reflexionar sobre muchas cosas. Aparte joker excelenten personaje.",
-      "review_date": "2019-11-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nAmazing, sublime película pero aun más la actuación de Phoenix, sin duda merece el Oscar",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "'Joker' was a dark, thrilling, and brilliant film that made you go 'wow'. The film brought out such fear and disturbance that you typically wouldn't see in these types of superhero movies.The acting was just PHENOMENAL. Joaquin Phoenix'Joker' was a dark, thrilling, and brilliant film that made you go 'wow'. The film brought out such fear and disturbance that you typically wouldn't see in these types of superhero movies.The acting was just PHENOMENAL. Joaquin Phoenix (Joker/Arthur Fleck) had one of the best most spectacular performances of the year! It was a perfect display of mental illness and sometimes you can just FEEL what the Joker was going through as Phoenix displays such amazing raw talent. I also believe Robert De Niro displayed a good performance as well as acting as Murray Franklin, a popular talk-show host. He really felt like an actual talk show host and his acting towards the end was fantastic. 'Joker' excels greatly in certain scenes, especially towards the end. To avoid spoilers, the scenes towards the end of the film is just ASTONISHING. It's worth watching on its own! The camerawork and music cues were splendid as well.Unfortunately, I believe there were a couple of flaws in the film which can be subjective. I deeply apologize but I think the film's pacing was a little bit off at times. It was slow at times.Otherwise, it's one of, if not, the best film of 2019. I would give this a 9.5 if I could. The critics' reviews are honestly questionable at a glance. To conclude, THIS FILM WAS FLAT-OUT ASTOUNDING AND TERRIFYING!",
-      "review_date": "2020-01-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Saying this movie is a masterpiece is not enough , one of the greatest movies ever made and probably my favorite , its a shame we probably won't see something this good anymore because **** is concerned about sjw and **** like that instead ofSaying this movie is a masterpiece is not enough , one of the greatest movies ever made and probably my favorite , its a shame we probably won't see something this good anymore because **** is concerned about sjw and **** like that instead of making fantastic movies like the joker. thank you to all who made this classic",
-      "review_date": "2020-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nMeget interessant syntes den var rigtig rigtig god. Rigtig glad for at der ikke var for meget eller ingen super helte aktion.",
-      "review_date": "2019-10-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Certainly exceeded all expectations. Joaquin Phoenix soars. Beautiful camera work, haunting score, overall a very powerful, memorable film. Such exquisite talent! Critics prove once again they don't always get it right. One of the best moviesCertainly exceeded all expectations. Joaquin Phoenix soars. Beautiful camera work, haunting score, overall a very powerful, memorable film. Such exquisite talent! Critics prove once again they don't always get it right. One of the best movies of 2019.",
-      "review_date": "2019-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "For me, as a person with mental illnesses, the film very truthfully shows how we feel, especially when stigmatized by society, we lose norma treatment and social security (I do not know how in other countries, but in Russia this is enough). IFor me, as a person with mental illnesses, the film very truthfully shows how we feel, especially when stigmatized by society, we lose norma treatment and social security (I do not know how in other countries, but in Russia this is enough). I really hope that this film will make people treat us with understanding and help us overcome the disease. Even if you do not look at the film from this point of view, it is still wonderful!",
-      "review_date": "2019-11-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It don't get no better than this!  Phoenix really does this justice and the story made it just grand.  Best actor nod ... no doubt. I rented this one with a negative 'I will give it a shot' and was thoroughly surprised and glad I did.  You doIt don't get no better than this!  Phoenix really does this justice and the story made it just grand.  Best actor nod ... no doubt. I rented this one with a negative 'I will give it a shot' and was thoroughly surprised and glad I did.  You do not have to be a Batman fan to appreciate this movie.  Best picture seems very possible.",
-      "review_date": "2020-01-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I thought Joaquin Phoenix did a fantastic job during this movie. To watch him play the Joker was a pleasant experience",
-      "review_date": "2019-10-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joker is an exceptionally well made film. It has some of the best cinematography of this year and boasts probably the best performance of it also. The music is hauntingly beautiful and help this movie stand the test of time as one of beingJoker is an exceptionally well made film. It has some of the best cinematography of this year and boasts probably the best performance of it also. The music is hauntingly beautiful and help this movie stand the test of time as one of being one of the most unique comic book movies to ever be made. I only really have one problem with the film: it's script. Now, the story is actually pretty good, it's just that it's one we've seen before in films like Taxi Driver. For a comic book movie movie, it's a pretty unique script, but compared to other films like this, it doesn't do this kind of story as well. It's a little slow n parts and its dialogue is nothing special, but this is still a pretty well written movie, with symbolism left and right and a satisfying, yet tragic, arc for its protagonist. On its own, this is a very well made movie, but just isn't quite a masterpiece (though, it was pretty close to being one).",
-      "review_date": "2019-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Αυτός ο Joker σέρνεται σε έναν αληθινό τόπο πόνου και έρπει προς τα έξω, ώσπου χορεύει τρομακτικά στους ήχους του Γκάρι Γκλίτερ, στην αξέχαστη σκηνή στα σκαλοπάτια. Δεν σκοτώνει από μιμητισμό, αναίσθητα και «ωραία». Ξεκινώντας από την ένδειαΑυτός ο Joker σέρνεται σε έναν αληθινό τόπο πόνου και έρπει προς τα έξω, ώσπου χορεύει τρομακτικά στους ήχους του Γκάρι Γκλίτερ, στην αξέχαστη σκηνή στα σκαλοπάτια. Δεν σκοτώνει από μιμητισμό, αναίσθητα και «ωραία». Ξεκινώντας από την ένδεια και την ανημπόρια, η ταινία  πραγματεύεται την αλαζονεία της εξουσίας και την προβάλλει σαν συμπαγή, συγκεντρωμένη παραλλαγή του V for Vendetta, με καταλύτη έναν αυθεντικά δυστυχισμένο που καταντά το τέρας που ξεφύτρωσε στo πλατύσκαλο της πλουτοκρατίας της Wall Street και της πολιτικής αναισθησίας που θα ακολουθούσαν.",
-      "review_date": "2019-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Joker is an amazing movie. It perfectly encapsulates the reason why incel mass shootings take place. Refreshing to see villans with depth rather than a one dimensional cutout.",
-      "review_date": "2019-10-07",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 160
+    "title": "Joker",
+    "rating": 8.9,
+    "release_date": "2019-10-03",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Fantasy",
+        "Crime"
+    ],
+    "summary": "Arthur Fleck (Joaquin Phoenix) is struggling to find his way in Gotham\u2019s fractured society.  A clown-for-hire by day, he aspires to be a stand-up comic at night\u2026but finds the joke always seems to be on him.  Caught in a cyclical existence between apathy and cruelty, Arthur makes one bad decision that brings about a chain reaction ofArthur Fleck (Joaquin Phoenix) is struggling to find his way in Gotham\u2019s fractured society.  A clown-for-hire by day, he aspires to be a stand-up comic at night\u2026but finds the joke always seems to be on him.  Caught in a cyclical existence between apathy and cruelty, Arthur makes one bad decision that brings about a chain reaction of escalating events.\u2026 Expand",
+    "critic_reviews": [
+        "The true success of this film has everything to do with Joaquin Phoenix\u2019s masterful performance.",
+        "Joker has what may be the best lead performance of the year, but it is not for the faint of heart. Director Todd Phillips digs deep into the shadow side of society for one of the darkest movies in recent memory.",
+        "What a gloriously daring and explosive film Joker is. It\u2019s a tale that\u2019s almost as twisted as the man at its centre, bulging with ideas and pitching towards anarchy.",
+        "Phoenix has created a masterful performance for a film which itself feels like a masterpiece: a cracked masterpiece.",
+        "Bold, devastating and utterly beautiful, Todd Phillips and Joaquin Phoenix have not just reimagined one of the most iconic villains in cinema history, but reimagined the comic book movie itself.",
+        "Joaquin Phoenix is devastating as the villain-in-the-making in this incendiary tale of psychological escape and psychopathy.",
+        "More character study than comic book movie, and anchored by an Oscar-worthy Joaquin Phoenix, Joker is a bravura blockbuster that proves you don\u2019t need superpowered scraps to dazzle.",
+        "Featuring a riveting, fully realized, and Oscar-worthy performance by Joaquin Phoenix, Joker would work just as well as an engrossing character study without any of its DC Comics trappings; that it just so happens to be a brilliant Batman-universe movie is icing on the Batfan cake. You will likely leave Joker feeling like I did: unsettled and ready to debate the film for years to come.",
+        "As entertainment and provocation, Joker is simply stupendous.",
+        "A macabre masterpiece, Joker\u2019s social relevance may be disputed for years, but the film and its star may never be denied the grandeur of their cinematic revolution.",
+        "An iconic comic-book villain gets an appropriately epic origin story in Joker, which allows Joaquin Phoenix\u2019s raw talent its grandest stage yet.",
+        "Phoenix\u2019s performance is astonishing.",
+        "Jaundiced and judicious, deeply cynical yet not quite ready to leap into the abyss, Joker is a provocatively toxic time capsule for an era of misguided rage. It\u2019s galling, and pretty great.",
+        "A movie that borders on genius\u2014repellant, dark, terrifying, disgusting, brilliant and unforgettable.",
+        "Repellently violent, intimately epic and powered by a performance so absorbed, hurt, confused and just \u201cout there\u201d that it makes everything that\u2019s come before it in the genre just a vamp in tights, Joker turns every previous film in this justly maligned genre into \u201cjust a cartoon.\u201d Damn. There\u2019s an Oscar in this.",
+        "This is a disturbing film, a journey into the heart of a damaged man\u2019s psychosis. In many ways, it\u2019s more of a horror film than an action/adventure offering. Even Nolan\u2019s The Dark Knight, the crown jewel of the 21st century DC/Warner Brothers cinematic catalog, traced a more traditional comic book movie template than Joker. Within this genre, there has never been anything quite like it.",
+        "At times the film overdoes it with the clown metaphors (including the use of songs such as \u201cEverybody Plays the Fool\u201d and \u201cSend in the Clowns\u201d), and I had major misgivings about one particular subplot, but with Phoenix appearing in virtually every minute of this movie and dominating the screen with his memorably creepy turn, Joker will cling to you like the aftermath of an unfortunately realistic nightmare.",
+        "Joker is a beautifully shot, wonderfully compelling movie that ends in horrific manner. That it\u2019s initially so easy to love is exactly what makes it so capable of disturbing and nauseating us in the end; we couldn\u2019t be queasy if we weren\u2019t invested.",
+        "In amongst Joker\u2019s fire and blood and chaos and its blackest of blackhearted laughter, there is the sense of a grotesque, green-haired genie being let out of a bottle, and whether it wreaks havoc or not, we\u2019re not going to be able to put it back in.",
+        "This is the truly subversive comic book movie we\u2019ve been waiting for. Now that it\u2019s here, we might start to regret the monster we\u2019ve conjured up.",
+        "Subtlety is not Phillips\u2019s strong point. What he does have is an eye for a well-chosen location, an ear for a provocative line of dialogue and a finger on the pulse of very marketable, confrontational (if also \u201ccynical\u201d) entertainment. Add to this an incendiary central performance by Phoenix and Joker looks set to have the last laugh.",
+        "The Joker\u2019s superpower is his resentment, his narcissism, and Phoenix cultivates these methodically in his performance, slowly transmuting the character\u2019s awkward fragility into a kind of raging charisma \u2014 aided and abetted, of course, by all the tricks of art direction, sound design and editing that a journeyman filmmaker has at his disposal.",
+        "This is Phoenix's film, and he inhabits it with an insanity by turns pitiful and fearsome in an out-there performance that's no laughing matter. Not to discredit the imaginative vision of the writer-director, his co-scripter and invaluable tech and design teams, but Phoenix is the prime force that makes Joker such a distinctively edgy entry in the Hollywood comics industrial complex.",
+        "A part of me found Todd Phillips\u2019s radical rethinking of the Batman villain Joker thrillingly uncompromising and hair-raisingly timely. Another thinks it should be locked in a strongbox then dropped in the ocean and never released.",
+        "It\u2019s hypnotic just how horrifying Arthur\u2019s existence is, just as Phoenix\u2019s performance is hypnotic as he spirals from fragile hope into increasingly outsized and confident acts of destruction.",
+        "Joker is at times predictable and too familiar given the source material, yet it splendidly captures the essence of the iconic bad guy as a frighteningly unreliable narrator in the movie\u2019s best moments.",
+        "It\u2019s a very good movie, and it features a blood-curdling performance from Joaquin Phoenix, in the most frightening portrayal of a violent maniac in decades. One more thing: It\u2019s clearly a response to the times.",
+        "For all its merits, however, Joker relies on perhaps a touch too much exposition as it attempts to shape a digestible origin story.",
+        "A villain will rise, as he must, and the inevitability of that spectacle is the source of this movie\u2019s undeniable power as well as its real limitations.",
+        "For all its novelty and craft, Joker is more of a stylish stunt than anything else.",
+        "While Phoenix is always more than watchable (his scary-Fred-Astaire dance moves, born from Arthur\u2019s habit of watching old movies with his mother, are both mesmerizing and disturbing), \u201cJoker\u201d really has nowhere to go. Its characters are one-note cartoony, but fun is the last thing on this movie\u2019s mind; it\u2019s all despair, from its opening scenes on downward.",
+        "Joker starts grim and gets grimmer, as Arthur embraces his inner demons and finds they resonate with the huddled masses of Gotham.",
+        "Joker reveals itself as very expensive cosplay: effective at first glance, but at its seams superficial, disposable and dishonest.",
+        "Director Todd Phillips is best known for \"The Hangover\" trilogy, and has seemingly overcompensated for his comedy roots by delivering a movie virtually devoid of humor.",
+        "The movie is, for a good stretch, a troubling and arresting character study, one done with nervy conviction. Eventually, though, Phillips has to more tightly attach this downward spiral to the larger Gotham mythology, which is where the provocative ambivalence of the film gives way to veneration.",
+        "It\u2019s good enough to be dangerous, and bad enough to demand better. It\u2019s going to turn the world upside down and make us all hysterical in the process. For better or worse, it\u2019s exactly the movie the Joker would want.",
+        "The broadness of Phoenix\u2019s work allows the rest of the ensemble \u2014 particularly Conroy, Zazie Beetz as a single-mom neighbor, and MVP character actors like Bill Camp, Shea Whigham and Brian Tyree Henry \u2014 to dial it down and give effectively human-size performances.",
+        "At the end of the day, Joker comes off as Scorsese-lite in the same way that Phillips' last movie, War Dogs, did - albeit, with great acting from Phoenix to elevate it, but also a sense of self-seriousness that borders on self-parody and pretentiousness that War Dogs did not have.",
+        "A calculatedly combustible concoction, designed, like its chaos-creating character, to cause a stir. To provoke and distort. I wish it was as radical as it thinks it is.",
+        "Having unleashed Phoenix, Phillips doesn\u2019t seem to know how to contain or couch the performance. At some point he seems to have surrendered, and when the movie is over you realize Arthur is its only substantial character.",
+        "Do not let anyone tell you that Joker captures our specific time, represents our specific society, both births and defines our specific zeitgeist, grabs ahold of our specific faces and breathes smoke down our throats. It doesn\u2019t. Joker is, more than anything, fine. And we, more than anything, are not.",
+        "If the Marvel/Disney comic-book movies tend toward the chromium brio of the \u201cAvengers\u201d series, the DC superhero movies purveyed by Warner Bros. have taken their cue over the years from the 1986 revisionist graphic novel \u201cThe Dark Knight Returns,\u201d and they are very dark indeed. Joker is the culmination of that approach, a slab of self-important pop-culture masonry whose only bright spot is the figure dancing brilliantly along its top.",
+        "The truth is, it\u2019s just a movie \u2014 a fine movie, not a great movie, a movie that will please the specific subculture of fans it aims to service, while those who have survived this long without caring about comic-book movies can go on not caring.",
+        "Joker is a well-made movie, with a killer performance from Joaquin Phoenix, who seems born to play the role. But there\u2019s nothing \u201cbonkers\u201d about it. It has nothing to say about the Joker himself or what he represents, or even about the world in which his brand of evil exists. Go ahead and crack open the movie. It\u2019s hollow to the core.",
+        "Neither Todd Phillips\u2019 hollow script nor his hey-check-this-shit-out direction offer much to work with, but Phoenix still manages to wring enough out of Fleck to make Joker almost work as a character study.",
+        "As social commentary, Joker is pernicious garbage. But besides the wacky pleasures of Phoenix\u2019s performance, it also displays some major movie studio core competencies, in a not dissimilar way to what \u201cA Star Is Born\u201d presented last year.",
+        "As Joker gets grimmer and descends further into bloody violence, it becomes little more than a horror show, bludgeoning its viewers out of any chance at insight.",
+        "This Joker has just one act in him: the first act. The film somehow manages to be desperately serious and very shallow.",
+        "Joker is a movie that thinks it has a lot to say and fancies itself The Social Commentary Of Our Time, but in reality it\u2019s a mishmash of Hot Button Social Issues without anything interesting to say at all. So, in that respect, it\u2019s the perfect movie for 2019. Joker is our comeuppance.",
+        "In a year of mass culture that gave us HBO\u2019s excellent \u201cChernobyl,\u201d Joker can claim the grimmest depiction of a meltdown.",
+        "The film is one that might have been dreamed up by one of the cynical douche bros from the Hangover during a blacked-out stupor.",
+        "Think of Joker as both dental drill and Novocain. This origin story of the famously depraved smiler deals in pain from start to finish \u2014 pain that the hero, Arthur Fleck, first suffers, then inflicts \u2014 and Joaquin Phoenix plays the title role with piercing intensity. Yet the film, directed by Todd Phillips, leaves you numb. And glum. Days after the screening I was still under its stultifying spell.",
+        "To be worth arguing about, a movie must first of all be interesting: it must have, if not a coherent point of view, at least a worked-out, thought-provoking set of themes, some kind of imaginative contact with the world as we know it. Joker, an empty, foggy exercise in second-hand style and second-rate philosophizing, has none of that.",
+        "Good or bad, it\u2019s undeniably one of the most depressing comic-book movies ever made. (It\u2019s also got one of the most depressing comic-book movie scores, an endless dirge of droning strings by Hildur Gu\u00f0nad\u00f3ttir.) The calls from some corners to ban the film because it could incite violence give the movie too much credit. It\u2019s not irresponsible. It\u2019s just immature.",
+        "It\u2019s DC Comics playing rough, but not rough enough, but maybe that\u2019s too much to ask. Where is the fucking \"Hellblazer\" movie already.",
+        "The downside to the performance is the downside to the movie: It\u2019s one note played louder and louder.",
+        "Such is the strenuous effort of Phoenix\u2019s performance that it becomes exhausting to behold.",
+        "The result is a movie of a cynicism so vast and pervasive as to render the viewing experience even emptier than its slapdash aesthetic does.",
+        "Joker is a bad movie, yes: It\u2019s predictable, clich\u00e9d, deeply derivative of other, better movies, and overwritten to the point of self-parody. (If a feature-length sendup of Joker was made, it\u2019s hard to imagine in what details it would differ from Joker itself.) The experience of sitting through it is highly unpleasant, but that unpleasantness has less to do with graphic violence \u2014 there are only one or two scenes that go hard, gore-wise \u2014 than with claustrophobia and boredom.",
+        "Phoenix is acting so hard you can feel the desperation throbbing in his veins. He leaves you wanting to start him a GoFundMe, so he won\u2019t have to pour so much sweat into his job again. But the aggressive terribleness of his performance isn\u2019t completely his fault."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Ladies and gentlemen!!! THIS IS A MASTERPIECE. It is an INCREDIBLE origin story. One of the best movies based on a comic character. Joaquin Phoenix's performance is SPECTACULAR! Thank you Todd Phillips for bringing us this shocking story.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A must watch movie of the year especially the month (October).Joaquin Phoenix's performance was a masterpiece.Robert De Niro's acting was also mind blowing.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This wasnt a superhero film, and thank God it wasnt!!Joker is, by far the darkest and most tragic story in all of the DC universe.  Not only was it respectable to the source material, everything in the movie reflected what The Joker is, whenThis wasnt a superhero film, and thank God it wasnt!!Joker is, by far the darkest and most tragic story in all of the DC universe.  Not only was it respectable to the source material, everything in the movie reflected what The Joker is, when you take Batman out of the story.  Fair warning:  the film is very graphic.  It holds nothing back.  Also dont expect a special fx show.  This is a sit down and shut up flick.  This is a film about madness, illness and sadness.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joker is one of those rare movies that my only regret in watching it is that I can never watch it again for the first time. That being said, I'm not sure when if ever I could watch it again as it's such an exhausting experience. And I meanJoker is one of those rare movies that my only regret in watching it is that I can never watch it again for the first time. That being said, I'm not sure when if ever I could watch it again as it's such an exhausting experience. And I mean that in a good way. One of the best movies of this century so far.",
+            "review_date": "2019-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I generally agree with Metacritic's movie score over Rotten Tomatoes but not this time. Forget the paid critics biased views of Joker and go and see one of the best movies of this century and maybe the last.",
+            "review_date": "2019-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joker is a hard film to love but an easy one to admire. As many others have commented, it is a very grim watch with only a few moments of gallows humor to lift the tension. That being said, I would urge any lover of cinema to see it. At least once.",
+            "review_date": "2019-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think the word 'masterpiece'is going a bit far but Joker is an amazing film. If Joaquin Phoenix doesn't get the best actor oscar award there really is no justice; he's that good.",
+            "review_date": "2019-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joker is deep, immaculate, powerful, and triumphant as you witness Joaquin Phoenix giving the Oscar winning performance of his entire career as the Clown Prince of Crime in 1970\u2019s unforgiving Gotham City. All thanks to Todd Phillips\u2019Joker is deep, immaculate, powerful, and triumphant as you witness Joaquin Phoenix giving the Oscar winning performance of his entire career as the Clown Prince of Crime in 1970\u2019s unforgiving Gotham City. All thanks to Todd Phillips\u2019 inspiration from Martin Scorsese\u2019s Taxi Driver and The King of Comedy, it is safe to say that this film is one of those films that will be talked about for a very long time. And there is no doubt that Joker can deliver a mature fish out of water story that is dark and psychologically brooding that every comic book fan needs to see. May the future of DC Black begin\u2026",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Felt like more of an Arthur Fleck movie than a Joker movie. But in this case I think that worked in its favor. Honestly, when compared to other \"gritty\" and \"grounded\" dc comic book movies, this one actually works and is better than most.Felt like more of an Arthur Fleck movie than a Joker movie. But in this case I think that worked in its favor. Honestly, when compared to other \"gritty\" and \"grounded\" dc comic book movies, this one actually works and is better than most. But, if you are going to compare it to something like taxi driver? Well then it's just average. It has some issues but nothing glaring. Overall I think everything works well. Not blown away but impressed.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "the new \u201cJoker\u201d is totally worth to be considered as the best of DC\u2019s movies now. gorgeous, breathtaking, horrifying but amazing.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Unrelentingly bleak but absolutely captivating. There's really nothing more that I can add to the praise it's already garnered. Go see.",
+            "review_date": "2019-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The film is an excellent story of origin, departs from comics, and allows you to see the psychology of the character. You can also see that it has enough similarity with the current era in some attitudes quite well reflected. It is a movie toThe film is an excellent story of origin, departs from comics, and allows you to see the psychology of the character. You can also see that it has enough similarity with the current era in some attitudes quite well reflected. It is a movie to feel and think.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I went into this film knowing two things, the score from Icelandic composer Hildur Gu\u00f0nad\u00f3ttir (friend of Johann and Chernobyl musical genius) meant the tone of this film was going to be glum at best and Phoenix throwing himself into all hisI went into this film knowing two things, the score from Icelandic composer Hildur Gu\u00f0nad\u00f3ttir (friend of Johann and Chernobyl musical genius) meant the tone of this film was going to be glum at best and Phoenix throwing himself into all his roles would undoubtedly deliver. Both of things for me at least were spot on.The story is desperately sad if not a little predictable, my only really gripe being  the use of on screen notes to move the plot along at times, I find trying to nail which part I am meant to be reading takes the immersion out a little and I\u2019m pretty sure It happens on at least three occasions. Acting across the board is fantastic; I can understand why Phoenix has been called out by some reviewers but for my mind the Joker is meant to be over acted and his slow descent into madness is perfectly executed.Overall this feels like the sort of film you end up studying in English class, there is a lot to take in and you will have questions come the end. Not everyone will love this as it can plod a little at times but it\u2019s a needed plot that adds to the overall mood of the film.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Don't listen to the critics who don't know the difference between art and reality. Go and watch the movie and make your own opinion.Joker is a masterpiece and JOAQUIN PHONEIX deserves all best actor awards of the year.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Is a joke not everyone gets.The critic can't decide if is good or not, so is up to you.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie, it touches the themes of mental illness well, and the necessity of escaping pain by suicide.. That some people feels, this is a different joker, who is trying to accept his cruel life.. Great movie, only bad aspect is that itGreat movie, it touches the themes of mental illness well, and the necessity of escaping pain by suicide.. That some people feels, this is a different joker, who is trying to accept his cruel life.. Great movie, only bad aspect is that it ends in a weird way.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "We truly do live in a societyBut in all seriousness, this movie was amazing. A dark and disturbing character piece led by an Oscar worthy performance by Joaquin Phoenix. You really do feel bad for this guy, which makes it all the moreWe truly do live in a societyBut in all seriousness, this movie was amazing. A dark and disturbing character piece led by an Oscar worthy performance by Joaquin Phoenix. You really do feel bad for this guy, which makes it all the more heartbreaking when he inevitably becomes the clown prince of crime we all know and love, although we've never seen him like this. We see him suffer throughout the movie to the point we're almost rooting for himk to become a mass murdering psyco clown, because that at least will make feel better; then it happens and we just wish this could have all just been avoided, because es so messed up. We feel for him and care about him. By the time he's the joker, we wish we could've helped him. There's a lot of great nods to the greater Batman universe, yet the movie is a self contained character piece. It had me shaking and disturbed for a long time after I left the cinema, and that can only be the mark of a great movie.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best performance by Joaquin, Bold and intense storytelling makes this one terrific and influential. Cinematography and set pieces were almost great. Don't miss this one",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beautiful piece of art the acting the shots the intensity I was focused on the screen through out the whole movie",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There\u2019s no word describe how amazing this movie is. This man deserves an award for this role. The real Joker is back!",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The most disturbing movie ever made. It is seriously a must-see and the critic reviews lie.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Gives a view of the darkest the world can be and builds up well to the worst day someone can have with that dark life, which births the Joker. Doesn\u2019t glorify violence, (spoilers) with the main character being initially hesitant to take a gunGives a view of the darkest the world can be and builds up well to the worst day someone can have with that dark life, which births the Joker. Doesn\u2019t glorify violence, (spoilers) with the main character being initially hesitant to take a gun from a coworker (first 10 mins of the movie) and he expected says he doesn\u2019t have any political stance and just manages to fall into place because of the public\u2019s reaction. Not a movie I\u2019m planning on seeing a millions times in my life because of it being so hard to watch someone fall like the Joker does, but it\u2019s a movie that needs an award. All the acting is great, the plot (while similar to Taxi Driver) is brilliant and the quality of the movie shows you don\u2019t need CGI super powers to be a great villain in a Superhero movie.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Having just finished watching, I am stunned to say the least. Jaquines' portrayal of a sociopathic, mentally unstable man's transformation to the iconic Joker was non other than a grippingly accurate, realistic and touching rendition. AsHaving just finished watching, I am stunned to say the least. Jaquines' portrayal of a sociopathic, mentally unstable man's transformation to the iconic Joker was non other than a grippingly accurate, realistic and touching rendition. As unfortunate event after unfortunate event baraded the Joker leading to circumstantial wrong-doings, I truly felt for the character, while also being aware that his actions were wrong. Amidst the action packed superhero movies presented today (and as much as I do enjoy those as well) this movie is truly in a league of it's own.  Joker takes the lore and characters we have grown to love and revere as immeasurable beings, and throws it in your face as an all too real, true to life possibility.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joaquin Phoenix shines in this dark character study about one of the most popular comic book villains. The slow but rewarding direction is accompanied by an eerie score that fits perfectly with Joaquins Oscar worthy performance and will leaveJoaquin Phoenix shines in this dark character study about one of the most popular comic book villains. The slow but rewarding direction is accompanied by an eerie score that fits perfectly with Joaquins Oscar worthy performance and will leave audiences feeling disturbed and uneasy,  exactly how the joker should make one feel.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Lived up to the hype, loved it, don\u2019t listen to critics, they\u2019re idiots, they got scared of this film, hence why the rating is low",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing and beautifully haunting film. Joaquin Phoenix oscar worthy performance in another level.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joaquin Phoenix gave extraordinary acting in depth as well as Tood Philips who was able to make the Joker the person I know best through his films.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joker Movie is a dark and emotional movie that hides behind the laughter of Joker . A disturbing movie but powerful performance by Joaquin Phoenix is the beginning of new era.It is one of the best example on flim making... Pure art work withJoker Movie is a dark and emotional movie that hides behind the laughter of Joker . A disturbing movie but powerful performance by Joaquin Phoenix is the beginning of new era.It is one of the best example on flim making... Pure art work with camera( Less VFX expenditure)Take a bow Todd Phillips for your excellent execution. Inspite of Todd Phillips's confirmation that Joaquin's joker won't meet Pattinson's Batman, I believe Todd and Joaquin,Both should reconsider their decision to unleash full potential performance against Robert's batman. Because joker needs batman in order to show his full potential. This movie is \"the raise of the joker.\"",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This was farthest thing from what you expect from a \"superhero\" universe type movie. Even if this movie had a different title and stood alone it would have been just as great! The writing was absolutely amazing. The mood set for the differentThis was farthest thing from what you expect from a \"superhero\" universe type movie. Even if this movie had a different title and stood alone it would have been just as great! The writing was absolutely amazing. The mood set for the different scenes and the slow uptick of this movie was absolutely on point. Phoenix deserves every accolade possible for this stunning portrayal. Would reccomend for anyone tha appreciates deep writing, dialogue amd the classic sense of how a truly timeless movie is put together!!!",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie is an absolute masterpiece.Joaquin Phoenix's performance is OSCAR worthy as well",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I find it somehow disturbing, yet undeniable amazing. Joaquin Phoenix did a great job in both being a normal person with bad days and the Joker, the one we are familiar with.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An amazingly well crafted masterpiece with perfect acting, great story, thrilling moments, great camera and actual deep message. Phoenix is perfect for the role and his depiction of a joker may be the best i have ever seen.BTW: go see theAn amazingly well crafted masterpiece with perfect acting, great story, thrilling moments, great camera and actual deep message. Phoenix is perfect for the role and his depiction of a joker may be the best i have ever seen.BTW: go see the movie dont let yourself fool by urinalist \"professional\" critics who started their campaign to denigrate the movie almost right after the first trailer. Remember those same people think that utter trash garbage like the last jedi or captain marvel were good movies. So go to see the Joker its the best movie about comic book character in many years",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie! Sometimes I feel these so called critics do not know a good movie and good acting even if it slaps them in the face.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Truly spectacular! It's been SO LONG since I've seen a movie with QUALITY, something that makes you think, something that's different and as creative as this. Honestly... just when I was starting to lose faith in the movie industry this comesTruly spectacular! It's been SO LONG since I've seen a movie with QUALITY, something that makes you think, something that's different and as creative as this. Honestly... just when I was starting to lose faith in the movie industry this comes along and blows me away, it gave me that feeling of \"finally! A movie we've been desperately needing in the age of reboots and remakes and remasters and live cartoon adaptations and political correctness BS\" this is the direction the movie industry has to go and keep going. It's exactly what I personally always wanted as a Joker movie, a character study analysis about a broken man. Joaquin Phoenix deserves an award for his performance he killed it and honestly crushes all the previous Joker's that came before him that we've seen on screen and that's a huge statement. That laugh will send chills of disturbances down your spine every single time. It's a mix of sadness, confusion and just downright creepy I will even dare to say it's better than Mark Hamill's laugh. Make of that what you will. Acting? Superb!! Atmosphere and tone was perfect for this style of movie very depressing. Story? I won't spoil but it is very engaging, makes you think and you definitely feel for the Arthur. You'll be asking yourself questions even after the credits roll. No post credits by the way so don't sit through it. Music is a huge plus the composer really made the perfect soundtrack for such a film, she captures the mood and mentality of Arthur with every key note played a real treat. Loved it, I don't care what anyone says this is a 10/10 to me. If you love the Joker, or just a very good thriller about a broken man - watch this you won't regret it. Also - the snowflakes crying about wanting this banned because of violence? Ha... there was hardly any. I think other movies are worse in that regard, more drama than action if anything so no it won't promote a mass shooting or anything like that if anything it helps raise awareness on helping the mentally ill. Don't believe the fake news and mass hysteria, do yourself a favor - watch it and make your own judgement.Joaquin Phoenix man... that guy never fails to impress.",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Gorgeous film, haunting score and a pretty incredible performance from Joaquin Phoenix. It's a slow burn, and I can definitely see where the film will turn a lot of people off, but I really liked it. \ufeff",
+            "review_date": "2019-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThe Joker is an entertaining movie and its depiction of the titular character was compelling from begging to end.  Joaquin Phoenix's performance was outstanding and will be remembered as on of the better Joker performances. Unfortunately, the movie falls flat when it comes to its themes and what it wants to say.It seems like it wants us to be on the side of the working class. After all, the joker is a working class man who's issues are exacerbated by the upperclass. The government cut funding to mental health services, leaving him without his therapist and medication. Thomas Wayne seems uncaring and critical of the poor and even his celebrity hero made jokes at his expense.  Following the Joker's actions, you can see how the class divide came to a head with the working class finally having enough of the oppression of the upper class and want social change.However, this falls apart when you consider the actions of the Joker and rioters. The Joker, while more sympathetic in this iteration, is still a psychopathic killer and he is propped up as the hero of the working class. The working class started rioting and one even murders the Waynes in the alley as a form of revenge on the upper class. If the film wants us to take the side of the working class as the ones being taken advantage of, it failed.  The upperclass were **** but the working class are dangerous criminals. This isn't helped by the fact that the movie showed the murder of the Waynes. We all know what will become of young Bruce. He becomes the hero of Gotham.  He is also the top 1% Billionaire playboy. So eventually the hero of Gotham will be a rich man saving Gotham from people like his parent's murderer, who happens to be a poor and angry at the rich.Even if the movie wanted to try to take a 'both sides' argument, it fails because the  actions of the working class were way worse than the actions of the upperclass.  The upperclass are the ones getting murdered in the streets. The working class are the ones idolising a killer clown. It seems very one sided.",
+            "review_date": "2019-10-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best film of the year and the best film of DC all timeJoaquin deserved an Oscar",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Coming from the dude who made the hangover films (which I dont think highly of) I was surprised to see joker, not watching any trailers I was surprised with the final product. Acting was amazing. Cinematography was phenomenal. However theComing from the dude who made the hangover films (which I dont think highly of) I was surprised to see joker, not watching any trailers I was surprised with the final product. Acting was amazing. Cinematography was phenomenal. However the major flaw to this film is the pacing. It jumped alot and there were moments where I asked myself why this part was important. Lots of slow mo wide shots pan the film tine to reach over the 2 hour mark. Its action is intense which is brilliant. Watch it",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolutely amazing, thought provoking movie that is more to do with mental health, modern society and culture than anything else.  Much better than mindless fantasy drivel; for although this has roots in fantasy storytelling, it paints aAbsolutely amazing, thought provoking movie that is more to do with mental health, modern society and culture than anything else.  Much better than mindless fantasy drivel; for although this has roots in fantasy storytelling, it paints a picture that is well within the bounds of reality and that will resonate with people of all ages and backgrounds.  10/10, magnificent.  Oh, and that Phoenix guy does and OK job, too.  :-)",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wow, relatively uncontrived drama from a big Hollywood movie.  When was the last time?  This movie surely slipped under the studio's radar.  Almost like they knew it was a gamble and green-lit total creative freedom.  Fantastic!  TheWow, relatively uncontrived drama from a big Hollywood movie.  When was the last time?  This movie surely slipped under the studio's radar.  Almost like they knew it was a gamble and green-lit total creative freedom.  Fantastic!  The soundtrack, both original and licensed, the setting, the pacing, the scene composition, the dialog and the story were all excellent.  I'm not sure the actor was the best fit for Joker, but he did a great job regardless.  He hit the somber lows really well, and the lows were necessary fuel for the Joker's highs that he performed satisfactorily.  There was still slight room for improvement, but not enough to push it out of the 10/10 slot: the movie could have ended 5 minutes earlier and been more subtle in a few places, almost like the director is asking \"Did you get it?  Let me explain it for some of you\", but overall, this goes well beyond expectations for a comic book movie.Now give Watchmen the same treatment!",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Psychiatrists will call you \"crazy\" and prescribe you drugs. Hypocritical people will tell you \"I care about you\" when they kick you in the ass. Whenever someone dares to speak about it, is beaten up. But the Joker puts some paint on all thatPsychiatrists will call you \"crazy\" and prescribe you drugs. Hypocritical people will tell you \"I care about you\" when they kick you in the ass. Whenever someone dares to speak about it, is beaten up. But the Joker puts some paint on all that and really stands out. He does care about things, although in a way that will hurt, just because most people are unable to face the ugly truth. Masterpiece.",
+            "review_date": "2019-10-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Easily Oscar material. Joaquin takes us on a tour de force into the insanity of a psychotic derange criminal from a beginning of a begnin man who struggles with mental illness and poor social circumstances. I absolutely loved the movie and IEasily Oscar material. Joaquin takes us on a tour de force into the insanity of a psychotic derange criminal from a beginning of a begnin man who struggles with mental illness and poor social circumstances. I absolutely loved the movie and I WILL watch it a second time in a Cinema, which is something I do not do ever.The storytelling, the in setting logic, the lore of the Joker, all was respected and all fitted. Well worth your money.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wow, I have to say I left the theater not knowing what to think, and I mean that in the best way possible. Never have I seen a film blend both fantasy and reality together so well since Pink Floyd The Wall. Excellent work to the filmmakersWow, I have to say I left the theater not knowing what to think, and I mean that in the best way possible. Never have I seen a film blend both fantasy and reality together so well since Pink Floyd The Wall. Excellent work to the filmmakers and the amazing actors.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The critics have never been more wrong. There are so many ways this could've been a disaster but it was pulled off really well. It has a lot of the melancholy origin Joker from A Killing Joke with a legitimately good story about someone onThe critics have never been more wrong. There are so many ways this could've been a disaster but it was pulled off really well. It has a lot of the melancholy origin Joker from A Killing Joke with a legitimately good story about someone on the bubble of being a functional adult with major mental health problems in a world that throws people away. It has some of it's own subplots that are unique to this telling of the Joker's origin. It's a far better origin story than the old \"vat of chemicals\" routine and it's made with the pacing of a serious movie. It's not a non-stop sizzle reel.",
+            "review_date": "2019-10-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I can't think of many films that follow a character through their descent into madness so well. The film really is daring and courageous to centre itself on such a perspective without wincing away.Phoenix deserves to be hailed as one of theI can't think of many films that follow a character through their descent into madness so well. The film really is daring and courageous to centre itself on such a perspective without wincing away.Phoenix deserves to be hailed as one of the best on screen actors of his generation. He is so convincing and uses every cell in his body to portray the mental state of Arthur, and is so precise and distinct with his reactions to the environment that surrounds him, as well as his unveiling past. The thing I like a lot about this film is that it's not disturbing for the sake of it. It's disturbing as a result of the story - where a lot of films sacrifice story for the sake of being disturbing.",
+            "review_date": "2019-10-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A deep character film with a huge payoff. This is what cinema needed. Something that made you feel and think about it. Easily my favorite film this year and one of the best films this decade.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joker is a brilliant character study that seeks to expose the pettiest and most intolerant side of society and its aftermath. It's a fantastic movie, an instant classic backed by a brutal and true story, Phoenix's transcendental acting,Joker is a brilliant character study that seeks to expose the pettiest and most intolerant side of society and its aftermath. It's a fantastic movie, an instant classic backed by a brutal and true story, Phoenix's transcendental acting, consistent soundtrack, and wonderfully beautiful and dirty cinematography. It can come with open arms Oscar, this one deserves recognition and respect!!",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A exceptionally fantastic movie that was an absolute pleasure/pain to watch. It left me drained and lost for words, I hope to come back and edit this review after watching it again in a few weeks and letting it stew for a while.  Go watchA exceptionally fantastic movie that was an absolute pleasure/pain to watch. It left me drained and lost for words, I hope to come back and edit this review after watching it again in a few weeks and letting it stew for a while.  Go watch this movie, you won't regret it.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThe most extraordinary portrait of Joker so far!! Phoenix is amazing and his acting just gets better with each movie he stars in.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An epic achievement in film. Phoenix is picture perfect, everyone involved went above & beyond. I was mesmerized for the entire duration. Can not recommend higher. Joker is an absolutely beautiful future classic. Well done Mr. Phillips!",
+            "review_date": "2019-10-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Inebriating awesome! What a perfomance by Joaquin Phoenix! The film hits you somehow that takes sometime after to make sense of everything",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joker is a thrilling twist on the classic character\u2019s origin. Joaquin Phoenix\u2019s outstanding performance as Arthur had me glued to the screen for the entire runtime.Unlike most \u2018comic-book movies\u2019, Joker tells a story of a mentally ill man,Joker is a thrilling twist on the classic character\u2019s origin. Joaquin Phoenix\u2019s outstanding performance as Arthur had me glued to the screen for the entire runtime.Unlike most \u2018comic-book movies\u2019, Joker tells a story of a mentally ill man, and how society failed him.It\u2019s drawn out pacing is perfect as it doesn\u2019t feel too long or too short.A truly amazing experience,Amazing soundtrackAmazing performancesJust go see the film.",
+            "review_date": "2019-10-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A successful dc movie finally..the depth into the joker story touches everybody..",
+            "review_date": "2019-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "pure genuine concept. must see movies. i think Joaquin will get an oscar for this outstanding movie. best part is the bloody smile",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's not often a movie makes an impact on me. In fact it's close to rare. \"Joker\" is a unique masterpiece in so many ways. I am absolutely blown away by the acting, music, cinematography, script, makeup, and the whole feel this movie has.It's not often a movie makes an impact on me. In fact it's close to rare. \"Joker\" is a unique masterpiece in so many ways. I am absolutely blown away by the acting, music, cinematography, script, makeup, and the whole feel this movie has. It's dark, sad and very realistic. It does a great job at showing the viewer, a story of a troubled mind, and answers the question \"What if the joker lived in our world. How would he have gotten there. What could push a person so far out, and hate society so much\".The scary thing is, you can really relate to his journey.Wonderful job everyone on the team of this movie.And kudos to DC Comics for daring to make this movie.Thank you.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is one of my favourites of the year. Filled with tension and a remarkable performance from Joaquin Phoenix. This movie will be in my head throughout awards season. 10/10",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nI'm not that qualified to review this, but who cares. Joker is a goddamn masterpiece and will probably be considered of the movies to define 2019. Knock Knock.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing film. Everything I wanted. Oscar-worthy performance by Joaquin Phoenix!",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nGood movie very informative on mental and an overall great character study on the effects of loneliness",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beautifully made movie. Emotional rollercoaster that hits a chord in your heart.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Nasty and thrillingBetter joker than Jared Leto. Cant wait for the ne xt movie.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis movie is a masterpiece. When I went to the cinema, even the first scene was... Wow.Joker is unbelievable masterpiece with a lot of plot twists. Like these: Joker is imagining whole date, He killed his mother, His father is Thomas Wayne but when you get further in film: You will find out, that he is adopted and he don't know his father, not even his mom. I rate this movie 10/10. Hope it gets an oscar. Joaquin Phoenix is really a good actor and deserve your attention and of course... An oscar.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What a movie, acting , directing  , soundtracks , screen play , cinematography ..  at the top ! Joker is one of the best movies last 10 years without a doubt. can\u2019t say more .. its a masterpiece!!",
+            "review_date": "2019-10-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "not only is this the best film franchise reboot ever... this is probably the best dc movie since the very first batman film.",
+            "review_date": "2019-11-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very engrossing movie and story. I was mesmerized throughout the 2 hour playing time. A totally believable transition from sucker to horrifyingly scary maniac. Very worthy of the iconic villain that is the Joker. Obviously not very pleasantVery engrossing movie and story. I was mesmerized throughout the 2 hour playing time. A totally believable transition from sucker to horrifyingly scary maniac. Very worthy of the iconic villain that is the Joker. Obviously not very pleasant to watch at times, but very worth while. Highly recommend for those interested.",
+            "review_date": "2019-10-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Holy smokes! This is, without exaggeration, Oscar worthy! The story and plot are so well written and told, and the acting so believable that I was absolutely immersed all throughout those two hours! A solid 10/10 without hesitation!",
+            "review_date": "2019-10-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Uncomfortable laughter.Am I the only one laughing at this? I hope not.\n\nGreat movie, incredibly depressing.\n\nKind of felt like I did the first time I watched Natural Born Killers; disbelief; they actually made this movie, wow.\n\nBravo forUncomfortable laughter.Am I the only one laughing at this? I hope not.Great movie, incredibly depressing.Kind of felt like I did the first time I watched Natural Born Killers; disbelief; they actually made this movie, wow.Bravo for not shoveling the same old ****",
+            "review_date": "2019-11-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joker is one of those films that is quite enjoyable but overall I kept thinking, 'Damn, why is everything happening Arthur in the same week.' It pushes itself to dark places but doesn't take enough risks to be as tortured and it wants to be.",
+            "review_date": "2019-10-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joker is a fantastic character piece that takes place just outside of the Batman universe, it is very clearly inspired by other sources such as Batmans \"The Killing Joke\" and movies like \"Taxi Driver\". The story follows (Ben) Arthur FlecksJoker is a fantastic character piece that takes place just outside of the Batman universe, it is very clearly inspired by other sources such as Batmans \"The Killing Joke\" and movies like \"Taxi Driver\". The story follows (Ben) Arthur Flecks descent from a deranged recluse to an unhinged murderous lunatic with a cult following. This film uses current world issues to add plausibility to it's story, you never quite find yourself empathizing with Arthur, but you can understand how he gets to be the Joker and why. Joaquin Phoenix's performance is fantastic in this movie, you really can't help but think of how short changed Jared Leto must be feeling right now. The acting is great, the story is captivating if now a little slow at points and the cinemetography is gorgeous. Well worth a watch!",
+            "review_date": "2019-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Really good movie. It's a super good origin movie that is extremely sad and dark, but not overly political or artsy fartsy. It just is what it is, and the fact that the elite are horrified seeing their reflection in the dystopian Gotham whenReally good movie. It's a super good origin movie that is extremely sad and dark, but not overly political or artsy fartsy. It just is what it is, and the fact that the elite are horrified seeing their reflection in the dystopian Gotham when it's not overly stated is assuredly an added bonus. There's no cheesy writing or statements, but the horror of the movie is the same  dystopia that's our leaders of the last 50 years seem to be leading us too. But really it's just a Joker origin story. I love how they managed to pull this off. It's not about \"incels\" but is assuredly about croney capitalism, without ever outright saying it.",
+            "review_date": "2019-10-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "saw it twice, giving it a 10. god bless men. this was a movie that will drive feminists despise since the joker was not a female character.",
+            "review_date": "2019-11-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's been a very long time since a film so thoroughly gripped me from beginning to end. Joaquin has delivered a performance that stands toe to toe with the likes of Jack Nicholson and Heath Ledger. This film feels extremely prescient in ourIt's been a very long time since a film so thoroughly gripped me from beginning to end. Joaquin has delivered a performance that stands toe to toe with the likes of Jack Nicholson and Heath Ledger. This film feels extremely prescient in our time as many who are disaffected are shunned and treated like they're toxic by nature. The gulf between the critic score and user score speaks volumes about the kind of film this is. Just like Dave Chappelle's sticks and stones, this is another masterpiece that the critics fail to recognize.",
+            "review_date": "2019-10-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Ohhh my gosh. Wow. I am blown away. Talk about an intense movie. This is a genius movie. Joaquin Phoenix is just sooo believable that I had anxiety and an unsettling feeling the whole movie! That\u2019s how real it felt. That\u2019s how well the movieOhhh my gosh. Wow. I am blown away. Talk about an intense movie. This is a genius movie. Joaquin Phoenix is just sooo believable that I had anxiety and an unsettling feeling the whole movie! That\u2019s how real it felt. That\u2019s how well the movie was done. I left feeling stunned, but wowed! Not sure if that  makes sense but that\u2019s how the movie made you FEEL! The movie deserves an Oscar, for the cinematography, the music...the music just set the tone...so well done....whoever the composer was deserves a nomination.... and the acting. Joaquin carries the whole weight of the movie from beginning to end. Let\u2019s just say after this performance, I don\u2019t think anyone can replay this role!!!!!",
+            "review_date": "2019-10-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Had no expectations but really enjoyed watching it. Phoenix carries it. There are one or two plot issues and I felt it was 5 minutes too long, but overall thought it was great.",
+            "review_date": "2019-10-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "'Joker' was a dark, thrilling, and brilliant film that made you go 'wow'. The film brought out such fear and disturbance that you typically wouldn't see in these types of superhero movies.The acting was just PHENOMENAL. Joaquin Phoenix'Joker' was a dark, thrilling, and brilliant film that made you go 'wow'. The film brought out such fear and disturbance that you typically wouldn't see in these types of superhero movies.The acting was just PHENOMENAL. Joaquin Phoenix (Joker/Arthur Fleck) had one of the best most spectacular performances of the year! It was a perfect display of mental illness and sometimes you can just FEEL what the Joker was going through as Phoenix displays such amazing raw talent. I also believe Robert De Niro displayed a good performance as well as acting as Murray Franklin, a popular talk-show host. He really felt like an actual talk show host and his acting towards the end was fantastic. 'Joker' excels greatly in certain scenes, especially towards the end. To avoid spoilers, the scenes towards the end of the film is just ASTONISHING. It's worth watching on its own! The camerawork and music cues were splendid as well.Unfortunately, I believe there were a couple of flaws in the film which can be subjective. I deeply apologize but I think the film's pacing was a little bit off at times. It was slow at times.Otherwise, it's one of, if not, the best film of 2019. I would give this a 9.5 if I could. The critics' reviews are honestly questionable at a glance. To conclude, THIS FILM WAS FLAT-OUT ASTOUNDING AND TERRIFYING!",
+            "review_date": "2020-01-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Saying this movie is a masterpiece is not enough , one of the greatest movies ever made and probably my favorite , its a shame we probably won't see something this good anymore because **** is concerned about sjw and **** like that instead ofSaying this movie is a masterpiece is not enough , one of the greatest movies ever made and probably my favorite , its a shame we probably won't see something this good anymore because **** is concerned about sjw and **** like that instead of making fantastic movies like the joker. thank you to all who made this classic",
+            "review_date": "2020-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Certainly exceeded all expectations. Joaquin Phoenix soars. Beautiful camera work, haunting score, overall a very powerful, memorable film. Such exquisite talent! Critics prove once again they don't always get it right. One of the best moviesCertainly exceeded all expectations. Joaquin Phoenix soars. Beautiful camera work, haunting score, overall a very powerful, memorable film. Such exquisite talent! Critics prove once again they don't always get it right. One of the best movies of 2019.",
+            "review_date": "2019-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For me, as a person with mental illnesses, the film very truthfully shows how we feel, especially when stigmatized by society, we lose norma treatment and social security (I do not know how in other countries, but in Russia this is enough). IFor me, as a person with mental illnesses, the film very truthfully shows how we feel, especially when stigmatized by society, we lose norma treatment and social security (I do not know how in other countries, but in Russia this is enough). I really hope that this film will make people treat us with understanding and help us overcome the disease. Even if you do not look at the film from this point of view, it is still wonderful!",
+            "review_date": "2019-11-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It don't get no better than this!  Phoenix really does this justice and the story made it just grand.  Best actor nod ... no doubt. I rented this one with a negative 'I will give it a shot' and was thoroughly surprised and glad I did.  You doIt don't get no better than this!  Phoenix really does this justice and the story made it just grand.  Best actor nod ... no doubt. I rented this one with a negative 'I will give it a shot' and was thoroughly surprised and glad I did.  You do not have to be a Batman fan to appreciate this movie.  Best picture seems very possible.",
+            "review_date": "2020-01-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thought Joaquin Phoenix did a fantastic job during this movie. To watch him play the Joker was a pleasant experience",
+            "review_date": "2019-10-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joker is an exceptionally well made film. It has some of the best cinematography of this year and boasts probably the best performance of it also. The music is hauntingly beautiful and help this movie stand the test of time as one of beingJoker is an exceptionally well made film. It has some of the best cinematography of this year and boasts probably the best performance of it also. The music is hauntingly beautiful and help this movie stand the test of time as one of being one of the most unique comic book movies to ever be made. I only really have one problem with the film: it's script. Now, the story is actually pretty good, it's just that it's one we've seen before in films like Taxi Driver. For a comic book movie movie, it's a pretty unique script, but compared to other films like this, it doesn't do this kind of story as well. It's a little slow n parts and its dialogue is nothing special, but this is still a pretty well written movie, with symbolism left and right and a satisfying, yet tragic, arc for its protagonist. On its own, this is a very well made movie, but just isn't quite a masterpiece (though, it was pretty close to being one).",
+            "review_date": "2019-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Joker is an amazing movie. It perfectly encapsulates the reason why incel mass shootings take place. Refreshing to see villans with depth rather than a one dimensional cutout.",
+            "review_date": "2019-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 160
 }

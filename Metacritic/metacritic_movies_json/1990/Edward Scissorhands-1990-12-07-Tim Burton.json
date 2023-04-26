@@ -1,448 +1,504 @@
 {
-  "title": "Edward Scissorhands",
-  "rating": 8.7,
-  "release_date": "1990-12-07",
-  "genre": [
-    "Drama",
-    "Fantasy",
-    "Romance"
-  ],
-  "summary": "In this modern fairy tale, Edward is a gentle, naive creation with razor sharp scissors for hands. When he is taken home by a kindly Avon lady live with her family, his adventure in the pastel paradise of Suburbia begins! (20th Century Fox)",
-  "critic_reviews": [
-    "A classic... Edward Scissorhands is a sharp salute to the oddball in all of us.",
-    "Simple, funny, gorgeous, sad, and sweet, perfect for playing over and over.",
-    "A delightful and delicate comic fable.",
-    "Depp, as the the fragile but irresistibily fabulous title character, is a delight.",
-    "Amusing and inventive.",
-    "An ambitious and quite beautifully conceived fairy tale for the 90s.",
-    "Like a great chef concocting an exquisite peanut butter-and-jelly sandwich, Mr. Burton invests awe-inspiring ingenuity into the process of reinventing something very small.",
-    "Edward Scissorhands isn't perfect. It's something better: pure magic.",
-    "The theme--that just beyond the edge of the perfectly normal lies the truly bizarre--is realized with intelligence and visual flair.",
-    "Tim Burton remains the Wizard of Odd with this eye-filling if problematic confection.",
-    "The disappointment is that Burton has not yet found the storytelling and character-building strength to go along with his pictorial flair.",
-    "The Spielbergian attempt at sweetness--heralded by references in Danny Elfman's score to the Nutcracker Suite--never fully convinces."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "I think it combines a drama movie with a thriller movie in a perferct form, you can find some emotive and happy sequences, on the other side some horrible and dramatic sequences, everything is the performance of Johny Depp",
-      "review_date": "2012-05-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is one of the best Tim Burton and Johnny Depp movies. The story of how a misfit is pulled into a consumerist over-the-top happy society (or does it just appear that way?) -- Kinda reminds me of being a misfit in the town of snobs I grewThis is one of the best Tim Burton and Johnny Depp movies. The story of how a misfit is pulled into a consumerist over-the-top happy society (or does it just appear that way?) -- Kinda reminds me of being a misfit in the town of snobs I grew up in as a kid lol. I love this movie, I've scene it many times and have enjoyed it every time.",
-      "review_date": "2012-12-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Edward Scissorhands\" is an indescribably beautiful, yet uncommonly simple fairy tale with memorable performances, an iconic soundtrack, and some unforgettable imagery.",
-      "review_date": "2012-11-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is an example of a perfect movie. Great story, brilliant acting, beautiful visuals and a wonderful soundtrack. I consider this movie Tim Burton's greatest masterpiece and my personal favorite movie",
-      "review_date": "2013-01-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love this movie, it left a lump in my throat.",
-      "review_date": "2008-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Tim Burton with his trademark dark, fairytale-like brilliance.Johnny Depp & Dianne Wiest are great & Winona, oh Winona what happened??Decent score by Danny Elfman despite going into the Simpsons & Batman now & again.",
-      "review_date": "2010-09-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Edward Scissorhands is one of the best Christmas movies ever made. It's also Johnny Depp's best movie as well as Tim Burton's. An absolute cathartic joy, Edward Scissorhands is a beautiful modern fairytale for young and old alike. A true classic!",
-      "review_date": "2013-12-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Tim Burton has made a lot of good movies. This is one of them. Depp was great as Edward who was very sweet and quiet, which is why I liked him so much.",
-      "review_date": "2013-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In this modern fairy tale, Edward is a gentle, naive creation with razor sharp scissors for hands. When he is taken home by a kindly Avon lady live with her family, his adventure in the pastel paradise of Suburbia begins!",
-      "review_date": "2014-10-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The only type of person that could not appreciate this film is the type that has never stepped outside their safety zone. It deals with so many topics and executes them all beautifully and wonderfully. Tim Burton has had magic from the The only type of person that could not appreciate this film is the type that has never stepped outside their safety zone. It deals with so many topics and executes them all beautifully and wonderfully. Tim Burton has had magic from the beginning and has never lost it, but this film is where the true beauty shone thru.",
-      "review_date": "2008-03-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The quintessential dark fairy tale. Besides \"The Nightmare Before Christmas\", and \"Beetlejuice\", nothing can compare to the dark, mysterious, yet frightfully funny and enjoyable romp of \"Edward Scissorhands\". Diane Weist and Alan Arkin mold The quintessential dark fairy tale. Besides \"The Nightmare Before Christmas\", and \"Beetlejuice\", nothing can compare to the dark, mysterious, yet frightfully funny and enjoyable romp of \"Edward Scissorhands\". Diane Weist and Alan Arkin mold there stock characters to a tee. Winona Ryder plays stupid and blonde like no ones business. And Johnny Depp disappears into a world without fingers, a feat no one will ever be able to rival.",
-      "review_date": "2007-03-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I thought this movie was fab, it was touching and Edward was sweet. The only bad bit was because Edward and Kim never stayed together, it would have made it a better movie. I was crying at the end.",
-      "review_date": "2007-06-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie overall, very nice, especially how he actually was able to use the hands faster than humanly possible. One thing I dont understand is how he ate all those years that he was alone, what happened to the inventor's body, like Great movie overall, very nice, especially how he actually was able to use the hands faster than humanly possible. One thing I dont understand is how he ate all those years that he was alone, what happened to the inventor's body, like the police coming and such.",
-      "review_date": "2008-04-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I can't tell you how many times I have seen this movie, and yet, everytime I see it, it seems to get even better. I thought it was impossible to cry after you have seen a movie more than 5 times, but I seem to cry harder and harder with I can't tell you how many times I have seen this movie, and yet, everytime I see it, it seems to get even better. I thought it was impossible to cry after you have seen a movie more than 5 times, but I seem to cry harder and harder with each time I see it. Johnny Depp is an all-around amazing actor. The power to creates sympathy without words is incredible.",
-      "review_date": "2009-08-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Simply the most original and one of the best love stories ever told. Love the Depp/Burton combination.",
-      "review_date": "2006-02-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Out of all Burton's films, I value this one very sentimentally, as I'm sure most of the Burton-heads do. I'm quite the sucker for the sensitive, slightly defenseless male lead. Puppy-dog eyes are my achilles heel, in other Out of all Burton's films, I value this one very sentimentally, as I'm sure most of the Burton-heads do. I'm quite the sucker for the sensitive, slightly defenseless male lead. Puppy-dog eyes are my achilles heel, in other words. In the world of the absurd (and more specifically, the gothically absurd) Burton shines, and Depp's ability to just simply be anyone or anything makes this one perfect. No one can touch this one- I think it quite conclusively proves that Burton is the evil-genius we all hope he is.",
-      "review_date": "2006-07-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A masterpiece. I was crying badly. Johnny Depp is great.",
-      "review_date": "2007-03-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It was great but really sad. I CRIED!!!!!",
-      "review_date": "2007-06-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of my favorite movies! It is the story of \"an uncommonly gentle man\" and has great storytelling, and best of all, JOHNNY DEPP!!!!",
-      "review_date": "2009-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the greatest master-pieces that I have ever seen. Great story-line, great plot, great actor/actress and director, it completely takes us into earlier days and reasserts in us the feelings for old stories told by our elders. Truely One of the greatest master-pieces that I have ever seen. Great story-line, great plot, great actor/actress and director, it completely takes us into earlier days and reasserts in us the feelings for old stories told by our elders. Truely remarkable in every sense. Once I had watched it at a much younger age but still I could remember it fair enough but when I watched it again today I couldn't stop playing it till the end though I had other films waiting in line. I am writing for the first time for any movie, I couldn't stop myself.",
-      "review_date": "2006-12-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A story seemingly simple yet heartbreaking and complete in itself. Comedy. Romance. Quirkiness. Satire. And overwhelming tragedy. Edward has scissors for hands, but the real monsters in this film are the \"normal\" people who taunt, use and A story seemingly simple yet heartbreaking and complete in itself. Comedy. Romance. Quirkiness. Satire. And overwhelming tragedy. Edward has scissors for hands, but the real monsters in this film are the \"normal\" people who taunt, use and reject him, refusing to appreciate his soul that is gentle, pure, and giving without asking anything back. The ultimate beautifully sad fairy tale that does not let go for days. R.D. and Ugly are right.",
-      "review_date": "2009-01-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie. If you like a darker yet heartfelt fairy tale then this is for you. For the idiots reviewing things like ITS NOT FUNNY or ITS NOT REALISTIC. Its a fairy tale last time i checked giants living in clouds and bears living in a houseGreat movie. If you like a darker yet heartfelt fairy tale then this is for you. For the idiots reviewing things like ITS NOT FUNNY or ITS NOT REALISTIC. Its a fairy tale last time i checked giants living in clouds and bears living in a house were pretty damn realistic like all fairy tales. *sarcastic* Oh and its not a comedy! If you couldn't tell from the cover of the movie. If you don't watch a movie genre you don't like ITS NOT THE FILMS FAULT",
-      "review_date": "2012-06-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Every single minute of this was wonderful, touching, and brilliant, and the ending was predictable but nevertheless emotional. As a whole, I really liked EDWARD SCISSORHANDS, and I really think that this is one of Johnny Depp's very, veryEvery single minute of this was wonderful, touching, and brilliant, and the ending was predictable but nevertheless emotional. As a whole, I really liked EDWARD SCISSORHANDS, and I really think that this is one of Johnny Depp's very, very best roles of all-time.",
-      "review_date": "2011-09-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Johnny Depp and Tim Burton have become a profitable duo over the past two decades. The partnership began in 1990 with the creation of this modern fairy tale.  This is my favorite of Depp's performances, as well as my favorite of Burton'sJohnny Depp and Tim Burton have become a profitable duo over the past two decades. The partnership began in 1990 with the creation of this modern fairy tale.  This is my favorite of Depp's performances, as well as my favorite of Burton's films. Edward is fragile and frightening in the very same breath; a creature from a warped and dark imagination stranded in a world of pastels.",
-      "review_date": "2012-01-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I didn't love it, but Edward Scissorhands was still a good film overall. It had a good message to it and interesting characters in it. I just wasn't a big fan of the environment surrounding it and it kind of derived from the seriousness ofI didn't love it, but Edward Scissorhands was still a good film overall. It had a good message to it and interesting characters in it. I just wasn't a big fan of the environment surrounding it and it kind of derived from the seriousness of this film at times. I guess i'm just not the biggest Tim Burton fan, but Johnny Depp did a good job playing Edward and I think that this film may still be worth watching.",
-      "review_date": "2014-05-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A perfect score for a perfect movie from one of the perfect collaborations in Hollywood. No wonder Depp-Burton friendship has lasted this long, every time producing the most quirky, weird and all the while wonderful films. A salute to theA perfect score for a perfect movie from one of the perfect collaborations in Hollywood. No wonder Depp-Burton friendship has lasted this long, every time producing the most quirky, weird and all the while wonderful films. A salute to the uniqueness in all of us, this film is, I believe, Burton's chef d'oeuvre.",
-      "review_date": "2014-05-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nI'm not really into the Romance genre, but this is probably my favourite in the genre. I find this movie to be interesting, the characters and the backstory was quite cool. I like Edward because his character is nothing I have seen before. Now movies like this would have tons of cliches if it was made in this millennium.",
-      "review_date": "2015-08-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Johnny Depp played Edward really well. Edward had a charming sweetness about him that grips out at me and pulls me in to watch more. I never get tired of this tragic fairy tale.",
-      "review_date": "2011-05-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great Johnny Depp acting and a great history. Emotional some times and funny other times make this movie required to everyone that is a huge cinema fan.",
-      "review_date": "2012-01-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is my all time favorite movie and I could go into how much I love it for hours. I will save reading and writing for that matter to keep this short and sweet. This movie is well acted, directed, and the score is just amazing. Every timeThis is my all time favorite movie and I could go into how much I love it for hours. I will save reading and writing for that matter to keep this short and sweet. This movie is well acted, directed, and the score is just amazing. Every time my iPod plays the ice dance song I get chills. This is by far one of johnny's best performances and why I call him my favorite actor. If you haven't seen it give ti a watch, but if you have watch it again this movie merits re watches and I always catch something new that I didn't see the other times I watched it from the house getting bug bombed in the background to how well the sets and character comment on a slice of suburbia that I honestly can say i live in.",
-      "review_date": "2013-05-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Charming, unique and pretty. You've got to love Edward and his scissor hands. Depp guided by Burton is great in this film and Burton's style of directing is exactly what this film needed to be great.",
-      "review_date": "2013-12-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "TIm Burton's \"Scissorhands\" flows smoothly with marvelous acting from Johnny Depp and creative direction by Burton himself. Possibly Depp+Burton combination is one of the best I've seen in years.",
-      "review_date": "2011-09-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film proves Burton has the ability to combine tragedy, comedy, satire and American culture all into one film. The chemistry between Depp and Ryder is wonderful and the story itself original.",
-      "review_date": "2014-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "OH MY GOSH! This was the WORST MOVIE I'VE EVER SEEN!!! And I'm not just saying that... I've seen my fair share of bad movies, but 'Edward Scissorhands' was literally the WORST OF ALL! The title itself practically OH MY GOSH! This was the WORST MOVIE I'VE EVER SEEN!!! And I'm not just saying that... I've seen my fair share of bad movies, but 'Edward Scissorhands' was literally the WORST OF ALL! The title itself practically gives away the whole dull plot of this terrible movie, and I must say that I have absolutely no idea why a man with Johnny Depp's talents would resort to acting in it, and why anyone would like this trash... Why is the user rating on metacritic so high!? 'Edward Scissorhands' is another work of utter garbage from a most dreadful director/screenwriter in Tim Burton, who has not as of yet (and most likely never will) created a movie that is enjoyable to watch in the slightest. How can he still be allowed to write and direct movies for Hollywood, and how can anyone possibly bear to give him any compliments for his works of complete and utter crap!? The first time I watched 'Charlie and the Chocolate Factory' (the original) I wasn't particularly impressed, but after watching Tim Burton's feeble attempt at it (why was Johnny Depp in this one as well? Does he feel sorry for Burton or are they so closely related that his parents won't let him refuse his offers or something), I thought of the original as quite a masterpiece. I like randomness, in fact I think it brings in an amusing factor that is often needed in a movie, but Tim Burton's 'random' just adds more boring to his already tedious and nonsensical story-lines. Wasn't Beetlejuice supposed to be a comedy/horror movie...? Those are the best two combination to keep a viewer interested, but I actually fell asleep after just 15 minutes... ...and I'd gotten 14 hours sleep the night before!!! What made 'Edward Scissorhands' all the worse for me was that, after viewing it at school (I would never have watched it otherwise), our whole English class had to explore into the movies' depths and find out how it was made and how different stupid things had hidden meanings (things that Tim Burton himself probably didn't even think about when writing it). Delving into the movie itself did nothing to make me enjoy it any more, in fact it made the dreary experience just as bad as when I watched it in the first place (I mean it couldn't possibly get any worse!), it just took a hell of a lot longer to get through. So overall, 'Edward Scissorhands', worst movie ever, pointless plot, overly colorful, completely unfunny, totally unrealistic (which ties in with my last point, if the unrealism had a little humor it would have been okay, but scissorhands...? Scissorhands!? That's like something a Primary School Child would think is cool, until they GROW UP!!!), awfully directed and written (I hate you Tim Burton!), and even completely disgusting at times (what was that woman doing to Depp in the back room?). I wouldn't recommend this atrocity of a film to anyone with at least half a brain.",
-      "review_date": "2008-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Yep, nothing else to say. worst movie I ever wasted time on. it's films like these that drop the standard of today's American films.",
-      "review_date": "2008-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolute and complete rubbish... can't believe I watched it... After watching 'Pirates of the Caribbean' I must say I'm pretty disappointed in you Johnny... But I could never hate you! You're still the best actor in Absolute and complete rubbish... can't believe I watched it... After watching 'Pirates of the Caribbean' I must say I'm pretty disappointed in you Johnny... But I could never hate you! You're still the best actor in the world!!!!!!!! The '1' was for you. Otherwise I hated the movie",
-      "review_date": "2008-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The lump in Jared K's throat was his balls. They obviously realized he was no longer a male. Can't imagine any actual males liking this complete shit. waste of acting talent.",
-      "review_date": "2009-10-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Literally the worst movie i've ever seen. even johnny depp's acting talent was dulled by this atrocious excuse for a movie. tim burton is a man of absolutely no skill, and this was made painfully obvious by 'edward Literally the worst movie i've ever seen. even johnny depp's acting talent was dulled by this atrocious excuse for a movie. tim burton is a man of absolutely no skill, and this was made painfully obvious by 'edward scissorhands'. absolute rubbish.",
-      "review_date": "2009-08-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I think it's funny how jaque m didn't give a single decent reason why the movie was bad, he just review Charlie and the chocolate factory a little. I've never seen someone write so much and say absolutely nothing. The movie I think it's funny how jaque m didn't give a single decent reason why the movie was bad, he just review Charlie and the chocolate factory a little. I've never seen someone write so much and say absolutely nothing. The movie was okay, a little dull and it hasn't aged well, but a good attempt.",
-      "review_date": "2009-10-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This was a fantastic movie! Oh, wait... i was thinking of something that wasn't this piece of crap. Terrible film and i'm going to have to agree with jaque and say that this was, honestly, the worst movie i've ever seen",
-      "review_date": "2010-09-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It definitely has one of the best scores ever created for film, but if you take away that, the film is just weird. Could had been much better. It has a bittersweet ending, which is something I greatly appreciate.",
-      "review_date": "2013-06-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "From the wild and wacky mind of Tim Burton comes Edward Scissorhands, a tragic and charming look at a man with scissors for hands. A film that only Burton could make, his direction is as sound as usual and he manages to evoke considerableFrom the wild and wacky mind of Tim Burton comes Edward Scissorhands, a tragic and charming look at a man with scissors for hands. A film that only Burton could make, his direction is as sound as usual and he manages to evoke considerable sympathy for this tragic figure who is, otherwise, a normal man but cursed to live his days with scissors as hands. Johnny Depp does a great job bringing this man to life and brings a certain tenderness and has fantastic chemistry with Winona Ryder when it comes to the romantic element of the film. The writing is incredibly strong and, together with Burton's direction, keeps this one reined in and keeps it from getting out of control when it easily could have with such a crazy premise. The characters are well developed and truly multi-dimensional. Edward Scissorhands' portrayal of suburban life also feels delightfully and quintessentially late 80s, early 90s and really serves as a perfect backdrop for the introduction of such a weird and unique person. Though I may be one of the few to have never seen Edward Scissorhands, it is truly timeless and will live on for a long, long time due to its fairy tale and thematic elements that really are universal and its ability to be both unique, yet incredibly stirring, tragic, and moving. This one is Tim Burton at his very finest.",
-      "review_date": "2016-07-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Edward Scissorhands, a beautifully made movie from the imagination of Tim Burton (Beetlejuice, Batman). A sort of comedy/romance kind of film starring Johnny Depp and Winona Ryder but will not give the story away because I'm sure most haveEdward Scissorhands, a beautifully made movie from the imagination of Tim Burton (Beetlejuice, Batman). A sort of comedy/romance kind of film starring Johnny Depp and Winona Ryder but will not give the story away because I'm sure most have seen it. However my opinion of this film is Winona Ryder as Kim looks beautiful in this film, infact she's the real highlight that stands out in the whole film for me!! Johnny Depp was clumsy but good as Edward Scissorhands and it's a funny but beautiful film. Great movie which would be good to watch at Christmas because of the scenes when it's snowing.",
-      "review_date": "2020-03-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "85%!The sound is there, the concept is there, just din't have the right technology to make it look better back then.  Compassion driven wisely, good quality of comedic elements.  Don't like Johnny Depp's facial expression though.",
-      "review_date": "2011-10-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Typical Burton film, very strange and quirky but not particularly clever. Depp is good.",
-      "review_date": "2019-04-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I feel like I can see a future genius honing his craft.  This movie has so much potential, but that something special about Tim Burton's best movies is just missing.",
-      "review_date": "2022-07-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Um dos filmes de romance mais eficiente,funciona também como comédia,Brilhante feito de Tim Burton,Johnny Depp dar uma performance fenomenal quase só facial pois o personagem não fala muito,Dianne Wiest também é fenomenal,Winona Ryder estáUm dos filmes de romance mais eficiente,funciona também como comédia,Brilhante feito de Tim Burton,Johnny Depp dar uma performance fenomenal quase só facial pois o personagem não fala muito,Dianne Wiest também é fenomenal,Winona Ryder está perfeita também",
-      "review_date": "2015-01-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Johnny Depp with a great performance, his Edward ist very sad and with low self confidence, a sympathetic character.The story is sad also and a bit unrealistic, but intentionally exaggerated, like a fairy tale. So dont take everythingJohnny Depp with a great performance, his Edward ist very sad and with low self confidence, a sympathetic character.The story is sad also and a bit unrealistic, but intentionally exaggerated, like a fairy tale. So dont take everything seriously. But the bottom line about the bourgeois is clear and surely true.The art design was a master piece earlier, today every film lover knows Tim Burton.",
-      "review_date": "2023-02-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Edward Scissorhands is one of the first collaborations between director Tim Burton and Johnny Depp and the two have become a pretty successful duo in film. The movie is certainly shot differently than another film did before and the plot isEdward Scissorhands is one of the first collaborations between director Tim Burton and Johnny Depp and the two have become a pretty successful duo in film. The movie is certainly shot differently than another film did before and the plot is so original and weird but the film is still a good watch and I think everyone should watch this movie even though it may be a bit dated now.",
-      "review_date": "2015-04-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A fantastic movie no doubt about it.The best thing in the movie is the acting especially Johnny Depp's.He just used facial features to show emotion rather than words and it pays off.Burton put his heart and soul into this and it shows,it'sA fantastic movie no doubt about it.The best thing in the movie is the acting especially Johnny Depp's.He just used facial features to show emotion rather than words and it pays off.Burton put his heart and soul into this and it shows,it's just perfect.The best in my opinion is the score by Danny Elfman.It's one of his best and I watched the movie because of the soundtrack.It's beautiful.The movie is excellent definitely worth the time.It's beautiful.",
-      "review_date": "2014-11-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Looks very good, and the main character Edward was really likable and emotional. Things got pretty deep towards the end. While I liked Edward, I didn't like the other characters. They were there and they had some soul in them, but it didn'tLooks very good, and the main character Edward was really likable and emotional. Things got pretty deep towards the end. While I liked Edward, I didn't like the other characters. They were there and they had some soul in them, but it didn't feel like the movie focused on them at all. I felt like Edward was the only character that really had a personality and he was the only one that I cared for. Johnny Depp was really good, and the acting overall felt alright from the whole cast, and many scenes were fun to watch. But I didn't feel that invested in the world. Maybe I was just thinking the wrong way or I don't know..",
-      "review_date": "2016-09-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Edward scissor hands might just be Tim Burtons best film mainly because of its themes of being different and ambient visual style and musical score and like many other Tim burton flicks the cast is great.",
-      "review_date": "2015-08-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Other films that are genuinely moving are The Elephant Man, Fearless and Camille. Edward Scissorhands is a film of darkness and beauty, that makes it such a wonderful and unique film to see. One thing that I really liked about EdwardOther films that are genuinely moving are The Elephant Man, Fearless and Camille. Edward Scissorhands is a film of darkness and beauty, that makes it such a wonderful and unique film to see. One thing that I really liked about Edward Scissorhands was the music score by Danny Elfman, which was very beautiful, sensitive and mysterious. A good example is in the beginning credits, with the angelic choir accompanying the Christmas-like images on screen. The cinematography was gorgeous, with bright imaginative close-ups contrasted with genuinely Gothic scenes, like when we first meet Edward in the dark house. The script, while not the strongest category of the film, was still very touching, and added to the charm and suspense that was already ensured in the film. The direction by Tim Burton had all his trademarks, very dark and suspenseful, evident in films like Batman and Sleepy Hollow, if a little odd at times, which is fairly typical of Burton. While there were one or two funny moments, the film is genuinely poignant, with a heart-rending ending. I will say I was most impressed with the acting, topped by Johnny Depp's tragic and poignant portrayal of the title character, and then Winona Ryder as Kim, while not quite as convincing is still very sensitive. I was shocked that Depp didn't get an Oscar for his performance, he doesn't say much, but his facial expressions fully justify. There was also sterling support from Dianne West, Kathy Baker et al, while Vincent Price in a minor role as the inventor also impresses, such a shame he died three years later, he was a brilliant actor, if you see him as the truly Machiavellian villain in Great Mouse Detective, or the sadistic Matthew Hopkins in Witchfinder General, you'll know what I mean. As I have already said, the ending is so heart-rending, that I will confess I got through half'a box of tissues. Overall, a remarkably beautiful and poignant film that had me speechless. My advice to anyone who hasn't seen it, and is planning to, have a box of tissues at the ready, it is that sad. 10/10 Bethany Cox.",
-      "review_date": "2022-03-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Edward Scissorhands is wonderful well develop film; led by the brilliant performance of Johnny Deep who carries this film and shines at it as well, Overall, this is a modern classic film by Tim Burton",
-      "review_date": "2016-01-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Each time I watch this movie, I love it more. A true cinematic masterpiece. I cry all the way through. I think that it speaks to the teenager in us all and touches on some emotions we rarely look at on our own.",
-      "review_date": "2015-11-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This whole film feels like a bad soap opera, with a wasted talent as the main character....\rThe whole film is always the same, the feeling that is supposed to make you feel for the character, the \"not being accepted\" issue, every human beingThis whole film feels like a bad soap opera, with a wasted talent as the main character....\rThe whole film is always the same, the feeling that is supposed to make you feel for the character, the \"not being accepted\" issue, every human being has felt at least in some part of their lives...\rThe movie makes little to no sense and i cant realize what people really see in this movie, camera angles are not special...\rThe plot is so typical as the cheerleader falls in love with the unusual guy and then the \"bad guy\" american athletic teenager gets angry at the unusual character, and decides to hurt him because he feels as he is going to hurt the cheerleader, the only difference is the special touch of johnny depp´s acting, and also the fact that the unusual teenager, is an unfinished machine, but everything else goes by the book of these film´s genre",
-      "review_date": "2016-09-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The well known story of Frankenstein re-made as fairy tale in charming vintage environment. A fable about tolerance, that put Johnny Depp under the spotlight. Pay attention for Vincent Price in his final performance.",
-      "review_date": "2019-05-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Tim Burton sait indubitablement donner vie à ses univers fantaisistes, au moins d'un point de vue purement esthétique...  la photographie et les décors sont ici dignes d'une fable pleine d'émerveillement, le choix des couleurs est judicieux,Tim Burton sait indubitablement donner vie à ses univers fantaisistes, au moins d'un point de vue purement esthétique...  la photographie et les décors sont ici dignes d'une fable pleine d'émerveillement, le choix des couleurs est judicieux, y compris les costumes de cette sorte de banlieue bon chic bon genre typique des années 50 ou 60 mais en même temps... hors du temps : une espèce d'allégorie en somme.Ainsi, le petit bonhomme aux ciseaux (dans son costard sado-maso taillé sur mesure) se fond-t-il sans forcer dans ce petit monde déjà bizarre et caricatural où ses services sont immédiatement appréciés comme tailleur de haies, sculpteur sur glace et... coiffeur de ces dames et de leurs clébards. Tout cela peut faire sourire et on sourit en effet parfois...Mais on trouve déjà le temps long alors que Tim Burton s'enlise dans sa démonstration des problèmes que peut engendrer quelqu'un de trop différent et la difficulté d'insertion que cela peut représenter au sein d'une société très ordonnée. A son agenda social, Tim Burton rajoute celui de la \"Belle et la Bête\", de l'amour impossible et de la jalousie et plus prosaïquement d'un mini-Frankenstein qui vient de naître, naïf et vulnérable à la manipulation et méchanceté des hommes...En vérité, tout cela sonne déjà assez lourd sur le papier mais se révèle en pratique d'une maladresse et d'une niaiserie à la fois pénibles et ridicules. La petite poésie longuette se mue alors en guimauve absolue et en petite morale à deux balles... Et si Johnny est assez remarquable en horticulteur ravi de la crèche, Winona est horripilante de médiocrité, pour ne pas dire plus.Trop ramolli, trop lourdingue dans ses intentions et trop neuneu, le film finit donc par s'effondrer sur lui-même : une belle coquille vide.",
-      "review_date": "2018-07-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "it never snowed..Edward Scissorhands\n\nIt resembles with Disney cartoon features but the problem in here is that it is a real world and is probably one of the reasons why some of the sequences would be difficult to digest and would raiseit never snowed..Edward ScissorhandsIt resembles with Disney cartoon features but the problem in here is that it is a real world and is probably one of the reasons why some of the sequences would be difficult to digest and would raise some questions that should not be. But as I said, Edward Scissorhands being somewhat similar to a Disney feature offers everything i.e. sketchy and shady characters, peculiar world and amusing perspectives. Tim Burton still lacks a better execution as he fails convincing the audience that it is all \"real\" or even the accept the stills that are projected. But if he fails, Johnny Depp has got his back and not only does he convince them but makes them feel for the character; he is flat out amazing but needs a better supporting cast. Edward Scissorhands scores majestically in pouring out emotions on screen through stellar performances and brilliant writing but unfortunately could not deliver the perfect execution and editing that it deserved.",
-      "review_date": "2018-02-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film shows us Edward, a humanoid created by a scientist who died before he could finish his creation. Because of this, Edward has big scissors instead of fingers and a strange looking, almost industrial. But he ends up being found amidThis film shows us Edward, a humanoid created by a scientist who died before he could finish his creation. Because of this, Edward has big scissors instead of fingers and a strange looking, almost industrial. But he ends up being found amid the ruins of the mansion where he was born and taken to a suburban neighborhood, where life is always the same, made of perfection appearances. Directed by Tim Burton, has a screenplay by Caroline Thompson and counts on the participation of Johnny Depp and Winona Ryder.This film is a modern Christmas tale and, for a decade, was very broadcast on televisions around this time of year. The story is very beautiful and touching, and makes us think about issues such as the right to be different from others, the difference between being and seeming, the exaggerated importance we give to appearances and the little importance we give to what is genuine, and how our society corrupts what is naturally good (Rousseau revisited?). Despite it usually have a parental rating accessible to children, this film seems to have been designed for public since the age of ten. The cast is reasonable but not surprising, except for Johnny Depp and Winona Ryder, actors who had, in this movie, the first major opportunity to shine, and where Depp inaugurated a long and fruitful partnership with Burton, which lasts until today. The photography and the visual effects are very good. The sets and costumes are interesting, helping to get the message proposed in the film, and the soundtrack is marked by the main theme, composed by Danny Elfman. This piece remained in the memory of the audience for its beauty and magic, becoming one of the most beautiful musical pieces made for film.",
-      "review_date": "2018-02-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Excellent movie. The viewer can totally feel sympathy for the character. It's a classic.",
-      "review_date": "2018-05-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What an amazing movie.A great mix of comedy and drama.And its also such a cold movie,the ending leaves you with so many questions,and its also very sad and unfair!",
-      "review_date": "2019-05-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If nothing else, watch it for the soundtrack ... only Danny Elfman can write music that's beautiful, melancholic, hopeful, inspiring, and slightly creepy all at the same time. An amazing story that will warm your heart.",
-      "review_date": "2019-06-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Very enjoyable.It's funny the way we picture things in our minds. I had heard of 'Edward Scissorhands' but actually knew very little about it, typified by the fact I was expecting this to be very dark - probably just based on the seeing theVery enjoyable.It's funny the way we picture things in our minds. I had heard of 'Edward Scissorhands' but actually knew very little about it, typified by the fact I was expecting this to be very dark - probably just based on the seeing the cover here and there. It's much sillier than expected, but in a positive way.I do kinda end up wishing they went down a more dark/creative route, instead of relying on the novelty of having scissors as hands; though, to be fair, they do touch on the deeper side a bit. With that said, I did get a good amount of entertainment seeing this plot unfold. It's weird and wonderful.Johnny Depp is a great actor and is very good here, mainly via his facial expressions and body language. It's cool to see Winona Ryder involved, someone I've thoroughly enjoyed in more recent times in 'Stranger Things'. Alan Arkin and Anthony Michael Hall also appear.The film looks neat, as I've come to expect from Tim Burton. It has the obvious touch of Bo Welch to it, with the neighbourhood looking not too dissimilar to what Welch would create for 2003's 'The Cat in the Hat' - which I, truly, enjoyed.Undoubtedly worth a watch.",
-      "review_date": "2021-01-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The thematically rich subject matter of Edward Scissorhands is masterfully incorporated in its romantically driven story that provides influential ambition.",
-      "review_date": "2020-07-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Love this movie. It's like a non evil Freddy Kruger. The ending could have been better though.",
-      "review_date": "2022-12-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Tim Burton doesn’t have the staying power with me that he once did. When I think of modern Burton I tend to think of very drab, heavily CG’d, washed out looking films that tend to oversell on the “dark and whimsical” style that he was once aTim Burton doesn’t have the staying power with me that he once did. When I think of modern Burton I tend to think of very drab, heavily CG’d, washed out looking films that tend to oversell on the “dark and whimsical” style that he was once a pioneer of. It’s such a shame that I dread seeing any new movie of his because I know, deep down, that he still has the potential of creating great, fantastical films. When I think of Tim Burton, I think fondly of the days of Batman ’89, Beetlejuice, Ed Wood and, most personally, Edward Scissorhands. It’s a film I grew up watching as a kid on my mom’s laserdisc. I was intrigued by the look of the film, the music, and Edward himself. It had been many years since I have seen this movie to completion, and as an adult I have been able to gain a newfound appreciation for it. The story follows the titular Edward Scissorhands, a lonely, incomplete creation of a professor (played by Vincent Price) who is discovered by local suburban saleswoman Peg Boggs. Feeling sympathy for Edward, she takes him back to her home in a suburban neighborhood filled with incredibly nosey housewives that are smitten by this mysterious person. Edward quickly finds a place for himself, creating hedge art for the people and even as their hair stylist. Edward also falls for Peg’s daughter Kim, who is uncertain of Edward at first but slowly starts to care for him. The whole movie plays out like a gothic fairytale (it helps that the story is being told as a bedtime story), and the movie positively drips with Burton’s signature style. Edward’s intimidating presence heavily contrasts with the uniform, pastel-colored suburban neighborhood. He epitomizes the types of characters Burton tends to gravitate towards: the misunderstood misfit that may look strange, but is a gentle soul. Danny Elfman’s fantastic score helps to sell the film’s gothic fairytale feel, perfectly encapsulating Edward’s mood and state of mind in any given situation. The suburban neighbors are appropriately nosey, immediately infatuated with Edward but just as quickly are able to turn on him the second he makes a mistake. This would be the first of many collaborations between Burton and Johnny Depp, and this was a damn strong start. Depp is great in this film, perfectly capturing the innocence and awkwardness that Edward displays. Winona Ryder is great as Kim, and I even liked Anthony Michael Hall as Kim’s dirt bag boyfriend Jim. Everyone in the film is great, for that matter, even Vincent Price for as little screen-time as he gets portrays the same level of kindness that Edward carries over. Of course, I can’t forget to mention Stan Winston’s fantastic make-up and scissor effects for Depp. Edward’s look has become iconic and still unique among the rest of Burton’s catalogue. There only a few gripes I have with the film, like people for some reason not immediately helping him with basic tasks that he obviously can’t do with scissor hands. It’s usually played up for comedic affect but the entire time I couldn’t help but say, “Help him already!” These gripes are minor in the grand scheme of things, though. As far as discussing Tim Burton’s filmography is concerned, this easily in the top 5 in my opinion. Everything you need to know about him is on display in Edward Scissorhands. After all these years, I still think this movie is wonderful and it absolutely comes recommended not just for fans of Tim Burton, but just for being a good, well-rounded movie.",
-      "review_date": "2020-09-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \n'Edward Scissorhands' (1990) is a beautiful romantic, fantasy movie. The director, Tim Burton, paid close attention to the atmosphere of the movie, which makes it even more fascinating. Before this movie, his works included Beetlejuice (1988) and Batman (1989). The production of 'Edward Scissorhands' began with a budget of $20 million. The stars are Johnny Depp and Winona Ryder, who perfectly suited their roles. Caroline Thompson worked on the script. She later went on to work as a screenwriter on \"The Addams Family\" (1991) and \"The Nightmare Before Christmas\" (1993).Edward was created by an inventor who before his death, had given him nearly everything a human body has, apart from hands. Instead of hands, Edward has scissors. He lived in the inventor's gothic house till Peg Boggs finds him once and brings him to her house and family. Since then, the lives of Edward, Peg's family and the whole city started to change.'Edward Scissorhands' was a critically acclaimed movie, which may be as popular with the young audience as it is with older moviegoers. I guess everyone could find something special in this movie. Also, I'd like to mention the soundtrack, which was written by Danny Elfmann. It brilliantly underlines the beauty of this movie. This movie is not only a sensitive romantic story, but also a big question about how people sometimes hold prejudices that could easily harm someone else around them.Written by Anastasiia Shystovska",
-      "review_date": "2020-12-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Depp's weird likability is at full force here and turns a movie with a story that is a bit off into a movie that is one of the best for it's time.",
-      "review_date": "2021-11-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "i'm not so used to watch movies made before 2000s, but this was a sweet fairytale. edward was gentle, still charming creature. iconic soundtrack.",
-      "review_date": "2022-06-05",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 82
+    "title": "Edward Scissorhands",
+    "rating": 8.7,
+    "release_date": "1990-12-07",
+    "genre": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+    ],
+    "summary": "In this modern fairy tale, Edward is a gentle, naive creation with razor sharp scissors for hands. When he is taken home by a kindly Avon lady live with her family, his adventure in the pastel paradise of Suburbia begins! (20th Century Fox)",
+    "critic_reviews": [
+        "A classic... Edward Scissorhands is a sharp salute to the oddball in all of us.",
+        "Simple, funny, gorgeous, sad, and sweet, perfect for playing over and over.",
+        "A delightful and delicate comic fable.",
+        "Depp, as the the fragile but irresistibily fabulous title character, is a delight.",
+        "Amusing and inventive.",
+        "An ambitious and quite beautifully conceived fairy tale for the 90s.",
+        "Like a great chef concocting an exquisite peanut butter-and-jelly sandwich, Mr. Burton invests awe-inspiring ingenuity into the process of reinventing something very small.",
+        "Edward Scissorhands isn't perfect. It's something better: pure magic.",
+        "The theme--that just beyond the edge of the perfectly normal lies the truly bizarre--is realized with intelligence and visual flair.",
+        "Tim Burton remains the Wizard of Odd with this eye-filling if problematic confection.",
+        "The disappointment is that Burton has not yet found the storytelling and character-building strength to go along with his pictorial flair.",
+        "The Spielbergian attempt at sweetness--heralded by references in Danny Elfman's score to the Nutcracker Suite--never fully convinces."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "I think it combines a drama movie with a thriller movie in a perferct form, you can find some emotive and happy sequences, on the other side some horrible and dramatic sequences, everything is the performance of Johny Depp",
+            "review_date": "2012-05-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one of the best Tim Burton and Johnny Depp movies. The story of how a misfit is pulled into a consumerist over-the-top happy society (or does it just appear that way?) -- Kinda reminds me of being a misfit in the town of snobs I grewThis is one of the best Tim Burton and Johnny Depp movies. The story of how a misfit is pulled into a consumerist over-the-top happy society (or does it just appear that way?) -- Kinda reminds me of being a misfit in the town of snobs I grew up in as a kid lol. I love this movie, I've scene it many times and have enjoyed it every time.",
+            "review_date": "2012-12-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Edward Scissorhands\" is an indescribably beautiful, yet uncommonly simple fairy tale with memorable performances, an iconic soundtrack, and some unforgettable imagery.",
+            "review_date": "2012-11-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is an example of a perfect movie. Great story, brilliant acting, beautiful visuals and a wonderful soundtrack. I consider this movie Tim Burton's greatest masterpiece and my personal favorite movie",
+            "review_date": "2013-01-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love this movie, it left a lump in my throat.",
+            "review_date": "2008-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Tim Burton with his trademark dark, fairytale-like brilliance.Johnny Depp & Dianne Wiest are great & Winona, oh Winona what happened??Decent score by Danny Elfman despite going into the Simpsons & Batman now & again.",
+            "review_date": "2010-09-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Edward Scissorhands is one of the best Christmas movies ever made. It's also Johnny Depp's best movie as well as Tim Burton's. An absolute cathartic joy, Edward Scissorhands is a beautiful modern fairytale for young and old alike. A true classic!",
+            "review_date": "2013-12-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Tim Burton has made a lot of good movies. This is one of them. Depp was great as Edward who was very sweet and quiet, which is why I liked him so much.",
+            "review_date": "2013-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In this modern fairy tale, Edward is a gentle, naive creation with razor sharp scissors for hands. When he is taken home by a kindly Avon lady live with her family, his adventure in the pastel paradise of Suburbia begins!",
+            "review_date": "2014-10-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The only type of person that could not appreciate this film is the type that has never stepped outside their safety zone. It deals with so many topics and executes them all beautifully and wonderfully. Tim Burton has had magic from the The only type of person that could not appreciate this film is the type that has never stepped outside their safety zone. It deals with so many topics and executes them all beautifully and wonderfully. Tim Burton has had magic from the beginning and has never lost it, but this film is where the true beauty shone thru.",
+            "review_date": "2008-03-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The quintessential dark fairy tale. Besides \"The Nightmare Before Christmas\", and \"Beetlejuice\", nothing can compare to the dark, mysterious, yet frightfully funny and enjoyable romp of \"Edward Scissorhands\". Diane Weist and Alan Arkin mold The quintessential dark fairy tale. Besides \"The Nightmare Before Christmas\", and \"Beetlejuice\", nothing can compare to the dark, mysterious, yet frightfully funny and enjoyable romp of \"Edward Scissorhands\". Diane Weist and Alan Arkin mold there stock characters to a tee. Winona Ryder plays stupid and blonde like no ones business. And Johnny Depp disappears into a world without fingers, a feat no one will ever be able to rival.",
+            "review_date": "2007-03-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thought this movie was fab, it was touching and Edward was sweet. The only bad bit was because Edward and Kim never stayed together, it would have made it a better movie. I was crying at the end.",
+            "review_date": "2007-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie overall, very nice, especially how he actually was able to use the hands faster than humanly possible. One thing I dont understand is how he ate all those years that he was alone, what happened to the inventor's body, like Great movie overall, very nice, especially how he actually was able to use the hands faster than humanly possible. One thing I dont understand is how he ate all those years that he was alone, what happened to the inventor's body, like the police coming and such.",
+            "review_date": "2008-04-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I can't tell you how many times I have seen this movie, and yet, everytime I see it, it seems to get even better. I thought it was impossible to cry after you have seen a movie more than 5 times, but I seem to cry harder and harder with I can't tell you how many times I have seen this movie, and yet, everytime I see it, it seems to get even better. I thought it was impossible to cry after you have seen a movie more than 5 times, but I seem to cry harder and harder with each time I see it. Johnny Depp is an all-around amazing actor. The power to creates sympathy without words is incredible.",
+            "review_date": "2009-08-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Simply the most original and one of the best love stories ever told. Love the Depp/Burton combination.",
+            "review_date": "2006-02-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Out of all Burton's films, I value this one very sentimentally, as I'm sure most of the Burton-heads do. I'm quite the sucker for the sensitive, slightly defenseless male lead. Puppy-dog eyes are my achilles heel, in other Out of all Burton's films, I value this one very sentimentally, as I'm sure most of the Burton-heads do. I'm quite the sucker for the sensitive, slightly defenseless male lead. Puppy-dog eyes are my achilles heel, in other words. In the world of the absurd (and more specifically, the gothically absurd) Burton shines, and Depp's ability to just simply be anyone or anything makes this one perfect. No one can touch this one- I think it quite conclusively proves that Burton is the evil-genius we all hope he is.",
+            "review_date": "2006-07-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A masterpiece. I was crying badly. Johnny Depp is great.",
+            "review_date": "2007-03-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was great but really sad. I CRIED!!!!!",
+            "review_date": "2007-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of my favorite movies! It is the story of \"an uncommonly gentle man\" and has great storytelling, and best of all, JOHNNY DEPP!!!!",
+            "review_date": "2009-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the greatest master-pieces that I have ever seen. Great story-line, great plot, great actor/actress and director, it completely takes us into earlier days and reasserts in us the feelings for old stories told by our elders. Truely One of the greatest master-pieces that I have ever seen. Great story-line, great plot, great actor/actress and director, it completely takes us into earlier days and reasserts in us the feelings for old stories told by our elders. Truely remarkable in every sense. Once I had watched it at a much younger age but still I could remember it fair enough but when I watched it again today I couldn't stop playing it till the end though I had other films waiting in line. I am writing for the first time for any movie, I couldn't stop myself.",
+            "review_date": "2006-12-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A story seemingly simple yet heartbreaking and complete in itself. Comedy. Romance. Quirkiness. Satire. And overwhelming tragedy. Edward has scissors for hands, but the real monsters in this film are the \"normal\" people who taunt, use and A story seemingly simple yet heartbreaking and complete in itself. Comedy. Romance. Quirkiness. Satire. And overwhelming tragedy. Edward has scissors for hands, but the real monsters in this film are the \"normal\" people who taunt, use and reject him, refusing to appreciate his soul that is gentle, pure, and giving without asking anything back. The ultimate beautifully sad fairy tale that does not let go for days. R.D. and Ugly are right.",
+            "review_date": "2009-01-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie. If you like a darker yet heartfelt fairy tale then this is for you. For the idiots reviewing things like ITS NOT FUNNY or ITS NOT REALISTIC. Its a fairy tale last time i checked giants living in clouds and bears living in a houseGreat movie. If you like a darker yet heartfelt fairy tale then this is for you. For the idiots reviewing things like ITS NOT FUNNY or ITS NOT REALISTIC. Its a fairy tale last time i checked giants living in clouds and bears living in a house were pretty damn realistic like all fairy tales. *sarcastic* Oh and its not a comedy! If you couldn't tell from the cover of the movie. If you don't watch a movie genre you don't like ITS NOT THE FILMS FAULT",
+            "review_date": "2012-06-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Every single minute of this was wonderful, touching, and brilliant, and the ending was predictable but nevertheless emotional. As a whole, I really liked EDWARD SCISSORHANDS, and I really think that this is one of Johnny Depp's very, veryEvery single minute of this was wonderful, touching, and brilliant, and the ending was predictable but nevertheless emotional. As a whole, I really liked EDWARD SCISSORHANDS, and I really think that this is one of Johnny Depp's very, very best roles of all-time.",
+            "review_date": "2011-09-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Johnny Depp and Tim Burton have become a profitable duo over the past two decades. The partnership began in 1990 with the creation of this modern fairy tale.  This is my favorite of Depp's performances, as well as my favorite of Burton'sJohnny Depp and Tim Burton have become a profitable duo over the past two decades. The partnership began in 1990 with the creation of this modern fairy tale.  This is my favorite of Depp's performances, as well as my favorite of Burton's films. Edward is fragile and frightening in the very same breath; a creature from a warped and dark imagination stranded in a world of pastels.",
+            "review_date": "2012-01-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I didn't love it, but Edward Scissorhands was still a good film overall. It had a good message to it and interesting characters in it. I just wasn't a big fan of the environment surrounding it and it kind of derived from the seriousness ofI didn't love it, but Edward Scissorhands was still a good film overall. It had a good message to it and interesting characters in it. I just wasn't a big fan of the environment surrounding it and it kind of derived from the seriousness of this film at times. I guess i'm just not the biggest Tim Burton fan, but Johnny Depp did a good job playing Edward and I think that this film may still be worth watching.",
+            "review_date": "2014-05-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A perfect score for a perfect movie from one of the perfect collaborations in Hollywood. No wonder Depp-Burton friendship has lasted this long, every time producing the most quirky, weird and all the while wonderful films. A salute to theA perfect score for a perfect movie from one of the perfect collaborations in Hollywood. No wonder Depp-Burton friendship has lasted this long, every time producing the most quirky, weird and all the while wonderful films. A salute to the uniqueness in all of us, this film is, I believe, Burton's chef d'oeuvre.",
+            "review_date": "2014-05-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nI'm not really into the Romance genre, but this is probably my favourite in the genre. I find this movie to be interesting, the characters and the backstory was quite cool. I like Edward because his character is nothing I have seen before. Now movies like this would have tons of cliches if it was made in this millennium.",
+            "review_date": "2015-08-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Johnny Depp played Edward really well. Edward had a charming sweetness about him that grips out at me and pulls me in to watch more. I never get tired of this tragic fairy tale.",
+            "review_date": "2011-05-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great Johnny Depp acting and a great history. Emotional some times and funny other times make this movie required to everyone that is a huge cinema fan.",
+            "review_date": "2012-01-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is my all time favorite movie and I could go into how much I love it for hours. I will save reading and writing for that matter to keep this short and sweet. This movie is well acted, directed, and the score is just amazing. Every timeThis is my all time favorite movie and I could go into how much I love it for hours. I will save reading and writing for that matter to keep this short and sweet. This movie is well acted, directed, and the score is just amazing. Every time my iPod plays the ice dance song I get chills. This is by far one of johnny's best performances and why I call him my favorite actor. If you haven't seen it give ti a watch, but if you have watch it again this movie merits re watches and I always catch something new that I didn't see the other times I watched it from the house getting bug bombed in the background to how well the sets and character comment on a slice of suburbia that I honestly can say i live in.",
+            "review_date": "2013-05-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Charming, unique and pretty. You've got to love Edward and his scissor hands. Depp guided by Burton is great in this film and Burton's style of directing is exactly what this film needed to be great.",
+            "review_date": "2013-12-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "TIm Burton's \"Scissorhands\" flows smoothly with marvelous acting from Johnny Depp and creative direction by Burton himself. Possibly Depp+Burton combination is one of the best I've seen in years.",
+            "review_date": "2011-09-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film proves Burton has the ability to combine tragedy, comedy, satire and American culture all into one film. The chemistry between Depp and Ryder is wonderful and the story itself original.",
+            "review_date": "2014-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "OH MY GOSH! This was the WORST MOVIE I'VE EVER SEEN!!! And I'm not just saying that... I've seen my fair share of bad movies, but 'Edward Scissorhands' was literally the WORST OF ALL! The title itself practically OH MY GOSH! This was the WORST MOVIE I'VE EVER SEEN!!! And I'm not just saying that... I've seen my fair share of bad movies, but 'Edward Scissorhands' was literally the WORST OF ALL! The title itself practically gives away the whole dull plot of this terrible movie, and I must say that I have absolutely no idea why a man with Johnny Depp's talents would resort to acting in it, and why anyone would like this trash... Why is the user rating on metacritic so high!? 'Edward Scissorhands' is another work of utter garbage from a most dreadful director/screenwriter in Tim Burton, who has not as of yet (and most likely never will) created a movie that is enjoyable to watch in the slightest. How can he still be allowed to write and direct movies for Hollywood, and how can anyone possibly bear to give him any compliments for his works of complete and utter crap!? The first time I watched 'Charlie and the Chocolate Factory' (the original) I wasn't particularly impressed, but after watching Tim Burton's feeble attempt at it (why was Johnny Depp in this one as well? Does he feel sorry for Burton or are they so closely related that his parents won't let him refuse his offers or something), I thought of the original as quite a masterpiece. I like randomness, in fact I think it brings in an amusing factor that is often needed in a movie, but Tim Burton's 'random' just adds more boring to his already tedious and nonsensical story-lines. Wasn't Beetlejuice supposed to be a comedy/horror movie...? Those are the best two combination to keep a viewer interested, but I actually fell asleep after just 15 minutes... ...and I'd gotten 14 hours sleep the night before!!! What made 'Edward Scissorhands' all the worse for me was that, after viewing it at school (I would never have watched it otherwise), our whole English class had to explore into the movies' depths and find out how it was made and how different stupid things had hidden meanings (things that Tim Burton himself probably didn't even think about when writing it). Delving into the movie itself did nothing to make me enjoy it any more, in fact it made the dreary experience just as bad as when I watched it in the first place (I mean it couldn't possibly get any worse!), it just took a hell of a lot longer to get through. So overall, 'Edward Scissorhands', worst movie ever, pointless plot, overly colorful, completely unfunny, totally unrealistic (which ties in with my last point, if the unrealism had a little humor it would have been okay, but scissorhands...? Scissorhands!? That's like something a Primary School Child would think is cool, until they GROW UP!!!), awfully directed and written (I hate you Tim Burton!), and even completely disgusting at times (what was that woman doing to Depp in the back room?). I wouldn't recommend this atrocity of a film to anyone with at least half a brain.",
+            "review_date": "2008-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Yep, nothing else to say. worst movie I ever wasted time on. it's films like these that drop the standard of today's American films.",
+            "review_date": "2008-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolute and complete rubbish... can't believe I watched it... After watching 'Pirates of the Caribbean' I must say I'm pretty disappointed in you Johnny... But I could never hate you! You're still the best actor in Absolute and complete rubbish... can't believe I watched it... After watching 'Pirates of the Caribbean' I must say I'm pretty disappointed in you Johnny... But I could never hate you! You're still the best actor in the world!!!!!!!! The '1' was for you. Otherwise I hated the movie",
+            "review_date": "2008-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The lump in Jared K's throat was his balls. They obviously realized he was no longer a male. Can't imagine any actual males liking this complete shit. waste of acting talent.",
+            "review_date": "2009-10-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Literally the worst movie i've ever seen. even johnny depp's acting talent was dulled by this atrocious excuse for a movie. tim burton is a man of absolutely no skill, and this was made painfully obvious by 'edward Literally the worst movie i've ever seen. even johnny depp's acting talent was dulled by this atrocious excuse for a movie. tim burton is a man of absolutely no skill, and this was made painfully obvious by 'edward scissorhands'. absolute rubbish.",
+            "review_date": "2009-08-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think it's funny how jaque m didn't give a single decent reason why the movie was bad, he just review Charlie and the chocolate factory a little. I've never seen someone write so much and say absolutely nothing. The movie I think it's funny how jaque m didn't give a single decent reason why the movie was bad, he just review Charlie and the chocolate factory a little. I've never seen someone write so much and say absolutely nothing. The movie was okay, a little dull and it hasn't aged well, but a good attempt.",
+            "review_date": "2009-10-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This was a fantastic movie! Oh, wait... i was thinking of something that wasn't this piece of crap. Terrible film and i'm going to have to agree with jaque and say that this was, honestly, the worst movie i've ever seen",
+            "review_date": "2010-09-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It definitely has one of the best scores ever created for film, but if you take away that, the film is just weird. Could had been much better. It has a bittersweet ending, which is something I greatly appreciate.",
+            "review_date": "2013-06-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "From the wild and wacky mind of Tim Burton comes Edward Scissorhands, a tragic and charming look at a man with scissors for hands. A film that only Burton could make, his direction is as sound as usual and he manages to evoke considerableFrom the wild and wacky mind of Tim Burton comes Edward Scissorhands, a tragic and charming look at a man with scissors for hands. A film that only Burton could make, his direction is as sound as usual and he manages to evoke considerable sympathy for this tragic figure who is, otherwise, a normal man but cursed to live his days with scissors as hands. Johnny Depp does a great job bringing this man to life and brings a certain tenderness and has fantastic chemistry with Winona Ryder when it comes to the romantic element of the film. The writing is incredibly strong and, together with Burton's direction, keeps this one reined in and keeps it from getting out of control when it easily could have with such a crazy premise. The characters are well developed and truly multi-dimensional. Edward Scissorhands' portrayal of suburban life also feels delightfully and quintessentially late 80s, early 90s and really serves as a perfect backdrop for the introduction of such a weird and unique person. Though I may be one of the few to have never seen Edward Scissorhands, it is truly timeless and will live on for a long, long time due to its fairy tale and thematic elements that really are universal and its ability to be both unique, yet incredibly stirring, tragic, and moving. This one is Tim Burton at his very finest.",
+            "review_date": "2016-07-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Edward Scissorhands, a beautifully made movie from the imagination of Tim Burton (Beetlejuice, Batman). A sort of comedy/romance kind of film starring Johnny Depp and Winona Ryder but will not give the story away because I'm sure most haveEdward Scissorhands, a beautifully made movie from the imagination of Tim Burton (Beetlejuice, Batman). A sort of comedy/romance kind of film starring Johnny Depp and Winona Ryder but will not give the story away because I'm sure most have seen it. However my opinion of this film is Winona Ryder as Kim looks beautiful in this film, infact she's the real highlight that stands out in the whole film for me!! Johnny Depp was clumsy but good as Edward Scissorhands and it's a funny but beautiful film. Great movie which would be good to watch at Christmas because of the scenes when it's snowing.",
+            "review_date": "2020-03-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "85%!The sound is there, the concept is there, just din't have the right technology to make it look better back then.  Compassion driven wisely, good quality of comedic elements.  Don't like Johnny Depp's facial expression though.",
+            "review_date": "2011-10-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Typical Burton film, very strange and quirky but not particularly clever. Depp is good.",
+            "review_date": "2019-04-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I feel like I can see a future genius honing his craft.  This movie has so much potential, but that something special about Tim Burton's best movies is just missing.",
+            "review_date": "2022-07-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Johnny Depp with a great performance, his Edward ist very sad and with low self confidence, a sympathetic character.The story is sad also and a bit unrealistic, but intentionally exaggerated, like a fairy tale. So dont take everythingJohnny Depp with a great performance, his Edward ist very sad and with low self confidence, a sympathetic character.The story is sad also and a bit unrealistic, but intentionally exaggerated, like a fairy tale. So dont take everything seriously. But the bottom line about the bourgeois is clear and surely true.The art design was a master piece earlier, today every film lover knows Tim Burton.",
+            "review_date": "2023-02-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Edward Scissorhands is one of the first collaborations between director Tim Burton and Johnny Depp and the two have become a pretty successful duo in film. The movie is certainly shot differently than another film did before and the plot isEdward Scissorhands is one of the first collaborations between director Tim Burton and Johnny Depp and the two have become a pretty successful duo in film. The movie is certainly shot differently than another film did before and the plot is so original and weird but the film is still a good watch and I think everyone should watch this movie even though it may be a bit dated now.",
+            "review_date": "2015-04-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A fantastic movie no doubt about it.The best thing in the movie is the acting especially Johnny Depp's.He just used facial features to show emotion rather than words and it pays off.Burton put his heart and soul into this and it shows,it'sA fantastic movie no doubt about it.The best thing in the movie is the acting especially Johnny Depp's.He just used facial features to show emotion rather than words and it pays off.Burton put his heart and soul into this and it shows,it's just perfect.The best in my opinion is the score by Danny Elfman.It's one of his best and I watched the movie because of the soundtrack.It's beautiful.The movie is excellent definitely worth the time.It's beautiful.",
+            "review_date": "2014-11-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Looks very good, and the main character Edward was really likable and emotional. Things got pretty deep towards the end. While I liked Edward, I didn't like the other characters. They were there and they had some soul in them, but it didn'tLooks very good, and the main character Edward was really likable and emotional. Things got pretty deep towards the end. While I liked Edward, I didn't like the other characters. They were there and they had some soul in them, but it didn't feel like the movie focused on them at all. I felt like Edward was the only character that really had a personality and he was the only one that I cared for. Johnny Depp was really good, and the acting overall felt alright from the whole cast, and many scenes were fun to watch. But I didn't feel that invested in the world. Maybe I was just thinking the wrong way or I don't know..",
+            "review_date": "2016-09-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Edward scissor hands might just be Tim Burtons best film mainly because of its themes of being different and ambient visual style and musical score and like many other Tim burton flicks the cast is great.",
+            "review_date": "2015-08-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Other films that are genuinely moving are The Elephant Man, Fearless and Camille. Edward Scissorhands is a film of darkness and beauty, that makes it such a wonderful and unique film to see. One thing that I really liked about EdwardOther films that are genuinely moving are The Elephant Man, Fearless and Camille. Edward Scissorhands is a film of darkness and beauty, that makes it such a wonderful and unique film to see. One thing that I really liked about Edward Scissorhands was the music score by Danny Elfman, which was very beautiful, sensitive and mysterious. A good example is in the beginning credits, with the angelic choir accompanying the Christmas-like images on screen. The cinematography was gorgeous, with bright imaginative close-ups contrasted with genuinely Gothic scenes, like when we first meet Edward in the dark house. The script, while not the strongest category of the film, was still very touching, and added to the charm and suspense that was already ensured in the film. The direction by Tim Burton had all his trademarks, very dark and suspenseful, evident in films like Batman and Sleepy Hollow, if a little odd at times, which is fairly typical of Burton. While there were one or two funny moments, the film is genuinely poignant, with a heart-rending ending. I will say I was most impressed with the acting, topped by Johnny Depp's tragic and poignant portrayal of the title character, and then Winona Ryder as Kim, while not quite as convincing is still very sensitive. I was shocked that Depp didn't get an Oscar for his performance, he doesn't say much, but his facial expressions fully justify. There was also sterling support from Dianne West, Kathy Baker et al, while Vincent Price in a minor role as the inventor also impresses, such a shame he died three years later, he was a brilliant actor, if you see him as the truly Machiavellian villain in Great Mouse Detective, or the sadistic Matthew Hopkins in Witchfinder General, you'll know what I mean. As I have already said, the ending is so heart-rending, that I will confess I got through half'a box of tissues. Overall, a remarkably beautiful and poignant film that had me speechless. My advice to anyone who hasn't seen it, and is planning to, have a box of tissues at the ready, it is that sad. 10/10 Bethany Cox.",
+            "review_date": "2022-03-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Edward Scissorhands is wonderful well develop film; led by the brilliant performance of Johnny Deep who carries this film and shines at it as well, Overall, this is a modern classic film by Tim Burton",
+            "review_date": "2016-01-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Each time I watch this movie, I love it more. A true cinematic masterpiece. I cry all the way through. I think that it speaks to the teenager in us all and touches on some emotions we rarely look at on our own.",
+            "review_date": "2015-11-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This whole film feels like a bad soap opera, with a wasted talent as the main character....\rThe whole film is always the same, the feeling that is supposed to make you feel for the character, the \"not being accepted\" issue, every human beingThis whole film feels like a bad soap opera, with a wasted talent as the main character....\rThe whole film is always the same, the feeling that is supposed to make you feel for the character, the \"not being accepted\" issue, every human being has felt at least in some part of their lives...\rThe movie makes little to no sense and i cant realize what people really see in this movie, camera angles are not special...\rThe plot is so typical as the cheerleader falls in love with the unusual guy and then the \"bad guy\" american athletic teenager gets angry at the unusual character, and decides to hurt him because he feels as he is going to hurt the cheerleader, the only difference is the special touch of johnny depp\u00b4s acting, and also the fact that the unusual teenager, is an unfinished machine, but everything else goes by the book of these film\u00b4s genre",
+            "review_date": "2016-09-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The well known story of Frankenstein re-made as fairy tale in charming vintage environment. A fable about tolerance, that put Johnny Depp under the spotlight. Pay attention for Vincent Price in his final performance.",
+            "review_date": "2019-05-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "it never snowed..Edward Scissorhands\n\nIt resembles with Disney cartoon features but the problem in here is that it is a real world and is probably one of the reasons why some of the sequences would be difficult to digest and would raiseit never snowed..Edward ScissorhandsIt resembles with Disney cartoon features but the problem in here is that it is a real world and is probably one of the reasons why some of the sequences would be difficult to digest and would raise some questions that should not be. But as I said, Edward Scissorhands being somewhat similar to a Disney feature offers everything i.e. sketchy and shady characters, peculiar world and amusing perspectives. Tim Burton still lacks a better execution as he fails convincing the audience that it is all \"real\" or even the accept the stills that are projected. But if he fails, Johnny Depp has got his back and not only does he convince them but makes them feel for the character; he is flat out amazing but needs a better supporting cast. Edward Scissorhands scores majestically in pouring out emotions on screen through stellar performances and brilliant writing but unfortunately could not deliver the perfect execution and editing that it deserved.",
+            "review_date": "2018-02-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film shows us Edward, a humanoid created by a scientist who died before he could finish his creation. Because of this, Edward has big scissors instead of fingers and a strange looking, almost industrial. But he ends up being found amidThis film shows us Edward, a humanoid created by a scientist who died before he could finish his creation. Because of this, Edward has big scissors instead of fingers and a strange looking, almost industrial. But he ends up being found amid the ruins of the mansion where he was born and taken to a suburban neighborhood, where life is always the same, made of perfection appearances. Directed by Tim Burton, has a screenplay by Caroline Thompson and counts on the participation of Johnny Depp and Winona Ryder.This film is a modern Christmas tale and, for a decade, was very broadcast on televisions around this time of year. The story is very beautiful and touching, and makes us think about issues such as the right to be different from others, the difference between being and seeming, the exaggerated importance we give to appearances and the little importance we give to what is genuine, and how our society corrupts what is naturally good (Rousseau revisited?). Despite it usually have a parental rating accessible to children, this film seems to have been designed for public since the age of ten. The cast is reasonable but not surprising, except for Johnny Depp and Winona Ryder, actors who had, in this movie, the first major opportunity to shine, and where Depp inaugurated a long and fruitful partnership with Burton, which lasts until today. The photography and the visual effects are very good. The sets and costumes are interesting, helping to get the message proposed in the film, and the soundtrack is marked by the main theme, composed by Danny Elfman. This piece remained in the memory of the audience for its beauty and magic, becoming one of the most beautiful musical pieces made for film.",
+            "review_date": "2018-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent movie. The viewer can totally feel sympathy for the character. It's a classic.",
+            "review_date": "2018-05-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What an amazing movie.A great mix of comedy and drama.And its also such a cold movie,the ending leaves you with so many questions,and its also very sad and unfair!",
+            "review_date": "2019-05-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If nothing else, watch it for the soundtrack ... only Danny Elfman can write music that's beautiful, melancholic, hopeful, inspiring, and slightly creepy all at the same time. An amazing story that will warm your heart.",
+            "review_date": "2019-06-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very enjoyable.It's funny the way we picture things in our minds. I had heard of 'Edward Scissorhands' but actually knew very little about it, typified by the fact I was expecting this to be very dark - probably just based on the seeing theVery enjoyable.It's funny the way we picture things in our minds. I had heard of 'Edward Scissorhands' but actually knew very little about it, typified by the fact I was expecting this to be very dark - probably just based on the seeing the cover here and there. It's much sillier than expected, but in a positive way.I do kinda end up wishing they went down a more dark/creative route, instead of relying on the novelty of having scissors as hands; though, to be fair, they do touch on the deeper side a bit. With that said, I did get a good amount of entertainment seeing this plot unfold. It's weird and wonderful.Johnny Depp is a great actor and is very good here, mainly via his facial expressions and body language. It's cool to see Winona Ryder involved, someone I've thoroughly enjoyed in more recent times in 'Stranger Things'. Alan Arkin and Anthony Michael Hall also appear.The film looks neat, as I've come to expect from Tim Burton. It has the obvious touch of Bo Welch to it, with the neighbourhood looking not too dissimilar to what Welch would create for 2003's 'The Cat in the Hat' - which I, truly, enjoyed.Undoubtedly worth a watch.",
+            "review_date": "2021-01-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The thematically rich subject matter of Edward Scissorhands is masterfully incorporated in its romantically driven story that provides influential ambition.",
+            "review_date": "2020-07-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Love this movie. It's like a non evil Freddy Kruger. The ending could have been better though.",
+            "review_date": "2022-12-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Tim Burton doesn\u2019t have the staying power with me that he once did. When I think of modern Burton I tend to think of very drab, heavily CG\u2019d, washed out looking films that tend to oversell on the \u201cdark and whimsical\u201d style that he was once aTim Burton doesn\u2019t have the staying power with me that he once did. When I think of modern Burton I tend to think of very drab, heavily CG\u2019d, washed out looking films that tend to oversell on the \u201cdark and whimsical\u201d style that he was once a pioneer of. It\u2019s such a shame that I dread seeing any new movie of his because I know, deep down, that he still has the potential of creating great, fantastical films. When I think of Tim Burton, I think fondly of the days of Batman \u201989, Beetlejuice, Ed Wood and, most personally, Edward Scissorhands. It\u2019s a film I grew up watching as a kid on my mom\u2019s laserdisc. I was intrigued by the look of the film, the music, and Edward himself. It had been many years since I have seen this movie to completion, and as an adult I have been able to gain a newfound appreciation for it. The story follows the titular Edward Scissorhands, a lonely, incomplete creation of a professor (played by Vincent Price) who is discovered by local suburban saleswoman Peg Boggs. Feeling sympathy for Edward, she takes him back to her home in a suburban neighborhood filled with incredibly nosey housewives that are smitten by this mysterious person. Edward quickly finds a place for himself, creating hedge art for the people and even as their hair stylist. Edward also falls for Peg\u2019s daughter Kim, who is uncertain of Edward at first but slowly starts to care for him. The whole movie plays out like a gothic fairytale (it helps that the story is being told as a bedtime story), and the movie positively drips with Burton\u2019s signature style. Edward\u2019s intimidating presence heavily contrasts with the uniform, pastel-colored suburban neighborhood. He epitomizes the types of characters Burton tends to gravitate towards: the misunderstood misfit that may look strange, but is a gentle soul. Danny Elfman\u2019s fantastic score helps to sell the film\u2019s gothic fairytale feel, perfectly encapsulating Edward\u2019s mood and state of mind in any given situation. The suburban neighbors are appropriately nosey, immediately infatuated with Edward but just as quickly are able to turn on him the second he makes a mistake. This would be the first of many collaborations between Burton and Johnny Depp, and this was a damn strong start. Depp is great in this film, perfectly capturing the innocence and awkwardness that Edward displays. Winona Ryder is great as Kim, and I even liked Anthony Michael Hall as Kim\u2019s dirt bag boyfriend Jim. Everyone in the film is great, for that matter, even Vincent Price for as little screen-time as he gets portrays the same level of kindness that Edward carries over. Of course, I can\u2019t forget to mention Stan Winston\u2019s fantastic make-up and scissor effects for Depp. Edward\u2019s look has become iconic and still unique among the rest of Burton\u2019s catalogue. There only a few gripes I have with the film, like people for some reason not immediately helping him with basic tasks that he obviously can\u2019t do with scissor hands. It\u2019s usually played up for comedic affect but the entire time I couldn\u2019t help but say, \u201cHelp him already!\u201d These gripes are minor in the grand scheme of things, though. As far as discussing Tim Burton\u2019s filmography is concerned, this easily in the top 5 in my opinion. Everything you need to know about him is on display in Edward Scissorhands. After all these years, I still think this movie is wonderful and it absolutely comes recommended not just for fans of Tim Burton, but just for being a good, well-rounded movie.",
+            "review_date": "2020-09-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \n'Edward Scissorhands' (1990) is a beautiful romantic, fantasy movie. The director, Tim Burton, paid close attention to the atmosphere of the movie, which makes it even more fascinating. Before this movie, his works included Beetlejuice (1988) and Batman (1989). The production of 'Edward Scissorhands' began with a budget of $20 million. The stars are Johnny Depp and Winona Ryder, who perfectly suited their roles. Caroline Thompson worked on the script. She later went on to work as a screenwriter on \"The Addams Family\" (1991) and \"The Nightmare Before Christmas\" (1993).Edward was created by an inventor who before his death, had given him nearly everything a human body has, apart from hands. Instead of hands, Edward has scissors. He lived in the inventor's gothic house till Peg Boggs finds him once and brings him to her house and family. Since then, the lives of Edward, Peg's family and the whole city started to change.'Edward Scissorhands' was a critically acclaimed movie, which may be as popular with the young audience as it is with older moviegoers. I guess everyone could find something special in this movie. Also, I'd like to mention the soundtrack, which was written by Danny Elfmann. It brilliantly underlines the beauty of this movie. This movie is not only a sensitive romantic story, but also a big question about how people sometimes hold prejudices that could easily harm someone else around them.Written by Anastasiia Shystovska",
+            "review_date": "2020-12-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Depp's weird likability is at full force here and turns a movie with a story that is a bit off into a movie that is one of the best for it's time.",
+            "review_date": "2021-11-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "i'm not so used to watch movies made before 2000s, but this was a sweet fairytale. edward was gentle, still charming creature. iconic soundtrack.",
+            "review_date": "2022-06-05",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 82
 }

@@ -1,40 +1,35 @@
 {
-  "title": "Glory",
-  "rating": 7.1,
-  "release_date": "1990-02-16",
-  "genre": [
-    "Biography",
-    "Drama",
-    "History",
-    "War"
-  ],
-  "summary": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.",
-  "critic_reviews": [
-    "Glory is, without question, one of the best movies ever made about the American Civil War.",
-    "An eloquent, heart-tugging Civil War epic about the first black infantry regiment to march off to battle for the Union. And epic is the word. Not since John Ford has a film maker created such dramatic large-scale Civil War battle scenes in a major theatrical film.",
-    "Voice-over narration makes effective use of the real-life Shaw's correspondence, but in terms of authenticity the battle sequences are truly impressive. Marching across open fields amid cannon-shot, or plunging into hand-to-hand combat, the stark clarity of Freddie Francis' cinematography combined with Zwick's intimate style evokes immediacy and fear.",
-    "This stirring historical re-creation depicts the experiences of America's first unit of black soldiers in the Civil War and the young Northerner who leads them.",
-    "Glory is a strong and valuable film no matter whose eyes it is seen through.",
-    "Richly plotted, alternately inspiring and horrifying, Glory is an enlightening and entertaining tribute to heroes too long forgotten.",
-    "Exceptionally well-rendered and emotive war drama.",
-    "Glory is celebratory, but it celebrates in a manner that insists on acknowledging the sorrow. This is a good, moving, complicated film.",
-    "It is the movie's often awesome imagery and a bravely soaring choral score by James Horner that transfigure the reality, granting it the status of necessary myth.",
-    "A pretty watchable and always interesting period film, well photographed by English cinematographer Freddie Francis.",
-    "Though the film has an evocative look reminiscent of Matthew Brady’s period photographs, Zwick has stuffed the actors’ mouths with numbing bombast. Glory is a shame."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "The Best Civil War movie of all time.  And one of the top 5 war movies of all time.  \"Glory\" doesn't get the credit it deserves.  It actually gives you an idea of what it is like to have something to die for.",
-      "review_date": "2023-01-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "aż szkoda że tak mało filmów traktuje o tym pasjonującym okresie w historii USA",
-      "review_date": "2021-12-14",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 13
+    "title": "Glory",
+    "rating": 7.1,
+    "release_date": "1990-02-16",
+    "genre": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "summary": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.",
+    "critic_reviews": [
+        "Glory is, without question, one of the best movies ever made about the American Civil War.",
+        "An eloquent, heart-tugging Civil War epic about the first black infantry regiment to march off to battle for the Union. And epic is the word. Not since John Ford has a film maker created such dramatic large-scale Civil War battle scenes in a major theatrical film.",
+        "Voice-over narration makes effective use of the real-life Shaw's correspondence, but in terms of authenticity the battle sequences are truly impressive. Marching across open fields amid cannon-shot, or plunging into hand-to-hand combat, the stark clarity of Freddie Francis' cinematography combined with Zwick's intimate style evokes immediacy and fear.",
+        "This stirring historical re-creation depicts the experiences of America's first unit of black soldiers in the Civil War and the young Northerner who leads them.",
+        "Glory is a strong and valuable film no matter whose eyes it is seen through.",
+        "Richly plotted, alternately inspiring and horrifying, Glory is an enlightening and entertaining tribute to heroes too long forgotten.",
+        "Exceptionally well-rendered and emotive war drama.",
+        "Glory is celebratory, but it celebrates in a manner that insists on acknowledging the sorrow. This is a good, moving, complicated film.",
+        "It is the movie's often awesome imagery and a bravely soaring choral score by James Horner that transfigure the reality, granting it the status of necessary myth.",
+        "A pretty watchable and always interesting period film, well photographed by English cinematographer Freddie Francis.",
+        "Though the film has an evocative look reminiscent of Matthew Brady\u2019s period photographs, Zwick has stuffed the actors\u2019 mouths with numbing bombast. Glory is a shame."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "The Best Civil War movie of all time.  And one of the top 5 war movies of all time.  \"Glory\" doesn't get the credit it deserves.  It actually gives you an idea of what it is like to have something to die for.",
+            "review_date": "2023-01-23",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 13
 }

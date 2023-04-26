@@ -1,38 +1,41 @@
 {
-  "title": "Haider",
-  "rating": 8.7,
-  "release_date": "2014-10-02",
-  "genre": [
-    "Drama",
-    "Thriller",
-    "Romance",
-    "Crime"
-  ],
-  "summary": "William Shakespeare's Hamlet is reimagined in mid 90's Kashmir.",
-  "critic_reviews": [
-    "Some of the film’s most effective moments are masterful in their visual storytelling skill.",
-    "Though the political backdrop often overwhelms or distorts the family drama, Mr. Bhardwaj provides the occasional sharp reminder of how cinematically he can construct Shakespearean moments.",
-    "It makes the text feel newly alive, bristly, radical. A palpable hit, in any language."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "I think with this Movie .....Hindi cinema has reached a whole new heights.....with character depths and  effervescent and unfathomable display of acting skills by the Masters ( Tabu , Key Key and Shahid \"Haider\" Kapoor....... I was leftI think with this Movie .....Hindi cinema has reached a whole new heights.....with character depths and  effervescent and unfathomable display of acting skills by the Masters ( Tabu , Key Key and Shahid \"Haider\" Kapoor....... I was left awestruck to see this beautiful adaptation......I made me feel Think , Feel , Love and Hate the characters in the movie......One word to sum up ..... Impeccable",
-      "review_date": "2014-10-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As a Bollywood movie it is above average, well, a good one! But as it is an adaption of William Shakespeare's drama it failed to reach the excellence. Some unnecessary comedy scenes and songs would, perhaps, have made it a better movie.",
-      "review_date": "2014-10-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie proves that Bollywood have high standard. It's a pack of thrill and drama together. Shahid Kapoor and Tabu are at their best. Vishal Bharadwaj is undoubtedly one of the top directors of the world.",
-      "review_date": "2014-12-01",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 6
+    "title": "Haider",
+    "rating": 8.7,
+    "release_date": "2014-10-02",
+    "genre": [
+        "Drama",
+        "Thriller",
+        "Romance",
+        "Crime"
+    ],
+    "summary": "William Shakespeare's Hamlet is reimagined in mid 90's Kashmir.",
+    "critic_reviews": [
+        "Some of the film\u2019s most effective moments are masterful in their visual storytelling skill.",
+        "Though the political backdrop often overwhelms or distorts the family drama, Mr. Bhardwaj provides the occasional sharp reminder of how cinematically he can construct Shakespearean moments.",
+        "It makes the text feel newly alive, bristly, radical. A palpable hit, in any language."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "I think with this Movie .....Hindi cinema has reached a whole new heights.....with character depths and  effervescent and unfathomable display of acting skills by the Masters ( Tabu , Key Key and Shahid \"Haider\" Kapoor....... I was leftI think with this Movie .....Hindi cinema has reached a whole new heights.....with character depths and  effervescent and unfathomable display of acting skills by the Masters ( Tabu , Key Key and Shahid \"Haider\" Kapoor....... I was left awestruck to see this beautiful adaptation......I made me feel Think , Feel , Love and Hate the characters in the movie......One word to sum up ..... Impeccable",
+            "review_date": "2014-10-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As a Bollywood movie it is above average, well, a good one! But as it is an adaption of William Shakespeare's drama it failed to reach the excellence. Some unnecessary comedy scenes and songs would, perhaps, have made it a better movie.",
+            "review_date": "2014-10-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie proves that Bollywood have high standard. It's a pack of thrill and drama together. Shahid Kapoor and Tabu are at their best. Vishal Bharadwaj is undoubtedly one of the top directors of the world.",
+            "review_date": "2014-12-01",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 6
 }

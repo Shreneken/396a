@@ -1,53 +1,57 @@
 {
-  "title": "Happy Together",
-  "rating": 8.0,
-  "release_date": "1997-10-30",
-  "genre": [
-    "Drama",
-    "Comedy",
-    "Romance"
-  ],
-  "summary": "Yiu-Fai (Leung) and Po-Wing (Cheung) travel from Hong Kong to Argentina in an attempt to save their relationship.",
-  "critic_reviews": [
-    "Loose, buoyant and bracingly original.",
-    "Maverick director Wong Kar-wai manages to pour old wine into new jars with Happy Together, a fizzy chamber yarn about two gay Hong Kongers in Argentina that's as slim as a bamboo flute but is his most linear and mature work for some time.",
-    "Thanks largely to the raw bravery and intensity of the two leads' performances, Happy Together takes a quantum leap forward in terms of visceral power.",
-    "Happy Together is Wong's most fully realized work. It is a pleasure to watch an interesting mind feel his way, and the result is something more than just a passing fancy.",
-    "Wong captures this in his usual, expressive style, employing black and white at times and staggering the frame rate to accentuate heightened moments (including an aching slide into slow motion as the two men share a cigarette).",
-    "Stylistically brash, pulsing with life.",
-    "[A] sexy, spiky love story.",
-    "Style oozing from virtually every frame.",
-    "Structurally and dramatically this is all over the place, but stylistically it's gripping, and thematically it suggests an oblique response to the end of Hong Kong's colonial rule.",
-    "The vignettes don't add up to a story, but Wong's nervy brio and subterranean-fantasy style make for an arresting work about an exotic subculture.",
-    "Wong Kar-Wai, whose energetic and inventive style isn't enough to give the shallow story the substance and resonance it needs.",
-    "Happy Together feels joylessly fussed over.",
-    "In the absence of any genuine emotional wallop, it is the directorial pizzazz that pulls you through. Just about."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "An amazing film by the incredible director Wong Kar-Wai. Was completely transfixed by this study of love, sadness, relationship, queerness, and marginalization.",
-      "review_date": "2021-10-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is so beautiful, so fragile, so distinguish, so disorientated, so lonely and so sad",
-      "review_date": "2018-04-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A toxic relationship on the verge of self-destruction.It's simple, and at the same time it isn't.\nAt least not with Wong Kar-Wai. Even so, that doesn't mean that he was infallible, after all, this film has problems that don't get solved,A toxic relationship on the verge of self-destruction.It's simple, and at the same time it isn't.At least not with Wong Kar-Wai. Even so, that doesn't mean that he was infallible, after all, this film has problems that don't get solved, especially how unattractive the characters are.It's impossible to connect with them. Since either they show love, which is actually passion, or they're constantly attacking each other.It's a miserable relationship, I tell you that.They don't seem to work together, with some exceptions, yet their loneliness when apart consumes them.That's a bad combination, no matter where you look at it from, because the result will never be good.The result will not be healthy for either of them.Happy Together is an interesting and contemplative observation that is raised by the sure and concise hand of its director, together with the very good performances of its leading duo.But for me it was far from being a movie that grabs you in the first instance.It's more like one where you have to let it sink in slowly, although it may not be satisfying once you get to the end of the road.",
-      "review_date": "2021-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "my favorite wong kar wai film. so many layers and the best performance by Tony leung",
-      "review_date": "2021-07-12",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 17
+    "title": "Happy Together",
+    "rating": 8.0,
+    "release_date": "1997-10-30",
+    "genre": [
+        "Drama",
+        "Comedy",
+        "Romance"
+    ],
+    "summary": "Yiu-Fai (Leung) and Po-Wing (Cheung) travel from Hong Kong to Argentina in an attempt to save their relationship.",
+    "critic_reviews": [
+        "Loose, buoyant and bracingly original.",
+        "Maverick director Wong Kar-wai manages to pour old wine into new jars with Happy Together, a fizzy chamber yarn about two gay Hong Kongers in Argentina that's as slim as a bamboo flute but is his most linear and mature work for some time.",
+        "Thanks largely to the raw bravery and intensity of the two leads' performances, Happy Together takes a quantum leap forward in terms of visceral power.",
+        "Happy Together is Wong's most fully realized work. It is a pleasure to watch an interesting mind feel his way, and the result is something more than just a passing fancy.",
+        "Wong captures this in his usual, expressive style, employing black and white at times and staggering the frame rate to accentuate heightened moments (including an aching slide into slow motion as the two men share a cigarette).",
+        "Stylistically brash, pulsing with life.",
+        "[A] sexy, spiky love story.",
+        "Style oozing from virtually every frame.",
+        "Structurally and dramatically this is all over the place, but stylistically it's gripping, and thematically it suggests an oblique response to the end of Hong Kong's colonial rule.",
+        "The vignettes don't add up to a story, but Wong's nervy brio and subterranean-fantasy style make for an arresting work about an exotic subculture.",
+        "Wong Kar-Wai, whose energetic and inventive style isn't enough to give the shallow story the substance and resonance it needs.",
+        "Happy Together feels joylessly fussed over.",
+        "In the absence of any genuine emotional wallop, it is the directorial pizzazz that pulls you through. Just about."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "An amazing film by the incredible director Wong Kar-Wai. Was completely transfixed by this study of love, sadness, relationship, queerness, and marginalization.",
+            "review_date": "2021-10-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is so beautiful, so fragile, so distinguish, so disorientated, so lonely and so sad",
+            "review_date": "2018-04-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A toxic relationship on the verge of self-destruction.It's simple, and at the same time it isn't.\nAt least not with Wong Kar-Wai. Even so, that doesn't mean that he was infallible, after all, this film has problems that don't get solved,A toxic relationship on the verge of self-destruction.It's simple, and at the same time it isn't.At least not with Wong Kar-Wai. Even so, that doesn't mean that he was infallible, after all, this film has problems that don't get solved, especially how unattractive the characters are.It's impossible to connect with them. Since either they show love, which is actually passion, or they're constantly attacking each other.It's a miserable relationship, I tell you that.They don't seem to work together, with some exceptions, yet their loneliness when apart consumes them.That's a bad combination, no matter where you look at it from, because the result will never be good.The result will not be healthy for either of them.Happy Together is an interesting and contemplative observation that is raised by the sure and concise hand of its director, together with the very good performances of its leading duo.But for me it was far from being a movie that grabs you in the first instance.It's more like one where you have to let it sink in slowly, although it may not be satisfying once you get to the end of the road.",
+            "review_date": "2021-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "my favorite wong kar wai film. so many layers and the best performance by Tony leung",
+            "review_date": "2021-07-12",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 17
 }

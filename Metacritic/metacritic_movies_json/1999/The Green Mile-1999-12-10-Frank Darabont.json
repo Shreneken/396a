@@ -1,642 +1,679 @@
 {
-  "title": "The Green Mile",
-  "rating": 8.2,
-  "release_date": "1999-12-10",
-  "genre": [
-    "Drama",
-    "Mystery",
-    "Fantasy",
-    "Crime"
-  ],
-  "summary": "Set on Death Row in a Southern prison in 1935, this is the remarkable story of a prison guard who develops a poignant, unusual relationship with one inmate who possesses a magical gift that is both mysterious and miraculous.  (Castle Rock Entertainment)",
-  "critic_reviews": [
-    "Above all a cracking good yarn that earns its laughter, its wonder and its tears.",
-    "As Darabont directs it, it tells a story with beginning, middle, end, vivid characters, humor, outrage and emotional release.  Dickensian.",
-    "Darabont follows King's book fairly closely, allowing the audience to steep itself in the setting and characters slowly, like reading a good novel.",
-    "A touching (and at times horrific) -- albeit overlong -- Christ allegory, that scores not so much on the strength of its convictions as it does on the truly remarkable performances it elicits from the cast.",
-    "There's almost too much there, but the three-hour-plus film permits the kind of detailing that not only brings the storytelling to life, but sometimes persuades us we're breathing to its rhythms.",
-    "Excessive, but I, like Mr. Jingles, can't resist the Christmas-season cheese.",
-    "Has a simple but exceptionally powerful and uplifting emotional lure.",
-    "A richly textured thriller.",
-    "Well acted by an ensemble that leans toward equality for all, Mile carries its long running time extremely well.",
-    "A film with a counterproductive tendency to take its time...but unassumingly strong, moving performances and Darabont's durable storytelling make it a trip worth taking just the same.",
-    "From its deceptively easygoing beginning to the heart-wrenching finale, The Green Mile keeps you wonderfully high above the cynical ground.",
-    "An intermittently powerful and meticulously crafted drama that falls short of its full potential due to considerable over-length and some shopworn, simplistic notions at its center.",
-    "Modest, on-the-money performances, which look effortless because they're so meticulously thought out, make the hours fly by.",
-    "A loud and ghastly movie to sit through and not short on gratuitous hideousness, but Darabont has also done his best to baste it with humanity and sweetness.",
-    "A fascinating tragedy, easy to underrate.",
-    "I still feel pushed around by Darabont's mysticism, and his overbearing sense of grandness; a little bit of the Mile goes a long way.",
-    "Much of the three-hour movie takes place in the prison, but the resonant characterization, expansive plotting, and judicious use of exterior locations and flashbacks remove any sense of claustrophobia or sluggishness.",
-    "Its view of spiritual healing is closer to Spielberg fantasy than religious insight.  Still, its good acting and good intentions will be enough to please many viewers.",
-    "Simply a case of severe overreaching and the illusion that an overstuffed movie is an epic movie.",
-    "A shameless \"Shawshank\" redux.",
-    "Superficially respectful but ultimately cruel.",
-    "Three hours of overstatement and schmaltz.",
-    "While writer-director Frank Darabont often fails to make King's story plausible, that's no fault of the actors.  The performances are the movie's strong suit.",
-    "Irritatingly repetitious and piled high with long-foreseen conclusions.",
-    "Moves with the suffocating deliberateness of a river of molasses."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "It makes me angry to see many low scores from critics, this is probably one of the best and most emotional movies I have ever watched.",
-      "review_date": "2011-11-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I watched this for the third time yesterday, the thing that one critic pointed out is that this film has something extremely rare: soul. This is the most emotional movie I have ever seen, it's not just a drama movie with plot twists andI watched this for the third time yesterday, the thing that one critic pointed out is that this film has something extremely rare: soul. This is the most emotional movie I have ever seen, it's not just a drama movie with plot twists and unexpected tragedies; it has extremely lovable and disliked characters. Characters that we connect with, and when anything happens to them in the movie we feel like crying our guts out. It's also bound to make you take a different look on the use of the electric chair, and there are many other underlying themes and subjects with this movie. This film is a 3 hour experience that will change your mental attitude completely, highly recommended movie. 5/5 stars",
-      "review_date": "2011-08-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Critics gave this movie red or yellow rank must be clinically insane for sure. This is one of the best movies I ever saw, one of the best melodrama movie. You know, I'm not young man, I dont cry when I get kicked, when I feel pain, but thisCritics gave this movie red or yellow rank must be clinically insane for sure. This is one of the best movies I ever saw, one of the best melodrama movie. You know, I'm not young man, I dont cry when I get kicked, when I feel pain, but this movie made me cry. Not just a single tear, but I cried like a river. Just watch this, you will never forget The Green Mile.",
-      "review_date": "2013-08-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As with the fantastic Shawshank Redemption, The Green Mile is based on a Stephen King story and directed by Frank Darabont and I can give no higher praise than to say it is just as good.\r The film centres on a stretch of death row known asAs with the fantastic Shawshank Redemption, The Green Mile is based on a Stephen King story and directed by Frank Darabont and I can give no higher praise than to say it is just as good.\r The film centres on a stretch of death row known as The Green Mile in which a giant of a man known as John Coffey, accused of murdering two young girls, has been imprisoned. King is widely known for his horror books but, while there are supernatural elements to this story, as with The Shawshank Redemption this film is all about relationships between people in difficult circumstances.\r The Green Mile may be three hours long but every minute of that is used to develop the characters and story so that by the end we really do care what happens to them. Those that dismiss Kings work as chart filler may be pleasantly surprised by what they find in this movie.",
-      "review_date": "2013-05-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's incredible seeing so many low scores from critics for probably one of the three best movies ever. Its intensity and brilliance is something just amazing. There are no movies of this level nowadays. Three hours of emotions",
-      "review_date": "2013-11-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Green Mile was a great movie. It didn't make my top ten (no more than ten do, so it was a hard decision), but it absolutely made my top twenty. Frank Darabont. You wouldn't think he could do a follow-up adaptation of Stephen King's media,The Green Mile was a great movie. It didn't make my top ten (no more than ten do, so it was a hard decision), but it absolutely made my top twenty. Frank Darabont. You wouldn't think he could do a follow-up adaptation of Stephen King's media, after The Shawshank Redemption, of all things. But no, The Green Mile is just as good and better than The Shining and Stand by Me.",
-      "review_date": "2014-11-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A movie based on stephen Kings book the green mile does not disappoint! It makes you feel lots of different emotions at different times in the movie. Like most of stephen Kings books it is well thought out. The acting produced by Tom hanks isA movie based on stephen Kings book the green mile does not disappoint! It makes you feel lots of different emotions at different times in the movie. Like most of stephen Kings books it is well thought out. The acting produced by Tom hanks is just amazing, this is probably one of his best films! It is exciting, and gives the watcher an insight on what really happens when someone used to get the chair. At times this movie will probably make you cry. This is a good 3 hours so you've really got to dedicate some time to watching it. Overall this is probably one of my favourite movies of all time, and you should definately watch it before you die!",
-      "review_date": "2014-12-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is an absolute masterpiece. Not even The Shawshank Redemption is as good as this movie (in my opinion). I have never seen a movie made with skill such as what can be found in The Green Mile. Most of this movie is just tuning in onThis movie is an absolute masterpiece. Not even The Shawshank Redemption is as good as this movie (in my opinion). I have never seen a movie made with skill such as what can be found in The Green Mile. Most of this movie is just tuning in on these prison guards lives at their jobs and it is never at any point boring throughout the 3hour runtime. Stephen King wrote this book brilliantly and Frank Darabont brought it to the big screen brilliantly. Every single character in this movie is memorable and amazing. You will never hate someone as much as you will hate Percy, my personal favorite character form the movie. He was done so perfectly that it makes me feel bad for the actor because I might accidentally hit him if I ever see him in real life purely by instinct. *semi spoiler (but not really)* The other antagonist is also highly hateable. All the protagonist are very likable. The story is beautiful but might be difficult to swallow for people with certain religious beliefs. This is a must see, just don't watch it when you are sad and need a happy tale or comedy because this movie is full of tragedy.",
-      "review_date": "2015-11-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "brilliant movie. but sad thing is, the kind of thing that happened in this movie still goes on in this world we live in. terrible to think about. like Barry said, probably the movie that had the biggest emotional impact on me out of any moviebrilliant movie. but sad thing is, the kind of thing that happened in this movie still goes on in this world we live in. terrible to think about. like Barry said, probably the movie that had the biggest emotional impact on me out of any movie ive ever watched in my life. i just wish i knew the criteria these \"critics\" use to review movies.",
-      "review_date": "2011-03-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A true cinematic achievement from start to finish. \"The Green Mile\" is equally beautiful, horrific, heartbreaking and satisfying all throughout, with perfect performances and an unfathomably beautiful score.",
-      "review_date": "2012-11-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Energetic, deep, and sad. I've never burst into tears watching any movies. It makes me upset to see bad mediocre reviews from critics. I loved this movie. It was worth the 3-hour sit through.",
-      "review_date": "2013-08-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Seriously? Metascore of this movie is 61!!!What a disaster. Then what are these so called critics expect from a movie.It's interesting,thrilling,emotional ,well directed movie with an amazing story and screen play .\rActors are really mindSeriously? Metascore of this movie is 61!!!What a disaster. Then what are these so called critics expect from a movie.It's interesting,thrilling,emotional ,well directed movie with an amazing story and screen play .\rActors are really mind blowing.Story and screen play as what i expected from the great 'King'.The Drabaont-king gang have presented us one another gem not  lesser than that of 'The Shawshank Redemption'\rgot more than i wanted.\rthe critics who gave thus a movie a low rating ,at the same time garnishes the 'waste of time movies' like syriana,up in the air,michael clayton with scores more than 75 .Fools.",
-      "review_date": "2014-07-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "this movie is awesome ... the first movie made me cry ... i hate when i see low ratings on this grate movie ... it deserve to spend 3h ... Michael Duncan was brilliant .. RIP",
-      "review_date": "2015-05-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "3 hours of your time that you will not regret. As a massive Stephen King fan I could not wait to see this movie after I'd read the book, and boy was I ever impressed. The story in itself is heartbreaking and gut wrenching, so grab your3 hours of your time that you will not regret. As a massive Stephen King fan I could not wait to see this movie after I'd read the book, and boy was I ever impressed. The story in itself is heartbreaking and gut wrenching, so grab your tissues, but by the end of it don't be surprised if you want to watch the entire thing all over again. Tom Hanks is absolutely fabulous in the role of Paul Edgecomb, and the performances by Michael Clarke Duncan, David Morse and Sam Rockwell add all the necessary depth to their characters. Thrilling, magical, funny, traumatising... The Green Mile is all those things and I believe it would be impossible to be bored by this film. It's another one that requires your undivided attention and it is quite long but it doesn't feel that way by the end. There are characters you will love and ones you will hate but you will be touched by the stories they tell. I am always blown away by this movie, it is one of my all time favourites, and I highly recommend it.",
-      "review_date": "2015-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Based on one of Stephen King's few non-horror novels, THE GREEN MILE is a long, moving, poignant prison drama with an interesting fantasy twist. Starring Tom Hanks and Michael Clarke Duncan, it tells the story of Paul Edgecomb, a guardBased on one of Stephen King's few non-horror novels, THE GREEN MILE is a long, moving, poignant prison drama with an interesting fantasy twist. Starring Tom Hanks and Michael Clarke Duncan, it tells the story of Paul Edgecomb, a guard working at a prison where a man named John Coffey is brought into custody. Though he has been convicted of brutally murdering two girls, Paul soon enough discovers that John has a special healing power and really comes across as a kind man. Though clearly demented at some points in the plot, THE GREEN MILE was overall a great film. I plan on reading the serial novel on which it is based sometime soon, as it is sitting on my bookshelf, collecting dust and waiting patiently to be read; but as for a recommendation for anyone who hasn't seen this, see it. I can't guarantee you'll like it--there's always a movie not to like, after all--and I can't exactly guarantee you'll make it through the entire three hours and eight minutes, but it is most certainly worth a try. Rent it on Netflix, find it broken up in segments on YouTube, find it on TV, get it On Demand, buy it--whatever. Just make sure you see this film.",
-      "review_date": "2011-09-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Add something magical apparently some people will immediately hate it. Too bad for Metacritic that this landmark movie received such a meager metascore mostly due to some preposterously low ratings by some of the critics. Must see movie, oneAdd something magical apparently some people will immediately hate it. Too bad for Metacritic that this landmark movie received such a meager metascore mostly due to some preposterously low ratings by some of the critics. Must see movie, one of the very best ever made, right up there with Saving Private Ryan, The Silence of the Lambs and The Fellowship of the Ring. At least the users know a great movie when they see one.",
-      "review_date": "2019-04-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I cannot name a film that better imagines the harsh realities of life and the disturbingly twisted events that follow. 'The Green Mile' certainly makes me walk to the nearest store to pick up some more tissues, as its three-hour length isI cannot name a film that better imagines the harsh realities of life and the disturbingly twisted events that follow. 'The Green Mile' certainly makes me walk to the nearest store to pick up some more tissues, as its three-hour length is ultimately justified and proves to be very effective. You do not need to be knowledgeable on Stephen King's novel from which this film is adapted, as the journey we follow with these characters is cruelly realistic, for the most part.",
-      "review_date": "2015-01-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is one of those films that everybody has got to watch at some point in their life. It really is a stunning film, there's very little else I can say about it. But beware, you will weep like a child.",
-      "review_date": "2012-09-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A emotionally powerful, miraculously acted, exceptionally written, and unique drama.  The direction is incredible.  Darabont gives the film a vivid sense of place.  You are completely absorbed when watching the Green Mile.  All the actorsA emotionally powerful, miraculously acted, exceptionally written, and unique drama.  The direction is incredible.  Darabont gives the film a vivid sense of place.  You are completely absorbed when watching the Green Mile.  All the actors rise to an incredible level of convincingness, and the prison feels like an actual place.  The supernatural scenes also pack a punch, and some other scenes could make a robot cry.  It is pretty long, and not for people with a low tolerance for graphic violence, but it's without a doubt a great movie.",
-      "review_date": "2013-09-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An amazing movie by Stephen King! I highly recommend it to almost everyone (don't watch it if you're getting bored too easy, because this movie is 3 hours long). 8.5/10 but i'll give a 9/10 because of the ending!",
-      "review_date": "2014-07-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It may not be as good as \"Shawshank Redemption\" but it's still one moving film. Michael Clarke Duncan gives a powerful performance as John Coffey. Along with a great cast and story, it's a powerfully entertaining drama. Be sure to check outIt may not be as good as \"Shawshank Redemption\" but it's still one moving film. Michael Clarke Duncan gives a powerful performance as John Coffey. Along with a great cast and story, it's a powerfully entertaining drama. Be sure to check out my YouTube channel \"TheMovieManLife\" for all things movies.",
-      "review_date": "2013-09-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Awesome!!! One of the best pictures ever made. Based on a Stephen King's unputdownable novel!!! Well-acted!!! Brilliant, brilliant and brilliant!!! Watch it!!",
-      "review_date": "2013-08-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Superb movie in all aspects. Great acting, very solid story (also considering there are not many locations), and definitely some very emotional aspects. It's one of those few movies that has really taken you somewhere when it has finished.",
-      "review_date": "2015-03-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I am starting to lose the faith in metacritic's rating... this movie was one of the best I have seen since ages, and 3 hrs isnt that long for it.",
-      "review_date": "2009-04-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's actually not as perfect as some other users say here. That John Coffey was pictured as a naive and very simple minded guy was improper to me. Also they could've cut out some scenes, 3 hours are a bit too much. Anyways, this is aIt's actually not as perfect as some other users say here. That John Coffey was pictured as a naive and very simple minded guy was improper to me. Also they could've cut out some scenes, 3 hours are a bit too much. Anyways, this is a rememberable masterpiece and a brilliant-made movie. Must-see!",
-      "review_date": "2012-09-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Green Mile is a milestone for Darabont. Of course the high-brow critics will think this an overly long snore-fest, but the real movie watchers will realize its accurate portrayal of the passage of time and what it feels like for a deathThe Green Mile is a milestone for Darabont. Of course the high-brow critics will think this an overly long snore-fest, but the real movie watchers will realize its accurate portrayal of the passage of time and what it feels like for a death row inmate. Described as his favorite movie he's made, it combines the magic of a Disney film with more adult themes and a soaring story that moves you and makes you judge your own life. Even the title is a metaphor as this film conveys complex themes about life, set in Louisiana in a death row cell block.",
-      "review_date": "2014-01-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Incredible adaptation of Stephen Kings book.\r The late Michael Clarke Duncan is perfect in the role of Coffey  a mentally challenged black man sentenced to death for the murder of two little girls. Tom Hanks gives a stellar performance asIncredible adaptation of Stephen Kings book.\r The late Michael Clarke Duncan is perfect in the role of Coffey  a mentally challenged black man sentenced to death for the murder of two little girls. Tom Hanks gives a stellar performance as mild-mannered prison guard in charge of death row.\r One of the best Stephen King adaptations yet (alongside The Shawshank Redemption).",
-      "review_date": "2013-11-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie….I can't explain it in words but, this is the best sob movie in time. I'm not going to say its \"one of the best\" or \"probably the best\" because I know. This movie is the best. Why? When I was young, about the time you can't walk, IThis movie….I can't explain it in words but, this is the best sob movie in time. I'm not going to say its \"one of the best\" or \"probably the best\" because I know. This movie is the best. Why? When I was young, about the time you can't walk, I somehow opened the tv and saw this. I only saw a scene of it but, it was so, how to say this, close? I think. Whatever, I couldn't get that movie out of my mind then a 9ish years later, I found the name. I saw the whole movie and now, I feel accomplished. A part of the scene in this movie is so moving that I searched and searched when it was possible to search. I came from a poor family once so I didn't have the internet or a phone or a computer, just a tv. So now, since I have a laptop, I want to say this to the world. This movie changed my life.",
-      "review_date": "2014-01-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Finally had a chance to see this, and as much as I enjoyed it and it deserves most of the praise it gets; I couldn't help but feel a little bit underwhelmed. Maybe the expectations were a bit high. It dragged a bit for me at the start, andFinally had a chance to see this, and as much as I enjoyed it and it deserves most of the praise it gets; I couldn't help but feel a little bit underwhelmed. Maybe the expectations were a bit high. It dragged a bit for me at the start, and going into this completely blind, the fantasy twist to this film caught me off guard a little. Make no mistake though, the acting is superb, the music choices are pretty great and overall, it is still a very, very good film.",
-      "review_date": "2014-03-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The hreen mile is cinema at its best. An exceptional production with a perfect alignment of story, cast, soundtrack, visual effects and direction. It is a classic movie.",
-      "review_date": "2022-03-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It hard to take your eyes off the screen while watching the Green Mile. Tom Hanks is at the peak of his career and its on display in this movie. The Green Mile will get you emotionally engaged like very few other movies will. Its hard not toIt hard to take your eyes off the screen while watching the Green Mile. Tom Hanks is at the peak of his career and its on display in this movie. The Green Mile will get you emotionally engaged like very few other movies will. Its hard not to cry while watching it. The late Michael Clarke Duncan is at his best in this movie. Sadly that he never got another chance to shine like he did in this film. This one is a flat out classic.",
-      "review_date": "2014-11-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"We think of this place like an intensive care ward of a hospital.\" So says Paul Edgecomb, who is in charge of Death Row in a Louisiana penitentiary during the Depression. Paul (Tom Hanks) is a nice man, probably nicer than your average\"We think of this place like an intensive care ward of a hospital.\" So says Paul Edgecomb, who is in charge of Death Row in a Louisiana penitentiary during the Depression. Paul (Tom Hanks) is a nice man, probably nicer than your average Louisiana Death Row guard, and his staff is competent and humane--all except for the loathsome Percy, whose aunt is married to the governor, and who could have any state job he wants, but likes it here because \"he wants to see one cook up close.\" One day a new prisoner arrives. He is a gigantic black man, framed by the low-angle camera to loom over the guards and duck under doorways. This is John Coffey (\"like the drink, only not spelled the same\"), and he has been convicted of molesting and killing two little white girls. From the start it is clear he is not what he seems. He is afraid of the dark, for one thing. He is straightforward in shaking Paul's hand--not like a man with anything to be ashamed of.\r \"The Green Mile\" (so-called because this Death Row has a green floor) is based on a novel by Stephen King, and has been written and directed by Frank Darabont. It is Darabont's first film since the great \"The Shawshank Redemption\" in 1994. That, too, was based on a King prison story, but this one is very different. It involves the supernatural, for one thing--in a spiritual, not creepy, way.\r Both movies center on relationships between a white man and a black man. In \"Shawshank\" the black man was the witness to a white man's dogged determination, and here the black man's function is to absorb the pain of whites--to redeem and forgive them. By the end, when he is asked to forgive them for sending him to the electric chair, the story has so well prepared us that the key scenes play like drama, not metaphor, and that is not an easy thing to achieve.\r I have started to suspect that when we talk about \"good acting\" in the movies, we are really discussing two other things: good casting and the creation of characters we react to strongly. Much of a performance is created in the filmmaking itself, in photography and editing and the emotional cues of music. But an actor must have the technical and emotional mastery to embody a character and evoke him persuasively, and the film must give him a character worth portraying. Tom Hanks is our movie Everyman, and his Paul is able to win our sympathy with his level eyes and calm, decent voice. We get a real sense of his efficient staff, of the vile natures of Percy and Wharton, and of the goodness of Coffey--who is embodied by Duncan in a performance that is both acting and being.\r The movie is a shade over three hours long. I appreciated the extra time, which allows us to feel the passage of prison months and years. Stephen King, sometimes dismissed as merely a best-seller, has in his best novels some of the power of Dickens, who created worlds that enveloped us and populated them with colorful, peculiar, sharply seen characters. King in his strongest work is a storyteller likely to survive as Dickens has, despite the sniffs of the litcrit establishment.\r By taking the extra time, Darabont has made King's \"The Green Mile\" into a story which develops and unfolds, which has detail and space. The movie would have been much diminished at two hours--it would have been a series of episodes without context. As Darabont directs it, it tells a story with beginning, middle, end, vivid characters, humor, outrage and emotional release. Dickensian.",
-      "review_date": "2015-04-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I am starting to like Stephen King's work more now, and I read the book. A wonderful book, that is faithfully(mostly) adapted into an equally wonderful film. My only complaint of The Green Mile is the length, I do think it is too long.I am starting to like Stephen King's work more now, and I read the book. A wonderful book, that is faithfully(mostly) adapted into an equally wonderful film. My only complaint of The Green Mile is the length, I do think it is too long. However, The Green Mile is a film that is haunting, thought-provoking, moving and engrossing.The film is beautifully directed by Frank Darabont(director of the slightly superior The Shawshank Redemption), is beautifully shot with a foreboding setting and atmospheric cinematography and lighting and has an engrossing and haunting story that is well-paced too. Thomas Newman's score is positively hypnotic and very beautiful, with some great authentic song choices, my favourite being Wrap Your Troubles in Dreams(And Dream Your Troubles Away).The script is thoughtful too, and the movie also has a big emotional impact without feeling manipulative, I honestly couldn't help crying at the end of the movie. I have to say as well, the execution scenes were really quite harrowing. The performances are strong, Tom Hanks is excellent as the warden, as is Doug Hutchison who gives a credibility and complexity to a character that could have easily been clichéd and David Morse as Brutus. But Michael Clarke Duncan is the actor I want to give the real kudos to, he has a wonderful character and he absolutely nails it.Overall, a very, very good movie. Had it been shorter, it would have been perfect. 9/10 Bethany Cox",
-      "review_date": "2022-03-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A little far from The Shawshank redemption but Darabont makes his best effort for this screenplay based upon a book of Stephen King. Sensitive drama that works in the background as a plea against the death penalty, showing it as a cruel,A little far from The Shawshank redemption but Darabont makes his best effort for this screenplay based upon a book of Stephen King. Sensitive drama that works in the background as a plea against the death penalty, showing it as a cruel, useless type of revenge. Remarks Tom Hanks and newborn Clarke Duncan.",
-      "review_date": "2019-11-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I absolutely love this movie! I am so disappointed in the critics for giving it a lower score. In my opinion this is one the best movies of all time. This movie is an example of how movies should be made, so emotional and touching. RIPI absolutely love this movie! I am so disappointed in the critics for giving it a lower score. In my opinion this is one the best movies of all time. This movie is an example of how movies should be made, so emotional and touching. RIP Michael Clark Duncan :(",
-      "review_date": "2018-04-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The problem that I have with every negative review of this film is that the negativity stems purely from the length of the film. This is a terrific, emotional film that you never want to stop watching. If there is a negative review out thereThe problem that I have with every negative review of this film is that the negativity stems purely from the length of the film. This is a terrific, emotional film that you never want to stop watching. If there is a negative review out there that addresses a fault present in the picture, I have not seen it.",
-      "review_date": "2018-10-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not gonna lie im a Stephen King fan and a fan of Darabont so this review is gonna be very biased... Anyways this movie is so **** great, its got its philosophy super tight, its got an amazing cast with suchn great performances. Darabont knowsNot gonna lie im a Stephen King fan and a fan of Darabont so this review is gonna be very biased... Anyways this movie is so **** great, its got its philosophy super tight, its got an amazing cast with suchn great performances. Darabont knows how to immerse his viewers just like King to his readers it has a strong view on prejudice at least in my opinion. The movie from top to bottom is such a great watch not a dull moment and moments from small to big impact the story in many ways I highly recommend this movie. Also its 3 hours long not many movies can handle such a big time frame and maintain their viewers like this one has.",
-      "review_date": "2019-03-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nIt makes me angry to see many low scores from critics, this is probably one of the best and most emotional movies I have ever watched.",
-      "review_date": "2019-04-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An other excellent adaption from Frank darabont (Shawshank redemption) a film filled with real raw human emotions just like Shawshank",
-      "review_date": "2019-08-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "it was one of the best movies i ever saw.especially its end sequence.the play of tom hanks was great.",
-      "review_date": "2019-09-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best movie in the world! Looked at tears more than when watching the movie Titanic! Very emotional movie. The actors played their roles perfectly.",
-      "review_date": "2019-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best moovies of all time. For me its slightly better even than shawshank redemption.",
-      "review_date": "2019-12-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I'd estimate I've seen over 5000 films in my life from multiple countries and continent's and from all era's of film-making, The Green Mile has never been surpassed by any film.It is at one some point during it's runtime touching, sad,I'd estimate I've seen over 5000 films in my life from multiple countries and continent's and from all era's of film-making, The Green Mile has never been surpassed by any film.It is at one some point during it's runtime touching, sad, horrific, funny, haunting, provocative and very emotional. A supremely satisfying experience that surpasses The Shawshank Redemption in every way most notably with it's characters who are more colourful and memorable. The acting from everybody is incredible, the score is fantastic and the directing flawless.It's what cinema is at it's best a great story just like a novel. Totally engrossing for it's entire runtime, if it was a single minute shorter it wouldn't be as good a film, the runtime is a strength not a weakness.",
-      "review_date": "2020-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Отличный фильм.С интересный персонажи.Сильная драма",
-      "review_date": "2021-05-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's longer and it's better, Frank Darabont and Stephen King reunited after a previous Masterpiece, The Shawshank Redemption, the two have some similarity and the one that we can easily see is the prison, both of the movie is a prison story,It's longer and it's better, Frank Darabont and Stephen King reunited after a previous Masterpiece, The Shawshank Redemption, the two have some similarity and the one that we can easily see is the prison, both of the movie is a prison story, The Shawshank Redemption is sad and depressing, same like The Green Mile, but how unfair the thing is, that make The Green Mile more sad and more depressing, with Tom Hanks and Michael Clarke Duncan amazing and incredible perfomance, so do the other, not only make The Green Mile have one of the most powerful perfomance i've ever watch but one of the most powerful movie i've ever watch, i highly recommended.",
-      "review_date": "2021-06-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I have a very critical point here that I havent seen anyone ask or havent ever seen anything online about it...but maybe just maybe someone on here has thought the same thing thats on my mind. What made me even question this is I am watchingI have a very critical point here that I havent seen anyone ask or havent ever seen anything online about it...but maybe just maybe someone on here has thought the same thing thats on my mind. What made me even question this is I am watching the series in John Wayne Gacy the Killer Clown. And one of the victims child asked why did it take so long and there was supposedly some cops involved in the 33 crimes. So I started to think about The Green Mile and wondered...was this movie showing us that they did fake executions? You know movies reveal alot of things. Well you all ask what do I mean. Well the part when they were practicing the execution and they had the inmate acting like he was getting electrocuted. Well for one why wpuld they do that? With a inmate anyways. Why didnt they just do it with another officer? I believe they actually did stuff like that to fake executions on sime people. Because you know they put people out there to do things like this. I mean murder people and stuff. This is an evil world. How hard wpuld it be to fake an execution really? And they never let the public see it...why? Someone with a depth of intellect please dialogue with me on this. Thanks.",
-      "review_date": "2021-08-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nso sad :( the ending could have been a little better but it's one of the best movies I've ever seen.",
-      "review_date": "2021-09-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nJust a masterpiece.A wonderful story about the wrong person who got into the wrong time, the wrong time. There are excellent actors in the film, you empathize with the main character and the mouse or hate it.The best film adaptation of Stephen King, in my opinion.",
-      "review_date": "2022-01-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What's with the low scores? This is the second best, and second saddest, movie I have ever seen. Then again, I haven't seen many sad movies If you haven't noticed already, I love this movie. Nobody beats Tom Hanks when it comes to acting, andWhat's with the low scores? This is the second best, and second saddest, movie I have ever seen. Then again, I haven't seen many sad movies If you haven't noticed already, I love this movie. Nobody beats Tom Hanks when it comes to acting, and Michael Clarke Duncan is brilliant too.",
-      "review_date": "2015-08-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best movies I ever saw!! If you don't cry I don't trust you.The story is so moving and the casting is also really good.RIP Michael Clarke Duncan",
-      "review_date": "2017-09-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Thought-provoking and emotional dynamite!",
-      "review_date": "2009-05-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A short story by Stephen King, as I recall.  We see a huge black man brought to Death Row for execution.  The guards (including Tom Hanks) are very wary of him at first, but find him a kind, loving man.  How could he have committed murder?A short story by Stephen King, as I recall.  We see a huge black man brought to Death Row for execution.  The guards (including Tom Hanks) are very wary of him at first, but find him a kind, loving man.  How could he have committed murder?  And he seems to be able to cure illness and bring a dead mouse back to life.  How can this be?  He introduces himself as James Coffee, J.C., Jesus Christ?  So, do we crucify him again?  Would we recognize the second coming of Christ if he was a huge black man?  What if he was a woman?  I don't have a lot of DVDs but this one is in my collection.",
-      "review_date": "2015-11-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Contrary to popular belief I do not think this is the best movie ever made, but still a damn good one.Writing my whole thoughts on this movie down would be an astonishing feat, because everything is beautifully intertwined and the ending isContrary to popular belief I do not think this is the best movie ever made, but still a damn good one.Writing my whole thoughts on this movie down would be an astonishing feat, because everything is beautifully intertwined and the ending is very much open for interpretation - albeit a little bit ludicrous. I very much recommend this movie to everyone, it's emotional, heartwarming, and the Chair is just as horrifying as everyone made it out to be.",
-      "review_date": "2020-12-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I expected this movie to be a normal horror movie just like other Stephen King's adaptation but it was totally different from what I thought. This movie plays with your emotions. You laugh, cry and there comes a feeling which can't beI expected this movie to be a normal horror movie just like other Stephen King's adaptation but it was totally different from what I thought. This movie plays with your emotions. You laugh, cry and there comes a feeling which can't be described in words. This was one of the best movie I have ever seen. This movie had everything; fantastic story, brilliant acting, mind boggling feelings and overall an unforgettable drama. Movie is of 3 hours but you don't even feel it.  I can guarantee that this movie will leave an impression in your mind for a long time.",
-      "review_date": "2020-11-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "this movie makes me cry every **** time. MR. (J)ohn (C)offey \"JC\" is wrongfully in-prisoned in this amazing drama. the 30s were a tough time to be colored. John in death row awaiting the electric chair but thats after him saving the elderthis movie makes me cry every **** time. MR. (J)ohn (C)offey \"JC\" is wrongfully in-prisoned in this amazing drama. the 30s were a tough time to be colored. John in death row awaiting the electric chair but thats after him saving the elder from all her pain, resurrecting a rat back to life on the spot and being innocent himself, a gentle giant as you may call it. this is another \"Watch before you die\" movie.",
-      "review_date": "2020-12-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is one of the best films on history.It never does not duplicate.To my surprise, the overall score of this masterpiece of a total of 61.I'm really sorry for the the critics of these sites",
-      "review_date": "2013-10-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Despite the film being well over 3 hours, you wouldn't be able to tell with the screenplay and the excellence of this movie. While it certainly has its haunting, mystical and emotional aspects, the Green Mile is a fantastic film.",
-      "review_date": "2020-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Это больше чем фильм…\r Знаете, есть фильмы, которые заставляют о чем-то важном подумать, сделать свои умозаключения после просмотра, уяснить для себя урок и жить дальше не забывая его. Например, фильм, снятый по не менее гениальному романуЭто больше чем фильм…\r Знаете, есть фильмы, которые заставляют о чем-то важном подумать, сделать свои умозаключения после просмотра, уяснить для себя урок и жить дальше не забывая его. Например, фильм, снятый по не менее гениальному роману С. Кинга `Побег из Шоушенга` заставляет задуматься о судьбе человека, в чьих она руках, о справедливости в мире, о надежде, которая движет человеком, и он способен разрушить любые преграды на своем пути благодаря ей.\r Но есть одно НО — эти мысли оставляют человека через какое-то время, и человек вновь погружается в свои проблемы, бытовую жизнь, погружается в мир, который заставляет жить человека по определенным правилам. Правилам, которые диктует суровая реальность, человек невольно, сам того не замечая, грязнет в грехах и бессмысленных поступках. Та ценность, которую передает определенный фильм человеку, куда-то уходит, забывается или затирается в мозгу.\r Но есть фильмы, которые на протяжении всей жизни человека своим сюжетом всегда возвращает его к тем вопросам, о которых должен задумываться каждый человек, присланный на землю богом и живущий по его законам и правилам.\r Для такого человека просмотр и осмысление фильма «Зеленая миля» становится очень важным событием в его жизни.\r Для такого человека эти фильмы дают больше чем, например, безбожнику или человеку, верующего в Него, но с головой погрязшего в грехах и который все реже различает, что делается «добром», а что «злом». Такие люди не найдут ничего особенного в этом фильме или будут оценивать с материальной точки зрения, политики, сравнивать динамичность его сцен с более эффектными фильмами. В общем, не найдут того зерна, который было истинно заложено С. Кингом и режиссерами, снявшими его.\r Я полностью присоединяюсь к тем положительным отзывам о фильме, которые были сказаны выше. Чувствуется, что люди полностью полюбили этот фильм всем сердцем. А мне кажется еще, что, возможно, ничего подобного больше на экраны не выйдет.\r Мне кажется, что этот роман был «продиктован» С. Кингу свыше и что не случайно он был экранизирован через 2000 лет после рождества Иисуса Христа.\r Этот фильм полностью пронизан любовью и состраданием ко всему живому в лице Джона Коффи. Эта картина напоминает то время, когда жил и Иисус Христос, о его чудесных исцелениях людей, о вере в Отца своего до конца, до гроба. Он никого не осуждал и любил врагов своих. Что-то подобное можно увидеть в образе Джона Коффи, который просто устал от жестокости в мире и непонимания людей. В системе дьявола, на Земле, он просто не мог выжить. Несмотря на свой внушительный вид, который может нести огромную разрушительную силу, Джон Коффи по фильму сходен с безобидным мышонком. Это неспроста, что С. Кинг пытался уровнять всех людей перед собой и пытался показать, что все люди едины перед природой и ее законами и равны перед Богом.\r По-моему, в фильме прозвучало очень много истинных фраз — например, слова заключенного индейца «Если человек искренне раскаивается в своих грехах, то он может вернуться в то время, которое было самым счастливым для него и остаться там навсегда. Может, это и есть Рай». Только искренне раскаивающемуся человеку становится понятен истинный смысл жизни и то, что смерть — это только начало вечной жизни.\r Вот именно поэтому церковь всегда выступает против смертной казни, т. к. человек должен понять эту истину, сам приблизиться к ней, и это возможно только через беды и лишения. Т. е. только в тюрьме, к сожалению.\r «Их любовь помогла погубить себя» — эти слова Д. Кофи отвечают на многие вопросы, почему в мире такая несправедливость и жестокость. Именно таким инструментом пользуется дьявол внутри каждого из нас. «И так происходит каждый день, по всему миру».\r В фильме нет мудреных философских суждений или притчей из Библии, этого и не нужно было. В фильме вообще все понятно без слов, и это в том числе благодаря потрясающей игре актеров и их подбором.\r В конце фильма возникает ощущение того, что главный как раз в этой тюрьме Джон Коффи, а не кто-то другой. Именно он должен быть на свободе, а все остальные на его месте, в камере смертников. Это лишний раз показывает нам, как все люди сбились со своего жизненного пути и программы, заложенной свыше Богом.\r Такие фильмы надо прочувствовать всем сердцем. И если человеку это удастся сделать по-настоящему, то целой книги не хватит, чтобы выразить все свои мысли и эмоции об этом фильме.",
-      "review_date": "2016-08-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nPara mi fue una película muy buena la trama, la historia, los personajes, la parte que más me dolió la verdad fue la muerte de Mr. jingles the pero luego me dio alegría al ver que revive",
-      "review_date": "2020-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Despite the film being 3 hours long, it's definitely worth watching. It's really interesting, and I recommend not looking into this film at all as its better that way. The soundtrack for this is brilliant as it's by Thomas Newman which got meDespite the film being 3 hours long, it's definitely worth watching. It's really interesting, and I recommend not looking into this film at all as its better that way. The soundtrack for this is brilliant as it's by Thomas Newman which got me to watch this film in the first place. The film is like an adventure, its sad, it's very dark, its a mix of a bunch of things which is what makes it great as well. Not to mention that all of the actors for this film were perfect for their roles as well.",
-      "review_date": "2014-05-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I don't believe in much, but I do believe that miracles exist. Weather it's all part of the grand design or just abnormalities of nature, I'll never know, none of us will. This theme is explored in the novel and film, The Green Mile. HowI don't believe in much, but I do believe that miracles exist. Weather it's all part of the grand design or just abnormalities of nature, I'll never know, none of us will. This theme is explored in the novel and film, The Green Mile. How Stephen King came up with such a poignant and heartfelt tale is beyond me, maybe it was divine intervention, but the story of the Green Mile is a unique and moving film, the likes of which I've never seen before. The story centers around a man who is sent to death row, and once there he is able to doing seemingly impossible things. The performances in this film were Oscar worthy, building on the success of their last collaboration, The Shawshank Redemption, King and Durabont, got the biggest star in Hollywood to star in this film. The combination of a strong sentimental story along with the acting power of Tom Hanks made this film one for the ages. The supporting cast, in particular Michael Clarke Duncan and Sam Rockwell, were tremendous assets to the film and their careers were launched with the help of Hanks's experience and King's amazing words, but this film is far from perfect. As an avid Stephen King fan, I know his attention to detail has often times been his downfall and to be honest, this film is about an hour longer than it needed to be. The story, in particular the ending were so powerful, that a lot of the in between could have been left on the cutting room floor. That aside, this is a long, but fantastic film with some of the best writing and performances you could find. Like many classic films the critics love, it's a bit long, parts of it are somewhat boring, and the storyline isn't for everybody, there are plenty of people who just won't get it. I did get it and I feel the better for it. This is one of those films, love it or hate it, that everyone should see at least once.",
-      "review_date": "2013-03-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "this movie is a masterpiece from the start to finish.\rwatching this movie nowadays makes you reminisce to the old movie style.\rthe good story  the fantastic performances  the over top characters  the fact that every scene of the movie isthis movie is a masterpiece from the start to finish.\rwatching this movie nowadays makes you reminisce to the old movie style.\rthe good story  the fantastic performances  the over top characters  the fact that every scene of the movie is valuable in the overall story.\ri miss how movies used to be  with Tom Hanks awesome performance and the fact that the movie is solid yet simple and joyful  it's basically a 3 hours that send you away to what movies actually should be.",
-      "review_date": "2013-06-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "not as good as i first watching it.. but still its kicking my hearth.. Michael Duncan did great! he's the real Gentle Giant, his acting are very convincing.. RIP Michael.D may God have mercy on your soul..",
-      "review_date": "2013-06-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Frank Darabont emerges from his five-year hiatus after \"The Shawshank Redemption\" with \"The Green Mile,\" an intermittently powerful and meticulously crafted drama that falls short of its full potential due to considerable over-length and someFrank Darabont emerges from his five-year hiatus after \"The Shawshank Redemption\" with \"The Green Mile,\" an intermittently powerful and meticulously crafted drama that falls short of its full potential due to considerable over-length and some shopworn, simplistic notions at its center. Quite involving at its best and needlessly attenuated and self-consciously \"inspiring\" at its worst, pic has all the earmarks of a year-end prestige release, beginning with Tom Hanks at the top of a fine cast.\r Working from King’s 1996 bestseller that was published in six serialized paperback installments, Darabont is nothing if not a fastidious storyteller dedicated to fulsome character detailing and sturdy structural carpentry.\r In this new film, as in “Shawshank,” the writer-director proves very adept at lighting numerous long fuses that burn slowly through the yarn’s lengthy telling and finally pay off in some big moments, some more satisfying than others.\r It’s a tribute to Darabont’s skill that he is able to sustain interest in these strands over such a long haul; it’s a reflection of his self-indulgence that he should think that this material warrants such doting elaboration.\r Told as an epic flashback by a very elderly man who relates his long-secret story to a lady friend at a nursing home, tale is largely set within the modest confines of E block, or death row, at Cold Mountain Penitentiary in Louisiana in 1935.\r Title refers to the shade of the faded linoleum on the floor of the facility, a well-kept bright brick building that resembles a small warehouse.\r Presiding over the handful of inmates is head guard Paul Edgecomb (Hanks), a decent middle-aged man dedicated to maintaining as much calm and dignity as possible, given the dire circumstances of his prisoners.\r On his staff are his loyal second-in-command, Brutus “Brutal” Howell (David Morse); sensitive greenhorn Dean Stanton (Barry Pepper); old pro Harry Terwilliger (Jeffrey DeMunn); and the group’s wild card, Percy Wetmore (Doug Hutchison), a shrimpy sadist who can get away with all manner of horrible behavior since he’s the son of the governor’s wife.\r Behind bars at the outset are good-hearted Creole Eduard Delacroix (Michael Jeter) and repentant Native American murderer Arlen Bitterbuck (Graham Greene), who’s about to walk the mile to the electric chair.\r Shortly joining them, and barely able to fit into his cell, is John Coffey (Michael Clarke Duncan), a towering, heavily muscled black man who’s been convicted of killing two little girls. Belying Coffey’s menacing look, however, is his demeanor, which is unvaryingly sweet-natured, polite and openly vulnerable; the greatest concern of this illiterate, childlike giant is that some lights be left on at night since he’s afraid of the dark.\r Typical of Darabont’s deliberate approach is the detail with which he presents the rehearsal for the Indian’s execution. A morbidly tense and riveting sequence reveals a startlingly makeshift-looking electric chair and what it takes to successfully put a prisoner to death.\r So, between the opposite poles of good and evil repped by the saintly simpleton Coffey on the one hand and the maniacal Wharton and Percy on the other, Darabont begins heavily developing thoughts about the extremes of which human beings are capable, as represented by their ability to give life and take it away.\r While “The Green Mile” often grabs, and generally holds, one’s attention through the long journey, there are any number of sequences that could have been tightened or eliminated in the interests of storytelling dispatch. Darabont’s technique readily sustains the thoroughness with which he develops scenes, but his points would still be clear enough without the epic treatment.\r And while Hutchison and Rockwell create deliciously hateable figures of pure evil, and Duncan elicits appropriately massive sympathy with his pivotal performance as the agent of goodness, these characters never grow multi-dimensionally and are ultimately more symbolic than credibly real.\r All the same, the ensemble acting is of a high order. Hanks excels as the prison guard who is well balanced enough to nearly always handle his many troubles in proper, imaginative fashion.\r Along with Duncan, all the other actors playing doomed inmates get their big moments to shine, with Jeter blending courage with emotional fragility as Delacroix.\r Percy aside, the prison officials are all portrayed as fundamentally upstanding. Gary Sinise is commanding in his one scene as an attorney who gives his views on Coffey to Edgecomb.\r Within individual scenes, Richard Francis-Bruce’s editing is impeccably precise in obtaining maximum values, while Thomas Newman’s generally strong score occasionally slips over-stressed grandeur.",
-      "review_date": "2016-03-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Green mile is unfused with sentiment, maybe too much. It's well made, well acted, well conveyed. But much of it drags and becomes too revelatory to appease greatness in the likes of Shawshank in Darabont's unique filmography. BUt it surelyGreen mile is unfused with sentiment, maybe too much. It's well made, well acted, well conveyed. But much of it drags and becomes too revelatory to appease greatness in the likes of Shawshank in Darabont's unique filmography. BUt it surely offers substance.",
-      "review_date": "2019-12-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Paul Edgecomb is a prison guard working on death row in a Southern prison during the thirties. It was in prison that he met John Coffey, a black giant accused of murder, but that seems able to do incredible things and have a kindness beyondPaul Edgecomb is a prison guard working on death row in a Southern prison during the thirties. It was in prison that he met John Coffey, a black giant accused of murder, but that seems able to do incredible things and have a kindness beyond doubt. Directed and written by Frank Darabont, based on a Stephen King novel, it features Tom Hanks and Michael Clarke Duncan in the lead roles.This film is proof that, even in Hollywood, film art still finds a room. In fact, it's one of the most beautiful and human films made by the industry in recent decades and deals with controversial issues such as the impartiality of the justice and prison system, questionableness of capital punishment and the human right to a truly fair trial. The script is above reproach and it truly lives up to King's book. The cast surpassed in quality, particularly Michael Clarke Duncan, an actor who still isn't very famous outside the U.S. but that made a deep and moving role. Tom Hanks was also good but it wasn't unexpected because he had shone in recent films like \"Philadelphia\" or \"Saving Private Ryan\", launched one or two years before this.Address controversial issues in an original and impactive way is often synonymous with success in cinema. Personally, I consider this film as one of the finest ever made in U.S. over the past decades. The film speaks for itself and that's enough to understand why I think so.",
-      "review_date": "2018-02-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Despite its 3-hour length, the film proves other critics wrongs about its achievement in making itself a wonderful story filled with great acting.",
-      "review_date": "2020-06-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThe Green Mile us a great movie set in 1935 where a man with the ability to heal people is put on Death row. Inside the penitentiary we get to see how this scenario could play out all the way until a heartbreaking conclusion",
-      "review_date": "2020-12-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Man in retirement home sees Fred Astaire in a film, has flashbacks back to 1935 when he was a prison warden.Fantastic film with great acting & a good adaptation of the Stephen King novel.Sam Rockwell is amazing as the very unhinged BillyMan in retirement home sees Fred Astaire in a film, has flashbacks back to 1935 when he was a prison warden.Fantastic film with great acting & a good adaptation of the Stephen King novel.Sam Rockwell is amazing as the very unhinged Billy the Kid & despite it's three hour length doesn't seem as long.Tom Hanks does tend to play himself & I still think Bachelor Party is his best film but with this & Catch Me If You Can being not far behind.",
-      "review_date": "2010-08-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Чем руководствовались критики, когда ставили такие низкие оценки??? Фильм потрясен, никого не оставит равнодушным...",
-      "review_date": "2020-04-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Very well made with a beautifully understated musical score by Thomas Newman, it underpins the action perfectly and works very well. All the performances were great; particularly Michael Clarke Duncan who fully deserved his 2000 OscarVery well made with a beautifully understated musical score by Thomas Newman, it underpins the action perfectly and works very well. All the performances were great; particularly Michael Clarke Duncan who fully deserved his 2000 Oscar nomination for his portrayal of John Coffey. As usual, Tom Hanks puts in a flawless performance as Paul Edgecomb (the younger version of course). The film has quite a slow pace that allows the audience to become familiar with the characters and the comings and goings on ",
-      "review_date": "2012-10-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This one is truly great. It may be a tad over three hours, but it feels significantly shorter. Plus, the added time allows us to spend more time with the characters, which is something I will never argue as a negative for this one. Tom Hanks,This one is truly great. It may be a tad over three hours, but it feels significantly shorter. Plus, the added time allows us to spend more time with the characters, which is something I will never argue as a negative for this one. Tom Hanks, David Morse, Michael Clarke Duncan, Doug Hutchison, Barry Pepper, Sam Rockwell, Michael Jeter, and James Cromwell, make up one hell of an ensemble cast for this one and all truly knock their roles out of the park. I am typically not a huge fan of prison dramas, but the heart and compassion you feel for everyone involved in amazing and truly draws you in. The more fantastical elements are also very interesting and set against the backdrop of a very realistic situation are all the more odd, but I think they are handled very well. As a whole, this one is very intriguing, touching, and unique, which elevate it above many prison dramas. Add in the great acting and you truly have something special with The Green Mile.",
-      "review_date": "2014-08-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is seriously underrated! It is easily my all time favorite and most emotional movie. I highly recommend. The acting, writing, cinematography and score worked together so well that this film will be very memorable to all types of audiences.",
-      "review_date": "2020-06-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nAbsolutely Incredible movie. Tears at the strongest of heart strings. Tom Hanks performance is absolutely phenomenal mixed with the emotional complexity of his relationship with John Coffey played by Michael Clarke Duncan, mixed with a perfect yet hollow ending that leaves you with tears strolling down your face after every watch. 10/10 Classic Movie in my all time top 10 for sure.",
-      "review_date": "2020-08-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is Pander. Period.\rBasically, it starts and ends without questioning death penalty. Death penalty is barbaric for MY culture, and the behavior of the characters never seems realistic to me. The horrible system behind death row isThis film is Pander. Period.\rBasically, it starts and ends without questioning death penalty. Death penalty is barbaric for MY culture, and the behavior of the characters never seems realistic to me. The horrible system behind death row is depicted in a mitigate, sweetened way. There's no room for compassion in death penalty as shown in the film, and this film is basically offensive solely for the way the characters are behaving.\rSecond: nothing is believable. Clearly is a fantasy drama, but still as the stereotyped characters (bad people are bad without a reason, they are simply mad. Good people are in fact not really good, but seam dumb and ataraxic, resulting in unlovable characters). The main character is basically a scary black giant who cries all the time. Very easy way to provoke reactions in the viewer is to show him something which he's unconsciously scared off while enforcing this unconscious fear with clever direction. Incidentally this unconscious fear is based on a black stupid strong man stereotype overlapped by the boogeyman figure. I'm a caucasian european man and i find this VERY offensive.\rThe whole story, in the end, is based on emotional tricks. (the *spoiler* bad death scene is traumatic and unnecessary, at least as it is shown). Giving strong emotions to people based on meaningless story or characters is a cheat.\rThis film is bad. I couldn't expect this since the reviews are so high. But i found this film ruffian, manipulative and ultimately ugly.",
-      "review_date": "2013-12-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Best adaptation of a Stephen King novel.",
-      "review_date": "2007-08-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Tom Hanks and Michael Clark Duncan are amazing. The script is creative and often powerful. Running at just over 3 hours long I felt there were a few scenes that could have easily been cut to aid in pacing. Overall a very good movie",
-      "review_date": "2011-01-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Its a great movie with great acting but the flaw of the movie is that its far too long and it does make you lose interest a few times during the movie but its still well worth the watch.",
-      "review_date": "2011-12-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Green Mile is a great movie with great acting but the flaw of the movie is that its far too long and it does make you lose interest a few times during the movie but its still well worth the watch.",
-      "review_date": "2013-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie will probably give you some emotional touches, although not enough for three hours. In order for it to really make an emotional impact, it should be short and swift.",
-      "review_date": "2014-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Even while The Green Mile has an undeniably talented cast and a nice script that doesn't lack Stephen King's thrilling style, it has too much duration and too less credibility to be totally unforgettable or enjoyable.",
-      "review_date": "2017-08-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Mira que hizo películas inmemorables Tom Hanks pero sin duda esta es mi favorita.",
-      "review_date": "2019-04-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Green Mile is a film directed by Frank Darabont and was made in 1999. Honestly I don't know what genre to categorise it as because it looks like a prison drama but crime, fantasy, drama could be possiblities... We know the black dudeThe Green Mile is a film directed by Frank Darabont and was made in 1999. Honestly I don't know what genre to categorise it as because it looks like a prison drama but crime, fantasy, drama could be possiblities... We know the black dude behind bars supposedly accused of murder holds some supernatural healing powers or some rubbish and has flies or something coming from his mouth which is bizarre but the healing process you could class as supernatural... The Green Mile stars Tom Hanks, David Morse, Michael Clarke Duncan and Sam Rockwell who I must admit is annoying in this film and so is Doug Hutchison or whatever his name is from The X Files.. This film is about 3 hours long or more and it's totally unnecessary especially since not much happens because all we see is a prisoner being annoying and being put in a padded room and some mouse being clever performing tricks and some big black guy with flies oozing from his mouth and healing the odd person plus one of the prison workers ending up in a mental hospital and one of the prisoners getting shot and a few executions.. To be honest it gets rather boring and the only character I really liked was Tom Hanks's character and Michael Clarke Duncan's character kept crying all the time which was laughably pathetic but I liked Tom Hanks. Besides that The Green Mile delivered nothing and the entertainment value was little and some of the characters were crap and annoying plus alot of the locations looked tacky and you only ever see one part of the prison all through the film which is laughable and dull and why so many rate this garbage as a classic is beyond me. Quite possibly one of the worst films I've seen in a while so if you want a decent prison film or a decent film full stop avoid this turd and watch something else.",
-      "review_date": "2021-04-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Una película con una muy buena trama, buenos personajes y buena ambientación.",
-      "review_date": "2020-08-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "ngbnhbjbbjjbugugugigigigigigihihihihihihiihiihigiyigugugyiyiyiyigigiy8yiy8yy8y7yuguuuguguuyy",
-      "review_date": "2021-04-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It takes something exceptional to come close to Frank Darabonts Shawshank Redemption but the director manages to bring another multilayered tale to life. We cross themes of spirituality, humanity, good versus evil and also some fantasy which It takes something exceptional to come close to Frank Darabonts Shawshank Redemption but the director manages to bring another multilayered tale to life. We cross themes of spirituality, humanity, good versus evil and also some fantasy which all work brilliantly together to bring a deeply moving film with excellent performances from the entire cast. Some have complained that the movie is far too long but for me the time flew because every scene is worthwhile, the film draws you in from the outset and doesn't let go with little sub themes and a rich multi-layered story that is rich and beautiful but also terribly sad at times. If you don't like this film then in my view you don't know what being human is all about. An astonishing beautiful film that will stay with you for a long time.",
-      "review_date": "2006-09-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Succeeds on all levels...give in to it.",
-      "review_date": "2008-04-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Once again the users got it right.",
-      "review_date": "2007-02-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Touching.",
-      "review_date": "2007-08-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Sweet moving video. Ban execution!!!!",
-      "review_date": "2007-01-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I really think this movie deserves a perfect score. The first time i saw it i was forced to lock myself in the bathroom to cry like i baby. It's very touching indeed, and the acting of John it's wonderful.",
-      "review_date": "2008-10-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The reviews for this remind me once again that most film critics are overpaid, self important idiots. This was one of the best films ive ever seen.",
-      "review_date": "2008-10-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Touching film. This has got to be the film that had the biggest emotional impact on me out of them all. It's sad, witty and the acting is fantastic. It deserves more than the average it has here. I adore it!",
-      "review_date": "2008-02-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Those so called movie reviewers who slated this movie are not representative of the ordinary guy on the street who enjoyed the film. As shown by the average score of 9.",
-      "review_date": "2008-03-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Okay, I do not have any interest in Stephen King. I think most of his stuff because they're so stupid. All they are filled with are stuff like killer clowns and mist that make people go ape-sh*t on each other. But I made an exception Okay, I do not have any interest in Stephen King. I think most of his stuff because they're so stupid. All they are filled with are stuff like killer clowns and mist that make people go ape-sh*t on each other. But I made an exception for this movie. It didn't seem like it would be scary. It's just a prison story. And fortunately, this is exactly what I wanted. It was everything you want a great movie to be. Great cast and acting, powerful scenes, emotion, and Tom Hanks. This is #8 on my top ten list, under The Last Samurai and Star Wars. I give it 10/10",
-      "review_date": "2008-03-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Anyone who says this movie is slow needs to go back to their Arnold Schwarzeneggar and Jerry Bruckheimer moves. This is an engrossing and beautifully told masterpiece, if somewhat disturbing at times.",
-      "review_date": "2005-12-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's a rather good movie. Tom Hanks is good but it's Michael Clarke Duncan's powerful performance that not only steals the show but also makes the movie.",
-      "review_date": "2013-02-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "zajebisty film z tomem hanksem i w szczegolności Michael Clarke Duncan za role drugoplanowa powinien dostac oscara",
-      "review_date": "2022-02-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's a long movie (3 hours) but it's full of emotion and the mysterious plot was engaging enough that it was worth seeing to the end. The acting is fantastic and the soundtrack added to the experience positively. This is one of the few filmsIt's a long movie (3 hours) but it's full of emotion and the mysterious plot was engaging enough that it was worth seeing to the end. The acting is fantastic and the soundtrack added to the experience positively. This is one of the few films that truly made me care about the characters.",
-      "review_date": "2022-05-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "John Coffey may be one of the most lovable characters in the movie industry. He's a tall, built, formidable looking man who is actually a teddy bear on the inside. His innocence throughout the film creates more dread for the viewers as theyJohn Coffey may be one of the most lovable characters in the movie industry. He's a tall, built, formidable looking man who is actually a teddy bear on the inside. His innocence throughout the film creates more dread for the viewers as they await his execution, hoping their will be a narrow escape from it. I find it obscure that Coffey might possess the power of God with his mysterious healing powers, nonetheless, it furthers the kindness and love of this friendly giant. Fabulous acting, as I always long to see. It is an emotional roller coaster for both the audience and characters. This is three straight hours of masterful filmmaking at its best.",
-      "review_date": "2022-04-27",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 125
+    "title": "The Green Mile",
+    "rating": 8.2,
+    "release_date": "1999-12-10",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Fantasy",
+        "Crime"
+    ],
+    "summary": "Set on Death Row in a Southern prison in 1935, this is the remarkable story of a prison guard who develops a poignant, unusual relationship with one inmate who possesses a magical gift that is both mysterious and miraculous.  (Castle Rock Entertainment)",
+    "critic_reviews": [
+        "Above all a cracking good yarn that earns its laughter, its wonder and its tears.",
+        "As Darabont directs it, it tells a story with beginning, middle, end, vivid characters, humor, outrage and emotional release.  Dickensian.",
+        "Darabont follows King's book fairly closely, allowing the audience to steep itself in the setting and characters slowly, like reading a good novel.",
+        "A touching (and at times horrific) -- albeit overlong -- Christ allegory, that scores not so much on the strength of its convictions as it does on the truly remarkable performances it elicits from the cast.",
+        "There's almost too much there, but the three-hour-plus film permits the kind of detailing that not only brings the storytelling to life, but sometimes persuades us we're breathing to its rhythms.",
+        "Excessive, but I, like Mr. Jingles, can't resist the Christmas-season cheese.",
+        "Has a simple but exceptionally powerful and uplifting emotional lure.",
+        "A richly textured thriller.",
+        "Well acted by an ensemble that leans toward equality for all, Mile carries its long running time extremely well.",
+        "A film with a counterproductive tendency to take its time...but unassumingly strong, moving performances and Darabont's durable storytelling make it a trip worth taking just the same.",
+        "From its deceptively easygoing beginning to the heart-wrenching finale, The Green Mile keeps you wonderfully high above the cynical ground.",
+        "An intermittently powerful and meticulously crafted drama that falls short of its full potential due to considerable over-length and some shopworn, simplistic notions at its center.",
+        "Modest, on-the-money performances, which look effortless because they're so meticulously thought out, make the hours fly by.",
+        "A loud and ghastly movie to sit through and not short on gratuitous hideousness, but Darabont has also done his best to baste it with humanity and sweetness.",
+        "A fascinating tragedy, easy to underrate.",
+        "I still feel pushed around by Darabont's mysticism, and his overbearing sense of grandness; a little bit of the Mile goes a long way.",
+        "Much of the three-hour movie takes place in the prison, but the resonant characterization, expansive plotting, and judicious use of exterior locations and flashbacks remove any sense of claustrophobia or sluggishness.",
+        "Its view of spiritual healing is closer to Spielberg fantasy than religious insight.  Still, its good acting and good intentions will be enough to please many viewers.",
+        "Simply a case of severe overreaching and the illusion that an overstuffed movie is an epic movie.",
+        "A shameless \"Shawshank\" redux.",
+        "Superficially respectful but ultimately cruel.",
+        "Three hours of overstatement and schmaltz.",
+        "While writer-director Frank Darabont often fails to make King's story plausible, that's no fault of the actors.  The performances are the movie's strong suit.",
+        "Irritatingly repetitious and piled high with long-foreseen conclusions.",
+        "Moves with the suffocating deliberateness of a river of molasses."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "It makes me angry to see many low scores from critics, this is probably one of the best and most emotional movies I have ever watched.",
+            "review_date": "2011-11-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I watched this for the third time yesterday, the thing that one critic pointed out is that this film has something extremely rare: soul. This is the most emotional movie I have ever seen, it's not just a drama movie with plot twists andI watched this for the third time yesterday, the thing that one critic pointed out is that this film has something extremely rare: soul. This is the most emotional movie I have ever seen, it's not just a drama movie with plot twists and unexpected tragedies; it has extremely lovable and disliked characters. Characters that we connect with, and when anything happens to them in the movie we feel like crying our guts out. It's also bound to make you take a different look on the use of the electric chair, and there are many other underlying themes and subjects with this movie. This film is a 3 hour experience that will change your mental attitude completely, highly recommended movie. 5/5 stars",
+            "review_date": "2011-08-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Critics gave this movie red or yellow rank must be clinically insane for sure. This is one of the best movies I ever saw, one of the best melodrama movie. You know, I'm not young man, I dont cry when I get kicked, when I feel pain, but thisCritics gave this movie red or yellow rank must be clinically insane for sure. This is one of the best movies I ever saw, one of the best melodrama movie. You know, I'm not young man, I dont cry when I get kicked, when I feel pain, but this movie made me cry. Not just a single tear, but I cried like a river. Just watch this, you will never forget The Green Mile.",
+            "review_date": "2013-08-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As with the fantastic Shawshank Redemption, The Green Mile is based on a Stephen King story and directed by Frank Darabont and I can give no higher praise than to say it is just as good.\r The film centres on a stretch of death row known asAs with the fantastic Shawshank Redemption, The Green Mile is based on a Stephen King story and directed by Frank Darabont and I can give no higher praise than to say it is just as good.\r The film centres on a stretch of death row known as The Green Mile in which a giant of a man known as John Coffey, accused of murdering two young girls, has been imprisoned. King is widely known for his horror books but, while there are supernatural elements to this story, as with The Shawshank Redemption this film is all about relationships between people in difficult circumstances.\r The Green Mile may be three hours long but every minute of that is used to develop the characters and story so that by the end we really do care what happens to them. Those that dismiss Kings work as chart filler may be pleasantly surprised by what they find in this movie.",
+            "review_date": "2013-05-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's incredible seeing so many low scores from critics for probably one of the three best movies ever. Its intensity and brilliance is something just amazing. There are no movies of this level nowadays. Three hours of emotions",
+            "review_date": "2013-11-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Green Mile was a great movie. It didn't make my top ten (no more than ten do, so it was a hard decision), but it absolutely made my top twenty. Frank Darabont. You wouldn't think he could do a follow-up adaptation of Stephen King's media,The Green Mile was a great movie. It didn't make my top ten (no more than ten do, so it was a hard decision), but it absolutely made my top twenty. Frank Darabont. You wouldn't think he could do a follow-up adaptation of Stephen King's media, after The Shawshank Redemption, of all things. But no, The Green Mile is just as good and better than The Shining and Stand by Me.",
+            "review_date": "2014-11-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A movie based on stephen Kings book the green mile does not disappoint! It makes you feel lots of different emotions at different times in the movie. Like most of stephen Kings books it is well thought out. The acting produced by Tom hanks isA movie based on stephen Kings book the green mile does not disappoint! It makes you feel lots of different emotions at different times in the movie. Like most of stephen Kings books it is well thought out. The acting produced by Tom hanks is just amazing, this is probably one of his best films! It is exciting, and gives the watcher an insight on what really happens when someone used to get the chair. At times this movie will probably make you cry. This is a good 3 hours so you've really got to dedicate some time to watching it. Overall this is probably one of my favourite movies of all time, and you should definately watch it before you die!",
+            "review_date": "2014-12-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is an absolute masterpiece. Not even The Shawshank Redemption is as good as this movie (in my opinion). I have never seen a movie made with skill such as what can be found in The Green Mile. Most of this movie is just tuning in onThis movie is an absolute masterpiece. Not even The Shawshank Redemption is as good as this movie (in my opinion). I have never seen a movie made with skill such as what can be found in The Green Mile. Most of this movie is just tuning in on these prison guards lives at their jobs and it is never at any point boring throughout the 3hour runtime. Stephen King wrote this book brilliantly and Frank Darabont brought it to the big screen brilliantly. Every single character in this movie is memorable and amazing. You will never hate someone as much as you will hate Percy, my personal favorite character form the movie. He was done so perfectly that it makes me feel bad for the actor because I might accidentally hit him if I ever see him in real life purely by instinct. *semi spoiler (but not really)* The other antagonist is also highly hateable. All the protagonist are very likable. The story is beautiful but might be difficult to swallow for people with certain religious beliefs. This is a must see, just don't watch it when you are sad and need a happy tale or comedy because this movie is full of tragedy.",
+            "review_date": "2015-11-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "brilliant movie. but sad thing is, the kind of thing that happened in this movie still goes on in this world we live in. terrible to think about. like Barry said, probably the movie that had the biggest emotional impact on me out of any moviebrilliant movie. but sad thing is, the kind of thing that happened in this movie still goes on in this world we live in. terrible to think about. like Barry said, probably the movie that had the biggest emotional impact on me out of any movie ive ever watched in my life. i just wish i knew the criteria these \"critics\" use to review movies.",
+            "review_date": "2011-03-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A true cinematic achievement from start to finish. \"The Green Mile\" is equally beautiful, horrific, heartbreaking and satisfying all throughout, with perfect performances and an unfathomably beautiful score.",
+            "review_date": "2012-11-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Energetic, deep, and sad. I've never burst into tears watching any movies. It makes me upset to see bad mediocre reviews from critics. I loved this movie. It was worth the 3-hour sit through.",
+            "review_date": "2013-08-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Seriously? Metascore of this movie is 61!!!What a disaster. Then what are these so called critics expect from a movie.It's interesting,thrilling,emotional ,well directed movie with an amazing story and screen play .\rActors are really mindSeriously? Metascore of this movie is 61!!!What a disaster. Then what are these so called critics expect from a movie.It's interesting,thrilling,emotional ,well directed movie with an amazing story and screen play .\rActors are really mind blowing.Story and screen play as what i expected from the great 'King'.The Drabaont-king gang have presented us one another gem not  lesser than that of 'The Shawshank Redemption'\rgot more than i wanted.\rthe critics who gave thus a movie a low rating ,at the same time garnishes the 'waste of time movies' like syriana,up in the air,michael clayton with scores more than 75 .Fools.",
+            "review_date": "2014-07-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "this movie is awesome ... the first movie made me cry ... i hate when i see low ratings on this grate movie ... it deserve to spend 3h ... Michael Duncan was brilliant .. RIP",
+            "review_date": "2015-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "3 hours of your time that you will not regret. As a massive Stephen King fan I could not wait to see this movie after I'd read the book, and boy was I ever impressed. The story in itself is heartbreaking and gut wrenching, so grab your3 hours of your time that you will not regret. As a massive Stephen King fan I could not wait to see this movie after I'd read the book, and boy was I ever impressed. The story in itself is heartbreaking and gut wrenching, so grab your tissues, but by the end of it don't be surprised if you want to watch the entire thing all over again. Tom Hanks is absolutely fabulous in the role of Paul Edgecomb, and the performances by Michael Clarke Duncan, David Morse and Sam Rockwell add all the necessary depth to their characters. Thrilling, magical, funny, traumatising... The Green Mile is all those things and I believe it would be impossible to be bored by this film. It's another one that requires your undivided attention and it is quite long but it doesn't feel that way by the end. There are characters you will love and ones you will hate but you will be touched by the stories they tell. I am always blown away by this movie, it is one of my all time favourites, and I highly recommend it.",
+            "review_date": "2015-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Based on one of Stephen King's few non-horror novels, THE GREEN MILE is a long, moving, poignant prison drama with an interesting fantasy twist. Starring Tom Hanks and Michael Clarke Duncan, it tells the story of Paul Edgecomb, a guardBased on one of Stephen King's few non-horror novels, THE GREEN MILE is a long, moving, poignant prison drama with an interesting fantasy twist. Starring Tom Hanks and Michael Clarke Duncan, it tells the story of Paul Edgecomb, a guard working at a prison where a man named John Coffey is brought into custody. Though he has been convicted of brutally murdering two girls, Paul soon enough discovers that John has a special healing power and really comes across as a kind man. Though clearly demented at some points in the plot, THE GREEN MILE was overall a great film. I plan on reading the serial novel on which it is based sometime soon, as it is sitting on my bookshelf, collecting dust and waiting patiently to be read; but as for a recommendation for anyone who hasn't seen this, see it. I can't guarantee you'll like it--there's always a movie not to like, after all--and I can't exactly guarantee you'll make it through the entire three hours and eight minutes, but it is most certainly worth a try. Rent it on Netflix, find it broken up in segments on YouTube, find it on TV, get it On Demand, buy it--whatever. Just make sure you see this film.",
+            "review_date": "2011-09-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Add something magical apparently some people will immediately hate it. Too bad for Metacritic that this landmark movie received such a meager metascore mostly due to some preposterously low ratings by some of the critics. Must see movie, oneAdd something magical apparently some people will immediately hate it. Too bad for Metacritic that this landmark movie received such a meager metascore mostly due to some preposterously low ratings by some of the critics. Must see movie, one of the very best ever made, right up there with Saving Private Ryan, The Silence of the Lambs and The Fellowship of the Ring. At least the users know a great movie when they see one.",
+            "review_date": "2019-04-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I cannot name a film that better imagines the harsh realities of life and the disturbingly twisted events that follow. 'The Green Mile' certainly makes me walk to the nearest store to pick up some more tissues, as its three-hour length isI cannot name a film that better imagines the harsh realities of life and the disturbingly twisted events that follow. 'The Green Mile' certainly makes me walk to the nearest store to pick up some more tissues, as its three-hour length is ultimately justified and proves to be very effective. You do not need to be knowledgeable on Stephen King's novel from which this film is adapted, as the journey we follow with these characters is cruelly realistic, for the most part.",
+            "review_date": "2015-01-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one of those films that everybody has got to watch at some point in their life. It really is a stunning film, there's very little else I can say about it. But beware, you will weep like a child.",
+            "review_date": "2012-09-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A emotionally powerful, miraculously acted, exceptionally written, and unique drama.  The direction is incredible.  Darabont gives the film a vivid sense of place.  You are completely absorbed when watching the Green Mile.  All the actorsA emotionally powerful, miraculously acted, exceptionally written, and unique drama.  The direction is incredible.  Darabont gives the film a vivid sense of place.  You are completely absorbed when watching the Green Mile.  All the actors rise to an incredible level of convincingness, and the prison feels like an actual place.  The supernatural scenes also pack a punch, and some other scenes could make a robot cry.  It is pretty long, and not for people with a low tolerance for graphic violence, but it's without a doubt a great movie.",
+            "review_date": "2013-09-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An amazing movie by Stephen King! I highly recommend it to almost everyone (don't watch it if you're getting bored too easy, because this movie is 3 hours long). 8.5/10 but i'll give a 9/10 because of the ending!",
+            "review_date": "2014-07-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It may not be as good as \"Shawshank Redemption\" but it's still one moving film. Michael Clarke Duncan gives a powerful performance as John Coffey. Along with a great cast and story, it's a powerfully entertaining drama. Be sure to check outIt may not be as good as \"Shawshank Redemption\" but it's still one moving film. Michael Clarke Duncan gives a powerful performance as John Coffey. Along with a great cast and story, it's a powerfully entertaining drama. Be sure to check out my YouTube channel \"TheMovieManLife\" for all things movies.",
+            "review_date": "2013-09-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Awesome!!! One of the best pictures ever made. Based on a Stephen King's unputdownable novel!!! Well-acted!!! Brilliant, brilliant and brilliant!!! Watch it!!",
+            "review_date": "2013-08-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Superb movie in all aspects. Great acting, very solid story (also considering there are not many locations), and definitely some very emotional aspects. It's one of those few movies that has really taken you somewhere when it has finished.",
+            "review_date": "2015-03-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I am starting to lose the faith in metacritic's rating... this movie was one of the best I have seen since ages, and 3 hrs isnt that long for it.",
+            "review_date": "2009-04-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's actually not as perfect as some other users say here. That John Coffey was pictured as a naive and very simple minded guy was improper to me. Also they could've cut out some scenes, 3 hours are a bit too much. Anyways, this is aIt's actually not as perfect as some other users say here. That John Coffey was pictured as a naive and very simple minded guy was improper to me. Also they could've cut out some scenes, 3 hours are a bit too much. Anyways, this is a rememberable masterpiece and a brilliant-made movie. Must-see!",
+            "review_date": "2012-09-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Green Mile is a milestone for Darabont. Of course the high-brow critics will think this an overly long snore-fest, but the real movie watchers will realize its accurate portrayal of the passage of time and what it feels like for a deathThe Green Mile is a milestone for Darabont. Of course the high-brow critics will think this an overly long snore-fest, but the real movie watchers will realize its accurate portrayal of the passage of time and what it feels like for a death row inmate. Described as his favorite movie he's made, it combines the magic of a Disney film with more adult themes and a soaring story that moves you and makes you judge your own life. Even the title is a metaphor as this film conveys complex themes about life, set in Louisiana in a death row cell block.",
+            "review_date": "2014-01-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Incredible adaptation of Stephen Kings book.\r The late Michael Clarke Duncan is perfect in the role of Coffey  a mentally challenged black man sentenced to death for the murder of two little girls. Tom Hanks gives a stellar performance asIncredible adaptation of Stephen Kings book.\r The late Michael Clarke Duncan is perfect in the role of Coffey  a mentally challenged black man sentenced to death for the murder of two little girls. Tom Hanks gives a stellar performance as mild-mannered prison guard in charge of death row.\r One of the best Stephen King adaptations yet (alongside The Shawshank Redemption).",
+            "review_date": "2013-11-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie\u2026.I can't explain it in words but, this is the best sob movie in time. I'm not going to say its \"one of the best\" or \"probably the best\" because I know. This movie is the best. Why? When I was young, about the time you can't walk, IThis movie\u2026.I can't explain it in words but, this is the best sob movie in time. I'm not going to say its \"one of the best\" or \"probably the best\" because I know. This movie is the best. Why? When I was young, about the time you can't walk, I somehow opened the tv and saw this. I only saw a scene of it but, it was so, how to say this, close? I think. Whatever, I couldn't get that movie out of my mind then a 9ish years later, I found the name. I saw the whole movie and now, I feel accomplished. A part of the scene in this movie is so moving that I searched and searched when it was possible to search. I came from a poor family once so I didn't have the internet or a phone or a computer, just a tv. So now, since I have a laptop, I want to say this to the world. This movie changed my life.",
+            "review_date": "2014-01-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Finally had a chance to see this, and as much as I enjoyed it and it deserves most of the praise it gets; I couldn't help but feel a little bit underwhelmed. Maybe the expectations were a bit high. It dragged a bit for me at the start, andFinally had a chance to see this, and as much as I enjoyed it and it deserves most of the praise it gets; I couldn't help but feel a little bit underwhelmed. Maybe the expectations were a bit high. It dragged a bit for me at the start, and going into this completely blind, the fantasy twist to this film caught me off guard a little. Make no mistake though, the acting is superb, the music choices are pretty great and overall, it is still a very, very good film.",
+            "review_date": "2014-03-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The hreen mile is cinema at its best. An exceptional production with a perfect alignment of story, cast, soundtrack, visual effects and direction. It is a classic movie.",
+            "review_date": "2022-03-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It hard to take your eyes off the screen while watching the Green Mile. Tom Hanks is at the peak of his career and its on display in this movie. The Green Mile will get you emotionally engaged like very few other movies will. Its hard not toIt hard to take your eyes off the screen while watching the Green Mile. Tom Hanks is at the peak of his career and its on display in this movie. The Green Mile will get you emotionally engaged like very few other movies will. Its hard not to cry while watching it. The late Michael Clarke Duncan is at his best in this movie. Sadly that he never got another chance to shine like he did in this film. This one is a flat out classic.",
+            "review_date": "2014-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"We think of this place like an intensive care ward of a hospital.\" So says Paul Edgecomb, who is in charge of Death Row in a Louisiana penitentiary during the Depression. Paul (Tom Hanks) is a nice man, probably nicer than your average\"We think of this place like an intensive care ward of a hospital.\" So says Paul Edgecomb, who is in charge of Death Row in a Louisiana penitentiary during the Depression. Paul (Tom Hanks) is a nice man, probably nicer than your average Louisiana Death Row guard, and his staff is competent and humane--all except for the loathsome Percy, whose aunt is married to the governor, and who could have any state job he wants, but likes it here because \"he wants to see one cook up close.\" One day a new prisoner arrives. He is a gigantic black man, framed by the low-angle camera to loom over the guards and duck under doorways. This is John Coffey (\"like the drink, only not spelled the same\"), and he has been convicted of molesting and killing two little white girls. From the start it is clear he is not what he seems. He is afraid of the dark, for one thing. He is straightforward in shaking Paul's hand--not like a man with anything to be ashamed of.\r \"The Green Mile\" (so-called because this Death Row has a green floor) is based on a novel by Stephen King, and has been written and directed by Frank Darabont. It is Darabont's first film since the great \"The Shawshank Redemption\" in 1994. That, too, was based on a King prison story, but this one is very different. It involves the supernatural, for one thing--in a spiritual, not creepy, way.\r Both movies center on relationships between a white man and a black man. In \"Shawshank\" the black man was the witness to a white man's dogged determination, and here the black man's function is to absorb the pain of whites--to redeem and forgive them. By the end, when he is asked to forgive them for sending him to the electric chair, the story has so well prepared us that the key scenes play like drama, not metaphor, and that is not an easy thing to achieve.\r I have started to suspect that when we talk about \"good acting\" in the movies, we are really discussing two other things: good casting and the creation of characters we react to strongly. Much of a performance is created in the filmmaking itself, in photography and editing and the emotional cues of music. But an actor must have the technical and emotional mastery to embody a character and evoke him persuasively, and the film must give him a character worth portraying. Tom Hanks is our movie Everyman, and his Paul is able to win our sympathy with his level eyes and calm, decent voice. We get a real sense of his efficient staff, of the vile natures of Percy and Wharton, and of the goodness of Coffey--who is embodied by Duncan in a performance that is both acting and being.\r The movie is a shade over three hours long. I appreciated the extra time, which allows us to feel the passage of prison months and years. Stephen King, sometimes dismissed as merely a best-seller, has in his best novels some of the power of Dickens, who created worlds that enveloped us and populated them with colorful, peculiar, sharply seen characters. King in his strongest work is a storyteller likely to survive as Dickens has, despite the sniffs of the litcrit establishment.\r By taking the extra time, Darabont has made King's \"The Green Mile\" into a story which develops and unfolds, which has detail and space. The movie would have been much diminished at two hours--it would have been a series of episodes without context. As Darabont directs it, it tells a story with beginning, middle, end, vivid characters, humor, outrage and emotional release. Dickensian.",
+            "review_date": "2015-04-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I am starting to like Stephen King's work more now, and I read the book. A wonderful book, that is faithfully(mostly) adapted into an equally wonderful film. My only complaint of The Green Mile is the length, I do think it is too long.I am starting to like Stephen King's work more now, and I read the book. A wonderful book, that is faithfully(mostly) adapted into an equally wonderful film. My only complaint of The Green Mile is the length, I do think it is too long. However, The Green Mile is a film that is haunting, thought-provoking, moving and engrossing.The film is beautifully directed by Frank Darabont(director of the slightly superior The Shawshank Redemption), is beautifully shot with a foreboding setting and atmospheric cinematography and lighting and has an engrossing and haunting story that is well-paced too. Thomas Newman's score is positively hypnotic and very beautiful, with some great authentic song choices, my favourite being Wrap Your Troubles in Dreams(And Dream Your Troubles Away).The script is thoughtful too, and the movie also has a big emotional impact without feeling manipulative, I honestly couldn't help crying at the end of the movie. I have to say as well, the execution scenes were really quite harrowing. The performances are strong, Tom Hanks is excellent as the warden, as is Doug Hutchison who gives a credibility and complexity to a character that could have easily been clich\u00e9d and David Morse as Brutus. But Michael Clarke Duncan is the actor I want to give the real kudos to, he has a wonderful character and he absolutely nails it.Overall, a very, very good movie. Had it been shorter, it would have been perfect. 9/10 Bethany Cox",
+            "review_date": "2022-03-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A little far from The Shawshank redemption but Darabont makes his best effort for this screenplay based upon a book of Stephen King. Sensitive drama that works in the background as a plea against the death penalty, showing it as a cruel,A little far from The Shawshank redemption but Darabont makes his best effort for this screenplay based upon a book of Stephen King. Sensitive drama that works in the background as a plea against the death penalty, showing it as a cruel, useless type of revenge. Remarks Tom Hanks and newborn Clarke Duncan.",
+            "review_date": "2019-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I absolutely love this movie! I am so disappointed in the critics for giving it a lower score. In my opinion this is one the best movies of all time. This movie is an example of how movies should be made, so emotional and touching. RIPI absolutely love this movie! I am so disappointed in the critics for giving it a lower score. In my opinion this is one the best movies of all time. This movie is an example of how movies should be made, so emotional and touching. RIP Michael Clark Duncan :(",
+            "review_date": "2018-04-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The problem that I have with every negative review of this film is that the negativity stems purely from the length of the film. This is a terrific, emotional film that you never want to stop watching. If there is a negative review out thereThe problem that I have with every negative review of this film is that the negativity stems purely from the length of the film. This is a terrific, emotional film that you never want to stop watching. If there is a negative review out there that addresses a fault present in the picture, I have not seen it.",
+            "review_date": "2018-10-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not gonna lie im a Stephen King fan and a fan of Darabont so this review is gonna be very biased... Anyways this movie is so **** great, its got its philosophy super tight, its got an amazing cast with suchn great performances. Darabont knowsNot gonna lie im a Stephen King fan and a fan of Darabont so this review is gonna be very biased... Anyways this movie is so **** great, its got its philosophy super tight, its got an amazing cast with suchn great performances. Darabont knows how to immerse his viewers just like King to his readers it has a strong view on prejudice at least in my opinion. The movie from top to bottom is such a great watch not a dull moment and moments from small to big impact the story in many ways I highly recommend this movie. Also its 3 hours long not many movies can handle such a big time frame and maintain their viewers like this one has.",
+            "review_date": "2019-03-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nIt makes me angry to see many low scores from critics, this is probably one of the best and most emotional movies I have ever watched.",
+            "review_date": "2019-04-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An other excellent adaption from Frank darabont (Shawshank redemption) a film filled with real raw human emotions just like Shawshank",
+            "review_date": "2019-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "it was one of the best movies i ever saw.especially its end sequence.the play of tom hanks was great.",
+            "review_date": "2019-09-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best movie in the world! Looked at tears more than when watching the movie Titanic! Very emotional movie. The actors played their roles perfectly.",
+            "review_date": "2019-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best moovies of all time. For me its slightly better even than shawshank redemption.",
+            "review_date": "2019-12-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I'd estimate I've seen over 5000 films in my life from multiple countries and continent's and from all era's of film-making, The Green Mile has never been surpassed by any film.It is at one some point during it's runtime touching, sad,I'd estimate I've seen over 5000 films in my life from multiple countries and continent's and from all era's of film-making, The Green Mile has never been surpassed by any film.It is at one some point during it's runtime touching, sad, horrific, funny, haunting, provocative and very emotional. A supremely satisfying experience that surpasses The Shawshank Redemption in every way most notably with it's characters who are more colourful and memorable. The acting from everybody is incredible, the score is fantastic and the directing flawless.It's what cinema is at it's best a great story just like a novel. Totally engrossing for it's entire runtime, if it was a single minute shorter it wouldn't be as good a film, the runtime is a strength not a weakness.",
+            "review_date": "2020-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's longer and it's better, Frank Darabont and Stephen King reunited after a previous Masterpiece, The Shawshank Redemption, the two have some similarity and the one that we can easily see is the prison, both of the movie is a prison story,It's longer and it's better, Frank Darabont and Stephen King reunited after a previous Masterpiece, The Shawshank Redemption, the two have some similarity and the one that we can easily see is the prison, both of the movie is a prison story, The Shawshank Redemption is sad and depressing, same like The Green Mile, but how unfair the thing is, that make The Green Mile more sad and more depressing, with Tom Hanks and Michael Clarke Duncan amazing and incredible perfomance, so do the other, not only make The Green Mile have one of the most powerful perfomance i've ever watch but one of the most powerful movie i've ever watch, i highly recommended.",
+            "review_date": "2021-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I have a very critical point here that I havent seen anyone ask or havent ever seen anything online about it...but maybe just maybe someone on here has thought the same thing thats on my mind. What made me even question this is I am watchingI have a very critical point here that I havent seen anyone ask or havent ever seen anything online about it...but maybe just maybe someone on here has thought the same thing thats on my mind. What made me even question this is I am watching the series in John Wayne Gacy the Killer Clown. And one of the victims child asked why did it take so long and there was supposedly some cops involved in the 33 crimes. So I started to think about The Green Mile and wondered...was this movie showing us that they did fake executions? You know movies reveal alot of things. Well you all ask what do I mean. Well the part when they were practicing the execution and they had the inmate acting like he was getting electrocuted. Well for one why wpuld they do that? With a inmate anyways. Why didnt they just do it with another officer? I believe they actually did stuff like that to fake executions on sime people. Because you know they put people out there to do things like this. I mean murder people and stuff. This is an evil world. How hard wpuld it be to fake an execution really? And they never let the public see it...why? Someone with a depth of intellect please dialogue with me on this. Thanks.",
+            "review_date": "2021-08-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nso sad :( the ending could have been a little better but it's one of the best movies I've ever seen.",
+            "review_date": "2021-09-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nJust a masterpiece.A wonderful story about the wrong person who got into the wrong time, the wrong time. There are excellent actors in the film, you empathize with the main character and the mouse or hate it.The best film adaptation of Stephen King, in my opinion.",
+            "review_date": "2022-01-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What's with the low scores? This is the second best, and second saddest, movie I have ever seen. Then again, I haven't seen many sad movies If you haven't noticed already, I love this movie. Nobody beats Tom Hanks when it comes to acting, andWhat's with the low scores? This is the second best, and second saddest, movie I have ever seen. Then again, I haven't seen many sad movies If you haven't noticed already, I love this movie. Nobody beats Tom Hanks when it comes to acting, and Michael Clarke Duncan is brilliant too.",
+            "review_date": "2015-08-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best movies I ever saw!! If you don't cry I don't trust you.The story is so moving and the casting is also really good.RIP Michael Clarke Duncan",
+            "review_date": "2017-09-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Thought-provoking and emotional dynamite!",
+            "review_date": "2009-05-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A short story by Stephen King, as I recall.  We see a huge black man brought to Death Row for execution.  The guards (including Tom Hanks) are very wary of him at first, but find him a kind, loving man.  How could he have committed murder?A short story by Stephen King, as I recall.  We see a huge black man brought to Death Row for execution.  The guards (including Tom Hanks) are very wary of him at first, but find him a kind, loving man.  How could he have committed murder?  And he seems to be able to cure illness and bring a dead mouse back to life.  How can this be?  He introduces himself as James Coffee, J.C., Jesus Christ?  So, do we crucify him again?  Would we recognize the second coming of Christ if he was a huge black man?  What if he was a woman?  I don't have a lot of DVDs but this one is in my collection.",
+            "review_date": "2015-11-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Contrary to popular belief I do not think this is the best movie ever made, but still a damn good one.Writing my whole thoughts on this movie down would be an astonishing feat, because everything is beautifully intertwined and the ending isContrary to popular belief I do not think this is the best movie ever made, but still a damn good one.Writing my whole thoughts on this movie down would be an astonishing feat, because everything is beautifully intertwined and the ending is very much open for interpretation - albeit a little bit ludicrous. I very much recommend this movie to everyone, it's emotional, heartwarming, and the Chair is just as horrifying as everyone made it out to be.",
+            "review_date": "2020-12-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I expected this movie to be a normal horror movie just like other Stephen King's adaptation but it was totally different from what I thought. This movie plays with your emotions. You laugh, cry and there comes a feeling which can't beI expected this movie to be a normal horror movie just like other Stephen King's adaptation but it was totally different from what I thought. This movie plays with your emotions. You laugh, cry and there comes a feeling which can't be described in words. This was one of the best movie I have ever seen. This movie had everything; fantastic story, brilliant acting, mind boggling feelings and overall an unforgettable drama. Movie is of 3 hours but you don't even feel it.  I can guarantee that this movie will leave an impression in your mind for a long time.",
+            "review_date": "2020-11-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "this movie makes me cry every **** time. MR. (J)ohn (C)offey \"JC\" is wrongfully in-prisoned in this amazing drama. the 30s were a tough time to be colored. John in death row awaiting the electric chair but thats after him saving the elderthis movie makes me cry every **** time. MR. (J)ohn (C)offey \"JC\" is wrongfully in-prisoned in this amazing drama. the 30s were a tough time to be colored. John in death row awaiting the electric chair but thats after him saving the elder from all her pain, resurrecting a rat back to life on the spot and being innocent himself, a gentle giant as you may call it. this is another \"Watch before you die\" movie.",
+            "review_date": "2020-12-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is one of the best films on history.It never does not duplicate.To my surprise, the overall score of this masterpiece of a total of 61.I'm really sorry for the the critics of these sites",
+            "review_date": "2013-10-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Despite the film being well over 3 hours, you wouldn't be able to tell with the screenplay and the excellence of this movie. While it certainly has its haunting, mystical and emotional aspects, the Green Mile is a fantastic film.",
+            "review_date": "2020-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Despite the film being 3 hours long, it's definitely worth watching. It's really interesting, and I recommend not looking into this film at all as its better that way. The soundtrack for this is brilliant as it's by Thomas Newman which got meDespite the film being 3 hours long, it's definitely worth watching. It's really interesting, and I recommend not looking into this film at all as its better that way. The soundtrack for this is brilliant as it's by Thomas Newman which got me to watch this film in the first place. The film is like an adventure, its sad, it's very dark, its a mix of a bunch of things which is what makes it great as well. Not to mention that all of the actors for this film were perfect for their roles as well.",
+            "review_date": "2014-05-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't believe in much, but I do believe that miracles exist. Weather it's all part of the grand design or just abnormalities of nature, I'll never know, none of us will. This theme is explored in the novel and film, The Green Mile. HowI don't believe in much, but I do believe that miracles exist. Weather it's all part of the grand design or just abnormalities of nature, I'll never know, none of us will. This theme is explored in the novel and film, The Green Mile. How Stephen King came up with such a poignant and heartfelt tale is beyond me, maybe it was divine intervention, but the story of the Green Mile is a unique and moving film, the likes of which I've never seen before. The story centers around a man who is sent to death row, and once there he is able to doing seemingly impossible things. The performances in this film were Oscar worthy, building on the success of their last collaboration, The Shawshank Redemption, King and Durabont, got the biggest star in Hollywood to star in this film. The combination of a strong sentimental story along with the acting power of Tom Hanks made this film one for the ages. The supporting cast, in particular Michael Clarke Duncan and Sam Rockwell, were tremendous assets to the film and their careers were launched with the help of Hanks's experience and King's amazing words, but this film is far from perfect. As an avid Stephen King fan, I know his attention to detail has often times been his downfall and to be honest, this film is about an hour longer than it needed to be. The story, in particular the ending were so powerful, that a lot of the in between could have been left on the cutting room floor. That aside, this is a long, but fantastic film with some of the best writing and performances you could find. Like many classic films the critics love, it's a bit long, parts of it are somewhat boring, and the storyline isn't for everybody, there are plenty of people who just won't get it. I did get it and I feel the better for it. This is one of those films, love it or hate it, that everyone should see at least once.",
+            "review_date": "2013-03-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "this movie is a masterpiece from the start to finish.\rwatching this movie nowadays makes you reminisce to the old movie style.\rthe good story  the fantastic performances  the over top characters  the fact that every scene of the movie isthis movie is a masterpiece from the start to finish.\rwatching this movie nowadays makes you reminisce to the old movie style.\rthe good story  the fantastic performances  the over top characters  the fact that every scene of the movie is valuable in the overall story.\ri miss how movies used to be  with Tom Hanks awesome performance and the fact that the movie is solid yet simple and joyful  it's basically a 3 hours that send you away to what movies actually should be.",
+            "review_date": "2013-06-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "not as good as i first watching it.. but still its kicking my hearth.. Michael Duncan did great! he's the real Gentle Giant, his acting are very convincing.. RIP Michael.D may God have mercy on your soul..",
+            "review_date": "2013-06-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Frank Darabont emerges from his five-year hiatus after \"The Shawshank Redemption\" with \"The Green Mile,\" an intermittently powerful and meticulously crafted drama that falls short of its full potential due to considerable over-length and someFrank Darabont emerges from his five-year hiatus after \"The Shawshank Redemption\" with \"The Green Mile,\" an intermittently powerful and meticulously crafted drama that falls short of its full potential due to considerable over-length and some shopworn, simplistic notions at its center. Quite involving at its best and needlessly attenuated and self-consciously \"inspiring\" at its worst, pic has all the earmarks of a year-end prestige release, beginning with Tom Hanks at the top of a fine cast.\r Working from King\u2019s 1996 bestseller that was published in six serialized paperback installments, Darabont is nothing if not a fastidious storyteller dedicated to fulsome character detailing and sturdy structural carpentry.\r In this new film, as in \u201cShawshank,\u201d the writer-director proves very adept at lighting numerous long fuses that burn slowly through the yarn\u2019s lengthy telling and finally pay off in some big moments, some more satisfying than others.\r It\u2019s a tribute to Darabont\u2019s skill that he is able to sustain interest in these strands over such a long haul; it\u2019s a reflection of his self-indulgence that he should think that this material warrants such doting elaboration.\r Told as an epic flashback by a very elderly man who relates his long-secret story to a lady friend at a nursing home, tale is largely set within the modest confines of E block, or death row, at Cold Mountain Penitentiary in Louisiana in 1935.\r Title refers to the shade of the faded linoleum on the floor of the facility, a well-kept bright brick building that resembles a small warehouse.\r Presiding over the handful of inmates is head guard Paul Edgecomb (Hanks), a decent middle-aged man dedicated to maintaining as much calm and dignity as possible, given the dire circumstances of his prisoners.\r On his staff are his loyal second-in-command, Brutus \u201cBrutal\u201d Howell (David Morse); sensitive greenhorn Dean Stanton (Barry Pepper); old pro Harry Terwilliger (Jeffrey DeMunn); and the group\u2019s wild card, Percy Wetmore (Doug Hutchison), a shrimpy sadist who can get away with all manner of horrible behavior since he\u2019s the son of the governor\u2019s wife.\r Behind bars at the outset are good-hearted Creole Eduard Delacroix (Michael Jeter) and repentant Native American murderer Arlen Bitterbuck (Graham Greene), who\u2019s about to walk the mile to the electric chair.\r Shortly joining them, and barely able to fit into his cell, is John Coffey (Michael Clarke Duncan), a towering, heavily muscled black man who\u2019s been convicted of killing two little girls. Belying Coffey\u2019s menacing look, however, is his demeanor, which is unvaryingly sweet-natured, polite and openly vulnerable; the greatest concern of this illiterate, childlike giant is that some lights be left on at night since he\u2019s afraid of the dark.\r Typical of Darabont\u2019s deliberate approach is the detail with which he presents the rehearsal for the Indian\u2019s execution. A morbidly tense and riveting sequence reveals a startlingly makeshift-looking electric chair and what it takes to successfully put a prisoner to death.\r So, between the opposite poles of good and evil repped by the saintly simpleton Coffey on the one hand and the maniacal Wharton and Percy on the other, Darabont begins heavily developing thoughts about the extremes of which human beings are capable, as represented by their ability to give life and take it away.\r While \u201cThe Green Mile\u201d often grabs, and generally holds, one\u2019s attention through the long journey, there are any number of sequences that could have been tightened or eliminated in the interests of storytelling dispatch. Darabont\u2019s technique readily sustains the thoroughness with which he develops scenes, but his points would still be clear enough without the epic treatment.\r And while Hutchison and Rockwell create deliciously hateable figures of pure evil, and Duncan elicits appropriately massive sympathy with his pivotal performance as the agent of goodness, these characters never grow multi-dimensionally and are ultimately more symbolic than credibly real.\r All the same, the ensemble acting is of a high order. Hanks excels as the prison guard who is well balanced enough to nearly always handle his many troubles in proper, imaginative fashion.\r Along with Duncan, all the other actors playing doomed inmates get their big moments to shine, with Jeter blending courage with emotional fragility as Delacroix.\r Percy aside, the prison officials are all portrayed as fundamentally upstanding. Gary Sinise is commanding in his one scene as an attorney who gives his views on Coffey to Edgecomb.\r Within individual scenes, Richard Francis-Bruce\u2019s editing is impeccably precise in obtaining maximum values, while Thomas Newman\u2019s generally strong score occasionally slips over-stressed grandeur.",
+            "review_date": "2016-03-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Green mile is unfused with sentiment, maybe too much. It's well made, well acted, well conveyed. But much of it drags and becomes too revelatory to appease greatness in the likes of Shawshank in Darabont's unique filmography. BUt it surelyGreen mile is unfused with sentiment, maybe too much. It's well made, well acted, well conveyed. But much of it drags and becomes too revelatory to appease greatness in the likes of Shawshank in Darabont's unique filmography. BUt it surely offers substance.",
+            "review_date": "2019-12-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Paul Edgecomb is a prison guard working on death row in a Southern prison during the thirties. It was in prison that he met John Coffey, a black giant accused of murder, but that seems able to do incredible things and have a kindness beyondPaul Edgecomb is a prison guard working on death row in a Southern prison during the thirties. It was in prison that he met John Coffey, a black giant accused of murder, but that seems able to do incredible things and have a kindness beyond doubt. Directed and written by Frank Darabont, based on a Stephen King novel, it features Tom Hanks and Michael Clarke Duncan in the lead roles.This film is proof that, even in Hollywood, film art still finds a room. In fact, it's one of the most beautiful and human films made by the industry in recent decades and deals with controversial issues such as the impartiality of the justice and prison system, questionableness of capital punishment and the human right to a truly fair trial. The script is above reproach and it truly lives up to King's book. The cast surpassed in quality, particularly Michael Clarke Duncan, an actor who still isn't very famous outside the U.S. but that made a deep and moving role. Tom Hanks was also good but it wasn't unexpected because he had shone in recent films like \"Philadelphia\" or \"Saving Private Ryan\", launched one or two years before this.Address controversial issues in an original and impactive way is often synonymous with success in cinema. Personally, I consider this film as one of the finest ever made in U.S. over the past decades. The film speaks for itself and that's enough to understand why I think so.",
+            "review_date": "2018-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Despite its 3-hour length, the film proves other critics wrongs about its achievement in making itself a wonderful story filled with great acting.",
+            "review_date": "2020-06-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThe Green Mile us a great movie set in 1935 where a man with the ability to heal people is put on Death row. Inside the penitentiary we get to see how this scenario could play out all the way until a heartbreaking conclusion",
+            "review_date": "2020-12-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Man in retirement home sees Fred Astaire in a film, has flashbacks back to 1935 when he was a prison warden.Fantastic film with great acting & a good adaptation of the Stephen King novel.Sam Rockwell is amazing as the very unhinged BillyMan in retirement home sees Fred Astaire in a film, has flashbacks back to 1935 when he was a prison warden.Fantastic film with great acting & a good adaptation of the Stephen King novel.Sam Rockwell is amazing as the very unhinged Billy the Kid & despite it's three hour length doesn't seem as long.Tom Hanks does tend to play himself & I still think Bachelor Party is his best film but with this & Catch Me If You Can being not far behind.",
+            "review_date": "2010-08-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very well made with a beautifully understated musical score by Thomas Newman, it underpins the action perfectly and works very well. All the performances were great; particularly Michael Clarke Duncan who fully deserved his 2000 OscarVery well made with a beautifully understated musical score by Thomas Newman, it underpins the action perfectly and works very well. All the performances were great; particularly Michael Clarke Duncan who fully deserved his 2000 Oscar nomination for his portrayal of John Coffey. As usual, Tom Hanks puts in a flawless performance as Paul Edgecomb (the younger version of course). The film has quite a slow pace that allows the audience to become familiar with the characters and the comings and goings on ",
+            "review_date": "2012-10-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This one is truly great. It may be a tad over three hours, but it feels significantly shorter. Plus, the added time allows us to spend more time with the characters, which is something I will never argue as a negative for this one. Tom Hanks,This one is truly great. It may be a tad over three hours, but it feels significantly shorter. Plus, the added time allows us to spend more time with the characters, which is something I will never argue as a negative for this one. Tom Hanks, David Morse, Michael Clarke Duncan, Doug Hutchison, Barry Pepper, Sam Rockwell, Michael Jeter, and James Cromwell, make up one hell of an ensemble cast for this one and all truly knock their roles out of the park. I am typically not a huge fan of prison dramas, but the heart and compassion you feel for everyone involved in amazing and truly draws you in. The more fantastical elements are also very interesting and set against the backdrop of a very realistic situation are all the more odd, but I think they are handled very well. As a whole, this one is very intriguing, touching, and unique, which elevate it above many prison dramas. Add in the great acting and you truly have something special with The Green Mile.",
+            "review_date": "2014-08-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is seriously underrated! It is easily my all time favorite and most emotional movie. I highly recommend. The acting, writing, cinematography and score worked together so well that this film will be very memorable to all types of audiences.",
+            "review_date": "2020-06-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nAbsolutely Incredible movie. Tears at the strongest of heart strings. Tom Hanks performance is absolutely phenomenal mixed with the emotional complexity of his relationship with John Coffey played by Michael Clarke Duncan, mixed with a perfect yet hollow ending that leaves you with tears strolling down your face after every watch. 10/10 Classic Movie in my all time top 10 for sure.",
+            "review_date": "2020-08-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is Pander. Period.\rBasically, it starts and ends without questioning death penalty. Death penalty is barbaric for MY culture, and the behavior of the characters never seems realistic to me. The horrible system behind death row isThis film is Pander. Period.\rBasically, it starts and ends without questioning death penalty. Death penalty is barbaric for MY culture, and the behavior of the characters never seems realistic to me. The horrible system behind death row is depicted in a mitigate, sweetened way. There's no room for compassion in death penalty as shown in the film, and this film is basically offensive solely for the way the characters are behaving.\rSecond: nothing is believable. Clearly is a fantasy drama, but still as the stereotyped characters (bad people are bad without a reason, they are simply mad. Good people are in fact not really good, but seam dumb and ataraxic, resulting in unlovable characters). The main character is basically a scary black giant who cries all the time. Very easy way to provoke reactions in the viewer is to show him something which he's unconsciously scared off while enforcing this unconscious fear with clever direction. Incidentally this unconscious fear is based on a black stupid strong man stereotype overlapped by the boogeyman figure. I'm a caucasian european man and i find this VERY offensive.\rThe whole story, in the end, is based on emotional tricks. (the *spoiler* bad death scene is traumatic and unnecessary, at least as it is shown). Giving strong emotions to people based on meaningless story or characters is a cheat.\rThis film is bad. I couldn't expect this since the reviews are so high. But i found this film ruffian, manipulative and ultimately ugly.",
+            "review_date": "2013-12-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Best adaptation of a Stephen King novel.",
+            "review_date": "2007-08-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Tom Hanks and Michael Clark Duncan are amazing. The script is creative and often powerful. Running at just over 3 hours long I felt there were a few scenes that could have easily been cut to aid in pacing. Overall a very good movie",
+            "review_date": "2011-01-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Its a great movie with great acting but the flaw of the movie is that its far too long and it does make you lose interest a few times during the movie but its still well worth the watch.",
+            "review_date": "2011-12-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Green Mile is a great movie with great acting but the flaw of the movie is that its far too long and it does make you lose interest a few times during the movie but its still well worth the watch.",
+            "review_date": "2013-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie will probably give you some emotional touches, although not enough for three hours. In order for it to really make an emotional impact, it should be short and swift.",
+            "review_date": "2014-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Even while The Green Mile has an undeniably talented cast and a nice script that doesn't lack Stephen King's thrilling style, it has too much duration and too less credibility to be totally unforgettable or enjoyable.",
+            "review_date": "2017-08-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Green Mile is a film directed by Frank Darabont and was made in 1999. Honestly I don't know what genre to categorise it as because it looks like a prison drama but crime, fantasy, drama could be possiblities... We know the black dudeThe Green Mile is a film directed by Frank Darabont and was made in 1999. Honestly I don't know what genre to categorise it as because it looks like a prison drama but crime, fantasy, drama could be possiblities... We know the black dude behind bars supposedly accused of murder holds some supernatural healing powers or some rubbish and has flies or something coming from his mouth which is bizarre but the healing process you could class as supernatural... The Green Mile stars Tom Hanks, David Morse, Michael Clarke Duncan and Sam Rockwell who I must admit is annoying in this film and so is Doug Hutchison or whatever his name is from The X Files.. This film is about 3 hours long or more and it's totally unnecessary especially since not much happens because all we see is a prisoner being annoying and being put in a padded room and some mouse being clever performing tricks and some big black guy with flies oozing from his mouth and healing the odd person plus one of the prison workers ending up in a mental hospital and one of the prisoners getting shot and a few executions.. To be honest it gets rather boring and the only character I really liked was Tom Hanks's character and Michael Clarke Duncan's character kept crying all the time which was laughably pathetic but I liked Tom Hanks. Besides that The Green Mile delivered nothing and the entertainment value was little and some of the characters were crap and annoying plus alot of the locations looked tacky and you only ever see one part of the prison all through the film which is laughable and dull and why so many rate this garbage as a classic is beyond me. Quite possibly one of the worst films I've seen in a while so if you want a decent prison film or a decent film full stop avoid this turd and watch something else.",
+            "review_date": "2021-04-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It takes something exceptional to come close to Frank Darabonts Shawshank Redemption but the director manages to bring another multilayered tale to life. We cross themes of spirituality, humanity, good versus evil and also some fantasy which It takes something exceptional to come close to Frank Darabonts Shawshank Redemption but the director manages to bring another multilayered tale to life. We cross themes of spirituality, humanity, good versus evil and also some fantasy which all work brilliantly together to bring a deeply moving film with excellent performances from the entire cast. Some have complained that the movie is far too long but for me the time flew because every scene is worthwhile, the film draws you in from the outset and doesn't let go with little sub themes and a rich multi-layered story that is rich and beautiful but also terribly sad at times. If you don't like this film then in my view you don't know what being human is all about. An astonishing beautiful film that will stay with you for a long time.",
+            "review_date": "2006-09-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Succeeds on all levels...give in to it.",
+            "review_date": "2008-04-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Once again the users got it right.",
+            "review_date": "2007-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Sweet moving video. Ban execution!!!!",
+            "review_date": "2007-01-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really think this movie deserves a perfect score. The first time i saw it i was forced to lock myself in the bathroom to cry like i baby. It's very touching indeed, and the acting of John it's wonderful.",
+            "review_date": "2008-10-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The reviews for this remind me once again that most film critics are overpaid, self important idiots. This was one of the best films ive ever seen.",
+            "review_date": "2008-10-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Touching film. This has got to be the film that had the biggest emotional impact on me out of them all. It's sad, witty and the acting is fantastic. It deserves more than the average it has here. I adore it!",
+            "review_date": "2008-02-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Those so called movie reviewers who slated this movie are not representative of the ordinary guy on the street who enjoyed the film. As shown by the average score of 9.",
+            "review_date": "2008-03-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Okay, I do not have any interest in Stephen King. I think most of his stuff because they're so stupid. All they are filled with are stuff like killer clowns and mist that make people go ape-sh*t on each other. But I made an exception Okay, I do not have any interest in Stephen King. I think most of his stuff because they're so stupid. All they are filled with are stuff like killer clowns and mist that make people go ape-sh*t on each other. But I made an exception for this movie. It didn't seem like it would be scary. It's just a prison story. And fortunately, this is exactly what I wanted. It was everything you want a great movie to be. Great cast and acting, powerful scenes, emotion, and Tom Hanks. This is #8 on my top ten list, under The Last Samurai and Star Wars. I give it 10/10",
+            "review_date": "2008-03-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Anyone who says this movie is slow needs to go back to their Arnold Schwarzeneggar and Jerry Bruckheimer moves. This is an engrossing and beautifully told masterpiece, if somewhat disturbing at times.",
+            "review_date": "2005-12-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's a rather good movie. Tom Hanks is good but it's Michael Clarke Duncan's powerful performance that not only steals the show but also makes the movie.",
+            "review_date": "2013-02-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's a long movie (3 hours) but it's full of emotion and the mysterious plot was engaging enough that it was worth seeing to the end. The acting is fantastic and the soundtrack added to the experience positively. This is one of the few filmsIt's a long movie (3 hours) but it's full of emotion and the mysterious plot was engaging enough that it was worth seeing to the end. The acting is fantastic and the soundtrack added to the experience positively. This is one of the few films that truly made me care about the characters.",
+            "review_date": "2022-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "John Coffey may be one of the most lovable characters in the movie industry. He's a tall, built, formidable looking man who is actually a teddy bear on the inside. His innocence throughout the film creates more dread for the viewers as theyJohn Coffey may be one of the most lovable characters in the movie industry. He's a tall, built, formidable looking man who is actually a teddy bear on the inside. His innocence throughout the film creates more dread for the viewers as they await his execution, hoping their will be a narrow escape from it. I find it obscure that Coffey might possess the power of God with his mysterious healing powers, nonetheless, it furthers the kindness and love of this friendly giant. Fabulous acting, as I always long to see. It is an emotional roller coaster for both the audience and characters. This is three straight hours of masterful filmmaking at its best.",
+            "review_date": "2022-04-27",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 125
 }

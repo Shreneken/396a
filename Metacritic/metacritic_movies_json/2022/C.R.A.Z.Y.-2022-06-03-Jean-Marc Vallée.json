@@ -1,60 +1,67 @@
 {
-  "title": "C.R.A.Z.Y.",
-  "rating": 8.0,
-  "release_date": "2022-06-03",
-  "genre": [
-    "Drama",
-    "Comedy"
-  ],
-  "summary": "The story of a special little boy who grows into young manhood and ends up even denying his inner self to attract his father's attention. A portrait of a family that depicts the often-extraordinary lives of ordinary people in search of happiness.  (TVA Films)",
-  "critic_reviews": [
-    "Fantastic performances, sharp wit and a raw honesty breathe new life into the rites-of-passage drama.",
-    "Although Vallee's remarkably assured film, which clocks in at more than two hours, proves that it's possible to have too much of a good thing, Canada's official Oscar submission for best foreign-language feature still manages keep up the entertaining yet emotionally satisfying pace sufficiently to earn audience accolades.",
-    "The whole family can feel comfortable watching C.R.A.Z.Y., Jean-Marc Vallee's bouncy coming-of-age tale that coasts along on a terrific soundtrack and a spot-on feel for period detail. Story of a tight-knit Catholic family and their sexually confused son never goes near anything that might make mainstream auds uncomfortable, sticking with an old-fashioned tone balanced by inventive lensing that gives only the illusion of dipping its toe in risky waters."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "C.R.A.Z.Y. is a gorgeous, heartfelt, yet utterly unsetimental gem of a film. An uplifting, coming of age story that will completely enrapture even those who hate uplifting coming of age stories (me included), C.R.A.Z.Y. is brilliantly acted, C.R.A.Z.Y. is a gorgeous, heartfelt, yet utterly unsetimental gem of a film. An uplifting, coming of age story that will completely enrapture even those who hate uplifting coming of age stories (me included), C.R.A.Z.Y. is brilliantly acted, taughtly written and unexpectedly epic. A wonderful movie experience that can be forgiven for being a little bit safe.",
-      "review_date": "2007-03-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An interesting movie. Never dull, never stupid, always entertaining. Always wonderful. I really liked this film.",
-      "review_date": "2007-03-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "All round excellent movie! Great storytelling which lacks in so many films...Highly entertaining",
-      "review_date": "2007-03-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Living in Quebec I , of course, recognize much in this film. But it is not a Quebec story; it is universal. This is about as warm and honest as a film can get. You sense the love that this project sprang from and is full of. This is a film Living in Quebec I , of course, recognize much in this film. But it is not a Quebec story; it is universal. This is about as warm and honest as a film can get. You sense the love that this project sprang from and is full of. This is a film truly for all. Cathartic.",
-      "review_date": "2007-02-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A very powerful film, it gives a human being such a great message. wonderful performances from Michel Cote and Marc Andre Grodin, the vibe of this film reminds me of Boogie Nights.",
-      "review_date": "2014-12-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "With a heartfelt story, powerful acting performances, a great soundtrack and beautiful cinematography, C.R.A.Z.Y is a very emotional and entertaining movie. Highly recommended if you like well made, emotional dramas.",
-      "review_date": "2017-12-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is an unforgettable coming ane movie. The story is about the struggles between a Christian father and sons. Teens have a lot of problems. They need to learn and grow, It also depicts LGBTQ love. This movie is over 2 hours. It is long.This is an unforgettable coming ane movie. The story is about the struggles between a Christian father and sons. Teens have a lot of problems. They need to learn and grow, It also depicts LGBTQ love. This movie is over 2 hours. It is long. The language is French which I don't understand. Nonetheless, I would like to recommend everyone to watch this film. ",
-      "review_date": "2022-08-09",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 10
+    "title": "C.R.A.Z.Y.",
+    "rating": 8.0,
+    "release_date": "2022-06-03",
+    "genre": [
+        "Drama",
+        "Comedy"
+    ],
+    "summary": "The story of a special little boy who grows into young manhood and ends up even denying his inner self to attract his father's attention. A portrait of a family that depicts the often-extraordinary lives of ordinary people in search of happiness.  (TVA Films)",
+    "critic_reviews": [
+        "Fantastic performances, sharp wit and a raw honesty breathe new life into the rites-of-passage drama.",
+        "Although Vallee's remarkably assured film, which clocks in at more than two hours, proves that it's possible to have too much of a good thing, Canada's official Oscar submission for best foreign-language feature still manages keep up the entertaining yet emotionally satisfying pace sufficiently to earn audience accolades.",
+        "The whole family can feel comfortable watching C.R.A.Z.Y., Jean-Marc Vallee's bouncy coming-of-age tale that coasts along on a terrific soundtrack and a spot-on feel for period detail. Story of a tight-knit Catholic family and their sexually confused son never goes near anything that might make mainstream auds uncomfortable, sticking with an old-fashioned tone balanced by inventive lensing that gives only the illusion of dipping its toe in risky waters."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "C.R.A.Z.Y. is a gorgeous, heartfelt, yet utterly unsetimental gem of a film. An uplifting, coming of age story that will completely enrapture even those who hate uplifting coming of age stories (me included), C.R.A.Z.Y. is brilliantly acted, C.R.A.Z.Y. is a gorgeous, heartfelt, yet utterly unsetimental gem of a film. An uplifting, coming of age story that will completely enrapture even those who hate uplifting coming of age stories (me included), C.R.A.Z.Y. is brilliantly acted, taughtly written and unexpectedly epic. A wonderful movie experience that can be forgiven for being a little bit safe.",
+            "review_date": "2007-03-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An interesting movie. Never dull, never stupid, always entertaining. Always wonderful. I really liked this film.",
+            "review_date": "2007-03-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "All round excellent movie! Great storytelling which lacks in so many films...Highly entertaining",
+            "review_date": "2007-03-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Living in Quebec I , of course, recognize much in this film. But it is not a Quebec story; it is universal. This is about as warm and honest as a film can get. You sense the love that this project sprang from and is full of. This is a film Living in Quebec I , of course, recognize much in this film. But it is not a Quebec story; it is universal. This is about as warm and honest as a film can get. You sense the love that this project sprang from and is full of. This is a film truly for all. Cathartic.",
+            "review_date": "2007-02-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A very powerful film, it gives a human being such a great message. wonderful performances from Michel Cote and Marc Andre Grodin, the vibe of this film reminds me of Boogie Nights.",
+            "review_date": "2014-12-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With a heartfelt story, powerful acting performances, a great soundtrack and beautiful cinematography, C.R.A.Z.Y is a very emotional and entertaining movie. Highly recommended if you like well made, emotional dramas.",
+            "review_date": "2017-12-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is an unforgettable coming\u00a0ane movie. The story is about the struggles between a Christian father and sons. Teens have a lot of problems. They need to learn and grow, It also depicts LGBTQ love.\u00a0This movie is over 2 hours. It is long.This is an unforgettable coming\u00a0ane movie. The story is about the struggles between a Christian father and sons. Teens have a lot of problems. They need to learn and grow, It also depicts LGBTQ love.\u00a0This movie is over 2 hours. It is long. The language is French which I don't understand. Nonetheless, I would like to recommend\u00a0everyone to watch this film.\u00a0",
+            "review_date": "2022-08-09",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 10
 }

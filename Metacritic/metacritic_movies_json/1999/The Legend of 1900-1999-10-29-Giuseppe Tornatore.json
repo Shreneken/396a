@@ -1,117 +1,110 @@
 {
-  "title": "The Legend of 1900",
-  "rating": 8.4,
-  "release_date": "1999-10-29",
-  "genre": [
-    "Drama",
-    "Fantasy",
-    "Romance",
-    "Music"
-  ],
-  "summary": "An epic story of a young man (Roth) who is born on January 1, 1900, and thus his name Nineteen Hundred.  He grows up always having lived on an ocean liner, becoming a talented pianist.",
-  "critic_reviews": [
-    "An enchanting, staggeringly beautiful epic at sea, is poetry in motion.",
-    "Tantalizingly structured to intrigue us right from the start.",
-    "On one level it is highly intimate, yet it is also universal, a modern metaphor for the human condition and the precariousness of life itself.",
-    "Visually dazzling, touching and funny.",
-    "A painstakingly crafted nonrealist story, which doesn't seem to imply anything beyond what it depicts.",
-    "The sense of loss aroused by the film is oceanic.",
-    "It's usually a good idea to avoid anything billed as ''a fable,'' but The Legend of 1900 offers almost enough merits to warrant an exception",
-    "Has moments of great imagination.",
-    "The material is at heart an intimate allegorical fairy tale about rarefied philosophical concerns.",
-    "Good-natured but labored, the film clings to its lone gimmick with increasing desperation.",
-    "Overacted, overdirected, and overcooked in the usual Tornatore manner, but sheer energy and enthusiasm keep it watchable and listenable most of the way through.",
-    "An intriguing concept, a storybook vision life in the great age of trans-Atlantic travel, a fine Ennio Morricone score and a credible performance by Roth.",
-    "A sumptuous ride with breathtaking scenes and a soaring musical score.",
-    "But it tries to be (many) things -- and fails at them all.",
-    "It doesn't strike a single note of authentic emotion.",
-    "The schmaltz is relentless in The Legend of 1900, the newest film from \"Cinema Paradiso'' director Giuseppe Tornatore. It comes in waves, it leeches onto every surface and it turns decent actors into sticky-sweet fuzzballs."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Masterpiece    .",
-      "review_date": "2014-12-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Superb original soundtrack,amazing story and beautiful atmosphere! This movie is really one of the few movies that my friends recommended to me and i liked it a lot! I would recommend it to everyone...but if you're a musician or you're aSuperb original soundtrack,amazing story and beautiful atmosphere! This movie is really one of the few movies that my friends recommended to me and i liked it a lot! I would recommend it to everyone...but if you're a musician or you're a music lover you should watch this masterpiece without no doubt! My final score for \"The Legend of 1900\" is 8/10",
-      "review_date": "2013-05-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A unique, strange, and beautiful film that feels more like a Tall Tale than anything else I have seen on the big screen in a long time. This is an immaculately shot and directed movie, and every piece of the ship is beautiful. The way theA unique, strange, and beautiful film that feels more like a Tall Tale than anything else I have seen on the big screen in a long time. This is an immaculately shot and directed movie, and every piece of the ship is beautiful. The way the music is portrayed is stunning. The acting is incredible, and is really an ensemble cast at their finest rather than Tim Roth shouldering the weight for everyone, even though he does do a fantastic job. This is one of the most underrated films from the 1990s, and I really think that this will be regarded as a classic one day.",
-      "review_date": "2019-02-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Legend of 1900 is a beautiful film, from the acting to the soundtrack to how the film is shot... you shouldn't miss this if you haven't seen it already. Roth gives yet another great performance that is not only chilling but effective noLegend of 1900 is a beautiful film, from the acting to the soundtrack to how the film is shot... you shouldn't miss this if you haven't seen it already. Roth gives yet another great performance that is not only chilling but effective no matter how distant from him you may feel.",
-      "review_date": "2016-02-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Legend of 1900 is one of the cleverest comedies ever filmed. Director Giuseppe Tornatore manages to get the viewer to believe they are watching a serious movie about a boy who grows up (secretly) on an ocean liner. The boy becomes a manThe Legend of 1900 is one of the cleverest comedies ever filmed. Director Giuseppe Tornatore manages to get the viewer to believe they are watching a serious movie about a boy who grows up (secretly) on an ocean liner. The boy becomes a man (still living on the ship but keeping a low profile). But he becomes not just any man; he emerges as a piano virtuoso the likes of which the ocean blue has never seen.\r One particularly chortle-worthy scene depicts Tim Roth's character (the titular 1900 (HA HA HA)) lighting a cigarette off of the \"hot\" piano strings after his jazz duel with Jelly Roll Morton. HA HA HA HA, HO HO HO... whew! Oh, that is priceless.\r The over-the-top script is delivered with hilarious high-school histrionics by a cast that includes the usually serious Pruitt Taylor Vince and Clarence (Linc) Williams III.\r Hold on a second. This just in. I've been advised that this is indeed NOT a comedy. Really? Well then, I must remind myself to never watch anything with \"Legend(s) of\" in the title (e.g. Legend of Bagger Vance, Legends of the Fall, Legend of Zorro, Legend of 1900). I thought those were all comedies.",
-      "review_date": "2013-04-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I like this sad movie!",
-      "review_date": "2005-09-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie Great music.",
-      "review_date": "2006-07-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the greatest movies i've ever seen .. the story was well thought out, the characters are interesting, and the music is absolutely exquisite. In fact, this movie actually inspired me to start taking piano lessons. I am now 16 and One of the greatest movies i've ever seen .. the story was well thought out, the characters are interesting, and the music is absolutely exquisite. In fact, this movie actually inspired me to start taking piano lessons. I am now 16 and have been playing for 6 years, ever since The Journey Of 1900 was released.",
-      "review_date": "2006-02-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The greatest film of all time.",
-      "review_date": "2006-03-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Good: amazing piano scenes; subtle, ironic humor; Roth is genuine. The Bad: too long, too boring, strangely-paced. This movie has some scenes that are dazzlingly creative, well-written, or beautiful. There are fantastic piano sequences The Good: amazing piano scenes; subtle, ironic humor; Roth is genuine. The Bad: too long, too boring, strangely-paced. This movie has some scenes that are dazzlingly creative, well-written, or beautiful. There are fantastic piano sequences (one of which involves a grand piano being played as it is flying across the floor of a storm-tossed ship), and the quirky, low-key humor will be enjoyed by those patient enough to look for it. As a piano-playing movie, it is fantastic. As a gripping character study, it falls flat. Indeed, \"gripping\" is a large problem with this movie, for that it was it lacks. One may lament, as I did, how sad it is that there are so many great scenes and moments tied together by long stretches of boredom. I'd highly recommend renting it for a watch-through--some of the scenes are classic!",
-      "review_date": "2007-03-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not bad, but far from best, talent jobs of Tornatore. The intimate mode in which the story is told at least worls well until the final act when nosefalls in tedious dialogues. Tim Roth and the music score saves the day.",
-      "review_date": "2017-08-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nnice but it has a strange end if i was instead max i wanted to sit in the ship and die with 1900 or come out him",
-      "review_date": "2019-11-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "buugugufughjjooyewwdscbnmbcgjkkooiyrwqeyikmmvxasdgjkooubububjjbjbjbjbhiihihiihihihihiihihihihihihihihihihihhiihh",
-      "review_date": "2021-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "With 'The Legend of 1900', director, Giuseppe Tornatore, crafts an entertaining fable which pays major respect and homage to the world of early, New Orleans Jazz. Being that it is a legend, as well as being told by the musician who workedWith 'The Legend of 1900', director, Giuseppe Tornatore, crafts an entertaining fable which pays major respect and homage to the world of early, New Orleans Jazz. Being that it is a legend, as well as being told by the musician who worked with the titular 1900 (yes, that is the character's name and the reason why he was born with that name is kickass), we, as an audience, are free to interpret it however we may choose. Was it all true or was it all exaggerated? You decide. I really like films that can pull off open interpretation without sacrificing focus. I personally found it to be quite a lovely and musically respectful work of both joy and sadness despite its occasional ridiculous/hokey moments. I'd like to also give a shout out to all the exceptional actors and cinematography.",
-      "review_date": "2021-08-21",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 30
+    "title": "The Legend of 1900",
+    "rating": 8.4,
+    "release_date": "1999-10-29",
+    "genre": [
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Music"
+    ],
+    "summary": "An epic story of a young man (Roth) who is born on January 1, 1900, and thus his name Nineteen Hundred.  He grows up always having lived on an ocean liner, becoming a talented pianist.",
+    "critic_reviews": [
+        "An enchanting, staggeringly beautiful epic at sea, is poetry in motion.",
+        "Tantalizingly structured to intrigue us right from the start.",
+        "On one level it is highly intimate, yet it is also universal, a modern metaphor for the human condition and the precariousness of life itself.",
+        "Visually dazzling, touching and funny.",
+        "A painstakingly crafted nonrealist story, which doesn't seem to imply anything beyond what it depicts.",
+        "The sense of loss aroused by the film is oceanic.",
+        "It's usually a good idea to avoid anything billed as ''a fable,'' but The Legend of 1900 offers almost enough merits to warrant an exception",
+        "Has moments of great imagination.",
+        "The material is at heart an intimate allegorical fairy tale about rarefied philosophical concerns.",
+        "Good-natured but labored, the film clings to its lone gimmick with increasing desperation.",
+        "Overacted, overdirected, and overcooked in the usual Tornatore manner, but sheer energy and enthusiasm keep it watchable and listenable most of the way through.",
+        "An intriguing concept, a storybook vision life in the great age of trans-Atlantic travel, a fine Ennio Morricone score and a credible performance by Roth.",
+        "A sumptuous ride with breathtaking scenes and a soaring musical score.",
+        "But it tries to be (many) things -- and fails at them all.",
+        "It doesn't strike a single note of authentic emotion.",
+        "The schmaltz is relentless in The Legend of 1900, the newest film from \"Cinema Paradiso'' director Giuseppe Tornatore. It comes in waves, it leeches onto every surface and it turns decent actors into sticky-sweet fuzzballs."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Superb original soundtrack,amazing story and beautiful atmosphere! This movie is really one of the few movies that my friends recommended to me and i liked it a lot! I would recommend it to everyone...but if you're a musician or you're aSuperb original soundtrack,amazing story and beautiful atmosphere! This movie is really one of the few movies that my friends recommended to me and i liked it a lot! I would recommend it to everyone...but if you're a musician or you're a music lover you should watch this masterpiece without no doubt! My final score for \"The Legend of 1900\" is 8/10",
+            "review_date": "2013-05-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A unique, strange, and beautiful film that feels more like a Tall Tale than anything else I have seen on the big screen in a long time. This is an immaculately shot and directed movie, and every piece of the ship is beautiful. The way theA unique, strange, and beautiful film that feels more like a Tall Tale than anything else I have seen on the big screen in a long time. This is an immaculately shot and directed movie, and every piece of the ship is beautiful. The way the music is portrayed is stunning. The acting is incredible, and is really an ensemble cast at their finest rather than Tim Roth shouldering the weight for everyone, even though he does do a fantastic job. This is one of the most underrated films from the 1990s, and I really think that this will be regarded as a classic one day.",
+            "review_date": "2019-02-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Legend of 1900 is a beautiful film, from the acting to the soundtrack to how the film is shot... you shouldn't miss this if you haven't seen it already. Roth gives yet another great performance that is not only chilling but effective noLegend of 1900 is a beautiful film, from the acting to the soundtrack to how the film is shot... you shouldn't miss this if you haven't seen it already. Roth gives yet another great performance that is not only chilling but effective no matter how distant from him you may feel.",
+            "review_date": "2016-02-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Legend of 1900 is one of the cleverest comedies ever filmed. Director Giuseppe Tornatore manages to get the viewer to believe they are watching a serious movie about a boy who grows up (secretly) on an ocean liner. The boy becomes a manThe Legend of 1900 is one of the cleverest comedies ever filmed. Director Giuseppe Tornatore manages to get the viewer to believe they are watching a serious movie about a boy who grows up (secretly) on an ocean liner. The boy becomes a man (still living on the ship but keeping a low profile). But he becomes not just any man; he emerges as a piano virtuoso the likes of which the ocean blue has never seen.\r One particularly chortle-worthy scene depicts Tim Roth's character (the titular 1900 (HA HA HA)) lighting a cigarette off of the \"hot\" piano strings after his jazz duel with Jelly Roll Morton. HA HA HA HA, HO HO HO... whew! Oh, that is priceless.\r The over-the-top script is delivered with hilarious high-school histrionics by a cast that includes the usually serious Pruitt Taylor Vince and Clarence (Linc) Williams III.\r Hold on a second. This just in. I've been advised that this is indeed NOT a comedy. Really? Well then, I must remind myself to never watch anything with \"Legend(s) of\" in the title (e.g. Legend of Bagger Vance, Legends of the Fall, Legend of Zorro, Legend of 1900). I thought those were all comedies.",
+            "review_date": "2013-04-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie Great music.",
+            "review_date": "2006-07-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the greatest movies i've ever seen .. the story was well thought out, the characters are interesting, and the music is absolutely exquisite. In fact, this movie actually inspired me to start taking piano lessons. I am now 16 and One of the greatest movies i've ever seen .. the story was well thought out, the characters are interesting, and the music is absolutely exquisite. In fact, this movie actually inspired me to start taking piano lessons. I am now 16 and have been playing for 6 years, ever since The Journey Of 1900 was released.",
+            "review_date": "2006-02-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The greatest film of all time.",
+            "review_date": "2006-03-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Good: amazing piano scenes; subtle, ironic humor; Roth is genuine. The Bad: too long, too boring, strangely-paced. This movie has some scenes that are dazzlingly creative, well-written, or beautiful. There are fantastic piano sequences The Good: amazing piano scenes; subtle, ironic humor; Roth is genuine. The Bad: too long, too boring, strangely-paced. This movie has some scenes that are dazzlingly creative, well-written, or beautiful. There are fantastic piano sequences (one of which involves a grand piano being played as it is flying across the floor of a storm-tossed ship), and the quirky, low-key humor will be enjoyed by those patient enough to look for it. As a piano-playing movie, it is fantastic. As a gripping character study, it falls flat. Indeed, \"gripping\" is a large problem with this movie, for that it was it lacks. One may lament, as I did, how sad it is that there are so many great scenes and moments tied together by long stretches of boredom. I'd highly recommend renting it for a watch-through--some of the scenes are classic!",
+            "review_date": "2007-03-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not bad, but far from best, talent jobs of Tornatore. The intimate mode in which the story is told at least worls well until the final act when nosefalls in tedious dialogues. Tim Roth and the music score saves the day.",
+            "review_date": "2017-08-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nnice but it has a strange end if i was instead max i wanted to sit in the ship and die with 1900 or come out him",
+            "review_date": "2019-11-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With 'The Legend of 1900', director, Giuseppe Tornatore, crafts an entertaining fable which pays major respect and homage to the world of early, New Orleans Jazz. Being that it is a legend, as well as being told by the musician who workedWith 'The Legend of 1900', director, Giuseppe Tornatore, crafts an entertaining fable which pays major respect and homage to the world of early, New Orleans Jazz. Being that it is a legend, as well as being told by the musician who worked with the titular 1900 (yes, that is the character's name and the reason why he was born with that name is kickass), we, as an audience, are free to interpret it however we may choose. Was it all true or was it all exaggerated? You decide. I really like films that can pull off open interpretation without sacrificing focus. I personally found it to be quite a lovely and musically respectful work of both joy and sadness despite its occasional ridiculous/hokey moments. I'd like to also give a shout out to all the exceptional actors and cinematography.",
+            "review_date": "2021-08-21",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 30
 }

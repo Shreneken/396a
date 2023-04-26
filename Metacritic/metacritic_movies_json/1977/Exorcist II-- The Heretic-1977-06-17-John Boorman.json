@@ -1,58 +1,57 @@
 {
-  "title": "Exorcist II: The Heretic",
-  "rating": 3.2,
-  "release_date": "1977-06-17",
-  "genre": [
-    "Horror"
-  ],
-  "summary": "A teenage girl once possessed by a demon finds that it still lurks within her. Meanwhile, a priest investigates the death of the girl's exorcist.",
-  "critic_reviews": [
-    "Boorman deserves credit for trying out some new ideas, even if most of them backfire. Visually, it's fascinating—sort of a blend of Minnellian baroque and Buñuelian absurdity—but the dialogue is childish, the story is incomprehensible, and the metaphysics are ridiculous. Still, an audacious failure is preferable to a chickenhearted success. More than worth a look, if only out of curiosity.",
-    "Since any title containing Roman numerals invites comparison, the answer is: No, Exorcist II is not as good as The Exorcist. It isn't even close. Gone now is the simple clash between Good and Evil, replaced by some goofy transcendental spiritualism.",
-    "Substantially recut by Boorman after his original version was derided in America, but it's still easy to see why New Yorkers jeered. Boorman completely avoids gore and obscenity, treating the original as a kind of sacred good-versus-evil text, and weaving its sets and characters into a highly traditional confrontation of occult forces.",
-    "Not as awful as its notorious reputation would indicate, but certainly not the neglected masterpiece its small cult of supporters has claimed, Boorman's gorgeously shot sequel to The Exorcist has isolated moments of breathtaking imagery, but its parts do not add up to a satisfying whole.",
-    "It would be a lot easier to buy Exorcist II: The Heretic as a mood piece if it was able to sustain a tone beyond clumsy exposition and hysterical camp for longer than a few minutes.",
-    "A famously disastrous follow-up to William Friedkin’s horror hit.",
-    "A snooze-fest without any scares.",
-    "Exorcist II begins by looking foolish and slowly becomes a straightfaced film of the absurd."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Good story ruined by unnecessary and negatively uncomfortable scenes, bad acting, and confusion that lurks in this film.",
-      "review_date": "2018-10-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Si, es una película bastante deficiente, la historia es deliberadamente confusa, ridículamente sin pies ni cabeza, razón de ser e innecesariamente compleja, el hecho de ser precedida por la mejor película de terror de todos los tiempos yaSi, es una película bastante deficiente, la historia es deliberadamente confusa, ridículamente sin pies ni cabeza, razón de ser e innecesariamente compleja, el hecho de ser precedida por la mejor película de terror de todos los tiempos ya complicaba mucho la recepción de esta infame secuela, pero en el fondo no es tan mala si tan solo olvidas por un momento la existencia de El Exorcista original.Si existe algo que se pueda destacar positivamente es la banda sonora y nada más.",
-      "review_date": "2020-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terrible FollowupThis movie disrespects the legacy of it’s predecessor with it acting like a bland and stupid horror film.",
-      "review_date": "2019-07-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Nothing is good about this movie, the original wasn't really sequel worthy, but this is too far, by far just one of the worst movies.",
-      "review_date": "2019-01-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Truly terrible film. I can’t even think of any reason to watch this. There was one second shot of someone stepping on spikes which was entertaining and some bits on rocks which looked alright. The rest of the film is painful incomprehensibleTruly terrible film. I can’t even think of any reason to watch this. There was one second shot of someone stepping on spikes which was entertaining and some bits on rocks which looked alright. The rest of the film is painful incomprehensible crap. I believe that this is the worst film ever made. Do not watch. Atrocious.",
-      "review_date": "2022-02-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "the exorcist 2 is a rare and at the same time disastrous movie, unfortunately it is one of the worst sequels I have seen despite the fact that it has great actors and a good director. A failure in all respects but with beautiful photographythe exorcist 2 is a rare and at the same time disastrous movie, unfortunately it is one of the worst sequels I have seen despite the fact that it has great actors and a good director. A failure in all respects but with beautiful photography and very few aesthetically beautiful scenes.",
-      "review_date": "2022-09-27",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 14
+    "title": "Exorcist II: The Heretic",
+    "rating": 3.2,
+    "release_date": "1977-06-17",
+    "genre": [
+        "Horror"
+    ],
+    "summary": "A teenage girl once possessed by a demon finds that it still lurks within her. Meanwhile, a priest investigates the death of the girl's exorcist.",
+    "critic_reviews": [
+        "Boorman deserves credit for trying out some new ideas, even if most of them backfire. Visually, it's fascinating\u2014sort of a blend of Minnellian baroque and Bu\u00f1uelian absurdity\u2014but the dialogue is childish, the story is incomprehensible, and the metaphysics are ridiculous. Still, an audacious failure is preferable to a chickenhearted success. More than worth a look, if only out of curiosity.",
+        "Since any title containing Roman numerals invites comparison, the answer is: No, Exorcist II is not as good as The Exorcist. It isn't even close. Gone now is the simple clash between Good and Evil, replaced by some goofy transcendental spiritualism.",
+        "Substantially recut by Boorman after his original version was derided in America, but it's still easy to see why New Yorkers jeered. Boorman completely avoids gore and obscenity, treating the original as a kind of sacred good-versus-evil text, and weaving its sets and characters into a highly traditional confrontation of occult forces.",
+        "Not as awful as its notorious reputation would indicate, but certainly not the neglected masterpiece its small cult of supporters has claimed, Boorman's gorgeously shot sequel to The Exorcist has isolated moments of breathtaking imagery, but its parts do not add up to a satisfying whole.",
+        "It would be a lot easier to buy Exorcist II: The Heretic as a mood piece if it was able to sustain a tone beyond clumsy exposition and hysterical camp for longer than a few minutes.",
+        "A famously disastrous follow-up to William Friedkin\u2019s horror hit.",
+        "A snooze-fest without any scares.",
+        "Exorcist II begins by looking foolish and slowly becomes a straightfaced film of the absurd."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Good story ruined by unnecessary and negatively uncomfortable scenes, bad acting, and confusion that lurks in this film.",
+            "review_date": "2018-10-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terrible FollowupThis movie disrespects the legacy of it\u2019s predecessor with it acting like a bland and stupid horror film.",
+            "review_date": "2019-07-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Nothing is good about this movie, the original wasn't really sequel worthy, but this is too far, by far just one of the worst movies.",
+            "review_date": "2019-01-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Truly terrible film. I can\u2019t even think of any reason to watch this. There was one second shot of someone stepping on spikes which was entertaining and some bits on rocks which looked alright. The rest of the film is painful incomprehensibleTruly terrible film. I can\u2019t even think of any reason to watch this. There was one second shot of someone stepping on spikes which was entertaining and some bits on rocks which looked alright. The rest of the film is painful incomprehensible crap. I believe that this is the worst film ever made. Do not watch. Atrocious.",
+            "review_date": "2022-02-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "the exorcist 2 is a rare and at the same time disastrous movie, unfortunately it is one of the worst sequels I have seen despite the fact that it has great actors and a good director. A failure in all respects but with beautiful photographythe exorcist 2 is a rare and at the same time disastrous movie, unfortunately it is one of the worst sequels I have seen despite the fact that it has great actors and a good director. A failure in all respects but with beautiful photography and very few aesthetically beautiful scenes.",
+            "review_date": "2022-09-27",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 14
 }

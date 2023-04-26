@@ -1,653 +1,746 @@
 {
-  "title": "American Gangster",
-  "rating": 7.6,
-  "release_date": "2007-11-02",
-  "genre": [
-    "Drama",
-    "Crime"
-  ],
-  "summary": "Nobody used to notice Frank Lucas, the quiet driver for one of the inner city's leading black crime bosses. But when his boss suddenly dies, Frank exploits the opening in the power structure to build his own empire and create his own version of the American Dream. Through ingenuity and a strict business ethic, he comes to rule theNobody used to notice Frank Lucas, the quiet driver for one of the inner city's leading black crime bosses. But when his boss suddenly dies, Frank exploits the opening in the power structure to build his own empire and create his own version of the American Dream. Through ingenuity and a strict business ethic, he comes to rule the inner-city drug trade and floods the streets with a purer product at a better price. Lucas outplays all of the leading crime syndicates and becomes not only one of the city's mainline corrupters, but part of its circle of legit civic superstars. Richie Roberts is an outcast cop close enough to the streets to feel a shift of control in the drug underworld. Roberts believes someone is climbing the rungs above the known Mafia families and starts to suspect that a black power player has come from nowhere to dominate the scene. Both Lucas and Roberts share a rigorous ethical code that sets them apart from their own colleagues, which makes them lone figures on opposite sides of the law. The destinies of these two men will become intertwined as they approach a confrontation in which only one of them can come out on top. [Universal]… Expand",
-  "critic_reviews": [
-    "Denzel Washington dazzles in his best screen performance to date as Frank Lucas.",
-    "This is an engrossing story, told smoothly and well, and Russell Crowe's contribution is enormous.",
-    "It has the aspirations of an epic of crime and punishment, a superb feel for time and milieu, and an almost subliminal feel for myth.",
-    "Finely made and richly satisfying film.",
-    "Crowe has rarely been better, and the same goes for director Scott, who parallels and then dovetails Lucas and Roberts' stories with sublime, gritty precision, working up to a magnificent \"Godfather III\"-style crosscutting sequence that electrifies an already explosive tale.",
-    "Call it the black \"Scarface\" or \"the Harlem Godfather\" or just one hell of an exciting movie.",
-    "The movie, based on a true story, takes surprising twists and turns right up to its chilling ending and is probably the best gangster crime drama of the year.",
-    "What American Gangster does have -- what makes it such a commanding, exhilarating movie -- is a consummate love and understanding of story.",
-    "Only Washington stands out; he's charming, intense, and charismatic as ever.",
-    "A riveting piece of movie storytelling, mounted with a genuinely epic flair, shot and edited in a no-nonsense, classic style.",
-    "This impressive film feels more like a display, if an often dazzling one, than a genuine experience.",
-    "It's workmanlike and engrossing, but what sticks in the mind are Frank and Richie, not what anybody does.",
-    "Absorbing, exciting at times and undeniably entertaining, and is poised to be a major commercial hit. But great it's not.",
-    "The pace of the movie is rapid, almost hectic, the touch glancing. Until the confrontation between Frank and Richie at the end, nothing stays on the screen for long, although Scott, working in the street, or in clubs and at parties, packs as much as he can into the corners of shots, and shapes even the most casual scenes decisively.",
-    "As archetypal as its title, Ridley Scott's would-be epic aspires to enshrine Harlem dope king Frank Lucas in Hollywood heaven, heir to Scarface and the Godfather. Or, as suggested by the Mark Jacobson article on Lucas that inspired the movie, a real-life Superfly.",
-    "In the end, though, the success of American Gangster doesn't flow from the originality of its ideas, or its bid for epic status, as much as from its craftsmanship and confident professionalism. It's a great big gangster film, and a good one.",
-    "I don't think it attains the Godfather level -- it lacks dark passion and grand-scale irony -- but it is an intelligent, well-made and seductive movie.",
-    "Like in \"Training Day\" and \"Malcolm X,\" where he portrayed less than perfect individuals, Washington rules the screen. His portrayal is one of many things that elevates this film to the level of being consistently entertaining and occasionally compelling.",
-    "Meticulous and detailed, a drug-world epic that holds you from moment to moment, immersing you in the intricate and sleazy logistics of crime. Yet the movie isn't quite enthralling; it's more like the ghost version of a '70s classic.",
-    "Often best around the edges. Without making a big deal about it, Scott reveals how the Mafia, while putting up a businesslike front, deplored the incursion of black gangsters into the drug trade.",
-    "Its vivid sense of place and time make it compulsively watchable, even at a running time of two and a half hours.",
-    "It’s a big, juicy 1970s period piece, one foot in real life, the other in the movies, the preferred stance of many Hollywood crime sagas.",
-    "As an epic, American Gangster doesn't cut it. The reputations of Francis Ford Coppola's \"The Godfather,\" Brian De Palma's \"Scarface,\" Martin Scorsese's \"Goodfellas\" or Michael Mann's \"Heat\" are safe. At best, American Gangster is no better than a workmanlike imitation of its betters.",
-    "It lacks momentum, and thus the propulsion required to rocket it into the movie mythosphere.",
-    "Ridley Scott gives it the grand treatment, 157 minutes worth, but in the end, it doesn't stack up as the portrait of an era (the 1970s, in this case) or an important tale of a criminal mastermind.",
-    "For all the sprawl, American Gangster feels secondhand. It’s like \"Scarface\" drained of blood, at arm’s length from the culture that spawned it.",
-    "The movie is never quite pop enough to get audiences hooting and hollering and quoting favorite lines, nor smart enough to inspire passionate post-movie debate. Scene by scene, the film is unassailably well-crafted. But there's something oddly dull, even respectable, about Scott's adherence to the rules of gangster-film grammar.",
-    "Greatness hovers just outside American Gangster, knocking, angling to be let in.",
-    "With one of these two alpha males anchoring nearly every scene, Scott really can't go wrong, but the lead characters are pretty thin, a fact highlighted by generic subplots.",
-    "There's a great story here, but it feels like American Gangster hasn't been mined for all its riches.",
-    "The acting is unquestionably strong, the songs are integrated appropriately (functioning as both audio bridges and dramatic enhancements), and yet something is missing in how the individual pieces of the film--the story, the themes, and the violence--fit together.",
-    "The new perspective Scott and Zaillian want to bring to this material never gels convincingly, and despite some effective set pieces, a cast of memorable faces and attitudes, and evocative cinematography by Harris Savides, this would-be epic feels tired and rote.",
-    "Steven Zaillian never seems completely at home with these characters, not because he's white but because he's a cerebral screenwriter frustrated with a story that gives him little that's meaningful to say. Like Washington and Crowe, he's a chef functioning here as a short-order cook: The meal's perfectly edible but falls short of delicious.",
-    "The result is kitschy entertainment that wants to celebrate Lucas's chutzpah and acumen while loosely condemning what they wrought: \"Scarface\" with a ghost of a conscience.",
-    "The problem is that the movie spends as much time on the boring detective chasing Lucas as on the drug lord himself.",
-    "An entertaining romp through familiar cop-and-crim cat-and-mousery, bolstered by strong star turns from Washington and Crowe. Still, it has neither the intelligence nor the grip to jump from the merely good to the truly great.",
-    "Misplaced hero-worship and glibness get in the way of its amazing true story.",
-    "Offers only the stingiest platform for its actors, and as a piece of storytelling -- built on the foundation of a great story -- it's an epic that's been sliced and diced into so many little morsels that almost nothing in it has any weight."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "\"American Gangster!\" Who wouldn't enjoy a film directed by Ridley Scott, the director of Gladiator and Kingdom of Heaven, and Oscar winning starts, Denzel Washington and Russell Crowe. These actors have finally collided into an \"American Gangster!\" Who wouldn't enjoy a film directed by Ridley Scott, the director of Gladiator and Kingdom of Heaven, and Oscar winning starts, Denzel Washington and Russell Crowe. These actors have finally collided into an electrifying performance. I saw the poster of this film in a run down theatre and it looked pretty exciting because at the time, I was into Scorsese Mob films, and the title said: American Gangster Starring Denzel Washington and Russell Crowe. What I film. After watching the trailer, I couldn't wait a damn moment until it came out. All these sweat and awesome commercials viewing it, my god, I wanted to watch it so badly. But apparently, I saw it in a special screening a week before it came out. There were lots of folks there from all walks of life and all ages - the movie seemed to go over very well with everyone in the room. Washington and Crowe work well together as the troubled stars in this film and basically the main attraction for people to go see it was their appearance. It was also a little too long and more dramatic than expected, but it still had good dialogue to make it entertaining. Also, I've seen some real stinkers at the movies recently (I won't bother you with the list because it's too long) so it was refreshing to see that movies can still be well made with characters you can care about and root for. Since the movie wasn't finished at the time I got to see it, I look forward to enjoying the movie again at local movie theatre. A pure modern-gangster classic.",
-      "review_date": "2007-10-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good. But in connecting the dots you find there are some dots missing. The end feels like an uneasy compromise for the film's length and had enough morla and character content to have filled another movie. The relationship and respect Good. But in connecting the dots you find there are some dots missing. The end feels like an uneasy compromise for the film's length and had enough morla and character content to have filled another movie. The relationship and respect between Russel Crowe and Denzel was a refreshing idea, and could have floated a boat in itself. The relationship at the beginning with his boss gets your attention and feels important and intrigues you, but those elements are left to just taper off. Perhaps a prequel and a sequel were aces up the sleeve of the film from the very beginning. A taunting idea, yet doubtful. Still, even with a tease of a start and a rush of an end, the middle should not be ignored. Solid and very respectable. A must-see for sure.",
-      "review_date": "2008-01-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This American classic crime film was very well executed. From scene to scene I was in the edge of my seat. The violence involved in the plot of the story took me by surprise, other than that the violence portrayed in the film was up to par. This American classic crime film was very well executed. From scene to scene I was in the edge of my seat. The violence involved in the plot of the story took me by surprise, other than that the violence portrayed in the film was up to par. To my understanding, most of the scenes in the movie were based on true events. In my opinion, any film that is based on a true story makes the movie experience more entertaining. As always, Denzel Washington played the role of an American gangster to perfection. Even though, he plays similar roles in other movies he did a superb job.",
-      "review_date": "2007-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The movie is brilliant. Daniel was tremendous. Crowe was spectacular.The support characters were equally impressive. I love the movie. I won't mind watching it again.",
-      "review_date": "2007-11-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Nothing all that special. Great actors in an ok film.",
-      "review_date": "2007-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Movie itself was good.. the story sucks. He should have been shot for getting his entire family killed or arrested, and being a snitch, Good acting, poor story.",
-      "review_date": "2008-02-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I mean really, Scott is THE most overrated director working. Gladiator was such a horrible mess that we might have to go back and rethink Alien and Blade Runner. The two leads are of course spectacular, but what waste, what kitsch, what crap!",
-      "review_date": "2007-11-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In Philadelphia we believed Denzel Washington's transformation. In Glory we believed his hatred and pride. There is no question that he is one of our finest actors. But this is not one of his finest moments. Nothing in this movie makes In Philadelphia we believed Denzel Washington's transformation. In Glory we believed his hatred and pride. There is no question that he is one of our finest actors. But this is not one of his finest moments. Nothing in this movie makes us care about any of it's actors. The performances seem wooden. Because I know that we're dealing with fine actors and one of the best directors of all time, I have to blame the script-- It gives none of its actors a platform to create a character or a sentiment that we care about. It's all facts. But even if it was a documentary, it still wouldn't be a good one. Information you don't need is all over and information you want is lacking. Plot points are explained in 30 second sequences and then left. There is not one single moment in this movie where I felt the least bit connected to these characters. And I'm pretty much a master of SoD. Where are the Emperor's cloths? He has none. This movie sucks.",
-      "review_date": "2007-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Very boring.",
-      "review_date": "2008-01-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great mafia and drug-dealer movie.",
-      "review_date": "2008-01-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The movie was too long! It truly was not worth it. I felt as if I had seen this Denzel performance 1,000 times. Great build up to a complete let down. Definitely does not rival any of the Godfather sagas. It's more like New Jack City The movie was too long! It truly was not worth it. I felt as if I had seen this Denzel performance 1,000 times. Great build up to a complete let down. Definitely does not rival any of the Godfather sagas. It's more like New Jack City meets the Departed meets the Goodfellas. Yet, it pales in comarison to all. I love you Denzel and Russell but this was a complete let down.",
-      "review_date": "2007-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "a black man's scarface. a rise in the ranks that is not shown on film but also a bit of a modest guy that embodies family and culture. denzel at his best.",
-      "review_date": "2009-02-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A bore, carries on in a stupid script, the actors do not magnify, they suck. The direction is poor, and the whole production is just over the top crap.",
-      "review_date": "2007-11-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Keep your money in your pocket. Wait for it to come out on HBO or something. Trust me!",
-      "review_date": "2007-11-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Derivative and formulaic. I mean how many lame movies do we have topless women packaging drugs for \"security\" purposed. The lame white cop is just cliche \"good guy\" against the world. The gangster love interest is an impossible bore. You may Derivative and formulaic. I mean how many lame movies do we have topless women packaging drugs for \"security\" purposed. The lame white cop is just cliche \"good guy\" against the world. The gangster love interest is an impossible bore. You may be sucked in in the first half hour... the film looks good cinema-wise (how did they make NY look decrepit again?). But you are soon sucked right back out by the over-all low bar the film weakly hops over.",
-      "review_date": "2007-11-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Overrated crap like every other Drug dealing & gangster movie out there. Goodfella's, The Godfather and this..they're all the same. Take a tough guy who uses the same phrases in every other movie in the genre with the same Overrated crap like every other Drug dealing & gangster movie out there. Goodfella's, The Godfather and this..they're all the same. Take a tough guy who uses the same phrases in every other movie in the genre with the same references and plots and you get American Gangster. Nothing but a completely overrated movie that is reliant on gun's, drugs, sex, violence and 'backstabbing' Anyone who thinks this film is amazing or a masterpiece are bandwagon jumpers and extremely deluded. Don't feel pressured to falsely praise a film you deep down don't rate so much..be honest with yourself and don't follow the crowd.",
-      "review_date": "2008-01-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a boring, plodding mess. Denzel should stop playing villains, and Russell should stop playing good guys. Both are powerful actors, used to being surrounded by hapless sycophants, but this is a waste of time.",
-      "review_date": "2008-02-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I thought gave a very good insight on life during the time period it took place in. The acting was absolutely amazing and the story in general was fascinating.",
-      "review_date": "2010-09-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Watching this movie felt like doing chores. Plot didn't make me interested at all. Didn't see anything special from performances by Denzel Washington and Russel Crowe (who is one of my favorite actors, so seeing him in this piece of turd wasWatching this movie felt like doing chores. Plot didn't make me interested at all. Didn't see anything special from performances by Denzel Washington and Russel Crowe (who is one of my favorite actors, so seeing him in this piece of turd was very disappointing). Overall, an overrated movie.",
-      "review_date": "2011-05-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Empty Threats. Empty Guns.American Gangster\n\nScott's reign over the mean streets often comes out as a fatal attempt of conjuring Scorsese's richness on uncouth mannerism, either way it's a big old sunken ship from the beginning. Ironically,Empty Threats. Empty Guns.American GangsterScott's reign over the mean streets often comes out as a fatal attempt of conjuring Scorsese's richness on uncouth mannerism, either way it's a big old sunken ship from the beginning. Ironically, despite of ticking for more than two hours, it barely offers us the content of half an hour, give or take. The major disappointment is the build up of each sequences, which are perpetually on mark, but unfortunately the high pitched dramatic scene itself falls on mediocrity. Against all odds, the film is cornered by its semantics, since the biggest bombshell would be Zaillian; the writer, who has managed to write the weakest script of his career.As far as Scott- behind the camera- is concerned, he does utilize the caliber of the cast to the last drop, but there isn't enough concrete material to walk on. Washington, in the bad boy coat, is a threat to watch out for, his rage empowers not only on the characters but on the viewers too. And to balance the tone on the other side is, Crowe as the complex yet better person to root on, frankly his personal life has much more to offer than his professional, no matter how much limited it is.Spicing up their relationship, lies Brolin's challenging performance that is explored the least among all. Despite of having such an electrifying performances, the conversation aren't zazzy enough to spark up the screen as it was anticipated and the apt example would be when Brolin and Washington goes head to head; the trash talk is just not working. And the rest of the time is spent upon creating the stereotypical montages like the loss of consciousness, the rudimentary investigation process and an imperial party gone wrong. American Gangster neither is Americana nor gangster-ous enough to define it cinematically.",
-      "review_date": "2019-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "here we go again, People are giving one of the greatest movie this year a bad rating, but are support stupid movies such as Dragon wars, Transformers, and the Saw 4, omg, people study film first, dont just watch it without looking into the here we go again, People are giving one of the greatest movie this year a bad rating, but are support stupid movies such as Dragon wars, Transformers, and the Saw 4, omg, people study film first, dont just watch it without looking into the storyline, this has one of the best story line, I mean, sure, there has been a lot of gangster movies where it shows the cop and the gangster's side of the story but this was based on a true story. I thought it was one of the best this year. And also, it has two of the world's most talented actors; Denzel Washington and Russel Crowe. Now who ever is saying that this movie sucks, take film studies, and also to those who supports cheesy movies such as Dragon wars,Transformers and Rush Hour 3, you should stop reviewing movies, cause you have no idea, what youre talking about, thank you.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Somewhere between The French Connection and The Godfather.. an amazing film that took me back in time, GO SEE THIS MOVIE !",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If \"American Gangster\" began with Frank Lucas' formative years as \"Good Fellas\" did with Henry Hill, the filmmaker would be accused of slavish imitation. But \"American Gangster\" needs to know what makes Frank Lucas (Denzel Washington) If \"American Gangster\" began with Frank Lucas' formative years as \"Good Fellas\" did with Henry Hill, the filmmaker would be accused of slavish imitation. But \"American Gangster\" needs to know what makes Frank Lucas (Denzel Washington) tick. Despite the long running time, the story feels rushed. Not enough time is spent between Frank and his mentor. We're denied \"the making of a criminal\" portion of the film. When Frank assumes the leadership role in Harlem, we feel no palpable excitement. We don't know him. \"American Gangster\" gets off to a slow start, but hang in there, things improve considerably when we finally learn where Frank's roots are planted. The film also concurs the long-held belief by conspiracy theorists that drugs could be prevented from entering the country if law officials wanted this to be the case. But the drug business employs too much people. Frank Lucas is despicable. But he doesn't beat his wife, or rather, did Denzel Washington not want to put his screen image at further risk by hurting a woman?",
-      "review_date": "2007-12-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a thoroughly overrated film certainly undeserving of the rave reviews it got. I wasn",
-      "review_date": "2008-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Excellent!!! Screenplay, writing, production!!!! Kudos to all !!!",
-      "review_date": "2007-11-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fantastic cinematography, acting, and producing.",
-      "review_date": "2007-11-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Brilliant acting... A terrific movie all around.",
-      "review_date": "2007-11-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not the best gangster movie ever, but pretty close. Great story, great acting, overall a great movie.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Convincing acting. Well directed. Suspenseful score. I highly recommend it.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Denzel Washington's performance was stunningly superb, perhaps his finest yet. The sheer ability to mold and delve into his character shows that he has reached the highest echelons of acting. Crowe, on the other hand, was slightly Denzel Washington's performance was stunningly superb, perhaps his finest yet. The sheer ability to mold and delve into his character shows that he has reached the highest echelons of acting. Crowe, on the other hand, was slightly disappointing. The character seemed to large for the actor. There were several moments where he seemed quite \"cheesy\" and unconvincing, definitely not the Gladiator material we have seen before. Washington's dramatic display clearly overshadows that of Crowe. Ridley Scott's direction was sublime, as he flawlessly portrayed Harlem during the time period -- a period of darkness for New York City in the 1970's. The ending was somewhat unsatisfying, as the recently released Frank Lucas stands on the sidewalk, pondering his fate, and his next move.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "mesmerizing! Awesome performance by Denzel Washington. The next American crime film classic.",
-      "review_date": "2007-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great film by a great director! Denzel continues to amaze.",
-      "review_date": "2007-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I can think of nothing they could have done to make this film better.Based on true charactors and set in the 70's ,the story , acting and props were all first rate. This may not be the best movie ever , but it's as good as it ever I can think of nothing they could have done to make this film better.Based on true charactors and set in the 70's ,the story , acting and props were all first rate. This may not be the best movie ever , but it's as good as it ever could be,and the best thing I've seen in 2007. I knew it was 2.5 hours long going in , but it didn't seem like it. There's not a weak or unnecessary frame in the entire film. Bill C.",
-      "review_date": "2007-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I thought the action was slow and lame, the focus seemed to be in all the bad places and some important details we're misplaced. Even thought, Denzel kept us entertained with his amazing acting.",
-      "review_date": "2007-11-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Well crafted crime movie that is a cut above the average dross. Don't go in expecting the next \"Godfather\" or \"Goodfellas\" and you wont be dissapointed. About as good as The Departed (which as everybody knows was not as good as the Well crafted crime movie that is a cut above the average dross. Don't go in expecting the next \"Godfather\" or \"Goodfellas\" and you wont be dissapointed. About as good as The Departed (which as everybody knows was not as good as the original HK flick)",
-      "review_date": "2007-11-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There was much to look at, but little to really appreciate. In terms of story, there is nothing new to this film in the least. There are visual and thematic reminders of many other, and many better, crime films. In the end, this film There was much to look at, but little to really appreciate. In terms of story, there is nothing new to this film in the least. There are visual and thematic reminders of many other, and many better, crime films. In the end, this film strangely glorifies a truly dangerous and despicable man -- someone who has contributed mightily to the detriment of black and inner city people in America. The film seems to be mostly indifferent to that fact. The acting is fine (Denzel is getting to mannered, though -- whats with the \"My man\" phrase in every performance now?) and the look is accomplished, but the movie is generally a bore.",
-      "review_date": "2007-11-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great film, could of done with a bit more between frank (Washington) and his mentor, but other than that its a good story which does make you think. Also in response to Ben B (Who did make me laugh) The film is based on a true story!",
-      "review_date": "2007-12-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I hate you this movie.",
-      "review_date": "2007-10-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great acting, Shakespearian plot, where all characters get their just desserts in the end, but the story moves along too inevitably and predictably for the viewer to feel it is true-to-life.",
-      "review_date": "2008-02-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Really great movie. From what I can, a accurate protrail of New York in the 70's. Great mix of action and detective. Crowe and Washington do great. Not too gory either.",
-      "review_date": "2008-03-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is completely watchable, and not boring. But given that you had a formerly great director (Ridley Scott) working with a truly great actor (Denzel Washington) on a story with real potential for depth, it was amazingly flat. No real This film is completely watchable, and not boring. But given that you had a formerly great director (Ridley Scott) working with a truly great actor (Denzel Washington) on a story with real potential for depth, it was amazingly flat. No real development of Denzel's character, despite some interesting possibilities (he'd just gotten back from Vietnam in 1968! And he came back to Harlem in the middle of one of its most vibrant and, yes, messed up periods!) You never even get a feeling you're IN Harlem here. Really a surprising failure of a movie.",
-      "review_date": "2008-03-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Denzel is a snore (though that might just be his signature method), Crowe is so-so, the movie is a chaotic mess and soooooo pointlessly long and I love the scene towards the end where this psycho who has destroyed more live than your average Denzel is a snore (though that might just be his signature method), Crowe is so-so, the movie is a chaotic mess and soooooo pointlessly long and I love the scene towards the end where this psycho who has destroyed more live than your average serial killer is portrayed as a deep down inside nice guy.",
-      "review_date": "2008-03-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is perhaps one of Denzel",
-      "review_date": "2008-04-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing. it's a typical Ridley Scott movie. Specially and most of all the intense drill down in the personalitties of Mr Washington and Mr Crowe as the Gangster and the Policeman.",
-      "review_date": "2009-01-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This American classic crime film was very well executed. From scene to scene I was in the edge of my seat. The violence involved in the plot of the story took me by surprise, other than that the violence portrayed in the film was up to par. This American classic crime film was very well executed. From scene to scene I was in the edge of my seat. The violence involved in the plot of the story took me by surprise, other than that the violence portrayed in the film was up to par. To my understanding, most of the scenes in the movie were based on true events. In my opinion, any film that is based on a true story makes the movie experience more entertaining. As always, Denzel Washington played the role of an American gangster to perfection. Even though, he plays similar roles in other movies he did a superb job.",
-      "review_date": "2007-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Really solid film.",
-      "review_date": "2007-11-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Ridley Scott comes back with a great movie. Denzel brings back his bad side from Training Day. A must see in theaters if you are a fan of movies.",
-      "review_date": "2007-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Very good, but not great. Certainly not in the league of Godfather I and II or Goodfellas, as some have suggested. There is some bravura filmmaking to be sure, and the quiet menace in Washington's portrayal is often chilling. The scene Very good, but not great. Certainly not in the league of Godfather I and II or Goodfellas, as some have suggested. There is some bravura filmmaking to be sure, and the quiet menace in Washington's portrayal is often chilling. The scene in which he confronts Cuba Gooding's character (could this be Gooding's return from a ten year celluloid purgatory?) is actually better than the climactic scene between the two leads. But as always, Scott is more concerned with filling the screen than he is with convincing portrayals of characters or of social context. You're never bored, but you leave the theatre no clearer about the characters' motivations than when you went in.",
-      "review_date": "2007-11-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is one I can see being great to watch on a rainy Sunday afternoon in the future, but is not particularly thrilling. It is a tad long, and the ending is a bit like \"oh, was that it??\" BUT, the story is still very interesting once This film is one I can see being great to watch on a rainy Sunday afternoon in the future, but is not particularly thrilling. It is a tad long, and the ending is a bit like \"oh, was that it??\" BUT, the story is still very interesting once the two characters become intertwined and Crowe and Washington both offer solid performances.",
-      "review_date": "2007-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great acting, great story, and truly compelling motion picture. It's biggest flaw make come from the lack of time spent with the Frank Lucas character. Important events seem to get glossed over quickly, but Washington keeps things Great acting, great story, and truly compelling motion picture. It's biggest flaw make come from the lack of time spent with the Frank Lucas character. Important events seem to get glossed over quickly, but Washington keeps things interesting. I found, however, myself more vested in the Russell Crowe storyline. I found myself rooting for Crowe's success as opposed to Washington's downfall. The direction was top notch, and when everything came together, it worked as a sublime bit of entertainment. It's just those minor flaws that keep it from being the next great crime movie in the vein of The Departed.",
-      "review_date": "2007-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Denzel is amazing as always!!! awesome movie i think i wanna see it about 700 times then get the dvd, watch all the features, then get all the merchandise, then model my life after Denzel's performance.",
-      "review_date": "2007-11-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film has been maligned by some critics, I nearly gave it a pass and waited for the DVD. Well I'm glad I didn't. Ridley Scott as in many of his movies manages to take you into the world he has set out to show you. Never pretty This film has been maligned by some critics, I nearly gave it a pass and waited for the DVD. Well I'm glad I didn't. Ridley Scott as in many of his movies manages to take you into the world he has set out to show you. Never pretty but never overboard. The juxtaposition of the righteousness and violence of the Lucas character was overwhelmingly disarming. I didn't know how I felt about him even though you know he is destroying countless lives. Great moviemaking.",
-      "review_date": "2007-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie based on a great story.",
-      "review_date": "2007-11-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Chilling, ironic portrait of a real killer and dope kingpin, with juke and jive of the sixties brought to life in the clubs. Denzel Washington manages the steely look of a man focused on results, at whatever cost.",
-      "review_date": "2007-11-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A bit too violent, but the acting was superb!!! Denzel and Russell should both have academy award nominations for this movie",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Really, really, good movie. I don't see why people have a problem with this movie. I saw it today and I loved it. 10.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie! I don't usually watch black movies, but this one was awesome! Denzel's mom was strong! Reminded me of the oracle in the Matrix. Anyhow, this movie was bad Ass. Nudity, drugs, violence, what more could you ask? The Great movie! I don't usually watch black movies, but this one was awesome! Denzel's mom was strong! Reminded me of the oracle in the Matrix. Anyhow, this movie was bad Ass. Nudity, drugs, violence, what more could you ask? The camera work rocked! The movie was dark. Cuba Gooding, usually a sucky actor, did good. While long, it didn't Feel that long. I don't know why Denzel would marry Miss Puerto Rico, though. Why doesn't he just stick to his race? That in itself should have gotten him 10 years sentence at most.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Pretty disappointing. Had a great story, great actors, and a great director/producer - but somehow it didn't all add up. Overly long and lacking character development.\" What Andy said a few posts down could not be more true. If the \"Pretty disappointing. Had a great story, great actors, and a great director/producer - but somehow it didn't all add up. Overly long and lacking character development.\" What Andy said a few posts down could not be more true. If the movie were to be summed up in two sentences, those are them. I feel it could have been great if I cared about the characters.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great performances by Denzel Washington and Russell Crowe.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Excellent movie to watch. Denzel Washington is great. He is the probably one of the best actors in American Hollywood history. I like to watch Denzel Washington's movies.He is great as a gangster in the movie. Russel Crowe also has done Excellent movie to watch. Denzel Washington is great. He is the probably one of the best actors in American Hollywood history. I like to watch Denzel Washington's movies.He is great as a gangster in the movie. Russel Crowe also has done a great job in the movie.overall the movie is great.",
-      "review_date": "2007-11-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Though not perfect, \"American Gangster\" is good enough to be rated with some of the very good gangster movies, such as \"Scarface\". I was mesmerized and it didn't seem like a 2-1/2 hour movie!",
-      "review_date": "2007-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "With the caliber of actors and directing I expected much more. The attention to minor details left the movie lacking depth.",
-      "review_date": "2007-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I think the critics went a little overboard on this one, it's a very good crime drama but not in the league of The Godfather, Goodfellas or even The Departed. This is more like separate stories of Serpico and Tony Soprano, with a little I think the critics went a little overboard on this one, it's a very good crime drama but not in the league of The Godfather, Goodfellas or even The Departed. This is more like separate stories of Serpico and Tony Soprano, with a little of Michael Mann's Heat as the two above-the-title stars don't actually meet up until one scene near the end. Ridley Scott and Russell Crowe have become a potent box office team but American Gangster belongs to Denzel Washington, once again playing the heavy and like Training Day, a probable Oscar nod for Best Actor. He is brilliant and it's his storyline that really makes the movie sail through 2 and a half hours. All credits are superb especially Harris Savides' cinematography. If you're expecting this years The Departed you'll be disappointed, but go if you want to see Denzel Washington at his absolute best.",
-      "review_date": "2007-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Rating this movie as a 5 is being generous, and I concede that it only rates that score because of Denzel Washington and Russell Crowe. I, too, felt that Frank Lucas was portrayed as somewhat of a hero in this movie and that was terribly Rating this movie as a 5 is being generous, and I concede that it only rates that score because of Denzel Washington and Russell Crowe. I, too, felt that Frank Lucas was portrayed as somewhat of a hero in this movie and that was terribly offensive to me. He was an illiterate, cold-blooded, murdering drug lord who used the coffins of our young American soldiers to smuggle his drugs into this country. He killed a lot more people than we can count. Frankly, there had to be more interesting, worthy stories out there to tell. I am even more offended that this man, when interviewed, comes across as very proud and arrogant. After watching his interview on The History Channel, I regret having spent the money to support this movie.",
-      "review_date": "2007-11-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "With 11 Oscar nominations and three wins between them, Ridley Scott (3 noms), Denzel Washington (5 noms, 2 wins), and Russell Crowe (3 noms, 1 win) make one of the most decorated trios this year has seen at the movies",
-      "review_date": "2007-11-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great acting, especially by Crowe, but needed to be more exciting, less detailed.",
-      "review_date": "2007-11-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Movie was very well done. Denzel creates powerful character like always. A must see.",
-      "review_date": "2007-12-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Agree with Ben B above- this is really a very formulaic gangster movie with little originality other than the protagonist being black. The acting was good, but overall I was disappointed.",
-      "review_date": "2007-12-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Take goodfellas - Chop some off for the brothers - water down some - sell it on cheap. That's the irony right there - shame. But the 7 stands cos it ain't bad. Is this really the BladeRunner Ridley at work here or an old man cappin Take goodfellas - Chop some off for the brothers - water down some - sell it on cheap. That's the irony right there - shame. But the 7 stands cos it ain't bad. Is this really the BladeRunner Ridley at work here or an old man cappin off his pension? Prove me wrong",
-      "review_date": "2008-01-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Excellent film. It doesn't contain gratuitous violence or the same played out gangster tale. The beauty is not only the acting, but the fact that you don't know which character you're pulling for - they're edgy and full Excellent film. It doesn't contain gratuitous violence or the same played out gangster tale. The beauty is not only the acting, but the fact that you don't know which character you're pulling for - they're edgy and full of inconsistencies. It may not be The Godfather, but what else is? This is an effective piece of narrative which captures a time period which is increasingly out of our reach. The director does an excellent job of capturing the feel of the times and weaving the various political and social turmoil.",
-      "review_date": "2008-01-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I have my complaints like most people here (the music -- \"Amazing Grace\" at the end was so trite and a couple of times the score seemed to echo that of The Godfather, but in an awkward way that didn't fit/there was very little I have my complaints like most people here (the music -- \"Amazing Grace\" at the end was so trite and a couple of times the score seemed to echo that of The Godfather, but in an awkward way that didn't fit/there was very little development of Washington's character. We know he learned from the previous boss, but why is he so ruthless?) All that being said, this movie was very enjoyable. I feel like Crowe is easily one of the best actors of our time (A Beautiful Mind, The Insider, Cinderella Man, etc.) and although he didn't have much to work with here, he delivers a very believable performance. Scott might not be at the top of his game, but this film is made will skill and precision. A very entertaining watch that leaves you wanting a bit more.",
-      "review_date": "2008-02-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Ok, movie as long as you don't expect too many historical accuracies. Some of the scenes were overkill (junkies shooting up; once is ok, twice is I got the point, anything over is a filler because the director is not sure how to make a Ok, movie as long as you don't expect too many historical accuracies. Some of the scenes were overkill (junkies shooting up; once is ok, twice is I got the point, anything over is a filler because the director is not sure how to make a point). Entertaining enough.",
-      "review_date": "2008-02-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I thought this movie was slow in some parts and I zoned out during a few parts but other than that I thought the movie was awesome. I like movies that are based on true stories cause its always better when you know something like that really I thought this movie was slow in some parts and I zoned out during a few parts but other than that I thought the movie was awesome. I like movies that are based on true stories cause its always better when you know something like that really did happen. I recommend this movie to anyone of appropriate age. Also you cant go wrong with a Denzel movie, hes usually pretty bad ass.",
-      "review_date": "2008-04-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fireee.... That's the only word I could come up with that would do this film justice in describing it....Denzel's performance is nothing less than spectacular. All of the greatest actors can envoke emotions throughout it's Fireee.... That's the only word I could come up with that would do this film justice in describing it....Denzel's performance is nothing less than spectacular. All of the greatest actors can envoke emotions throughout it's audience without even saying a word....Denzel possesses this ability and uses it almost at will to reinforce every ice cold line in the film. You can't have a championship team without one star...Denzel is this films Montana...and there are a host of great supporters.",
-      "review_date": "2007-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Similar to Michael Mann's Heat, in that the two main actors, Crowe and Washington, do not share the screen until the tail end of the movie, but this film is not as good as Heat. Ridley Scott does a good job of developing the two primary Similar to Michael Mann's Heat, in that the two main actors, Crowe and Washington, do not share the screen until the tail end of the movie, but this film is not as good as Heat. Ridley Scott does a good job of developing the two primary characters, but I found myself not engrossed by their motivations. In the end it really is a run-of-the-mill cops and bad guys flick with some corruption thrown in and cliches. For ex, the obligatory \"wife\" of the gangster who we don't really care for since her character was not developed. Moreover, we don't care about many of the supporting actors here because the story doesn't really flush them out. I honestly don't understand why the critics are crazy about this flick. It's okay, but really not an instant classic. Performances good. Story mediocre.",
-      "review_date": "2007-11-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A disappointing film. Wants to be Godfather (or maybe Scarface?), but falls well short. The performances are solid, the direction is strong and there are some good scenes. But the story as a whole just doesn't rise above a good A disappointing film. Wants to be Godfather (or maybe Scarface?), but falls well short. The performances are solid, the direction is strong and there are some good scenes. But the story as a whole just doesn't rise above a good made-for-TV effort. There's one particularly senseless scene of violence that I guess is supposed to depict just how brutal Denzel's character is... but it's pretty unbelievable when you think about it. And the ending, after all the horrible things that Denzel and his crime organization is responsible for, falls flat. Suddenly he and Crowe's character are good buddies? Please...",
-      "review_date": "2007-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "At the beginning the movie is quite confusing. For a long time one cannot really see what the strand of the black gangster boss who sets up his business with drugs has to do with the strand of the detective and his strange friends. Only when At the beginning the movie is quite confusing. For a long time one cannot really see what the strand of the black gangster boss who sets up his business with drugs has to do with the strand of the detective and his strange friends. Only when the cop becomes the head of a special comission against drugs one starts to understand. Sometimes the movie is quite cruel but I really like the end with the two opposites of the church and the raid and the following trial.",
-      "review_date": "2007-11-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's odd when I call a film with a score of 76 \"underrated,\" but that's exactly what American Gangster is. This is a shocking, captivating, yet soulful portrait of Frank Lucas and 1970s Harlem. Denzel ignites the screen with It's odd when I call a film with a score of 76 \"underrated,\" but that's exactly what American Gangster is. This is a shocking, captivating, yet soulful portrait of Frank Lucas and 1970s Harlem. Denzel ignites the screen with Lucas' cocky, confident swagger, loathing his ememies yet loving his family twice as much. And Crowe matches him stride for stride as Richie Roberts, the morally righteous cop who can't seem to find a balance in his own life. Alonside the performances is miraculous set design, aborbing the essence of 70s Harlem, plus a bonus trip to Bankok and Vietnam. Also, this film in necessarilly long...a shorter film wouldn't do justice for the dozens on intriguing characters that leave lasting impressions, from the watchful eye of Frank's mother to the 4 brothers and their lust for...well...whatever Frank does. American Gangster will rattle you emotionally, but it's still too entertaining to be missed. My only complaint: the bad, bad fake confetti snow...I think Ridley Scott used the shreddings of all the poor scripts he's written.... ...just kidding, I love you Ridley! And may the Academy bestow upon you many Oscars!",
-      "review_date": "2007-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Excellent movie. Great action. Great tension. Very realistic. It kept me interested throuhout.",
-      "review_date": "2007-11-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "High expectations leave a lot of room for disappointment. The film didn't compel me and I wasn't emotionally touched by any of the characters. Just when I started to feel some interest, it fast-forwarded in time, leaving the most High expectations leave a lot of room for disappointment. The film didn't compel me and I wasn't emotionally touched by any of the characters. Just when I started to feel some interest, it fast-forwarded in time, leaving the most important details to be told in words, and not through story development. A real disappointment!",
-      "review_date": "2007-11-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I'm sorry to all those who liked this movie, but I was very disappointed. The brilliant advertising campaign for this movie forgot to include that this movie was only for those with time to waste. Russell Crowe's performance was I'm sorry to all those who liked this movie, but I was very disappointed. The brilliant advertising campaign for this movie forgot to include that this movie was only for those with time to waste. Russell Crowe's performance was very believable, with Denzel Washington's less impressive, but decent. The script here (Scarface with a conscience?) was pretty much like every gangster movie ever made but - guess what! - the main character is African American! That's a great reason to rehash every sad gangster cliche ever penned! The writers of this movie should be forced to make the script more intelligent and the character of Denzel Washington more believable. A disappointment.",
-      "review_date": "2007-11-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Incredible movie. Denzel Washington's performance alone is worth the price of admission.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie and the acting is terrific. By the way, the moderators should remove the JCs below because he/she is trying to influence the score by posting under different aliases of 'JC' in a number of forums on this website.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beautiful in all the right ways, harsh in the same ones.",
-      "review_date": "2007-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Denzel saved the movie a bit too much, he played an awesome gangster but there were few moments it seemed that you noticed the week points, like who put t.i and common playing along side Denzel. it only created a cheezy feeling you kept Denzel saved the movie a bit too much, he played an awesome gangster but there were few moments it seemed that you noticed the week points, like who put t.i and common playing along side Denzel. it only created a cheezy feeling you kept getting reminded of",
-      "review_date": "2007-11-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "To mention this film alongside an original crime masterpiece like Scarface or a modern epic like Heat is a travesty. Surely, the actual events the film is based on carried more insight, intrigue, intensity and human emotion than what is To mention this film alongside an original crime masterpiece like Scarface or a modern epic like Heat is a travesty. Surely, the actual events the film is based on carried more insight, intrigue, intensity and human emotion than what is presented on screen. I love a lot of Ridley Scott's films, Bladerunner, White Squall, Aliens, you name it, but what made those films great and entertaining was their fresh look and depth - depth for detail and fashion, but also character depth. Denzel Washington's character is given presidential treatment here, and the film makes the case for Frank Lucas as a modern day hero. Offensive to me as a black man, that a drug dealer who smuggled heroin in the coffins of U.S. soldiers is immortalized in such a positive light. But besides the ethical questions, the film is all style, boring structure and faux important. Gangster films can be great, but this is posturing. Admit it.",
-      "review_date": "2007-11-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Let me preface this by saying I saw this movie at a 10:15 showing, and I hadn't looked up the run time of the movie, so maybe I was just tired. But I definitely felt every single one of those 157 minutes. I was psyched going into this Let me preface this by saying I saw this movie at a 10:15 showing, and I hadn't looked up the run time of the movie, so maybe I was just tired. But I definitely felt every single one of those 157 minutes. I was psyched going into this movie, but I left feeling tired and slightly irritated. What was the movie about? I don't know, and I don't think Ridley Scott knew either. It's very disjointed and, to me, slightly racist. There didn't seem to be an argument being made, nor was there any definitive through-line. I wanted to care more about Washington's character, but the film wouldn't let me, and I wanted to be more angry at Crowe's character, but he kept being vindicated like a saint. The only message I got in the end was that the good white cop will always win. And that irritated me severely. In conclusion, it was too many characters, not enough plot development, and no message, not even a morally ambiguous one. I realize that it's based on real life, but that's no excuse for shoddy storytelling.",
-      "review_date": "2007-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Long, tedious portrayal of a drug lord as relatively heroic was arduous as opposed to epic.",
-      "review_date": "2007-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good acting - builds and holds interest until exciting finish.",
-      "review_date": "2007-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "After the huge star salaries for blah their performances and the huge Zallian payday for his blah script, I guess there wasn't any money left to buy the real music playing in Harlem in the early 70s. But since this was actually shot in After the huge star salaries for blah their performances and the huge Zallian payday for his blah script, I guess there wasn't any money left to buy the real music playing in Harlem in the early 70s. But since this was actually shot in nondescript blah Canada that's really fitting. Without a single surprising, moving or gratifying moment.",
-      "review_date": "2007-11-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A mostly decent flick with a solid cast. Its a gangster movie set in the early 70s based on the heroine drug trade in America, mostly NY. The stand out actor in this movie for me was Josh Brolin...plays a dirty special detective in NY. A mostly decent flick with a solid cast. Its a gangster movie set in the early 70s based on the heroine drug trade in America, mostly NY. The stand out actor in this movie for me was Josh Brolin...plays a dirty special detective in NY. Anyway - t...(read more)his is a \"new\" take on the typical gangster movies you've been watching for years but it is still littered with the dirty cop, Italian mafia, ghettos full of junkies stereotypical images you've seen on TV and the big screen in those same years. Most of the actors seem to stretch themselves except Denzel...he plays Denzel playing a drug trafficker. Denzel's base is good, but it'd be nice to see him get out of his comfort zone...a lot. Make this part of your Netflix list.",
-      "review_date": "2007-12-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is one of the more overrated films of the year. Oh, it has its good points; Washington and Crowe are superb; the supporting cast is fine and the cinematography and production design are firstrate. However, its much too long and really This is one of the more overrated films of the year. Oh, it has its good points; Washington and Crowe are superb; the supporting cast is fine and the cinematography and production design are firstrate. However, its much too long and really hasn't much to say that hasn't been said before, and said much better. Anyone remember \"The Departed?\"",
-      "review_date": "2007-12-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "very good a brillant part from both washington and crow v sad at the same time and a bit to long for 3 hours but excellant",
-      "review_date": "2007-12-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Well scripted and interesting story with excellent camera work and directing. Superb performances from Washington and Crowe makes this a must to see.",
-      "review_date": "2007-12-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good movie, good plotline, good acting... However the entire movie never really seemed to get a steady pace, and after two something hours, they rushed to the ending.",
-      "review_date": "2007-12-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fantastic film. Great director, actors!",
-      "review_date": "2007-10-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I guess I can understand what David Edelstein is saying in his review, but he's not understanding what the point of the movie is. It's not about blood, or long violent scenes like Scarface(that's what sells, right?). It's I guess I can understand what David Edelstein is saying in his review, but he's not understanding what the point of the movie is. It's not about blood, or long violent scenes like Scarface(that's what sells, right?). It's about history. It's also about telling the truth while keeping it interesting. Weird, isn't it? This movie is not \"rapid\" or \"hectic\", it's perfect in pace. Is it \"poised to be a major commercial hit\"? Depends on your definition of poised. This movie certainly has what it takes to get under the skin of the average movie goer, and still entertain those who truly love Hollywood when it allows real style and grace to the surface, while still shocking us with truth. Washington is as good as he'll ever be, and, don't fool yourself for a moment, he'll get a best actor nod for this. Crowe is a little light, but being honest isn't supposed to be any other way. He'll get a nod for supporting actor. The movie will surely be on the \"best\" list as well, and it deserves to be. A true American Classic!",
-      "review_date": "2007-10-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Pretty disappointing. Had a great story, great actors, and a great director/producer - but somehow it didn't all add up. Overly long and lacking character development.",
-      "review_date": "2007-10-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fair movie. Not my favorite, but not bad. This was an intresting movie. however, to much senseless acts, like when Densel shot that guy from point blank in the street. I was lost at that part. More of a rip off of The Godfather just it is Fair movie. Not my favorite, but not bad. This was an intresting movie. however, to much senseless acts, like when Densel shot that guy from point blank in the street. I was lost at that part. More of a rip off of The Godfather just it is the Black Mafia instead of the Italien Mafia. Yes, wasn't that bad of a movie. Definately doesn't deserve below a 5. P.s. To all those people who don't like the really good movies calling them over rated or that there is better movies of this genre, I'm sorry, but you have to think in the mind of the people who DO like this genre. Maybe you don't like the type of genre. But, the people who don't like the genre arn't going to see the movie. It's the people who do like the genre that are going to see it.",
-      "review_date": "2008-12-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing idea. needed better execution. it was missing the bad ass moments that make him look like the boss. such as him blowing off a guys leg or throwing a guy off the roof or something like that. thats what these kind of movies prey on. Amazing idea. needed better execution. it was missing the bad ass moments that make him look like the boss. such as him blowing off a guys leg or throwing a guy off the roof or something like that. thats what these kind of movies prey on. still a good movie. and the director is a cool guy.",
-      "review_date": "2008-02-24",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 138
+    "title": "American Gangster",
+    "rating": 7.6,
+    "release_date": "2007-11-02",
+    "genre": [
+        "Drama",
+        "Crime"
+    ],
+    "summary": "Nobody used to notice Frank Lucas, the quiet driver for one of the inner city's leading black crime bosses. But when his boss suddenly dies, Frank exploits the opening in the power structure to build his own empire and create his own version of the American Dream. Through ingenuity and a strict business ethic, he comes to rule theNobody used to notice Frank Lucas, the quiet driver for one of the inner city's leading black crime bosses. But when his boss suddenly dies, Frank exploits the opening in the power structure to build his own empire and create his own version of the American Dream. Through ingenuity and a strict business ethic, he comes to rule the inner-city drug trade and floods the streets with a purer product at a better price. Lucas outplays all of the leading crime syndicates and becomes not only one of the city's mainline corrupters, but part of its circle of legit civic superstars. Richie Roberts is an outcast cop close enough to the streets to feel a shift of control in the drug underworld. Roberts believes someone is climbing the rungs above the known Mafia families and starts to suspect that a black power player has come from nowhere to dominate the scene. Both Lucas and Roberts share a rigorous ethical code that sets them apart from their own colleagues, which makes them lone figures on opposite sides of the law. The destinies of these two men will become intertwined as they approach a confrontation in which only one of them can come out on top. [Universal]\u2026 Expand",
+    "critic_reviews": [
+        "Denzel Washington dazzles in his best screen performance to date as Frank Lucas.",
+        "This is an engrossing story, told smoothly and well, and Russell Crowe's contribution is enormous.",
+        "It has the aspirations of an epic of crime and punishment, a superb feel for time and milieu, and an almost subliminal feel for myth.",
+        "Finely made and richly satisfying film.",
+        "Crowe has rarely been better, and the same goes for director Scott, who parallels and then dovetails Lucas and Roberts' stories with sublime, gritty precision, working up to a magnificent \"Godfather III\"-style crosscutting sequence that electrifies an already explosive tale.",
+        "Call it the black \"Scarface\" or \"the Harlem Godfather\" or just one hell of an exciting movie.",
+        "The movie, based on a true story, takes surprising twists and turns right up to its chilling ending and is probably the best gangster crime drama of the year.",
+        "What American Gangster does have -- what makes it such a commanding, exhilarating movie -- is a consummate love and understanding of story.",
+        "Only Washington stands out; he's charming, intense, and charismatic as ever.",
+        "A riveting piece of movie storytelling, mounted with a genuinely epic flair, shot and edited in a no-nonsense, classic style.",
+        "This impressive film feels more like a display, if an often dazzling one, than a genuine experience.",
+        "It's workmanlike and engrossing, but what sticks in the mind are Frank and Richie, not what anybody does.",
+        "Absorbing, exciting at times and undeniably entertaining, and is poised to be a major commercial hit. But great it's not.",
+        "The pace of the movie is rapid, almost hectic, the touch glancing. Until the confrontation between Frank and Richie at the end, nothing stays on the screen for long, although Scott, working in the street, or in clubs and at parties, packs as much as he can into the corners of shots, and shapes even the most casual scenes decisively.",
+        "As archetypal as its title, Ridley Scott's would-be epic aspires to enshrine Harlem dope king Frank Lucas in Hollywood heaven, heir to Scarface and the Godfather. Or, as suggested by the Mark Jacobson article on Lucas that inspired the movie, a real-life Superfly.",
+        "In the end, though, the success of American Gangster doesn't flow from the originality of its ideas, or its bid for epic status, as much as from its craftsmanship and confident professionalism. It's a great big gangster film, and a good one.",
+        "I don't think it attains the Godfather level -- it lacks dark passion and grand-scale irony -- but it is an intelligent, well-made and seductive movie.",
+        "Like in \"Training Day\" and \"Malcolm X,\" where he portrayed less than perfect individuals, Washington rules the screen. His portrayal is one of many things that elevates this film to the level of being consistently entertaining and occasionally compelling.",
+        "Meticulous and detailed, a drug-world epic that holds you from moment to moment, immersing you in the intricate and sleazy logistics of crime. Yet the movie isn't quite enthralling; it's more like the ghost version of a '70s classic.",
+        "Often best around the edges. Without making a big deal about it, Scott reveals how the Mafia, while putting up a businesslike front, deplored the incursion of black gangsters into the drug trade.",
+        "Its vivid sense of place and time make it compulsively watchable, even at a running time of two and a half hours.",
+        "It\u2019s a big, juicy 1970s period piece, one foot in real life, the other in the movies, the preferred stance of many Hollywood crime sagas.",
+        "As an epic, American Gangster doesn't cut it. The reputations of Francis Ford Coppola's \"The Godfather,\" Brian De Palma's \"Scarface,\" Martin Scorsese's \"Goodfellas\" or Michael Mann's \"Heat\" are safe. At best, American Gangster is no better than a workmanlike imitation of its betters.",
+        "It lacks momentum, and thus the propulsion required to rocket it into the movie mythosphere.",
+        "Ridley Scott gives it the grand treatment, 157 minutes worth, but in the end, it doesn't stack up as the portrait of an era (the 1970s, in this case) or an important tale of a criminal mastermind.",
+        "For all the sprawl, American Gangster feels secondhand. It\u2019s like \"Scarface\" drained of blood, at arm\u2019s length from the culture that spawned it.",
+        "The movie is never quite pop enough to get audiences hooting and hollering and quoting favorite lines, nor smart enough to inspire passionate post-movie debate. Scene by scene, the film is unassailably well-crafted. But there's something oddly dull, even respectable, about Scott's adherence to the rules of gangster-film grammar.",
+        "Greatness hovers just outside American Gangster, knocking, angling to be let in.",
+        "With one of these two alpha males anchoring nearly every scene, Scott really can't go wrong, but the lead characters are pretty thin, a fact highlighted by generic subplots.",
+        "There's a great story here, but it feels like American Gangster hasn't been mined for all its riches.",
+        "The acting is unquestionably strong, the songs are integrated appropriately (functioning as both audio bridges and dramatic enhancements), and yet something is missing in how the individual pieces of the film--the story, the themes, and the violence--fit together.",
+        "The new perspective Scott and Zaillian want to bring to this material never gels convincingly, and despite some effective set pieces, a cast of memorable faces and attitudes, and evocative cinematography by Harris Savides, this would-be epic feels tired and rote.",
+        "Steven Zaillian never seems completely at home with these characters, not because he's white but because he's a cerebral screenwriter frustrated with a story that gives him little that's meaningful to say. Like Washington and Crowe, he's a chef functioning here as a short-order cook: The meal's perfectly edible but falls short of delicious.",
+        "The result is kitschy entertainment that wants to celebrate Lucas's chutzpah and acumen while loosely condemning what they wrought: \"Scarface\" with a ghost of a conscience.",
+        "The problem is that the movie spends as much time on the boring detective chasing Lucas as on the drug lord himself.",
+        "An entertaining romp through familiar cop-and-crim cat-and-mousery, bolstered by strong star turns from Washington and Crowe. Still, it has neither the intelligence nor the grip to jump from the merely good to the truly great.",
+        "Misplaced hero-worship and glibness get in the way of its amazing true story.",
+        "Offers only the stingiest platform for its actors, and as a piece of storytelling -- built on the foundation of a great story -- it's an epic that's been sliced and diced into so many little morsels that almost nothing in it has any weight."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "\"American Gangster!\" Who wouldn't enjoy a film directed by Ridley Scott, the director of Gladiator and Kingdom of Heaven, and Oscar winning starts, Denzel Washington and Russell Crowe. These actors have finally collided into an \"American Gangster!\" Who wouldn't enjoy a film directed by Ridley Scott, the director of Gladiator and Kingdom of Heaven, and Oscar winning starts, Denzel Washington and Russell Crowe. These actors have finally collided into an electrifying performance. I saw the poster of this film in a run down theatre and it looked pretty exciting because at the time, I was into Scorsese Mob films, and the title said: American Gangster Starring Denzel Washington and Russell Crowe. What I film. After watching the trailer, I couldn't wait a damn moment until it came out. All these sweat and awesome commercials viewing it, my god, I wanted to watch it so badly. But apparently, I saw it in a special screening a week before it came out. There were lots of folks there from all walks of life and all ages - the movie seemed to go over very well with everyone in the room. Washington and Crowe work well together as the troubled stars in this film and basically the main attraction for people to go see it was their appearance. It was also a little too long and more dramatic than expected, but it still had good dialogue to make it entertaining. Also, I've seen some real stinkers at the movies recently (I won't bother you with the list because it's too long) so it was refreshing to see that movies can still be well made with characters you can care about and root for. Since the movie wasn't finished at the time I got to see it, I look forward to enjoying the movie again at local movie theatre. A pure modern-gangster classic.",
+            "review_date": "2007-10-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good. But in connecting the dots you find there are some dots missing. The end feels like an uneasy compromise for the film's length and had enough morla and character content to have filled another movie. The relationship and respect Good. But in connecting the dots you find there are some dots missing. The end feels like an uneasy compromise for the film's length and had enough morla and character content to have filled another movie. The relationship and respect between Russel Crowe and Denzel was a refreshing idea, and could have floated a boat in itself. The relationship at the beginning with his boss gets your attention and feels important and intrigues you, but those elements are left to just taper off. Perhaps a prequel and a sequel were aces up the sleeve of the film from the very beginning. A taunting idea, yet doubtful. Still, even with a tease of a start and a rush of an end, the middle should not be ignored. Solid and very respectable. A must-see for sure.",
+            "review_date": "2008-01-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This American classic crime film was very well executed. From scene to scene I was in the edge of my seat. The violence involved in the plot of the story took me by surprise, other than that the violence portrayed in the film was up to par. This American classic crime film was very well executed. From scene to scene I was in the edge of my seat. The violence involved in the plot of the story took me by surprise, other than that the violence portrayed in the film was up to par. To my understanding, most of the scenes in the movie were based on true events. In my opinion, any film that is based on a true story makes the movie experience more entertaining. As always, Denzel Washington played the role of an American gangster to perfection. Even though, he plays similar roles in other movies he did a superb job.",
+            "review_date": "2007-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie is brilliant. Daniel was tremendous. Crowe was spectacular.The support characters were equally impressive. I love the movie. I won't mind watching it again.",
+            "review_date": "2007-11-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Nothing all that special. Great actors in an ok film.",
+            "review_date": "2007-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Movie itself was good.. the story sucks. He should have been shot for getting his entire family killed or arrested, and being a snitch, Good acting, poor story.",
+            "review_date": "2008-02-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I mean really, Scott is THE most overrated director working. Gladiator was such a horrible mess that we might have to go back and rethink Alien and Blade Runner. The two leads are of course spectacular, but what waste, what kitsch, what crap!",
+            "review_date": "2007-11-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In Philadelphia we believed Denzel Washington's transformation. In Glory we believed his hatred and pride. There is no question that he is one of our finest actors. But this is not one of his finest moments. Nothing in this movie makes In Philadelphia we believed Denzel Washington's transformation. In Glory we believed his hatred and pride. There is no question that he is one of our finest actors. But this is not one of his finest moments. Nothing in this movie makes us care about any of it's actors. The performances seem wooden. Because I know that we're dealing with fine actors and one of the best directors of all time, I have to blame the script-- It gives none of its actors a platform to create a character or a sentiment that we care about. It's all facts. But even if it was a documentary, it still wouldn't be a good one. Information you don't need is all over and information you want is lacking. Plot points are explained in 30 second sequences and then left. There is not one single moment in this movie where I felt the least bit connected to these characters. And I'm pretty much a master of SoD. Where are the Emperor's cloths? He has none. This movie sucks.",
+            "review_date": "2007-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very boring.",
+            "review_date": "2008-01-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie was too long! It truly was not worth it. I felt as if I had seen this Denzel performance 1,000 times. Great build up to a complete let down. Definitely does not rival any of the Godfather sagas. It's more like New Jack City The movie was too long! It truly was not worth it. I felt as if I had seen this Denzel performance 1,000 times. Great build up to a complete let down. Definitely does not rival any of the Godfather sagas. It's more like New Jack City meets the Departed meets the Goodfellas. Yet, it pales in comarison to all. I love you Denzel and Russell but this was a complete let down.",
+            "review_date": "2007-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "a black man's scarface. a rise in the ranks that is not shown on film but also a bit of a modest guy that embodies family and culture. denzel at his best.",
+            "review_date": "2009-02-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A bore, carries on in a stupid script, the actors do not magnify, they suck. The direction is poor, and the whole production is just over the top crap.",
+            "review_date": "2007-11-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Keep your money in your pocket. Wait for it to come out on HBO or something. Trust me!",
+            "review_date": "2007-11-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Derivative and formulaic. I mean how many lame movies do we have topless women packaging drugs for \"security\" purposed. The lame white cop is just cliche \"good guy\" against the world. The gangster love interest is an impossible bore. You may Derivative and formulaic. I mean how many lame movies do we have topless women packaging drugs for \"security\" purposed. The lame white cop is just cliche \"good guy\" against the world. The gangster love interest is an impossible bore. You may be sucked in in the first half hour... the film looks good cinema-wise (how did they make NY look decrepit again?). But you are soon sucked right back out by the over-all low bar the film weakly hops over.",
+            "review_date": "2007-11-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Overrated crap like every other Drug dealing & gangster movie out there. Goodfella's, The Godfather and this..they're all the same. Take a tough guy who uses the same phrases in every other movie in the genre with the same Overrated crap like every other Drug dealing & gangster movie out there. Goodfella's, The Godfather and this..they're all the same. Take a tough guy who uses the same phrases in every other movie in the genre with the same references and plots and you get American Gangster. Nothing but a completely overrated movie that is reliant on gun's, drugs, sex, violence and 'backstabbing' Anyone who thinks this film is amazing or a masterpiece are bandwagon jumpers and extremely deluded. Don't feel pressured to falsely praise a film you deep down don't rate so much..be honest with yourself and don't follow the crowd.",
+            "review_date": "2008-01-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a boring, plodding mess. Denzel should stop playing villains, and Russell should stop playing good guys. Both are powerful actors, used to being surrounded by hapless sycophants, but this is a waste of time.",
+            "review_date": "2008-02-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thought gave a very good insight on life during the time period it took place in. The acting was absolutely amazing and the story in general was fascinating.",
+            "review_date": "2010-09-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Watching this movie felt like doing chores. Plot didn't make me interested at all. Didn't see anything special from performances by Denzel Washington and Russel Crowe (who is one of my favorite actors, so seeing him in this piece of turd wasWatching this movie felt like doing chores. Plot didn't make me interested at all. Didn't see anything special from performances by Denzel Washington and Russel Crowe (who is one of my favorite actors, so seeing him in this piece of turd was very disappointing). Overall, an overrated movie.",
+            "review_date": "2011-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Empty Threats. Empty Guns.American Gangster\n\nScott's reign over the mean streets often comes out as a fatal attempt of conjuring Scorsese's richness on uncouth mannerism, either way it's a big old sunken ship from the beginning. Ironically,Empty Threats. Empty Guns.American GangsterScott's reign over the mean streets often comes out as a fatal attempt of conjuring Scorsese's richness on uncouth mannerism, either way it's a big old sunken ship from the beginning. Ironically, despite of ticking for more than two hours, it barely offers us the content of half an hour, give or take. The major disappointment is the build up of each sequences, which are perpetually on mark, but unfortunately the high pitched dramatic scene itself falls on mediocrity. Against all odds, the film is cornered by its semantics, since the biggest bombshell would be Zaillian; the writer, who has managed to write the weakest script of his career.As far as Scott- behind the camera- is concerned, he does utilize the caliber of the cast to the last drop, but there isn't enough concrete material to walk on. Washington, in the bad boy coat, is a threat to watch out for, his rage empowers not only on the characters but on the viewers too. And to balance the tone on the other side is, Crowe as the complex yet better person to root on, frankly his personal life has much more to offer than his professional, no matter how much limited it is.Spicing up their relationship, lies Brolin's challenging performance that is explored the least among all. Despite of having such an electrifying performances, the conversation aren't zazzy enough to spark up the screen as it was anticipated and the apt example would be when Brolin and Washington goes head to head; the trash talk is just not working. And the rest of the time is spent upon creating the stereotypical montages like the loss of consciousness, the rudimentary investigation process and an imperial party gone wrong. American Gangster neither is Americana nor gangster-ous enough to define it cinematically.",
+            "review_date": "2019-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "here we go again, People are giving one of the greatest movie this year a bad rating, but are support stupid movies such as Dragon wars, Transformers, and the Saw 4, omg, people study film first, dont just watch it without looking into the here we go again, People are giving one of the greatest movie this year a bad rating, but are support stupid movies such as Dragon wars, Transformers, and the Saw 4, omg, people study film first, dont just watch it without looking into the storyline, this has one of the best story line, I mean, sure, there has been a lot of gangster movies where it shows the cop and the gangster's side of the story but this was based on a true story. I thought it was one of the best this year. And also, it has two of the world's most talented actors; Denzel Washington and Russel Crowe. Now who ever is saying that this movie sucks, take film studies, and also to those who supports cheesy movies such as Dragon wars,Transformers and Rush Hour 3, you should stop reviewing movies, cause you have no idea, what youre talking about, thank you.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Somewhere between The French Connection and The Godfather.. an amazing film that took me back in time, GO SEE THIS MOVIE !",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If \"American Gangster\" began with Frank Lucas' formative years as \"Good Fellas\" did with Henry Hill, the filmmaker would be accused of slavish imitation. But \"American Gangster\" needs to know what makes Frank Lucas (Denzel Washington) If \"American Gangster\" began with Frank Lucas' formative years as \"Good Fellas\" did with Henry Hill, the filmmaker would be accused of slavish imitation. But \"American Gangster\" needs to know what makes Frank Lucas (Denzel Washington) tick. Despite the long running time, the story feels rushed. Not enough time is spent between Frank and his mentor. We're denied \"the making of a criminal\" portion of the film. When Frank assumes the leadership role in Harlem, we feel no palpable excitement. We don't know him. \"American Gangster\" gets off to a slow start, but hang in there, things improve considerably when we finally learn where Frank's roots are planted. The film also concurs the long-held belief by conspiracy theorists that drugs could be prevented from entering the country if law officials wanted this to be the case. But the drug business employs too much people. Frank Lucas is despicable. But he doesn't beat his wife, or rather, did Denzel Washington not want to put his screen image at further risk by hurting a woman?",
+            "review_date": "2007-12-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a thoroughly overrated film certainly undeserving of the rave reviews it got. I wasn",
+            "review_date": "2008-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent!!! Screenplay, writing, production!!!! Kudos to all !!!",
+            "review_date": "2007-11-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fantastic cinematography, acting, and producing.",
+            "review_date": "2007-11-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Brilliant acting... A terrific movie all around.",
+            "review_date": "2007-11-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not the best gangster movie ever, but pretty close. Great story, great acting, overall a great movie.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Convincing acting. Well directed. Suspenseful score. I highly recommend it.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Denzel Washington's performance was stunningly superb, perhaps his finest yet. The sheer ability to mold and delve into his character shows that he has reached the highest echelons of acting. Crowe, on the other hand, was slightly Denzel Washington's performance was stunningly superb, perhaps his finest yet. The sheer ability to mold and delve into his character shows that he has reached the highest echelons of acting. Crowe, on the other hand, was slightly disappointing. The character seemed to large for the actor. There were several moments where he seemed quite \"cheesy\" and unconvincing, definitely not the Gladiator material we have seen before. Washington's dramatic display clearly overshadows that of Crowe. Ridley Scott's direction was sublime, as he flawlessly portrayed Harlem during the time period -- a period of darkness for New York City in the 1970's. The ending was somewhat unsatisfying, as the recently released Frank Lucas stands on the sidewalk, pondering his fate, and his next move.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "mesmerizing! Awesome performance by Denzel Washington. The next American crime film classic.",
+            "review_date": "2007-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great film by a great director! Denzel continues to amaze.",
+            "review_date": "2007-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I can think of nothing they could have done to make this film better.Based on true charactors and set in the 70's ,the story , acting and props were all first rate. This may not be the best movie ever , but it's as good as it ever I can think of nothing they could have done to make this film better.Based on true charactors and set in the 70's ,the story , acting and props were all first rate. This may not be the best movie ever , but it's as good as it ever could be,and the best thing I've seen in 2007. I knew it was 2.5 hours long going in , but it didn't seem like it. There's not a weak or unnecessary frame in the entire film. Bill C.",
+            "review_date": "2007-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thought the action was slow and lame, the focus seemed to be in all the bad places and some important details we're misplaced. Even thought, Denzel kept us entertained with his amazing acting.",
+            "review_date": "2007-11-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Well crafted crime movie that is a cut above the average dross. Don't go in expecting the next \"Godfather\" or \"Goodfellas\" and you wont be dissapointed. About as good as The Departed (which as everybody knows was not as good as the Well crafted crime movie that is a cut above the average dross. Don't go in expecting the next \"Godfather\" or \"Goodfellas\" and you wont be dissapointed. About as good as The Departed (which as everybody knows was not as good as the original HK flick)",
+            "review_date": "2007-11-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There was much to look at, but little to really appreciate. In terms of story, there is nothing new to this film in the least. There are visual and thematic reminders of many other, and many better, crime films. In the end, this film There was much to look at, but little to really appreciate. In terms of story, there is nothing new to this film in the least. There are visual and thematic reminders of many other, and many better, crime films. In the end, this film strangely glorifies a truly dangerous and despicable man -- someone who has contributed mightily to the detriment of black and inner city people in America. The film seems to be mostly indifferent to that fact. The acting is fine (Denzel is getting to mannered, though -- whats with the \"My man\" phrase in every performance now?) and the look is accomplished, but the movie is generally a bore.",
+            "review_date": "2007-11-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great film, could of done with a bit more between frank (Washington) and his mentor, but other than that its a good story which does make you think. Also in response to Ben B (Who did make me laugh) The film is based on a true story!",
+            "review_date": "2007-12-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I hate you this movie.",
+            "review_date": "2007-10-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great acting, Shakespearian plot, where all characters get their just desserts in the end, but the story moves along too inevitably and predictably for the viewer to feel it is true-to-life.",
+            "review_date": "2008-02-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Really great movie. From what I can, a accurate protrail of New York in the 70's. Great mix of action and detective. Crowe and Washington do great. Not too gory either.",
+            "review_date": "2008-03-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is completely watchable, and not boring. But given that you had a formerly great director (Ridley Scott) working with a truly great actor (Denzel Washington) on a story with real potential for depth, it was amazingly flat. No real This film is completely watchable, and not boring. But given that you had a formerly great director (Ridley Scott) working with a truly great actor (Denzel Washington) on a story with real potential for depth, it was amazingly flat. No real development of Denzel's character, despite some interesting possibilities (he'd just gotten back from Vietnam in 1968! And he came back to Harlem in the middle of one of its most vibrant and, yes, messed up periods!) You never even get a feeling you're IN Harlem here. Really a surprising failure of a movie.",
+            "review_date": "2008-03-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Denzel is a snore (though that might just be his signature method), Crowe is so-so, the movie is a chaotic mess and soooooo pointlessly long and I love the scene towards the end where this psycho who has destroyed more live than your average Denzel is a snore (though that might just be his signature method), Crowe is so-so, the movie is a chaotic mess and soooooo pointlessly long and I love the scene towards the end where this psycho who has destroyed more live than your average serial killer is portrayed as a deep down inside nice guy.",
+            "review_date": "2008-03-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is perhaps one of Denzel",
+            "review_date": "2008-04-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing. it's a typical Ridley Scott movie. Specially and most of all the intense drill down in the personalitties of Mr Washington and Mr Crowe as the Gangster and the Policeman.",
+            "review_date": "2009-01-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This American classic crime film was very well executed. From scene to scene I was in the edge of my seat. The violence involved in the plot of the story took me by surprise, other than that the violence portrayed in the film was up to par. This American classic crime film was very well executed. From scene to scene I was in the edge of my seat. The violence involved in the plot of the story took me by surprise, other than that the violence portrayed in the film was up to par. To my understanding, most of the scenes in the movie were based on true events. In my opinion, any film that is based on a true story makes the movie experience more entertaining. As always, Denzel Washington played the role of an American gangster to perfection. Even though, he plays similar roles in other movies he did a superb job.",
+            "review_date": "2007-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Really solid film.",
+            "review_date": "2007-11-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Ridley Scott comes back with a great movie. Denzel brings back his bad side from Training Day. A must see in theaters if you are a fan of movies.",
+            "review_date": "2007-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very good, but not great. Certainly not in the league of Godfather I and II or Goodfellas, as some have suggested. There is some bravura filmmaking to be sure, and the quiet menace in Washington's portrayal is often chilling. The scene Very good, but not great. Certainly not in the league of Godfather I and II or Goodfellas, as some have suggested. There is some bravura filmmaking to be sure, and the quiet menace in Washington's portrayal is often chilling. The scene in which he confronts Cuba Gooding's character (could this be Gooding's return from a ten year celluloid purgatory?) is actually better than the climactic scene between the two leads. But as always, Scott is more concerned with filling the screen than he is with convincing portrayals of characters or of social context. You're never bored, but you leave the theatre no clearer about the characters' motivations than when you went in.",
+            "review_date": "2007-11-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is one I can see being great to watch on a rainy Sunday afternoon in the future, but is not particularly thrilling. It is a tad long, and the ending is a bit like \"oh, was that it??\" BUT, the story is still very interesting once This film is one I can see being great to watch on a rainy Sunday afternoon in the future, but is not particularly thrilling. It is a tad long, and the ending is a bit like \"oh, was that it??\" BUT, the story is still very interesting once the two characters become intertwined and Crowe and Washington both offer solid performances.",
+            "review_date": "2007-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great acting, great story, and truly compelling motion picture. It's biggest flaw make come from the lack of time spent with the Frank Lucas character. Important events seem to get glossed over quickly, but Washington keeps things Great acting, great story, and truly compelling motion picture. It's biggest flaw make come from the lack of time spent with the Frank Lucas character. Important events seem to get glossed over quickly, but Washington keeps things interesting. I found, however, myself more vested in the Russell Crowe storyline. I found myself rooting for Crowe's success as opposed to Washington's downfall. The direction was top notch, and when everything came together, it worked as a sublime bit of entertainment. It's just those minor flaws that keep it from being the next great crime movie in the vein of The Departed.",
+            "review_date": "2007-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Denzel is amazing as always!!! awesome movie i think i wanna see it about 700 times then get the dvd, watch all the features, then get all the merchandise, then model my life after Denzel's performance.",
+            "review_date": "2007-11-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film has been maligned by some critics, I nearly gave it a pass and waited for the DVD. Well I'm glad I didn't. Ridley Scott as in many of his movies manages to take you into the world he has set out to show you. Never pretty This film has been maligned by some critics, I nearly gave it a pass and waited for the DVD. Well I'm glad I didn't. Ridley Scott as in many of his movies manages to take you into the world he has set out to show you. Never pretty but never overboard. The juxtaposition of the righteousness and violence of the Lucas character was overwhelmingly disarming. I didn't know how I felt about him even though you know he is destroying countless lives. Great moviemaking.",
+            "review_date": "2007-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie based on a great story.",
+            "review_date": "2007-11-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Chilling, ironic portrait of a real killer and dope kingpin, with juke and jive of the sixties brought to life in the clubs. Denzel Washington manages the steely look of a man focused on results, at whatever cost.",
+            "review_date": "2007-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A bit too violent, but the acting was superb!!! Denzel and Russell should both have academy award nominations for this movie",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Really, really, good movie. I don't see why people have a problem with this movie. I saw it today and I loved it. 10.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie! I don't usually watch black movies, but this one was awesome! Denzel's mom was strong! Reminded me of the oracle in the Matrix. Anyhow, this movie was bad Ass. Nudity, drugs, violence, what more could you ask? The Great movie! I don't usually watch black movies, but this one was awesome! Denzel's mom was strong! Reminded me of the oracle in the Matrix. Anyhow, this movie was bad Ass. Nudity, drugs, violence, what more could you ask? The camera work rocked! The movie was dark. Cuba Gooding, usually a sucky actor, did good. While long, it didn't Feel that long. I don't know why Denzel would marry Miss Puerto Rico, though. Why doesn't he just stick to his race? That in itself should have gotten him 10 years sentence at most.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Pretty disappointing. Had a great story, great actors, and a great director/producer - but somehow it didn't all add up. Overly long and lacking character development.\" What Andy said a few posts down could not be more true. If the \"Pretty disappointing. Had a great story, great actors, and a great director/producer - but somehow it didn't all add up. Overly long and lacking character development.\" What Andy said a few posts down could not be more true. If the movie were to be summed up in two sentences, those are them. I feel it could have been great if I cared about the characters.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great performances by Denzel Washington and Russell Crowe.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent movie to watch. Denzel Washington is great. He is the probably one of the best actors in American Hollywood history. I like to watch Denzel Washington's movies.He is great as a gangster in the movie. Russel Crowe also has done Excellent movie to watch. Denzel Washington is great. He is the probably one of the best actors in American Hollywood history. I like to watch Denzel Washington's movies.He is great as a gangster in the movie. Russel Crowe also has done a great job in the movie.overall the movie is great.",
+            "review_date": "2007-11-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Though not perfect, \"American Gangster\" is good enough to be rated with some of the very good gangster movies, such as \"Scarface\". I was mesmerized and it didn't seem like a 2-1/2 hour movie!",
+            "review_date": "2007-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With the caliber of actors and directing I expected much more. The attention to minor details left the movie lacking depth.",
+            "review_date": "2007-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think the critics went a little overboard on this one, it's a very good crime drama but not in the league of The Godfather, Goodfellas or even The Departed. This is more like separate stories of Serpico and Tony Soprano, with a little I think the critics went a little overboard on this one, it's a very good crime drama but not in the league of The Godfather, Goodfellas or even The Departed. This is more like separate stories of Serpico and Tony Soprano, with a little of Michael Mann's Heat as the two above-the-title stars don't actually meet up until one scene near the end. Ridley Scott and Russell Crowe have become a potent box office team but American Gangster belongs to Denzel Washington, once again playing the heavy and like Training Day, a probable Oscar nod for Best Actor. He is brilliant and it's his storyline that really makes the movie sail through 2 and a half hours. All credits are superb especially Harris Savides' cinematography. If you're expecting this years The Departed you'll be disappointed, but go if you want to see Denzel Washington at his absolute best.",
+            "review_date": "2007-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Rating this movie as a 5 is being generous, and I concede that it only rates that score because of Denzel Washington and Russell Crowe. I, too, felt that Frank Lucas was portrayed as somewhat of a hero in this movie and that was terribly Rating this movie as a 5 is being generous, and I concede that it only rates that score because of Denzel Washington and Russell Crowe. I, too, felt that Frank Lucas was portrayed as somewhat of a hero in this movie and that was terribly offensive to me. He was an illiterate, cold-blooded, murdering drug lord who used the coffins of our young American soldiers to smuggle his drugs into this country. He killed a lot more people than we can count. Frankly, there had to be more interesting, worthy stories out there to tell. I am even more offended that this man, when interviewed, comes across as very proud and arrogant. After watching his interview on The History Channel, I regret having spent the money to support this movie.",
+            "review_date": "2007-11-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With 11 Oscar nominations and three wins between them, Ridley Scott (3 noms), Denzel Washington (5 noms, 2 wins), and Russell Crowe (3 noms, 1 win) make one of the most decorated trios this year has seen at the movies",
+            "review_date": "2007-11-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great acting, especially by Crowe, but needed to be more exciting, less detailed.",
+            "review_date": "2007-11-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Movie was very well done. Denzel creates powerful character like always. A must see.",
+            "review_date": "2007-12-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Agree with Ben B above- this is really a very formulaic gangster movie with little originality other than the protagonist being black. The acting was good, but overall I was disappointed.",
+            "review_date": "2007-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Take goodfellas - Chop some off for the brothers - water down some - sell it on cheap. That's the irony right there - shame. But the 7 stands cos it ain't bad. Is this really the BladeRunner Ridley at work here or an old man cappin Take goodfellas - Chop some off for the brothers - water down some - sell it on cheap. That's the irony right there - shame. But the 7 stands cos it ain't bad. Is this really the BladeRunner Ridley at work here or an old man cappin off his pension? Prove me wrong",
+            "review_date": "2008-01-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent film. It doesn't contain gratuitous violence or the same played out gangster tale. The beauty is not only the acting, but the fact that you don't know which character you're pulling for - they're edgy and full Excellent film. It doesn't contain gratuitous violence or the same played out gangster tale. The beauty is not only the acting, but the fact that you don't know which character you're pulling for - they're edgy and full of inconsistencies. It may not be The Godfather, but what else is? This is an effective piece of narrative which captures a time period which is increasingly out of our reach. The director does an excellent job of capturing the feel of the times and weaving the various political and social turmoil.",
+            "review_date": "2008-01-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I have my complaints like most people here (the music -- \"Amazing Grace\" at the end was so trite and a couple of times the score seemed to echo that of The Godfather, but in an awkward way that didn't fit/there was very little I have my complaints like most people here (the music -- \"Amazing Grace\" at the end was so trite and a couple of times the score seemed to echo that of The Godfather, but in an awkward way that didn't fit/there was very little development of Washington's character. We know he learned from the previous boss, but why is he so ruthless?) All that being said, this movie was very enjoyable. I feel like Crowe is easily one of the best actors of our time (A Beautiful Mind, The Insider, Cinderella Man, etc.) and although he didn't have much to work with here, he delivers a very believable performance. Scott might not be at the top of his game, but this film is made will skill and precision. A very entertaining watch that leaves you wanting a bit more.",
+            "review_date": "2008-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Ok, movie as long as you don't expect too many historical accuracies. Some of the scenes were overkill (junkies shooting up; once is ok, twice is I got the point, anything over is a filler because the director is not sure how to make a Ok, movie as long as you don't expect too many historical accuracies. Some of the scenes were overkill (junkies shooting up; once is ok, twice is I got the point, anything over is a filler because the director is not sure how to make a point). Entertaining enough.",
+            "review_date": "2008-02-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thought this movie was slow in some parts and I zoned out during a few parts but other than that I thought the movie was awesome. I like movies that are based on true stories cause its always better when you know something like that really I thought this movie was slow in some parts and I zoned out during a few parts but other than that I thought the movie was awesome. I like movies that are based on true stories cause its always better when you know something like that really did happen. I recommend this movie to anyone of appropriate age. Also you cant go wrong with a Denzel movie, hes usually pretty bad ass.",
+            "review_date": "2008-04-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fireee.... That's the only word I could come up with that would do this film justice in describing it....Denzel's performance is nothing less than spectacular. All of the greatest actors can envoke emotions throughout it's Fireee.... That's the only word I could come up with that would do this film justice in describing it....Denzel's performance is nothing less than spectacular. All of the greatest actors can envoke emotions throughout it's audience without even saying a word....Denzel possesses this ability and uses it almost at will to reinforce every ice cold line in the film. You can't have a championship team without one star...Denzel is this films Montana...and there are a host of great supporters.",
+            "review_date": "2007-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Similar to Michael Mann's Heat, in that the two main actors, Crowe and Washington, do not share the screen until the tail end of the movie, but this film is not as good as Heat. Ridley Scott does a good job of developing the two primary Similar to Michael Mann's Heat, in that the two main actors, Crowe and Washington, do not share the screen until the tail end of the movie, but this film is not as good as Heat. Ridley Scott does a good job of developing the two primary characters, but I found myself not engrossed by their motivations. In the end it really is a run-of-the-mill cops and bad guys flick with some corruption thrown in and cliches. For ex, the obligatory \"wife\" of the gangster who we don't really care for since her character was not developed. Moreover, we don't care about many of the supporting actors here because the story doesn't really flush them out. I honestly don't understand why the critics are crazy about this flick. It's okay, but really not an instant classic. Performances good. Story mediocre.",
+            "review_date": "2007-11-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A disappointing film. Wants to be Godfather (or maybe Scarface?), but falls well short. The performances are solid, the direction is strong and there are some good scenes. But the story as a whole just doesn't rise above a good A disappointing film. Wants to be Godfather (or maybe Scarface?), but falls well short. The performances are solid, the direction is strong and there are some good scenes. But the story as a whole just doesn't rise above a good made-for-TV effort. There's one particularly senseless scene of violence that I guess is supposed to depict just how brutal Denzel's character is... but it's pretty unbelievable when you think about it. And the ending, after all the horrible things that Denzel and his crime organization is responsible for, falls flat. Suddenly he and Crowe's character are good buddies? Please...",
+            "review_date": "2007-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "At the beginning the movie is quite confusing. For a long time one cannot really see what the strand of the black gangster boss who sets up his business with drugs has to do with the strand of the detective and his strange friends. Only when At the beginning the movie is quite confusing. For a long time one cannot really see what the strand of the black gangster boss who sets up his business with drugs has to do with the strand of the detective and his strange friends. Only when the cop becomes the head of a special comission against drugs one starts to understand. Sometimes the movie is quite cruel but I really like the end with the two opposites of the church and the raid and the following trial.",
+            "review_date": "2007-11-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's odd when I call a film with a score of 76 \"underrated,\" but that's exactly what American Gangster is. This is a shocking, captivating, yet soulful portrait of Frank Lucas and 1970s Harlem. Denzel ignites the screen with It's odd when I call a film with a score of 76 \"underrated,\" but that's exactly what American Gangster is. This is a shocking, captivating, yet soulful portrait of Frank Lucas and 1970s Harlem. Denzel ignites the screen with Lucas' cocky, confident swagger, loathing his ememies yet loving his family twice as much. And Crowe matches him stride for stride as Richie Roberts, the morally righteous cop who can't seem to find a balance in his own life. Alonside the performances is miraculous set design, aborbing the essence of 70s Harlem, plus a bonus trip to Bankok and Vietnam. Also, this film in necessarilly long...a shorter film wouldn't do justice for the dozens on intriguing characters that leave lasting impressions, from the watchful eye of Frank's mother to the 4 brothers and their lust for...well...whatever Frank does. American Gangster will rattle you emotionally, but it's still too entertaining to be missed. My only complaint: the bad, bad fake confetti snow...I think Ridley Scott used the shreddings of all the poor scripts he's written.... ...just kidding, I love you Ridley! And may the Academy bestow upon you many Oscars!",
+            "review_date": "2007-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent movie. Great action. Great tension. Very realistic. It kept me interested throuhout.",
+            "review_date": "2007-11-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "High expectations leave a lot of room for disappointment. The film didn't compel me and I wasn't emotionally touched by any of the characters. Just when I started to feel some interest, it fast-forwarded in time, leaving the most High expectations leave a lot of room for disappointment. The film didn't compel me and I wasn't emotionally touched by any of the characters. Just when I started to feel some interest, it fast-forwarded in time, leaving the most important details to be told in words, and not through story development. A real disappointment!",
+            "review_date": "2007-11-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I'm sorry to all those who liked this movie, but I was very disappointed. The brilliant advertising campaign for this movie forgot to include that this movie was only for those with time to waste. Russell Crowe's performance was I'm sorry to all those who liked this movie, but I was very disappointed. The brilliant advertising campaign for this movie forgot to include that this movie was only for those with time to waste. Russell Crowe's performance was very believable, with Denzel Washington's less impressive, but decent. The script here (Scarface with a conscience?) was pretty much like every gangster movie ever made but - guess what! - the main character is African American! That's a great reason to rehash every sad gangster cliche ever penned! The writers of this movie should be forced to make the script more intelligent and the character of Denzel Washington more believable. A disappointment.",
+            "review_date": "2007-11-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Incredible movie. Denzel Washington's performance alone is worth the price of admission.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie and the acting is terrific. By the way, the moderators should remove the JCs below because he/she is trying to influence the score by posting under different aliases of 'JC' in a number of forums on this website.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beautiful in all the right ways, harsh in the same ones.",
+            "review_date": "2007-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Denzel saved the movie a bit too much, he played an awesome gangster but there were few moments it seemed that you noticed the week points, like who put t.i and common playing along side Denzel. it only created a cheezy feeling you kept Denzel saved the movie a bit too much, he played an awesome gangster but there were few moments it seemed that you noticed the week points, like who put t.i and common playing along side Denzel. it only created a cheezy feeling you kept getting reminded of",
+            "review_date": "2007-11-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "To mention this film alongside an original crime masterpiece like Scarface or a modern epic like Heat is a travesty. Surely, the actual events the film is based on carried more insight, intrigue, intensity and human emotion than what is To mention this film alongside an original crime masterpiece like Scarface or a modern epic like Heat is a travesty. Surely, the actual events the film is based on carried more insight, intrigue, intensity and human emotion than what is presented on screen. I love a lot of Ridley Scott's films, Bladerunner, White Squall, Aliens, you name it, but what made those films great and entertaining was their fresh look and depth - depth for detail and fashion, but also character depth. Denzel Washington's character is given presidential treatment here, and the film makes the case for Frank Lucas as a modern day hero. Offensive to me as a black man, that a drug dealer who smuggled heroin in the coffins of U.S. soldiers is immortalized in such a positive light. But besides the ethical questions, the film is all style, boring structure and faux important. Gangster films can be great, but this is posturing. Admit it.",
+            "review_date": "2007-11-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Let me preface this by saying I saw this movie at a 10:15 showing, and I hadn't looked up the run time of the movie, so maybe I was just tired. But I definitely felt every single one of those 157 minutes. I was psyched going into this Let me preface this by saying I saw this movie at a 10:15 showing, and I hadn't looked up the run time of the movie, so maybe I was just tired. But I definitely felt every single one of those 157 minutes. I was psyched going into this movie, but I left feeling tired and slightly irritated. What was the movie about? I don't know, and I don't think Ridley Scott knew either. It's very disjointed and, to me, slightly racist. There didn't seem to be an argument being made, nor was there any definitive through-line. I wanted to care more about Washington's character, but the film wouldn't let me, and I wanted to be more angry at Crowe's character, but he kept being vindicated like a saint. The only message I got in the end was that the good white cop will always win. And that irritated me severely. In conclusion, it was too many characters, not enough plot development, and no message, not even a morally ambiguous one. I realize that it's based on real life, but that's no excuse for shoddy storytelling.",
+            "review_date": "2007-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Long, tedious portrayal of a drug lord as relatively heroic was arduous as opposed to epic.",
+            "review_date": "2007-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good acting - builds and holds interest until exciting finish.",
+            "review_date": "2007-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "After the huge star salaries for blah their performances and the huge Zallian payday for his blah script, I guess there wasn't any money left to buy the real music playing in Harlem in the early 70s. But since this was actually shot in After the huge star salaries for blah their performances and the huge Zallian payday for his blah script, I guess there wasn't any money left to buy the real music playing in Harlem in the early 70s. But since this was actually shot in nondescript blah Canada that's really fitting. Without a single surprising, moving or gratifying moment.",
+            "review_date": "2007-11-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A mostly decent flick with a solid cast. Its a gangster movie set in the early 70s based on the heroine drug trade in America, mostly NY. The stand out actor in this movie for me was Josh Brolin...plays a dirty special detective in NY. A mostly decent flick with a solid cast. Its a gangster movie set in the early 70s based on the heroine drug trade in America, mostly NY. The stand out actor in this movie for me was Josh Brolin...plays a dirty special detective in NY. Anyway - t...(read more)his is a \"new\" take on the typical gangster movies you've been watching for years but it is still littered with the dirty cop, Italian mafia, ghettos full of junkies stereotypical images you've seen on TV and the big screen in those same years. Most of the actors seem to stretch themselves except Denzel...he plays Denzel playing a drug trafficker. Denzel's base is good, but it'd be nice to see him get out of his comfort zone...a lot. Make this part of your Netflix list.",
+            "review_date": "2007-12-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one of the more overrated films of the year. Oh, it has its good points; Washington and Crowe are superb; the supporting cast is fine and the cinematography and production design are firstrate. However, its much too long and really This is one of the more overrated films of the year. Oh, it has its good points; Washington and Crowe are superb; the supporting cast is fine and the cinematography and production design are firstrate. However, its much too long and really hasn't much to say that hasn't been said before, and said much better. Anyone remember \"The Departed?\"",
+            "review_date": "2007-12-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "very good a brillant part from both washington and crow v sad at the same time and a bit to long for 3 hours but excellant",
+            "review_date": "2007-12-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Well scripted and interesting story with excellent camera work and directing. Superb performances from Washington and Crowe makes this a must to see.",
+            "review_date": "2007-12-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good movie, good plotline, good acting... However the entire movie never really seemed to get a steady pace, and after two something hours, they rushed to the ending.",
+            "review_date": "2007-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fantastic film. Great director, actors!",
+            "review_date": "2007-10-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I guess I can understand what David Edelstein is saying in his review, but he's not understanding what the point of the movie is. It's not about blood, or long violent scenes like Scarface(that's what sells, right?). It's I guess I can understand what David Edelstein is saying in his review, but he's not understanding what the point of the movie is. It's not about blood, or long violent scenes like Scarface(that's what sells, right?). It's about history. It's also about telling the truth while keeping it interesting. Weird, isn't it? This movie is not \"rapid\" or \"hectic\", it's perfect in pace. Is it \"poised to be a major commercial hit\"? Depends on your definition of poised. This movie certainly has what it takes to get under the skin of the average movie goer, and still entertain those who truly love Hollywood when it allows real style and grace to the surface, while still shocking us with truth. Washington is as good as he'll ever be, and, don't fool yourself for a moment, he'll get a best actor nod for this. Crowe is a little light, but being honest isn't supposed to be any other way. He'll get a nod for supporting actor. The movie will surely be on the \"best\" list as well, and it deserves to be. A true American Classic!",
+            "review_date": "2007-10-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Pretty disappointing. Had a great story, great actors, and a great director/producer - but somehow it didn't all add up. Overly long and lacking character development.",
+            "review_date": "2007-10-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fair movie. Not my favorite, but not bad. This was an intresting movie. however, to much senseless acts, like when Densel shot that guy from point blank in the street. I was lost at that part. More of a rip off of The Godfather just it is Fair movie. Not my favorite, but not bad. This was an intresting movie. however, to much senseless acts, like when Densel shot that guy from point blank in the street. I was lost at that part. More of a rip off of The Godfather just it is the Black Mafia instead of the Italien Mafia. Yes, wasn't that bad of a movie. Definately doesn't deserve below a 5. P.s. To all those people who don't like the really good movies calling them over rated or that there is better movies of this genre, I'm sorry, but you have to think in the mind of the people who DO like this genre. Maybe you don't like the type of genre. But, the people who don't like the genre arn't going to see the movie. It's the people who do like the genre that are going to see it.",
+            "review_date": "2008-12-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing idea. needed better execution. it was missing the bad ass moments that make him look like the boss. such as him blowing off a guys leg or throwing a guy off the roof or something like that. thats what these kind of movies prey on. Amazing idea. needed better execution. it was missing the bad ass moments that make him look like the boss. such as him blowing off a guys leg or throwing a guy off the roof or something like that. thats what these kind of movies prey on. still a good movie. and the director is a cool guy.",
+            "review_date": "2008-02-24",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 138
 }

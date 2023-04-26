@@ -1,632 +1,676 @@
 {
-  "title": "Terminator 2: Judgment Day",
-  "rating": 8.9,
-  "release_date": "1991-07-03",
-  "genre": [
-    "Action",
-    "Sci-Fi",
-    "Thriller"
-  ],
-  "summary": "In a future, war-ravaged Los Angeles in which the machines have taken over the earth, a faction of human rebels led by an adult John Connor do battle with the cyborgs. Two \"intelligent machines\" have been dispatched to the past, one -- a replica of the Terminator model T-800 which dominated the original film -- to protect the young Connor,In a future, war-ravaged Los Angeles in which the machines have taken over the earth, a faction of human rebels led by an adult John Connor do battle with the cyborgs. Two \"intelligent machines\" have been dispatched to the past, one -- a replica of the Terminator model T-800 which dominated the original film -- to protect the young Connor, the other -- a shape-shifting metallic T-1000 -- to kill him. … Expand",
-  "critic_reviews": [
-    "A great movie... A pop epiphany, marking that commercially creative point where the power of Hollywood meets the purity of myth.",
-    "Because it is a sequel, it's less satisfying than the more idea-driven original, but this is still top-flight kick-ass entertainment",
-    "Cameron's achievement isn't only technical. He's using all the not-so-cheap thrills of a violent genre to make a movie with an antiviolence message, and the wonder of T2 is that he pulls it off without looking silly.",
-    "The key element in any action picture, I think, is a good villain. Terminator 2 has one, along with an intriguing hero and fierce heroine, and a young boy who is played by Furlong with guts and energy.",
-    "T2 features bigger, bolder, more energetic action sequences than its predecessor.",
-    "The movie is a great big feast of wreckage. But that’s also what makes it a bit numbing.",
-    "As with \"Aliens,\" director James Cameron has again taken a first rate science fiction film and crafted a sequel that's in some ways more impressive - expanding on the original rather than merely remaking it.",
-    "Visceral to the point of overkill (and beyond), a berserk blizzard of kinetic images, it doesn't even give you time to be scared.",
-    "The action in Terminator 2 is edited for maximum suspense, and much of it is mounted on such a grand scale that little in movie history comes close. (Scenes in last summer's Die Hard 2 did, but they lacked the finesse of the new film).",
-    "The film's relentless pummeling grows wearying at 135 minutes. The first Terminator, a half-hour shorter, was leaner and meaner.",
-    "It's a joyride until you think about the film's biggest contradiction. How come this movie celebrating the superiority of human feelings over machine precision is most alive when thrilling in the mechanical perfection of the Terminator and T-1000? Inside Terminator 2 beats a human heart. But its soul is that of a killer machine.",
-    "Trend-setting visuals compensate for a plot that lacks the imagination and edge of the 1984 original.",
-    "Mr. Cameron has made a swift, exciting special-effects epic that thoroughly justifies its vast expense and greatly improves upon the first film's potent but rudimentary visual style. He has also broadened his initial idea to encompass better developed characters (after all, the first Terminator was barely verbal), a livelier wit and a more ambitious, if nuttier, message.",
-    "What is notable, though, is the amount of compassion invested in the film by Cameron and co-screenwriter William Wisher. There's a fairly well-drawn moral message in T2 that was more or less absent in the first film.",
-    "All the virtues of the original... are present here, though when Cameron tries to milk some sentiment out of the \"personality\" and fate of his top machine he comes up flat and empty, and the other characters are scarcely more interesting.",
-    "If you change the course of history, the world will experience a different kind of chaos. That's a time-honored movie cliche. Terminator 2: Judgment Day chooses to go against that philosophy, noisily and with some monotony."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "This is a prime example of a grade-A action film, it's got drama, family values, action moments with meaning which aren't just random \"spur of the moment\" scenes added for filler, each scene has a reason and direction with where they're goingThis is a prime example of a grade-A action film, it's got drama, family values, action moments with meaning which aren't just random \"spur of the moment\" scenes added for filler, each scene has a reason and direction with where they're going with the film as a whole.  The soundtrack, my god the soundtrack, the instrumentals are completely memorable, and i bet the intense intro song will be pounding in your head days after you've finished watching it.  It's one of the most memorable and highly underrated, from the looks of the critic scores on here, action movies of all time.",
-      "review_date": "2011-04-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The first Terminator was a very good film but this sequel took the franchise to a level it hadn't reached before or since.\r With Sarah Connor from the original movie now institutionalised her son, and future leader of the resistance againstThe first Terminator was a very good film but this sequel took the franchise to a level it hadn't reached before or since.\r With Sarah Connor from the original movie now institutionalised her son, and future leader of the resistance against the machines, John Connor is living with Foster parents. The machines that rule the future send back a cyborg, played by the terrifying Robert Patrick, whilst the humans send back their own cyborg to protect him. Schwarzenegger again excels in a role he was born to play, his voice and physique suiting his cyborg character perfectly.\r This all leads to a series of truly memorable action sequences that still largely stand up today in terms of special effects. Add to this a surprisingly good script for what is largely an action fare and you have the ultimate action blockbuster.",
-      "review_date": "2013-05-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "First off, I would give this a 9.5 out of 10. This is a great sic-fi. The best terminator movie. Acting is good. Everyone does a good job. Score is good, and has a really good story. Really well made. The visual effects and action sequencesFirst off, I would give this a 9.5 out of 10. This is a great sic-fi. The best terminator movie. Acting is good. Everyone does a good job. Score is good, and has a really good story. Really well made. The visual effects and action sequences are great. Well made and are just amazing. Overall, this is a great 90s action blockbuster. You really should see it.",
-      "review_date": "2012-04-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Yeah well, I am usually very critic about science-fiction movies, but this time the whole thing comes with a lot of action (exceptionally well done), and some light humor, which is not interfering with the mood of the movie. The timeYeah well, I am usually very critic about science-fiction movies, but this time the whole thing comes with a lot of action (exceptionally well done), and some light humor, which is not interfering with the mood of the movie. The time traveling aspects (yeah I know I am picky) are somewhat \"flawed\", but nothing I could not overlook (like in the case of Looper). One of Arnie's best, and the villain is also remarkable. Will remain a classic. The special effect were all very advanced back in the day. Some looks cheesy nowadays, but not bad. Recommended.",
-      "review_date": "2013-05-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Maybe the critics don't like this one, but for viewers it is first class entertainment.Great action and special effects keep you on the edge of your seat for the entire movie. Classic - the best in the series. Watch it - it's hard Maybe the critics don't like this one, but for viewers it is first class entertainment.Great action and special effects keep you on the edge of your seat for the entire movie. Classic - the best in the series. Watch it - it's hard not to have a great time.",
-      "review_date": "2006-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Epic",
-      "review_date": "2011-08-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "T2 will never be equaled. If they sent Bach's music into space, they should have sent this film along with it. The Director's cut is a bit less concise but the original cinema release is devoid of any slip-ups. Each scene is there for aT2 will never be equaled. If they sent Bach's music into space, they should have sent this film along with it. The Director's cut is a bit less concise but the original cinema release is devoid of any slip-ups. Each scene is there for a reason and shows us something new. The strength and weaknesses of the characters are clearly seen, but they are not brought to attention in a ham-handed way. The use of CGI is avoided for much of the film which is a godsend especially in the context of modern films. There are too many reasons to list as to why this film should be forever lauded... Aside from being the pinnacle of action films it teaches us some real lessons about the cost of human life.",
-      "review_date": "2013-05-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you thought the first Terminator Movie was good then this is double the action and double the story. Great character development, More action, more explosion's and more heart. It is just one huge spectacle.",
-      "review_date": "2013-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2 is an amazing and enjoying thrill ride that is one of the best action movies ever. The plot is very well constructed, the acting (especially Arnold Schwarzennegger's Terminator) is top-notch and very memorable. The amount ofTerminator 2 is an amazing and enjoying thrill ride that is one of the best action movies ever. The plot is very well constructed, the acting (especially Arnold Schwarzennegger's Terminator) is top-notch and very memorable. The amount of depth each character has is just amazing and you identify with each character, there is such an emotional charge to each moment that you are sucked into the movie. The action scenes are top-notch and will keep you enthralled in it, there are many in the movie and suspense is well-maintained when needed as well. The movie is sure to be remembered and quoted every time for a long time (\"Hasta La Vista, Baby\"). Flaws, there are hardly any except for maybe it can be a bit lengthy and the action takes some time to get interesting but once it does it's awesome and it is a small flaw though. Overall, Terminater 2 is a smash-hit movie that is an example of a super-action flick deftly crafted with emotion that will be remembered forever and is almost as good as the first one. Breakdown for \"Terminator 2: Judgement Day\": Presentation: 9.7, Plot: 9.8, Acting: 9.9, Script: 9.7, Lasting Appeal: 10, Verdict: 9.8 out of 10 \"Amazing\".",
-      "review_date": "2011-12-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A continuação que conseguiu ser melhor que a original.A continuação que conseguiu ser melhor que a original.    ",
-      "review_date": "2014-01-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My all time favourite movie! Great plot, awesome special effects and dialogues that are still alive.\rTerminator looks like a real killing machine and you are afraid of him. Love it!",
-      "review_date": "2013-10-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThough Titanic may not be my optional favorite I have to say James Cameron knows how to make great sequels, just like Aliens Cameron now those his own Terminator franchise\r Arnie (Schwarzenegger) is Back! as the Terminator who previously under the command of the renegade robotic computer system Skynet was sent back in time to execute Sarah Connor and her then unborn son John Connor, who is destined to be the future leader of the human rebellion. now reprogrammed to save them both the terminator must now square off against his replacement the intelligent T-1000 who has the power to cyberform into liquid metal making it almost completely unstoppable as the three must now form an unlikely alliance and prevent Skynet's predecessor Cyber-Dyne systems from gaining full fruition.\r A well done A+ oscar winning sci-fi action flickl and probably as grand as its prequel and easily standing among Aliens and Star Wars Episode 5 is a explosive achievement in Cameron's charismatic career",
-      "review_date": "2015-05-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Despite what has happened both in Arnold Schwarzenegger's personal and political life, there can be no changing of the fact that Arnold helped make some of the most thrilling, action-packed adventure movies to ever grace the big screen backDespite what has happened both in Arnold Schwarzenegger's personal and political life, there can be no changing of the fact that Arnold helped make some of the most thrilling, action-packed adventure movies to ever grace the big screen back in his prime. If the first movie was good with Arnold being the evil Terminator hunting down the seemingly innocent Sarah Connor (while utilizing some very top notch special effects by 1984 standards,) this 1991 sequel is even better with Arnold being the good Terminator trying to prevent John Connor from being hunted down. This movie is well-placed, and focuses mainly on the three main characters, John, Sarah, and the now good Terminator as it should. This movie also gets high marks from me as it featured special effects that were WAY ahead of its time, courtesy of the new, evil Terminator that can regenerate its body, even when it's broken into dozens of pieces! This movie demonstrates that while we don't know for certain what is going to happen in the future, we are always in control of what happens in the present, and therefore, we all play a hand in shaping what the future will eventually have in store for us. I thoroughly enjoyed this movie, and I highly recommend it to people looking for some great thrills!",
-      "review_date": "2011-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2 is a perfect movie. That's why all the sequels have been mediocre. Its hard to improve on perfection. My number 1 movie of all time......",
-      "review_date": "2016-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "T2 is the best out of all the Terminator movies. What we have here is a masterfully made movie that tell the story of a future war fought in the past with not one but two terminators. Model 101 (Arnold) is the good guy and the cool T-1000 T2 is the best out of all the Terminator movies. What we have here is a masterfully made movie that tell the story of a future war fought in the past with not one but two terminators. Model 101 (Arnold) is the good guy and the cool T-1000 (Robert Patrick) is the seemingly invincible bad guy. The movie has suspense, action, and even some humor. T2 defines what classic movies are.",
-      "review_date": "2006-05-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "alsome explosians, killer robots from the future, and some big guns= the best movie in the famous series so far.",
-      "review_date": "2007-12-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2 is one of the defining roller-coaster rides of modern cinema. It takes the original film and builds something much deeper upon it, much like director Cameron did with the Alien franchise a few years earlier. Ultra memorable sceneTerminator 2 is one of the defining roller-coaster rides of modern cinema. It takes the original film and builds something much deeper upon it, much like director Cameron did with the Alien franchise a few years earlier. Ultra memorable scene follows ultra memorable scene in this all-time SF classic. Seriously... You cannot afford to miss this movie!",
-      "review_date": "2014-08-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is easily one of the best movies ever made. The script is top notch and acting is convincing and true. The soundtrack and graphical effects are great even for today. Amazing!",
-      "review_date": "2011-04-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is James Cameron at this best. Terminator 2 doesn't just surpass the original but it gives us one of the greatest sequels of all time.",
-      "review_date": "2020-01-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "With fantastic visuals and excellent pacing, this movie boasts exactly what a sequel should look like. It has more in-depth emotion between characters, and overall, it's a much better presented film than the first. This is probably one of theWith fantastic visuals and excellent pacing, this movie boasts exactly what a sequel should look like. It has more in-depth emotion between characters, and overall, it's a much better presented film than the first. This is probably one of the best sci-fi movies made.",
-      "review_date": "2014-03-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Brilliant, action-filled sequel, superbly directed by James Cameron.  The acting is top knotch, the suspense relentless, and the special effects are mind blowing.  A rare film that lives up to, and even outdoes, the original.",
-      "review_date": "2012-09-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a perfect example of an amazing sequel. It's truly better than the original in everyway. It was more intense, more action-packed and definitely had more quotable lines than the first one. As far as the story goes, it's an interestingThis is a perfect example of an amazing sequel. It's truly better than the original in everyway. It was more intense, more action-packed and definitely had more quotable lines than the first one. As far as the story goes, it's an interesting and engaging story. It's a pulse pounding sci-fi story. That's what helps make for an awesome sci-fi thriller. As far as characters go some have there moments, but none of them were as bad-a** as the Terminator (Arnold Schwarzenegger) and T-1000 (Robert Patrick). Watching those two fight was movie magic. But what really makes this movie awesome is it's super cool action and visual effects. Most action movies now of days tend to have great action, but a weak story. This movie held on to both contexts and gave it all it got in this riveting sequel. Overall, It's a rare, tremendous blockbuster done right.",
-      "review_date": "2013-05-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "He’s back! This second Terminator film truly is greater in every way.\r In comparison with the first Terminator film is this second installment much better when it comes to action sequences, practical effects and storytelling. The majorHe’s back! This second Terminator film truly is greater in every way.\r In comparison with the first Terminator film is this second installment much better when it comes to action sequences, practical effects and storytelling. The major improvement is of course the villain: the T-1000. He’s so scary and awesome at the same time. Arnold Schwarzenegger, Linda Hamilton and Edward Furlong are all spectacular actors, and their characters are so incredible and you really feel close to them. The actors are much more professional now than in the first film. There’s a massive amount of action in this movie, and there’s a huge amount of cool and unique things at the same time. The action is much faster and there are spectacular practical effects that just look incredible. The first Terminator film got some doll models, but this does not. Terminator 2: Judgment Day is a highly entertaining and well-made film that got a touching story and even some humor! The opening scene and the ending are both great, even though the ending felt a bit to rash. The soundtrack is also great, but it could have been even groovier, which could have made the film even cooler and dramatic.\r This movie got it all: great science fiction, awesome action sequences and fantastic storytelling. Not to mention the incredible script.\r Terminator 2: Judgment Day gets an 8.8/10.",
-      "review_date": "2014-12-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie takes everything that i loved about the original terminator but fixes the complaints i had. You get to hear more of the terminator backstory. The movie is filled with rememberable quotes, it also had a few surprises in it.",
-      "review_date": "2014-09-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2's concept may be a copy of its predecessor, but here with its obviously larger budget, it's done so much better. In fact, it's a freaking masterpiece. It's the definition of a sequel done right. So brilliantly, excellently,Terminator 2's concept may be a copy of its predecessor, but here with its obviously larger budget, it's done so much better. In fact, it's a freaking masterpiece. It's the definition of a sequel done right. So brilliantly, excellently, perfectly right.",
-      "review_date": "2015-06-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the few sequels that beats the original. More action, a down-to-earth feeling and the return of the perfectly acting Schwarzenegger make Judgment Day a classic.",
-      "review_date": "2013-12-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator is one best action films ever. Its realistic ,  it takes to a wild journey robots face to face doing an action war between  Schwarzenegger and  Robert Patrick. This is one of movies that  change the world in the 90's  you didn'tTerminator is one best action films ever. Its realistic ,  it takes to a wild journey robots face to face doing an action war between  Schwarzenegger and  Robert Patrick. This is one of movies that  change the world in the 90's  you didn't have any description of what the future's gonna be like if it was bad or good ( you never know.) from writer , director James Cameron's view of the future you know his message in  the film whether you understand it or not you have time to save  before an impact  between your life or the consequences between death or a unexpected thing that you do in the future that leds to war. thats what terminators about. Grade A+",
-      "review_date": "2014-09-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A masterpiece of scifi cinema so good that even genre haters love this film.",
-      "review_date": "2018-09-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "68.... En conclusión de todas las criticas de los \"profesionales\" saco 68.... !!!DEBIÓ SACAR 98!!!\rEsta película básicamente es la misma trama que en la primera, un exterminador enviado a acabar con el líder humano del futuro. Aun así esto68.... En conclusión de todas las criticas de los \"profesionales\" saco 68.... !!!DEBIÓ SACAR 98!!!\rEsta película básicamente es la misma trama que en la primera, un exterminador enviado a acabar con el líder humano del futuro. Aun así esto es mucho mas. Aquí muestran mas emociones, hay mas personajes los cuales son interesantes, aquí puedes ver como los acontecimientos de la primera película cambiaron el futuro haciendo posible al T-1000, esto expande mucho la anterior. James Cameron supero a la anterior, que también dirigió, y le dio un final épico a esta serie. Esta película es una obra maestra, tiene dialogo inteligente, momentos de exposición y hasta algunos cuantos de comedia y todo termina encajando de una manera increíble. Esta película es increíble, mirala tan pronto termines de ver Terminator 1. Los efectos especiales también son muy buenos para la época y hasta casi todas las heridas del T-1000 son animatronicos, no miércoles de CGI sino animatronicos individuales. Esta película es increíble y lo único malo de esta es que Cameron dejo esta serie por que la termino y las nuevas siempre van a sufrir de la sombra de Cameron. También tiene detalles que los personajes aprenden, búscalos son interesantes. Le doy un 10/10, es como Aliens el regreso, una película que mezcla sus elementos paradarnos un manjar exquisito.",
-      "review_date": "2014-12-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2: Judgment Day is the best film in the series. One of the best films from James Cameron. A standard in the thriller genre, breakthrough computer graphics for the early 1990s. And of course T1000 one of the most memorableTerminator 2: Judgment Day is the best film in the series. One of the best films from James Cameron. A standard in the thriller genre, breakthrough computer graphics for the early 1990s. And of course T1000 one of the most memorable characters in the franchise. All that happened after this film in the series is not the Terminator, but his likeness.",
-      "review_date": "2020-10-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Better than the first movie but it still doesn´t reach that memory that i has a kid",
-      "review_date": "2021-12-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It is tough for a sequel to be better than the first film, but T2 pulls off the close to impossible.  Absolutely the BEST Terminator film to date and a sequel all sequels should be put up against in terms of quality, story etc.",
-      "review_date": "2019-03-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Do I really have to say anything for this one? If you haven't watched this yet you are probably young.You really have to watch this movie. This might be one of the best movie of all time.\n\nArnold was such a beast back in time and this movieDo I really have to say anything for this one? If you haven't watched this yet you are probably young.You really have to watch this movie. This might be one of the best movie of all time.Arnold was such a beast back in time and this movie is such a gem for him to be in it. Nobody could have done better than him for that role.Sarah Connor played by Linda Hamilton is also what any true real feminist should thrive for. This is an amazing character played by an amazing women. This have nothing to do with the nonsense SJW modern feminazi toxic stuff that we are currently experiencing.",
-      "review_date": "2019-03-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2 is one of the best action-movies and sequels ever made. Almost every scene is iconic and the story of a guardian who is sent back in time is somewhat timeless. It's not the most intelligent movie, but it doesn't have to be,Terminator 2 is one of the best action-movies and sequels ever made. Almost every scene is iconic and the story of a guardian who is sent back in time is somewhat timeless. It's not the most intelligent movie, but it doesn't have to be, although it has some interesting things to say about the future of artificial intelligence, it's just buried somewhere inbetween all the explosions.A must-watch for everyone who even remotely likes action movies.",
-      "review_date": "2021-02-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Terminator 2: Judgement Day\" is a rare blockbuster that overly exceeds its prequel with mind blowing action, unforgettable scenes, and deep character relationship / development. It is a simple masterpiece.",
-      "review_date": "2011-09-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "For me this is one of my favourite films of all time, if anyone doesn't like this then they clearly have mental problems. How can some of critics who gave this film a score in the red live with themselves",
-      "review_date": "2012-01-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Striking a perfect balance between well acted drama and intelligent, edge of your seat action, James Cameron's follow up to The Terminator is bigger and better in every sense of the word.",
-      "review_date": "2015-07-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is even better than the original, it is just Nostalgia, excellent graphics which were great back in 1991, and are still great, the T-1000 is even scarier than Arnie in the first one, and guess what he's back.\rHasta La Vista Baby!",
-      "review_date": "2014-02-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best movie sequels ever made and lives up a franchise that should've ended here, Judgment Day is nothing personal to talk about other than this review right here.",
-      "review_date": "2016-01-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "How can someone say this is overrated? There's no room for improvement. It was short and sweet, well thought out, epic, logical, engrossing. It had soft spots, action, tons of character development, just too many great scenes to How can someone say this is overrated? There's no room for improvement. It was short and sweet, well thought out, epic, logical, engrossing. It had soft spots, action, tons of character development, just too many great scenes to mention. Terminator 2 is satisfying, like a good meal that you never get tired of eating.",
-      "review_date": "2009-12-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A sequel with even more action, another sharp plot, and fantastic performances. James Cameron shows a lot of unique ideas and cool (although dated by today's standards) special effects. It loses the dark, almost noir-esque tone from theA sequel with even more action, another sharp plot, and fantastic performances. James Cameron shows a lot of unique ideas and cool (although dated by today's standards) special effects. It loses the dark, almost noir-esque tone from the previous film. It's definitely is focused on being more of a big spectacle action film.\r However the film doesn't lose it's brain as a result. It's still a thoughtful sci-fi film. The time traveling aspect is handled well. Some light touches of humor and emotional drama make it a movie that can be more accessible to a wider audience. Thankfully, without losing too much of what made it's predecessor so great.\r Cameron shows he isn't afraid to change things up for his sequel. Grander ambition all around make it a sequel that's better than it's predecessor in just about every way. With a standout performance from Schwarzenegger, meticulously crafted action, and cool sci-fi elements, and you have a film that can please just about everyone. It's an action film with more brains behind it than the average affair.",
-      "review_date": "2015-11-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2: Judgement Day is so outstanding and fascinating! I love it more than the first one because the story in this one is more enjoyable to me.",
-      "review_date": "2018-04-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is, in my honest opinion, one of, if not the greatest film ever made.  Effects that still hold up today, exhilarating action, very well performances, especially by Schwarzenegger and Hamilton, and a one of the best plots I've ever seenThis is, in my honest opinion, one of, if not the greatest film ever made.  Effects that still hold up today, exhilarating action, very well performances, especially by Schwarzenegger and Hamilton, and a one of the best plots I've ever seen in a movie.  If you haven't seen this, you are doing yourself a disservice.",
-      "review_date": "2014-07-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My score 99Metascore / User score 75 / 91Tomatometer / Audience score 92 / 94IMDB 85(89.3)",
-      "review_date": "2018-10-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "this sequel beats the original in just one shot for its neat special effects, great acting, and awesome action scenes.",
-      "review_date": "2010-10-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "T2: Judgment Day is a violent, brutal, entertaining film which delivers on all levels. With heart racing set-pieces and some of the best action sequences in film T2: is not only a great action movie but one of the best movies ever.",
-      "review_date": "2012-10-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I see many people in this film very much liked century, but for my part, did not seem as good as the first    .",
-      "review_date": "2015-10-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2 is a nice action movie, but movies don't come more overrated.",
-      "review_date": "2008-01-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "From watching this movie I thought the graphics were **** and that they could of done better with the ending it's just them distorting the chips in liquid that completely does NOT look like actual melted metal. SoFrom watching this movie I thought the graphics were **** and that they could of done better with the ending it's just them distorting the chips in liquid that completely does NOT look like actual melted metal. So PipeBomb!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-      "review_date": "2012-12-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The only James Cameron movie I believe truly deserves a perfect score of 10. A classic that will be remembered by ages, but unfortunately, is in the shadows of Cameron's big and overrated movies like Titanic and Avatar.",
-      "review_date": "2010-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "While the acting is pretty terrible and plot could have been better, The good use of special effects and the solid action through out make up for it. I enjoyed it.",
-      "review_date": "2011-12-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Probably famous for being one of the few movies out there that is better than it's predecessor, this is one movie that I think is actually not as great as the last one. Allow me to explain. The first one I thought had better subtext about warProbably famous for being one of the few movies out there that is better than it's predecessor, this is one movie that I think is actually not as great as the last one. Allow me to explain. The first one I thought had better subtext about war and the dangers of technology, this one however does still have bits of that located in it somewhere, but is more focused on trying out new types of effects. Not that's bad, this has some of the best action out there. Some of the things I am disappointed about is the opening, it's the same as the last one, but doesn't have that same flare that it had. The effects overall in this film are quite entertaining and are still pretty good for todays standards. Arnold is still good, for not showing emotion, but the scenes where they try to insert humor for him don't always work. Unfortunately I think that this is one of Arnolds last movies that he stars in and does well, afterwards is a steady decline. The main cast does pretty well to, definitely some believable characters. The villain is really good in this, even though it's a clone of Arnolds performance in a way, he's very imposing and at times scary. This is definitely a awesome movie, but compared to the last one it's just not as well written.",
-      "review_date": "2013-05-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best movie sequels of all time and it earned its place in movie / pop culture history. It was carefully made, plays with expectations and delivers an amazing experience. It had a good mixture of action, character development withOne of the best movie sequels of all time and it earned its place in movie / pop culture history. It was carefully made, plays with expectations and delivers an amazing experience. It had a good mixture of action, character development with an immersive story. Lets start at the beginning: The Terminator was already a really good experience and the story could easily be continued. It is the standard Hollywood rule that if a movie is successful enough you get a sequel no matter what (Curse and blessing of the industry).  It took still quite a while until they started. A frequent reason I read were production issues and that the special effects technology was not good enough. However after solving the issues they could start. Luckily they get the best assets back with James Cameron, Arnold Schwarzenegger and Linda Hamilton atop of many people behind the screen. The story is set approx 10 years after the prequel. The supercomputer Skynet who is at war with humanity in the future sends another Terminator to get rid of John Connor who will lead the human resistance to victory. Again the resistance does send one of them back to stop the Terminator. This sounds firstly like a warmed up retelling or re-shoot of Terminator 1 but you will be surprised how good the story will become and how much effort was put into it (I am vague on purpose to avoid spoilers). The story itself has a lot of good ideas some twists and a mixture of action, story telling and character development / interaction that makes it hard to find flaws. Of cause you can find smarter solutions for Skynet to eliminate John like a virus pandemic or a high bounty to let ruthless humans do the hard work. However these are just thoughts or ideas and will not be used against the movie. I will continue with the actors. Arnold Schwarzenegger returns to his most iconic role and fully delivers. Same goes for Linda Hamilton as Sarah Connor. She also fully delivers and got a lot of character development.  Then we got Robert Patrick who is the best addition to the movie. Edward Furlong as (young) John Connor is one of the few good child actors that also started successful career later. He is absolutely believable and relatable. I want to point out for the rest of the cast that there is not one missed scene or awkward acting moment I can remember. Everything fits into the narrative and I think I should praise James Cameron as director (also writer and producer). Visually the movie sets new standards for its time. Be it the sets or especially the special effects. While some special effects look not that impressing today they were amazing and baffled the audience. Then there are of cause the action sequences and they do nothing halfhearted. Often I hold my breath because these were so intense, immersive and entertaining. The stunt team deserves credits. Overall this is rightfully named as one of the best sequels of all times and outclasses the prequel. It is one of the most well know movies of all time, pop culture legend and so carefully made that it is easy to recommend. It is the best of the franchise and the kind of movie all later installments try to reach or surpass (Hint: They never came close again).",
-      "review_date": "2021-03-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nBefore you all murder me for what I'm about to say, just hear me out. Terminator 2 is an average film, and I'll tell you why:\r Pros:\r 1. Special Effects.\r2. The T-1000.\r3. Proves that sequels don't always run out of ideas.\r4. The fights are good (but get kind of repetitive eventually).\r5. \"Hasta la vista, baby!\" is almost as good as the classic \"I'll be back.\"\r6. After eight years, Arnie still looks hip and young.\r Cons:\r 1. The lack of suspense, unlike the first film.\r2. The T-800 says he won't kill anyone, but he eventually kills numerous cops.\r3. The action feels almost identical to the first Terminator.\r4. The part where Sarah Connor narratez the movie when John and the T-800 bond is emotionless.",
-      "review_date": "2015-11-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I'm surprised this horrid creation turned out to be a classic. \"Terminator 2: Judgment Day\" is basically the same film \"The Terminator\" was, only with better effects.",
-      "review_date": "2016-10-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Terminator estuvo bien, pero Judgement Day es fácilmente harina de otro costal, marcó un antes y un después en el cine de acción, todo lo que la primera película hizo bien, aquí es superado a niveles inimaginables y estableció a SarahThe Terminator estuvo bien, pero Judgement Day es fácilmente harina de otro costal, marcó un antes y un después en el cine de acción, todo lo que la primera película hizo bien, aquí es superado a niveles inimaginables y estableció a Sarah Connor como uno de los mejores personajes femeninos de todos los tiempos, todo lo que vino después no es ni la mitad de bueno de lo que esta película es.",
-      "review_date": "2021-01-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the Greatest Action Films Ever Made and One of the Greatest Films Ever Made. The Action that is directed in this movie is extremely exciting, the performances by the actors is very real, Arnold is the Terminator/T-800, and the writingOne of the Greatest Action Films Ever Made and One of the Greatest Films Ever Made. The Action that is directed in this movie is extremely exciting, the performances by the actors is very real, Arnold is the Terminator/T-800, and the writing for this film is fleshed out perfectly!",
-      "review_date": "2016-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThe sequel of The Terminator (1984) was way better than I expected. Because of the ratings in many websites like Rotten Tomatoes, the first one (100%) was rated higher than this one, the sequel (93%), also in Metacritic was the same, Terminator in 1984 got 84% and Judgment Day just got 75%. Metacritic rated so terribly. But in IMDb was fair. The Terminator Saga is one of the franchises that had its sequel better the the original like the Spider-Man Trilogy directed by Sam Raimi or the X-Men franchise.  Schwarzenegger was still T-800 but with a different mission. The last time we saw him as a villain, well in here he was sent to protect Sarah Connor (Linda Hamilton)’s son, John Connor (Edward Furlong) who would lead an army to destroy the machines in the future. He was still a kid that time but his performance wasn’t bad. He was great with different emotions and good acting. In here, I liked Hamilton’s performance more than the previous film, she was a mother, a badass fighter and she was addicted to cigarettes. I also loved the way she looked but I didn’t like the way she got drunk. Schwarzenegger just got much better. In here, there’s a new villain called the T-1000 played by Robert Patrick, a better and more modern prototype. He could morph into liquid metal and used his hand as various weapons. The way the CGI was edited was really awesome. The cinematography was great as well. It was filled with a lot of great and classic moments. The action sequence here was a lot better, especially the liquid metal (I’ve already mentioned that) and the battle between the good guys and the SWAT. The CGI was well-edited there with lots of shooting and explosions caused by Schwarzenegger’s T-800.  The strong violence and sci-fi actions didn’t really make this move deserve an R-Rated. It was totally safe for 13 and 14 year-olds. I didn’t  see anything too bloody, just T-800 cutting his arm, that’s it. I really didn’t like the idea the the whole Terminator Saga would be rated R. It’s just sci-fi, actions and little violence.  Nobody would be afraid, they’re gonna like it. That’s something I don’t like about the movie and the rest of the Saga. The final battle was extremely epic when T-1000 knocked down T-800 and then Sarah came to knock some of T-1000’s ass. Then T-800 came up lying on a giant clockwork and holding a rifle that caused destruction shot at T-1000 and he fell into the lava (maybe?) and melted. The way the villain died was just so satisfying.  This is one of James Cameron’s masterpieces of sci-fi. He got really good with the CGI and I’m looking forward to see the 3-D version of Judgment Day released in 2017 with better cinematography and maybe I could feel that I’m in there. This one was definitely my favorite of the Terminator Saga.Ratings: 9.4/10",
-      "review_date": "2019-05-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Consideravelmente superior ao primeiro. Conta com um tom cômico que funciona muito bem, cenas de ação boas, personagens ótimos - deram vida a Sarah, ainda bem; e cenas icônicas que marcaram o cinema pra sempre.Audio: English, no subtitlesConsideravelmente superior ao primeiro. Conta com um tom cômico que funciona muito bem, cenas de ação boas, personagens ótimos - deram vida a Sarah, ainda bem; e cenas icônicas que marcaram o cinema pra sempre.Audio: English, no subtitles [15°]. Q60T 50' TV Speakers [DTS 5.1]Quality: 4K HDR [Bluray]",
-      "review_date": "2020-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is wonderful, sensational, epic ... there are no words to describe how good it is.Linda Hamilton was just fantastic!",
-      "review_date": "2019-12-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2 is the sequel to James Cameron's 1984 sci fi classic, The Terminator... Arnold Schwarzenegger and Linda Hamilton return in Terminator 2 also directed by James Cameron and made in 1990....... Terminator 2 has a similar plot to theTerminator 2 is the sequel to James Cameron's 1984 sci fi classic, The Terminator... Arnold Schwarzenegger and Linda Hamilton return in Terminator 2 also directed by James Cameron and made in 1990....... Terminator 2 has a similar plot to the original but instead of Arnold Schwarzenegger being the killing type of Terminator he's the protector of Sarah Connor's son, John Connor played by Edward Furlong. However a newer machine even more deadlier and advanced than Schwarzenegger's T-800 is sent too to Kill John Connor and can shapeshift, immitate humans and do allsorts of clever things. The shapeshifting enemy is the T-1000 played by Robert Patrick so we have two machines, one programmed to destroy and the other to protect. Terminator 2 has great performances by Linda Hamilton, Arnie and Robert Patrick and amazing stunts, action scenes, violence and special effects and the almost constant use of blue lighting. Great film but the original one for me is better because it's just darker and violent.",
-      "review_date": "2020-03-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best sequels ever made, brilliant special effects, amazing pace. The acting is excellent by everyone. Superb direction, fascinating plot.",
-      "review_date": "2009-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "there seems to be only one man who can take the original movie and make it better . first Aliens now the terminator . camron just takes every thing and kicks it up a few knotches and does it so well. this is deffinitly the blue print on howthere seems to be only one man who can take the original movie and make it better . first Aliens now the terminator . camron just takes every thing and kicks it up a few knotches and does it so well. this is deffinitly the blue print on how to make a kick ass sequel and just make a kick ass action film period . the story is nothing to new that pushes the series foward much basically machine sent from the past to kill sarah conners son instead of her . this time though arnold is the good terminator sent to protect john connor from the bad one . its nothing ground breaking but it sure is entertaining as hell to wach .the acting is pretty well done and the action just blows up on the screen with gusto . i dont think you could see this film and leave it saying it needed more action . the visuals in its day where amazing i remember seeing this in the theater and every one was loving it . even by todays standered it still holds up pretty well. so if you wana see a great action flick and have missed this then you should check it out.",
-      "review_date": "2010-08-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2: Judgement Day does its best to keep this familiar scenario fresh. There are some surprises, fun bits of action, interesting relationships between characters especially between John and the T100. and the effects on the villainTerminator 2: Judgement Day does its best to keep this familiar scenario fresh. There are some surprises, fun bits of action, interesting relationships between characters especially between John and the T100. and the effects on the villain are great. With all that said though this is still a nonstop action movie that is remarkably similar to the first. The film overdoes it in the action, recycles some plot elements, and isn’t as paced as well as its predecessor. The film gets a pass though as it doesn’t suck. With a film having the exact same premise and in some cases being strikingly similar to the last Terminator film it would’ve been so easy for this to feel like a lazy rehash especially with the overblown action but it handled it well. Had the film really delved deeper into the characters and its idea of controlling fate this could’ve been a pretty good movie and maybe even surprised the first. As it is its ok. I’m glad I saw that but the excessive non-stop action and at times too familiar story prevented me from getting as invested in this film as the first one.",
-      "review_date": "2014-12-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is one OUTSTANDING movie! rarely do you see a film this ambicious realised.It was so ahead of its time when it came out,in Drama,action & special effects,& i'll never forget the first time i saw it,which was on the big screen in LeisterThis is one OUTSTANDING movie! rarely do you see a film this ambicious realised.It was so ahead of its time when it came out,in Drama,action & special effects,& i'll never forget the first time i saw it,which was on the big screen in Leister Square in london.You know critics are generally out of touch with everyone else,when they've given this movie a meta score of 63 !?! Although its a fairly similar plot to the first movie,the acting,screenplay,music score,special effects,stunts & photography are so good,that it just puts this up with the best movies ever made.. Classic James Cameron at his best(not that he's done anything i havnt liked bar Titanic).This movie,& indeed its predecessor,are simply must see's.Now we just have to not dwell on the third movie too much..",
-      "review_date": "2011-05-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Against the grain of what so many other people think, I don't really like JUDGMENT DAY anywhere near as much as THE TERMINATOR.  It has too many unnecessary special effects.  If just those had been edited to different ones / taken outAgainst the grain of what so many other people think, I don't really like JUDGMENT DAY anywhere near as much as THE TERMINATOR.  It has too many unnecessary special effects.  If just those had been edited to different ones / taken out completely (i.e. a Terminator coming out of the floor looking like a blob of checkers in the shape of a human body), this film would have been flawless.",
-      "review_date": "2011-08-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Better than the first film, T2 has a strong story, cool music and Arnie on fire. Very entertaining.",
-      "review_date": "2019-04-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Like the first one, this too is a great movie. Arnie's character has much more depth and the story develops in a really interesting way. Honestly, the only thing that held this movie back in my opinion was the T-1000 element. The whole liquidLike the first one, this too is a great movie. Arnie's character has much more depth and the story develops in a really interesting way. Honestly, the only thing that held this movie back in my opinion was the T-1000 element. The whole liquid metal concept was a terrible idea and it should've never been considered. All of that robot stuff taking over and having to go back in time to save Sarah Connor, sure, that's all within my level of suspended disbelief. However, a robot breaking the laws of physics was too much and made certain scenes in the movie feel more silly than anything. That was unfortunate because without that, I feel like they could've have a legit 10/10 quality movie.",
-      "review_date": "2012-11-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The effects are beyond breathtaking and the story is so emotional that it almost overshadows the awesome action of Terminator 2. A blockbuster beyond comparison by all means.",
-      "review_date": "2012-12-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Movies cant get any better than this in my opinion. The action, the story, the cast, the effects, everything is so well done that it definitely deserve its praise. It also has something beyond the gunshots and explosions, the movie also has aMovies cant get any better than this in my opinion. The action, the story, the cast, the effects, everything is so well done that it definitely deserve its praise. It also has something beyond the gunshots and explosions, the movie also has a deep message on how precious the human spirit is. If a metal, killer,  robotic organism from the future can discover the value of human life, maybe we can too. My highest recommendation...11 out of 10.",
-      "review_date": "2012-03-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A superb upgrade of the original, which is saying a lot. Terminator 2: Judgment Day is a model action sequel with iconic action sequences, powerful performances, and surprising emotional depth.",
-      "review_date": "2012-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "After not enjoying the first Terminator, it took me a while to get around to the second installment in the franchise, but I am very glad that I finally watched it. A brilliant action film that is perfectly directed by James Cameron,After not enjoying the first Terminator, it took me a while to get around to the second installment in the franchise, but I am very glad that I finally watched it. A brilliant action film that is perfectly directed by James Cameron, Terminator 2: Judgment Day is well ahead of its time in terms of special effects and is overall just a  very well done and very entertaining spectacle. Arnold Schwarzenegger is great here as the Terminator and Linda Hamilton is very strong as Sarah Connor. The child actor who plays John Connor is pretty spotty and the film itself can be a little campy at times, but it never fails to entertain. Beautifully filmed action sequences combine with good drama here to make a very good film that is also very well written and quite funny at times. Terminator 2: Judgment Day is what big budget action movies should look and feel like.",
-      "review_date": "2015-07-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best films of all time. I have watched this at least 10 times and I could watch it a good deal more.",
-      "review_date": "2020-03-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This remains one of the greatest and most adored action movies of the 90s ,Terminator 2 is a state-of-the-art action movie, all right: It gets you thinking that the most reasonable thing might just have been to blow everyone away",
-      "review_date": "2012-10-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love science-fiction, its my favourite genre and this film is the peak of a masterpiece that hollywood can offer to us. James Cameron were a god behind the cameras in this film",
-      "review_date": "2013-02-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "é um grande filme de ficção cientifica com ação por isso é que foi o filme mais visto do seu ano e está na lista dos cem filmes com maiores receitas.",
-      "review_date": "2012-12-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2 is the best movie of the entire saga. Within the futuristic robots and the Skynet technology , one of the best movies of Arnold Schwazenneger .",
-      "review_date": "2013-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolute 10/10 classic and my favorite Arnie film. Great action, amazing special effects for its time, good writing, interesting story, engaging characters.",
-      "review_date": "2015-11-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is a simple masterpiece! Excellent cinematography, action, intense action movies, good character development, satisfying ending. Just anything you could want from a good movie. The soundtrack is just badass. This film isThis film is a simple masterpiece! Excellent cinematography, action, intense action movies, good character development, satisfying ending. Just anything you could want from a good movie. The soundtrack is just badass. This film is indescribably phenomenal, you have to see it!",
-      "review_date": "2013-04-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Embora discorde da maioria que dizem que sequências são inferiores e piores que o primeiro,estou aqui para dizer que essa é uma das melhores sequências já feitas,Hamilton está como Sarah está mais ousada corajosa e igualmente excelente comoEmbora discorde da maioria que dizem que sequências são inferiores e piores que o primeiro,estou aqui para dizer que essa é uma das melhores sequências já feitas,Hamilton está como Sarah está mais ousada corajosa e igualmente excelente como da primeira vez,Robert Patrick está fenomenal como a desgraça insistente T-1000,Edward Furlong está incrível como o jovem John Connor,Joe Morton está também fenomenal como Miles Dyson,Schwarzenegger está espetacular. James Cameron Diva numa das melhores sequências da história do cinema tanto na direção,no roteiro na produção e na história e filme. Genial!!!",
-      "review_date": "2015-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The greatest popcorn action movie of all time, how T1 is rated better is a joke. T1 starring Michael Biehn, come on i love him in farcry3 Bloodragon but he isn't quite Daniel Day Lewis. More of a joke is how the trainwreck they call T3The greatest popcorn action movie of all time, how T1 is rated better is a joke. T1 starring Michael Biehn, come on i love him in farcry3 Bloodragon but he isn't quite Daniel Day Lewis. More of a joke is how the trainwreck they call T3 starring \"fierce\" female terminator and poor casting can even come close (within  2 points) of T2. T2 writes one of the best sci fi tales ever written and executes it with flawless success depicting a stunning Sarah Conner conflicted and beaten with only two goals before she expires, protecting future leader of the resistance and son John Conner, and stopping Skynet. With a decadent soundtrack featuring a 90's who's who in rock (Guns n Roses ect.) it is sure to bring any nostalgic gen exer back to their hay day. The action was top knotch and the special effects were truly groundbreaking and still hold up today. What makes the movie epic is the character development and the conflicting relationship triangle with the almost father like role the terminator plays to John Conner who in turn attempts to humanize the robot, and the stowed away hatred Sarah Conner still has for their kind after the events of T1. In the movie Sarah often has flashes of a future nuclear explosion induced by Skynet which dramatically envelopes her and the world which they describe as \"D day\", these moments can be moving and intense. The story eludes to a future war between the machines \"Skynet\" and what little is left of man after D day with the human resistance led by \"son\" John Conner. The sci fi aspect and the dichotomy between man and machine \"what it is to be human\" is truly engaging and well explored. This film is more than the candy coated paint job and explosions, it is gushing with 90's mystique and cold hard style to go with a touchingly dramatic and interesting story. T2 will always define the genre and has inspired many and spawned a legion of imitators, but none as good as the original.......... or should i say the original sequel. T2 will live forever and is a true work of art by artists at the peak of their game.",
-      "review_date": "2013-06-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "my favorite movie of all time is full of action, suspense, and emotion. this is arnolds best film in my opinion. the special effects are amazing t2 gets an a plus",
-      "review_date": "2013-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "For sure one of the best action movie of all time with a perfect setting. The Story is great and understandable. Arnie is perfect for this role, because he doesnt need to show lot of emotions, which he cant. Also the character of Sarah ConnorFor sure one of the best action movie of all time with a perfect setting. The Story is great and understandable. Arnie is perfect for this role, because he doesnt need to show lot of emotions, which he cant. Also the character of Sarah Connor was perfectly written, not like the feminist roles in the movies today, where men are jokes and weak. The action scenes were a milestone in 1991 and you can still watch them.",
-      "review_date": "2020-04-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is as good as a science fiction action movie can get. Arnold's imposing presence, the original main idea, the formidable villain, the chemistry among the good guys (mother, son and the mechanical guardian), the perfectly directed,This is as good as a science fiction action movie can get. Arnold's imposing presence, the original main idea, the formidable villain, the chemistry among the good guys (mother, son and the mechanical guardian), the perfectly directed, exciting action scenes, the ominous atmosphere, constant tension and explosive ending make this a must for all fans of the genre.\rargonautis.eu",
-      "review_date": "2013-09-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I seem to be in the majority when i say that Terminator 2: Judgment Day is the best film out of all of the Terminator movies. And rightly so, Terminator 2 is a masterpiece and is definitely one of the greatest action movies of all time and toI seem to be in the majority when i say that Terminator 2: Judgment Day is the best film out of all of the Terminator movies. And rightly so, Terminator 2 is a masterpiece and is definitely one of the greatest action movies of all time and to me one of my favorite films ever made. Now, to the review, i shall briefly explain the different reasons why i have rated the film a 10/10. I would always say that the main reason this film is amazing is its impeccable pace, and that the film has incredible action sequences, dramatic storytelling and that it creates emotional connections between you and the characters. I mean, if you care about a machine more than the human characters then you know that the film is something special. And that is exactly why i have always loved the movie. Secondly, i always have admired the amazing effects used by James Cameron and that they still stand strong against other action movies today. The detail when the T-1000 is shot, and when he changes into his original form, it never fails to amaze me and it remains as some of the best special effects ever used. To conclude, Terminator 2 is one of the best action films of all time and one of the best films i have ever seen. It has incredible action, great effects, amazing storytelling and a great soundtrack. And honestly it is one of the movies that still shines today. Lastly, remember not to trust critics with deciding whether you should watch a film, users are always more reliable. Thank you for reading my review.",
-      "review_date": "2015-06-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An exciting and well made sequel to the original, featuring amazing effects for the time and also became iconic for its lines and action sequences. A sci-fi must see!",
-      "review_date": "2014-02-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Quite a different proposition to the first film, but equally enjoyable in its own frequently preposterous way. It was kind of impossible not to fall utterly in love with this film when you're still a teenage boy...I mean, who didn't want aQuite a different proposition to the first film, but equally enjoyable in its own frequently preposterous way. It was kind of impossible not to fall utterly in love with this film when you're still a teenage boy...I mean, who didn't want a pet robot in their teens?!On the whole, a very clever reinvention of the original. And while it's in some ways inferior to the first, it has at least dated a bit better (thanks to a little thing called \"CGI\" that was starting to appear in movies).",
-      "review_date": "2020-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best sci-fi sequels of all time takes the spirit of the original movie and dares to flip the concept on its head and in doing so chooses to make broadening it's audience a benefit rather than a shackle for its new ideas. TheOne of the best sci-fi sequels of all time takes the spirit of the original movie and dares to flip the concept on its head and in doing so chooses to make broadening it's audience a benefit rather than a shackle for its new ideas. The phenomenal audio mix still holds up well even if some of the visual effects havent aged as well. A compelling watch!",
-      "review_date": "2022-09-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Some people say \"Terminator 2: Judgment Day\" is better than the first film. Well, I disagree, but I do agree that this was a great ride. The story is very original, the action sequences, once again, are entertaining and memorable, theSome people say \"Terminator 2: Judgment Day\" is better than the first film. Well, I disagree, but I do agree that this was a great ride. The story is very original, the action sequences, once again, are entertaining and memorable, the soundtrack is unforgettable and the special effects are simply eye-popping. Very good movie with a spectacular performance from Arnold Schwarzenegger and lots of thrills.\r Final Score: 8/10.",
-      "review_date": "2015-04-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Oh. My. Terminator 2 is such a great movie. Old cast members are back, Robert Patrick is a great actor. Everything about this movie is just great. This is a great example of what a good sequel is.",
-      "review_date": "2016-01-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Classic movie and a milestone in CGI. Sadly people started forgeting about the story and only put CGI in... see \"Dark F̶a̶r̶t̶\" ehrm... \"Dark Fate\"",
-      "review_date": "2019-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terminator 2 is what all action films aspire to be. This film has changed big budget action films for the better. The characters have so much depth. Arnold is so likeable for the audience which was something I wasn't expecting and I love thatTerminator 2 is what all action films aspire to be. This film has changed big budget action films for the better. The characters have so much depth. Arnold is so likeable for the audience which was something I wasn't expecting and I love that James Cameron allowed him to be the hero in this film, besides Robert Patrick makes an outstanding villain. Linda Hamilton kicks ass and is the flag carrier for woman action stars I wish Hollywood would realize how effective she is in this movie and start casting more women in strong roles. Edward Furlong also stands out as John Connor. Young actors can drag down a film in a lot of circumstances but he is another strong point and I love the interaction between him and Arnold, its priceless. James Cameron bettered the first Terminator in almost everyway here, the CGI is great and the action still holds up after almost 25 years.",
-      "review_date": "2015-07-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "vary entertaining movie I was happy to see they dared to go in another direction from the first film, the effects while vary primitive by todays standards, they look vary well devised and carefully filmed, at times they add a mechanicalvary entertaining movie I was happy to see they dared to go in another direction from the first film, the effects while vary primitive by todays standards, they look vary well devised and carefully filmed, at times they add a mechanical effect to the terminators motion and makeup, and thats a good thing too, because most cg robots these days look too synthetic in movement... almost too human in a way, this gives the terminator more realism as a killing machine... he's not a killing machine pretending to move like a man, so that he can kill you, he's a machine that is willing to loose the human makeup and still function to kill you, and miles ahead of the modern day cg that mimics human movement.\r My thoughts are this film is among the best action movies ever made easily in the top 10 ever made James Francis Cameron did a great Job directing, and so too did the effects, makeup, and animatronics department all did a fantastic job here.",
-      "review_date": "2016-09-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a MASTERPIECE. Unique and special. Stunning piece of art in the sci-fi genre! Terminator 3, 4, 5 should not have appeared if they could not be as good as this amazing film. BTW, Terminator 1 is also a very good prequel.",
-      "review_date": "2016-05-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A surprisingly good sequel considering what sequels are usually like. The T-1000 CGI scenes are very well made for a movie that came out in 1991, and overall it's pretty cool. Wouldn't say that it's amazing, because it's way too long and it'sA surprisingly good sequel considering what sequels are usually like. The T-1000 CGI scenes are very well made for a movie that came out in 1991, and overall it's pretty cool. Wouldn't say that it's amazing, because it's way too long and it's not something you would watch that often.",
-      "review_date": "2016-09-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just saw special 3D showing of T2, oh yeah. 3D wasn't needed, as it didn't really add anything. However, re-watching this on the big screen was a pleasant experience. It washes out the horrible taste both sequels/prequels left behind to thisJust saw special 3D showing of T2, oh yeah. 3D wasn't needed, as it didn't really add anything. However, re-watching this on the big screen was a pleasant experience. It washes out the horrible taste both sequels/prequels left behind to this once great series.",
-      "review_date": "2017-08-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Rate this video 10 if you want to live (Just Kidding!)\r I have watched the film. I like the idea of there being a good terminator. One that is programmed, devoted to protecting just one seemingly ordinary boy. Not only does it displayRate this video 10 if you want to live (Just Kidding!)\r I have watched the film. I like the idea of there being a good terminator. One that is programmed, devoted to protecting just one seemingly ordinary boy. Not only does it display action, but caring. Makes you want to be in the movie and interact with the characters. Nice Job!",
-      "review_date": "2015-04-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When James Cameron crafted The Terminator in 1984, the concept of a sequel was far from his thoughts. The film's box office performance, while more than justifying the movie's understated $6.5 million budget, did not result in studioWhen James Cameron crafted The Terminator in 1984, the concept of a sequel was far from his thoughts. The film's box office performance, while more than justifying the movie's understated $6.5 million budget, did not result in studio executives rushing to Cameron to make a follow-up. However, The Terminator arrived on tape just as the mid-'80s home video revolution was gathering steam, and it became one of a few titles whose VHS success oustripped its theatrical performance. By the late 1980s, there was no question that Cameron would make a Terminator sequel. The only mystery was how spectacular it would be. Aliens, Cameron's first big-budget directorial assignment, had been an edge-of-the-seat ride and indications were that he had every intention of topping it with Terminator 2. (In between Aliens and T2, Cameron made The Abyss, a film plagued by production issues that received a lukewarm initial reception but was re-evaluated once a more complete version of the director's vision was released for home viewing.)\r For T2, Cameron's planed \"major twist\" was unveiled before the movie's release because of marketing considerations. This time, Arnold Schwarzenegger would portray a good Terminator instead of a bad one. Had this been kept a secret, it would have packed a wallop. Unfortunately, the trailers let the cat out of the bag and few (if any) members of the audience were unaware of this switch-up. Knowing the twist beforehand neither ruins the overall movie-going experience nor damages its integrity, but it's not unlike being aware of the identity of Luke's father while watching The Empire Strikes Back.\r T2 features bigger, bolder, more energetic action sequences than its predecessor (Cameron had a budget of more than ten times that of the original for the sequel). The big moments include a chase scene in which the T-1000, in a truck, pursues John Connor and his Terminator on a motorcycle; the prison break of Sarah Connor; and the explosive finale at Cyberdyne. The film is long enough to allow for more character development than in the original. We come to understand how her obsession with the future has transformed Sarah into a driven woman. A touching friendship develops between John and The Terminator, lending aspects of an off beat \"buddy movie\" to T2. And Miles Dyson (Joe Morton), the scientist/engineer unlocking the secrets of the 1984 Terminator's chip, must face the moral and ethical implications of what he is inadvertently doing. By trying to help mankind, is he instead becoming the author of its genocide? The time paradoxes addressed in this film are more complex than those in The Terminator. This storyline postulates that actions from the future have formed a cornerstone of the past, raising questions about the non-linear nature of time. Cameron's original ending for T2 would have made future sequels unlikely; producer Mario Kassar forced Cameron to abandon his planned \"coda\" to allow for the possibility of additional Terminator movies. Thus far, there have been two (plus a television series), but Cameron has not been involved, claiming the story he wanted to tell concluded at the end of T2.\r There's a little more humor in T2 than there was in The Terminator. Most of it results from the interaction between John and the Terminator, where the human child attempts to teach the robot killer the intricacies of offhand social interaction. This includes slang expressions such as \"Hasta la vista, baby.\" It's also worth noting that, although it would be a stretch to call Schwarzenegger's Terminator \"kinder and gentler\" in this film, he does not kill anyone. Even before John explicitly orders him not to commit murder, the Terminator's visit to the past lacks a body count. (The same cannot be said of the T-1000.) Of course, injury, intimidation, property damage, and general mayhem are exempted.\r Combined, the first two Terminator movies offer some of the best contemporary-based science fiction action ever provided in a motion picture series. Although the third Terminator movie continues the legacy of impressive, big budget action, the screenplay is lacking in both depth and substance and it feels inferior, especially when viewed back-to-back with Cameron's efforts. Although The Terminator is arguably the more visionary of the first two films, T2 is the more visually and viscerally satisfying. It's an exhausting experience and, even 18 years after its release (as I write this review), few films have matched it within the science fiction genre for sheer white-knuckle exhilaration.",
-      "review_date": "2015-04-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When James Cameron crafted The Terminator in 1984, the concept of a sequel was far from his thoughts. The film's box office performance, while more than justifying the movie's understated $6.5 million budget, did not result in studioWhen James Cameron crafted The Terminator in 1984, the concept of a sequel was far from his thoughts. The film's box office performance, while more than justifying the movie's understated $6.5 million budget, did not result in studio executives rushing to Cameron to make a follow-up. However, The Terminator arrived on tape just as the mid-'80s home video revolution was gathering steam, and it became one of a few titles whose VHS success oustripped its theatrical performance. By the late 1980s, there was no question that Cameron would make a Terminator sequel. The only mystery was how spectacular it would be. Aliens, Cameron's first big-budget directorial assignment, had been an edge-of-the-seat ride and indications were that he had every intention of topping it with Terminator 2. (In between Aliens and T2, Cameron made The Abyss, a film plagued by production issues that received a lukewarm initial reception but was re-evaluated once a more complete version of the director's vision was released for home viewing.)\r At the core of The Terminator lies the concept of time travel, with machines from the future returning to the past in an attempt to change it while future humans sought to retain the status quo. For Terminator 2, Cameron changed the game. Once again, there are pro-human and anti-human factions tripping through time, but on this occasion, both sides have the same eventual goal: change the future. For Sarah Connor (an ultra-toned Linda Hamilton) and her 10-year old son, John (Edward Furlong), it's a chance to avert the coming apocalypse. However, for the T-1000 (Robert Patrick), the latest machine weapon, the mission is to kill the Connors. With those two eliminated, the future human resistance will be toothless, thereby assuring eventual machine dominance.\r For T2, Cameron's planed \"major twist\" was unveiled before the movie's release because of marketing considerations. This time, Arnold Schwarzenegger would portray a good Terminator instead of a bad one. Had this been kept a secret, it would have packed a wallop. Unfortunately, the trailers let the cat out of the bag and few (if any) members of the audience were unaware of this switch-up. Knowing the twist beforehand neither ruins the overall movie-going experience nor damages its integrity, but it's not unlike being aware of the identity of Luke's father while watching The Empire Strikes Back.\r There's a little more humor in T2 than there was in The Terminator. Most of it results from the interaction between John and the Terminator, where the human child attempts to teach the robot killer the intricacies of offhand social interaction. This includes slang expressions such as \"Hasta la vista, baby.\" It's also worth noting that, although it would be a stretch to call Schwarzenegger's Terminator \"kinder and gentler\" in this film, he does not kill anyone. Even before John explicitly orders him not to commit murder, the Terminator's visit to the past lacks a body count. (The same cannot be said of the T-1000.) Of course, injury, intimidation, property damage, and general mayhem are exempted.\r Although the theatrical version of the film clocked in at 137 minutes, the most commonly viewed home video version is the extended director's cut, which adds about 15 minutes of additional footage, and the new scenes do not impede the breakneck pace. Perhaps the most notable of the inclusions is a dream sequence in which Sarah interacts with Kyle Reese. This sequence - the only one in T2 featuring Michael Biehn - provides stronger connective tissue between The Terminator and its immediate sequel.\r Combined, the first two Terminator movies offer some of the best contemporary-based science fiction action ever provided in a motion picture series. Although the third Terminator movie continues the legacy of impressive, big budget action, the screenplay is lacking in both depth and substance and it feels inferior, especially when viewed back-to-back with Cameron's efforts. Although The Terminator is arguably the more visionary of the first two films, T2 is the more visually and viscerally satisfying. It's an exhausting experience and, even 18 years after its release (as I write this review), few films have matched it within the science fiction genre for sheer white-knuckle exhilaration.",
-      "review_date": "2015-05-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is THE action film. You can't go past Terminator 2 for action, drama and Arnold Schwarzenegger one-liners. From \"Hasta-La-Vista Baby\" to \"I'll be back\", T2 has it all.",
-      "review_date": "2015-07-14",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 116
+    "title": "Terminator 2: Judgment Day",
+    "rating": 8.9,
+    "release_date": "1991-07-03",
+    "genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "summary": "In a future, war-ravaged Los Angeles in which the machines have taken over the earth, a faction of human rebels led by an adult John Connor do battle with the cyborgs. Two \"intelligent machines\" have been dispatched to the past, one -- a replica of the Terminator model T-800 which dominated the original film -- to protect the young Connor,In a future, war-ravaged Los Angeles in which the machines have taken over the earth, a faction of human rebels led by an adult John Connor do battle with the cyborgs. Two \"intelligent machines\" have been dispatched to the past, one -- a replica of the Terminator model T-800 which dominated the original film -- to protect the young Connor, the other -- a shape-shifting metallic T-1000 -- to kill him. \u2026 Expand",
+    "critic_reviews": [
+        "A great movie... A pop epiphany, marking that commercially creative point where the power of Hollywood meets the purity of myth.",
+        "Because it is a sequel, it's less satisfying than the more idea-driven original, but this is still top-flight kick-ass entertainment",
+        "Cameron's achievement isn't only technical. He's using all the not-so-cheap thrills of a violent genre to make a movie with an antiviolence message, and the wonder of T2 is that he pulls it off without looking silly.",
+        "The key element in any action picture, I think, is a good villain. Terminator 2 has one, along with an intriguing hero and fierce heroine, and a young boy who is played by Furlong with guts and energy.",
+        "T2 features bigger, bolder, more energetic action sequences than its predecessor.",
+        "The movie is a great big feast of wreckage. But that\u2019s also what makes it a bit numbing.",
+        "As with \"Aliens,\" director James Cameron has again taken a first rate science fiction film and crafted a sequel that's in some ways more impressive - expanding on the original rather than merely remaking it.",
+        "Visceral to the point of overkill (and beyond), a berserk blizzard of kinetic images, it doesn't even give you time to be scared.",
+        "The action in Terminator 2 is edited for maximum suspense, and much of it is mounted on such a grand scale that little in movie history comes close. (Scenes in last summer's Die Hard 2 did, but they lacked the finesse of the new film).",
+        "The film's relentless pummeling grows wearying at 135 minutes. The first Terminator, a half-hour shorter, was leaner and meaner.",
+        "It's a joyride until you think about the film's biggest contradiction. How come this movie celebrating the superiority of human feelings over machine precision is most alive when thrilling in the mechanical perfection of the Terminator and T-1000? Inside Terminator 2 beats a human heart. But its soul is that of a killer machine.",
+        "Trend-setting visuals compensate for a plot that lacks the imagination and edge of the 1984 original.",
+        "Mr. Cameron has made a swift, exciting special-effects epic that thoroughly justifies its vast expense and greatly improves upon the first film's potent but rudimentary visual style. He has also broadened his initial idea to encompass better developed characters (after all, the first Terminator was barely verbal), a livelier wit and a more ambitious, if nuttier, message.",
+        "What is notable, though, is the amount of compassion invested in the film by Cameron and co-screenwriter William Wisher. There's a fairly well-drawn moral message in T2 that was more or less absent in the first film.",
+        "All the virtues of the original... are present here, though when Cameron tries to milk some sentiment out of the \"personality\" and fate of his top machine he comes up flat and empty, and the other characters are scarcely more interesting.",
+        "If you change the course of history, the world will experience a different kind of chaos. That's a time-honored movie cliche. Terminator 2: Judgment Day chooses to go against that philosophy, noisily and with some monotony."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "This is a prime example of a grade-A action film, it's got drama, family values, action moments with meaning which aren't just random \"spur of the moment\" scenes added for filler, each scene has a reason and direction with where they're goingThis is a prime example of a grade-A action film, it's got drama, family values, action moments with meaning which aren't just random \"spur of the moment\" scenes added for filler, each scene has a reason and direction with where they're going with the film as a whole.  The soundtrack, my god the soundtrack, the instrumentals are completely memorable, and i bet the intense intro song will be pounding in your head days after you've finished watching it.  It's one of the most memorable and highly underrated, from the looks of the critic scores on here, action movies of all time.",
+            "review_date": "2011-04-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The first Terminator was a very good film but this sequel took the franchise to a level it hadn't reached before or since.\r With Sarah Connor from the original movie now institutionalised her son, and future leader of the resistance againstThe first Terminator was a very good film but this sequel took the franchise to a level it hadn't reached before or since.\r With Sarah Connor from the original movie now institutionalised her son, and future leader of the resistance against the machines, John Connor is living with Foster parents. The machines that rule the future send back a cyborg, played by the terrifying Robert Patrick, whilst the humans send back their own cyborg to protect him. Schwarzenegger again excels in a role he was born to play, his voice and physique suiting his cyborg character perfectly.\r This all leads to a series of truly memorable action sequences that still largely stand up today in terms of special effects. Add to this a surprisingly good script for what is largely an action fare and you have the ultimate action blockbuster.",
+            "review_date": "2013-05-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "First off, I would give this a 9.5 out of 10. This is a great sic-fi. The best terminator movie. Acting is good. Everyone does a good job. Score is good, and has a really good story. Really well made. The visual effects and action sequencesFirst off, I would give this a 9.5 out of 10. This is a great sic-fi. The best terminator movie. Acting is good. Everyone does a good job. Score is good, and has a really good story. Really well made. The visual effects and action sequences are great. Well made and are just amazing. Overall, this is a great 90s action blockbuster. You really should see it.",
+            "review_date": "2012-04-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Yeah well, I am usually very critic about science-fiction movies, but this time the whole thing comes with a lot of action (exceptionally well done), and some light humor, which is not interfering with the mood of the movie. The timeYeah well, I am usually very critic about science-fiction movies, but this time the whole thing comes with a lot of action (exceptionally well done), and some light humor, which is not interfering with the mood of the movie. The time traveling aspects (yeah I know I am picky) are somewhat \"flawed\", but nothing I could not overlook (like in the case of Looper). One of Arnie's best, and the villain is also remarkable. Will remain a classic. The special effect were all very advanced back in the day. Some looks cheesy nowadays, but not bad. Recommended.",
+            "review_date": "2013-05-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Maybe the critics don't like this one, but for viewers it is first class entertainment.Great action and special effects keep you on the edge of your seat for the entire movie. Classic - the best in the series. Watch it - it's hard Maybe the critics don't like this one, but for viewers it is first class entertainment.Great action and special effects keep you on the edge of your seat for the entire movie. Classic - the best in the series. Watch it - it's hard not to have a great time.",
+            "review_date": "2006-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "T2 will never be equaled. If they sent Bach's music into space, they should have sent this film along with it. The Director's cut is a bit less concise but the original cinema release is devoid of any slip-ups. Each scene is there for aT2 will never be equaled. If they sent Bach's music into space, they should have sent this film along with it. The Director's cut is a bit less concise but the original cinema release is devoid of any slip-ups. Each scene is there for a reason and shows us something new. The strength and weaknesses of the characters are clearly seen, but they are not brought to attention in a ham-handed way. The use of CGI is avoided for much of the film which is a godsend especially in the context of modern films. There are too many reasons to list as to why this film should be forever lauded... Aside from being the pinnacle of action films it teaches us some real lessons about the cost of human life.",
+            "review_date": "2013-05-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you thought the first Terminator Movie was good then this is double the action and double the story. Great character development, More action, more explosion's and more heart. It is just one huge spectacle.",
+            "review_date": "2013-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2 is an amazing and enjoying thrill ride that is one of the best action movies ever. The plot is very well constructed, the acting (especially Arnold Schwarzennegger's Terminator) is top-notch and very memorable. The amount ofTerminator 2 is an amazing and enjoying thrill ride that is one of the best action movies ever. The plot is very well constructed, the acting (especially Arnold Schwarzennegger's Terminator) is top-notch and very memorable. The amount of depth each character has is just amazing and you identify with each character, there is such an emotional charge to each moment that you are sucked into the movie. The action scenes are top-notch and will keep you enthralled in it, there are many in the movie and suspense is well-maintained when needed as well. The movie is sure to be remembered and quoted every time for a long time (\"Hasta La Vista, Baby\"). Flaws, there are hardly any except for maybe it can be a bit lengthy and the action takes some time to get interesting but once it does it's awesome and it is a small flaw though. Overall, Terminater 2 is a smash-hit movie that is an example of a super-action flick deftly crafted with emotion that will be remembered forever and is almost as good as the first one. Breakdown for \"Terminator 2: Judgement Day\": Presentation: 9.7, Plot: 9.8, Acting: 9.9, Script: 9.7, Lasting Appeal: 10, Verdict: 9.8 out of 10 \"Amazing\".",
+            "review_date": "2011-12-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My all time favourite movie! Great plot, awesome special effects and dialogues that are still alive.\rTerminator looks like a real killing machine and you are afraid of him. Love it!",
+            "review_date": "2013-10-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThough Titanic may not be my optional favorite I have to say James Cameron knows how to make great sequels, just like Aliens Cameron now those his own Terminator franchise\r Arnie (Schwarzenegger) is Back! as the Terminator who previously under the command of the renegade robotic computer system Skynet was sent back in time to execute Sarah Connor and her then unborn son John Connor, who is destined to be the future leader of the human rebellion. now reprogrammed to save them both the terminator must now square off against his replacement the intelligent T-1000 who has the power to cyberform into liquid metal making it almost completely unstoppable as the three must now form an unlikely alliance and prevent Skynet's predecessor Cyber-Dyne systems from gaining full fruition.\r A well done A+ oscar winning sci-fi action flickl and probably as grand as its prequel and easily standing among Aliens and Star Wars Episode 5 is a explosive achievement in Cameron's charismatic career",
+            "review_date": "2015-05-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Despite what has happened both in Arnold Schwarzenegger's personal and political life, there can be no changing of the fact that Arnold helped make some of the most thrilling, action-packed adventure movies to ever grace the big screen backDespite what has happened both in Arnold Schwarzenegger's personal and political life, there can be no changing of the fact that Arnold helped make some of the most thrilling, action-packed adventure movies to ever grace the big screen back in his prime. If the first movie was good with Arnold being the evil Terminator hunting down the seemingly innocent Sarah Connor (while utilizing some very top notch special effects by 1984 standards,) this 1991 sequel is even better with Arnold being the good Terminator trying to prevent John Connor from being hunted down. This movie is well-placed, and focuses mainly on the three main characters, John, Sarah, and the now good Terminator as it should. This movie also gets high marks from me as it featured special effects that were WAY ahead of its time, courtesy of the new, evil Terminator that can regenerate its body, even when it's broken into dozens of pieces! This movie demonstrates that while we don't know for certain what is going to happen in the future, we are always in control of what happens in the present, and therefore, we all play a hand in shaping what the future will eventually have in store for us. I thoroughly enjoyed this movie, and I highly recommend it to people looking for some great thrills!",
+            "review_date": "2011-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2 is a perfect movie. That's why all the sequels have been mediocre. Its hard to improve on perfection. My number 1 movie of all time......",
+            "review_date": "2016-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "T2 is the best out of all the Terminator movies. What we have here is a masterfully made movie that tell the story of a future war fought in the past with not one but two terminators. Model 101 (Arnold) is the good guy and the cool T-1000 T2 is the best out of all the Terminator movies. What we have here is a masterfully made movie that tell the story of a future war fought in the past with not one but two terminators. Model 101 (Arnold) is the good guy and the cool T-1000 (Robert Patrick) is the seemingly invincible bad guy. The movie has suspense, action, and even some humor. T2 defines what classic movies are.",
+            "review_date": "2006-05-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "alsome explosians, killer robots from the future, and some big guns= the best movie in the famous series so far.",
+            "review_date": "2007-12-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2 is one of the defining roller-coaster rides of modern cinema. It takes the original film and builds something much deeper upon it, much like director Cameron did with the Alien franchise a few years earlier. Ultra memorable sceneTerminator 2 is one of the defining roller-coaster rides of modern cinema. It takes the original film and builds something much deeper upon it, much like director Cameron did with the Alien franchise a few years earlier. Ultra memorable scene follows ultra memorable scene in this all-time SF classic. Seriously... You cannot afford to miss this movie!",
+            "review_date": "2014-08-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is easily one of the best movies ever made. The script is top notch and acting is convincing and true. The soundtrack and graphical effects are great even for today. Amazing!",
+            "review_date": "2011-04-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is James Cameron at this best. Terminator 2 doesn't just surpass the original but it gives us one of the greatest sequels of all time.",
+            "review_date": "2020-01-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With fantastic visuals and excellent pacing, this movie boasts exactly what a sequel should look like. It has more in-depth emotion between characters, and overall, it's a much better presented film than the first. This is probably one of theWith fantastic visuals and excellent pacing, this movie boasts exactly what a sequel should look like. It has more in-depth emotion between characters, and overall, it's a much better presented film than the first. This is probably one of the best sci-fi movies made.",
+            "review_date": "2014-03-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Brilliant, action-filled sequel, superbly directed by James Cameron.  The acting is top knotch, the suspense relentless, and the special effects are mind blowing.  A rare film that lives up to, and even outdoes, the original.",
+            "review_date": "2012-09-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a perfect example of an amazing sequel. It's truly better than the original in everyway. It was more intense, more action-packed and definitely had more quotable lines than the first one. As far as the story goes, it's an interestingThis is a perfect example of an amazing sequel. It's truly better than the original in everyway. It was more intense, more action-packed and definitely had more quotable lines than the first one. As far as the story goes, it's an interesting and engaging story. It's a pulse pounding sci-fi story. That's what helps make for an awesome sci-fi thriller. As far as characters go some have there moments, but none of them were as bad-a** as the Terminator (Arnold Schwarzenegger) and T-1000 (Robert Patrick). Watching those two fight was movie magic. But what really makes this movie awesome is it's super cool action and visual effects. Most action movies now of days tend to have great action, but a weak story. This movie held on to both contexts and gave it all it got in this riveting sequel. Overall, It's a rare, tremendous blockbuster done right.",
+            "review_date": "2013-05-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "He\u2019s back! This second Terminator film truly is greater in every way.\r In comparison with the first Terminator film is this second installment much better when it comes to action sequences, practical effects and storytelling. The majorHe\u2019s back! This second Terminator film truly is greater in every way.\r In comparison with the first Terminator film is this second installment much better when it comes to action sequences, practical effects and storytelling. The major improvement is of course the villain: the T-1000. He\u2019s so scary and awesome at the same time. Arnold Schwarzenegger, Linda Hamilton and Edward Furlong are all spectacular actors, and their characters are so incredible and you really feel close to them. The actors are much more professional now than in the first film. There\u2019s a massive amount of action in this movie, and there\u2019s a huge amount of cool and unique things at the same time. The action is much faster and there are spectacular practical effects that just look incredible. The first Terminator film got some doll models, but this does not. Terminator 2: Judgment Day is a highly entertaining and well-made film that got a touching story and even some humor! The opening scene and the ending are both great, even though the ending felt a bit to rash. The soundtrack is also great, but it could have been even groovier, which could have made the film even cooler and dramatic.\r This movie got it all: great science fiction, awesome action sequences and fantastic storytelling. Not to mention the incredible script.\r Terminator 2: Judgment Day gets an 8.8/10.",
+            "review_date": "2014-12-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie takes everything that i loved about the original terminator but fixes the complaints i had. You get to hear more of the terminator backstory. The movie is filled with rememberable quotes, it also had a few surprises in it.",
+            "review_date": "2014-09-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2's concept may be a copy of its predecessor, but here with its obviously larger budget, it's done so much better. In fact, it's a freaking masterpiece. It's the definition of a sequel done right. So brilliantly, excellently,Terminator 2's concept may be a copy of its predecessor, but here with its obviously larger budget, it's done so much better. In fact, it's a freaking masterpiece. It's the definition of a sequel done right. So brilliantly, excellently, perfectly right.",
+            "review_date": "2015-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the few sequels that beats the original. More action, a down-to-earth feeling and the return of the perfectly acting Schwarzenegger make Judgment Day a classic.",
+            "review_date": "2013-12-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator is one best action films ever. Its realistic ,  it takes to a wild journey robots face to face doing an action war between  Schwarzenegger and  Robert Patrick. This is one of movies that  change the world in the 90's  you didn'tTerminator is one best action films ever. Its realistic ,  it takes to a wild journey robots face to face doing an action war between  Schwarzenegger and  Robert Patrick. This is one of movies that  change the world in the 90's  you didn't have any description of what the future's gonna be like if it was bad or good ( you never know.) from writer , director James Cameron's view of the future you know his message in  the film whether you understand it or not you have time to save  before an impact  between your life or the consequences between death or a unexpected thing that you do in the future that leds to war. thats what terminators about. Grade A+",
+            "review_date": "2014-09-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A masterpiece of scifi cinema so good that even genre haters love this film.",
+            "review_date": "2018-09-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2: Judgment Day is the best film in the series. One of the best films from James Cameron. A standard in the thriller genre, breakthrough computer graphics for the early 1990s. And of course T1000 one of the most memorableTerminator 2: Judgment Day is the best film in the series. One of the best films from James Cameron. A standard in the thriller genre, breakthrough computer graphics for the early 1990s. And of course T1000 one of the most memorable characters in the franchise. All that happened after this film in the series is not the Terminator, but his likeness.",
+            "review_date": "2020-10-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Better than the first movie but it still doesn\u00b4t reach that memory that i has a kid",
+            "review_date": "2021-12-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It is tough for a sequel to be better than the first film, but T2 pulls off the close to impossible.  Absolutely the BEST Terminator film to date and a sequel all sequels should be put up against in terms of quality, story etc.",
+            "review_date": "2019-03-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Do I really have to say anything for this one? If you haven't watched this yet you are probably young.You really have to watch this movie. This might be one of the best movie of all time.\n\nArnold was such a beast back in time and this movieDo I really have to say anything for this one? If you haven't watched this yet you are probably young.You really have to watch this movie. This might be one of the best movie of all time.Arnold was such a beast back in time and this movie is such a gem for him to be in it. Nobody could have done better than him for that role.Sarah Connor played by Linda Hamilton is also what any true real feminist should thrive for. This is an amazing character played by an amazing women. This have nothing to do with the nonsense SJW modern feminazi toxic stuff that we are currently experiencing.",
+            "review_date": "2019-03-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2 is one of the best action-movies and sequels ever made. Almost every scene is iconic and the story of a guardian who is sent back in time is somewhat timeless. It's not the most intelligent movie, but it doesn't have to be,Terminator 2 is one of the best action-movies and sequels ever made. Almost every scene is iconic and the story of a guardian who is sent back in time is somewhat timeless. It's not the most intelligent movie, but it doesn't have to be, although it has some interesting things to say about the future of artificial intelligence, it's just buried somewhere inbetween all the explosions.A must-watch for everyone who even remotely likes action movies.",
+            "review_date": "2021-02-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Terminator 2: Judgement Day\" is a rare blockbuster that overly exceeds its prequel with mind blowing action, unforgettable scenes, and deep character relationship / development. It is a simple masterpiece.",
+            "review_date": "2011-09-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For me this is one of my favourite films of all time, if anyone doesn't like this then they clearly have mental problems. How can some of critics who gave this film a score in the red live with themselves",
+            "review_date": "2012-01-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Striking a perfect balance between well acted drama and intelligent, edge of your seat action, James Cameron's follow up to The Terminator is bigger and better in every sense of the word.",
+            "review_date": "2015-07-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is even better than the original, it is just Nostalgia, excellent graphics which were great back in 1991, and are still great, the T-1000 is even scarier than Arnie in the first one, and guess what he's back.\rHasta La Vista Baby!",
+            "review_date": "2014-02-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best movie sequels ever made and lives up a franchise that should've ended here, Judgment Day is nothing personal to talk about other than this review right here.",
+            "review_date": "2016-01-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How can someone say this is overrated? There's no room for improvement. It was short and sweet, well thought out, epic, logical, engrossing. It had soft spots, action, tons of character development, just too many great scenes to How can someone say this is overrated? There's no room for improvement. It was short and sweet, well thought out, epic, logical, engrossing. It had soft spots, action, tons of character development, just too many great scenes to mention. Terminator 2 is satisfying, like a good meal that you never get tired of eating.",
+            "review_date": "2009-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A sequel with even more action, another sharp plot, and fantastic performances. James Cameron shows a lot of unique ideas and cool (although dated by today's standards) special effects. It loses the dark, almost noir-esque tone from theA sequel with even more action, another sharp plot, and fantastic performances. James Cameron shows a lot of unique ideas and cool (although dated by today's standards) special effects. It loses the dark, almost noir-esque tone from the previous film. It's definitely is focused on being more of a big spectacle action film.\r However the film doesn't lose it's brain as a result. It's still a thoughtful sci-fi film. The time traveling aspect is handled well. Some light touches of humor and emotional drama make it a movie that can be more accessible to a wider audience. Thankfully, without losing too much of what made it's predecessor so great.\r Cameron shows he isn't afraid to change things up for his sequel. Grander ambition all around make it a sequel that's better than it's predecessor in just about every way. With a standout performance from Schwarzenegger, meticulously crafted action, and cool sci-fi elements, and you have a film that can please just about everyone. It's an action film with more brains behind it than the average affair.",
+            "review_date": "2015-11-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2: Judgement Day is so outstanding and fascinating! I love it more than the first one because the story in this one is more enjoyable to me.",
+            "review_date": "2018-04-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is, in my honest opinion, one of, if not the greatest film ever made.  Effects that still hold up today, exhilarating action, very well performances, especially by Schwarzenegger and Hamilton, and a one of the best plots I've ever seenThis is, in my honest opinion, one of, if not the greatest film ever made.  Effects that still hold up today, exhilarating action, very well performances, especially by Schwarzenegger and Hamilton, and a one of the best plots I've ever seen in a movie.  If you haven't seen this, you are doing yourself a disservice.",
+            "review_date": "2014-07-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "this sequel beats the original in just one shot for its neat special effects, great acting, and awesome action scenes.",
+            "review_date": "2010-10-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "T2: Judgment Day is a violent, brutal, entertaining film which delivers on all levels. With heart racing set-pieces and some of the best action sequences in film T2: is not only a great action movie but one of the best movies ever.",
+            "review_date": "2012-10-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I see many people in this film very much liked century, but for my part, did not seem as good as the first    .",
+            "review_date": "2015-10-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2 is a nice action movie, but movies don't come more overrated.",
+            "review_date": "2008-01-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "From watching this movie I thought the graphics were **** and that they could of done better with the ending it's just them distorting the chips in liquid that completely does NOT look like actual melted metal. SoFrom watching this movie I thought the graphics were **** and that they could of done better with the ending it's just them distorting the chips in liquid that completely does NOT look like actual melted metal. So PipeBomb!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+            "review_date": "2012-12-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The only James Cameron movie I believe truly deserves a perfect score of 10. A classic that will be remembered by ages, but unfortunately, is in the shadows of Cameron's big and overrated movies like Titanic and Avatar.",
+            "review_date": "2010-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While the acting is pretty terrible and plot could have been better, The good use of special effects and the solid action through out make up for it. I enjoyed it.",
+            "review_date": "2011-12-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Probably famous for being one of the few movies out there that is better than it's predecessor, this is one movie that I think is actually not as great as the last one. Allow me to explain. The first one I thought had better subtext about warProbably famous for being one of the few movies out there that is better than it's predecessor, this is one movie that I think is actually not as great as the last one. Allow me to explain. The first one I thought had better subtext about war and the dangers of technology, this one however does still have bits of that located in it somewhere, but is more focused on trying out new types of effects. Not that's bad, this has some of the best action out there. Some of the things I am disappointed about is the opening, it's the same as the last one, but doesn't have that same flare that it had. The effects overall in this film are quite entertaining and are still pretty good for todays standards. Arnold is still good, for not showing emotion, but the scenes where they try to insert humor for him don't always work. Unfortunately I think that this is one of Arnolds last movies that he stars in and does well, afterwards is a steady decline. The main cast does pretty well to, definitely some believable characters. The villain is really good in this, even though it's a clone of Arnolds performance in a way, he's very imposing and at times scary. This is definitely a awesome movie, but compared to the last one it's just not as well written.",
+            "review_date": "2013-05-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best movie sequels of all time and it earned its place in movie / pop culture history. It was carefully made, plays with expectations and delivers an amazing experience. It had a good mixture of action, character development withOne of the best movie sequels of all time and it earned its place in movie / pop culture history. It was carefully made, plays with expectations and delivers an amazing experience. It had a good mixture of action, character development with an immersive story. Lets start at the beginning: The Terminator was already a really good experience and the story could easily be continued. It is the standard Hollywood rule that if a movie is successful enough you get a sequel no matter what (Curse and blessing of the industry).  It took still quite a while until they started. A frequent reason I read were production issues and that the special effects technology was not good enough. However after solving the issues they could start. Luckily they get the best assets back with James Cameron, Arnold Schwarzenegger and Linda Hamilton atop of many people behind the screen. The story is set approx 10 years after the prequel. The supercomputer Skynet who is at war with humanity in the future sends another Terminator to get rid of John Connor who will lead the human resistance to victory. Again the resistance does send one of them back to stop the Terminator. This sounds firstly like a warmed up retelling or re-shoot of Terminator 1 but you will be surprised how good the story will become and how much effort was put into it (I am vague on purpose to avoid spoilers). The story itself has a lot of good ideas some twists and a mixture of action, story telling and character development / interaction that makes it hard to find flaws. Of cause you can find smarter solutions for Skynet to eliminate John like a virus pandemic or a high bounty to let ruthless humans do the hard work. However these are just thoughts or ideas and will not be used against the movie. I will continue with the actors. Arnold Schwarzenegger returns to his most iconic role and fully delivers. Same goes for Linda Hamilton as Sarah Connor. She also fully delivers and got a lot of character development.  Then we got Robert Patrick who is the best addition to the movie. Edward Furlong as (young) John Connor is one of the few good child actors that also started successful career later. He is absolutely believable and relatable. I want to point out for the rest of the cast that there is not one missed scene or awkward acting moment I can remember. Everything fits into the narrative and I think I should praise James Cameron as director (also writer and producer). Visually the movie sets new standards for its time. Be it the sets or especially the special effects. While some special effects look not that impressing today they were amazing and baffled the audience. Then there are of cause the action sequences and they do nothing halfhearted. Often I hold my breath because these were so intense, immersive and entertaining. The stunt team deserves credits. Overall this is rightfully named as one of the best sequels of all times and outclasses the prequel. It is one of the most well know movies of all time, pop culture legend and so carefully made that it is easy to recommend. It is the best of the franchise and the kind of movie all later installments try to reach or surpass (Hint: They never came close again).",
+            "review_date": "2021-03-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nBefore you all murder me for what I'm about to say, just hear me out. Terminator 2 is an average film, and I'll tell you why:\r Pros:\r 1. Special Effects.\r2. The T-1000.\r3. Proves that sequels don't always run out of ideas.\r4. The fights are good (but get kind of repetitive eventually).\r5. \"Hasta la vista, baby!\" is almost as good as the classic \"I'll be back.\"\r6. After eight years, Arnie still looks hip and young.\r Cons:\r 1. The lack of suspense, unlike the first film.\r2. The T-800 says he won't kill anyone, but he eventually kills numerous cops.\r3. The action feels almost identical to the first Terminator.\r4. The part where Sarah Connor narratez the movie when John and the T-800 bond is emotionless.",
+            "review_date": "2015-11-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I'm surprised this horrid creation turned out to be a classic. \"Terminator 2: Judgment Day\" is basically the same film \"The Terminator\" was, only with better effects.",
+            "review_date": "2016-10-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the Greatest Action Films Ever Made and One of the Greatest Films Ever Made. The Action that is directed in this movie is extremely exciting, the performances by the actors is very real, Arnold is the Terminator/T-800, and the writingOne of the Greatest Action Films Ever Made and One of the Greatest Films Ever Made. The Action that is directed in this movie is extremely exciting, the performances by the actors is very real, Arnold is the Terminator/T-800, and the writing for this film is fleshed out perfectly!",
+            "review_date": "2016-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThe sequel of The Terminator (1984) was way better than I expected. Because of the ratings in many websites like Rotten Tomatoes, the first one (100%) was rated higher than this one, the sequel (93%), also in Metacritic was the same, Terminator in 1984 got 84% and Judgment Day just got 75%. Metacritic rated so terribly. But in IMDb was fair. The Terminator Saga is one of the franchises that had its sequel better the the original like the Spider-Man Trilogy directed by Sam Raimi or the X-Men franchise.  Schwarzenegger was still T-800 but with a different mission. The last time we saw him as a villain, well in here he was sent to protect Sarah Connor (Linda Hamilton)\u2019s son, John Connor (Edward Furlong) who would lead an army to destroy the machines in the future. He was still a kid that time but his performance wasn\u2019t bad. He was great with different emotions and good acting. In here, I liked Hamilton\u2019s performance more than the previous film, she was a mother, a badass fighter and she was addicted to cigarettes. I also loved the way she looked but I didn\u2019t like the way she got drunk. Schwarzenegger just got much better. In here, there\u2019s a new villain called the T-1000 played by Robert Patrick, a better and more modern prototype. He could morph into liquid metal and used his hand as various weapons. The way the CGI was edited was really awesome. The cinematography was great as well. It was filled with a lot of great and classic moments. The action sequence here was a lot better, especially the liquid metal (I\u2019ve already mentioned that) and the battle between the good guys and the SWAT. The CGI was well-edited there with lots of shooting and explosions caused by Schwarzenegger\u2019s T-800.  The strong violence and sci-fi actions didn\u2019t really make this move deserve an R-Rated. It was totally safe for 13 and 14 year-olds. I didn\u2019t  see anything too bloody, just T-800 cutting his arm, that\u2019s it. I really didn\u2019t like the idea the the whole Terminator Saga would be rated R. It\u2019s just sci-fi, actions and little violence.  Nobody would be afraid, they\u2019re gonna like it. That\u2019s something I don\u2019t like about the movie and the rest of the Saga. The final battle was extremely epic when T-1000 knocked down T-800 and then Sarah came to knock some of T-1000\u2019s ass. Then T-800 came up lying on a giant clockwork and holding a rifle that caused destruction shot at T-1000 and he fell into the lava (maybe?) and melted. The way the villain died was just so satisfying.  This is one of James Cameron\u2019s masterpieces of sci-fi. He got really good with the CGI and I\u2019m looking forward to see the 3-D version of Judgment Day released in 2017 with better cinematography and maybe I could feel that I\u2019m in there. This one was definitely my favorite of the Terminator Saga.Ratings: 9.4/10",
+            "review_date": "2019-05-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is wonderful, sensational, epic ... there are no words to describe how good it is.Linda Hamilton was just fantastic!",
+            "review_date": "2019-12-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2 is the sequel to James Cameron's 1984 sci fi classic, The Terminator... Arnold Schwarzenegger and Linda Hamilton return in Terminator 2 also directed by James Cameron and made in 1990....... Terminator 2 has a similar plot to theTerminator 2 is the sequel to James Cameron's 1984 sci fi classic, The Terminator... Arnold Schwarzenegger and Linda Hamilton return in Terminator 2 also directed by James Cameron and made in 1990....... Terminator 2 has a similar plot to the original but instead of Arnold Schwarzenegger being the killing type of Terminator he's the protector of Sarah Connor's son, John Connor played by Edward Furlong. However a newer machine even more deadlier and advanced than Schwarzenegger's T-800 is sent too to Kill John Connor and can shapeshift, immitate humans and do allsorts of clever things. The shapeshifting enemy is the T-1000 played by Robert Patrick so we have two machines, one programmed to destroy and the other to protect. Terminator 2 has great performances by Linda Hamilton, Arnie and Robert Patrick and amazing stunts, action scenes, violence and special effects and the almost constant use of blue lighting. Great film but the original one for me is better because it's just darker and violent.",
+            "review_date": "2020-03-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best sequels ever made, brilliant special effects, amazing pace. The acting is excellent by everyone. Superb direction, fascinating plot.",
+            "review_date": "2009-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "there seems to be only one man who can take the original movie and make it better . first Aliens now the terminator . camron just takes every thing and kicks it up a few knotches and does it so well. this is deffinitly the blue print on howthere seems to be only one man who can take the original movie and make it better . first Aliens now the terminator . camron just takes every thing and kicks it up a few knotches and does it so well. this is deffinitly the blue print on how to make a kick ass sequel and just make a kick ass action film period . the story is nothing to new that pushes the series foward much basically machine sent from the past to kill sarah conners son instead of her . this time though arnold is the good terminator sent to protect john connor from the bad one . its nothing ground breaking but it sure is entertaining as hell to wach .the acting is pretty well done and the action just blows up on the screen with gusto . i dont think you could see this film and leave it saying it needed more action . the visuals in its day where amazing i remember seeing this in the theater and every one was loving it . even by todays standered it still holds up pretty well. so if you wana see a great action flick and have missed this then you should check it out.",
+            "review_date": "2010-08-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2: Judgement Day does its best to keep this familiar scenario fresh. There are some surprises, fun bits of action, interesting relationships between characters especially between John and the T100. and the effects on the villainTerminator 2: Judgement Day does its best to keep this familiar scenario fresh. There are some surprises, fun bits of action, interesting relationships between characters especially between John and the T100. and the effects on the villain are great. With all that said though this is still a nonstop action movie that is remarkably similar to the first. The film overdoes it in the action, recycles some plot elements, and isn\u2019t as paced as well as its predecessor. The film gets a pass though as it doesn\u2019t suck. With a film having the exact same premise and in some cases being strikingly similar to the last Terminator film it would\u2019ve been so easy for this to feel like a lazy rehash especially with the overblown action but it handled it well. Had the film really delved deeper into the characters and its idea of controlling fate this could\u2019ve been a pretty good movie and maybe even surprised the first. As it is its ok. I\u2019m glad I saw that but the excessive non-stop action and at times too familiar story prevented me from getting as invested in this film as the first one.",
+            "review_date": "2014-12-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one OUTSTANDING movie! rarely do you see a film this ambicious realised.It was so ahead of its time when it came out,in Drama,action & special effects,& i'll never forget the first time i saw it,which was on the big screen in LeisterThis is one OUTSTANDING movie! rarely do you see a film this ambicious realised.It was so ahead of its time when it came out,in Drama,action & special effects,& i'll never forget the first time i saw it,which was on the big screen in Leister Square in london.You know critics are generally out of touch with everyone else,when they've given this movie a meta score of 63 !?! Although its a fairly similar plot to the first movie,the acting,screenplay,music score,special effects,stunts & photography are so good,that it just puts this up with the best movies ever made.. Classic James Cameron at his best(not that he's done anything i havnt liked bar Titanic).This movie,& indeed its predecessor,are simply must see's.Now we just have to not dwell on the third movie too much..",
+            "review_date": "2011-05-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Against the grain of what so many other people think, I don't really like JUDGMENT DAY anywhere near as much as THE TERMINATOR.  It has too many unnecessary special effects.  If just those had been edited to different ones / taken outAgainst the grain of what so many other people think, I don't really like JUDGMENT DAY anywhere near as much as THE TERMINATOR.  It has too many unnecessary special effects.  If just those had been edited to different ones / taken out completely (i.e. a Terminator coming out of the floor looking like a blob of checkers in the shape of a human body), this film would have been flawless.",
+            "review_date": "2011-08-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Better than the first film, T2 has a strong story, cool music and Arnie on fire. Very entertaining.",
+            "review_date": "2019-04-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Like the first one, this too is a great movie. Arnie's character has much more depth and the story develops in a really interesting way. Honestly, the only thing that held this movie back in my opinion was the T-1000 element. The whole liquidLike the first one, this too is a great movie. Arnie's character has much more depth and the story develops in a really interesting way. Honestly, the only thing that held this movie back in my opinion was the T-1000 element. The whole liquid metal concept was a terrible idea and it should've never been considered. All of that robot stuff taking over and having to go back in time to save Sarah Connor, sure, that's all within my level of suspended disbelief. However, a robot breaking the laws of physics was too much and made certain scenes in the movie feel more silly than anything. That was unfortunate because without that, I feel like they could've have a legit 10/10 quality movie.",
+            "review_date": "2012-11-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The effects are beyond breathtaking and the story is so emotional that it almost overshadows the awesome action of Terminator 2. A blockbuster beyond comparison by all means.",
+            "review_date": "2012-12-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Movies cant get any better than this in my opinion. The action, the story, the cast, the effects, everything is so well done that it definitely deserve its praise. It also has something beyond the gunshots and explosions, the movie also has aMovies cant get any better than this in my opinion. The action, the story, the cast, the effects, everything is so well done that it definitely deserve its praise. It also has something beyond the gunshots and explosions, the movie also has a deep message on how precious the human spirit is. If a metal, killer,  robotic organism from the future can discover the value of human life, maybe we can too. My highest recommendation...11 out of 10.",
+            "review_date": "2012-03-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A superb upgrade of the original, which is saying a lot. Terminator 2: Judgment Day is a model action sequel with iconic action sequences, powerful performances, and surprising emotional depth.",
+            "review_date": "2012-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "After not enjoying the first Terminator, it took me a while to get around to the second installment in the franchise, but I am very glad that I finally watched it. A brilliant action film that is perfectly directed by James Cameron,After not enjoying the first Terminator, it took me a while to get around to the second installment in the franchise, but I am very glad that I finally watched it. A brilliant action film that is perfectly directed by James Cameron, Terminator 2: Judgment Day is well ahead of its time in terms of special effects and is overall just a  very well done and very entertaining spectacle. Arnold Schwarzenegger is great here as the Terminator and Linda Hamilton is very strong as Sarah Connor. The child actor who plays John Connor is pretty spotty and the film itself can be a little campy at times, but it never fails to entertain. Beautifully filmed action sequences combine with good drama here to make a very good film that is also very well written and quite funny at times. Terminator 2: Judgment Day is what big budget action movies should look and feel like.",
+            "review_date": "2015-07-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best films of all time. I have watched this at least 10 times and I could watch it a good deal more.",
+            "review_date": "2020-03-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This remains one of the greatest and most adored action movies of the 90s ,Terminator 2 is a state-of-the-art action movie, all right: It gets you thinking that the most reasonable thing might just have been to blow everyone away",
+            "review_date": "2012-10-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love science-fiction, its my favourite genre and this film is the peak of a masterpiece that hollywood can offer to us. James Cameron were a god behind the cameras in this film",
+            "review_date": "2013-02-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2 is the best movie of the entire saga. Within the futuristic robots and the Skynet technology , one of the best movies of Arnold Schwazenneger .",
+            "review_date": "2013-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolute 10/10 classic and my favorite Arnie film. Great action, amazing special effects for its time, good writing, interesting story, engaging characters.",
+            "review_date": "2015-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is a simple masterpiece! Excellent cinematography, action, intense action movies, good character development, satisfying ending. Just anything you could want from a good movie. The soundtrack is just badass. This film isThis film is a simple masterpiece! Excellent cinematography, action, intense action movies, good character development, satisfying ending. Just anything you could want from a good movie. The soundtrack is just badass. This film is indescribably phenomenal, you have to see it!",
+            "review_date": "2013-04-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The greatest popcorn action movie of all time, how T1 is rated better is a joke. T1 starring Michael Biehn, come on i love him in farcry3 Bloodragon but he isn't quite Daniel Day Lewis. More of a joke is how the trainwreck they call T3The greatest popcorn action movie of all time, how T1 is rated better is a joke. T1 starring Michael Biehn, come on i love him in farcry3 Bloodragon but he isn't quite Daniel Day Lewis. More of a joke is how the trainwreck they call T3 starring \"fierce\" female terminator and poor casting can even come close (within  2 points) of T2. T2 writes one of the best sci fi tales ever written and executes it with flawless success depicting a stunning Sarah Conner conflicted and beaten with only two goals before she expires, protecting future leader of the resistance and son John Conner, and stopping Skynet. With a decadent soundtrack featuring a 90's who's who in rock (Guns n Roses ect.) it is sure to bring any nostalgic gen exer back to their hay day. The action was top knotch and the special effects were truly groundbreaking and still hold up today. What makes the movie epic is the character development and the conflicting relationship triangle with the almost father like role the terminator plays to John Conner who in turn attempts to humanize the robot, and the stowed away hatred Sarah Conner still has for their kind after the events of T1. In the movie Sarah often has flashes of a future nuclear explosion induced by Skynet which dramatically envelopes her and the world which they describe as \"D day\", these moments can be moving and intense. The story eludes to a future war between the machines \"Skynet\" and what little is left of man after D day with the human resistance led by \"son\" John Conner. The sci fi aspect and the dichotomy between man and machine \"what it is to be human\" is truly engaging and well explored. This film is more than the candy coated paint job and explosions, it is gushing with 90's mystique and cold hard style to go with a touchingly dramatic and interesting story. T2 will always define the genre and has inspired many and spawned a legion of imitators, but none as good as the original.......... or should i say the original sequel. T2 will live forever and is a true work of art by artists at the peak of their game.",
+            "review_date": "2013-06-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "my favorite movie of all time is full of action, suspense, and emotion. this is arnolds best film in my opinion. the special effects are amazing t2 gets an a plus",
+            "review_date": "2013-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For sure one of the best action movie of all time with a perfect setting. The Story is great and understandable. Arnie is perfect for this role, because he doesnt need to show lot of emotions, which he cant. Also the character of Sarah ConnorFor sure one of the best action movie of all time with a perfect setting. The Story is great and understandable. Arnie is perfect for this role, because he doesnt need to show lot of emotions, which he cant. Also the character of Sarah Connor was perfectly written, not like the feminist roles in the movies today, where men are jokes and weak. The action scenes were a milestone in 1991 and you can still watch them.",
+            "review_date": "2020-04-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is as good as a science fiction action movie can get. Arnold's imposing presence, the original main idea, the formidable villain, the chemistry among the good guys (mother, son and the mechanical guardian), the perfectly directed,This is as good as a science fiction action movie can get. Arnold's imposing presence, the original main idea, the formidable villain, the chemistry among the good guys (mother, son and the mechanical guardian), the perfectly directed, exciting action scenes, the ominous atmosphere, constant tension and explosive ending make this a must for all fans of the genre.\rargonautis.eu",
+            "review_date": "2013-09-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I seem to be in the majority when i say that Terminator 2: Judgment Day is the best film out of all of the Terminator movies. And rightly so, Terminator 2 is a masterpiece and is definitely one of the greatest action movies of all time and toI seem to be in the majority when i say that Terminator 2: Judgment Day is the best film out of all of the Terminator movies. And rightly so, Terminator 2 is a masterpiece and is definitely one of the greatest action movies of all time and to me one of my favorite films ever made. Now, to the review, i shall briefly explain the different reasons why i have rated the film a 10/10. I would always say that the main reason this film is amazing is its impeccable pace, and that the film has incredible action sequences, dramatic storytelling and that it creates emotional connections between you and the characters. I mean, if you care about a machine more than the human characters then you know that the film is something special. And that is exactly why i have always loved the movie. Secondly, i always have admired the amazing effects used by James Cameron and that they still stand strong against other action movies today. The detail when the T-1000 is shot, and when he changes into his original form, it never fails to amaze me and it remains as some of the best special effects ever used. To conclude, Terminator 2 is one of the best action films of all time and one of the best films i have ever seen. It has incredible action, great effects, amazing storytelling and a great soundtrack. And honestly it is one of the movies that still shines today. Lastly, remember not to trust critics with deciding whether you should watch a film, users are always more reliable. Thank you for reading my review.",
+            "review_date": "2015-06-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An exciting and well made sequel to the original, featuring amazing effects for the time and also became iconic for its lines and action sequences. A sci-fi must see!",
+            "review_date": "2014-02-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Quite a different proposition to the first film, but equally enjoyable in its own frequently preposterous way. It was kind of impossible not to fall utterly in love with this film when you're still a teenage boy...I mean, who didn't want aQuite a different proposition to the first film, but equally enjoyable in its own frequently preposterous way. It was kind of impossible not to fall utterly in love with this film when you're still a teenage boy...I mean, who didn't want a pet robot in their teens?!On the whole, a very clever reinvention of the original. And while it's in some ways inferior to the first, it has at least dated a bit better (thanks to a little thing called \"CGI\" that was starting to appear in movies).",
+            "review_date": "2020-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best sci-fi sequels of all time takes the spirit of the original movie and dares to flip the concept on its head and in doing so chooses to make broadening it's audience a benefit rather than a shackle for its new ideas. TheOne of the best sci-fi sequels of all time takes the spirit of the original movie and dares to flip the concept on its head and in doing so chooses to make broadening it's audience a benefit rather than a shackle for its new ideas. The phenomenal audio mix still holds up well even if some of the visual effects havent aged as well. A compelling watch!",
+            "review_date": "2022-09-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Some people say \"Terminator 2: Judgment Day\" is better than the first film. Well, I disagree, but I do agree that this was a great ride. The story is very original, the action sequences, once again, are entertaining and memorable, theSome people say \"Terminator 2: Judgment Day\" is better than the first film. Well, I disagree, but I do agree that this was a great ride. The story is very original, the action sequences, once again, are entertaining and memorable, the soundtrack is unforgettable and the special effects are simply eye-popping. Very good movie with a spectacular performance from Arnold Schwarzenegger and lots of thrills.\r Final Score: 8/10.",
+            "review_date": "2015-04-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Oh. My. Terminator 2 is such a great movie. Old cast members are back, Robert Patrick is a great actor. Everything about this movie is just great. This is a great example of what a good sequel is.",
+            "review_date": "2016-01-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Classic movie and a milestone in CGI. Sadly people started forgeting about the story and only put CGI in... see \"Dark F\u0336a\u0336r\u0336t\u0336\" ehrm... \"Dark Fate\"",
+            "review_date": "2019-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terminator 2 is what all action films aspire to be. This film has changed big budget action films for the better. The characters have so much depth. Arnold is so likeable for the audience which was something I wasn't expecting and I love thatTerminator 2 is what all action films aspire to be. This film has changed big budget action films for the better. The characters have so much depth. Arnold is so likeable for the audience which was something I wasn't expecting and I love that James Cameron allowed him to be the hero in this film, besides Robert Patrick makes an outstanding villain. Linda Hamilton kicks ass and is the flag carrier for woman action stars I wish Hollywood would realize how effective she is in this movie and start casting more women in strong roles. Edward Furlong also stands out as John Connor. Young actors can drag down a film in a lot of circumstances but he is another strong point and I love the interaction between him and Arnold, its priceless. James Cameron bettered the first Terminator in almost everyway here, the CGI is great and the action still holds up after almost 25 years.",
+            "review_date": "2015-07-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "vary entertaining movie I was happy to see they dared to go in another direction from the first film, the effects while vary primitive by todays standards, they look vary well devised and carefully filmed, at times they add a mechanicalvary entertaining movie I was happy to see they dared to go in another direction from the first film, the effects while vary primitive by todays standards, they look vary well devised and carefully filmed, at times they add a mechanical effect to the terminators motion and makeup, and thats a good thing too, because most cg robots these days look too synthetic in movement... almost too human in a way, this gives the terminator more realism as a killing machine... he's not a killing machine pretending to move like a man, so that he can kill you, he's a machine that is willing to loose the human makeup and still function to kill you, and miles ahead of the modern day cg that mimics human movement.\r My thoughts are this film is among the best action movies ever made easily in the top 10 ever made James Francis Cameron did a great Job directing, and so too did the effects, makeup, and animatronics department all did a fantastic job here.",
+            "review_date": "2016-09-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a MASTERPIECE. Unique and special. Stunning piece of art in the sci-fi genre! Terminator 3, 4, 5 should not have appeared if they could not be as good as this amazing film. BTW, Terminator 1 is also a very good prequel.",
+            "review_date": "2016-05-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A surprisingly good sequel considering what sequels are usually like. The T-1000 CGI scenes are very well made for a movie that came out in 1991, and overall it's pretty cool. Wouldn't say that it's amazing, because it's way too long and it'sA surprisingly good sequel considering what sequels are usually like. The T-1000 CGI scenes are very well made for a movie that came out in 1991, and overall it's pretty cool. Wouldn't say that it's amazing, because it's way too long and it's not something you would watch that often.",
+            "review_date": "2016-09-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just saw special 3D showing of T2, oh yeah. 3D wasn't needed, as it didn't really add anything. However, re-watching this on the big screen was a pleasant experience. It washes out the horrible taste both sequels/prequels left behind to thisJust saw special 3D showing of T2, oh yeah. 3D wasn't needed, as it didn't really add anything. However, re-watching this on the big screen was a pleasant experience. It washes out the horrible taste both sequels/prequels left behind to this once great series.",
+            "review_date": "2017-08-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Rate this video 10 if you want to live (Just Kidding!)\r I have watched the film. I like the idea of there being a good terminator. One that is programmed, devoted to protecting just one seemingly ordinary boy. Not only does it displayRate this video 10 if you want to live (Just Kidding!)\r I have watched the film. I like the idea of there being a good terminator. One that is programmed, devoted to protecting just one seemingly ordinary boy. Not only does it display action, but caring. Makes you want to be in the movie and interact with the characters. Nice Job!",
+            "review_date": "2015-04-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When James Cameron crafted The Terminator in 1984, the concept of a sequel was far from his thoughts. The film's box office performance, while more than justifying the movie's understated $6.5 million budget, did not result in studioWhen James Cameron crafted The Terminator in 1984, the concept of a sequel was far from his thoughts. The film's box office performance, while more than justifying the movie's understated $6.5 million budget, did not result in studio executives rushing to Cameron to make a follow-up. However, The Terminator arrived on tape just as the mid-'80s home video revolution was gathering steam, and it became one of a few titles whose VHS success oustripped its theatrical performance. By the late 1980s, there was no question that Cameron would make a Terminator sequel. The only mystery was how spectacular it would be. Aliens, Cameron's first big-budget directorial assignment, had been an edge-of-the-seat ride and indications were that he had every intention of topping it with Terminator 2. (In between Aliens and T2, Cameron made The Abyss, a film plagued by production issues that received a lukewarm initial reception but was re-evaluated once a more complete version of the director's vision was released for home viewing.)\r For T2, Cameron's planed \"major twist\" was unveiled before the movie's release because of marketing considerations. This time, Arnold Schwarzenegger would portray a good Terminator instead of a bad one. Had this been kept a secret, it would have packed a wallop. Unfortunately, the trailers let the cat out of the bag and few (if any) members of the audience were unaware of this switch-up. Knowing the twist beforehand neither ruins the overall movie-going experience nor damages its integrity, but it's not unlike being aware of the identity of Luke's father while watching The Empire Strikes Back.\r T2 features bigger, bolder, more energetic action sequences than its predecessor (Cameron had a budget of more than ten times that of the original for the sequel). The big moments include a chase scene in which the T-1000, in a truck, pursues John Connor and his Terminator on a motorcycle; the prison break of Sarah Connor; and the explosive finale at Cyberdyne. The film is long enough to allow for more character development than in the original. We come to understand how her obsession with the future has transformed Sarah into a driven woman. A touching friendship develops between John and The Terminator, lending aspects of an off beat \"buddy movie\" to T2. And Miles Dyson (Joe Morton), the scientist/engineer unlocking the secrets of the 1984 Terminator's chip, must face the moral and ethical implications of what he is inadvertently doing. By trying to help mankind, is he instead becoming the author of its genocide? The time paradoxes addressed in this film are more complex than those in The Terminator. This storyline postulates that actions from the future have formed a cornerstone of the past, raising questions about the non-linear nature of time. Cameron's original ending for T2 would have made future sequels unlikely; producer Mario Kassar forced Cameron to abandon his planned \"coda\" to allow for the possibility of additional Terminator movies. Thus far, there have been two (plus a television series), but Cameron has not been involved, claiming the story he wanted to tell concluded at the end of T2.\r There's a little more humor in T2 than there was in The Terminator. Most of it results from the interaction between John and the Terminator, where the human child attempts to teach the robot killer the intricacies of offhand social interaction. This includes slang expressions such as \"Hasta la vista, baby.\" It's also worth noting that, although it would be a stretch to call Schwarzenegger's Terminator \"kinder and gentler\" in this film, he does not kill anyone. Even before John explicitly orders him not to commit murder, the Terminator's visit to the past lacks a body count. (The same cannot be said of the T-1000.) Of course, injury, intimidation, property damage, and general mayhem are exempted.\r Combined, the first two Terminator movies offer some of the best contemporary-based science fiction action ever provided in a motion picture series. Although the third Terminator movie continues the legacy of impressive, big budget action, the screenplay is lacking in both depth and substance and it feels inferior, especially when viewed back-to-back with Cameron's efforts. Although The Terminator is arguably the more visionary of the first two films, T2 is the more visually and viscerally satisfying. It's an exhausting experience and, even 18 years after its release (as I write this review), few films have matched it within the science fiction genre for sheer white-knuckle exhilaration.",
+            "review_date": "2015-04-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When James Cameron crafted The Terminator in 1984, the concept of a sequel was far from his thoughts. The film's box office performance, while more than justifying the movie's understated $6.5 million budget, did not result in studioWhen James Cameron crafted The Terminator in 1984, the concept of a sequel was far from his thoughts. The film's box office performance, while more than justifying the movie's understated $6.5 million budget, did not result in studio executives rushing to Cameron to make a follow-up. However, The Terminator arrived on tape just as the mid-'80s home video revolution was gathering steam, and it became one of a few titles whose VHS success oustripped its theatrical performance. By the late 1980s, there was no question that Cameron would make a Terminator sequel. The only mystery was how spectacular it would be. Aliens, Cameron's first big-budget directorial assignment, had been an edge-of-the-seat ride and indications were that he had every intention of topping it with Terminator 2. (In between Aliens and T2, Cameron made The Abyss, a film plagued by production issues that received a lukewarm initial reception but was re-evaluated once a more complete version of the director's vision was released for home viewing.)\r At the core of The Terminator lies the concept of time travel, with machines from the future returning to the past in an attempt to change it while future humans sought to retain the status quo. For Terminator 2, Cameron changed the game. Once again, there are pro-human and anti-human factions tripping through time, but on this occasion, both sides have the same eventual goal: change the future. For Sarah Connor (an ultra-toned Linda Hamilton) and her 10-year old son, John (Edward Furlong), it's a chance to avert the coming apocalypse. However, for the T-1000 (Robert Patrick), the latest machine weapon, the mission is to kill the Connors. With those two eliminated, the future human resistance will be toothless, thereby assuring eventual machine dominance.\r For T2, Cameron's planed \"major twist\" was unveiled before the movie's release because of marketing considerations. This time, Arnold Schwarzenegger would portray a good Terminator instead of a bad one. Had this been kept a secret, it would have packed a wallop. Unfortunately, the trailers let the cat out of the bag and few (if any) members of the audience were unaware of this switch-up. Knowing the twist beforehand neither ruins the overall movie-going experience nor damages its integrity, but it's not unlike being aware of the identity of Luke's father while watching The Empire Strikes Back.\r There's a little more humor in T2 than there was in The Terminator. Most of it results from the interaction between John and the Terminator, where the human child attempts to teach the robot killer the intricacies of offhand social interaction. This includes slang expressions such as \"Hasta la vista, baby.\" It's also worth noting that, although it would be a stretch to call Schwarzenegger's Terminator \"kinder and gentler\" in this film, he does not kill anyone. Even before John explicitly orders him not to commit murder, the Terminator's visit to the past lacks a body count. (The same cannot be said of the T-1000.) Of course, injury, intimidation, property damage, and general mayhem are exempted.\r Although the theatrical version of the film clocked in at 137 minutes, the most commonly viewed home video version is the extended director's cut, which adds about 15 minutes of additional footage, and the new scenes do not impede the breakneck pace. Perhaps the most notable of the inclusions is a dream sequence in which Sarah interacts with Kyle Reese. This sequence - the only one in T2 featuring Michael Biehn - provides stronger connective tissue between The Terminator and its immediate sequel.\r Combined, the first two Terminator movies offer some of the best contemporary-based science fiction action ever provided in a motion picture series. Although the third Terminator movie continues the legacy of impressive, big budget action, the screenplay is lacking in both depth and substance and it feels inferior, especially when viewed back-to-back with Cameron's efforts. Although The Terminator is arguably the more visionary of the first two films, T2 is the more visually and viscerally satisfying. It's an exhausting experience and, even 18 years after its release (as I write this review), few films have matched it within the science fiction genre for sheer white-knuckle exhilaration.",
+            "review_date": "2015-05-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is THE action film. You can't go past Terminator 2 for action, drama and Arnold Schwarzenegger one-liners. From \"Hasta-La-Vista Baby\" to \"I'll be back\", T2 has it all.",
+            "review_date": "2015-07-14",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 116
 }

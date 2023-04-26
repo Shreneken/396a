@@ -1,629 +1,652 @@
 {
-  "title": "The Shawshank Redemption",
-  "rating": 8.9,
-  "release_date": "1994-09-01",
-  "genre": [
-    "Drama",
-    "Crime"
-  ],
-  "summary": "Wrongly convicted, Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in in Maine's Shawshank prison for the murders of his wife and her lover.  Set in the 1940's, the film shows how Andy learns to get by in the brutal confines of prison, even earning the respect of his fellow inmates, most notably the longtime convictWrongly convicted, Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in in Maine's Shawshank prison for the murders of his wife and her lover.  Set in the 1940's, the film shows how Andy learns to get by in the brutal confines of prison, even earning the respect of his fellow inmates, most notably the longtime convict \"Red\" Redding (Morgan Freeman).… Expand",
-  "critic_reviews": [
-    "This is simply marvelous entertainment that breathes life into a genre that I thought had been dead for a decade-the prison picture.",
-    "In the lead roles, both Robbins and Freeman are outstanding, layering their performances with snippets of individuality: Their small, daily sustenances and minor triumphs are wonderfully inspiring.",
-    "A thumpingly good ode to friendship, hope, wit, wiles and wisdom, brimming with crackling characters and topped with the most twisteroo of twists since \"The Crying Game.\"",
-    "It's the no-bull performances that hold back the flood of banalities. Robbins and Freeman connect with the bruised souls of Andy and Red to create something undeniably powerful and moving.",
-    "Gripping...compelling.",
-    "[Darabont] makes you feel the maddening pace of prison time without letting his picture succumb to it.",
-    "Remarkable.",
-    "At times poignant, joyful, and terrifying, Shawshank Redemption is an altogether brilliant movie and the debut of an equally brilliant director.",
-    "Whitmore's Brooks is a brilliantly-realized character, and the scenes with him attempting to cope with life outside of Shawshank represents one of the film's most moving -- and effective -- sequences.",
-    "If the film is perhaps a little slow in its middle passages, maybe that is part of the idea, too, to give us a sense of the leaden passage of time, before the glory of the final redemption.",
-    "Some of \"The Shawshank Redemption'' comes across as outrageously improbable. Yet the film keeps pulling you back with its sense of striving humanity slowly turning the tables against evil.",
-    "A crowd-pleasing story that has little to do with the messy complexities of reality.",
-    "Shouldering a laconic-good-guy, neo- Gary Cooper role, Robbins never quite makes emotional contact with the audience.",
-    "Speaking of jail, \"Shawshank\"-the-movie seems to last about half a life sentence. The story, chiefly about the 20-year friendship between Freeman and Robbins, becomes incarcerated in its own labyrinthine sentimentality."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "I was expecting something else entirely to a better movie. Sorry not impressed me so even give birth. The only thing I liked was how they interpreted actors. Otherwise ... no comment.",
-      "review_date": "2015-03-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "How so, where superheroes in idiotic costumes with pretentious speeches? Sad thing is that films as of that level are no longer making ... films with meaning.",
-      "review_date": "2019-03-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best movies of all time. Don't deprive yourself of the pleasure of watching such a stellar movie. Go now and watch this movie if you have never seen it. Perfect casting, amazing story, emotional performances. Just perfect.",
-      "review_date": "2010-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nIn my opinion this movie is really overrated. No real emotional scenes and the worst part of this movie is its \"Happy End\" in its pink colors. I hardly rate it 4/10.",
-      "review_date": "2012-12-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nSo, so, so good. The adaptation of the Stephen King novel is so entertaining, filled with interesting dialogue and plot twists. A pretty much perfect prison film. Great performances by Robbins and Freeman. One moment really got to me: the moment when Andy crawls out of the sewer tunnel and stares up at the sky in the rain. Such a glorious moment of triumph, I wanted to stand up and scream \"Yes!\". This movie truly depicted that prison life in the fifties was just as hard for new prisoners as it is implied today. The movie didn't sugar coat Andy's prison life. A great movie full of great writing and performances that the first time you watch it, it will instantly be fortified as a great movie classic.",
-      "review_date": "2010-12-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Shawshank Redemption\", a sensational movie containing a strong plot, powerful performances, and the ultimate theme of good and evil, is a masterpiece.",
-      "review_date": "2011-09-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A parody of better movies. This movie was made for people with no brains or low intellect. It doesn't even deserved an Oscar nomination. Maybe that's why in serious lists, this isn't even in Top 100.",
-      "review_date": "2017-07-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I've never understood the love given to this pile of prison cliches. Yes, the leads are good actors, but that doesn't make the movie much better. I read an Esquire poll once that listed this as one of the male voters' top 10 movies of allI've never understood the love given to this pile of prison cliches. Yes, the leads are good actors, but that doesn't make the movie much better. I read an Esquire poll once that listed this as one of the male voters' top 10 movies of all time, and after the listing, Esquire wrote (huh?)  couldn't agree more.",
-      "review_date": "2013-07-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The most over rated film of all time, riddled with plot holes and plagued with sloppy scripting. Not terrible, but not worth watching unless you have a morbid curiosity to see what the fuss is all about and certainly not worth a second viewing.",
-      "review_date": "2015-06-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is awful simply because the bad guy, the prison governor or warden , is a \"devout\" Christian. A genuine devout Christian would not force the Holy book on anyone or have such a character! This film is to braiwash the masses, this isThis film is awful simply because the bad guy, the prison governor or warden , is a \"devout\" Christian. A genuine devout Christian would not force the Holy book on anyone or have such a character! This film is to braiwash the masses, this is why it got such a high status among the satanists who run this industry. Typical Holywood industry BS demonising Christianity and none bats an eyelid! Could holywood ve make a film where the Christian is the good guy and the muslim or jew are the bad guy? Oh no, if it was made it wouldnt be released, if it was released there would be a huge cry of lack of PC. Christians all over think this is a good movie!  Christians cant not see the wood for the trees because they have been mind programmed to follow the herd of imbeciles bred to comsume and make the 1% theri master. Holywood is evil. Wake up folks.",
-      "review_date": "2015-10-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "the worst film ever made.the character is dull, the story are pretty mediocre. just pointless for 2.5 hours. it waste my time. i really dont understand why people vote this rubbish so highly",
-      "review_date": "2015-03-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When i looked at IMDb and saw shawshank redemption at number 1 i was really expecting to be a great movie especially when i looked at the user reviews. Oh boy i was wrong. The movie is not bad but highly overrated. I really thought skyfall isWhen i looked at IMDb and saw shawshank redemption at number 1 i was really expecting to be a great movie especially when i looked at the user reviews. Oh boy i was wrong. The movie is not bad but highly overrated. I really thought skyfall is the most overrated movie in cinema history but i was wrong. The ending is very cliche. The dialogue is fine. The characters is good but more than that the movie does not deserve to be number 1. Rating:6.5/10",
-      "review_date": "2020-10-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Spectacular!",
-      "review_date": "2005-12-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I didnt enjoy it as much as I should of, but I know this is a great film.",
-      "review_date": "2005-09-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is beautiful, genius and brutal. It shows what prison life is like at the time which may not be innovative because obviously it has been done before but it still is a movie that is lightened up by the superb and versatile actings This movie is beautiful, genius and brutal. It shows what prison life is like at the time which may not be innovative because obviously it has been done before but it still is a movie that is lightened up by the superb and versatile actings of Tim Robbins (Andy Dufrane) and Morgan Freeman (Redd). The movie is sad and long but shows that if you live in prison you are still just trying to live the life you already had. The movie is a jolly tale of friendship, violence (including torture and isolation) and last but not least genius.",
-      "review_date": "2006-04-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just a great inspirational movie about the power of hope. This grown man cries everytime I see it.",
-      "review_date": "2006-06-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "i cant believe this film is not in the all time top 10 this is a truely great film with a great feel good ending, morgan freeman is immense!",
-      "review_date": "2006-06-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is possibly the most moving movie I ever watched.  I think Morgan Freeman really made this movie what it is, with one of his best performances ever.",
-      "review_date": "2006-09-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Shawshank Redemption is a powerful and uplifting, not to mention Oscar-worthy film. In 2006, it was ranked as the greatest film ever by Empire, a film magazine. The year it came out it was nominated for 7 academy awards but did not win a The Shawshank Redemption is a powerful and uplifting, not to mention Oscar-worthy film. In 2006, it was ranked as the greatest film ever by Empire, a film magazine. The year it came out it was nominated for 7 academy awards but did not win a single one because of a movie you may all remember, Forrest Gump. The success of Gump may have overshadowed this movie in the 90",
-      "review_date": "2007-03-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just great, the same about novel.",
-      "review_date": "2005-11-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best movie I've seen in years.",
-      "review_date": "2005-12-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Simplemente, una narrativa envolvente y unas actuaciones poderosas, facilmente podria seer la mejor pelicula de todos los tiempos.",
-      "review_date": "2006-11-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I can watch this movie more than any other. Perfect.",
-      "review_date": "2006-10-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beautiful. Moving. Amazing score. Don't listen to any criticism. Watch it for yourself. Period.",
-      "review_date": "2006-02-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of my favorite movies of all time. I highly recommend it.",
-      "review_date": "2006-06-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Warning: SpoilersShawshank Redemption is without doubt one of the best films ever made, and definitely the best film of 1994. Yes, it is better than Lion King, and I really like that too. It is not only enthralling but powerful and movingWarning: SpoilersShawshank Redemption is without doubt one of the best films ever made, and definitely the best film of 1994. Yes, it is better than Lion King, and I really like that too. It is not only enthralling but powerful and moving too. I will confess that I didn't understand it when I first saw it as a lot happens in the film, and I have now seen it three times. I seriously hope, that those who ignored the film when it was first released now recognise it as a great film, as it really is. The dialogue was extremely well-written, with lines that really stick in your mind. The cinematography and music are both gorgeous, and the prison itself is like a character that dominates the film. In the script, there are some true elements of Stephen King Now I admit I am not a huge king fan, and usually don't like coarse language in books. But in his books like It, which is very good, I have accepted the language represents brutality and rebellion, shown perfectly in the film with the battle of acceptance I suppose between the inmates and the superiors(like the scene with the warden yelling coarse language at the new inmates lined up in a row at the beginning.)The acting was exceptional. I am not hugely familiar with Tim Robbins, but he did a great job in a very demanding role. The best performance however, comes from Morgan Freeman as Red, who was seriously robbed of that Oscar, that he lost to Tom Hanks for Forrest Gump. Freeman reminds me very strongly, or his style of acting does, remind me of that of Sean Connery, suave yet very charismatic. Acting isn't just about your vocal range, it's about depth, which was what Freeman certainly had. In short, Freeman was brilliant in what could be his best performance. The scene where the inmates are listening to the Mozart aria over the speakers was a beautiful profound moment, and I actually cried in Brook's death scene. Very rarely do King adaptations translate-to screen well, because of the large scale of the author's books, with the exception of this and the Shining. Some like It and Dreamcatcher are genuinely memorable but have a number of flaws that prevent them from being classed as outstanding. And some, like Thinner and Tommyknockers that border on unwatchable. In conclusion Shawshank is a brilliant film, that is worthy of the credit it has been denied for so-long. 10/10 of course. Bethany Cox.",
-      "review_date": "2022-03-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nDespite a marvelous start paved with amazingly captured exposure scenes, attractive flashbacks and an unavoidable narration from Morgan Freeman, 'The Shawshank Redemption' sadly manages to lose its main plot into deceptively intertwined sub-plots.Originally presented as a classic film, it ends up being more like a documentary on the American prison system. Surely we closely follow the experience of Andy Dufresne (Tim Robbins), whose performance remains striking by the way, but the scenario tends to incorporate dull and shallow characters. Obviously you are never incarcerated alone, and the omnipresence of others is a point of life in jail you can't miss, but here the movie doesn't even bother to link characters further than the few relations we see them have on screen. It is like if all characters evolved on their own but still achieve to develop a great team spirit.In the end there remains numerous unanswered questions and misunderstandings. All I can say is that director Frank Darabont wanted to be sure we see that Andy Dufresne suffer a lot and withstand many terrible events. That we see him trying to remain upright and honest, tough in his own way. But for what ? His revenge tastes so bland and uncompelling compared to what we see him go through almsot two complete hours ! The ending seems so disappointing and awkwardly dreamy compared to the rationality and coldness of the beginning of the movie, as if the screenwriters had bent over the script and written it all at once, without bothering to add the glue that would have allowed the many pieces of the puzzle to fit together.",
-      "review_date": "2022-01-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "To be able to watch this after 20+ years after its release and still feel such emotion is something that few films can accomplish, from characters you will quickly find yourself attached with, to an amazing look at the prison system, and aTo be able to watch this after 20+ years after its release and still feel such emotion is something that few films can accomplish, from characters you will quickly find yourself attached with, to an amazing look at the prison system, and a storyline that will have anyone unable to look away.This movie really does deserve its Metacritic score and if you have the time do give it a watch.",
-      "review_date": "2022-02-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The greatest movie in the world may have been depressing in some parts, but it has such a good story. The seven ocars it was nominated for, should have been won to it.",
-      "review_date": "2010-03-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The shawshank redemption is a brilliant film that is beautifly acted with and insiring and uplifting message message of hope. in my opiniun the film should have at least one oscar to show for it's brilliance. it is truly sad that know The shawshank redemption is a brilliant film that is beautifly acted with and insiring and uplifting message message of hope. in my opiniun the film should have at least one oscar to show for it's brilliance. it is truly sad that know one could see how superior shawshank is to the wearisome forrest gump. i think that if shawshank had been realeased more recently it would have hands down won best picture it is one of the few films that are worthy of being called perfect",
-      "review_date": "2010-01-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Aside from the iconic poster-on-the-wall scene, nothing about this movie is all that memorable. A crowd-pleasing story with a message that comes off like a sermon.",
-      "review_date": "2012-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Une belle histoire nous est contée dans ce film carcéral qui ne ressemble pas aux autres films de taulards et d'évasion... une trop belle histoire pour être vraie enveloppée dans de belles séquences non dénuées d'une certaine \"poésie\" et deUne belle histoire nous est contée dans ce film carcéral qui ne ressemble pas aux autres films de taulards et d'évasion... une trop belle histoire pour être vraie enveloppée dans de belles séquences non dénuées d'une certaine \"poésie\" et de nombreux discours un brin pontifiants ici, dits par la voix off désabusée et philosophe du vieux briscard Morgan Freeman qui fait déjà partie des murs de la prison, \"institutionnalisé\" comme ils disent.On ne ressent pas assez la rigueur de l'emprisonnement, ni le poids très lourd des années qui passent dans un tel environnement et l'évasion elle-même est finalement escamotée, arrivant comme un cheveu sur la soupe : elle semble du coup trop facile et se déroule en un claquement de doigts. Tout cela laisse une désagréable sensation d'incrédulité à dire vrai.Les acteurs sont bien entendu excellents avec en dehors de Freeman, un Tim Robbins aussi convaincant que son personnage peut être déterminé.  On ne s'ennuie nullement et la mise en scène fluide se révèle efficace. Mais le film est décidément trop idéaliste, idéalisé et tiré par les cheveux pour qu'on arrive à y croire, à moins d'être sacrément naïf soi-même... ce que nous ne sommes pas.",
-      "review_date": "2018-01-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A seriously good film bringing more meaning into how important life out of prison really is and yet how scary anything all the way to being a grocer assistant can be, especially for ex-cons. This movie was studied by my English class in high A seriously good film bringing more meaning into how important life out of prison really is and yet how scary anything all the way to being a grocer assistant can be, especially for ex-cons. This movie was studied by my English class in high school everything even down to the lighting cues and the heightened sounds resembles power: who can dominate and who can't. Outstanding Movie, stinks that they had to add the extra bit at the end, the original ending was way better. but fine, shows you that critics comments do play vital parts on a movies wellbeing.",
-      "review_date": "2007-07-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Simply the best movie ever. Perfect!",
-      "review_date": "2006-03-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Brings Stephen King's novella to life and even better. The Shawshank Redemption is a fantastic movie and rightfully belongs in the list of The Greatest Movies of all time.",
-      "review_date": "2008-01-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Although it does seem to go on for too long, there is that much to it that you miss some of it on the first time you watch it. The ending isn't clear until it actually happens, whereas in most films you can usually guess what will Although it does seem to go on for too long, there is that much to it that you miss some of it on the first time you watch it. The ending isn't clear until it actually happens, whereas in most films you can usually guess what will happen. The cleverness behind it all still amazes me every time I watch it.",
-      "review_date": "2009-03-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is my favourite movie of all time. I absolutely adore it.",
-      "review_date": "2007-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Lots of different issues can be raised from this one movie; corruption, the judicial system, prison life, life after prison, love, human rights, education, determination, hope, security.....the movie is full of meaning. Dufresne the Lots of different issues can be raised from this one movie; corruption, the judicial system, prison life, life after prison, love, human rights, education, determination, hope, security.....the movie is full of meaning. Dufresne the character, is so interesting, it makes the movie an interesting watch.",
-      "review_date": "2007-05-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"The Shawshank Redemption\" is one of those rare films that ages better with time. People talk about this film more now than when it was released in 1994. The acting, writing, cinematography, direction, music, editing and everything else \"The Shawshank Redemption\" is one of those rare films that ages better with time. People talk about this film more now than when it was released in 1994. The acting, writing, cinematography, direction, music, editing and everything else makes this as close to a perfect film as you can get. The themes of redemption, fear, and ultimately hope are universal. \"Forrest Gump\" is a great film, but this SHOULD have won Best Picture. Unforgettable and beautiful.",
-      "review_date": "2008-07-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is the pinnacle of entertainment. This is raw acting with no special effects yet it's better than most films that come out today because the performances. Completely essential. Plus, I love the ending as it is one of the This film is the pinnacle of entertainment. This is raw acting with no special effects yet it's better than most films that come out today because the performances. Completely essential. Plus, I love the ending as it is one of the greatest twists in cinema.",
-      "review_date": "2009-12-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I laugh at people that denote this move, \"over-rated.\" I have seen some high quality movies through my long journey with life, and Shawshank Redemption is by far the best I have ever had the privilege of having a gander at. The twists and I laugh at people that denote this move, \"over-rated.\" I have seen some high quality movies through my long journey with life, and Shawshank Redemption is by far the best I have ever had the privilege of having a gander at. The twists and turns of the movie inspire and transpire emotions that can only be explained through high production values and excellent writing. The musical score is on par with some of the best films every created. It's too bad some folk resort to hating on popular films, no matter how great, for the sake of being rebellious towards the movie. ",
-      "review_date": "2009-07-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Some say it goes on too long, i say it was too short... in a word, beautiful.",
-      "review_date": "2009-07-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"The Shawshank Redemption\" is one of those rare films, where you can tell from the opening credits, the first chords of the soundtrack and the first voice-over line from Morgan Freeman, that you're about to witness a movie of \"The Shawshank Redemption\" is one of those rare films, where you can tell from the opening credits, the first chords of the soundtrack and the first voice-over line from Morgan Freeman, that you're about to witness a movie of exceptional quality. The story, the characters, the accompanying (and at times) solemn soundtrack: each component strengthens and supports the other, the grand total making it an excellent movie. Love it or hate it: It's the stuff that classics are made of.",
-      "review_date": "2009-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The movie is brilliantly acted with and equally well written screenplay and plot. it has an inspiring message of hope and a suprising twist at the end. so benny m. you can screw yourself OKAY!!!!!",
-      "review_date": "2010-01-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Shawshank Redemption is one of the greatest films of all time, and certainly the greatest picture I've ever had the pleasure of viewing. The storyline takes you from rock bottom to possibly the most rewarding, perfect ending ever - Shawshank Redemption is one of the greatest films of all time, and certainly the greatest picture I've ever had the pleasure of viewing. The storyline takes you from rock bottom to possibly the most rewarding, perfect ending ever - without being tacky or direct; the film is an eloquent masterpiece, and one you will never forget.",
-      "review_date": "2010-04-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Shawshank Redemption is a powerful film on every level, but seriously overrated. The film was good, but not perfect (Certainly not enough for a 9.3) It was very, very good in fact amazing, but just really overrated. Don't let it stop youThe Shawshank Redemption is a powerful film on every level, but seriously overrated. The film was good, but not perfect (Certainly not enough for a 9.3) It was very, very good in fact amazing, but just really overrated. Don't let it stop you from watching the film!---you will find none like it.",
-      "review_date": "2014-03-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie makes being cliche look badass, and is so well constructed on top of that, you pretty much have to give it credit as one of the movie masterpieces of our time. But seriously, it's not the greatest movie ever made *cough*imdb*cough*",
-      "review_date": "2010-08-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A bad movie famous because of IMDb. Nobody knows how that movie is there, actually. Everyone knew how thist movie was gonna end.",
-      "review_date": "2018-01-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There are only two films in my registry that have earned a perfect 10 out of 10 rating: Citizen Kane and The Shawshank Redemption.Citizen Kane earns it for re-writing the rules of filmmaking, doing so in daring and extraordinary fashion.There are only two films in my registry that have earned a perfect 10 out of 10 rating: Citizen Kane and The Shawshank Redemption.Citizen Kane earns it for re-writing the rules of filmmaking, doing so in daring and extraordinary fashion.The Shawshank Redemption earns it for perfecting those re-written rules.  Every facet of movie making--from the script to the acting to the directing to the cinematography to the editing to the score--are  done to the highest degree of precision and expression.As a result, viewers experience the full spectrum of human emotions over the course of the movie.  When asked, \"What is it that people love so much about movies?\" My answer is always the same: because they make us FEEL.  Happiness, sadness, terror, love ... whatever the emotion, it's the act of feeling that creates that indelible bond between the person and the picture.",
-      "review_date": "2017-04-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Muy buena película, pero no tiene lo suficiente para estar dentro de mis mejores, ni menos para ser la mejor según un popular data base (imdb).  En uan sola palabra  BUENA.",
-      "review_date": "2016-01-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Grim though an uplifting movie... an amazing like fairytale of incarceration and emancipation. Brillant! Morgan freeman is an absolute legend.",
-      "review_date": "2007-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is the one that if I see a 1/2 second on TV, I can't change the channel. Morgan Freeman is incredible, his best preformance I have seen from him. Tim Robbins plays Andy well as a man suffering the \"time and pressure aspect of This movie is the one that if I see a 1/2 second on TV, I can't change the channel. Morgan Freeman is incredible, his best preformance I have seen from him. Tim Robbins plays Andy well as a man suffering the \"time and pressure aspect of prison. The supporting cast is so good. They really make the movie a great success. Should be among the top 100 of all time.",
-      "review_date": "2007-09-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is one the most watchable movies of all times. Morgan Freeman is miraculous.",
-      "review_date": "2008-03-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good.",
-      "review_date": "2008-09-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Best all time. Everytime you watch it you find more to like about it.",
-      "review_date": "2008-10-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Quietly moving, yet startlingly beautiful, this tale of a man's quest for redemption and the incontrovertible power of hope is, without a doubt, one of the finest cinematic achievements of the modern age.",
-      "review_date": "2008-06-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A beautiful movie about friendship, hope and redemption. It's full of great acting, writing and a nice soundtrack, also nice direction by Frank Darabont. Beautiful Ending",
-      "review_date": "2014-07-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It is simply the best movie ever made for me. It is also the one case where the movie adaptation is significantly better than the already excellent book (A short story). It is based on Stephen Kings story “Rita Hayworth and ShawshankIt is simply the best movie ever made for me. It is also the one case where the movie adaptation is significantly better than the already excellent book (A short story). It is based on Stephen Kings story “Rita Hayworth and Shawshank Redemption. It is the story of Andy Dufresne who is sentenced to a life long detention while claiming to be innocent. Over the years he befriends Ellis Redding a fellow inmate. It is a story full of friendship, emotions and spiritual abysses. I cant spoil anything of the story because this would be a crime. I had often tears in my eyes and cried at the end. I have never seen a movie of this caliber. This is delivered by the great cast. Must I even praise the legendary Morgan Freeman? There is the quote “There is no bad movie with Morgan Freeman” and it is absolute valid. He should have much more Oscars. Then there is Tim Robbins who challenges even Morgan Freeman in this movie. But it did not end here. Bob Gunton, Clancy Brown and Gil bellows are also excellent. Then there is the set. They used the real life Ohio State Reformatory that was closed shortly before. It gives a good scenery and adds realism. I must also talk about the score. Thomas Newman should be praised for his masterful additions that enhance the scenes while also take nothing away. I should not forget the writer and director Frank Darabont because without a great script and a talented director no great movie can ever be made. He put all pieces together. What should I say. This movie is universally praised, it is since 2008 the best movie on IMDb and on nearly all all time favorites list. I have yet to find anyone who dislikes the movie genuinely. Overall this is as close to perfection as possible.",
-      "review_date": "2020-08-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Shawshank Redemption is on IMDB ratet as the best movie of all time, beating out other masterpieces such as The Godfather, The Dark Knight, The Lord of The Rings etc. After having watched it on TV a late night, do I think that it deservesThe Shawshank Redemption is on IMDB ratet as the best movie of all time, beating out other masterpieces such as The Godfather, The Dark Knight, The Lord of The Rings etc. After having watched it on TV a late night, do I think that it deserves the spot as the greatest movie ever? Probably no, not because the movie was bad or anything, it was absolutely flawless, but because it's always hard to point out one thing as the best ever, especially when you have so many other great works to accompany it. And, in addition, opinions are always subjective. But despite all of that, It was an incredible film, a timeless masterpiece which I feel safe to call one of the best that I have ever seen. It aspires for all the great things, and executes them perfectly. It is a movie that manages to make you see prison inmates, killers, rapists, and other outcasts of society, as complex human beings with feelings, dreams and hopes. It makes you relate to them in certain ways and empathize with them. It is a movie about never losing hope, despite what situation you end up in. To keep fighting for that freedom, that peace, which seems so far-fetched, but that you know you can achieve through perseverance. A true masterpiece.",
-      "review_date": "2021-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Shawshank Redemption is one of the few films that deserves to be recognized as a masterpiece. It's much more than your average prison film. At the center of this movie is a compelling narrative which focuses on themes of faith,The Shawshank Redemption is one of the few films that deserves to be recognized as a masterpiece. It's much more than your average prison film. At the center of this movie is a compelling narrative which focuses on themes of faith, friendship, determination and perseverance. The performances are stellar, particularly from Tim Robbins and Morgan Freeman. Freeman's iconic narration elevates this movie into what it is. Shawshank is a stellar film with outstanding performances, a compelling storyline and no glaring weaknesses.",
-      "review_date": "2021-04-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Though it may not be too realistic, nevertheless it is one the most entertaining and powerful films I have ever watched. Must-See.",
-      "review_date": "2018-07-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of ultimate prison dramas. The long odyssey of a innocent man for his freedom, his final jailbreak, and his victory over the corruption in big house. The getaway sequence is for collective memory. Mandatory.",
-      "review_date": "2019-03-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Phenomenal writing for a gripping story, one of faith, friendship, freedom and death. The casting is perfect, each actor feels like they were made for their role in this emotional story. This is the best drama film I've ever seen.",
-      "review_date": "2018-03-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "İnsana çok güzel şeyler katan ve asla umudumuzu yitirmememiz gerektiğini bizlere aşılayan, Küçücük şeylerle ne kadar büyük işler yapılabileceğini ve akıllıca davranınca nelerin olabileceğini gösteren bir film. Mükemmel bir yapım.İnsana çok güzel şeyler katan ve asla umudumuzu yitirmememiz gerektiğini bizlere aşılayan, Küçücük şeylerle ne kadar büyük işler yapılabileceğini ve akıllıca davranınca nelerin olabileceğini gösteren bir film. Mükemmel bir yapım.",
-      "review_date": "2017-03-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As Perfect As A Movie Can BeThe Shawshank Redemption is one of the top 5 best films ever made in all honesty.",
-      "review_date": "2019-06-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I do not think of this as a movie, this is more an experience. This goes beyond. They can not pull this nowadays anymore. One of the best movies ever made, if not the best. Came out in 1994, probably the best year ever for movies. ForrestI do not think of this as a movie, this is more an experience. This goes beyond. They can not pull this nowadays anymore. One of the best movies ever made, if not the best. Came out in 1994, probably the best year ever for movies. Forrest Gump, Pulp Fiction and this masterpiece, it is understandable that it did not won an oscar for the best movie, it was quite a race...",
-      "review_date": "2017-12-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I used to see that as a self-empowerment but now it seems to be a condemnation of injustice of American judicial system.",
-      "review_date": "2018-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film shows what great pacing and clean direction can do while combined. The performances are well played and characters are memorable, they're some plot convenience scenes but are overwhelmed but coming scenes and sometimes evenThis film shows what great pacing and clean direction can do while combined. The performances are well played and characters are memorable, they're some plot convenience scenes but are overwhelmed but coming scenes and sometimes even explained. Indeed the best prison break movie of all time. And possibly the best drama/thriller.",
-      "review_date": "2019-10-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is the film adaptation of a Stephen King's novel, where a banker is arrested for a crime he didn't commit and has to adapt to the life on prison. But, as I haven't read the original book I will not make any comment on the quality ofThis film is the film adaptation of a Stephen King's novel, where a banker is arrested for a crime he didn't commit and has to adapt to the life on prison. But, as I haven't read the original book I will not make any comment on the quality of the adaptation itself. Its not rare to see films where the subject is prison, justice mistakes or the adaptation to the life behind bars. What isn't so common is to see such exceptionally human films in this kind of environment. And better yet: no exaggeration, no cheap sentimentality.The emphasis is placed on the message that, even in prison, we can live the dream of freedom, that even the most guilty prisoners continue to be human beings. Andrew Dufresne is not a mere banker betrayed by fate, but a deeply generous and humane person, who shows these feelings even on the most painful occasions, and who is able to feel and demonstrate deep empathy for his fellow man. Instead of passing his time mourning his bad luck, Dufresne is concerned with adapting to his new situation and giving his companions the means to forget the bars and maintain hope, the same hope that he also tries to maintain.Directed and written by Frank Darabont, who I think deserves applause for the good work, the film has a very good cast, with Tim Robbins leading the way in the lead role. I don't think I'm exaggerating if I say it was, until now, the best part of his career. Next to him is Morgan Freeman, who gives life to a chronic convict, a specialist in the art of smuggling with a noble heart, who acts as a narrator. Still a word to Bob Gunton, who gave life to the prison director, the big villain of the movie. Acting in a deeply hypocritical way, he lives with the Bible in his hands but does not hesitate to do everything she disapproves of. The technical issues are equally impeccable: I particularly highlight the pleasant photography and the impeccable soundtrack.Named for seven Oscars and two Golden Globes, its almost inexplicable how he came to lose them all. It has always had the critic's support but it was a relative commercial failure, which only proves that sometimes what is made to sell is not good enough to stay for posterity. This film is bound to last as a hymn to hope, freedom and human values ​​we often forget.",
-      "review_date": "2018-02-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Well-written dialogue, spectacular acting, a deep emotional story with an ending that'll leave you sobbing if you truly understood what it meant for these characters. There is no doubt about it, this is one those films you're safe to say is aWell-written dialogue, spectacular acting, a deep emotional story with an ending that'll leave you sobbing if you truly understood what it meant for these characters. There is no doubt about it, this is one those films you're safe to say is a masterpiece and that title shouldn't be given to just any film. With a compelling plot that'll keep you hooked and make you care about the characters I don't think theres a single thing they could've done better or anything bad I can point out about this film. This is definitely a film everyone should see at least see once in their lifetime to appreciate true cinematography.",
-      "review_date": "2018-07-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "great movie, with a fantastic ending, morgan freeman and tim robbins are so good in this movie",
-      "review_date": "2020-07-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My score 100Metascore / User score 80 / 89Tomatometer / Audience score 91 / 98IMDB 93(91.9)",
-      "review_date": "2018-10-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Una de las mejores películas jamás hechas y por supuesto una de mis favoritas. Una verdadera muestra de lo que el cine puede llegar a conseguir, con uno de los dúos de personajes (Andy y Red) más increíbles jamás vistos en la gran pantalla yUna de las mejores películas jamás hechas y por supuesto una de mis favoritas. Una verdadera muestra de lo que el cine puede llegar a conseguir, con uno de los dúos de personajes (Andy y Red) más increíbles jamás vistos en la gran pantalla y algunos de los secundarios que mas huella han dejado en los espectadores (Brooks, el bibliotecario).Poderoso final bajo el discurso de Morgan Freeman y una trama que te dejará la boca abierta cuando todo salga a la luz. Una verdadera historia de amistad, libertad y dignidad que no te dejará indiferente.Imprescindible.",
-      "review_date": "2018-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best encourage movie. but not the best one for me...............",
-      "review_date": "2019-01-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Hope of Liberation woowww what a movie absolute cracker.i have never seen that kind of movie in my life.",
-      "review_date": "2018-12-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It is a movie that catches your attention from start to end. Besides the great storytelling, what I most love about this one is the great cast with strong performances and the fact that the main character is indeed intelligent. He is veryIt is a movie that catches your attention from start to end. Besides the great storytelling, what I most love about this one is the great cast with strong performances and the fact that the main character is indeed intelligent. He is very smart along the movie, so clever most of us didn´t see his plan coming. Every character in the film has a very defined personality and adds to the plot. The ending is great, everything but the very last scene. I definitely recommend it to anyone, just be aware of a sex scene at the beginning.",
-      "review_date": "2019-01-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Quite simply the best movie I have ever watched.  Now I am not saying it is probably technically the best movie or whatever but to me it is a perfect film.",
-      "review_date": "2019-02-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Literally the best movie I've ever seen. An Instant Classic deserving its acclaim.",
-      "review_date": "2019-03-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "#1 on my list. Won't even try to explain why. Just please watch it - by yourself. This really is an experience you don't want ruined by small talk etc. Enjoy!",
-      "review_date": "2019-04-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Essentially the perfect film. Not a single wasted second of time in the two and a half-ish hours runtime, not seeing this is a literal crime and travesty.",
-      "review_date": "2020-09-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "there are too many reasons why to watch this movie again. Enjoyed it till the very end. The brutal truth of prison life is presented, while maintaining truth friendships and a sense of hope. How people can be happy about the simplest things,there are too many reasons why to watch this movie again. Enjoyed it till the very end. The brutal truth of prison life is presented, while maintaining truth friendships and a sense of hope. How people can be happy about the simplest things, we often forget it out in the pampered world.",
-      "review_date": "2019-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I don't know what I should criticize when talking about this movie. It's a heartwarming story about how different people challenge life in prison and also after their sentence has ended. Every character, especially Red and Andy, are justI don't know what I should criticize when talking about this movie. It's a heartwarming story about how different people challenge life in prison and also after their sentence has ended. Every character, especially Red and Andy, are just exceptional to watch. It's also incredible how every scene just matters so much for the entire story, there isn't any time wasted nor does it feel to short.A brilliant movie that everybody should've seen at least once in their life.",
-      "review_date": "2020-05-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "10/10. Very emotional and memorable film with a good story and unforgetable characters. I reccomend it for all! This is a masterpiece!",
-      "review_date": "2019-06-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThis is in my opinion the greatest film if all time. Everything is perfect, the characters, casting, the way he escapes is perfect, the things they added that weren't in the book such as what happens to Brooks and the Warden. Perfect, beautiful, funny, glorious. If your friends haven't seen it, sit their arse down and enlighten them with this masterpiece.",
-      "review_date": "2019-08-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This Movie is so good, Morgan Freeman and Tim Robbins act is very impressive, i love everything here",
-      "review_date": "2019-08-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I’m so sad for not seeing this movie for a long time ago and deserve to spend your time with this movie. A genuine great movie.",
-      "review_date": "2020-11-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Academy award for best picture presented annually by Academy of Motion Picture Arts and Science (AMPAS) . First awarded on May 16, 1929; 90 years ago.If AMPAS celebrate \"a century best picture winner\" that it will be on May 2029, and my hopeAcademy award for best picture presented annually by Academy of Motion Picture Arts and Science (AMPAS) . First awarded on May 16, 1929; 90 years ago.If AMPAS celebrate \"a century best picture winner\" that it will be on May 2029, and my hope and pray, SHAWSHANK REDEMPTION should be the ultimate winner.",
-      "review_date": "2019-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "É uma obra maravilhosa, que conta a história de dois amigos que passam boa parte da vida na cadeia, mostrando um lado de humanidade nos presidiários, e sua dura realidade. Nesse filme temos a atuação excelente de Morgan Freeman e Tim RobbinsÉ uma obra maravilhosa, que conta a história de dois amigos que passam boa parte da vida na cadeia, mostrando um lado de humanidade nos presidiários, e sua dura realidade. Nesse filme temos a atuação excelente de Morgan Freeman e Tim Robbins (os protagonistas). É um filme que vale super apenas assistir.",
-      "review_date": "2019-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A perfect cast, unique setting and top acting.  This film is still highly recommended after years.  Some scenes are a bit cliche but you forget this because of the good constructive story with an appropriate ending.",
-      "review_date": "2020-07-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "10/10 Tim Robbins and Morgan Freeman star in this masterpiece written by Stephen King! Watched this movie with commentary as well! :) By Director: Frank Darabont. Quality!",
-      "review_date": "2019-10-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Get busy living, or get busy dying\". This films is a masterpiece. Everything about this film is near perfect. It is an intriguing tale of prison life and routine and how it can affect a man's physique or how you can take advantage of its\"Get busy living, or get busy dying\". This films is a masterpiece. Everything about this film is near perfect. It is an intriguing tale of prison life and routine and how it can affect a man's physique or how you can take advantage of its certain benefits. The film has without a doubt one of the most alluring film protagonists in Andy Dufresne, portrayed by the brilliant Tim Robbins. His subtle yet realistic portrayal of a shy and intelligent banker who is framed for murder is one of the best performances I have personally ever seen. Another character who I can't get enough of is Red played by the unsurprisingly exceptional Morgan Freeman. His outstanding narration sets the mood throughout the film's duration and is simply brilliant. The protagonist's journey from being a vulnerable individual to becoming the most protected person in Shawshank prison is a truly remarkable one. The film is directed phenomenally by Frank Darabont and even more impressive is that this is his first feature film. I strongly recommend that you watch this film as it is one of the greatest films to ever be made and without a doubt my favourite film of all time.",
-      "review_date": "2019-10-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "That's the kind of movies that Cinema is made for. Everything about this movie is amazing: the acting, the cinematography, the music and the pacing. This is a movie about hope.",
-      "review_date": "2019-10-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "MASTERPIECEOne Of The Greatest Movies Of All Time.Actings Are Great,Musics Are So Touching,cinematography is great.That's Is Real Cinema.",
-      "review_date": "2020-01-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A classic! Who would expect this end! Great plot and facts presentation, as well as the actors.",
-      "review_date": "2020-06-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "É já um clássico. Um dos melhores filmes de sempre, uma daquelas paragens obrigatórias para quem gosta de um bom filme.",
-      "review_date": "2020-04-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "No matter how many times I watch this movie, I never get over it. A genuine and absolute outlook on life and death, freedom and captivity, friend and foe. A perfect score is what the Shawshank Redemption will always deserve. Its idea will never die.",
-      "review_date": "2020-04-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Excellent film with great acting and should (probably is) be taught in film school",
-      "review_date": "2020-10-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Many people say that the movie is overrated. Ignore them. They always want action in every single movie or show. This movie is far better than most of the movies of modern era. The Shawshank Redemption is a masterpiece and it is a fact undeniable.",
-      "review_date": "2020-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A legjobb film, amit valaha láttam. Milliószor meg tudnám nézni, és sosem unom meg!",
-      "review_date": "2020-08-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "With the exception of some glitches,it is undoubtedly one of the greatest movies ever made...And it's flowering message of Hope makes it slightly better movie than Citizen Kane and The Godfather...Camera techniques were not as good as thoseWith the exception of some glitches,it is undoubtedly one of the greatest movies ever made...And it's flowering message of Hope makes it slightly better movie than Citizen Kane and The Godfather...Camera techniques were not as good as those of above two mentioned films though.Family backgrounds of warden,captain and Red himself were not shown.and no rain scene in 20 years except at the moment of freedom of Andy?OMG..no warden and captain promotion or transfer in 20 years?.not caught even at a single  night in 20 years while secretly working at night with hammer?..but still bcz of its message of Hope it is at 8.9 in my rating.But clearly not a perfect 9 movie in my books...",
-      "review_date": "2020-08-27",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 114
+    "title": "The Shawshank Redemption",
+    "rating": 8.9,
+    "release_date": "1994-09-01",
+    "genre": [
+        "Drama",
+        "Crime"
+    ],
+    "summary": "Wrongly convicted, Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in in Maine's Shawshank prison for the murders of his wife and her lover.  Set in the 1940's, the film shows how Andy learns to get by in the brutal confines of prison, even earning the respect of his fellow inmates, most notably the longtime convictWrongly convicted, Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in in Maine's Shawshank prison for the murders of his wife and her lover.  Set in the 1940's, the film shows how Andy learns to get by in the brutal confines of prison, even earning the respect of his fellow inmates, most notably the longtime convict \"Red\" Redding (Morgan Freeman).\u2026 Expand",
+    "critic_reviews": [
+        "This is simply marvelous entertainment that breathes life into a genre that I thought had been dead for a decade-the prison picture.",
+        "In the lead roles, both Robbins and Freeman are outstanding, layering their performances with snippets of individuality: Their small, daily sustenances and minor triumphs are wonderfully inspiring.",
+        "A thumpingly good ode to friendship, hope, wit, wiles and wisdom, brimming with crackling characters and topped with the most twisteroo of twists since \"The Crying Game.\"",
+        "It's the no-bull performances that hold back the flood of banalities. Robbins and Freeman connect with the bruised souls of Andy and Red to create something undeniably powerful and moving.",
+        "Gripping...compelling.",
+        "[Darabont] makes you feel the maddening pace of prison time without letting his picture succumb to it.",
+        "Remarkable.",
+        "At times poignant, joyful, and terrifying, Shawshank Redemption is an altogether brilliant movie and the debut of an equally brilliant director.",
+        "Whitmore's Brooks is a brilliantly-realized character, and the scenes with him attempting to cope with life outside of Shawshank represents one of the film's most moving -- and effective -- sequences.",
+        "If the film is perhaps a little slow in its middle passages, maybe that is part of the idea, too, to give us a sense of the leaden passage of time, before the glory of the final redemption.",
+        "Some of \"The Shawshank Redemption'' comes across as outrageously improbable. Yet the film keeps pulling you back with its sense of striving humanity slowly turning the tables against evil.",
+        "A crowd-pleasing story that has little to do with the messy complexities of reality.",
+        "Shouldering a laconic-good-guy, neo- Gary Cooper role, Robbins never quite makes emotional contact with the audience.",
+        "Speaking of jail, \"Shawshank\"-the-movie seems to last about half a life sentence. The story, chiefly about the 20-year friendship between Freeman and Robbins, becomes incarcerated in its own labyrinthine sentimentality."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "I was expecting something else entirely to a better movie. Sorry not impressed me so even give birth. The only thing I liked was how they interpreted actors. Otherwise ... no comment.",
+            "review_date": "2015-03-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How so, where superheroes in idiotic costumes with pretentious speeches? Sad thing is that films as of that level are no longer making ... films with meaning.",
+            "review_date": "2019-03-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best movies of all time. Don't deprive yourself of the pleasure of watching such a stellar movie. Go now and watch this movie if you have never seen it. Perfect casting, amazing story, emotional performances. Just perfect.",
+            "review_date": "2010-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nIn my opinion this movie is really overrated. No real emotional scenes and the worst part of this movie is its \"Happy End\" in its pink colors. I hardly rate it 4/10.",
+            "review_date": "2012-12-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nSo, so, so good. The adaptation of the Stephen King novel is so entertaining, filled with interesting dialogue and plot twists. A pretty much perfect prison film. Great performances by Robbins and Freeman. One moment really got to me: the moment when Andy crawls out of the sewer tunnel and stares up at the sky in the rain. Such a glorious moment of triumph, I wanted to stand up and scream \"Yes!\". This movie truly depicted that prison life in the fifties was just as hard for new prisoners as it is implied today. The movie didn't sugar coat Andy's prison life. A great movie full of great writing and performances that the first time you watch it, it will instantly be fortified as a great movie classic.",
+            "review_date": "2010-12-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Shawshank Redemption\", a sensational movie containing a strong plot, powerful performances, and the ultimate theme of good and evil, is a masterpiece.",
+            "review_date": "2011-09-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A parody of better movies. This movie was made for people with no brains or low intellect. It doesn't even deserved an Oscar nomination. Maybe that's why in serious lists, this isn't even in Top 100.",
+            "review_date": "2017-07-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I've never understood the love given to this pile of prison cliches. Yes, the leads are good actors, but that doesn't make the movie much better. I read an Esquire poll once that listed this as one of the male voters' top 10 movies of allI've never understood the love given to this pile of prison cliches. Yes, the leads are good actors, but that doesn't make the movie much better. I read an Esquire poll once that listed this as one of the male voters' top 10 movies of all time, and after the listing, Esquire wrote (huh?)  couldn't agree more.",
+            "review_date": "2013-07-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The most over rated film of all time, riddled with plot holes and plagued with sloppy scripting. Not terrible, but not worth watching unless you have a morbid curiosity to see what the fuss is all about and certainly not worth a second viewing.",
+            "review_date": "2015-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is awful simply because the bad guy, the prison governor or warden , is a \"devout\" Christian. A genuine devout Christian would not force the Holy book on anyone or have such a character! This film is to braiwash the masses, this isThis film is awful simply because the bad guy, the prison governor or warden , is a \"devout\" Christian. A genuine devout Christian would not force the Holy book on anyone or have such a character! This film is to braiwash the masses, this is why it got such a high status among the satanists who run this industry. Typical Holywood industry BS demonising Christianity and none bats an eyelid! Could holywood ve make a film where the Christian is the good guy and the muslim or jew are the bad guy? Oh no, if it was made it wouldnt be released, if it was released there would be a huge cry of lack of PC. Christians all over think this is a good movie!  Christians cant not see the wood for the trees because they have been mind programmed to follow the herd of imbeciles bred to comsume and make the 1% theri master. Holywood is evil. Wake up folks.",
+            "review_date": "2015-10-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "the worst film ever made.the character is dull, the story are pretty mediocre. just pointless for 2.5 hours. it waste my time. i really dont understand why people vote this rubbish so highly",
+            "review_date": "2015-03-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When i looked at IMDb and saw shawshank redemption at number 1 i was really expecting to be a great movie especially when i looked at the user reviews. Oh boy i was wrong. The movie is not bad but highly overrated. I really thought skyfall isWhen i looked at IMDb and saw shawshank redemption at number 1 i was really expecting to be a great movie especially when i looked at the user reviews. Oh boy i was wrong. The movie is not bad but highly overrated. I really thought skyfall is the most overrated movie in cinema history but i was wrong. The ending is very cliche. The dialogue is fine. The characters is good but more than that the movie does not deserve to be number 1. Rating:6.5/10",
+            "review_date": "2020-10-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I didnt enjoy it as much as I should of, but I know this is a great film.",
+            "review_date": "2005-09-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is beautiful, genius and brutal. It shows what prison life is like at the time which may not be innovative because obviously it has been done before but it still is a movie that is lightened up by the superb and versatile actings This movie is beautiful, genius and brutal. It shows what prison life is like at the time which may not be innovative because obviously it has been done before but it still is a movie that is lightened up by the superb and versatile actings of Tim Robbins (Andy Dufrane) and Morgan Freeman (Redd). The movie is sad and long but shows that if you live in prison you are still just trying to live the life you already had. The movie is a jolly tale of friendship, violence (including torture and isolation) and last but not least genius.",
+            "review_date": "2006-04-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just a great inspirational movie about the power of hope. This grown man cries everytime I see it.",
+            "review_date": "2006-06-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "i cant believe this film is not in the all time top 10 this is a truely great film with a great feel good ending, morgan freeman is immense!",
+            "review_date": "2006-06-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is possibly the most moving movie I ever watched.  I think Morgan Freeman really made this movie what it is, with one of his best performances ever.",
+            "review_date": "2006-09-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Shawshank Redemption is a powerful and uplifting, not to mention Oscar-worthy film. In 2006, it was ranked as the greatest film ever by Empire, a film magazine. The year it came out it was nominated for 7 academy awards but did not win a The Shawshank Redemption is a powerful and uplifting, not to mention Oscar-worthy film. In 2006, it was ranked as the greatest film ever by Empire, a film magazine. The year it came out it was nominated for 7 academy awards but did not win a single one because of a movie you may all remember, Forrest Gump. The success of Gump may have overshadowed this movie in the 90",
+            "review_date": "2007-03-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just great, the same about novel.",
+            "review_date": "2005-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best movie I've seen in years.",
+            "review_date": "2005-12-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I can watch this movie more than any other. Perfect.",
+            "review_date": "2006-10-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beautiful. Moving. Amazing score. Don't listen to any criticism. Watch it for yourself. Period.",
+            "review_date": "2006-02-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of my favorite movies of all time. I highly recommend it.",
+            "review_date": "2006-06-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Warning: SpoilersShawshank Redemption is without doubt one of the best films ever made, and definitely the best film of 1994. Yes, it is better than Lion King, and I really like that too. It is not only enthralling but powerful and movingWarning: SpoilersShawshank Redemption is without doubt one of the best films ever made, and definitely the best film of 1994. Yes, it is better than Lion King, and I really like that too. It is not only enthralling but powerful and moving too. I will confess that I didn't understand it when I first saw it as a lot happens in the film, and I have now seen it three times. I seriously hope, that those who ignored the film when it was first released now recognise it as a great film, as it really is. The dialogue was extremely well-written, with lines that really stick in your mind. The cinematography and music are both gorgeous, and the prison itself is like a character that dominates the film. In the script, there are some true elements of Stephen King Now I admit I am not a huge king fan, and usually don't like coarse language in books. But in his books like It, which is very good, I have accepted the language represents brutality and rebellion, shown perfectly in the film with the battle of acceptance I suppose between the inmates and the superiors(like the scene with the warden yelling coarse language at the new inmates lined up in a row at the beginning.)The acting was exceptional. I am not hugely familiar with Tim Robbins, but he did a great job in a very demanding role. The best performance however, comes from Morgan Freeman as Red, who was seriously robbed of that Oscar, that he lost to Tom Hanks for Forrest Gump. Freeman reminds me very strongly, or his style of acting does, remind me of that of Sean Connery, suave yet very charismatic. Acting isn't just about your vocal range, it's about depth, which was what Freeman certainly had. In short, Freeman was brilliant in what could be his best performance. The scene where the inmates are listening to the Mozart aria over the speakers was a beautiful profound moment, and I actually cried in Brook's death scene. Very rarely do King adaptations translate-to screen well, because of the large scale of the author's books, with the exception of this and the Shining. Some like It and Dreamcatcher are genuinely memorable but have a number of flaws that prevent them from being classed as outstanding. And some, like Thinner and Tommyknockers that border on unwatchable. In conclusion Shawshank is a brilliant film, that is worthy of the credit it has been denied for so-long. 10/10 of course. Bethany Cox.",
+            "review_date": "2022-03-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nDespite a marvelous start paved with amazingly captured exposure scenes, attractive flashbacks and an unavoidable narration from Morgan Freeman, 'The Shawshank Redemption' sadly manages to lose its main plot into deceptively intertwined sub-plots.Originally presented as a classic film, it ends up being more like a documentary on the American prison system. Surely we closely follow the experience of Andy Dufresne (Tim Robbins), whose performance remains striking by the way, but the scenario tends to incorporate dull and shallow characters. Obviously you are never incarcerated alone, and the omnipresence of others is a point of life in jail you can't miss, but here the movie doesn't even bother to link characters further than the few relations we see them have on screen. It is like if all characters evolved on their own but still achieve to develop a great team spirit.In the end there remains numerous unanswered questions and misunderstandings. All I can say is that director Frank Darabont wanted to be sure we see that Andy Dufresne suffer a lot and withstand many terrible events. That we see him trying to remain upright and honest, tough in his own way. But for what ? His revenge tastes so bland and uncompelling compared to what we see him go through almsot two complete hours ! The ending seems so disappointing and awkwardly dreamy compared to the rationality and coldness of the beginning of the movie, as if the screenwriters had bent over the script and written it all at once, without bothering to add the glue that would have allowed the many pieces of the puzzle to fit together.",
+            "review_date": "2022-01-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "To be able to watch this after 20+ years after its release and still feel such emotion is something that few films can accomplish, from characters you will quickly find yourself attached with, to an amazing look at the prison system, and aTo be able to watch this after 20+ years after its release and still feel such emotion is something that few films can accomplish, from characters you will quickly find yourself attached with, to an amazing look at the prison system, and a storyline that will have anyone unable to look away.This movie really does deserve its Metacritic score and if you have the time do give it a watch.",
+            "review_date": "2022-02-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The greatest movie in the world may have been depressing in some parts, but it has such a good story. The seven ocars it was nominated for, should have been won to it.",
+            "review_date": "2010-03-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The shawshank redemption is a brilliant film that is beautifly acted with and insiring and uplifting message message of hope. in my opiniun the film should have at least one oscar to show for it's brilliance. it is truly sad that know The shawshank redemption is a brilliant film that is beautifly acted with and insiring and uplifting message message of hope. in my opiniun the film should have at least one oscar to show for it's brilliance. it is truly sad that know one could see how superior shawshank is to the wearisome forrest gump. i think that if shawshank had been realeased more recently it would have hands down won best picture it is one of the few films that are worthy of being called perfect",
+            "review_date": "2010-01-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Aside from the iconic poster-on-the-wall scene, nothing about this movie is all that memorable. A crowd-pleasing story with a message that comes off like a sermon.",
+            "review_date": "2012-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A seriously good film bringing more meaning into how important life out of prison really is and yet how scary anything all the way to being a grocer assistant can be, especially for ex-cons. This movie was studied by my English class in high A seriously good film bringing more meaning into how important life out of prison really is and yet how scary anything all the way to being a grocer assistant can be, especially for ex-cons. This movie was studied by my English class in high school everything even down to the lighting cues and the heightened sounds resembles power: who can dominate and who can't. Outstanding Movie, stinks that they had to add the extra bit at the end, the original ending was way better. but fine, shows you that critics comments do play vital parts on a movies wellbeing.",
+            "review_date": "2007-07-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Simply the best movie ever. Perfect!",
+            "review_date": "2006-03-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Brings Stephen King's novella to life and even better. The Shawshank Redemption is a fantastic movie and rightfully belongs in the list of The Greatest Movies of all time.",
+            "review_date": "2008-01-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Although it does seem to go on for too long, there is that much to it that you miss some of it on the first time you watch it. The ending isn't clear until it actually happens, whereas in most films you can usually guess what will Although it does seem to go on for too long, there is that much to it that you miss some of it on the first time you watch it. The ending isn't clear until it actually happens, whereas in most films you can usually guess what will happen. The cleverness behind it all still amazes me every time I watch it.",
+            "review_date": "2009-03-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is my favourite movie of all time. I absolutely adore it.",
+            "review_date": "2007-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Lots of different issues can be raised from this one movie; corruption, the judicial system, prison life, life after prison, love, human rights, education, determination, hope, security.....the movie is full of meaning. Dufresne the Lots of different issues can be raised from this one movie; corruption, the judicial system, prison life, life after prison, love, human rights, education, determination, hope, security.....the movie is full of meaning. Dufresne the character, is so interesting, it makes the movie an interesting watch.",
+            "review_date": "2007-05-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"The Shawshank Redemption\" is one of those rare films that ages better with time. People talk about this film more now than when it was released in 1994. The acting, writing, cinematography, direction, music, editing and everything else \"The Shawshank Redemption\" is one of those rare films that ages better with time. People talk about this film more now than when it was released in 1994. The acting, writing, cinematography, direction, music, editing and everything else makes this as close to a perfect film as you can get. The themes of redemption, fear, and ultimately hope are universal. \"Forrest Gump\" is a great film, but this SHOULD have won Best Picture. Unforgettable and beautiful.",
+            "review_date": "2008-07-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is the pinnacle of entertainment. This is raw acting with no special effects yet it's better than most films that come out today because the performances. Completely essential. Plus, I love the ending as it is one of the This film is the pinnacle of entertainment. This is raw acting with no special effects yet it's better than most films that come out today because the performances. Completely essential. Plus, I love the ending as it is one of the greatest twists in cinema.",
+            "review_date": "2009-12-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I laugh at people that denote this move, \"over-rated.\" I have seen some high quality movies through my long journey with life, and Shawshank Redemption is by far the best I have ever had the privilege of having a gander at. The twists and I laugh at people that denote this move, \"over-rated.\" I have seen some high quality movies through my long journey with life, and Shawshank Redemption is by far the best I have ever had the privilege of having a gander at. The twists and turns of the movie inspire and transpire emotions that can only be explained through high production values and excellent writing. The musical score is on par with some of the best films every created. It's too bad some folk resort to hating on popular films, no matter how great, for the sake of being rebellious towards the movie. ",
+            "review_date": "2009-07-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Some say it goes on too long, i say it was too short... in a word, beautiful.",
+            "review_date": "2009-07-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"The Shawshank Redemption\" is one of those rare films, where you can tell from the opening credits, the first chords of the soundtrack and the first voice-over line from Morgan Freeman, that you're about to witness a movie of \"The Shawshank Redemption\" is one of those rare films, where you can tell from the opening credits, the first chords of the soundtrack and the first voice-over line from Morgan Freeman, that you're about to witness a movie of exceptional quality. The story, the characters, the accompanying (and at times) solemn soundtrack: each component strengthens and supports the other, the grand total making it an excellent movie. Love it or hate it: It's the stuff that classics are made of.",
+            "review_date": "2009-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie is brilliantly acted with and equally well written screenplay and plot. it has an inspiring message of hope and a suprising twist at the end. so benny m. you can screw yourself OKAY!!!!!",
+            "review_date": "2010-01-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Shawshank Redemption is one of the greatest films of all time, and certainly the greatest picture I've ever had the pleasure of viewing. The storyline takes you from rock bottom to possibly the most rewarding, perfect ending ever - Shawshank Redemption is one of the greatest films of all time, and certainly the greatest picture I've ever had the pleasure of viewing. The storyline takes you from rock bottom to possibly the most rewarding, perfect ending ever - without being tacky or direct; the film is an eloquent masterpiece, and one you will never forget.",
+            "review_date": "2010-04-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Shawshank Redemption is a powerful film on every level, but seriously overrated. The film was good, but not perfect (Certainly not enough for a 9.3) It was very, very good in fact amazing, but just really overrated. Don't let it stop youThe Shawshank Redemption is a powerful film on every level, but seriously overrated. The film was good, but not perfect (Certainly not enough for a 9.3) It was very, very good in fact amazing, but just really overrated. Don't let it stop you from watching the film!---you will find none like it.",
+            "review_date": "2014-03-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie makes being cliche look badass, and is so well constructed on top of that, you pretty much have to give it credit as one of the movie masterpieces of our time. But seriously, it's not the greatest movie ever made *cough*imdb*cough*",
+            "review_date": "2010-08-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A bad movie famous because of IMDb. Nobody knows how that movie is there, actually. Everyone knew how thist movie was gonna end.",
+            "review_date": "2018-01-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There are only two films in my registry that have earned a perfect 10 out of 10 rating: Citizen Kane and The Shawshank Redemption.Citizen Kane earns it for re-writing the rules of filmmaking, doing so in daring and extraordinary fashion.There are only two films in my registry that have earned a perfect 10 out of 10 rating: Citizen Kane and The Shawshank Redemption.Citizen Kane earns it for re-writing the rules of filmmaking, doing so in daring and extraordinary fashion.The Shawshank Redemption earns it for perfecting those re-written rules.  Every facet of movie making--from the script to the acting to the directing to the cinematography to the editing to the score--are  done to the highest degree of precision and expression.As a result, viewers experience the full spectrum of human emotions over the course of the movie.  When asked, \"What is it that people love so much about movies?\" My answer is always the same: because they make us FEEL.  Happiness, sadness, terror, love ... whatever the emotion, it's the act of feeling that creates that indelible bond between the person and the picture.",
+            "review_date": "2017-04-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Grim though an uplifting movie... an amazing like fairytale of incarceration and emancipation. Brillant! Morgan freeman is an absolute legend.",
+            "review_date": "2007-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is the one that if I see a 1/2 second on TV, I can't change the channel. Morgan Freeman is incredible, his best preformance I have seen from him. Tim Robbins plays Andy well as a man suffering the \"time and pressure aspect of This movie is the one that if I see a 1/2 second on TV, I can't change the channel. Morgan Freeman is incredible, his best preformance I have seen from him. Tim Robbins plays Andy well as a man suffering the \"time and pressure aspect of prison. The supporting cast is so good. They really make the movie a great success. Should be among the top 100 of all time.",
+            "review_date": "2007-09-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one the most watchable movies of all times. Morgan Freeman is miraculous.",
+            "review_date": "2008-03-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Best all time. Everytime you watch it you find more to like about it.",
+            "review_date": "2008-10-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Quietly moving, yet startlingly beautiful, this tale of a man's quest for redemption and the incontrovertible power of hope is, without a doubt, one of the finest cinematic achievements of the modern age.",
+            "review_date": "2008-06-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A beautiful movie about friendship, hope and redemption. It's full of great acting, writing and a nice soundtrack, also nice direction by Frank Darabont. Beautiful Ending",
+            "review_date": "2014-07-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It is simply the best movie ever made for me. It is also the one case where the movie adaptation is significantly better than the already excellent book (A short story). It is based on Stephen Kings story \u201cRita Hayworth and ShawshankIt is simply the best movie ever made for me. It is also the one case where the movie adaptation is significantly better than the already excellent book (A short story). It is based on Stephen Kings story \u201cRita Hayworth and Shawshank Redemption. It is the story of Andy Dufresne who is sentenced to a life long detention while claiming to be innocent. Over the years he befriends Ellis Redding a fellow inmate. It is a story full of friendship, emotions and spiritual abysses. I cant spoil anything of the story because this would be a crime. I had often tears in my eyes and cried at the end. I have never seen a movie of this caliber. This is delivered by the great cast. Must I even praise the legendary Morgan Freeman? There is the quote \u201cThere is no bad movie with Morgan Freeman\u201d and it is absolute valid. He should have much more Oscars. Then there is Tim Robbins who challenges even Morgan Freeman in this movie. But it did not end here. Bob Gunton, Clancy Brown and Gil bellows are also excellent. Then there is the set. They used the real life Ohio State Reformatory that was closed shortly before. It gives a good scenery and adds realism. I must also talk about the score. Thomas Newman should be praised for his masterful additions that enhance the scenes while also take nothing away. I should not forget the writer and director Frank Darabont because without a great script and a talented director no great movie can ever be made. He put all pieces together. What should I say. This movie is universally praised, it is since 2008 the best movie on IMDb and on nearly all all time favorites list. I have yet to find anyone who dislikes the movie genuinely. Overall this is as close to perfection as possible.",
+            "review_date": "2020-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Shawshank Redemption is on IMDB ratet as the best movie of all time, beating out other masterpieces such as The Godfather, The Dark Knight, The Lord of The Rings etc. After having watched it on TV a late night, do I think that it deservesThe Shawshank Redemption is on IMDB ratet as the best movie of all time, beating out other masterpieces such as The Godfather, The Dark Knight, The Lord of The Rings etc. After having watched it on TV a late night, do I think that it deserves the spot as the greatest movie ever? Probably no, not because the movie was bad or anything, it was absolutely flawless, but because it's always hard to point out one thing as the best ever, especially when you have so many other great works to accompany it. And, in addition, opinions are always subjective. But despite all of that, It was an incredible film, a timeless masterpiece which I feel safe to call one of the best that I have ever seen. It aspires for all the great things, and executes them perfectly. It is a movie that manages to make you see prison inmates, killers, rapists, and other outcasts of society, as complex human beings with feelings, dreams and hopes. It makes you relate to them in certain ways and empathize with them. It is a movie about never losing hope, despite what situation you end up in. To keep fighting for that freedom, that peace, which seems so far-fetched, but that you know you can achieve through perseverance. A true masterpiece.",
+            "review_date": "2021-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Shawshank Redemption is one of the few films that deserves to be recognized as a masterpiece. It's much more than your average prison film. At the center of this movie is a compelling narrative which focuses on themes of faith,The Shawshank Redemption is one of the few films that deserves to be recognized as a masterpiece. It's much more than your average prison film. At the center of this movie is a compelling narrative which focuses on themes of faith, friendship, determination and perseverance. The performances are stellar, particularly from Tim Robbins and Morgan Freeman. Freeman's iconic narration elevates this movie into what it is. Shawshank is a stellar film with outstanding performances, a compelling storyline and no glaring weaknesses.",
+            "review_date": "2021-04-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Though it may not be too realistic, nevertheless it is one the most entertaining and powerful films I have ever watched. Must-See.",
+            "review_date": "2018-07-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of ultimate prison dramas. The long odyssey of a innocent man for his freedom, his final jailbreak, and his victory over the corruption in big house. The getaway sequence is for collective memory. Mandatory.",
+            "review_date": "2019-03-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Phenomenal writing for a gripping story, one of faith, friendship, freedom and death. The casting is perfect, each actor feels like they were made for their role in this emotional story. This is the best drama film I've ever seen.",
+            "review_date": "2018-03-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As Perfect As A Movie Can BeThe Shawshank Redemption is one of the top 5 best films ever made in all honesty.",
+            "review_date": "2019-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I do not think of this as a movie, this is more an experience. This goes beyond. They can not pull this nowadays anymore. One of the best movies ever made, if not the best. Came out in 1994, probably the best year ever for movies. ForrestI do not think of this as a movie, this is more an experience. This goes beyond. They can not pull this nowadays anymore. One of the best movies ever made, if not the best. Came out in 1994, probably the best year ever for movies. Forrest Gump, Pulp Fiction and this masterpiece, it is understandable that it did not won an oscar for the best movie, it was quite a race...",
+            "review_date": "2017-12-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I used to see that as a self-empowerment but now it seems to be a condemnation of injustice of American judicial system.",
+            "review_date": "2018-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film shows what great pacing and clean direction can do while combined. The performances are well played and characters are memorable, they're some plot convenience scenes but are overwhelmed but coming scenes and sometimes evenThis film shows what great pacing and clean direction can do while combined. The performances are well played and characters are memorable, they're some plot convenience scenes but are overwhelmed but coming scenes and sometimes even explained. Indeed the best prison break movie of all time. And possibly the best drama/thriller.",
+            "review_date": "2019-10-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is the film adaptation of a Stephen King's novel, where a banker is arrested for a crime he didn't commit and has to adapt to the life on prison. But, as I haven't read the original book I will not make any comment on the quality ofThis film is the film adaptation of a Stephen King's novel, where a banker is arrested for a crime he didn't commit and has to adapt to the life on prison. But, as I haven't read the original book I will not make any comment on the quality of the adaptation itself. Its not rare to see films where the subject is prison, justice mistakes or the adaptation to the life behind bars. What isn't so common is to see such exceptionally human films in this kind of environment. And better yet: no exaggeration, no cheap sentimentality.The emphasis is placed on the message that, even in prison, we can live the dream of freedom, that even the most guilty prisoners continue to be human beings. Andrew Dufresne is not a mere banker betrayed by fate, but a deeply generous and humane person, who shows these feelings even on the most painful occasions, and who is able to feel and demonstrate deep empathy for his fellow man. Instead of passing his time mourning his bad luck, Dufresne is concerned with adapting to his new situation and giving his companions the means to forget the bars and maintain hope, the same hope that he also tries to maintain.Directed and written by Frank Darabont, who I think deserves applause for the good work, the film has a very good cast, with Tim Robbins leading the way in the lead role. I don't think I'm exaggerating if I say it was, until now, the best part of his career. Next to him is Morgan Freeman, who gives life to a chronic convict, a specialist in the art of smuggling with a noble heart, who acts as a narrator. Still a word to Bob Gunton, who gave life to the prison director, the big villain of the movie. Acting in a deeply hypocritical way, he lives with the Bible in his hands but does not hesitate to do everything she disapproves of. The technical issues are equally impeccable: I particularly highlight the pleasant photography and the impeccable soundtrack.Named for seven Oscars and two Golden Globes, its almost inexplicable how he came to lose them all. It has always had the critic's support but it was a relative commercial failure, which only proves that sometimes what is made to sell is not good enough to stay for posterity. This film is bound to last as a hymn to hope, freedom and human values \u200b\u200bwe often forget.",
+            "review_date": "2018-02-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Well-written dialogue, spectacular acting, a deep emotional story with an ending that'll leave you sobbing if you truly understood what it meant for these characters. There is no doubt about it, this is one those films you're safe to say is aWell-written dialogue, spectacular acting, a deep emotional story with an ending that'll leave you sobbing if you truly understood what it meant for these characters. There is no doubt about it, this is one those films you're safe to say is a masterpiece and that title shouldn't be given to just any film. With a compelling plot that'll keep you hooked and make you care about the characters I don't think theres a single thing they could've done better or anything bad I can point out about this film. This is definitely a film everyone should see at least see once in their lifetime to appreciate true cinematography.",
+            "review_date": "2018-07-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "great movie, with a fantastic ending, morgan freeman and tim robbins are so good in this movie",
+            "review_date": "2020-07-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best encourage movie. but not the best one for me...............",
+            "review_date": "2019-01-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Hope of Liberation woowww what a movie absolute cracker.i have never seen that kind of movie in my life.",
+            "review_date": "2018-12-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It is a movie that catches your attention from start to end. Besides the great storytelling, what I most love about this one is the great cast with strong performances and the fact that the main character is indeed intelligent. He is veryIt is a movie that catches your attention from start to end. Besides the great storytelling, what I most love about this one is the great cast with strong performances and the fact that the main character is indeed intelligent. He is very smart along the movie, so clever most of us didn\u00b4t see his plan coming. Every character in the film has a very defined personality and adds to the plot. The ending is great, everything but the very last scene. I definitely recommend it to anyone, just be aware of a sex scene at the beginning.",
+            "review_date": "2019-01-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Quite simply the best movie I have ever watched.  Now I am not saying it is probably technically the best movie or whatever but to me it is a perfect film.",
+            "review_date": "2019-02-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Literally the best movie I've ever seen. An Instant Classic deserving its acclaim.",
+            "review_date": "2019-03-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "#1 on my list. Won't even try to explain why. Just please watch it - by yourself. This really is an experience you don't want ruined by small talk etc. Enjoy!",
+            "review_date": "2019-04-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Essentially the perfect film. Not a single wasted second of time in the two and a half-ish hours runtime, not seeing this is a literal crime and travesty.",
+            "review_date": "2020-09-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "there are too many reasons why to watch this movie again. Enjoyed it till the very end. The brutal truth of prison life is presented, while maintaining truth friendships and a sense of hope. How people can be happy about the simplest things,there are too many reasons why to watch this movie again. Enjoyed it till the very end. The brutal truth of prison life is presented, while maintaining truth friendships and a sense of hope. How people can be happy about the simplest things, we often forget it out in the pampered world.",
+            "review_date": "2019-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't know what I should criticize when talking about this movie. It's a heartwarming story about how different people challenge life in prison and also after their sentence has ended. Every character, especially Red and Andy, are justI don't know what I should criticize when talking about this movie. It's a heartwarming story about how different people challenge life in prison and also after their sentence has ended. Every character, especially Red and Andy, are just exceptional to watch. It's also incredible how every scene just matters so much for the entire story, there isn't any time wasted nor does it feel to short.A brilliant movie that everybody should've seen at least once in their life.",
+            "review_date": "2020-05-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "10/10. Very emotional and memorable film with a good story and unforgetable characters. I reccomend it for all! This is a masterpiece!",
+            "review_date": "2019-06-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis is in my opinion the greatest film if all time. Everything is perfect, the characters, casting, the way he escapes is perfect, the things they added that weren't in the book such as what happens to Brooks and the Warden. Perfect, beautiful, funny, glorious. If your friends haven't seen it, sit their arse down and enlighten them with this masterpiece.",
+            "review_date": "2019-08-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This Movie is so good, Morgan Freeman and Tim Robbins act is very impressive, i love everything here",
+            "review_date": "2019-08-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I\u2019m so sad for not seeing this movie for a long time ago and deserve to spend your time with this movie. A genuine great movie.",
+            "review_date": "2020-11-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Academy award for best picture presented annually by Academy of Motion Picture Arts and Science (AMPAS) . First awarded on May 16, 1929; 90 years ago.If AMPAS celebrate \"a century best picture winner\" that it will be on May 2029, and my hopeAcademy award for best picture presented annually by Academy of Motion Picture Arts and Science (AMPAS) . First awarded on May 16, 1929; 90 years ago.If AMPAS celebrate \"a century best picture winner\" that it will be on May 2029, and my hope and pray, SHAWSHANK REDEMPTION should be the ultimate winner.",
+            "review_date": "2019-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A perfect cast, unique setting and top acting.  This film is still highly recommended after years.  Some scenes are a bit cliche but you forget this because of the good constructive story with an appropriate ending.",
+            "review_date": "2020-07-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "10/10 Tim Robbins and Morgan Freeman star in this masterpiece written by Stephen King! Watched this movie with commentary as well! :) By Director: Frank Darabont. Quality!",
+            "review_date": "2019-10-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Get busy living, or get busy dying\". This films is a masterpiece. Everything about this film is near perfect. It is an intriguing tale of prison life and routine and how it can affect a man's physique or how you can take advantage of its\"Get busy living, or get busy dying\". This films is a masterpiece. Everything about this film is near perfect. It is an intriguing tale of prison life and routine and how it can affect a man's physique or how you can take advantage of its certain benefits. The film has without a doubt one of the most alluring film protagonists in Andy Dufresne, portrayed by the brilliant Tim Robbins. His subtle yet realistic portrayal of a shy and intelligent banker who is framed for murder is one of the best performances I have personally ever seen. Another character who I can't get enough of is Red played by the unsurprisingly exceptional Morgan Freeman. His outstanding narration sets the mood throughout the film's duration and is simply brilliant. The protagonist's journey from being a vulnerable individual to becoming the most protected person in Shawshank prison is a truly remarkable one. The film is directed phenomenally by Frank Darabont and even more impressive is that this is his first feature film. I strongly recommend that you watch this film as it is one of the greatest films to ever be made and without a doubt my favourite film of all time.",
+            "review_date": "2019-10-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "That's the kind of movies that Cinema is made for. Everything about this movie is amazing: the acting, the cinematography, the music and the pacing. This is a movie about hope.",
+            "review_date": "2019-10-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "MASTERPIECEOne Of The Greatest Movies Of All Time.Actings Are Great,Musics Are So Touching,cinematography is great.That's Is Real Cinema.",
+            "review_date": "2020-01-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A classic! Who would expect this end! Great plot and facts presentation, as well as the actors.",
+            "review_date": "2020-06-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "No matter how many times I watch this movie, I never get over it. A genuine and absolute outlook on life and death, freedom and captivity, friend and foe. A perfect score is what the Shawshank Redemption will always deserve. Its idea will never die.",
+            "review_date": "2020-04-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent film with great acting and should (probably is) be taught in film school",
+            "review_date": "2020-10-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Many people say that the movie is overrated. Ignore them. They always want action in every single movie or show. This movie is far better than most of the movies of modern era. The Shawshank Redemption is a masterpiece and it is a fact undeniable.",
+            "review_date": "2020-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With the exception of some glitches,it is undoubtedly one of the greatest movies ever made...And it's flowering message of Hope makes it slightly better movie than Citizen Kane and The Godfather...Camera techniques were not as good as thoseWith the exception of some glitches,it is undoubtedly one of the greatest movies ever made...And it's flowering message of Hope makes it slightly better movie than Citizen Kane and The Godfather...Camera techniques were not as good as those of above two mentioned films though.Family backgrounds of warden,captain and Red himself were not shown.and no rain scene in 20 years except at the moment of freedom of Andy?OMG..no warden and captain promotion or transfer in 20 years?.not caught even at a single  night in 20 years while secretly working at night with hammer?..but still bcz of its message of Hope it is at 8.9 in my rating.But clearly not a perfect 9 movie in my books...",
+            "review_date": "2020-08-27",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 114
 }

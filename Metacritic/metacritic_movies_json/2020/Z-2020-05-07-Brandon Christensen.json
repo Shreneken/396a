@@ -1,38 +1,41 @@
 {
-  "title": "Z",
-  "rating": 6.7,
-  "release_date": "2020-05-07",
-  "genre": [
-    "Mystery",
-    "Thriller",
-    "Horror"
-  ],
-  "summary": "A couple is shaken to the core when their eight-year-old son begins hanging out with a creepy and ominous imaginary friend.",
-  "critic_reviews": [
-    "Once Z digs its nails into trauma in the film’s final act, the proceedings get complex, bizarre, and wildly messy.",
-    "Z provides effective scares and at least one moment that made this parent scream in horror. It’s doing so many of the right things, but like a puzzle with a few pieces missing, it’s hard to see the full picture.",
-    "Z’s greatest virtue is in the delivery of its frights, which hit like a slap in the face despite falling into the general category of “jump scares.”",
-    "It’s one of those films that may be overly reliant on jump scares when you tally them all up, but I’d by lying if I didn’t admit that a few of them legitimately made me jump."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "There are moments in this film that shocked me on a new level. It build suspense brilliantly but like many films it feels rushed towards the end. It also takes a lot of ideas from the Babadook.  Definitely recommend though",
-      "review_date": "2020-10-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A Shudder original, so I wasn't expecting much.In all honesty I thought it was better than some horror stuff that was released this year but there's nothing worth mentioning and I say this because even though there's some interestingA Shudder original, so I wasn't expecting much.In all honesty I thought it was better than some horror stuff that was released this year but there's nothing worth mentioning and I say this because even though there's some interesting elements, the way it's driven makes the jump scares an abusive resource for the narrative and I hate when that happens.",
-      "review_date": "2020-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The script has creativity, maybe even in the name of the thing or maybe not.",
-      "review_date": "2021-06-15",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 7
+    "title": "Z",
+    "rating": 6.7,
+    "release_date": "2020-05-07",
+    "genre": [
+        "Mystery",
+        "Thriller",
+        "Horror"
+    ],
+    "summary": "A couple is shaken to the core when their eight-year-old son begins hanging out with a creepy and ominous imaginary friend.",
+    "critic_reviews": [
+        "Once Z digs its nails into trauma in the film\u2019s final act, the proceedings get complex, bizarre, and wildly messy.",
+        "Z provides effective scares and at least one moment that made this parent scream in horror. It\u2019s doing so many of the right things, but like a puzzle with a few pieces missing, it\u2019s hard to see the full picture.",
+        "Z\u2019s greatest virtue is in the delivery of its frights, which hit like a slap in the face despite falling into the general category of \u201cjump scares.\u201d",
+        "It\u2019s one of those films that may be overly reliant on jump scares when you tally them all up, but I\u2019d by lying if I didn\u2019t admit that a few of them legitimately made me jump."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "There are moments in this film that shocked me on a new level. It build suspense brilliantly but like many films it feels rushed towards the end. It also takes a lot of ideas from the Babadook.  Definitely recommend though",
+            "review_date": "2020-10-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A Shudder original, so I wasn't expecting much.In all honesty I thought it was better than some horror stuff that was released this year but there's nothing worth mentioning and I say this because even though there's some interestingA Shudder original, so I wasn't expecting much.In all honesty I thought it was better than some horror stuff that was released this year but there's nothing worth mentioning and I say this because even though there's some interesting elements, the way it's driven makes the jump scares an abusive resource for the narrative and I hate when that happens.",
+            "review_date": "2020-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The script has creativity, maybe even in the name of the thing or maybe not.",
+            "review_date": "2021-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 7
 }

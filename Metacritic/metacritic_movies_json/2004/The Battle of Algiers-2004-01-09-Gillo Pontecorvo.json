@@ -1,14 +1,14 @@
 {
-  "title": "The Battle of Algiers",
-  "rating": 8.0,
-  "release_date": "2004-01-09",
-  "genre": [
-    "Drama",
-    "History",
-    "War"
-  ],
-  "summary": "This 1965 film chronicles the Algerian people's struggle to overthrow the French Colonial Government in the mid-1950s.",
-  "critic_reviews": [],
-  "reviews": [],
-  "num_reviews": 0
+    "title": "The Battle of Algiers",
+    "rating": 8.0,
+    "release_date": "2004-01-09",
+    "genre": [
+        "Drama",
+        "History",
+        "War"
+    ],
+    "summary": "This 1965 film chronicles the Algerian people's struggle to overthrow the French Colonial Government in the mid-1950s.",
+    "critic_reviews": [],
+    "reviews": [],
+    "num_reviews": 0
 }

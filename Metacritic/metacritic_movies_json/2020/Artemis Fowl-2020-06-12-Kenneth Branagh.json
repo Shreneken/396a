@@ -1,530 +1,575 @@
 {
-  "title": "Artemis Fowl",
-  "rating": 2.7,
-  "release_date": "2020-06-12",
-  "genre": [
-    "Adventure",
-    "Sci-Fi",
-    "Fantasy",
-    "Family"
-  ],
-  "summary": "Artemis Fowl, a young criminal prodigy, hunts down a secret society of fairies to find his missing father.",
-  "critic_reviews": [
-    "Though it would have been lovely to take in the lavish set pieces and the cool CGI creations and the whiz-bang action sequences on the big screen, Artemis Fowl still plays well as a warm and funny and entertaining at-home family viewing experience.",
-    "Rather than being a massive foul-up, Artemis Fowl is a sufficient spycraft fantasy that could benefit from the inevitable sequel, and Gad proves once again to be the Mouse House’s Dwayne Johnson, a rock-solid personality who makes everything around him better.",
-    "Artemis Fowl isn't an unqualified good egg, but it's perfectly adequate, and the best of the kid-friendly movies redirected to streaming by coronavirus -- a low bar, admittedly, after \"Trolls World Tour\" and \"Scoob!\"",
-    "Although the problem lies primarily in the difficulties associated with condensing an epic tale into a short-ish movie, the lack of elegance with which that is accomplished makes Artemis Fowl a failure for anyone hoping for the next great fantasy film.",
-    "Artemis Fowl is not a horrible film, but it had the potential to succeed, yet falls flat in the end.",
-    "There are people who like movies like this, who like when a movie screen looks like their computer screen and who don’t mind when everything is fake, including the emotions. Artemis Fowl is a genre movie, and as such, it’s an OK version of the thing it is. I just can’t stand the thing it is.",
-    "One wonders if a director more playful than Kenneth Branagh might have come up with something less hectic and more fun — or even just as hectic and more fun. Taika Waititi, anyone? Jojo Rabbit is almost as odd a name as Artemis Fowl.",
-    "While an energetic kids’ fantasy with cool creatures fighting each other is probably a reasonable win for Disney’s new premium service in these days before most theaters reopen, it’s hard to watch it as an adult and not wish for something that produced a little more magic of its own.",
-    "This is not a “but the book was better” argument. It’s simply that by abandoning the original character and cobbling together broken story shards and spare parts, Branagh and company have produced something off an assembly line: safe, generic and utterly disposable.",
-    "Without the darkness or depth of the Harry Potter movies, Artemis Fowl fails to find an audience over 10 years old",
-    "Josh Gad takes a valiant stab at landing some mostly groan-worthy humor, and Judi Dench has clearly put in a lot of hours scowling at green screens while wearing pointy ears and eye-catching emerald-green leprechaun army regalia (hey, at least it's not a cat suit). But this big-budget fantasy adventure from Disney is busy and exhausting.",
-    "Rarely in the history of cinema has so much tortured exposition failed so completely to explain such an undistinguished plot. It is like trying to pick up the story through overheard conversations with nearby drinkers who have just emerged from a screening. Stop telling us stuff and do something!",
-    "Disney's Artemis Fowl is an empty science fantasy tale with forgettable characters and an uninspired story.",
-    "Images and characters bounce around like shapes on a screensaver and only McDonnell and Gad’s performances have any fizz. This is a YA-franchise by numbers.",
-    "An overqualified adult cast and some fun moments can’t entirely compensate for a defanged protagonist and too-static plot. This fantasy desperately needed a little more magic.",
-    "It took 20 years for an Artemis Fowl movie to come out, and now that it’s here, the film itself feels like it’s in a hurry to be over already.",
-    "For those who have spent the last few months hungering for a big-spectacle mess (they are, after all, a feature of summer moviegoering), now you can take in a big-budget flop from the comfort of your own home.",
-    "The whole endeavor is a naked attempt to cash in on the young adult fantasy trend spearheaded by \"Harry Potter.\" There have been many attempts to snatch the Potter crown (and purse) but Artemis Fowl will not be the hot new kiddie fantasy franchise, based on this utterly charmless first entry.",
-    "That the film is a mediocre product doesn’t matter nearly as much as the fact that Disney+ now has a shiny new big-budget spectacle to dangle in front of its core audience.",
-    "Artemis Fowl concocts an adventure that requires its privileged hero to go virtually nowhere, physically or emotionally. As if he ordered it on Instacart, conflict is simply dropped off on his front stoop, and all he has to do is throw on some shoes and sunglasses to pick it up.",
-    "A confusing, muddled, sloppy mess of bad intentions and worse execution.",
-    "And that, perhaps, is the easiest way to explain its overarching failure: In a film built on a bestselling eight-book series, filled with all manner of magical beings (including Colin Farrell), and rich in fairy tale history, the best scene is one in which its grating narrator farts on a passerby. You didn’t see that in the “Harry Potter” films, and for good reason.",
-    "Artemis Fowl, the first Disney movie to have its theatrical release completely scrapped because of the COVID-19 pandemic, is bland and incoherent, with paper-thin character development, unimaginative world building, and a lot of daddy issues.",
-    "The best way to handle this relentlessly nice movie that deserved a touch of nasty, is to enjoy the few flashes of what have been before the sheer heaviness of the production stomps out all the fun.",
-    "This is an earnest, half-baked fairy story drenched in a thick soup of CGI. It’s awkwardly staged, with turgid, expository dialogue that is appreciably tricky for a palpably ill-at-ease young cast to deliver",
-    "This fantasy flop is sunglasses-and-fake-mustache bad.",
-    "This is a movie that doesn’t care at all about character development. There’s no emotional investment whatsoever.",
-    "The end product is all but unfollowable, thanks either to a screenplay that was incoherent to begin with, or an edit so slicingly brutal that almost every trace of the plot’s connective tissue was chopped out.",
-    "Artemis Fowl is a complete disaster; a hectic mess of worldbuilding that tries to cram a big chunk of an eight-part book series into a movie that runs less than 90 minutes plus credits. From the look of the finished product, a large portion of the story (along with most of the characters’ motivations) were completely removed, leaving only the action sequences and special effects — neither of which are impressive or exciting enough to justify sitting through the film, even one as short as Artemis Fowl.",
-    "You’ll only lose 90 minutes of your life to this misbegotten mess.",
-    "The movie is so charmless and hopelessly incoherent that you might feel the need to consult Wikipedia afterward for some help on what it was even about.",
-    "What a waste. Screenwriters Conor McPherson and Hamish McColl have taken a not-very-good book and turned it into a downright awful movie.",
-    "Artemis Fowl is not just a disappointing adaptation, it’s a badly made movie. Its Frankensteined plot and its shockingly poor CGI — which could have passed in an early 2000s movie, but not in 2020 — leave it no redeeming qualities. It gives me no joy to say that yet another movie adaptation of a beloved childhood property has wasted Colin Farrell."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Screenwriting is weak. Most of the main actors, especially Artemis Fowl played by Ferdia Shaw is horrible. Josh Gad is ok, and Colin Farrell is fine as a supporting actor, but they screwed the pooch with the casting of this wooden kid. I’veScreenwriting is weak. Most of the main actors, especially Artemis Fowl played by Ferdia Shaw is horrible. Josh Gad is ok, and Colin Farrell is fine as a supporting actor, but they screwed the pooch with the casting of this wooden kid. I’ve read the first novel. I know it’s tough to find some great kid actor like Dakota Fanning, ... but they needed to find someone w a little charm and acting believability. This franchise is dead on arrival.",
-      "review_date": "2020-06-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you enjoy the books, avoid the film. It's a flea market bootleg version of the first two novels, as filtered through the mind of a tween who only read the back panel before submitting their book report. None of the elements that make theIf you enjoy the books, avoid the film. It's a flea market bootleg version of the first two novels, as filtered through the mind of a tween who only read the back panel before submitting their book report. None of the elements that make the story engaging made it to the script or the screen.",
-      "review_date": "2020-06-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I’ve seen some terrible adaptations before, but this is the first time I’ve ever legitimately felt like something was truly a betrayal of its source material. Add in a nonsense plot with a bog standard macguffin, some regrettably terribleI’ve seen some terrible adaptations before, but this is the first time I’ve ever legitimately felt like something was truly a betrayal of its source material. Add in a nonsense plot with a bog standard macguffin, some regrettably terrible child acting, and more than one instance of horribly integrated CGI, and you couldn’t pay me enough to sit through this again.",
-      "review_date": "2020-06-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The beginning and fall of an aspiring franchise.Obviously, Disney understood very well the failure they had in their hands and avoided a brutal disappointment at the box office.\n\nKenneth Branagh looks bad as a director in this film, andThe beginning and fall of an aspiring franchise.Obviously, Disney understood very well the failure they had in their hands and avoided a brutal disappointment at the box office.Kenneth Branagh looks bad as a director in this film, and while I understand that the Disney studio machinery might have a lot to do with it, he still has a high degree of responsibility for this frustrating, messy and incoherent work.And there's obviously an interesting idealization behind this story, but its remarkable lack of emotion and entertainment completely destabilizes it and what remains as I said is the inevitable death of a franchise, because unless the film does well in Disney +, I doubt very much this story gets a sequel.",
-      "review_date": "2020-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Kenneth Branagh's \"Artemis Fowl\" bears no resemblance to the source material; and also fails to stand on its own feet as a film. The dialogue is terrible, the characters are underdeveloped, the world-building is rushed, and the visual effectsKenneth Branagh's \"Artemis Fowl\" bears no resemblance to the source material; and also fails to stand on its own feet as a film. The dialogue is terrible, the characters are underdeveloped, the world-building is rushed, and the visual effects are poor.",
-      "review_date": "2020-06-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Artemis had a promising start but the story was average. The actors were pretty good, even the young ones but the lines they had, were not very good. They often felt disconnected. That broke the logic and brought confusion into the story. TheArtemis had a promising start but the story was average. The actors were pretty good, even the young ones but the lines they had, were not very good. They often felt disconnected. That broke the logic and brought confusion into the story. The narrating didn't work. It was a gimmick to try to clarified the story. The FX are decent. I though the costumes were pretty bad, especially for the fairies. The soundtrack was ok. I give it 52%. I mainly give this score because Lara McDonnell was really good in her role. Quite frankly, she should have been the main lead in this unfocused story.",
-      "review_date": "2020-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is the dumbest, emptiest film ever made, ever. I would walk out of this film given the chance, even if I was on a plane.",
-      "review_date": "2020-06-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you read books (great books) don't watch this terrible film ! If you still watch the movie god why FOR WHAT ? Then read book it really interested",
-      "review_date": "2020-06-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Who did they make this for? The fans of the books will hate this. People new to the story will just be confused as they are just thrown into this world without explanation. Character development is HORRIBLE. This is not an adaptation of theWho did they make this for? The fans of the books will hate this. People new to the story will just be confused as they are just thrown into this world without explanation. Character development is HORRIBLE. This is not an adaptation of the book, this is completely different. More like inspired by the book. I'm not opposed to changes when adapting books into movies, but this is just awful. They removed the essence of the story. Can't believe the author agreed to the changes. I feel bad for the young actors. They might be the only thing I liked about this.",
-      "review_date": "2020-06-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Never reviewed a movie before but ppl need to be warned so I signed up to tell you. Don’t waste your life watching this garbage. I’ve not read the books. The time i spent watching this garbage, which made no sense what so ever, is time i’llNever reviewed a movie before but ppl need to be warned so I signed up to tell you. Don’t waste your life watching this garbage. I’ve not read the books. The time i spent watching this garbage, which made no sense what so ever, is time i’ll never get back. Its movies like this where ppl who paid money for garbage movies like this, should get their money back. The screen writers should be sacked and never write professionally again. Don’t say you weren't warned.",
-      "review_date": "2020-06-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Terrible movie. I couldn't bear to watch it all, it was too painfull. Knowing that was directed by Kenneth Brannagh makes it even worse Don't waste time on it",
-      "review_date": "2020-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A really weak implementation of Disney.I don't know what's going wrong with Disney since Star Wars 8, but the movies and series are getting worse. A restart would be necessary.",
-      "review_date": "2020-06-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This was barely a watcheable movie. The only thing interesting were the CGI effects. The story was a bit lame and the characters were paper thin. If you have nothing better to do with 90+ minutes of your life, then watch this. Otherwise,This was barely a watcheable movie. The only thing interesting were the CGI effects. The story was a bit lame and the characters were paper thin. If you have nothing better to do with 90+ minutes of your life, then watch this. Otherwise, catch something better. A lot of the foreign movies on Netflix have better stories than this movie. Ciao.",
-      "review_date": "2020-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A movie version of the Artemis Fowl book has been in and out of production since '01. We finally get it, and wow, this wasn't worth it. This a very disappointing adaptation. Especially surprising is that this is brought to us from Disney andA movie version of the Artemis Fowl book has been in and out of production since '01. We finally get it, and wow, this wasn't worth it. This a very disappointing adaptation. Especially surprising is that this is brought to us from Disney and director Kenneth Brannagh (Thor, Murder on the Orient Express, Cinderella).The problem is that this is a bunch of quick short scenes and characters thrown at us one after the other with very little impact. Heck, the character of Artemis' friend Juliet (played by Tamara Smart) feels like an afterthought and barely functioning character, used so sparingly despite being around the main action most of the time.I think there was a lot of trouble in editing and reshoots. There is one very clear moment of poor dub work.The barrage of scenes and characters results in a complete and utter lack of being able to become invested or relate to the characters. The only character who feels completely developed is large dwarf Mulch Diggums (Josh Gad). I feel that Disney may have felt he went best with test audiences and pushed all the attention onto him.The biggest issue is the presentation of Artemis Fowl (Ferdia Shaw) himself. He's a criminal genius in the book, but that isn't well represented here. He's still smart, but the choppy editing doesn't much make it feel like he's a master strategist. He's watered down from an antihero to a more traditional protagonist. It's Pinky, Elmyra, and the Brain all over again. The studio feels that an antihero may not sit well with parents and they water the product down. The director and/or studio also tweak Artemis' backstory, which was a mistake. (There are good movie adaptations where they change things. This just isn't one of them). They give a frustratingly basic and uninvolving story for Artemis. The characters' setup scenes are some of the dullest moments. Plus, the backstory pales in comparison to the original. The movie doesn't seem to have much faith in Artemis as he doesn't even seem to the be the main focus. Shaw also gives a rather dull performance.Last complaint: there are a couple moments that look like they might be death scenes, but I don't think they were supposed to be. It's very poorly handled.To the movie's credit, there is a good line once in a while. Gad and Judi Dench as an elf commander do a good job. Nonso Anozie as Artemis' bodyguard seemed like fun, but he just wasn't given enough attention. Being a Brannagh movie, it looks nice but it doesn't quite compare to some of his other recent works.You can avoid this one, especially if you're a fan of the book. It's not painfully bad, just barely functioning.",
-      "review_date": "2020-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was just strange, when i saw the overwhelmingly negative reviews i thought i would hate this movie when i watched it but i don't. Yes it's a bad movie but almost everything about it was strange.Let's start of with the good. WellThis movie was just strange, when i saw the overwhelmingly negative reviews i thought i would hate this movie when i watched it but i don't. Yes it's a bad movie but almost everything about it was strange.Let's start of with the good. Well Lara McDonnell gave a decent performance as Holly Short, her character had an underdeveloped plot but i liked her performance in the movie. I know i'm in the minority in this but i mostly liked Josh Gad in this movie, yes the narration was unneeded, the grouchy voice was annoying (it's even addressed in the movie) and some of the scenes involving his CGI use was horrible but i enjoyed the charisma and witt he brought in the movie. He played as a tall dwarf and he looked like the only one having fun in that movie so yeah Josh Gad was a silver lining.The concept and potential was there and interesting as well, the first act was not that bad as you are introduced to the other worlds of Artemis Fowl like the fairy kingdom was an interesting concept and the CGI was decent early in the movie too but that potential was never realized. Being a Kenneth Branagh movie some shots looked nice and well directed AT TIMES with some decent set pieces here and there.Now the Bad. Ferdia Shaw who played Artemis Fowl had a hammy performance throughout the movie, at times he seemed too monotone and stoic and the other he seemed to be over-acting, it wasn't a terrible performance as he got a lot better during the third act but that was one of the many problems of the movie. Another problem was how scenes seemed to be stitched together and all over the place. Not to give anything away but the majority of the movie takes place in a House.The runtime is 1hr 30 minutes and it seems some scenes were removed and the pacing was too fast and dodgy as you're not given time to fully flesh out characters and the runtime is just filled with exposition and world building but you're never given time to care about the characters or the plot. Judy Dench also gave a weird performance with a grouchy voice, The CGI got bad real fast and this is a big budget movie mind you especially with some bad action sequences.The heist aspect of the movie took a backseat as most of it was explained through narration which took away any thrill or suspense. The villain was awful as he/she has a generic motivation to take over the world and i don't mind that but there is no backstory or any reason to be invested in the villain so it just ends up being generic movie bad guy 101 oh and he/she has a grouchy voice, i have no idea why this movie had an obsession with grouchy voices.Colin Farrell as Artemis' father had the potential to be an interesting character but as soon as you're introduced to him, he is immediately gone. The adventure aspect is also poorly executed and the way how the main conflict is resolved is just baffling. Like i said the whole movie was strange, Also some scenes drag on and we are talking about a 1hr 30 minute movie here and the story never goes to interesting places and again you never care for the characters. So overall, didn't hate his movie, but it's not a good movie by any means.",
-      "review_date": "2020-06-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "HorrendousWith bad acting, an abysmal script, and terribly written characters, Artemis Fowl is a disaster.",
-      "review_date": "2020-07-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Serves you right, Disney. Like Star Wars, you thought it would be an automatic success, just by the name on it. And like Star Wars, your movie is trash. It will join the graveyard of stillborn franchises, like Narnia, Percy Jackson, EragonServes you right, Disney. Like Star Wars, you thought it would be an automatic success, just by the name on it. And like Star Wars, your movie is trash. It will join the graveyard of stillborn franchises, like Narnia, Percy Jackson, Eragon and ATLA...",
-      "review_date": "2020-07-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is not an adaptation of the book, this is completely different universe.The worst book adaptation ever.Congratulations ,it's even worse than Eragon book adaptation.Disney kill next universe.",
-      "review_date": "2020-06-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a very boring and bad “movie”... Dont see this s*ht. Only the visual not bad, the other things...",
-      "review_date": "2020-06-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Very boring movie, Holly was the only interesting character. Thank God is was a short movie",
-      "review_date": "2020-07-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I thought there would never be a worse adaptation of a worldwide liked book story than Percy Jackson And The Lightning Thief (2010), but I was wrong.",
-      "review_date": "2020-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "terrible movie ......  shdhxhxjdjdjsisksoxhcjsowosocjdnekwoxjxndkwosicnxndkwosixj",
-      "review_date": "2020-06-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I'm not expecting a page for page remake of the book but why even call this Artemis Fowl? They might as well have just ripped off the world of Artemis Fowl and changed the character names to create a totally new story. This isn't evenI'm not expecting a page for page remake of the book but why even call this Artemis Fowl? They might as well have just ripped off the world of Artemis Fowl and changed the character names to create a totally new story. This isn't even remotely the same story. Even then it was a pretty bad movie in my opinion. CGI and stuff was cool but the acting and character development was mediocre in my opinion",
-      "review_date": "2020-06-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "CG was good. Story and acting was absolute trash. I hate to make fun of a child but damn was the kid who played Artemis TERRIBLE!",
-      "review_date": "2020-06-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I have an eye condition which physically prevents me from crying but I cried watching this film",
-      "review_date": "2020-07-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Many plot changes that miss the point of the book and surprisingly ruin a lot of rather progressive story arcs.",
-      "review_date": "2020-07-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nNever in my life have I seen such a bad movie based on such brilliant books.The Casting went crazy. Holly is a kid, Butler and his sister are black (with irritating blue eyes), Mulch is taller than Artemis, Root is a woman?I mean. I don't have a problem with having a cast which isn't just all white/all male a.s.o. but this went too far.Artemis II. was ok. And I think Foaley and Artemis Sr. were fine but all other main characters? Nope not with me. Regarding the Story itself its just a hoax. I wasn't even able to tell what they were up to.An the characters? Since when would Mulch tell some MI6 agents anything about elves, Artemis or something else? (maybe it was another plan, I just weren't able to finish this piece of **** since when would Holly let Mulch steal her purse?Why on earth did they have to change so much and **** this up?I mean thsi could have been the next really great movie collection for people from 10-99. The next \"Harry Potter\". The Books are great. But this movie? It's not even a trash movie like Eragon which just won't fit the books but works for itself. It's garbage and should be burnt and never shown again.I feel sorry for the actors and most other people involved. I mean, it's not just Judy Dench who I adore, there must have been plenty of people working on that project and it must be frustrating to see what garbage came out of it.",
-      "review_date": "2020-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Atrocious carnage of the Artemis Fowl novels.If you like the books, DON'T Watch the movie, please! This single movie ruins all the magic and childish awe i had reading the Artemis Fowl novels. Please also do not show this movie to yourAtrocious carnage of the Artemis Fowl novels.If you like the books, DON'T Watch the movie, please! This single movie ruins all the magic and childish awe i had reading the Artemis Fowl novels. Please also do not show this movie to your kids, give them the book to read instead.This movie should be erased from every corner of the planet, or left as an example of \"How to NOT make a movie from a popular series\"",
-      "review_date": "2020-09-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolutely no shred of respect towards the source material. Eoin Colfer should disown this garbage if possible. Only redeeming quality is the personality Josh Gad managed to give to Mulch Diggums, which is why I give at least 1 point.TheAbsolutely no shred of respect towards the source material. Eoin Colfer should disown this garbage if possible. Only redeeming quality is the personality Josh Gad managed to give to Mulch Diggums, which is why I give at least 1 point.The changes to the original story are so dramatic that it doesn't deserve the title \"adaptation\" anymore, I'm not even sure \"loosely based\" fits here. It's like the people who made the script didn't even bother to read the books, it's like they just heard what the books are roughly about from someone who read them a decade ago. While he was drunk. Then they got drunk and made this.The changes to some of the main characters traits, race and even sex are something I just can't explain and it's really really insulting. Holly should be \"of dark colour\", she is pale white. Domovoi Butler should be - and this is even plot-related - of Russian-Japanese descent, whose family protected Fowls from around year 1100, he is somehow an African (with Slim Shady dyed hair and obvious fake colored lenses.. I mean seriously who came up with that). \"Julius Root\" should be an angry little cigar-smoking man, not a noble misses M from James Bond. Foaly should be old and hairy, not young and metrosexual. And Mulch Diggums (while the actor gave him a lot of personality) should have looked anything but human.Budget for this cringe-worthy Frankenstein monstrosity was around a third bigger than any of the Lord of the Rings movies. Is that a joke?",
-      "review_date": "2020-08-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "В фильме есть только пара сюжетных ходов и графика.За 2 часа показали то, что у других укладывается минут в 20.При этом, раскрыть мотивацию и возникновение дружбы между главными героями никак не смогли.В фильме есть только пара сюжетных ходов и графика.За 2 часа показали то, что у других укладывается минут в 20.При этом, раскрыть мотивацию и возникновение дружбы между главными героями никак не смогли.",
-      "review_date": "2020-06-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Pretty Downtrodden and boring, I never read the book or have been a fan of the series so I can only image how they must be feeling after this horses's ass of a movie",
-      "review_date": "2020-07-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This might be one of the worst films I've ever watched - very inconsistent and confusing",
-      "review_date": "2020-10-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I've never read the book this movie was based on, but I bet it's far better, and makes way more sense than this whole train-wreck of a movie. I'm sure any fan of the book will tell me that.",
-      "review_date": "2020-07-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Pure GarbageI've always been a fan of the book. One of the best stories I've ever read.I never had high hopes for the movie since the trailers made it pretty clear that it wasn't going to be a good one. Nevertheless, I watched the movie.Pure GarbageI've always been a fan of the book. One of the best stories I've ever read.I never had high hopes for the movie since the trailers made it pretty clear that it wasn't going to be a good one. Nevertheless, I watched the movie. It's safe to say that not only it's a horrible adaptation, but it's a horrible movie as well. I honestly don't understand how they managed to **** up in every single aspect they could.**** story, **** dialogues, **** acting. Every single thing in this movie is ****.I don't recommend this movie to anyone, certainly not to fans and not even regular people.Unless you want to use it as a torturing device...",
-      "review_date": "2020-08-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wanna be Harry Potter like movie that starts a franchice. Fails miserably. Released way too late and doesn’t even respect the original source material at all. Some of the scariest / **** CGI I’ve seen in a mainstream movie.",
-      "review_date": "2020-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThis review comes from a person who never read the books nor heard about this character before. The movie plot is incredbly poorly constructes and the twists are never important enough to make an impact. I didn't understand most decisions made on designing the cast, for example, why does Mr. Butler has weirdly placed bright neon blue eyes or why Briar Cudgeon starts the movie inside a prison and then is suddenly a chief commander who has more power than Judi Dench's character. Many questions are left on the air, the biggest is: \"why is the Aculos stored in a safe that any dwarf can open?\". The movie just doesn't make sense!",
-      "review_date": "2020-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Having read all of the Artemis Fowl books myself, I will tell you that this movie completely misses the mark in terms of faithfulness to the original series. No longer is Artemis a cold, debonair child prodigy; instead, he comes off as aHaving read all of the Artemis Fowl books myself, I will tell you that this movie completely misses the mark in terms of faithfulness to the original series. No longer is Artemis a cold, debonair child prodigy; instead, he comes off as a scared boy trying to understand what is happening around him. Fans of Eoin Colfer's writing style will almost certainly be disappointed by this adaptation. The plot comes off as basic and the characters shallow and underdeveloped. The few scenes that do stay true to the series seem to have been taken out of  the various books published in the Artemis Fowl series and mashed together haphazardly. Despite this, I would say the adaptation is a good way to pass time for young children. It certainly keeps their eyes glued to the screen, as you would expect any fantasy-based film with copious amounts of CGI would. Overall, the movie, while bad, wasn't a complete disaster and had some level of entertainment.",
-      "review_date": "2020-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "As a fan of the books this was a total disappointment, the acting was mediocre and the fight scenes too fast and jumbled.  The plot was missed and had no real sense of purpose.  Artemis Fowl was played down too much for a genius.",
-      "review_date": "2020-06-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I made it to minute 14. At this point they already masacred the plot and main character that badly that I am considering to cancel my Disney+ just so I never have to see a Disney movie ever again. Honestly how do you mess up so bad?? YouI made it to minute 14. At this point they already masacred the plot and main character that badly that I am considering to cancel my Disney+ just so I never have to see a Disney movie ever again. Honestly how do you mess up so bad?? You didnt even needed to be creative you had really great books that you just needed to adapt. The people responsible for this movie actually have no clue what made Artemis Fowls Story so great and managed to mess all that up in these first 14 minutes. If somebody would have tried to do that on purpose I doubt they would have succeeded. Holy **** what a disgrace to film making, worse then the Eragon movie!!!!! I never thought that was possible... Even worse then the Percy Jackson movies yikes",
-      "review_date": "2020-08-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The biggest waste of time of 2020. no enjoyment to be had at all, just pain.",
-      "review_date": "2020-09-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThis movie deserves 0 stars. It's not Artemis Fowl and it can't even get by on its own merits as a movie. The story has been completely changed from the books it's supposedly based on to the point where it's completely unrecognizable as Artemis Fowl in any sense. The characters have been completely changed as well. Artemis is meant to be 12-year-old criminal mastermind with the disposition of a Vulcan that was well aware of his family's criminal enterprises for his entire life and brought up to eventually take over for his father and keep their criminal empire running. He detested athletic activity and was always extremely formal, constantly wearing suits even in his down time. His father went missing when he was very young, held by the Russian mafia, and it drove his mother insane. He was left to keep everything going and at 12 he kidnapped a fairy and ransomed her for gold. Though the protagonist, in the first book Artemis was very much the villain. In this movie Artemis is clearly just a kid that is smarter than everybody else. They kept his \"kid genius\" trait and removed everything else. His first appearance in the film is him surfing, something the true Artemis would never have done. He's constantly seen in typical clothing you would expect a kid to wear during the first portion of the film rather than his signature suits. His mother is dead and his father is kidnapped by Opal Koboi, the reoccurring villain that was introduced in the second book and had nothing to do with the Fowl family until Artemis II foiled her schemes. Movie Artemis has an emotional outburst when he learned from a news broadcast that his father is suspected of being a criminal and denies the accusations, eventually having to be dragged away by Butler, who in the movie prefers his first name despite it being a major part of his character in the books that his first name is to remain a secret unless he's dying. Butler is the one that introduces Artemis to the reality of faeries, which is what his dad was involved in, rather than Artemis discovering faeries and dragging Butler and Juliet into it with him like in the books. All of the characters have been drastically changed in similar manners, their traits and backstories completely thrown out the window and rewritten. They're mere caricatures of the characters they're supposed to be. Even forgetting that this was supposed to be a book adaptation the movie wasn't very good. The acting is bland and the actors are always either trying too hard or not trying hard enough. The manor is beautiful from the outside but there's far too big a disconnect between the style of the exterior and the style of the interior. The voice over narration by Josh is terrible, far too raspy and often difficult to understand due to that fact. The plot of the movie is very basic and recycled from nearly every hero or spy B movie ever made. The characters are watered down stereotypes with no depth to them at all. All in all, it's just terrible. Disney wasted so much money on a movie that turned out to be complete garbage. If you're thinking about watching \"Artemis Fowl\" my advice would be to just watch Spy Kids or Men in Black again instead. It's basically those two movies combined in the worst ways possible and somehow both of those movies are better films than this one.",
-      "review_date": "2020-10-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Artemis Fowl books are magnificent. They are likeable, witty and captivating stories that feature interesting characters, a developed world and a great sense of fun. If you have not read them, I would highly recommend them - they’re funThe Artemis Fowl books are magnificent. They are likeable, witty and captivating stories that feature interesting characters, a developed world and a great sense of fun. If you have not read them, I would highly recommend them - they’re fun for all the family.The film is... none of those things. It does have cool visual effects, some nice cinematography, a few talented actors and one good line, but it’s just a messy, plodding film. It barely has any accurate translations of the first two books, and it dumbs down the plot to the pint of it - get this - not even making sense!The film opens well enough, even if it is just asking for plot holes to come, but once that troll fight happens... anything of quality is lost down the toilet. While some of the visuals are nice, some are atrocious, and the entire Fowl Mansion break in sequence was very poor. The script makes the once great characters feel hollow and thin, and a Josh Gad as Mulch Diggums... some of his scenes were painful.Overall, Artemis Fowl had the potential to be a classic adaption, but it failed due to a lazy script, a messed up story issues and an unenjoyable pace. The reviews say it for you - this is not Harry Potter 2.0.",
-      "review_date": "2020-12-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The worst type of book adaptation more interested in using the name as a prop rather than contributing anything meaningful. However, it should serve as a good distraction for younger audiences (although I can't imagine the level of contemptThe worst type of book adaptation more interested in using the name as a prop rather than contributing anything meaningful. However, it should serve as a good distraction for younger audiences (although I can't imagine the level of contempt one would have for children to subject them to this generic bastardization).",
-      "review_date": "2020-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "How did this happen? How did Disney simply allow this to happen? And where did the $125 million budget go because this film looks awful. The actors deliver lines like they’re in a hostage video. Truly a baffling film...",
-      "review_date": "2020-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "After waiting so many years for film adaptations of the books, it feels just like what happened when I waited for new Star Wars movies and was rewarded with The Phantom Menace. How dare you scar this emotional trauma upon me once more Sir Branagh.",
-      "review_date": "2020-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There's a reason they released this on their crappy streaming service (thank god a friend of mine is dumb enough to pay for it) instead of in theaters.I'm a HUGE fan of the books, so let me just say this for anyone else who is as well: stayThere's a reason they released this on their crappy streaming service (thank god a friend of mine is dumb enough to pay for it) instead of in theaters.I'm a HUGE fan of the books, so let me just say this for anyone else who is as well: stay FAR, FAR AWAY!The appeal of the first few books was the character development.  The protagonist is quite the villain in the first novel, and gets better as things move along. This movie has never heard the words character development, and probably would find the concept confusing if it had.The casting sucks too.  The only halfway decent actor was Artemis' dad, who shouldn't have been in it to begin with.  I think the reviewers were afraid to badmouth Judi Dench for tribal reasons because her gravel voice and over the top performance was just as pathetic as the rest of the 'actors' in the film.  I hate agreeing with film critics, because most of them are stupid and their taste is nonexistent or based on their personal politics instead of a film's quality (See: the reviews for the newest death wish movie with bruce willis on this very site), but the one who said the best scene in the movie was the stupid fart joke was right.  Jesus.",
-      "review_date": "2020-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Me dormí 2 veces en los 90 minutos de película. Este es otro fracaso en la adaptación al cine de libros por parte de Disney (John Carter, Un pliegue en el tiempo, El llanero solitario...) con la diferencia de que podrán salvar un poco losMe dormí 2 veces en los 90 minutos de película. Este es otro fracaso en la adaptación al cine de libros por parte de Disney (John Carter, Un pliegue en el tiempo, El llanero solitario...) con la diferencia de que podrán salvar un poco los muebles al poder decir que la recaudación fue nula al no poderse estrenar en cines.No es posible que Disney, a estas alturas de la vida pueda permitirse productos de tan ínfima calidad, en el que ni Judi Dench ni Colin Farrell son capaces de poder salir de la mediocridad.Los niños, como de palo, ni una sola expresión creíble.Si alguien se salva, a mi entender, es Josh Gad. El único al que le veo con ganas de sacarle algo de jugo a su papel.Todo lo demás, de cartón piedra. Muy falso.",
-      "review_date": "2020-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThe books were **** and boring to begin with and the movie doesn't disappoint ;)",
-      "review_date": "2020-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I really do not think this movie is as terrible as everyone seems to suggest. I truly love the books, they were a huge part of my youth, while at the same time I understand that adapting material into a movie means some things will have toI really do not think this movie is as terrible as everyone seems to suggest. I truly love the books, they were a huge part of my youth, while at the same time I understand that adapting material into a movie means some things will have to change. This adaption was different from the booki in some aspects, but it was nonetheless enjoyable. It was cute, fun, and a worthy kids movie. I only wish it had been a little longer to allow for more character development.",
-      "review_date": "2020-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Dont get yourself distracted by all those whiney toxic reviews, As a die hard artemis book fan i can say this movie is, despite beeing very imperfect, worth watching. Its MUCH closer to the Original than i thought from the trailers, and to myDont get yourself distracted by all those whiney toxic reviews, As a die hard artemis book fan i can say this movie is, despite beeing very imperfect, worth watching. Its MUCH closer to the Original than i thought from the trailers, and to my surprise one can find some hints that they actually read it all, like artemis and holly changing eye colours. (Even this is not book one)Generally, this movie feels like all books cramped in one, if this would have been a series it would have been a whole lot better.The effects are decent but there is, for no reason, too much cgi. cast is actually good but acting always feels wierd because there is no way to properly act on this pace. They barely have any time for caracter development and everything is just too fast to be believable.The main concerns that i still have is Artemis feeling somewhat cringey/not evil enough, and butler is somehow not characterized at all. But if you look closely that all boils down to pace, and that again to cut. The vietnam scene is missing completely despite beeing in the trailers, and thats what makes the movie feel wierd. Half an hour more of seeing artemis and butler carrying out a plan together would have made it all more believable. (Like the goddamn book)And thats sad because some script ideas are actually genius, like mulch acting reminiscent of jack sparrow and the idea that Artemis could have gotten to know Holly a lot better while he kept her jailed, as well as the subplot with her father. Yes you can shame this movie for beeing unsure who the audience is and as a \"cineast\" would barely consider it beeing good, but for a fan, it is definitly a must watch. i did not regret watching",
-      "review_date": "2020-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I remember reading this book as a kid, and while the story isn't exactly the same as the book and the dialogue at times is clunky, I truly enjoyed this interpretation of the story.The graphics were good, the acting was good, the music wasI remember reading this book as a kid, and while the story isn't exactly the same as the book and the dialogue at times is clunky, I truly enjoyed this interpretation of the story.The graphics were good, the acting was good, the music was good, and the cinematography was good. The film, on its own, was entertaining enough that I was on the edge of my seat at tense moments and felt invested in the characters.Colin Farrell and Judy Dench played their characters very, very well, and the child actors were actually likeable. Josh Gad was on par, and Nonso Anozie was very cool as Butler.Altogether, I really liked this movie and hope Disney continues the series.",
-      "review_date": "2020-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My family and I just watched this movie and all of us loved it. Really don’t understand the horrible reviews other then people disappointed by book differences. Casting was good, sets were amazing (loved Fowl Manor) and nice effects. WouldMy family and I just watched this movie and all of us loved it. Really don’t understand the horrible reviews other then people disappointed by book differences. Casting was good, sets were amazing (loved Fowl Manor) and nice effects. Would love to see a sequel but doesn’t sound like we will get it :(",
-      "review_date": "2020-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Appalling dialogue, patronises the adult audience who are the people who loved the books on release, garish faked Irish accents on all characters, (just employ someone with that accent) THERE MUST BE A SEQUEL - So They can actualise theAppalling dialogue, patronises the adult audience who are the people who loved the books on release, garish faked Irish accents on all characters, (just employ someone with that accent) THERE MUST BE A SEQUEL - So They can actualise the author's intention. Do This Franchise justice and don't back down!Or is this where Netflix steps in and reboots to save us all?",
-      "review_date": "2020-06-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I came in fresh, no knowledge of the book series and have to say I enjoyed myself. Fantastic techno-fantasy action adventure film with a talented cast. While it's certainly not the best in its field, it was executed to a high productionI came in fresh, no knowledge of the book series and have to say I enjoyed myself. Fantastic techno-fantasy action adventure film with a talented cast. While it's certainly not the best in its field, it was executed to a high production standard. Easily worth your time if you enjoy the fantasy / action / adventure genre.",
-      "review_date": "2020-10-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I loved reading the book. I think they did a good job with casting. Eoin Colfer is a master of YA Fiction and created a great, intelligent character. It is fun to root for a grey character who outsmarts others by many degrees of magnitude. II loved reading the book. I think they did a good job with casting. Eoin Colfer is a master of YA Fiction and created a great, intelligent character. It is fun to root for a grey character who outsmarts others by many degrees of magnitude. I hope that Covid 19 did not ruin the chance for a sequel.",
-      "review_date": "2020-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I guess never having read the books is a good thing, as I simply don’t get the hate over this film.  It’s absolutely stunning visually.  The acting is above average for a Disney film. The story evolves in a largely unpredictable manner. It’sI guess never having read the books is a good thing, as I simply don’t get the hate over this film.  It’s absolutely stunning visually.  The acting is above average for a Disney film. The story evolves in a largely unpredictable manner. It’s engaging and fast-paced enough to keep kids attention.  It makes a great summer movie to add to Disney’s collection.  A child anti-hero would have been difficult (if not impossible) to pull off.  Kids simply engaged in heists to save their parents has been done ad nauseum for decades.  Disney ejected to strike a balance with this film and upset the purists.",
-      "review_date": "2020-06-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nInteresting parallel worlds converging with the villains and heroes and magic",
-      "review_date": "2020-06-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Long time fan of the books having read them several times each. This movie while not a faithful scene by scene replay of the movie is exactly what I was looking for in an Artemis Fowl movie. My 6 year old son and I can not stop watching thisLong time fan of the books having read them several times each. This movie while not a faithful scene by scene replay of the movie is exactly what I was looking for in an Artemis Fowl movie. My 6 year old son and I can not stop watching this movie, he is in love with Mulch Diggums and Officer Holly Short. The main man himself Artemis Jr. delivers his signature cockiness and superiority in a way that doesn't make him out to be a coldhearted criminal which in today's times is definitely not a bad thing.Butler is played in spades as the best friend/surrogate father figure to young Artemis when his father is gone. I tear up every time during his \"scene\" (if you actually watch the movie you know the one)Commander root plays her part wonderfully (I will miss the noxious stogeys this character was known for, but again times we live in) as Holly's protective almost motherly figure, while also cutting her no slackCudgeon is immediately dislikable just like the books and is just as slimy as ever.Even Juliet I believe is played amazingly.All in all I cannot believe most of the reviews about this movie. Do people really want a page for page remake of the book? I for o e did not and am extremely happy with how this turned out. Hopefully some people will read this and actually give the movie the chance it deserves. My son and I eagerly await the next installment in this awesome story",
-      "review_date": "2020-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not disappointed with the movie...disappointed that reviewers are comparing it to books, instead of actually reviewing THE MOVIE!!! Duh! The plot was great, the context was superb and the CGI was inspiring.",
-      "review_date": "2020-06-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Complete desecration of its source material. I don’t get it. If you’re going to change a movie so completely from the book it’s based off of why not just create a completely new story at that point?",
-      "review_date": "2022-07-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I watched the movie with my son and daughter (17 and 12) and we all liked the movie.Good acting. Nice characters. Nice story (we did no read the books). A nice family movie. The only differences I see with other movies are...No men hating.I watched the movie with my son and daughter (17 and 12) and we all liked the movie.Good acting. Nice characters. Nice story (we did no read the books). A nice family movie. The only differences I see with other movies are...No men hating. No racism. No drugs are cool or other pushed agendas.Nice flick for a family time.",
-      "review_date": "2020-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "For those who haven't read the books, this would be a kinda mediocre fantasy film with cool CGI and passable plot.For those who had read the books and wanted a story about a super genius orphan kid, who is always on the top of theFor those who haven't read the books, this would be a kinda mediocre fantasy film with cool CGI and passable plot.For those who had read the books and wanted a story about a super genius orphan kid, who is always on the top of the situation, and his big and scary bodyguard, this is more of a massacre. Artemis comes off as more of an average kid, he panics, runs around screaming and constantly worries about daddy. Meanwhile the muscular Russo-Korean bodyguard got replaced with a pudgy black guy, who rather than instilling fear of beating you up just mainly makes you worry about the safety of your lunch.In short, this is the unholy trinity of bad casting, terrible acting and horrible directing.",
-      "review_date": "2020-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Artemis Fowl. This is the worst movie ever. How could you shoot that? Having an excellent series of books it turned out THIS! This is not Artemis, the genius of the underworld, it is just a smart boy looking for his father. This is not aArtemis Fowl. This is the worst movie ever. How could you shoot that? Having an excellent series of books it turned out THIS! This is not Artemis, the genius of the underworld, it is just a smart boy looking for his father. This is not a killer machine. Domovoi is a teddy bear that only runs the whole movie. This is not a sullen, stern and always grumpy Julius Root, but just an officer of the elven police. And so you can go on and on! There are no characters, the plot is a set of different scenes. Mulch alone turned out to be more or less normal and only 1 point for him. This is a terrible movie and shouldn't get a sequel.",
-      "review_date": "2020-11-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love the books and like the possebilities this movie had but if Disney had the slightest care for the source material it could have been great instead of watchable, if they focused on story, world and character building instead of theI love the books and like the possebilities this movie had but if Disney had the slightest care for the source material it could have been great instead of watchable, if they focused on story, world and character building instead of the famous \"Disney diversity\" and spitting on the original then there could have been infinite possebilities.Saddening to see how low Disney has sunk :(",
-      "review_date": "2021-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you're not a fan of the books, then this is going to be a boring generic movie, with \"meh\" story and effects... The acting is at least good. (It's the only reason I gave it a 1 out of 10 and not a 0 out of 10)As a movie I give it a 3..If you're not a fan of the books, then this is going to be a boring generic movie, with \"meh\" story and effects... The acting is at least good. (It's the only reason I gave it a 1 out of 10 and not a 0 out of 10)As a movie I give it a 3..If you are a fan of the books. This is actually insulting, the makers basically thought we were too stupid to like or understand the original story.",
-      "review_date": "2020-08-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Come on Disney. They aren’t even trying at this point. It’s a shameless cash grab that shouldn’t even exist. I have read the original novel and this takes that novel and tarnishes it. I don’t mind movies taking their source material andCome on Disney. They aren’t even trying at this point. It’s a shameless cash grab that shouldn’t even exist. I have read the original novel and this takes that novel and tarnishes it. I don’t mind movies taking their source material and changing it. The Shining is one of my favorite films of all time and it changes the original book but they made a story that was interesting. This movie changed the story into the most bland, unoriginal, and boring story of the year. It’s kind of insulting to the original novel. None of the performances are good. Judi Dench and Josh Gad feel so out of place here and Colin Farrell does absolutely nothing. The dialogue is cringy and the action is dull. The shots are uninteresting and the sequence of events is repetitive and boring. I thought nothing would be worse than Dolittle but here we are. At least Dolittle was somewhat entertaining in how bad it was but this is so much worse.",
-      "review_date": "2020-09-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Regia completamente anonima, recitazione pessima e spesso risibile, sceneggiatura spesso lacunosa e orrendamente datata e personaggi blandi e al limite del ridicolo. Branagh si è seduto sulle mani con questo film, e la Disney l'ha proprioRegia completamente anonima, recitazione pessima e spesso risibile, sceneggiatura spesso lacunosa e orrendamente datata e personaggi blandi e al limite del ridicolo. Branagh si è seduto sulle mani con questo film, e la Disney l'ha proprio cagato fuori perché doveva. Senz'anima, senza cura, senza alcun rispetto meritato. E badate, io il libro non l'ho letto. Se fossi stato un fan della serie letteraria, me la sarei presa molto di più.Consigliato? Vi pare?",
-      "review_date": "2021-12-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A very stupid, boring and somewhat funny movie at parts where it's trying to be sad.",
-      "review_date": "2020-07-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I saw this movie with my brother and when we finished he said: \"Wow. That sucked.\"What can I say, the CGI seems from early 2020s, 95% of the scenes were useless, the acting was incredibly embarassing and the story was pretty dumb andI saw this movie with my brother and when we finished he said: \"Wow. That sucked.\"What can I say, the CGI seems from early 2020s, 95% of the scenes were useless, the acting was incredibly embarassing and the story was pretty dumb and useless.Please, spare two hours of your life and DON'T watch this movie.",
-      "review_date": "2020-08-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Too much information shoved into one movie. You don't have time to get attached to any of the characters and at the end you are left confused. The only reason why I didn't give it a one was because of the amazing CGI.",
-      "review_date": "2020-07-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What the heck did I just watch? This was one of the worst films I've endured in a long, long time. Not sure if it was as bad as A Wrinkle in Time 2018, but wow was this horrible. The film never really strays from outside the mansion and theWhat the heck did I just watch? This was one of the worst films I've endured in a long, long time. Not sure if it was as bad as A Wrinkle in Time 2018, but wow was this horrible. The film never really strays from outside the mansion and the general area around it, the story felt rushed and empty, and the dialogue made no sense. It all felt lazy with terrible edits (slowing down clips, thus making them look choppy and broken,) bad camera work (at one point it felt like I was watching it through a security camera,) continuity errors (like having a character be fired from a rocket and flying for hours to reach a destination but have the rest of their team show up in a matter of seconds,) bad acting (the father looks like he's in a constant state of distress,) bad CG (it just looked so fake and dated at some points) and terrible phony \"Irish\" accents. I cannot put into words how bad this film is and how frustrated I was when and after watching it. It's not even so bad it's good. It's a complete mess. Disney, do us all a favor and never make another live-action movie.",
-      "review_date": "2020-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A 5 year olds imagination that relies more on visual effects, than storytelling and dialogue.",
-      "review_date": "2020-12-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "es una tula con patas muy mala super aburrida nada recomendable una basura  g",
-      "review_date": "2020-12-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A 5-year-olds imagination relies more on visual effects than storytelling and dialogue.",
-      "review_date": "2021-01-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I really like the books. This movie felt really off for me and I just would like to say so much about it but you and I both have better things to do so I will end this \"review\" by with noting that I could be biased so try it for yourself ifI really like the books. This movie felt really off for me and I just would like to say so much about it but you and I both have better things to do so I will end this \"review\" by with noting that I could be biased so try it for yourself if you really want to watch it. I personally hated it though.",
-      "review_date": "2021-03-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I loved it in my opinion I know a lot of people hated it but I liked it so don’t judge me",
-      "review_date": "2021-08-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nI couldn't believe how awful this movie was. My expectations were low at first, and somehow Disney managed to go under that bar. It was boring, generic, unfocused, and stupid. You don't get to care for any of the characters and the plot drives the story instead of the characters. There's too much lazy exposition and the directing isn't even that great. This movie could've been amazing. The books are fantastic, and I really wish Disney stuck to them. Disney made the claim that audiences wouldn't be able to handle a child villain protagonist, which is stupid because the success of the books say otherwise.",
-      "review_date": "2021-10-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An huge insult to fans and the writer of the beloved Artemis Fowl book series.",
-      "review_date": "2021-10-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Disney takes one of my favorite books as a kid and absolutely destroys everything good about it.",
-      "review_date": "2022-11-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Based on the young adult novel series of the same name, Artemis Fowl tells the story of a 12-year-old genius who kidnaps a fairy. There are further core plot details, but they are left completely by the wayside in an uninspired, insipid messBased on the young adult novel series of the same name, Artemis Fowl tells the story of a 12-year-old genius who kidnaps a fairy. There are further core plot details, but they are left completely by the wayside in an uninspired, insipid mess of bad acting, terrible special effects, and just all-round awful storytelling. This is one of the biggest travesties of the last decade.",
-      "review_date": "2023-01-02",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 113
+    "title": "Artemis Fowl",
+    "rating": 2.7,
+    "release_date": "2020-06-12",
+    "genre": [
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy",
+        "Family"
+    ],
+    "summary": "Artemis Fowl, a young criminal prodigy, hunts down a secret society of fairies to find his missing father.",
+    "critic_reviews": [
+        "Though it would have been lovely to take in the lavish set pieces and the cool CGI creations and the whiz-bang action sequences on the big screen, Artemis Fowl still plays well as a warm and funny and entertaining at-home family viewing experience.",
+        "Rather than being a massive foul-up, Artemis Fowl is a sufficient spycraft fantasy that could benefit from the inevitable sequel, and Gad proves once again to be the Mouse House\u2019s Dwayne Johnson, a rock-solid personality who makes everything around him better.",
+        "Artemis Fowl isn't an unqualified good egg, but it's perfectly adequate, and the best of the kid-friendly movies redirected to streaming by coronavirus -- a low bar, admittedly, after \"Trolls World Tour\" and \"Scoob!\"",
+        "Although the problem lies primarily in the difficulties associated with condensing an epic tale into a short-ish movie, the lack of elegance with which that is accomplished makes Artemis Fowl a failure for anyone hoping for the next great fantasy film.",
+        "Artemis Fowl is not a horrible film, but it had the potential to succeed, yet falls flat in the end.",
+        "There are people who like movies like this, who like when a movie screen looks like their computer screen and who don\u2019t mind when everything is fake, including the emotions. Artemis Fowl is a genre movie, and as such, it\u2019s an OK version of the thing it is. I just can\u2019t stand the thing it is.",
+        "One wonders if a director more playful than Kenneth Branagh might have come up with something less hectic and more fun \u2014 or even just as hectic and more fun. Taika Waititi, anyone? Jojo Rabbit is almost as odd a name as Artemis Fowl.",
+        "While an energetic kids\u2019 fantasy with cool creatures fighting each other is probably a reasonable win for Disney\u2019s new premium service in these days before most theaters reopen, it\u2019s hard to watch it as an adult and not wish for something that produced a little more magic of its own.",
+        "This is not a \u201cbut the book was better\u201d argument. It\u2019s simply that by abandoning the original character and cobbling together broken story shards and spare parts, Branagh and company have produced something off an assembly line: safe, generic and utterly disposable.",
+        "Without the darkness or depth of the Harry Potter movies, Artemis Fowl fails to find an audience over 10 years old",
+        "Josh Gad takes a valiant stab at landing some mostly groan-worthy humor, and Judi Dench has clearly put in a lot of hours scowling at green screens while wearing pointy ears and eye-catching emerald-green leprechaun army regalia (hey, at least it's not a cat suit). But this big-budget fantasy adventure from Disney is busy and exhausting.",
+        "Rarely in the history of cinema has so much tortured exposition failed so completely to explain such an undistinguished plot. It is like trying to pick up the story through overheard conversations with nearby drinkers who have just emerged from a screening. Stop telling us stuff and do something!",
+        "Disney's Artemis Fowl is an empty science fantasy tale with forgettable characters and an uninspired story.",
+        "Images and characters bounce around like shapes on a screensaver and only McDonnell and Gad\u2019s performances have any fizz. This is a YA-franchise by numbers.",
+        "An overqualified adult cast and some fun moments can\u2019t entirely compensate for a defanged protagonist and too-static plot. This fantasy desperately needed a little more magic.",
+        "It took 20 years for an Artemis Fowl movie to come out, and now that it\u2019s here, the film itself feels like it\u2019s in a hurry to be over already.",
+        "For those who have spent the last few months hungering for a big-spectacle mess (they are, after all, a feature of summer moviegoering), now you can take in a big-budget flop from the comfort of your own home.",
+        "The whole endeavor is a naked attempt to cash in on the young adult fantasy trend spearheaded by \"Harry Potter.\" There have been many attempts to snatch the Potter crown (and purse) but Artemis Fowl will not be the hot new kiddie fantasy franchise, based on this utterly charmless first entry.",
+        "That the film is a mediocre product doesn\u2019t matter nearly as much as the fact that Disney+ now has a shiny new big-budget spectacle to dangle in front of its core audience.",
+        "Artemis Fowl concocts an adventure that requires its privileged hero to go virtually nowhere, physically or emotionally. As if he ordered it on Instacart, conflict is simply dropped off on his front stoop, and all he has to do is throw on some shoes and sunglasses to pick it up.",
+        "A confusing, muddled, sloppy mess of bad intentions and worse execution.",
+        "And that, perhaps, is the easiest way to explain its overarching failure: In a film built on a bestselling eight-book series, filled with all manner of magical beings (including Colin Farrell), and rich in fairy tale history, the best scene is one in which its grating narrator farts on a passerby. You didn\u2019t see that in the \u201cHarry Potter\u201d films, and for good reason.",
+        "Artemis Fowl, the first Disney movie to have its theatrical release completely scrapped because of the COVID-19 pandemic, is bland and incoherent, with paper-thin character development, unimaginative world building, and a lot of daddy issues.",
+        "The best way to handle this relentlessly nice movie that deserved a touch of nasty, is to enjoy the few flashes of what have been before the sheer heaviness of the production stomps out all the fun.",
+        "This is an earnest, half-baked fairy story drenched in a thick soup of CGI. It\u2019s awkwardly staged, with turgid, expository dialogue that is appreciably tricky for a palpably ill-at-ease young cast to deliver",
+        "This fantasy flop is sunglasses-and-fake-mustache bad.",
+        "This is a movie that doesn\u2019t care at all about character development. There\u2019s no emotional investment whatsoever.",
+        "The end product is all but unfollowable, thanks either to a screenplay that was incoherent to begin with, or an edit so slicingly brutal that almost every trace of the plot\u2019s connective tissue was chopped out.",
+        "Artemis Fowl is a complete disaster; a hectic mess of worldbuilding that tries to cram a big chunk of an eight-part book series into a movie that runs less than 90 minutes plus credits. From the look of the finished product, a large portion of the story (along with most of the characters\u2019 motivations) were completely removed, leaving only the action sequences and special effects \u2014 neither of which are impressive or exciting enough to justify sitting through the film, even one as short as Artemis Fowl.",
+        "You\u2019ll only lose 90 minutes of your life to this misbegotten mess.",
+        "The movie is so charmless and hopelessly incoherent that you might feel the need to consult Wikipedia afterward for some help on what it was even about.",
+        "What a waste. Screenwriters Conor McPherson and Hamish McColl have taken a not-very-good book and turned it into a downright awful movie.",
+        "Artemis Fowl is not just a disappointing adaptation, it\u2019s a badly made movie. Its Frankensteined plot and its shockingly poor CGI \u2014 which could have passed in an early 2000s movie, but not in 2020 \u2014 leave it no redeeming qualities. It gives me no joy to say that yet another movie adaptation of a beloved childhood property has wasted Colin Farrell."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Screenwriting is weak. Most of the main actors, especially Artemis Fowl played by Ferdia Shaw is horrible. Josh Gad is ok, and Colin Farrell is fine as a supporting actor, but they screwed the pooch with the casting of this wooden kid. I\u2019veScreenwriting is weak. Most of the main actors, especially Artemis Fowl played by Ferdia Shaw is horrible. Josh Gad is ok, and Colin Farrell is fine as a supporting actor, but they screwed the pooch with the casting of this wooden kid. I\u2019ve read the first novel. I know it\u2019s tough to find some great kid actor like Dakota Fanning, ... but they needed to find someone w a little charm and acting believability. This franchise is dead on arrival.",
+            "review_date": "2020-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you enjoy the books, avoid the film. It's a flea market bootleg version of the first two novels, as filtered through the mind of a tween who only read the back panel before submitting their book report. None of the elements that make theIf you enjoy the books, avoid the film. It's a flea market bootleg version of the first two novels, as filtered through the mind of a tween who only read the back panel before submitting their book report. None of the elements that make the story engaging made it to the script or the screen.",
+            "review_date": "2020-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I\u2019ve seen some terrible adaptations before, but this is the first time I\u2019ve ever legitimately felt like something was truly a betrayal of its source material. Add in a nonsense plot with a bog standard macguffin, some regrettably terribleI\u2019ve seen some terrible adaptations before, but this is the first time I\u2019ve ever legitimately felt like something was truly a betrayal of its source material. Add in a nonsense plot with a bog standard macguffin, some regrettably terrible child acting, and more than one instance of horribly integrated CGI, and you couldn\u2019t pay me enough to sit through this again.",
+            "review_date": "2020-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The beginning and fall of an aspiring franchise.Obviously, Disney understood very well the failure they had in their hands and avoided a brutal disappointment at the box office.\n\nKenneth Branagh looks bad as a director in this film, andThe beginning and fall of an aspiring franchise.Obviously, Disney understood very well the failure they had in their hands and avoided a brutal disappointment at the box office.Kenneth Branagh looks bad as a director in this film, and while I understand that the Disney studio machinery might have a lot to do with it, he still has a high degree of responsibility for this frustrating, messy and incoherent work.And there's obviously an interesting idealization behind this story, but its remarkable lack of emotion and entertainment completely destabilizes it and what remains as I said is the inevitable death of a franchise, because unless the film does well in Disney +, I doubt very much this story gets a sequel.",
+            "review_date": "2020-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Kenneth Branagh's \"Artemis Fowl\" bears no resemblance to the source material; and also fails to stand on its own feet as a film. The dialogue is terrible, the characters are underdeveloped, the world-building is rushed, and the visual effectsKenneth Branagh's \"Artemis Fowl\" bears no resemblance to the source material; and also fails to stand on its own feet as a film. The dialogue is terrible, the characters are underdeveloped, the world-building is rushed, and the visual effects are poor.",
+            "review_date": "2020-06-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Artemis had a promising start but the story was average. The actors were pretty good, even the young ones but the lines they had, were not very good. They often felt disconnected. That broke the logic and brought confusion into the story. TheArtemis had a promising start but the story was average. The actors were pretty good, even the young ones but the lines they had, were not very good. They often felt disconnected. That broke the logic and brought confusion into the story. The narrating didn't work. It was a gimmick to try to clarified the story. The FX are decent. I though the costumes were pretty bad, especially for the fairies. The soundtrack was ok. I give it 52%. I mainly give this score because Lara McDonnell was really good in her role. Quite frankly, she should have been the main lead in this unfocused story.",
+            "review_date": "2020-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is the dumbest, emptiest film ever made, ever. I would walk out of this film given the chance, even if I was on a plane.",
+            "review_date": "2020-06-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you read books (great books) don't watch this terrible film ! If you still watch the movie god why FOR WHAT ? Then read book it really interested",
+            "review_date": "2020-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Who did they make this for? The fans of the books will hate this. People new to the story will just be confused as they are just thrown into this world without explanation. Character development is HORRIBLE. This is not an adaptation of theWho did they make this for? The fans of the books will hate this. People new to the story will just be confused as they are just thrown into this world without explanation. Character development is HORRIBLE. This is not an adaptation of the book, this is completely different. More like inspired by the book. I'm not opposed to changes when adapting books into movies, but this is just awful. They removed the essence of the story. Can't believe the author agreed to the changes. I feel bad for the young actors. They might be the only thing I liked about this.",
+            "review_date": "2020-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Never reviewed a movie before but ppl need to be warned so I signed up to tell you. Don\u2019t waste your life watching this garbage. I\u2019ve not read the books. The time i spent watching this garbage, which made no sense what so ever, is time i\u2019llNever reviewed a movie before but ppl need to be warned so I signed up to tell you. Don\u2019t waste your life watching this garbage. I\u2019ve not read the books. The time i spent watching this garbage, which made no sense what so ever, is time i\u2019ll never get back. Its movies like this where ppl who paid money for garbage movies like this, should get their money back. The screen writers should be sacked and never write professionally again. Don\u2019t say you weren't warned.",
+            "review_date": "2020-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terrible movie. I couldn't bear to watch it all, it was too painfull. Knowing that was directed by Kenneth Brannagh makes it even worse Don't waste time on it",
+            "review_date": "2020-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A really weak implementation of Disney.I don't know what's going wrong with Disney since Star Wars 8, but the movies and series are getting worse. A restart would be necessary.",
+            "review_date": "2020-06-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This was barely a watcheable movie. The only thing interesting were the CGI effects. The story was a bit lame and the characters were paper thin. If you have nothing better to do with 90+ minutes of your life, then watch this. Otherwise,This was barely a watcheable movie. The only thing interesting were the CGI effects. The story was a bit lame and the characters were paper thin. If you have nothing better to do with 90+ minutes of your life, then watch this. Otherwise, catch something better. A lot of the foreign movies on Netflix have better stories than this movie. Ciao.",
+            "review_date": "2020-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A movie version of the Artemis Fowl book has been in and out of production since '01. We finally get it, and wow, this wasn't worth it. This a very disappointing adaptation. Especially surprising is that this is brought to us from Disney andA movie version of the Artemis Fowl book has been in and out of production since '01. We finally get it, and wow, this wasn't worth it. This a very disappointing adaptation. Especially surprising is that this is brought to us from Disney and director Kenneth Brannagh (Thor, Murder on the Orient Express, Cinderella).The problem is that this is a bunch of quick short scenes and characters thrown at us one after the other with very little impact. Heck, the character of Artemis' friend Juliet (played by Tamara Smart) feels like an afterthought and barely functioning character, used so sparingly despite being around the main action most of the time.I think there was a lot of trouble in editing and reshoots. There is one very clear moment of poor dub work.The barrage of scenes and characters results in a complete and utter lack of being able to become invested or relate to the characters. The only character who feels completely developed is large dwarf Mulch Diggums (Josh Gad). I feel that Disney may have felt he went best with test audiences and pushed all the attention onto him.The biggest issue is the presentation of Artemis Fowl (Ferdia Shaw) himself. He's a criminal genius in the book, but that isn't well represented here. He's still smart, but the choppy editing doesn't much make it feel like he's a master strategist. He's watered down from an antihero to a more traditional protagonist. It's Pinky, Elmyra, and the Brain all over again. The studio feels that an antihero may not sit well with parents and they water the product down. The director and/or studio also tweak Artemis' backstory, which was a mistake. (There are good movie adaptations where they change things. This just isn't one of them). They give a frustratingly basic and uninvolving story for Artemis. The characters' setup scenes are some of the dullest moments. Plus, the backstory pales in comparison to the original. The movie doesn't seem to have much faith in Artemis as he doesn't even seem to the be the main focus. Shaw also gives a rather dull performance.Last complaint: there are a couple moments that look like they might be death scenes, but I don't think they were supposed to be. It's very poorly handled.To the movie's credit, there is a good line once in a while. Gad and Judi Dench as an elf commander do a good job. Nonso Anozie as Artemis' bodyguard seemed like fun, but he just wasn't given enough attention. Being a Brannagh movie, it looks nice but it doesn't quite compare to some of his other recent works.You can avoid this one, especially if you're a fan of the book. It's not painfully bad, just barely functioning.",
+            "review_date": "2020-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was just strange, when i saw the overwhelmingly negative reviews i thought i would hate this movie when i watched it but i don't. Yes it's a bad movie but almost everything about it was strange.Let's start of with the good. WellThis movie was just strange, when i saw the overwhelmingly negative reviews i thought i would hate this movie when i watched it but i don't. Yes it's a bad movie but almost everything about it was strange.Let's start of with the good. Well Lara McDonnell gave a decent performance as Holly Short, her character had an underdeveloped plot but i liked her performance in the movie. I know i'm in the minority in this but i mostly liked Josh Gad in this movie, yes the narration was unneeded, the grouchy voice was annoying (it's even addressed in the movie) and some of the scenes involving his CGI use was horrible but i enjoyed the charisma and witt he brought in the movie. He played as a tall dwarf and he looked like the only one having fun in that movie so yeah Josh Gad was a silver lining.The concept and potential was there and interesting as well, the first act was not that bad as you are introduced to the other worlds of Artemis Fowl like the fairy kingdom was an interesting concept and the CGI was decent early in the movie too but that potential was never realized. Being a Kenneth Branagh movie some shots looked nice and well directed AT TIMES with some decent set pieces here and there.Now the Bad. Ferdia Shaw who played Artemis Fowl had a hammy performance throughout the movie, at times he seemed too monotone and stoic and the other he seemed to be over-acting, it wasn't a terrible performance as he got a lot better during the third act but that was one of the many problems of the movie. Another problem was how scenes seemed to be stitched together and all over the place. Not to give anything away but the majority of the movie takes place in a House.The runtime is 1hr 30 minutes and it seems some scenes were removed and the pacing was too fast and dodgy as you're not given time to fully flesh out characters and the runtime is just filled with exposition and world building but you're never given time to care about the characters or the plot. Judy Dench also gave a weird performance with a grouchy voice, The CGI got bad real fast and this is a big budget movie mind you especially with some bad action sequences.The heist aspect of the movie took a backseat as most of it was explained through narration which took away any thrill or suspense. The villain was awful as he/she has a generic motivation to take over the world and i don't mind that but there is no backstory or any reason to be invested in the villain so it just ends up being generic movie bad guy 101 oh and he/she has a grouchy voice, i have no idea why this movie had an obsession with grouchy voices.Colin Farrell as Artemis' father had the potential to be an interesting character but as soon as you're introduced to him, he is immediately gone. The adventure aspect is also poorly executed and the way how the main conflict is resolved is just baffling. Like i said the whole movie was strange, Also some scenes drag on and we are talking about a 1hr 30 minute movie here and the story never goes to interesting places and again you never care for the characters. So overall, didn't hate his movie, but it's not a good movie by any means.",
+            "review_date": "2020-06-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "HorrendousWith bad acting, an abysmal script, and terribly written characters, Artemis Fowl is a disaster.",
+            "review_date": "2020-07-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Serves you right, Disney. Like Star Wars, you thought it would be an automatic success, just by the name on it. And like Star Wars, your movie is trash. It will join the graveyard of stillborn franchises, like Narnia, Percy Jackson, EragonServes you right, Disney. Like Star Wars, you thought it would be an automatic success, just by the name on it. And like Star Wars, your movie is trash. It will join the graveyard of stillborn franchises, like Narnia, Percy Jackson, Eragon and ATLA...",
+            "review_date": "2020-07-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is not an adaptation of the book, this is completely different universe.The worst book adaptation ever.Congratulations ,it's even worse than Eragon book adaptation.Disney kill next universe.",
+            "review_date": "2020-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a very boring and bad \u201cmovie\u201d... Dont see this s*ht. Only the visual not bad, the other things...",
+            "review_date": "2020-06-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very boring movie, Holly was the only interesting character. Thank God is was a short movie",
+            "review_date": "2020-07-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thought there would never be a worse adaptation of a worldwide liked book story than Percy Jackson And The Lightning Thief (2010), but I was wrong.",
+            "review_date": "2020-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I'm not expecting a page for page remake of the book but why even call this Artemis Fowl? They might as well have just ripped off the world of Artemis Fowl and changed the character names to create a totally new story. This isn't evenI'm not expecting a page for page remake of the book but why even call this Artemis Fowl? They might as well have just ripped off the world of Artemis Fowl and changed the character names to create a totally new story. This isn't even remotely the same story. Even then it was a pretty bad movie in my opinion. CGI and stuff was cool but the acting and character development was mediocre in my opinion",
+            "review_date": "2020-06-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "CG was good. Story and acting was absolute trash. I hate to make fun of a child but damn was the kid who played Artemis TERRIBLE!",
+            "review_date": "2020-06-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I have an eye condition which physically prevents me from crying but I cried watching this film",
+            "review_date": "2020-07-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Many plot changes that miss the point of the book and surprisingly ruin a lot of rather progressive story arcs.",
+            "review_date": "2020-07-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nNever in my life have I seen such a bad movie based on such brilliant books.The Casting went crazy. Holly is a kid, Butler and his sister are black (with irritating blue eyes), Mulch is taller than Artemis, Root is a woman?I mean. I don't have a problem with having a cast which isn't just all white/all male a.s.o. but this went too far.Artemis II. was ok. And I think Foaley and Artemis Sr. were fine but all other main characters? Nope not with me. Regarding the Story itself its just a hoax. I wasn't even able to tell what they were up to.An the characters? Since when would Mulch tell some MI6 agents anything about elves, Artemis or something else? (maybe it was another plan, I just weren't able to finish this piece of **** since when would Holly let Mulch steal her purse?Why on earth did they have to change so much and **** this up?I mean thsi could have been the next really great movie collection for people from 10-99. The next \"Harry Potter\". The Books are great. But this movie? It's not even a trash movie like Eragon which just won't fit the books but works for itself. It's garbage and should be burnt and never shown again.I feel sorry for the actors and most other people involved. I mean, it's not just Judy Dench who I adore, there must have been plenty of people working on that project and it must be frustrating to see what garbage came out of it.",
+            "review_date": "2020-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Atrocious carnage of the Artemis Fowl novels.If you like the books, DON'T Watch the movie, please! This single movie ruins all the magic and childish awe i had reading the Artemis Fowl novels. Please also do not show this movie to yourAtrocious carnage of the Artemis Fowl novels.If you like the books, DON'T Watch the movie, please! This single movie ruins all the magic and childish awe i had reading the Artemis Fowl novels. Please also do not show this movie to your kids, give them the book to read instead.This movie should be erased from every corner of the planet, or left as an example of \"How to NOT make a movie from a popular series\"",
+            "review_date": "2020-09-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolutely no shred of respect towards the source material. Eoin Colfer should disown this garbage if possible. Only redeeming quality is the personality Josh Gad managed to give to Mulch Diggums, which is why I give at least 1 point.TheAbsolutely no shred of respect towards the source material. Eoin Colfer should disown this garbage if possible. Only redeeming quality is the personality Josh Gad managed to give to Mulch Diggums, which is why I give at least 1 point.The changes to the original story are so dramatic that it doesn't deserve the title \"adaptation\" anymore, I'm not even sure \"loosely based\" fits here. It's like the people who made the script didn't even bother to read the books, it's like they just heard what the books are roughly about from someone who read them a decade ago. While he was drunk. Then they got drunk and made this.The changes to some of the main characters traits, race and even sex are something I just can't explain and it's really really insulting. Holly should be \"of dark colour\", she is pale white. Domovoi Butler should be - and this is even plot-related - of Russian-Japanese descent, whose family protected Fowls from around year 1100, he is somehow an African (with Slim Shady dyed hair and obvious fake colored lenses.. I mean seriously who came up with that). \"Julius Root\" should be an angry little cigar-smoking man, not a noble misses M from James Bond. Foaly should be old and hairy, not young and metrosexual. And Mulch Diggums (while the actor gave him a lot of personality) should have looked anything but human.Budget for this cringe-worthy Frankenstein monstrosity was around a third bigger than any of the Lord of the Rings movies. Is that a joke?",
+            "review_date": "2020-08-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Pretty Downtrodden and boring, I never read the book or have been a fan of the series so I can only image how they must be feeling after this horses's ass of a movie",
+            "review_date": "2020-07-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This might be one of the worst films I've ever watched - very inconsistent and confusing",
+            "review_date": "2020-10-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I've never read the book this movie was based on, but I bet it's far better, and makes way more sense than this whole train-wreck of a movie. I'm sure any fan of the book will tell me that.",
+            "review_date": "2020-07-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Pure GarbageI've always been a fan of the book. One of the best stories I've ever read.I never had high hopes for the movie since the trailers made it pretty clear that it wasn't going to be a good one. Nevertheless, I watched the movie.Pure GarbageI've always been a fan of the book. One of the best stories I've ever read.I never had high hopes for the movie since the trailers made it pretty clear that it wasn't going to be a good one. Nevertheless, I watched the movie. It's safe to say that not only it's a horrible adaptation, but it's a horrible movie as well. I honestly don't understand how they managed to **** up in every single aspect they could.**** story, **** dialogues, **** acting. Every single thing in this movie is ****.I don't recommend this movie to anyone, certainly not to fans and not even regular people.Unless you want to use it as a torturing device...",
+            "review_date": "2020-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wanna be Harry Potter like movie that starts a franchice. Fails miserably. Released way too late and doesn\u2019t even respect the original source material at all. Some of the scariest / **** CGI I\u2019ve seen in a mainstream movie.",
+            "review_date": "2020-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis review comes from a person who never read the books nor heard about this character before. The movie plot is incredbly poorly constructes and the twists are never important enough to make an impact. I didn't understand most decisions made on designing the cast, for example, why does Mr. Butler has weirdly placed bright neon blue eyes or why Briar Cudgeon starts the movie inside a prison and then is suddenly a chief commander who has more power than Judi Dench's character. Many questions are left on the air, the biggest is: \"why is the Aculos stored in a safe that any dwarf can open?\". The movie just doesn't make sense!",
+            "review_date": "2020-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Having read all of the Artemis Fowl books myself, I will tell you that this movie completely misses the mark in terms of faithfulness to the original series. No longer is Artemis a cold, debonair child prodigy; instead, he comes off as aHaving read all of the Artemis Fowl books myself, I will tell you that this movie completely misses the mark in terms of faithfulness to the original series. No longer is Artemis a cold, debonair child prodigy; instead, he comes off as a scared boy trying to understand what is happening around him. Fans of Eoin Colfer's writing style will almost certainly be disappointed by this adaptation. The plot comes off as basic and the characters shallow and underdeveloped. The few scenes that do stay true to the series seem to have been taken out of  the various books published in the Artemis Fowl series and mashed together haphazardly. Despite this, I would say the adaptation is a good way to pass time for young children. It certainly keeps their eyes glued to the screen, as you would expect any fantasy-based film with copious amounts of CGI would. Overall, the movie, while bad, wasn't a complete disaster and had some level of entertainment.",
+            "review_date": "2020-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As a fan of the books this was a total disappointment, the acting was mediocre and the fight scenes too fast and jumbled.  The plot was missed and had no real sense of purpose.  Artemis Fowl was played down too much for a genius.",
+            "review_date": "2020-06-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I made it to minute 14. At this point they already masacred the plot and main character that badly that I am considering to cancel my Disney+ just so I never have to see a Disney movie ever again. Honestly how do you mess up so bad?? YouI made it to minute 14. At this point they already masacred the plot and main character that badly that I am considering to cancel my Disney+ just so I never have to see a Disney movie ever again. Honestly how do you mess up so bad?? You didnt even needed to be creative you had really great books that you just needed to adapt. The people responsible for this movie actually have no clue what made Artemis Fowls Story so great and managed to mess all that up in these first 14 minutes. If somebody would have tried to do that on purpose I doubt they would have succeeded. Holy **** what a disgrace to film making, worse then the Eragon movie!!!!! I never thought that was possible... Even worse then the Percy Jackson movies yikes",
+            "review_date": "2020-08-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The biggest waste of time of 2020. no enjoyment to be had at all, just pain.",
+            "review_date": "2020-09-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis movie deserves 0 stars. It's not Artemis Fowl and it can't even get by on its own merits as a movie. The story has been completely changed from the books it's supposedly based on to the point where it's completely unrecognizable as Artemis Fowl in any sense. The characters have been completely changed as well. Artemis is meant to be 12-year-old criminal mastermind with the disposition of a Vulcan that was well aware of his family's criminal enterprises for his entire life and brought up to eventually take over for his father and keep their criminal empire running. He detested athletic activity and was always extremely formal, constantly wearing suits even in his down time. His father went missing when he was very young, held by the Russian mafia, and it drove his mother insane. He was left to keep everything going and at 12 he kidnapped a fairy and ransomed her for gold. Though the protagonist, in the first book Artemis was very much the villain. In this movie Artemis is clearly just a kid that is smarter than everybody else. They kept his \"kid genius\" trait and removed everything else. His first appearance in the film is him surfing, something the true Artemis would never have done. He's constantly seen in typical clothing you would expect a kid to wear during the first portion of the film rather than his signature suits. His mother is dead and his father is kidnapped by Opal Koboi, the reoccurring villain that was introduced in the second book and had nothing to do with the Fowl family until Artemis II foiled her schemes. Movie Artemis has an emotional outburst when he learned from a news broadcast that his father is suspected of being a criminal and denies the accusations, eventually having to be dragged away by Butler, who in the movie prefers his first name despite it being a major part of his character in the books that his first name is to remain a secret unless he's dying. Butler is the one that introduces Artemis to the reality of faeries, which is what his dad was involved in, rather than Artemis discovering faeries and dragging Butler and Juliet into it with him like in the books. All of the characters have been drastically changed in similar manners, their traits and backstories completely thrown out the window and rewritten. They're mere caricatures of the characters they're supposed to be. Even forgetting that this was supposed to be a book adaptation the movie wasn't very good. The acting is bland and the actors are always either trying too hard or not trying hard enough. The manor is beautiful from the outside but there's far too big a disconnect between the style of the exterior and the style of the interior. The voice over narration by Josh is terrible, far too raspy and often difficult to understand due to that fact. The plot of the movie is very basic and recycled from nearly every hero or spy B movie ever made. The characters are watered down stereotypes with no depth to them at all. All in all, it's just terrible. Disney wasted so much money on a movie that turned out to be complete garbage. If you're thinking about watching \"Artemis Fowl\" my advice would be to just watch Spy Kids or Men in Black again instead. It's basically those two movies combined in the worst ways possible and somehow both of those movies are better films than this one.",
+            "review_date": "2020-10-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Artemis Fowl books are magnificent. They are likeable, witty and captivating stories that feature interesting characters, a developed world and a great sense of fun. If you have not read them, I would highly recommend them - they\u2019re funThe Artemis Fowl books are magnificent. They are likeable, witty and captivating stories that feature interesting characters, a developed world and a great sense of fun. If you have not read them, I would highly recommend them - they\u2019re fun for all the family.The film is... none of those things. It does have cool visual effects, some nice cinematography, a few talented actors and one good line, but it\u2019s just a messy, plodding film. It barely has any accurate translations of the first two books, and it dumbs down the plot to the pint of it - get this - not even making sense!The film opens well enough, even if it is just asking for plot holes to come, but once that troll fight happens... anything of quality is lost down the toilet. While some of the visuals are nice, some are atrocious, and the entire Fowl Mansion break in sequence was very poor. The script makes the once great characters feel hollow and thin, and a Josh Gad as Mulch Diggums... some of his scenes were painful.Overall, Artemis Fowl had the potential to be a classic adaption, but it failed due to a lazy script, a messed up story issues and an unenjoyable pace. The reviews say it for you - this is not Harry Potter 2.0.",
+            "review_date": "2020-12-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The worst type of book adaptation more interested in using the name as a prop rather than contributing anything meaningful. However, it should serve as a good distraction for younger audiences (although I can't imagine the level of contemptThe worst type of book adaptation more interested in using the name as a prop rather than contributing anything meaningful. However, it should serve as a good distraction for younger audiences (although I can't imagine the level of contempt one would have for children to subject them to this generic bastardization).",
+            "review_date": "2020-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How did this happen? How did Disney simply allow this to happen? And where did the $125 million budget go because this film looks awful. The actors deliver lines like they\u2019re in a hostage video. Truly a baffling film...",
+            "review_date": "2020-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "After waiting so many years for film adaptations of the books, it feels just like what happened when I waited for new Star Wars movies and was rewarded with The Phantom Menace. How dare you scar this emotional trauma upon me once more Sir Branagh.",
+            "review_date": "2020-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There's a reason they released this on their crappy streaming service (thank god a friend of mine is dumb enough to pay for it) instead of in theaters.I'm a HUGE fan of the books, so let me just say this for anyone else who is as well: stayThere's a reason they released this on their crappy streaming service (thank god a friend of mine is dumb enough to pay for it) instead of in theaters.I'm a HUGE fan of the books, so let me just say this for anyone else who is as well: stay FAR, FAR AWAY!The appeal of the first few books was the character development.  The protagonist is quite the villain in the first novel, and gets better as things move along. This movie has never heard the words character development, and probably would find the concept confusing if it had.The casting sucks too.  The only halfway decent actor was Artemis' dad, who shouldn't have been in it to begin with.  I think the reviewers were afraid to badmouth Judi Dench for tribal reasons because her gravel voice and over the top performance was just as pathetic as the rest of the 'actors' in the film.  I hate agreeing with film critics, because most of them are stupid and their taste is nonexistent or based on their personal politics instead of a film's quality (See: the reviews for the newest death wish movie with bruce willis on this very site), but the one who said the best scene in the movie was the stupid fart joke was right.  Jesus.",
+            "review_date": "2020-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThe books were **** and boring to begin with and the movie doesn't disappoint ;)",
+            "review_date": "2020-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really do not think this movie is as terrible as everyone seems to suggest. I truly love the books, they were a huge part of my youth, while at the same time I understand that adapting material into a movie means some things will have toI really do not think this movie is as terrible as everyone seems to suggest. I truly love the books, they were a huge part of my youth, while at the same time I understand that adapting material into a movie means some things will have to change. This adaption was different from the booki in some aspects, but it was nonetheless enjoyable. It was cute, fun, and a worthy kids movie. I only wish it had been a little longer to allow for more character development.",
+            "review_date": "2020-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Dont get yourself distracted by all those whiney toxic reviews, As a die hard artemis book fan i can say this movie is, despite beeing very imperfect, worth watching. Its MUCH closer to the Original than i thought from the trailers, and to myDont get yourself distracted by all those whiney toxic reviews, As a die hard artemis book fan i can say this movie is, despite beeing very imperfect, worth watching. Its MUCH closer to the Original than i thought from the trailers, and to my surprise one can find some hints that they actually read it all, like artemis and holly changing eye colours. (Even this is not book one)Generally, this movie feels like all books cramped in one, if this would have been a series it would have been a whole lot better.The effects are decent but there is, for no reason, too much cgi. cast is actually good but acting always feels wierd because there is no way to properly act on this pace. They barely have any time for caracter development and everything is just too fast to be believable.The main concerns that i still have is Artemis feeling somewhat cringey/not evil enough, and butler is somehow not characterized at all. But if you look closely that all boils down to pace, and that again to cut. The vietnam scene is missing completely despite beeing in the trailers, and thats what makes the movie feel wierd. Half an hour more of seeing artemis and butler carrying out a plan together would have made it all more believable. (Like the goddamn book)And thats sad because some script ideas are actually genius, like mulch acting reminiscent of jack sparrow and the idea that Artemis could have gotten to know Holly a lot better while he kept her jailed, as well as the subplot with her father. Yes you can shame this movie for beeing unsure who the audience is and as a \"cineast\" would barely consider it beeing good, but for a fan, it is definitly a must watch. i did not regret watching",
+            "review_date": "2020-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I remember reading this book as a kid, and while the story isn't exactly the same as the book and the dialogue at times is clunky, I truly enjoyed this interpretation of the story.The graphics were good, the acting was good, the music wasI remember reading this book as a kid, and while the story isn't exactly the same as the book and the dialogue at times is clunky, I truly enjoyed this interpretation of the story.The graphics were good, the acting was good, the music was good, and the cinematography was good. The film, on its own, was entertaining enough that I was on the edge of my seat at tense moments and felt invested in the characters.Colin Farrell and Judy Dench played their characters very, very well, and the child actors were actually likeable. Josh Gad was on par, and Nonso Anozie was very cool as Butler.Altogether, I really liked this movie and hope Disney continues the series.",
+            "review_date": "2020-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My family and I just watched this movie and all of us loved it. Really don\u2019t understand the horrible reviews other then people disappointed by book differences. Casting was good, sets were amazing (loved Fowl Manor) and nice effects. WouldMy family and I just watched this movie and all of us loved it. Really don\u2019t understand the horrible reviews other then people disappointed by book differences. Casting was good, sets were amazing (loved Fowl Manor) and nice effects. Would love to see a sequel but doesn\u2019t sound like we will get it :(",
+            "review_date": "2020-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Appalling dialogue, patronises the adult audience who are the people who loved the books on release, garish faked Irish accents on all characters, (just employ someone with that accent) THERE MUST BE A SEQUEL - So They can actualise theAppalling dialogue, patronises the adult audience who are the people who loved the books on release, garish faked Irish accents on all characters, (just employ someone with that accent) THERE MUST BE A SEQUEL - So They can actualise the author's intention. Do This Franchise justice and don't back down!Or is this where Netflix steps in and reboots to save us all?",
+            "review_date": "2020-06-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I came in fresh, no knowledge of the book series and have to say I enjoyed myself. Fantastic techno-fantasy action adventure film with a talented cast. While it's certainly not the best in its field, it was executed to a high productionI came in fresh, no knowledge of the book series and have to say I enjoyed myself. Fantastic techno-fantasy action adventure film with a talented cast. While it's certainly not the best in its field, it was executed to a high production standard. Easily worth your time if you enjoy the fantasy / action / adventure genre.",
+            "review_date": "2020-10-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I loved reading the book. I think they did a good job with casting. Eoin Colfer is a master of YA Fiction and created a great, intelligent character. It is fun to root for a grey character who outsmarts others by many degrees of magnitude. II loved reading the book. I think they did a good job with casting. Eoin Colfer is a master of YA Fiction and created a great, intelligent character. It is fun to root for a grey character who outsmarts others by many degrees of magnitude. I hope that Covid 19 did not ruin the chance for a sequel.",
+            "review_date": "2020-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I guess never having read the books is a good thing, as I simply don\u2019t get the hate over this film.  It\u2019s absolutely stunning visually.  The acting is above average for a Disney film. The story evolves in a largely unpredictable manner. It\u2019sI guess never having read the books is a good thing, as I simply don\u2019t get the hate over this film.  It\u2019s absolutely stunning visually.  The acting is above average for a Disney film. The story evolves in a largely unpredictable manner. It\u2019s engaging and fast-paced enough to keep kids attention.  It makes a great summer movie to add to Disney\u2019s collection.  A child anti-hero would have been difficult (if not impossible) to pull off.  Kids simply engaged in heists to save their parents has been done ad nauseum for decades.  Disney ejected to strike a balance with this film and upset the purists.",
+            "review_date": "2020-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nInteresting parallel worlds converging with the villains and heroes and magic",
+            "review_date": "2020-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Long time fan of the books having read them several times each. This movie while not a faithful scene by scene replay of the movie is exactly what I was looking for in an Artemis Fowl movie. My 6 year old son and I can not stop watching thisLong time fan of the books having read them several times each. This movie while not a faithful scene by scene replay of the movie is exactly what I was looking for in an Artemis Fowl movie. My 6 year old son and I can not stop watching this movie, he is in love with Mulch Diggums and Officer Holly Short. The main man himself Artemis Jr. delivers his signature cockiness and superiority in a way that doesn't make him out to be a coldhearted criminal which in today's times is definitely not a bad thing.Butler is played in spades as the best friend/surrogate father figure to young Artemis when his father is gone. I tear up every time during his \"scene\" (if you actually watch the movie you know the one)Commander root plays her part wonderfully (I will miss the noxious stogeys this character was known for, but again times we live in) as Holly's protective almost motherly figure, while also cutting her no slackCudgeon is immediately dislikable just like the books and is just as slimy as ever.Even Juliet I believe is played amazingly.All in all I cannot believe most of the reviews about this movie. Do people really want a page for page remake of the book? I for o e did not and am extremely happy with how this turned out. Hopefully some people will read this and actually give the movie the chance it deserves. My son and I eagerly await the next installment in this awesome story",
+            "review_date": "2020-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not disappointed with the movie...disappointed that reviewers are comparing it to books, instead of actually reviewing THE MOVIE!!! Duh! The plot was great, the context was superb and the CGI was inspiring.",
+            "review_date": "2020-06-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Complete desecration of its source material. I don\u2019t get it. If you\u2019re going to change a movie so completely from the book it\u2019s based off of why not just create a completely new story at that point?",
+            "review_date": "2022-07-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I watched the movie with my son and daughter (17 and 12) and we all liked the movie.Good acting. Nice characters. Nice story (we did no read the books). A nice family movie. The only differences I see with other movies are...No men hating.I watched the movie with my son and daughter (17 and 12) and we all liked the movie.Good acting. Nice characters. Nice story (we did no read the books). A nice family movie. The only differences I see with other movies are...No men hating. No racism. No drugs are cool or other pushed agendas.Nice flick for a family time.",
+            "review_date": "2020-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For those who haven't read the books, this would be a kinda mediocre fantasy film with cool CGI and passable plot.For those who had read the books and wanted a story about a super genius orphan kid, who is always on the top of theFor those who haven't read the books, this would be a kinda mediocre fantasy film with cool CGI and passable plot.For those who had read the books and wanted a story about a super genius orphan kid, who is always on the top of the situation, and his big and scary bodyguard, this is more of a massacre. Artemis comes off as more of an average kid, he panics, runs around screaming and constantly worries about daddy. Meanwhile the muscular Russo-Korean bodyguard got replaced with a pudgy black guy, who rather than instilling fear of beating you up just mainly makes you worry about the safety of your lunch.In short, this is the unholy trinity of bad casting, terrible acting and horrible directing.",
+            "review_date": "2020-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Artemis Fowl. This is the worst movie ever. How could you shoot that? Having an excellent series of books it turned out THIS! This is not Artemis, the genius of the underworld, it is just a smart boy looking for his father. This is not aArtemis Fowl. This is the worst movie ever. How could you shoot that? Having an excellent series of books it turned out THIS! This is not Artemis, the genius of the underworld, it is just a smart boy looking for his father. This is not a killer machine. Domovoi is a teddy bear that only runs the whole movie. This is not a sullen, stern and always grumpy Julius Root, but just an officer of the elven police. And so you can go on and on! There are no characters, the plot is a set of different scenes. Mulch alone turned out to be more or less normal and only 1 point for him. This is a terrible movie and shouldn't get a sequel.",
+            "review_date": "2020-11-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love the books and like the possebilities this movie had but if Disney had the slightest care for the source material it could have been great instead of watchable, if they focused on story, world and character building instead of theI love the books and like the possebilities this movie had but if Disney had the slightest care for the source material it could have been great instead of watchable, if they focused on story, world and character building instead of the famous \"Disney diversity\" and spitting on the original then there could have been infinite possebilities.Saddening to see how low Disney has sunk :(",
+            "review_date": "2021-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you're not a fan of the books, then this is going to be a boring generic movie, with \"meh\" story and effects... The acting is at least good. (It's the only reason I gave it a 1 out of 10 and not a 0 out of 10)As a movie I give it a 3..If you're not a fan of the books, then this is going to be a boring generic movie, with \"meh\" story and effects... The acting is at least good. (It's the only reason I gave it a 1 out of 10 and not a 0 out of 10)As a movie I give it a 3..If you are a fan of the books. This is actually insulting, the makers basically thought we were too stupid to like or understand the original story.",
+            "review_date": "2020-08-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Come on Disney. They aren\u2019t even trying at this point. It\u2019s a shameless cash grab that shouldn\u2019t even exist. I have read the original novel and this takes that novel and tarnishes it. I don\u2019t mind movies taking their source material andCome on Disney. They aren\u2019t even trying at this point. It\u2019s a shameless cash grab that shouldn\u2019t even exist. I have read the original novel and this takes that novel and tarnishes it. I don\u2019t mind movies taking their source material and changing it. The Shining is one of my favorite films of all time and it changes the original book but they made a story that was interesting. This movie changed the story into the most bland, unoriginal, and boring story of the year. It\u2019s kind of insulting to the original novel. None of the performances are good. Judi Dench and Josh Gad feel so out of place here and Colin Farrell does absolutely nothing. The dialogue is cringy and the action is dull. The shots are uninteresting and the sequence of events is repetitive and boring. I thought nothing would be worse than Dolittle but here we are. At least Dolittle was somewhat entertaining in how bad it was but this is so much worse.",
+            "review_date": "2020-09-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A very stupid, boring and somewhat funny movie at parts where it's trying to be sad.",
+            "review_date": "2020-07-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I saw this movie with my brother and when we finished he said: \"Wow. That sucked.\"What can I say, the CGI seems from early 2020s, 95% of the scenes were useless, the acting was incredibly embarassing and the story was pretty dumb andI saw this movie with my brother and when we finished he said: \"Wow. That sucked.\"What can I say, the CGI seems from early 2020s, 95% of the scenes were useless, the acting was incredibly embarassing and the story was pretty dumb and useless.Please, spare two hours of your life and DON'T watch this movie.",
+            "review_date": "2020-08-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Too much information shoved into one movie. You don't have time to get attached to any of the characters and at the end you are left confused. The only reason why I didn't give it a one was because of the amazing CGI.",
+            "review_date": "2020-07-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What the heck did I just watch? This was one of the worst films I've endured in a long, long time. Not sure if it was as bad as A Wrinkle in Time 2018, but wow was this horrible. The film never really strays from outside the mansion and theWhat the heck did I just watch? This was one of the worst films I've endured in a long, long time. Not sure if it was as bad as A Wrinkle in Time 2018, but wow was this horrible. The film never really strays from outside the mansion and the general area around it, the story felt rushed and empty, and the dialogue made no sense. It all felt lazy with terrible edits (slowing down clips, thus making them look choppy and broken,) bad camera work (at one point it felt like I was watching it through a security camera,) continuity errors (like having a character be fired from a rocket and flying for hours to reach a destination but have the rest of their team show up in a matter of seconds,) bad acting (the father looks like he's in a constant state of distress,) bad CG (it just looked so fake and dated at some points) and terrible phony \"Irish\" accents. I cannot put into words how bad this film is and how frustrated I was when and after watching it. It's not even so bad it's good. It's a complete mess. Disney, do us all a favor and never make another live-action movie.",
+            "review_date": "2020-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A 5 year olds imagination that relies more on visual effects, than storytelling and dialogue.",
+            "review_date": "2020-12-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A 5-year-olds imagination relies more on visual effects than storytelling and dialogue.",
+            "review_date": "2021-01-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really like the books. This movie felt really off for me and I just would like to say so much about it but you and I both have better things to do so I will end this \"review\" by with noting that I could be biased so try it for yourself ifI really like the books. This movie felt really off for me and I just would like to say so much about it but you and I both have better things to do so I will end this \"review\" by with noting that I could be biased so try it for yourself if you really want to watch it. I personally hated it though.",
+            "review_date": "2021-03-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I loved it in my opinion I know a lot of people hated it but I liked it so don\u2019t judge me",
+            "review_date": "2021-08-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nI couldn't believe how awful this movie was. My expectations were low at first, and somehow Disney managed to go under that bar. It was boring, generic, unfocused, and stupid. You don't get to care for any of the characters and the plot drives the story instead of the characters. There's too much lazy exposition and the directing isn't even that great. This movie could've been amazing. The books are fantastic, and I really wish Disney stuck to them. Disney made the claim that audiences wouldn't be able to handle a child villain protagonist, which is stupid because the success of the books say otherwise.",
+            "review_date": "2021-10-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An huge insult to fans and the writer of the beloved Artemis Fowl book series.",
+            "review_date": "2021-10-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Disney takes one of my favorite books as a kid and absolutely destroys everything good about it.",
+            "review_date": "2022-11-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Based on the young adult novel series of the same name, Artemis Fowl tells the story of a 12-year-old genius who kidnaps a fairy. There are further core plot details, but they are left completely by the wayside in an uninspired, insipid messBased on the young adult novel series of the same name, Artemis Fowl tells the story of a 12-year-old genius who kidnaps a fairy. There are further core plot details, but they are left completely by the wayside in an uninspired, insipid mess of bad acting, terrible special effects, and just all-round awful storytelling. This is one of the biggest travesties of the last decade.",
+            "review_date": "2023-01-02",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 113
 }

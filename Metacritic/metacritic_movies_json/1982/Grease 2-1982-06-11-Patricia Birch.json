@@ -1,50 +1,54 @@
 {
-  "title": "Grease 2",
-  "rating": 4.1,
-  "release_date": "1982-06-11",
-  "genre": [
-    "Drama",
-    "Comedy",
-    "Romance",
-    "Musical"
-  ],
-  "summary": "An English student at a 1960s American high school has to prove himself to the leader of a girls' gang whose members can only date greasers.",
-  "critic_reviews": [
-    "\"Grease 2\" is the most serendipitous sequel in recent memory. It is an ingratiating, jubilant improvement on a crummy original.",
-    "Where this film has a decided edge on its predecessor is in the staging and cutting of the musical sequences. Choreographer and director Patricia Birch has come up with some unusual settings (a bowling alley, a bomb shelter) for some of the scenes, and employs some sharp montage to give most of the songs and dances a fair amount of punch.",
-    "Light years ahead of Randal Kleiser's 1978 original, this 1982 sequel employs the Shakespearean marriage plot so beloved of classic musicals, in which two mismatched couples are straightened out and the songs express the moral distinctions of love and sex.",
-    "Definitely of the so-bad-it's-almost-good genre, this kinda stands the test of time in a camp way, mainly because of the charm of Pfeiffer and Carrington.",
-    "Such niceties as a plausible plot and three-dimensional characters are trampled under Weejun-shod foot, but sheer energy, a handful of good tunes (including a great theme song from the Four Tops), and some very funny one-liners save the day.",
-    "This movie just recycles \"Grease,\" without the stars, without the energy, without the freshness and without the grease.",
-    "Most conspicuously absent is John Travolta, replaced here by Maxwell Caulfield, who can't lift the original greaser's comb. Michelle Pfeiffer (MARRIED TO THE MOB; DANGEROUS LIAISONS) fares better as Olivia Newton-John's replacement, but the whole movie looks as if it has been slapped together to capitalize on its predecessor's success, and no doubt, it was.",
-    "The sequel to Grease is not much more than a remake, wherein every minute detail is nothing more than an attempt to pilfer the magic of the first film.",
-    "Less a sequel than a retread...Dizzy and slight, with an even more negligible plot than its predecessor had. This time the story can't even masquerade as an excuse for stringing the songs together."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "I just write a review about the first one now i will write about this one I HATE THIS MOVIE I HATE ALL THE GREASE MOVIES THERE THE WORST FILMS I HAVE EVER WATCHED",
-      "review_date": "2022-03-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Grease 2 is the 1982 comedy/musical drama sequel to 1978's original \"Grease\" movie that starred John Travolta, Olivia Newton John, Stockard Channing and Didi Conn.... Grease 2 is somewhat like the original, flooded with songs and dance andGrease 2 is the 1982 comedy/musical drama sequel to 1978's original \"Grease\" movie that starred John Travolta, Olivia Newton John, Stockard Channing and Didi Conn.... Grease 2 is somewhat like the original, flooded with songs and dance and Grease 2 stars Michelle Pfeiffer and Maxwell Caulfield... Grease 2 to some people maybe a great movie and excellent film and a fitting sequel to the original but there's a problem with Grease 2, infact a few. Michelle Pfeiffer looks beautiful and hot and Didi Conn's character from the original was okay in Grease 2 but the other characters including the dude actors were laughable, unlikeable, stupid, boring, dull and basically tedious and the film felt too long and boring and the songs throughout the film were so bad, the worst songs I've ever heard in my entire life. They were rubbish and cheesey but I guess it went well with all the cheesey acting too. None of the characters are likeable in Grease 2 except Didi Conn which is embarrassing and the acting was appalling to say the least and I didn't like the original Grease  movie but compared to Grease 2 it's a masterpiece because Grease 2 is so bad a film it's shocking. Cheesey, dull, annoying, boring, tedious, pathetic, stupid and utterly illogical movie and unnecessary. This is probably the worst movie if not certainly the worst musical ever made and certainly a ugly and crap sequel.",
-      "review_date": "2020-03-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not any where close as good as the first. Just not the same vibe. The songs are horrible. Also the storyline is horrible.",
-      "review_date": "2022-12-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A cringe-worthy follow-up to the excellent original. Obviously it had to be done but jeez, it could have been done so much better. ALL the songs are AWFUL. Every song in the original was excellent. It's amazing that somebody didn't stop thisA cringe-worthy follow-up to the excellent original. Obviously it had to be done but jeez, it could have been done so much better. ALL the songs are AWFUL. Every song in the original was excellent. It's amazing that somebody didn't stop this in the third day of production and say \"Hang on, this is sh*t!\" So bad, so sad.",
-      "review_date": "2022-08-16",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 13
+    "title": "Grease 2",
+    "rating": 4.1,
+    "release_date": "1982-06-11",
+    "genre": [
+        "Drama",
+        "Comedy",
+        "Romance",
+        "Musical"
+    ],
+    "summary": "An English student at a 1960s American high school has to prove himself to the leader of a girls' gang whose members can only date greasers.",
+    "critic_reviews": [
+        "\"Grease 2\" is the most serendipitous sequel in recent memory. It is an ingratiating, jubilant improvement on a crummy original.",
+        "Where this film has a decided edge on its predecessor is in the staging and cutting of the musical sequences. Choreographer and director Patricia Birch has come up with some unusual settings (a bowling alley, a bomb shelter) for some of the scenes, and employs some sharp montage to give most of the songs and dances a fair amount of punch.",
+        "Light years ahead of Randal Kleiser's 1978 original, this 1982 sequel employs the Shakespearean marriage plot so beloved of classic musicals, in which two mismatched couples are straightened out and the songs express the moral distinctions of love and sex.",
+        "Definitely of the so-bad-it's-almost-good genre, this kinda stands the test of time in a camp way, mainly because of the charm of Pfeiffer and Carrington.",
+        "Such niceties as a plausible plot and three-dimensional characters are trampled under Weejun-shod foot, but sheer energy, a handful of good tunes (including a great theme song from the Four Tops), and some very funny one-liners save the day.",
+        "This movie just recycles \"Grease,\" without the stars, without the energy, without the freshness and without the grease.",
+        "Most conspicuously absent is John Travolta, replaced here by Maxwell Caulfield, who can't lift the original greaser's comb. Michelle Pfeiffer (MARRIED TO THE MOB; DANGEROUS LIAISONS) fares better as Olivia Newton-John's replacement, but the whole movie looks as if it has been slapped together to capitalize on its predecessor's success, and no doubt, it was.",
+        "The sequel to Grease is not much more than a remake, wherein every minute detail is nothing more than an attempt to pilfer the magic of the first film.",
+        "Less a sequel than a retread...Dizzy and slight, with an even more negligible plot than its predecessor had. This time the story can't even masquerade as an excuse for stringing the songs together."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "I just write a review about the first one now i will write about this one I HATE THIS MOVIE I HATE ALL THE GREASE MOVIES THERE THE WORST FILMS I HAVE EVER WATCHED",
+            "review_date": "2022-03-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Grease 2 is the 1982 comedy/musical drama sequel to 1978's original \"Grease\" movie that starred John Travolta, Olivia Newton John, Stockard Channing and Didi Conn.... Grease 2 is somewhat like the original, flooded with songs and dance andGrease 2 is the 1982 comedy/musical drama sequel to 1978's original \"Grease\" movie that starred John Travolta, Olivia Newton John, Stockard Channing and Didi Conn.... Grease 2 is somewhat like the original, flooded with songs and dance and Grease 2 stars Michelle Pfeiffer and Maxwell Caulfield... Grease 2 to some people maybe a great movie and excellent film and a fitting sequel to the original but there's a problem with Grease 2, infact a few. Michelle Pfeiffer looks beautiful and hot and Didi Conn's character from the original was okay in Grease 2 but the other characters including the dude actors were laughable, unlikeable, stupid, boring, dull and basically tedious and the film felt too long and boring and the songs throughout the film were so bad, the worst songs I've ever heard in my entire life. They were rubbish and cheesey but I guess it went well with all the cheesey acting too. None of the characters are likeable in Grease 2 except Didi Conn which is embarrassing and the acting was appalling to say the least and I didn't like the original Grease  movie but compared to Grease 2 it's a masterpiece because Grease 2 is so bad a film it's shocking. Cheesey, dull, annoying, boring, tedious, pathetic, stupid and utterly illogical movie and unnecessary. This is probably the worst movie if not certainly the worst musical ever made and certainly a ugly and crap sequel.",
+            "review_date": "2020-03-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not any where close as good as the first. Just not the same vibe. The songs are horrible. Also the storyline is horrible.",
+            "review_date": "2022-12-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A cringe-worthy follow-up to the excellent original. Obviously it had to be done but jeez, it could have been done so much better. ALL the songs are AWFUL. Every song in the original was excellent. It's amazing that somebody didn't stop thisA cringe-worthy follow-up to the excellent original. Obviously it had to be done but jeez, it could have been done so much better. ALL the songs are AWFUL. Every song in the original was excellent. It's amazing that somebody didn't stop this in the third day of production and say \"Hang on, this is sh*t!\" So bad, so sad.",
+            "review_date": "2022-08-16",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 13
 }

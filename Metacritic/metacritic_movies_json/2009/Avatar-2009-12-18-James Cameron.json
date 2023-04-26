@@ -1,655 +1,727 @@
 {
-  "title": "Avatar",
-  "rating": 7.5,
-  "release_date": "2009-12-18",
-  "genre": [
-    "Action",
-    "Adventure",
-    "Sci-Fi",
-    "Fantasy"
-  ],
-  "summary": "Jake Sully is a former Marine confined to a wheelchair. But despite his broken body, Jake is still a warrior at heart. He is recruited to travel light years to the human outpost on Pandora, where a corporate consortium is mining a rare mineral that is the key to solving Earth's energy crisis. Because Pandora's atmosphere is toxic, they haveJake Sully is a former Marine confined to a wheelchair. But despite his broken body, Jake is still a warrior at heart. He is recruited to travel light years to the human outpost on Pandora, where a corporate consortium is mining a rare mineral that is the key to solving Earth's energy crisis. Because Pandora's atmosphere is toxic, they have created the Avatar Program, in which human \"drivers\" have their consciousness linked to an avatar, a remotely-controlled biological body that can survive in the lethal air. These avatars are genetically engineered hybrids of human DNA mixed with DNA from the natives of Pandora... the Na'vi. Reborn in his avatar form, Jake can walk again. He is given a mission to infiltrate the Na'vi, who have become a major obstacle to mining the precious ore. But a beautiful Na'vi female, Neytiri, saves Jake's life, and this changes everything. Jake is taken in by her clan, and learns to become one of them, which involves many tests and adventures. As Jake's relationship with his reluctant teacher Neytiri deepens, he learns to respect the Na'vi way and finally takes his place among them. Soon he will face the ultimate test as he leads them in an epic battle that will decide the fate of an entire world.  (20th Century Fox)\r… Expand",
-  "critic_reviews": [
-    "A fully believable, flesh-and-blood (albeit not human flesh and blood) romance is the beating heart of \"Avatar.\" Cameron has never made a movie just to show off visual pyrotechnics: Every bit of technology in \"Avatar\" serves the greater purpose of a deeply felt love story.",
-    "It's been twelve years since \"Titanic,\" but the King of the World has returned with a flawed but fantastic tour de force that, taken on its merits as a film, especially in two dimensions, warrants four stars. However, if you can wrap a pair of 3D glasses round your peepers, this becomes a transcendent, full-on five-star experience that's the closest we'll ever come to setting foot on a strange new world. Just don't leave it so long next time, eh, Jim?",
-    "Once again, [Cameron] has silenced the doubters by simply delivering an extraordinary film. There is still at least one man in Hollywood who knows how to spend $250 million, or was it $300 million, wisely.",
-    "This is, simply put, one of the most beautiful movies you’ll ever see.",
-    "A quantum leap in movie magic; watching it, I began to understand how people in 1933 must have felt when they saw \"King Kong.\"",
-    "Avatar's shock and awe demand to be seen. You've never experienced anything like it, and neither has anyone else.",
-    "Glorious and goofy and blissfully deranged.",
-    "Avatar is entertainment of the highest order. It's the best movie of 2009.",
-    "At the end of a decade defined by much bellyaching about \"the death of cinema\" (including, on occasion, by this critic), Avatar concludes, appropriately enough, with an image of rebirth.",
-    "Pantheism, Cameronism: In Avatar, what's the diff? Now he's king of a world he made from scratch.",
-    "Cameron’s epic can still thrill the audience with breathtaking set pieces, bring them to tears with moving moments, and amaze people willing to explore a fantasy land like no other. Every frame is developed with such care that the movie remains one of the most beautiful works of art ever created by Hollywood. [2022 re-release]",
-    "Avatar is all-enveloping and transporting, with Cameron & Co.'s years of R&D paying off with a film that, as his work has done before, raises the technical bar and throws down a challenge for the many other filmmakers toiling in the sci-fi/fantasy realm.",
-    "Embrace the movie -- surely the most vivid and persuasive creation of a fantasy world ever seen in the history of moving pictures -- as a total sensory, sensuous, sensual experience.",
-    "The movie's story may be a little trite, and the big battle at the end between ugly mechanical force and the gorgeous natural world goes on forever, but what a show Cameron puts on! The continuity of dynamized space that he has achieved with 3-D gloriously supports his trippy belief that all living things are one.",
-    "Much of the time, though, you're transfixed by the beauty of a spectacle that seems all of a piece. Special effects have been abolished, in effect, since the whole thing is so special.",
-    "Is it or is it not stupendously friggin' rad? And the answer is yes. For most of the first hour, a good portion of the second, and even many of the 40 minutes left after that, Avatar is stupendously friggin' rad.",
-    "Avatar may be derivative, but it’s not insincere. Cameron clearly feels every beat of the story along with his viewer. He lets us discover Pandora through Jake Sully’s (Sam Worthington) eyes, first as a fearsome, terrifying place, then as a land of unimaginable awe and delight. [2022 re-release]",
-    "It's thrilling and lovely and sad and explosive in all the right ways, and it needs to be seen – on the big screen, in 3-D – to be believed.",
-    "Tone-deaf but thunderously exciting.",
-    "Rarely less than absorbing and never boring over its nearly three-hour length.",
-    "An entertainment to be not just seen but absorbed on a molecular level; it's as close to a full-body experience as we'll get until they invent the holo-suits. Cameron aims for sheer wonderment, and he delivers.",
-    "Avatar delivers. Combining beyond-state-of-the-art moviemaking with a tried-and-true storyline and a gamer-geek sensibility - not to mention a love angle, an otherworldly bestiary, and an arsenal of 22d-century weaponry - the movie quite simply rocks.",
-    "If I never felt entirely transported by Avatar, it's probably because the story thudded just as often as the imagery soared. But Pandora is still a good place to park yourself for three hours.",
-    "Is it a great movie?  Maybe not.  But it is a great step forward in moviemaking.  Shrug it off if that makes you feel better, but starting today you live in a post-Avatar movie world.",
-    "The first 90 minutes of Avatar are pretty terrific - a full-immersion technological wonder with wonders to spare. The other 72 minutes, less and less terrific.",
-    "As visual spectacle, Avatar is indelible, but as a movie it all but evaporates as you watch it.",
-    "The scenes in Pandora -- a planet with an Earth-like environment -- are so breathtaking that the narrative seems almost beside the point.",
-    "Titanic technical achievement.",
-    "By presenting Avatar in 3-D, Cameron is staking his claim and building a fence around his own precious resource, making it unobtainable on any but his own terms to increasingly emboldened and technologically savvy natives.",
-    "Avatar is a king's ransom fairly well spent, not least because Cameron's invitation into his superbly crafted universe comes with an unexpected price: He makes it easy to gaze fondly on all this movie magic, but only in exchange for a hard look at ourselves.",
-    "Vast, beautiful and meticulously detailed.",
-    "Avatar is a technological wonder, 15 years percolating in King Cameron's imagination and inarguably the greatest 3-D cavalry western ever made. Too bad that western is \"Dances With Wolves.\"",
-    "Whatever faults Avatar may have -- and there are many -- the movie succeeds in immersing you in a photorealistic, painstakingly detailed world more fully than any science fiction movie before.",
-    "The question lingers as the movie comes to its triumphant body-swapping close: Is this a pro-environment parable or a prophecy of virtual realities yet to come? Cameron's new world may very well be a verdant Matrix.",
-    "Avatar clears the hurdle in terms of being optical candy. Its story, though, is pure cheese.",
-    "Avatar is a weak patchwork of his other films: the leaden voiceover from \"Terminator 2\" here, the military/civilian conflict from \"Aliens\" there, even a Jack-and-Rose-style forbidden love story cued to adult-contempo soundtrack.",
-    "It is a very expensive-looking, very flashy entertainment, albeit one that groans under the weight of clumsy storytelling in the second half and features some of the most godawful dialogue this side of \"Attack of the Clones.\"",
-    "The sheer laborious silliness of Avatar feels like harder work the second time around and its essential problem is more prominent. [2022 re-release]"
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Despite \"Avatar\"'s heavy plot, Blockbuster king James Cameron impresses us with fantastic visuals and CGI of the Na'vi and human battle scenes in (Le Gasp!) 3D.",
-      "review_date": "2011-09-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Graphics phenomenal but story sucked. Unubtainium, really? They couldn't have come up with anything better.",
-      "review_date": "2010-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absurdely overrated. cgi masturbation with a lackluster plot and ridiculous neo-hippie fairy-tale.",
-      "review_date": "2010-06-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great visuals and effects, but thats simply all that Avatar has to offer. No story, viciously bad overacting and dialogue older than Sigourney Weaver herself. Very boring and far too long.",
-      "review_date": "2010-05-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Eh, yeah its all 3D, yeah its got allot of special effects and costs allot, yeah its got blue alien boobs, but other than that there is nothing here. Terrible cliche, hole-filled plot leaves you bored. Its kind of amazing how you can have Eh, yeah its all 3D, yeah its got allot of special effects and costs allot, yeah its got blue alien boobs, but other than that there is nothing here. Terrible cliche, hole-filled plot leaves you bored. Its kind of amazing how you can have such a crappy plot and waste 4 hours on it. After you watch it you think its good at first, but that is just an effect from the CGI and 3D. Soon you will realize how lame it is. \"the Eywa sees you!\" ugg soooo cheesy.",
-      "review_date": "2010-06-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I legitimately have no idea how this film has been getting so many positive reviews. Someone once said great films were a combination of technical innovation and artistic achievement. While Avatar certainly nails the technical side, it'sI legitimately have no idea how this film has been getting so many positive reviews. Someone once said great films were a combination of technical innovation and artistic achievement. While Avatar certainly nails the technical side, it's artistic half leaves a lot to be desired.A by-the-numbers cookie-cutter plot with poor writing and awful dialogue.",
-      "review_date": "2010-09-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Literally the best movie I have ever seen. I was completely and totally blown away. This is the first movie in my entire life where I didn't want it to end.",
-      "review_date": "2010-01-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Avatar!! A game? No. When people hear the word avatar, most would think of a game character but in this case, it brings a new meaning to the word avatar, literally. James Cameron not only the writer but also the director of the movie “Avatar”Avatar!! A game? No. When people hear the word avatar, most would think of a game character but in this case, it brings a new meaning to the word avatar, literally. James Cameron not only the writer but also the director of the movie “Avatar” (2009) has brought everyone’s dreams into reality by utilising the modern art of visual cinematography and 3-D imaging to blur the lines of virtual reality, making it more realistic. Cameron has also utilised certain star actors such as Sigourney Weaver and Sam Worthington who have won multiple awards in the past to play crucial roles in his film.The movie being in the category of fantasy/science fiction, it begins in the future or more precise, year 2154 and one the many themes of the movie is protecting the environment.Involving the military, they set off on a mission to collect, colonise and learn from the new planet, Pandora. Their main task for this operation is to collect a rich mineral that Earth desperately needs more of and they recently found that there was an abundant amount under their village.Unobtanium, the mineral, they need to save their energy crisis or to put it bluntly, to survive and is what keeps the project running. Those who went had to be in cyrosleep as Pandora, the new planet is 4.4 light-years away from Earth. The movie is both a show and tell with its incredible graphics of a new world, its nature and of course the natives, the Na’vi, blue people who stand at 10 feet tall and its story plot of the mission to collect the resources and a turn of events after the main protagonist learns about what was going to happen if the mission proceeds.I like how the actors played their parts well, and not just with their words but with actions as well. Some actors in movies struggle and get nervous and would cause themselves to not sound or seem natural. Zoe Saldana who played Neytiri, the Na’vi princess, was perfect for playing the role in this film as she could not only play the part but was actually able to get into character for this film. For example, she manages to accept a different accent to mimic being a native Na’vi.The computer-generated imagery also known as CGI, can only capture the movement and facial expressions in animated forms, but it is the actors job to give life to their characters. The director, not only did he capture the motion, but also the intent of the actors to make his characters even more realistic.There are of course strengths and faults in this movie just like any other. One of the biggest faults in this movie is that the transitions from one angle to another is a little off but hard to notice. For example, a different hand positioning from a camera angle to another and mild nudity of the natives as another fault. The strength of this film is that it follows its theme and executes it as the film goes towards the end, they of course follow up and was able to save the environment from the destruction.Overall, I think the movie ”Avatar” is a great film. It being rated as PG-13 is at minimal as the faults of those who are younger would have to watch the violence and mild nudity. I personally enjoyed the film and it left me in amazed and if you haven’t seen it yet, then I suggest you go see it now. It would not only leave you at the edge of your seats but also keep your blood pumping . 7½ out of 10",
-      "review_date": "2017-05-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I watched ''Avatar'' first time when it released in cinemas in 2009 and yesterday I watched it again, actually I found a lot of deference, at first time I just found it as a normal movie (TV movie) with some visual effect, but now when II watched ''Avatar'' first time when it released in cinemas in 2009 and yesterday I watched it again, actually I found a lot of deference, at first time I just found it as a normal movie (TV movie) with some visual effect, but now when I watched it again I found it purely a masterpiece.I saw some negative reviews and most of them wrote ''same cliché'', really guys?! What do you want more than that?! Every part in the movie is perfect starting from plot to visual effects until the performance.If I want to talk about visual effects I couldn't stop, the designers of ''moon Pandora'' they couldn't design better than this, it seems so realistic and breathtaking, beside Pandora's animals, plants, trees and people, everything perfect.I like the plot also, it's showing how the humans are savages, unlike others aliens movies that show the aliens are the enemy and the humans are innocents, the story is really reflecting our lives, we already ruined our earth by wars, killing animals and cutting trees, and it will be same if we control another planet.''Avatar'' is one of the greatest movie in the history of cinema, and I would like to thank the genius director and writer ''James Cameron'' and the whole cast for this masterpiece, and I hope \"Avatar 2, 3 & 4'' will be as same as this.",
-      "review_date": "2019-06-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There's a certain something to be said about the power of a visually strong movie like Avatar. It's kinda like a sleazy, but charismatic sales person. You like the person while your in his office, cause he just reeks of charm (or cigarettes)There's a certain something to be said about the power of a visually strong movie like Avatar. It's kinda like a sleazy, but charismatic sales person. You like the person while your in his office, cause he just reeks of charm (or cigarettes) and you buy in to his pitch, cause he's good at what he does, but when you leave the store, you find that you really didn't like the product that much after all. That's kinda how I feel about Avatar. The movie's visuals are amazing and I would say that nothing will be defeating it anytime soon as far as that goes. But when you brush away all that, what you're left with isn't necessarily a bad movie, but an average to ok one. I say this because most of the time I spent watching it was marveling at the amazing visuals that Cameron's team presented us. That part I can't heap enough praise on, but other than that, the story of the movie pretty much comes across as a straight up black and white morality play. I can understand the \"it's just a movie\" that people may say to that kind of suggestion, but where it doesn't hold up is when you try to pass the movie off as a political/social statement about our society. Nothing in reality is ever black and white, and to do so discredits a lot of what makes us a very complicated, arrogant, and interesting species. Aside from it's horrid attempts to justify why our material world is wrong, the story presents the humans as evil, greedy, and violent; but the Na'vi are peaceful, harmonious, and coexist with nature. Of course the main character ends up going native, finds he likes the tribe more, and then sides with them in the upcoming inevitable bloodbath, and the usual sequence of most big budget movies plays out with no originality whatsoever. Still the movie does entertain, even though it provides a mixed message, and there are some very interesting moments. The real credit to Avatar is the level of thought put into the actual world itself, and here the production/design team did a remarkable job in making Pandora a reality. To me it's a shame that they went for a more simplified story of good and evil as opposed to something more complex and real, but I guess that was never their intention in the first place. It probably wouldn't have been as successful in the theatres if it was. A simple message doesn't mean a bad one, but in this case it was more of a typical one.",
-      "review_date": "2010-10-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A film which certainly relies too much on its special effects. Peel back the visuals and you get a weedy storyline, ending in a an overextended battle. Having said this, I love the feeling of old against new traditions and the Avatar World isA film which certainly relies too much on its special effects. Peel back the visuals and you get a weedy storyline, ending in a an overextended battle. Having said this, I love the feeling of old against new traditions and the Avatar World is incredibly creative and involving. The music is also very magical.",
-      "review_date": "2011-09-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "You know how some movies and series are all story and no special effects, and they are still awesome, like Dr Who, and Red Dwarf, and animation. Well, Avatar is the exact opposite. A tech demo of what budget can do in this day and age, butYou know how some movies and series are all story and no special effects, and they are still awesome, like Dr Who, and Red Dwarf, and animation. Well, Avatar is the exact opposite. A tech demo of what budget can do in this day and age, but that is it.\r Lame recycled story, copied scenes, it's like someone cut some scenes from other movies and re-animated them on a PC with blue people.\r The only redeeming quality of the story, frankly, is the fact that the humans are somewhat accurately portrayed. Villains, but not idiotic unexplained villainy, but a nice blend of excusable and inexcusable.\r This is a movie that is seen, not understood. Eye candy, and not a very good one at that. The people are blends of 2 Earth animals, the animals are blends of 2 Earth animals, basically, it's just a jungle people story with cream on top.\r Under no circumstances is this movie a high scorer. Tech demo, 10. Movie, 5 because of the experience. Seriously, if seeing a movie on a small 2D screen makes it sucky, then it was sucky to begin with.",
-      "review_date": "2013-08-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wow, what a movie.  Maybe it is just all of the subpar Netflix movies I have been watching recently, but  “Avatar” has aged exceptionally well in the 11 years since its release.  The battle sequence actually has emotional resonance.  I haveWow, what a movie.  Maybe it is just all of the subpar Netflix movies I have been watching recently, but  “Avatar” has aged exceptionally well in the 11 years since its release.  The battle sequence actually has emotional resonance.  I have seen so much war in Star Wars, Lord of the Rings, and Marvel movies, but I never cared about any of them.  Cameron got me invested in a way none of the others could.  If you can enjoy a roller coaster movie, you should love this one, especially if you have a solid theater system.  If you can find a way to watch this as it was intended, in 3D, by all means do it, but even in old fashioned 2D, it was amazing.I don't know what percentage of the Neytiri character is Zoe Saldana vs. the animators, but somebody deserves an award for that role. There is a deep passion expressed by her that is very rarely captured on film.  I give it an A, make a point to go see this movie.",
-      "review_date": "2021-03-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Una muy buena peli que ya perdi el conteo de las veces que la vi, fresca y con efectos alucinantes.",
-      "review_date": "2018-03-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love this movie. It is a movie in 2154. But I learn we need to protect our environment. The planet is beautiful. But greedy humans try to make profits and destroy Navi's. Preserve our nature!",
-      "review_date": "2020-07-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is not the best movie ever made, but by far one of the most influential ones. I Really liked the \"extended version\" actually. It has more \"world-building\" into it. Story is good, I really have not much bad to say. It is  a weird movieThis is not the best movie ever made, but by far one of the most influential ones. I Really liked the \"extended version\" actually. It has more \"world-building\" into it. Story is good, I really have not much bad to say. It is  a weird movie but looking back it was ahead of it's time and now can be understood easier. When it came out, it was overrated. But... people still talk about it today, so there must be a reason, reasons!It was the best looking CGI movie when it came out.Sure, movie has tons of problems that I would say are \"cringy\", but have you seen the documentary about it? The impact of this movie still can be seen today. I actually don't remember any movie like this, this is completely original movie, without \"MCU-like\" setups or part of already set \"universe\" like James Bond for example. This was the most expensive movie ever made and most successful movie of all time (until Endgame).And it did not even have that expensive cast like, Endgame.It has enough interesting things inside than any blockbuster movie.This is cyberpunk, fantasy, Jurrasic-park-ish and space movie at the same time. Dialogue is good, not boring, pacing is great, not boring.The characters are really well made. This is one of the few movies that deserve the word: EPIC",
-      "review_date": "2020-12-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Your Time Is Running Out AvatarIn a few weeks, Avatar will likley no longer be the all time Box Office champion, But 10 years later it remains one of the best visual experiences out there.",
-      "review_date": "2019-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I confess that this film never really caught my eye until I read about it. I still remember when it was in theaters more than ten years ago. More recently, I decided to see it. The film was a success, as we all know, and I find it surprisingI confess that this film never really caught my eye until I read about it. I still remember when it was in theaters more than ten years ago. More recently, I decided to see it. The film was a success, as we all know, and I find it surprising that I didn't have the right to any sequels.The script takes place in a distant future, when humans have ruined the Earth but are colonizing and exploring other planets like Pandora, where Jake Sully, a veteran of the Marines, is going after being recruited by a scientific program. Pandora has a rare and valuable ore that humans want, but it also allows the planet to have an exuberant and unusual biological life. It happens to be inhabited by natives called Naavi (who look like huge blue humans with a long tail), and they are determined to protect their world from the greed of the Terran's. Sully joins the Avatar Program, which allows him to remotely control the body of a Naavi. If the program allows humans to live and learn from them (as its director, scientist Dr. Grace, wants), it also turns them into Trojan horses (as Colonel Miles, commander of the military forces in Pandora, wishes). This will put Sully in a conflict of loyalties while allowing him to see how the natives are connected to their world and are inseparable from it.The plot raises a number of pertinent questions. We can, for example, reflect on the way we have lived and managed our planet, on the superiority with which we see who is different from us, on how we despise the environment or deliberately harm it by greed, on our passion for war instead of peaceful conflict resolution or even about how technological and medical advances do not reach everyone and are put at the service of some wealthy people instead of being available to all. It is a script that makes you think and could be seen in many ways. Unfortunately, the story built on these premises is not so good. There is good material and the way Sully is divided in his loyalty as he lives with the natives is the backbone of the whole thing, but everything else is quite predictable and one-dimensional, and sometimes it sounds bad: humans are treated in a simplistic way and turned into despicable creatures, while the Naavi are idealized to the fullest. The old story of \"good guys and bad guys\".Sam Worthington shows all his talent in a demanding and likeable character. He plays well with Zoe Saldaña, his alien romantic couple. The actress is excellent and was having a good time in her career then. I also liked the work of Sigourney Weaver, in the role of a strong, bossy and grumpy scientist, who is guided by her ideals even if it means facing the military. But the best of the cast ends here. The rest are reduced to one-dimensional and stupid characters, as is the case with Stephen Lang (the \"brute like the stones\" colonel who only thinks about his mission), Michelle Rodríguez (the military hot girl who decides to collaborate with the \"goodies\" instead of helping the \"baddies\"), Giovanni Ribisi (one of the\" baddies\"), Joel David Moore (one of the\" goodies\"), Laz Alonso, CCH Pounder, Wes Studi (the \"perfect ones\") etc. This was somewhat disappointing in a film with so many qualities and such a high budget.It is in the technical aspects that this film excels. Directed by James Cameron, an avid fan of the green screen and a \"rival\" of Spielberg, it's a film that was built on top of an entire digital world. Thanks to this feature, Cameron can become a god for a minute and create a new universe with plants and animals that we have never seen and that exude beauty. The film has a spectacular cinematography and it does not pass five minutes without, in some way, making us hold our breath before such a show of color and light. Sound effects are very well-used also. Together with an epic and magnificent soundtrack by James Horner, we have the recipe for a blockbuster film that collected three Oscars in technical categories (Best Cinematography, Best Visual Effects and Best Art Direction), with all the fairness and merit. I really feel sorry that I didn't see it on the big screen and that Cameron is so careless when it comes to the script and the story he tells us.",
-      "review_date": "2020-12-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Avatar - Breathtakingly BeautifulWhen movies are created, they are done so with intent. Different genres of film target specific audiences, a formula which has sustained Hollywood and it's industries since the beginning of the blockbusterAvatar - Breathtakingly BeautifulWhen movies are created, they are done so with intent. Different genres of film target specific audiences, a formula which has sustained Hollywood and it's industries since the beginning of the blockbuster movies. When a movie is created in a manner that sets in motion any given goal, said films success is pendant on whether or not that goal is reached. If a comedy creates laughter, or if a romance produces tears, then they are successes in their own right. So when a massively ambitious, seemingly impossible to create film aiming to usher in a new era manages to grab hold of it's audience and take them on an unprecedented cinematic roller coaster ride that delivers the goods every turn of the way, it can be considered successful. Avatar is that success.A work in progress that spanned a decade and a half, Avatar is more than just a film - it's an experience, an event. When James Cameron set out to make this movie back in the mid 90's, he realized that his ambitions were simply too far ahead of their time. His ideas could not be reached in a feasible manner, and due to this, he had to wait. Or create. Once informed that the image he held for this film was one that was out of grasp, he began working on the technology that would bring his masterpiece within reach. Fifteen years and nearly half a billion dollars later, James Cameron has brought that vision to the screen, and has done so in an extravagant and showstopping way.Avatar tells the tale of a war between species, each fighting for the ultimate survival of their race. Desperate to find the fuel for their dying planet, human soldiers and scientists set out from earth and set course for Pandora. A planet connected by all living things, Pandora is home to an indigenous species known as the Na'vi, as well as the precious element Unobtanium needed to save earth. Using transference technology, paralyzed marine Jake Sully is volunteered for the \"Avatar Program\", which enables the thoughts and mind of a human to be placed within the shell of a tube-born Na'vi body. Using this as technique to their advantage, Jake is sent into the harsh Jungles of Pandora in order to bond with the natives, thus gaining knowledge and insight on their ways. Having originally planned to use this knowledge as a means of negotiating the natives relocation, so that the humans can access the deposit of Unobtainium - which just happens to sit below their most worshiped and valued pseudo-deity of their planet.While the plot on paper may read as a standard shoot'em-up action sci-fi flick, it is a near inconceivable task to truly explain how incorrect this appearance truly is. This takes a stroke from every movie, and a dab from every genre, and manages to create a portrait of beauty, in which all pre-existing notion of what cinema can and cannot do is destroyed. Within the lengthy hundred and sixty some odd minutes of film, moviegoers will find that there is always something to keep them enthralled, a merciful gift when considering how tedious many of the longer film of recent memory can become.No matter what can be said about the overtly cheesy script,a criticism that, while holding true, manages to fit charmingly into the over-the-top nature of the film, Avatar does as it set out to do, bringing moviegoers a cinematic experience rather than a film. Relying on the technology that he created, Cameron pours his heart into this movie, and it shows in every scene. Ranging from the absurdly detailed creatures to all-too-realistic planet, this flick manages to tell a fulfilling story while all the while throwing jaw-dropping scenery at the audience, giving them only enough time to recover before bombarding them with yet another breathtaking shot.Be it the fantastical and charming love story told between the native and the outsider, or the too-real-to-be-true action scenes between gunships and foreign ferals, Avatar is what Star Wars was too the 70's, the Wizard Of Oz of the 40's - a masterpiece that will go down in movie history as a game changer of it's time.",
-      "review_date": "2020-11-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nAvatar captures all realms of the human indulgence. It is the perfect form of hero story as well as having a positive message about saving the environment. The movie is extremely creative and imagined. We are presented with a new language called the Na'vi, a new goddess named Eywa who is presumed one with nature, and new fundamental lifeforms that engulf your imagination. The idea of the human controlled Avatars is something unprecedented. It makes the movie fun and at the same time plausible because the world of Pandora is so substantial and inhumane, that mankind is forced to create organic bodies that can not only survive but explore the land efficiently. The Avatars are controlled by people with similar DNA from a tranced state that allows them to connect into the body. The plot of the movie is also one that is imaginable yet realistic. In the year 2154, U.S. armed forces embark on a journey to an earth-like planet called Pandora. On Pandora there is an element called Unobtainium that is extremely valuable. When humans discover that there is a substantial amount of Unobtainium under a large tree called \"Home Tree\", where the natives live action needs to be taken. Jake Sully (Sam Worthington) gets lost on a botanist mission and ends up at Home Tree, and the only reason he wasn't killed is because Eywa showed the natives a \"sign\" not to kill him. Since Jake is able to join and train as a native, the humans want him to convince the natives to leave their tree, in able to attain the unobtainium. Jake learns in conclusion that there is nothing the natives want and refuse to move from their home, therefore humans take force and destroy their home. The Na'vi are not advanced people, they live among nature and are smart with which creatures they interact with. Because Jake learns the importance of being a Na'vi he begins to choose sides and understands what is morally right. Dilemmas arise due to the natives not trusting Jake for his betrayal-like actions, and humans don't because he refuses to help the humans fight the natives. What will turn out for Jake and where will the Na'vi people go? This movie is an action packed thriller with imaginative fun and fight distributed throughout the film. We are introduced to many creatures including the Ikran (a huge flying bird-like creature), and the pa'li (a large horse-like creature). These animals play a significant role in the movie's structure by adding awe inspiring moments and serenity. The film never feels long and concludes with the ultimate warfare that has a special element that comes as a true surprise",
-      "review_date": "2018-10-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I was really blown away with this film.  Hands down the best 3D movie I have seen.  You could argue that the plot is the same as Dances with Wolves or even Fern gully except with blue aliens, but I don't care.  This movie is absolutely wonderful.",
-      "review_date": "2018-11-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Gráficamente hablando podría ser la mejor película. La historia ademas acompaña muy bien a los personajes y escenarios.",
-      "review_date": "2019-08-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Mind-blowing, colorful, immersive, incredible CGI, amazing cinematography & visuals, this movie truly was ahead of it's time.",
-      "review_date": "2021-10-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "With Avatar and Aliens we know that Cameron really nails the whole space Marine thing. It has its flaws but this is a really good movie. I know it's not his wheel house storywise but knowing he did the Abyss, I would be all-in for a CameronWith Avatar and Aliens we know that Cameron really nails the whole space Marine thing. It has its flaws but this is a really good movie. I know it's not his wheel house storywise but knowing he did the Abyss, I would be all-in for a Cameron film adaption of Forever War by Haldeman.",
-      "review_date": "2020-01-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolutely fantastic film. I finished watching the extended cut and although the story is similar to Pocahontas it's still a really good story. The visual are amazing and being lots of depth to the world of Avatar. The score is also reallyAbsolutely fantastic film. I finished watching the extended cut and although the story is similar to Pocahontas it's still a really good story. The visual are amazing and being lots of depth to the world of Avatar. The score is also really good and the you get connected with the characters. There are a few potholes for sure, but still the story is worth watching. I can't wait foe Avatar 2",
-      "review_date": "2020-04-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This visually stunning work of art succeeds spectacularly in its magnificent beauty as it does in its emotionally driven love story which explores important themes in the most perfectly exciting and deeply rich way that brings new life to theThis visually stunning work of art succeeds spectacularly in its magnificent beauty as it does in its emotionally driven love story which explores important themes in the most perfectly exciting and deeply rich way that brings new life to the sci-fi genre. Avatar is not only the greatest science-fiction film of all time, but also one of the greatest films of all time and is a truly outstanding spectacle upon its genre.",
-      "review_date": "2020-05-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Una obra maestra de su época que hay que ver sí o sí. Un gran precedente al cine moderno.",
-      "review_date": "2021-11-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film, no matter how many times I watch it, always at the end it will make me feel like a child again",
-      "review_date": "2021-07-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A James Cameron masterpiece, avatar is a brilliant movie with amazing CGI, great cast of characters, and remarkable storytelling which had me in tears at-least four times!",
-      "review_date": "2021-08-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Superb special effects can't make-up for a predictible plot and so-so acting. See it in 3D at the theater--no need to ever see this movie on the small screen.",
-      "review_date": "2010-02-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I struggle to understand how anyone can be so sucked in by the graphics that they overlook the recycled plot, terrible dialogue and mediocre performances. If indeed it does change cinema forever then it's a sad day for film-making when I struggle to understand how anyone can be so sucked in by the graphics that they overlook the recycled plot, terrible dialogue and mediocre performances. If indeed it does change cinema forever then it's a sad day for film-making when focussing on the 3D is a substitute for trying to make a good film. I'm just thankful I've not met a single person who was \"blown away\", in fact I don't know anyone who'd award it more than a 7.",
-      "review_date": "2010-02-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Too long, vastly over-rated.",
-      "review_date": "2010-04-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Too bad they couldn't afford good writers--the budget was blown on eye candy, but the message is the same old tired anti-Western nihilist propaganda.",
-      "review_date": "2009-12-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Getting past the awe of a fast panning 3D environment--which is difficult for many sci-fi junkies--I grade the movie on what we'll think outside of our temporary giddiness. When we come back to this movie, the lack of depth in the Getting past the awe of a fast panning 3D environment--which is difficult for many sci-fi junkies--I grade the movie on what we'll think outside of our temporary giddiness. When we come back to this movie, the lack of depth in the characterization, the weak attempts at philosophy, and the over stated Gia-Green Earth message will not only bore us, it will insult us. Remember Jar-Jar from Starwars Episode 1. We tolerated him on the first viewing, but has made repeated viewings intolerable. Once the shiny green is gone; the movie will be as well--or we'll just stare with pitiful regret at a box on our shelves.",
-      "review_date": "2010-01-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The special effects, are great. But the movie is nothing more then eye candy, also I found it extermely boring to watch. Small plot with ALOT of filler. See \"dances with wolves\" and just imagine that being set 200 years into the future and The special effects, are great. But the movie is nothing more then eye candy, also I found it extermely boring to watch. Small plot with ALOT of filler. See \"dances with wolves\" and just imagine that being set 200 years into the future and that is exactly what you get! There are numerous silly/dump ideas thought out the whole movie. I really enjoyed Camerons movies from the past, But this is the worst one.",
-      "review_date": "2009-12-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I have not yet seen it, but does this smack of Hollywoods' attempt to bash the US military again? The timing of Iraq and the making of this film cannot be a coincidence.",
-      "review_date": "2009-12-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolutely dire. The effects are not particularly that special, even for 2009 (though it does look pretty) and the story is a horribly executed retreat of a million other films that moves along at a snails pace. The dialogue is awful, theAbsolutely dire. The effects are not particularly that special, even for 2009 (though it does look pretty) and the story is a horribly executed retreat of a million other films that moves along at a snails pace. The dialogue is awful, the characters aren't memorable at all. A tremendous misfire.",
-      "review_date": "2017-12-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When you take away all the special effects and the multi million dollar budget, all you are left with is a mediocre script that feels like something that would have been better as a made for TV animated special. With that being said, theWhen you take away all the special effects and the multi million dollar budget, all you are left with is a mediocre script that feels like something that would have been better as a made for TV animated special. With that being said, the technical aspects are impressive and you can tell that a lot of effort went in to making this movie look great. However, you can only look at a piece of art so long before you start to get bored.",
-      "review_date": "2022-11-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When I first watched this movie I was blown away. It is probably my favourite movie of all-time but then I seen it a second time and I kind of got a bit more bored than the last time I watched it. It's still a great movie though.",
-      "review_date": "2010-12-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great visual effects, film and mounted with a spectacular photography and a magnificent art direction and stunning views, but their enrendo is not the best yet it is still a great movie.",
-      "review_date": "2013-05-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not totally blown away, but i was thoroughly entertained by it. But the film's strongest point is definitely the visuals. Pandora is beautiful and looks realistic. The story, though unoriginal, is still effective for this film. The dialogue,Not totally blown away, but i was thoroughly entertained by it. But the film's strongest point is definitely the visuals. Pandora is beautiful and looks realistic. The story, though unoriginal, is still effective for this film. The dialogue, is bad sometimes, and decent in others. Definitely not a strong point. But if this film needs people to root for, its easy to tell who. If you want 3 hours of great visuals and nothing else, this is your movie.",
-      "review_date": "2010-10-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film reaches a new level when it comes to both technology and creativity. It´s a really good created alter/reality that will hold your attention with ease during the entire ride. Visuals and atmosphere give this this movie anThis film reaches a new level when it comes to both technology and creativity. It´s a really good created alter/reality that will hold your attention with ease during the entire ride. Visuals and atmosphere give this this movie an absolute a-status. The created world is absorbing your brain so bad that the average story won't bother you even 1 second. This one shines in utter  greatness!",
-      "review_date": "2012-08-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I was pleasantly surprised by Avatar. I am usually a pretty good judge of movies from their trailers but the trailer for Avatar is filled with some of the more cliched elements. The CGI effects are marvelous and the realization of the world I was pleasantly surprised by Avatar. I am usually a pretty good judge of movies from their trailers but the trailer for Avatar is filled with some of the more cliched elements. The CGI effects are marvelous and the realization of the world of Pandora is very detailed and persuasive. Having read cynical accounts of the plot as \"Dances with Smurfs\" I was also surprised by the story which was not exactly the strength of the movie but also didn't detract too much from the movie going experience. I feel a little sorry for people who become deeply attached to this movie and wrapped up in its reality...but on the other hand, I might even consider going to the movie again in the IMAX version.",
-      "review_date": "2010-01-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My only wish is that they would have made the movie an hour longer. You don't want to leave Pandora. What a truly amazing creation of a world and culture.",
-      "review_date": "2010-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I had heard a lot about \"Avatar\" before seeing it, and the general complaint from most was the movie's lack of originality. Having seen the movie, I would agree that the premise is nowhere near unique, but to me originality shouldn't be theI had heard a lot about \"Avatar\" before seeing it, and the general complaint from most was the movie's lack of originality. Having seen the movie, I would agree that the premise is nowhere near unique, but to me originality shouldn't be the basis for judging the quality of a film. More than anything a truly great movie should be striking, and Avatar is precisely that. James Cameron used his budget ($237m) to create one of the most engrossing environments to ever grace the screen, and pushed the 3D technology (which I don't even like) to the limit. The result is pure spectacle; behind me in the movie theater there was a family with three children and throughout the 2 1/2 hours there were constant exclamations of \"Wow!\" and \"Oohh!\" I would have been slightly annoyed had I not realized I wanted to say the same things, and for a movie to revert a hardened critic like me to a world of pure escapist wonder, I have to give the film credit.",
-      "review_date": "2010-08-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There's more to a movie than a good plot, and I can't think of any movie that demonstrates this better than Avatar. If everything about a movie was amazing except for the story, I feel you can honestly call it a good movie.",
-      "review_date": "2010-01-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nAVATAR (or, as some seem to enjoy calling it, \"The Blue People Movie\", which really should be THE SMURFS, not this) is an adventurous, intense movie, and the best movie you can think of to be the highest-grossing film, both worldwide and in America.  Very few parts of this actually truly ticked me off, but there were a few to name: such as near the ending, when it began to get boring (a habit many creative sci-fi films such as even INCEPTION get into); and when Grace (Sigourney Weaver) died.",
-      "review_date": "2011-08-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Quand je pense que James Cameron, c'était Aliens, Abyss, les 2 Terminator... et puis le naufrage a commencé avec Titanic (chiant comme la pluie et convenu) et cette farce avec Avatarte... plus tarte, plus niais, tu meurs ! Qui a produit ceQuand je pense que James Cameron, c'était Aliens, Abyss, les 2 Terminator... et puis le naufrage a commencé avec Titanic (chiant comme la pluie et convenu) et cette farce avec Avatarte... plus tarte, plus niais, tu meurs ! Qui a produit ce film ? Disney ?!... c'est dégoulinant comme la petite maison dans la prairie, les pauvres **** indigènes bleus neuneus, oh la la je vais écraser une larme... Et c'est long comme une sieste de 3 plombes et même les effets spéciaux sont à la ramasse : on a toujours cette impression de se taper un mauvais dessin animé...",
-      "review_date": "2017-04-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "First time watching this your not going to have any negative points, as it will win you over with graphical wizardry. And boy, are the graphics good. With very highly realistic environments, seeing it in 3D on the big screen is somethingFirst time watching this your not going to have any negative points, as it will win you over with graphical wizardry. And boy, are the graphics good. With very highly realistic environments, seeing it in 3D on the big screen is something magical. Assessing the film afterwards reveals a highly weak and wooden story that is just holding the film together with the visuals. Though the storyline is utter guff, the 'wow' moments might just make this a great film. Just.",
-      "review_date": "2010-09-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Despite almost being a spin off of Dances With Wolves, the ridiculously beautiful visuals, believable and likable characters, and successful good Vs. evil theme makes this movie one of 2009's best",
-      "review_date": "2011-08-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Avatar is no doubt my least favorite film of all time for one simple reason: it is everything wrong with Hollywood. Over-budgeted production cost, the lure of 3D to draw viewers, manipulative characters and political messages, and theAvatar is no doubt my least favorite film of all time for one simple reason: it is everything wrong with Hollywood. Over-budgeted production cost, the lure of 3D to draw viewers, manipulative characters and political messages, and the complete lack of depth in the characters and story plague this beautiful looking film. To say that this film is bad would be a lie, but I despise this film so much due to it's one-dimensional characters and predictable and unoriginal story. James Cameron has done some great work in his career (The Terminator films, Aliens, [and even] Titanic), but Avatar is not among that prestigious list. Avatar only goes to prove that visual effects and action scenes do not guarantee a good film. For example, 12 Angry Men is one of the greatest films ever and it contains no action, CGI, and lacks multiple locations; the entire appeal of the film lies in its strong characters, dialogue, premise, and confrontations. Avatar lacks all these quintessential elements, and therefore suffers.",
-      "review_date": "2012-11-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The visuals were amazing, but who cares? The story went nowhere. This movie is quite simply nothing more than heavy-handed environmentalism under the guise of a lackluster alien romance. The acting was atrocious, the characters were dull, The visuals were amazing, but who cares? The story went nowhere. This movie is quite simply nothing more than heavy-handed environmentalism under the guise of a lackluster alien romance. The acting was atrocious, the characters were dull, and the middle three fourths of the movie could have been removed and no plot development would have been lost. These things are the calling cards of terrible movies.",
-      "review_date": "2010-05-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was all gimmicks and no substance. Designed to be a eye candy for the sake of 3D, it is basically a boring adventure about humanity being unpredictable. The problem is that the fancy 3D and CGI cant keep your attention for longThis movie was all gimmicks and no substance. Designed to be a eye candy for the sake of 3D, it is basically a boring adventure about humanity being unpredictable. The problem is that the fancy 3D and CGI cant keep your attention for long once you are accustomed to it and if you take that out of the movie, you are really left with bad sci-fi flick about \"duality.\" \"Human duality\" is probably the 2nd most boring subject of a movie behind all the \"coming of age\" stories. The military and science are once again the bad guys while the aliens are innocent and good. I really dont mind movies that portray humans as bungholes (because frankly, as a society, we are), but its getting old and this movie did not even try to be original. There were no cliffhangers, no interesting characters, dialog was mundane and the plot was predictable. The entire movie could have been done in 15 minutes.",
-      "review_date": "2015-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is what you call A Great Movie.  It will live on as that for a while and perhaps forever. Avatar is spectacular, goofy, and most of all cool.   Hopfully Avatar will be remembered for a while, before any other movie takes its place",
-      "review_date": "2010-08-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "another good film from james camron . not as great as id hoped and some people have said but its still worth seeing . the main problems i have with this film is its presented in its trailors as this HUGE action film . when in reality thereanother good film from james camron . not as great as id hoped and some people have said but its still worth seeing . the main problems i have with this film is its presented in its trailors as this HUGE action film . when in reality there really isnt much action till the last 20 min . considering how long it is think they coulda packed abit more in . the story is entertaining although very predictable . the visuals are just out standing pandora really comes to life . the acting is ok i didnt really feel impressed by any one . its a entertaining film that most of the family can sit down and wach and have a fun time .",
-      "review_date": "2010-08-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThis is the best movie have ever saw.It is cool and grate and fascinating.How ever give this movie a lover review than 8 is stupid and he don't know nothing about movies.If i am a criticizer I would give Avatar 110%.But i give it 10%.And i can\"t wait no longer for the second and the third from the trilogy.",
-      "review_date": "2010-09-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Along with the graphics in this movie i personally think this was a near perfect movie!! The storyline was similar to any like it with the enemy becoming friend but there was more to it i think. Showing the love of earth and others thoughAlong with the graphics in this movie i personally think this was a near perfect movie!! The storyline was similar to any like it with the enemy becoming friend but there was more to it i think. Showing the love of earth and others though money is there. Understanding others before destroying them is more important.",
-      "review_date": "2010-12-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I wanted to be entertained and I was. The story could use some work though.",
-      "review_date": "2010-01-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It was not very good. I wouldn't even watch it if i was paid too. The only cool thing about it is the live action vs actual people concept in the story. Its very bad though.",
-      "review_date": "2016-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It was fun to watch, but I hated how recycled it is. Great visuals, but James Cameron could have done so much more with the plot line, characters, and general movie. I was disappointed to say the least.",
-      "review_date": "2010-06-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Boring, but visually amazing.",
-      "review_date": "2010-06-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I think I'm a minority on my stance towards this movie. I don't have mixed feelings about it just to be edgy and apart from everyone else, it just rubbed me a little differently. I was largely absent from all the hype that surrounded it whenI think I'm a minority on my stance towards this movie. I don't have mixed feelings about it just to be edgy and apart from everyone else, it just rubbed me a little differently. I was largely absent from all the hype that surrounded it when it was released: I finally saw the movie towards the end of its theatrical run. With that being said, I had a much clearer perspective on it, seeing it in a theater with maybe 10 other people in it, and I can honestly say after seeing it, it's one of the most overrated movies of all time. For starters, I think the movie takes itself too seriously. At it's core, the plot is essentially an updated version of \"Pocahontas\" or \"Dances With Wolves.\" I was genuinely entertained for the first half hour, in which you're introduced to the main characters and the setting of Pandora, but then movie started to take another turn. The whole thing was simply overshadowed by this very self-righteous, naturalist message about how we have to take care of the planet. Now don't get me wrong, I care for the environment, but when I feel like I'm watching a $300,000,000 EPA PSA, it kind of ruins the effect of a movie that comes from the director of Terminator 2. Throughout the movie, various other sci-fi elements are taken from movies like the Matrix and Jurassic Park, and subsequently accompanied by video game quality dialogue. In a word -- it's all over the place and just comes off sappy. Rather than a sophisticated narrative geared towards adults, Cameron just decided to go completely Saturday morning cartoon with this one, causing tons of merchandise and distribution out the ass that caters mainly to middle school boys who take garbage like this too seriously. But hey, it has amazing special effects, so I guess the it's saving grace is the familiarity of the director, and that it looks pretty.",
-      "review_date": "2014-04-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie has terrible dialogue, poor acting, and a plot an 8 year old could write. Go watch Pocahontas if you want to see this movie; same story, better everything.",
-      "review_date": "2010-05-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Almost great film. the 3D was too overwhelming. I prefer the the original version of the film. Kudos to Worthington and Cameron.",
-      "review_date": "2010-01-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A typical piece of American shoot up em sensless piece of trash. Cameron has stolen ideas from a range of films and merged them into a silly unbelievably juvenile plot. Lots of violence and a story with nothing to say. Writing and dialogue A typical piece of American shoot up em sensless piece of trash. Cameron has stolen ideas from a range of films and merged them into a silly unbelievably juvenile plot. Lots of violence and a story with nothing to say. Writing and dialogue are amateurish with characters that seem to be taken from comic books. The only thing that makes this film remotely watchable are the special effects. Movie making at it's worst. Shame on the critics who didn't have the courage to pan this gross waste of money.",
-      "review_date": "2010-05-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If story was bit stronger than it would be also great as \"The Terminator\" However, its a Master Piece.",
-      "review_date": "2010-06-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Pieac of crap, vidja games have been doing better worlds for years and they don't cost a trillion dollars. Cameron's worst movie to date, totally predictable.",
-      "review_date": "2010-06-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Ok listen for all you bad reviewers: If your not looking for an action movie, go watch a freakin romantic comedy. Thats not this movie. The effects are amazing and stop bring the stupid, childish Pocahontas or whatever into this film. They'reOk listen for all you bad reviewers: If your not looking for an action movie, go watch a freakin romantic comedy. Thats not this movie. The effects are amazing and stop bring the stupid, childish Pocahontas or whatever into this film. They're nothing alike. This movie was rated better then Titanic and has awesome plot and idea and characters that are realistic.",
-      "review_date": "2011-11-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If Pocahontas was a 3D live action film starring blue people, this would be the result.",
-      "review_date": "2011-06-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "While a beautiful movie to look at, the intense CGI cannot hide the hopelessly derivative story and generally poor acting. While the world of Pandora is nice to look at, it is poorly thought out. All the characters are caricatures of theWhile a beautiful movie to look at, the intense CGI cannot hide the hopelessly derivative story and generally poor acting. While the world of Pandora is nice to look at, it is poorly thought out. All the characters are caricatures of the worst movie stereotypes. We have the badass soldier chick, the angry army commander, the hero who just wants to do the right thing, and the industry crazed maniac.It took James Cameron 2h 40m to tell a story that Disney managed to tell in half the time.",
-      "review_date": "2010-10-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Cameron was reminiscent of Michael Bay's dedication to special effects in this incredibly clichéd and (with regards to plot and characters) lackluster film. The characters all filled positions of clichés, leaving nothing Cameron was reminiscent of Michael Bay's dedication to special effects in this incredibly clichéd and (with regards to plot and characters) lackluster film. The characters all filled positions of clichés, leaving nothing unexpected through the entire plot. I found myself predicting lines and events before they occurred, a feat which never leads to a good feeling about a movie. The special effects were phenomenal, but everything else seemed less important.",
-      "review_date": "2010-06-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I didn't see Avatar at the cinema - something about it just said to me it would be all style no substance. So I waited until it was released on DVD and bought it a couple of days after it was released, and it sat on the shelf for I didn't see Avatar at the cinema - something about it just said to me it would be all style no substance. So I waited until it was released on DVD and bought it a couple of days after it was released, and it sat on the shelf for several weeks until one quiet evening when there was nothing on TV worth watching. Well, it was exactly as I feared: a visual spectacle with absolutely no substance to back it up. The plot is puerile, derivative and overladen with the kind of crass, heavy-handed environmental messages you'd expect if an eight year old had written the script. Characterisation was paper thin and the actors mostly seemed on auto-pilot, either hamming it up or as wooden as the Na'vi's beloved trees. I'm all for no-brainer entertainment, but frankly I felt insulted. Mr Cameron, spend some of your frankly ridiculous budget on a decent script next time please. The score of 2 is for the admittedly great visuals and entertaining final reel battle only - the rest of the film scores a big fat zero.",
-      "review_date": "2010-06-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Avatar is an agonizing movie with amazing visuals and incredible use of 3-D and motion capture technology. In the purely technical sense, this film is a masterpiece; however, in terms of story, characters and ability to develop the plot, theAvatar is an agonizing movie with amazing visuals and incredible use of 3-D and motion capture technology. In the purely technical sense, this film is a masterpiece; however, in terms of story, characters and ability to develop the plot, the film fails miserably. Every single character in this film is not only uninteresting but undeveloped. Think about it... what do you REALLY know about Jake or Nyteri? The dialogue is also horrendous. At times my jaw dropped at how uninspired the lines were. \"I see you\" in particular feels cheesy and overused. Then there is the awful love story. It is without a doubt one of the worst development of a couple I have ever seen in a film. We go from Nyteri HATING Jake to them occasionally nudging each other and laughing to...well them doing under the tree of souls or whatever it's  called. I know months have passed in the story, but only 45 minutes have passed to us, and nothing in the film explained or showed how their feelings grew for each other. Giving someone a meaningful look once doesn't count as developing a couple. To top it off, this movie is excruciatingly long. By the time you see it for the second or third time you will be constantly checking your watch. It just won't end! The film could have easily cut 20-30 minutes. While there are a lot of pretty images, the plot and characters are pretty ugly.",
-      "review_date": "2011-08-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Visually, Its extremely impressive and I was shocked that James Cameron didnt win the oscar for best director because of the visual effects in the film and the ground breaking use of CGI as well. However, The film sucks. The acting isVisually, Its extremely impressive and I was shocked that James Cameron didnt win the oscar for best director because of the visual effects in the film and the ground breaking use of CGI as well. However, The film sucks. The acting is terrible, the plot not only sucks but is a complete rip off of Dances With Wolves, and its incredibly boring (I was only entertained in 3 very short parts in the entire film). Sorry but the visuals can only get you so far in my book and this film just doesnt cut it imo.",
-      "review_date": "2012-01-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Cool visuals, but awful acting and a horrendous plot. I couldn't even make it through the entire movie. I walked out of the theater because I was so bored and could predict the entire movie after the first 10 minutes.",
-      "review_date": "2010-05-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolutely hands down, the most over hyped/ over rated movie in history. I saw this movie when it came out in theatres and i hated it so much i had to vent as soon as i became a member of metacritic. sure the special effects are good, butAbsolutely hands down, the most over hyped/ over rated movie in history. I saw this movie when it came out in theatres and i hated it so much i had to vent as soon as i became a member of metacritic. sure the special effects are good, but thats not enough to salvage the terrible acting and dreadful script. the entire story is borrowed from other hollywood movies. it disgusts me how much people love this movie. to me this shows just how simple and shallow movie goers are. the aliens were just friggen annoying to listen to and to look at. Ive never fallen asleep in the theater, but this got me pretty close. just a boring, eye candy laced, piece of **** movie.",
-      "review_date": "2011-03-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "full points for visual prowess but zero points for plot and originality-the whole time i was watching it i was thinking wow this is a return to my childhood-it's the upgraded Pocahontas! I was waiting for the animals to talk..had they full points for visual prowess but zero points for plot and originality-the whole time i was watching it i was thinking wow this is a return to my childhood-it's the upgraded Pocahontas! I was waiting for the animals to talk..had they spend more time on character development and originality there would have been nothing to criticize. In their defense having an original alien movie would be difficult...after all there are so many alien movies out there.",
-      "review_date": "2010-06-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Are the visual effects breathtaking? Of course, but it's absolutely unforgivable to give credit to a near scene by scene re-make of Disney's Pocahontas. No one in all of Hollywood could come up with an original script for what was Are the visual effects breathtaking? Of course, but it's absolutely unforgivable to give credit to a near scene by scene re-make of Disney's Pocahontas. No one in all of Hollywood could come up with an original script for what was to be potentially a breakthrough in 3D filming? I refuse to believe there are no ideas left in Hollywood, but obviously you can't get a screenplay made unless it came from a graphic novel or is outright stolen from a previous script(whether it was good or not). It's just a sad shame.",
-      "review_date": "2010-06-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was a piece of crap. A predictable storyline that plays on some of the most racist character archetypes I've ever seen in a modern film. People say, OMG, the film looks so realistic, who cares about the plot? Yea, so did This movie was a piece of crap. A predictable storyline that plays on some of the most racist character archetypes I've ever seen in a modern film. People say, OMG, the film looks so realistic, who cares about the plot? Yea, so did Jurassic Park, and that film came out 17 years ago, but still managed to have a unique story, with great characters, and a good Aesop. Industries give consumers what we demand. If we are complacent with the tripe they give us, that's all we will get. If all we ask is a film look really good, and nothing else, that's all we will get. A film that looks good, and nothing else. I enjoy seeing films with good stories, and if we don't continue to demand such films, we won't get them.",
-      "review_date": "2010-05-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was pretty to look at, but was nothing more. The story was copied and not very good. Besides, the acting was nothing special.",
-      "review_date": "2010-05-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Cool animation but the anti-american rhetoric was repulsive. Reminded me of a cross between Small Soldiers and The Crucible.",
-      "review_date": "2010-05-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Well, Avatar Quite possibly the most overhyped movie of all time. Acting is average at best, the plot is unoriginal and was carried out far better in movies released a little over 2 decades ago. However, the visuals are breathtaking, but Well, Avatar Quite possibly the most overhyped movie of all time. Acting is average at best, the plot is unoriginal and was carried out far better in movies released a little over 2 decades ago. However, the visuals are breathtaking, but thats pretty much the best part of this movie. In short, if you're going to spend a decade making a movie might as well give it an original story.",
-      "review_date": "2010-05-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's ok, not that awesome, but ok. It's long, and it has a lot of good parts. Problem is i'm not a kind of person for this kind of movie, and i was rather bored in a lot of parts. ANother thing i didn't like(my personal It's ok, not that awesome, but ok. It's long, and it has a lot of good parts. Problem is i'm not a kind of person for this kind of movie, and i was rather bored in a lot of parts. ANother thing i didn't like(my personal opinion) was that all the cool characters died and we were left with a blue smurf and his blue gf, reminded me of that song Blue by eifel65(i wonder why).",
-      "review_date": "2010-06-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "james cameron, stop trying to shoving life lessons down my throat and wow me with visual effects, make a good movie without sam worthington your boyfriend.",
-      "review_date": "2011-02-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Avatar is a great movie, but just how great is it? While I thought it was pretty cool that they based all the air and space craft on ones from the Halo series, the story was a bit of a disappointment. I was never really into Pocahontas orAvatar is a great movie, but just how great is it? While I thought it was pretty cool that they based all the air and space craft on ones from the Halo series, the story was a bit of a disappointment. I was never really into Pocahontas or Ferngully when a was younger, and I was never into old movies like Dancing with Wolves, so the story of Avatar did not really stick out to me. Visually the film was quite enticing with it's colourful scenery, it was not all that interesting because of the story. Avatar had much potential, but I am not so sure it lived up to its potential.â",
-      "review_date": "2010-11-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Congratulations to the special effects and the graphics and the 3D! But, the movie itself is so ridiculous and cheesy. It's terrible. James Cameron can't write a good script. This could have been done a lot better. And, honestly, I'm notCongratulations to the special effects and the graphics and the 3D! But, the movie itself is so ridiculous and cheesy. It's terrible. James Cameron can't write a good script. This could have been done a lot better. And, honestly, I'm not interested in watching sequels.",
-      "review_date": "2011-08-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Overrated. Storyline is predictable, I mean the trailer itself showed what is going to happen already. I don't care if its the highest grossing film ever. I am not going to judge the film a high rating because of that..",
-      "review_date": "2011-06-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "hurr hurr hurr look at me i use words like mediocre performance and other intelligent sounding words when the only thing i dont like about the movie is that its made the most money ever. Im a rebel i go aqainst what everyone else says just sohurr hurr hurr look at me i use words like mediocre performance and other intelligent sounding words when the only thing i dont like about the movie is that its made the most money ever. Im a rebel i go aqainst what everyone else says just so i can be different from the crowd even though i secretly love this movie hurr hurr hurr",
-      "review_date": "2013-10-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Kids will like this movie better than adults because the story is very hackneyed and cliched. Any adult will have seen it several dozen times already, so to see it again, in a long drawn out overly long movie, is as tedious as he!!. But kidsKids will like this movie better than adults because the story is very hackneyed and cliched. Any adult will have seen it several dozen times already, so to see it again, in a long drawn out overly long movie, is as tedious as he!!. But kids who have never seen any version of this story before, might like it. The story lacks any nuance. The good guys are the indigenous people without technology who worship a tree. The bad guys are the people from earth, who have lots of technology and calmly drink coffee in their helicopters while they blow the primitive people to smithereens from the air. Like someone else said, it is a 3 hour public service announcement. And it lacks any kind of character development.\r And by late 2014 standards, the effects - the blue people - look absurdly fake and cartoonish. I can't believe today that people were impressed by this just a few short years ago. It is a visual joke.",
-      "review_date": "2014-12-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Visually, this film dazzles and amazes.  Story- this film is an overly preachy and overly long and an overblown film.  I really didn't like it at all.  My opinion.  There you go.  Oh and the 3D, made me sick.",
-      "review_date": "2013-07-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A bland, cliched story with average acting and although the special effects are superb, it doesn't stop the film from being a mediocre bore-fest that you'll forget in a couple weeks time.",
-      "review_date": "2013-09-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Avatar is probably the most beautiful film you'll ever see. The visual effects and the story... it's amazing! James Cameron has created a living world, a world that you'll never forget. The film really caught my heart!",
-      "review_date": "2010-01-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Only thing missing was Mel Gibson and the English (Braveheart). Glad the bad guys were contractors (Blackwater types) and not active duty Marines.",
-      "review_date": "2010-01-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "First off let me make one thing clear, I saw this movie in 2d. Having said that, I thought the movie was still pretty good. Visually the movie looks great and the world of Pandora is gorgeous. Unfortunately, since I wasn't watching it First off let me make one thing clear, I saw this movie in 2d. Having said that, I thought the movie was still pretty good. Visually the movie looks great and the world of Pandora is gorgeous. Unfortunately, since I wasn't watching it in 3d I wasn't as sucked into the world of Avatar as I would've otherwise. As far as plot goes the movie does a nice job. The characters and setting are great and the one guy having two identities keeps things interesting as he struggles to find out who he really is. Also, the story in Avatar Humans vs. Navi is different but at the same time very familiar, which I like. My one criticism is where the movie ends. (SPOILIERS ALERT) I really don't like how the Navi defeat the humans because it feels almost forced in there. A more appropriate ending would be when the Navi set off to fight the humans. As a result, of adding on the climactic battle, the movie was too long for my tastes and started to drag. Avatar is the one movie that everyone should see particulary in 3d. You will be amased at the amount of detail in Pandora and find the plot to be very interesting. If you are a parent, bring your kids because to some extent, Avatar will provide them the same joy that a Star Wars movie would.",
-      "review_date": "2010-01-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing movie. I liked it even more the second time. It will revolutionize the way movies are made from now on.",
-      "review_date": "2010-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I don't understand why some people are down on this movie; I though it was great. The world of Pandora and the Na'vi is impossible not to get sucked into. The visuals are gorgeous. The story, which seems to be the biggest I don't understand why some people are down on this movie; I though it was great. The world of Pandora and the Na'vi is impossible not to get sucked into. The visuals are gorgeous. The story, which seems to be the biggest complaint, is there to pull you into this world and it does a pretty fine job. As for the length of the movie, you'll be too captivated to notice how long it is. Overall, I think you have to be pretty cynical not to fall in love with this world.",
-      "review_date": "2010-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not someone who gets impressed by much but sat there afterwards thinking I had seen something groundbreaking in 3D and realistic computer graphics. Yeah there are better stories out there, but.......wow!",
-      "review_date": "2010-01-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It was a great movie! The visual effects were stunning, the story was a bit longer than it needed to be, but I'd rather have a complete story go a bit beyond than to have a story that has some major holes in it. The message was great It was a great movie! The visual effects were stunning, the story was a bit longer than it needed to be, but I'd rather have a complete story go a bit beyond than to have a story that has some major holes in it. The message was great and the acting/3D universe was, again, amazing. I rarely go to movies in the theaters any more (because it costs so much) but this one will warrant another viewing on the big screen. I saw it in the 3D version and it was definitely worth the extra $3.00. Go and enjoy this Action/War/Love/Sci-Fi Movie, you won't regret it.",
-      "review_date": "2009-12-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Dances with Smurfs, Pocahontas3D: take your pick. Then add in some hypocritical white guilt and you have Avatar. Cameron is a fine film-maker, but this is just dross.",
-      "review_date": "2009-12-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Astounding movie. You have to like fantasy films. Also you have to like nature saving type films like Final Fantasy or Pocahantus. If you are into all that then definitely see it and see it in 3D!",
-      "review_date": "2009-12-25",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 138
+    "title": "Avatar",
+    "rating": 7.5,
+    "release_date": "2009-12-18",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+    ],
+    "summary": "Jake Sully is a former Marine confined to a wheelchair. But despite his broken body, Jake is still a warrior at heart. He is recruited to travel light years to the human outpost on Pandora, where a corporate consortium is mining a rare mineral that is the key to solving Earth's energy crisis. Because Pandora's atmosphere is toxic, they haveJake Sully is a former Marine confined to a wheelchair. But despite his broken body, Jake is still a warrior at heart. He is recruited to travel light years to the human outpost on Pandora, where a corporate consortium is mining a rare mineral that is the key to solving Earth's energy crisis. Because Pandora's atmosphere is toxic, they have created the Avatar Program, in which human \"drivers\" have their consciousness linked to an avatar, a remotely-controlled biological body that can survive in the lethal air. These avatars are genetically engineered hybrids of human DNA mixed with DNA from the natives of Pandora... the Na'vi. Reborn in his avatar form, Jake can walk again. He is given a mission to infiltrate the Na'vi, who have become a major obstacle to mining the precious ore. But a beautiful Na'vi female, Neytiri, saves Jake's life, and this changes everything. Jake is taken in by her clan, and learns to become one of them, which involves many tests and adventures. As Jake's relationship with his reluctant teacher Neytiri deepens, he learns to respect the Na'vi way and finally takes his place among them. Soon he will face the ultimate test as he leads them in an epic battle that will decide the fate of an entire world.  (20th Century Fox)\r\u2026 Expand",
+    "critic_reviews": [
+        "A fully believable, flesh-and-blood (albeit not human flesh and blood) romance is the beating heart of \"Avatar.\" Cameron has never made a movie just to show off visual pyrotechnics: Every bit of technology in \"Avatar\" serves the greater purpose of a deeply felt love story.",
+        "It's been twelve years since \"Titanic,\" but the King of the World has returned with a flawed but fantastic tour de force that, taken on its merits as a film, especially in two dimensions, warrants four stars. However, if you can wrap a pair of 3D glasses round your peepers, this becomes a transcendent, full-on five-star experience that's the closest we'll ever come to setting foot on a strange new world. Just don't leave it so long next time, eh, Jim?",
+        "Once again, [Cameron] has silenced the doubters by simply delivering an extraordinary film. There is still at least one man in Hollywood who knows how to spend $250 million, or was it $300 million, wisely.",
+        "This is, simply put, one of the most beautiful movies you\u2019ll ever see.",
+        "A quantum leap in movie magic; watching it, I began to understand how people in 1933 must have felt when they saw \"King Kong.\"",
+        "Avatar's shock and awe demand to be seen. You've never experienced anything like it, and neither has anyone else.",
+        "Glorious and goofy and blissfully deranged.",
+        "Avatar is entertainment of the highest order. It's the best movie of 2009.",
+        "At the end of a decade defined by much bellyaching about \"the death of cinema\" (including, on occasion, by this critic), Avatar concludes, appropriately enough, with an image of rebirth.",
+        "Pantheism, Cameronism: In Avatar, what's the diff? Now he's king of a world he made from scratch.",
+        "Cameron\u2019s epic can still thrill the audience with breathtaking set pieces, bring them to tears with moving moments, and amaze people willing to explore a fantasy land like no other. Every frame is developed with such care that the movie remains one of the most beautiful works of art ever created by Hollywood. [2022 re-release]",
+        "Avatar is all-enveloping and transporting, with Cameron & Co.'s years of R&D paying off with a film that, as his work has done before, raises the technical bar and throws down a challenge for the many other filmmakers toiling in the sci-fi/fantasy realm.",
+        "Embrace the movie -- surely the most vivid and persuasive creation of a fantasy world ever seen in the history of moving pictures -- as a total sensory, sensuous, sensual experience.",
+        "The movie's story may be a little trite, and the big battle at the end between ugly mechanical force and the gorgeous natural world goes on forever, but what a show Cameron puts on! The continuity of dynamized space that he has achieved with 3-D gloriously supports his trippy belief that all living things are one.",
+        "Much of the time, though, you're transfixed by the beauty of a spectacle that seems all of a piece. Special effects have been abolished, in effect, since the whole thing is so special.",
+        "Is it or is it not stupendously friggin' rad? And the answer is yes. For most of the first hour, a good portion of the second, and even many of the 40 minutes left after that, Avatar is stupendously friggin' rad.",
+        "Avatar may be derivative, but it\u2019s not insincere. Cameron clearly feels every beat of the story along with his viewer. He lets us discover Pandora through Jake Sully\u2019s (Sam Worthington) eyes, first as a fearsome, terrifying place, then as a land of unimaginable awe and delight. [2022 re-release]",
+        "It's thrilling and lovely and sad and explosive in all the right ways, and it needs to be seen \u2013 on the big screen, in 3-D \u2013 to be believed.",
+        "Tone-deaf but thunderously exciting.",
+        "Rarely less than absorbing and never boring over its nearly three-hour length.",
+        "An entertainment to be not just seen but absorbed on a molecular level; it's as close to a full-body experience as we'll get until they invent the holo-suits. Cameron aims for sheer wonderment, and he delivers.",
+        "Avatar delivers. Combining beyond-state-of-the-art moviemaking with a tried-and-true storyline and a gamer-geek sensibility - not to mention a love angle, an otherworldly bestiary, and an arsenal of 22d-century weaponry - the movie quite simply rocks.",
+        "If I never felt entirely transported by Avatar, it's probably because the story thudded just as often as the imagery soared. But Pandora is still a good place to park yourself for three hours.",
+        "Is it a great movie?  Maybe not.  But it is a great step forward in moviemaking.  Shrug it off if that makes you feel better, but starting today you live in a post-Avatar movie world.",
+        "The first 90 minutes of Avatar are pretty terrific - a full-immersion technological wonder with wonders to spare. The other 72 minutes, less and less terrific.",
+        "As visual spectacle, Avatar is indelible, but as a movie it all but evaporates as you watch it.",
+        "The scenes in Pandora -- a planet with an Earth-like environment -- are so breathtaking that the narrative seems almost beside the point.",
+        "Titanic technical achievement.",
+        "By presenting Avatar in 3-D, Cameron is staking his claim and building a fence around his own precious resource, making it unobtainable on any but his own terms to increasingly emboldened and technologically savvy natives.",
+        "Avatar is a king's ransom fairly well spent, not least because Cameron's invitation into his superbly crafted universe comes with an unexpected price: He makes it easy to gaze fondly on all this movie magic, but only in exchange for a hard look at ourselves.",
+        "Vast, beautiful and meticulously detailed.",
+        "Avatar is a technological wonder, 15 years percolating in King Cameron's imagination and inarguably the greatest 3-D cavalry western ever made. Too bad that western is \"Dances With Wolves.\"",
+        "Whatever faults Avatar may have -- and there are many -- the movie succeeds in immersing you in a photorealistic, painstakingly detailed world more fully than any science fiction movie before.",
+        "The question lingers as the movie comes to its triumphant body-swapping close: Is this a pro-environment parable or a prophecy of virtual realities yet to come? Cameron's new world may very well be a verdant Matrix.",
+        "Avatar clears the hurdle in terms of being optical candy. Its story, though, is pure cheese.",
+        "Avatar is a weak patchwork of his other films: the leaden voiceover from \"Terminator 2\" here, the military/civilian conflict from \"Aliens\" there, even a Jack-and-Rose-style forbidden love story cued to adult-contempo soundtrack.",
+        "It is a very expensive-looking, very flashy entertainment, albeit one that groans under the weight of clumsy storytelling in the second half and features some of the most godawful dialogue this side of \"Attack of the Clones.\"",
+        "The sheer laborious silliness of Avatar feels like harder work the second time around and its essential problem is more prominent. [2022 re-release]"
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Despite \"Avatar\"'s heavy plot, Blockbuster king James Cameron impresses us with fantastic visuals and CGI of the Na'vi and human battle scenes in (Le Gasp!) 3D.",
+            "review_date": "2011-09-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Graphics phenomenal but story sucked. Unubtainium, really? They couldn't have come up with anything better.",
+            "review_date": "2010-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absurdely overrated. cgi masturbation with a lackluster plot and ridiculous neo-hippie fairy-tale.",
+            "review_date": "2010-06-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great visuals and effects, but thats simply all that Avatar has to offer. No story, viciously bad overacting and dialogue older than Sigourney Weaver herself. Very boring and far too long.",
+            "review_date": "2010-05-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Eh, yeah its all 3D, yeah its got allot of special effects and costs allot, yeah its got blue alien boobs, but other than that there is nothing here. Terrible cliche, hole-filled plot leaves you bored. Its kind of amazing how you can have Eh, yeah its all 3D, yeah its got allot of special effects and costs allot, yeah its got blue alien boobs, but other than that there is nothing here. Terrible cliche, hole-filled plot leaves you bored. Its kind of amazing how you can have such a crappy plot and waste 4 hours on it. After you watch it you think its good at first, but that is just an effect from the CGI and 3D. Soon you will realize how lame it is. \"the Eywa sees you!\" ugg soooo cheesy.",
+            "review_date": "2010-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I legitimately have no idea how this film has been getting so many positive reviews. Someone once said great films were a combination of technical innovation and artistic achievement. While Avatar certainly nails the technical side, it'sI legitimately have no idea how this film has been getting so many positive reviews. Someone once said great films were a combination of technical innovation and artistic achievement. While Avatar certainly nails the technical side, it's artistic half leaves a lot to be desired.A by-the-numbers cookie-cutter plot with poor writing and awful dialogue.",
+            "review_date": "2010-09-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Literally the best movie I have ever seen. I was completely and totally blown away. This is the first movie in my entire life where I didn't want it to end.",
+            "review_date": "2010-01-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Avatar!! A game? No. When people hear the word avatar, most would think of a game character but in this case, it brings a new meaning to the word avatar, literally. James Cameron not only the writer but also the director of the movie \u201cAvatar\u201dAvatar!! A game? No. When people hear the word avatar, most would think of a game character but in this case, it brings a new meaning to the word avatar, literally. James Cameron not only the writer but also the director of the movie \u201cAvatar\u201d (2009) has brought everyone\u2019s dreams into reality by utilising the modern art of visual cinematography and 3-D imaging to blur the lines of virtual reality, making it more realistic. Cameron has also utilised certain star actors such as Sigourney Weaver and Sam Worthington who have won multiple awards in the past to play crucial roles in his film.The movie being in the category of fantasy/science fiction, it begins in the future or more precise, year 2154 and one the many themes of the movie is protecting the environment.Involving the military, they set off on a mission to collect, colonise and learn from the new planet, Pandora. Their main task for this operation is to collect a rich mineral that Earth desperately needs more of and they recently found that there was an abundant amount under their village.Unobtanium, the mineral, they need to save their energy crisis or to put it bluntly, to survive and is what keeps the project running. Those who went had to be in cyrosleep as Pandora, the new planet is 4.4 light-years away from Earth. The movie is both a show and tell with its incredible graphics of a new world, its nature and of course the natives, the Na\u2019vi, blue people who stand at 10 feet tall and its story plot of the mission to collect the resources and a turn of events after the main protagonist learns about what was going to happen if the mission proceeds.I like how the actors played their parts well, and not just with their words but with actions as well. Some actors in movies struggle and get nervous and would cause themselves to not sound or seem natural. Zoe Saldana who played Neytiri, the Na\u2019vi princess, was perfect for playing the role in this film as she could not only play the part but was actually able to get into character for this film. For example, she manages to accept a different accent to mimic being a native Na\u2019vi.The computer-generated imagery also known as CGI, can only capture the movement and facial expressions in animated forms, but it is the actors job to give life to their characters. The director, not only did he capture the motion, but also the intent of the actors to make his characters even more realistic.There are of course strengths and faults in this movie just like any other. One of the biggest faults in this movie is that the transitions from one angle to another is a little off but hard to notice. For example, a different hand positioning from a camera angle to another and mild nudity of the natives as another fault. The strength of this film is that it follows its theme and executes it as the film goes towards the end, they of course follow up and was able to save the environment from the destruction.Overall, I think the movie \u201dAvatar\u201d is a great film. It being rated as PG-13 is at minimal as the faults of those who are younger would have to watch the violence and mild nudity. I personally enjoyed the film and it left me in amazed and if you haven\u2019t seen it yet, then I suggest you go see it now. It would not only leave you at the edge of your seats but also keep your blood pumping . 7\u00bd out of 10",
+            "review_date": "2017-05-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I watched ''Avatar'' first time when it released in cinemas in 2009 and yesterday I watched it again, actually I found a lot of deference, at first time I just found it as a normal movie (TV movie) with some visual effect, but now when II watched ''Avatar'' first time when it released in cinemas in 2009 and yesterday I watched it again, actually I found a lot of deference, at first time I just found it as a normal movie (TV movie) with some visual effect, but now when I watched it again I found it purely a masterpiece.I saw some negative reviews and most of them wrote ''same clich\u00e9'', really guys?! What do you want more than that?! Every part in the movie is perfect starting from plot to visual effects until the performance.If I want to talk about visual effects I couldn't stop, the designers of ''moon Pandora'' they couldn't design better than this, it seems so realistic and breathtaking, beside Pandora's animals, plants, trees and people, everything perfect.I like the plot also, it's showing how the humans are savages, unlike others aliens movies that show the aliens are the enemy and the humans are innocents, the story is really reflecting our lives, we already ruined our earth by wars, killing animals and cutting trees, and it will be same if we control another planet.''Avatar'' is one of the greatest movie in the history of cinema, and I would like to thank the genius director and writer ''James Cameron'' and the whole cast for this masterpiece, and I hope \"Avatar 2, 3 & 4'' will be as same as this.",
+            "review_date": "2019-06-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There's a certain something to be said about the power of a visually strong movie like Avatar. It's kinda like a sleazy, but charismatic sales person. You like the person while your in his office, cause he just reeks of charm (or cigarettes)There's a certain something to be said about the power of a visually strong movie like Avatar. It's kinda like a sleazy, but charismatic sales person. You like the person while your in his office, cause he just reeks of charm (or cigarettes) and you buy in to his pitch, cause he's good at what he does, but when you leave the store, you find that you really didn't like the product that much after all. That's kinda how I feel about Avatar. The movie's visuals are amazing and I would say that nothing will be defeating it anytime soon as far as that goes. But when you brush away all that, what you're left with isn't necessarily a bad movie, but an average to ok one. I say this because most of the time I spent watching it was marveling at the amazing visuals that Cameron's team presented us. That part I can't heap enough praise on, but other than that, the story of the movie pretty much comes across as a straight up black and white morality play. I can understand the \"it's just a movie\" that people may say to that kind of suggestion, but where it doesn't hold up is when you try to pass the movie off as a political/social statement about our society. Nothing in reality is ever black and white, and to do so discredits a lot of what makes us a very complicated, arrogant, and interesting species. Aside from it's horrid attempts to justify why our material world is wrong, the story presents the humans as evil, greedy, and violent; but the Na'vi are peaceful, harmonious, and coexist with nature. Of course the main character ends up going native, finds he likes the tribe more, and then sides with them in the upcoming inevitable bloodbath, and the usual sequence of most big budget movies plays out with no originality whatsoever. Still the movie does entertain, even though it provides a mixed message, and there are some very interesting moments. The real credit to Avatar is the level of thought put into the actual world itself, and here the production/design team did a remarkable job in making Pandora a reality. To me it's a shame that they went for a more simplified story of good and evil as opposed to something more complex and real, but I guess that was never their intention in the first place. It probably wouldn't have been as successful in the theatres if it was. A simple message doesn't mean a bad one, but in this case it was more of a typical one.",
+            "review_date": "2010-10-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A film which certainly relies too much on its special effects. Peel back the visuals and you get a weedy storyline, ending in a an overextended battle. Having said this, I love the feeling of old against new traditions and the Avatar World isA film which certainly relies too much on its special effects. Peel back the visuals and you get a weedy storyline, ending in a an overextended battle. Having said this, I love the feeling of old against new traditions and the Avatar World is incredibly creative and involving. The music is also very magical.",
+            "review_date": "2011-09-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "You know how some movies and series are all story and no special effects, and they are still awesome, like Dr Who, and Red Dwarf, and animation. Well, Avatar is the exact opposite. A tech demo of what budget can do in this day and age, butYou know how some movies and series are all story and no special effects, and they are still awesome, like Dr Who, and Red Dwarf, and animation. Well, Avatar is the exact opposite. A tech demo of what budget can do in this day and age, but that is it.\r Lame recycled story, copied scenes, it's like someone cut some scenes from other movies and re-animated them on a PC with blue people.\r The only redeeming quality of the story, frankly, is the fact that the humans are somewhat accurately portrayed. Villains, but not idiotic unexplained villainy, but a nice blend of excusable and inexcusable.\r This is a movie that is seen, not understood. Eye candy, and not a very good one at that. The people are blends of 2 Earth animals, the animals are blends of 2 Earth animals, basically, it's just a jungle people story with cream on top.\r Under no circumstances is this movie a high scorer. Tech demo, 10. Movie, 5 because of the experience. Seriously, if seeing a movie on a small 2D screen makes it sucky, then it was sucky to begin with.",
+            "review_date": "2013-08-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wow, what a movie.  Maybe it is just all of the subpar Netflix movies I have been watching recently, but  \u201cAvatar\u201d has aged exceptionally well in the 11 years since its release.  The battle sequence actually has emotional resonance.  I haveWow, what a movie.  Maybe it is just all of the subpar Netflix movies I have been watching recently, but  \u201cAvatar\u201d has aged exceptionally well in the 11 years since its release.  The battle sequence actually has emotional resonance.  I have seen so much war in Star Wars, Lord of the Rings, and Marvel movies, but I never cared about any of them.  Cameron got me invested in a way none of the others could.  If you can enjoy a roller coaster movie, you should love this one, especially if you have a solid theater system.  If you can find a way to watch this as it was intended, in 3D, by all means do it, but even in old fashioned 2D, it was amazing.I don't know what percentage of the Neytiri character is Zoe Saldana vs. the animators, but somebody deserves an award for that role. There is a deep passion expressed by her that is very rarely captured on film.  I give it an A, make a point to go see this movie.",
+            "review_date": "2021-03-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love this movie. It is a movie in 2154. But I learn we need to protect our environment. The planet is beautiful. But greedy humans try to make profits and destroy Navi's. Preserve our nature!",
+            "review_date": "2020-07-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is not the best movie ever made, but by far one of the most influential ones. I Really liked the \"extended version\" actually. It has more \"world-building\" into it. Story is good, I really have not much bad to say. It is  a weird movieThis is not the best movie ever made, but by far one of the most influential ones. I Really liked the \"extended version\" actually. It has more \"world-building\" into it. Story is good, I really have not much bad to say. It is  a weird movie but looking back it was ahead of it's time and now can be understood easier. When it came out, it was overrated. But... people still talk about it today, so there must be a reason, reasons!It was the best looking CGI movie when it came out.Sure, movie has tons of problems that I would say are \"cringy\", but have you seen the documentary about it? The impact of this movie still can be seen today. I actually don't remember any movie like this, this is completely original movie, without \"MCU-like\" setups or part of already set \"universe\" like James Bond for example. This was the most expensive movie ever made and most successful movie of all time (until Endgame).And it did not even have that expensive cast like, Endgame.It has enough interesting things inside than any blockbuster movie.This is cyberpunk, fantasy, Jurrasic-park-ish and space movie at the same time. Dialogue is good, not boring, pacing is great, not boring.The characters are really well made. This is one of the few movies that deserve the word: EPIC",
+            "review_date": "2020-12-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Your Time Is Running Out AvatarIn a few weeks, Avatar will likley no longer be the all time Box Office champion, But 10 years later it remains one of the best visual experiences out there.",
+            "review_date": "2019-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I confess that this film never really caught my eye until I read about it. I still remember when it was in theaters more than ten years ago. More recently, I decided to see it. The film was a success, as we all know, and I find it surprisingI confess that this film never really caught my eye until I read about it. I still remember when it was in theaters more than ten years ago. More recently, I decided to see it. The film was a success, as we all know, and I find it surprising that I didn't have the right to any sequels.The script takes place in a distant future, when humans have ruined the Earth but are colonizing and exploring other planets like Pandora, where Jake Sully, a veteran of the Marines, is going after being recruited by a scientific program. Pandora has a rare and valuable ore that humans want, but it also allows the planet to have an exuberant and unusual biological life. It happens to be inhabited by natives called Naavi (who look like huge blue humans with a long tail), and they are determined to protect their world from the greed of the Terran's. Sully joins the Avatar Program, which allows him to remotely control the body of a Naavi. If the program allows humans to live and learn from them (as its director, scientist Dr. Grace, wants), it also turns them into Trojan horses (as Colonel Miles, commander of the military forces in Pandora, wishes). This will put Sully in a conflict of loyalties while allowing him to see how the natives are connected to their world and are inseparable from it.The plot raises a number of pertinent questions. We can, for example, reflect on the way we have lived and managed our planet, on the superiority with which we see who is different from us, on how we despise the environment or deliberately harm it by greed, on our passion for war instead of peaceful conflict resolution or even about how technological and medical advances do not reach everyone and are put at the service of some wealthy people instead of being available to all. It is a script that makes you think and could be seen in many ways. Unfortunately, the story built on these premises is not so good. There is good material and the way Sully is divided in his loyalty as he lives with the natives is the backbone of the whole thing, but everything else is quite predictable and one-dimensional, and sometimes it sounds bad: humans are treated in a simplistic way and turned into despicable creatures, while the Naavi are idealized to the fullest. The old story of \"good guys and bad guys\".Sam Worthington shows all his talent in a demanding and likeable character. He plays well with Zoe Salda\u00f1a, his alien romantic couple. The actress is excellent and was having a good time in her career then. I also liked the work of Sigourney Weaver, in the role of a strong, bossy and grumpy scientist, who is guided by her ideals even if it means facing the military. But the best of the cast ends here. The rest are reduced to one-dimensional and stupid characters, as is the case with Stephen Lang (the \"brute like the stones\" colonel who only thinks about his mission), Michelle Rodr\u00edguez (the military hot girl who decides to collaborate with the \"goodies\" instead of helping the \"baddies\"), Giovanni Ribisi (one of the\" baddies\"), Joel David Moore (one of the\" goodies\"), Laz Alonso, CCH Pounder, Wes Studi (the \"perfect ones\") etc. This was somewhat disappointing in a film with so many qualities and such a high budget.It is in the technical aspects that this film excels. Directed by James Cameron, an avid fan of the green screen and a \"rival\" of Spielberg, it's a film that was built on top of an entire digital world. Thanks to this feature, Cameron can become a god for a minute and create a new universe with plants and animals that we have never seen and that exude beauty. The film has a spectacular cinematography and it does not pass five minutes without, in some way, making us hold our breath before such a show of color and light. Sound effects are very well-used also. Together with an epic and magnificent soundtrack by James Horner, we have the recipe for a blockbuster film that collected three Oscars in technical categories (Best Cinematography, Best Visual Effects and Best Art Direction), with all the fairness and merit. I really feel sorry that I didn't see it on the big screen and that Cameron is so careless when it comes to the script and the story he tells us.",
+            "review_date": "2020-12-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Avatar - Breathtakingly BeautifulWhen movies are created, they are done so with intent. Different genres of film target specific audiences, a formula which has sustained Hollywood and it's industries since the beginning of the blockbusterAvatar - Breathtakingly BeautifulWhen movies are created, they are done so with intent. Different genres of film target specific audiences, a formula which has sustained Hollywood and it's industries since the beginning of the blockbuster movies. When a movie is created in a manner that sets in motion any given goal, said films success is pendant on whether or not that goal is reached. If a comedy creates laughter, or if a romance produces tears, then they are successes in their own right. So when a massively ambitious, seemingly impossible to create film aiming to usher in a new era manages to grab hold of it's audience and take them on an unprecedented cinematic roller coaster ride that delivers the goods every turn of the way, it can be considered successful. Avatar is that success.A work in progress that spanned a decade and a half, Avatar is more than just a film - it's an experience, an event. When James Cameron set out to make this movie back in the mid 90's, he realized that his ambitions were simply too far ahead of their time. His ideas could not be reached in a feasible manner, and due to this, he had to wait. Or create. Once informed that the image he held for this film was one that was out of grasp, he began working on the technology that would bring his masterpiece within reach. Fifteen years and nearly half a billion dollars later, James Cameron has brought that vision to the screen, and has done so in an extravagant and showstopping way.Avatar tells the tale of a war between species, each fighting for the ultimate survival of their race. Desperate to find the fuel for their dying planet, human soldiers and scientists set out from earth and set course for Pandora. A planet connected by all living things, Pandora is home to an indigenous species known as the Na'vi, as well as the precious element Unobtanium needed to save earth. Using transference technology, paralyzed marine Jake Sully is volunteered for the \"Avatar Program\", which enables the thoughts and mind of a human to be placed within the shell of a tube-born Na'vi body. Using this as technique to their advantage, Jake is sent into the harsh Jungles of Pandora in order to bond with the natives, thus gaining knowledge and insight on their ways. Having originally planned to use this knowledge as a means of negotiating the natives relocation, so that the humans can access the deposit of Unobtainium - which just happens to sit below their most worshiped and valued pseudo-deity of their planet.While the plot on paper may read as a standard shoot'em-up action sci-fi flick, it is a near inconceivable task to truly explain how incorrect this appearance truly is. This takes a stroke from every movie, and a dab from every genre, and manages to create a portrait of beauty, in which all pre-existing notion of what cinema can and cannot do is destroyed. Within the lengthy hundred and sixty some odd minutes of film, moviegoers will find that there is always something to keep them enthralled, a merciful gift when considering how tedious many of the longer film of recent memory can become.No matter what can be said about the overtly cheesy script,a criticism that, while holding true, manages to fit charmingly into the over-the-top nature of the film, Avatar does as it set out to do, bringing moviegoers a cinematic experience rather than a film. Relying on the technology that he created, Cameron pours his heart into this movie, and it shows in every scene. Ranging from the absurdly detailed creatures to all-too-realistic planet, this flick manages to tell a fulfilling story while all the while throwing jaw-dropping scenery at the audience, giving them only enough time to recover before bombarding them with yet another breathtaking shot.Be it the fantastical and charming love story told between the native and the outsider, or the too-real-to-be-true action scenes between gunships and foreign ferals, Avatar is what Star Wars was too the 70's, the Wizard Of Oz of the 40's - a masterpiece that will go down in movie history as a game changer of it's time.",
+            "review_date": "2020-11-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nAvatar captures all realms of the human indulgence. It is the perfect form of hero story as well as having a positive message about saving the environment. The movie is extremely creative and imagined. We are presented with a new language called the Na'vi, a new goddess named Eywa who is presumed one with nature, and new fundamental lifeforms that engulf your imagination. The idea of the human controlled Avatars is something unprecedented. It makes the movie fun and at the same time plausible because the world of Pandora is so substantial and inhumane, that mankind is forced to create organic bodies that can not only survive but explore the land efficiently. The Avatars are controlled by people with similar DNA from a tranced state that allows them to connect into the body. The plot of the movie is also one that is imaginable yet realistic. In the year 2154, U.S. armed forces embark on a journey to an earth-like planet called Pandora. On Pandora there is an element called Unobtainium that is extremely valuable. When humans discover that there is a substantial amount of Unobtainium under a large tree called \"Home Tree\", where the natives live action needs to be taken. Jake Sully (Sam Worthington) gets lost on a botanist mission and ends up at Home Tree, and the only reason he wasn't killed is because Eywa showed the natives a \"sign\" not to kill him. Since Jake is able to join and train as a native, the humans want him to convince the natives to leave their tree, in able to attain the unobtainium. Jake learns in conclusion that there is nothing the natives want and refuse to move from their home, therefore humans take force and destroy their home. The Na'vi are not advanced people, they live among nature and are smart with which creatures they interact with. Because Jake learns the importance of being a Na'vi he begins to choose sides and understands what is morally right. Dilemmas arise due to the natives not trusting Jake for his betrayal-like actions, and humans don't because he refuses to help the humans fight the natives. What will turn out for Jake and where will the Na'vi people go? This movie is an action packed thriller with imaginative fun and fight distributed throughout the film. We are introduced to many creatures including the Ikran (a huge flying bird-like creature), and the pa'li (a large horse-like creature). These animals play a significant role in the movie's structure by adding awe inspiring moments and serenity. The film never feels long and concludes with the ultimate warfare that has a special element that comes as a true surprise",
+            "review_date": "2018-10-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I was really blown away with this film.  Hands down the best 3D movie I have seen.  You could argue that the plot is the same as Dances with Wolves or even Fern gully except with blue aliens, but I don't care.  This movie is absolutely wonderful.",
+            "review_date": "2018-11-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Mind-blowing, colorful, immersive, incredible CGI, amazing cinematography & visuals, this movie truly was ahead of it's time.",
+            "review_date": "2021-10-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With Avatar and Aliens we know that Cameron really nails the whole space Marine thing. It has its flaws but this is a really good movie. I know it's not his wheel house storywise but knowing he did the Abyss, I would be all-in for a CameronWith Avatar and Aliens we know that Cameron really nails the whole space Marine thing. It has its flaws but this is a really good movie. I know it's not his wheel house storywise but knowing he did the Abyss, I would be all-in for a Cameron film adaption of Forever War by Haldeman.",
+            "review_date": "2020-01-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolutely fantastic film. I finished watching the extended cut and although the story is similar to Pocahontas it's still a really good story. The visual are amazing and being lots of depth to the world of Avatar. The score is also reallyAbsolutely fantastic film. I finished watching the extended cut and although the story is similar to Pocahontas it's still a really good story. The visual are amazing and being lots of depth to the world of Avatar. The score is also really good and the you get connected with the characters. There are a few potholes for sure, but still the story is worth watching. I can't wait foe Avatar 2",
+            "review_date": "2020-04-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This visually stunning work of art succeeds spectacularly in its magnificent beauty as it does in its emotionally driven love story which explores important themes in the most perfectly exciting and deeply rich way that brings new life to theThis visually stunning work of art succeeds spectacularly in its magnificent beauty as it does in its emotionally driven love story which explores important themes in the most perfectly exciting and deeply rich way that brings new life to the sci-fi genre. Avatar is not only the greatest science-fiction film of all time, but also one of the greatest films of all time and is a truly outstanding spectacle upon its genre.",
+            "review_date": "2020-05-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film, no matter how many times I watch it, always at the end it will make me feel like a child again",
+            "review_date": "2021-07-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A James Cameron masterpiece, avatar is a brilliant movie with amazing CGI, great cast of characters, and remarkable storytelling which had me in tears at-least four times!",
+            "review_date": "2021-08-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Superb special effects can't make-up for a predictible plot and so-so acting. See it in 3D at the theater--no need to ever see this movie on the small screen.",
+            "review_date": "2010-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I struggle to understand how anyone can be so sucked in by the graphics that they overlook the recycled plot, terrible dialogue and mediocre performances. If indeed it does change cinema forever then it's a sad day for film-making when I struggle to understand how anyone can be so sucked in by the graphics that they overlook the recycled plot, terrible dialogue and mediocre performances. If indeed it does change cinema forever then it's a sad day for film-making when focussing on the 3D is a substitute for trying to make a good film. I'm just thankful I've not met a single person who was \"blown away\", in fact I don't know anyone who'd award it more than a 7.",
+            "review_date": "2010-02-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Too long, vastly over-rated.",
+            "review_date": "2010-04-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Too bad they couldn't afford good writers--the budget was blown on eye candy, but the message is the same old tired anti-Western nihilist propaganda.",
+            "review_date": "2009-12-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Getting past the awe of a fast panning 3D environment--which is difficult for many sci-fi junkies--I grade the movie on what we'll think outside of our temporary giddiness. When we come back to this movie, the lack of depth in the Getting past the awe of a fast panning 3D environment--which is difficult for many sci-fi junkies--I grade the movie on what we'll think outside of our temporary giddiness. When we come back to this movie, the lack of depth in the characterization, the weak attempts at philosophy, and the over stated Gia-Green Earth message will not only bore us, it will insult us. Remember Jar-Jar from Starwars Episode 1. We tolerated him on the first viewing, but has made repeated viewings intolerable. Once the shiny green is gone; the movie will be as well--or we'll just stare with pitiful regret at a box on our shelves.",
+            "review_date": "2010-01-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The special effects, are great. But the movie is nothing more then eye candy, also I found it extermely boring to watch. Small plot with ALOT of filler. See \"dances with wolves\" and just imagine that being set 200 years into the future and The special effects, are great. But the movie is nothing more then eye candy, also I found it extermely boring to watch. Small plot with ALOT of filler. See \"dances with wolves\" and just imagine that being set 200 years into the future and that is exactly what you get! There are numerous silly/dump ideas thought out the whole movie. I really enjoyed Camerons movies from the past, But this is the worst one.",
+            "review_date": "2009-12-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I have not yet seen it, but does this smack of Hollywoods' attempt to bash the US military again? The timing of Iraq and the making of this film cannot be a coincidence.",
+            "review_date": "2009-12-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolutely dire. The effects are not particularly that special, even for 2009 (though it does look pretty) and the story is a horribly executed retreat of a million other films that moves along at a snails pace. The dialogue is awful, theAbsolutely dire. The effects are not particularly that special, even for 2009 (though it does look pretty) and the story is a horribly executed retreat of a million other films that moves along at a snails pace. The dialogue is awful, the characters aren't memorable at all. A tremendous misfire.",
+            "review_date": "2017-12-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When you take away all the special effects and the multi million dollar budget, all you are left with is a mediocre script that feels like something that would have been better as a made for TV animated special. With that being said, theWhen you take away all the special effects and the multi million dollar budget, all you are left with is a mediocre script that feels like something that would have been better as a made for TV animated special. With that being said, the technical aspects are impressive and you can tell that a lot of effort went in to making this movie look great. However, you can only look at a piece of art so long before you start to get bored.",
+            "review_date": "2022-11-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When I first watched this movie I was blown away. It is probably my favourite movie of all-time but then I seen it a second time and I kind of got a bit more bored than the last time I watched it. It's still a great movie though.",
+            "review_date": "2010-12-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great visual effects, film and mounted with a spectacular photography and a magnificent art direction and stunning views, but their enrendo is not the best yet it is still a great movie.",
+            "review_date": "2013-05-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not totally blown away, but i was thoroughly entertained by it. But the film's strongest point is definitely the visuals. Pandora is beautiful and looks realistic. The story, though unoriginal, is still effective for this film. The dialogue,Not totally blown away, but i was thoroughly entertained by it. But the film's strongest point is definitely the visuals. Pandora is beautiful and looks realistic. The story, though unoriginal, is still effective for this film. The dialogue, is bad sometimes, and decent in others. Definitely not a strong point. But if this film needs people to root for, its easy to tell who. If you want 3 hours of great visuals and nothing else, this is your movie.",
+            "review_date": "2010-10-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film reaches a new level when it comes to both technology and creativity. It\u00b4s a really good created alter/reality that will hold your attention with ease during the entire ride. Visuals and atmosphere give this this movie anThis film reaches a new level when it comes to both technology and creativity. It\u00b4s a really good created alter/reality that will hold your attention with ease during the entire ride. Visuals and atmosphere give this this movie an absolute a-status. The created world is absorbing your brain so bad that the average story won't bother you even 1 second. This one shines in utter  greatness!",
+            "review_date": "2012-08-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I was pleasantly surprised by Avatar. I am usually a pretty good judge of movies from their trailers but the trailer for Avatar is filled with some of the more cliched elements. The CGI effects are marvelous and the realization of the world I was pleasantly surprised by Avatar. I am usually a pretty good judge of movies from their trailers but the trailer for Avatar is filled with some of the more cliched elements. The CGI effects are marvelous and the realization of the world of Pandora is very detailed and persuasive. Having read cynical accounts of the plot as \"Dances with Smurfs\" I was also surprised by the story which was not exactly the strength of the movie but also didn't detract too much from the movie going experience. I feel a little sorry for people who become deeply attached to this movie and wrapped up in its reality...but on the other hand, I might even consider going to the movie again in the IMAX version.",
+            "review_date": "2010-01-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My only wish is that they would have made the movie an hour longer. You don't want to leave Pandora. What a truly amazing creation of a world and culture.",
+            "review_date": "2010-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I had heard a lot about \"Avatar\" before seeing it, and the general complaint from most was the movie's lack of originality. Having seen the movie, I would agree that the premise is nowhere near unique, but to me originality shouldn't be theI had heard a lot about \"Avatar\" before seeing it, and the general complaint from most was the movie's lack of originality. Having seen the movie, I would agree that the premise is nowhere near unique, but to me originality shouldn't be the basis for judging the quality of a film. More than anything a truly great movie should be striking, and Avatar is precisely that. James Cameron used his budget ($237m) to create one of the most engrossing environments to ever grace the screen, and pushed the 3D technology (which I don't even like) to the limit. The result is pure spectacle; behind me in the movie theater there was a family with three children and throughout the 2 1/2 hours there were constant exclamations of \"Wow!\" and \"Oohh!\" I would have been slightly annoyed had I not realized I wanted to say the same things, and for a movie to revert a hardened critic like me to a world of pure escapist wonder, I have to give the film credit.",
+            "review_date": "2010-08-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There's more to a movie than a good plot, and I can't think of any movie that demonstrates this better than Avatar. If everything about a movie was amazing except for the story, I feel you can honestly call it a good movie.",
+            "review_date": "2010-01-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nAVATAR (or, as some seem to enjoy calling it, \"The Blue People Movie\", which really should be THE SMURFS, not this) is an adventurous, intense movie, and the best movie you can think of to be the highest-grossing film, both worldwide and in America.  Very few parts of this actually truly ticked me off, but there were a few to name: such as near the ending, when it began to get boring (a habit many creative sci-fi films such as even INCEPTION get into); and when Grace (Sigourney Weaver) died.",
+            "review_date": "2011-08-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "First time watching this your not going to have any negative points, as it will win you over with graphical wizardry. And boy, are the graphics good. With very highly realistic environments, seeing it in 3D on the big screen is somethingFirst time watching this your not going to have any negative points, as it will win you over with graphical wizardry. And boy, are the graphics good. With very highly realistic environments, seeing it in 3D on the big screen is something magical. Assessing the film afterwards reveals a highly weak and wooden story that is just holding the film together with the visuals. Though the storyline is utter guff, the 'wow' moments might just make this a great film. Just.",
+            "review_date": "2010-09-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Despite almost being a spin off of Dances With Wolves, the ridiculously beautiful visuals, believable and likable characters, and successful good Vs. evil theme makes this movie one of 2009's best",
+            "review_date": "2011-08-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Avatar is no doubt my least favorite film of all time for one simple reason: it is everything wrong with Hollywood. Over-budgeted production cost, the lure of 3D to draw viewers, manipulative characters and political messages, and theAvatar is no doubt my least favorite film of all time for one simple reason: it is everything wrong with Hollywood. Over-budgeted production cost, the lure of 3D to draw viewers, manipulative characters and political messages, and the complete lack of depth in the characters and story plague this beautiful looking film. To say that this film is bad would be a lie, but I despise this film so much due to it's one-dimensional characters and predictable and unoriginal story. James Cameron has done some great work in his career (The Terminator films, Aliens, [and even] Titanic), but Avatar is not among that prestigious list. Avatar only goes to prove that visual effects and action scenes do not guarantee a good film. For example, 12 Angry Men is one of the greatest films ever and it contains no action, CGI, and lacks multiple locations; the entire appeal of the film lies in its strong characters, dialogue, premise, and confrontations. Avatar lacks all these quintessential elements, and therefore suffers.",
+            "review_date": "2012-11-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The visuals were amazing, but who cares? The story went nowhere. This movie is quite simply nothing more than heavy-handed environmentalism under the guise of a lackluster alien romance. The acting was atrocious, the characters were dull, The visuals were amazing, but who cares? The story went nowhere. This movie is quite simply nothing more than heavy-handed environmentalism under the guise of a lackluster alien romance. The acting was atrocious, the characters were dull, and the middle three fourths of the movie could have been removed and no plot development would have been lost. These things are the calling cards of terrible movies.",
+            "review_date": "2010-05-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was all gimmicks and no substance. Designed to be a eye candy for the sake of 3D, it is basically a boring adventure about humanity being unpredictable. The problem is that the fancy 3D and CGI cant keep your attention for longThis movie was all gimmicks and no substance. Designed to be a eye candy for the sake of 3D, it is basically a boring adventure about humanity being unpredictable. The problem is that the fancy 3D and CGI cant keep your attention for long once you are accustomed to it and if you take that out of the movie, you are really left with bad sci-fi flick about \"duality.\" \"Human duality\" is probably the 2nd most boring subject of a movie behind all the \"coming of age\" stories. The military and science are once again the bad guys while the aliens are innocent and good. I really dont mind movies that portray humans as bungholes (because frankly, as a society, we are), but its getting old and this movie did not even try to be original. There were no cliffhangers, no interesting characters, dialog was mundane and the plot was predictable. The entire movie could have been done in 15 minutes.",
+            "review_date": "2015-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is what you call A Great Movie.  It will live on as that for a while and perhaps forever. Avatar is spectacular, goofy, and most of all cool.   Hopfully Avatar will be remembered for a while, before any other movie takes its place",
+            "review_date": "2010-08-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "another good film from james camron . not as great as id hoped and some people have said but its still worth seeing . the main problems i have with this film is its presented in its trailors as this HUGE action film . when in reality thereanother good film from james camron . not as great as id hoped and some people have said but its still worth seeing . the main problems i have with this film is its presented in its trailors as this HUGE action film . when in reality there really isnt much action till the last 20 min . considering how long it is think they coulda packed abit more in . the story is entertaining although very predictable . the visuals are just out standing pandora really comes to life . the acting is ok i didnt really feel impressed by any one . its a entertaining film that most of the family can sit down and wach and have a fun time .",
+            "review_date": "2010-08-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis is the best movie have ever saw.It is cool and grate and fascinating.How ever give this movie a lover review than 8 is stupid and he don't know nothing about movies.If i am a criticizer I would give Avatar 110%.But i give it 10%.And i can\"t wait no longer for the second and the third from the trilogy.",
+            "review_date": "2010-09-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Along with the graphics in this movie i personally think this was a near perfect movie!! The storyline was similar to any like it with the enemy becoming friend but there was more to it i think. Showing the love of earth and others thoughAlong with the graphics in this movie i personally think this was a near perfect movie!! The storyline was similar to any like it with the enemy becoming friend but there was more to it i think. Showing the love of earth and others though money is there. Understanding others before destroying them is more important.",
+            "review_date": "2010-12-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I wanted to be entertained and I was. The story could use some work though.",
+            "review_date": "2010-01-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was not very good. I wouldn't even watch it if i was paid too. The only cool thing about it is the live action vs actual people concept in the story. Its very bad though.",
+            "review_date": "2016-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was fun to watch, but I hated how recycled it is. Great visuals, but James Cameron could have done so much more with the plot line, characters, and general movie. I was disappointed to say the least.",
+            "review_date": "2010-06-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Boring, but visually amazing.",
+            "review_date": "2010-06-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think I'm a minority on my stance towards this movie. I don't have mixed feelings about it just to be edgy and apart from everyone else, it just rubbed me a little differently. I was largely absent from all the hype that surrounded it whenI think I'm a minority on my stance towards this movie. I don't have mixed feelings about it just to be edgy and apart from everyone else, it just rubbed me a little differently. I was largely absent from all the hype that surrounded it when it was released: I finally saw the movie towards the end of its theatrical run. With that being said, I had a much clearer perspective on it, seeing it in a theater with maybe 10 other people in it, and I can honestly say after seeing it, it's one of the most overrated movies of all time. For starters, I think the movie takes itself too seriously. At it's core, the plot is essentially an updated version of \"Pocahontas\" or \"Dances With Wolves.\" I was genuinely entertained for the first half hour, in which you're introduced to the main characters and the setting of Pandora, but then movie started to take another turn. The whole thing was simply overshadowed by this very self-righteous, naturalist message about how we have to take care of the planet. Now don't get me wrong, I care for the environment, but when I feel like I'm watching a $300,000,000 EPA PSA, it kind of ruins the effect of a movie that comes from the director of Terminator 2. Throughout the movie, various other sci-fi elements are taken from movies like the Matrix and Jurassic Park, and subsequently accompanied by video game quality dialogue. In a word -- it's all over the place and just comes off sappy. Rather than a sophisticated narrative geared towards adults, Cameron just decided to go completely Saturday morning cartoon with this one, causing tons of merchandise and distribution out the ass that caters mainly to middle school boys who take garbage like this too seriously. But hey, it has amazing special effects, so I guess the it's saving grace is the familiarity of the director, and that it looks pretty.",
+            "review_date": "2014-04-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie has terrible dialogue, poor acting, and a plot an 8 year old could write. Go watch Pocahontas if you want to see this movie; same story, better everything.",
+            "review_date": "2010-05-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Almost great film. the 3D was too overwhelming. I prefer the the original version of the film. Kudos to Worthington and Cameron.",
+            "review_date": "2010-01-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A typical piece of American shoot up em sensless piece of trash. Cameron has stolen ideas from a range of films and merged them into a silly unbelievably juvenile plot. Lots of violence and a story with nothing to say. Writing and dialogue A typical piece of American shoot up em sensless piece of trash. Cameron has stolen ideas from a range of films and merged them into a silly unbelievably juvenile plot. Lots of violence and a story with nothing to say. Writing and dialogue are amateurish with characters that seem to be taken from comic books. The only thing that makes this film remotely watchable are the special effects. Movie making at it's worst. Shame on the critics who didn't have the courage to pan this gross waste of money.",
+            "review_date": "2010-05-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If story was bit stronger than it would be also great as \"The Terminator\" However, its a Master Piece.",
+            "review_date": "2010-06-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Pieac of crap, vidja games have been doing better worlds for years and they don't cost a trillion dollars. Cameron's worst movie to date, totally predictable.",
+            "review_date": "2010-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Ok listen for all you bad reviewers: If your not looking for an action movie, go watch a freakin romantic comedy. Thats not this movie. The effects are amazing and stop bring the stupid, childish Pocahontas or whatever into this film. They'reOk listen for all you bad reviewers: If your not looking for an action movie, go watch a freakin romantic comedy. Thats not this movie. The effects are amazing and stop bring the stupid, childish Pocahontas or whatever into this film. They're nothing alike. This movie was rated better then Titanic and has awesome plot and idea and characters that are realistic.",
+            "review_date": "2011-11-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If Pocahontas was a 3D live action film starring blue people, this would be the result.",
+            "review_date": "2011-06-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While a beautiful movie to look at, the intense CGI cannot hide the hopelessly derivative story and generally poor acting. While the world of Pandora is nice to look at, it is poorly thought out. All the characters are caricatures of theWhile a beautiful movie to look at, the intense CGI cannot hide the hopelessly derivative story and generally poor acting. While the world of Pandora is nice to look at, it is poorly thought out. All the characters are caricatures of the worst movie stereotypes. We have the badass soldier chick, the angry army commander, the hero who just wants to do the right thing, and the industry crazed maniac.It took James Cameron 2h 40m to tell a story that Disney managed to tell in half the time.",
+            "review_date": "2010-10-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Cameron was reminiscent of Michael Bay's dedication to special effects in this incredibly clich\u00e9d and (with regards to plot and characters) lackluster film. The characters all filled positions of clich\u00e9s, leaving nothing Cameron was reminiscent of Michael Bay's dedication to special effects in this incredibly clich\u00e9d and (with regards to plot and characters) lackluster film. The characters all filled positions of clich\u00e9s, leaving nothing unexpected through the entire plot. I found myself predicting lines and events before they occurred, a feat which never leads to a good feeling about a movie. The special effects were phenomenal, but everything else seemed less important.",
+            "review_date": "2010-06-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I didn't see Avatar at the cinema - something about it just said to me it would be all style no substance. So I waited until it was released on DVD and bought it a couple of days after it was released, and it sat on the shelf for I didn't see Avatar at the cinema - something about it just said to me it would be all style no substance. So I waited until it was released on DVD and bought it a couple of days after it was released, and it sat on the shelf for several weeks until one quiet evening when there was nothing on TV worth watching. Well, it was exactly as I feared: a visual spectacle with absolutely no substance to back it up. The plot is puerile, derivative and overladen with the kind of crass, heavy-handed environmental messages you'd expect if an eight year old had written the script. Characterisation was paper thin and the actors mostly seemed on auto-pilot, either hamming it up or as wooden as the Na'vi's beloved trees. I'm all for no-brainer entertainment, but frankly I felt insulted. Mr Cameron, spend some of your frankly ridiculous budget on a decent script next time please. The score of 2 is for the admittedly great visuals and entertaining final reel battle only - the rest of the film scores a big fat zero.",
+            "review_date": "2010-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Avatar is an agonizing movie with amazing visuals and incredible use of 3-D and motion capture technology. In the purely technical sense, this film is a masterpiece; however, in terms of story, characters and ability to develop the plot, theAvatar is an agonizing movie with amazing visuals and incredible use of 3-D and motion capture technology. In the purely technical sense, this film is a masterpiece; however, in terms of story, characters and ability to develop the plot, the film fails miserably. Every single character in this film is not only uninteresting but undeveloped. Think about it... what do you REALLY know about Jake or Nyteri? The dialogue is also horrendous. At times my jaw dropped at how uninspired the lines were. \"I see you\" in particular feels cheesy and overused. Then there is the awful love story. It is without a doubt one of the worst development of a couple I have ever seen in a film. We go from Nyteri HATING Jake to them occasionally nudging each other and laughing to...well them doing under the tree of souls or whatever it's  called. I know months have passed in the story, but only 45 minutes have passed to us, and nothing in the film explained or showed how their feelings grew for each other. Giving someone a meaningful look once doesn't count as developing a couple. To top it off, this movie is excruciatingly long. By the time you see it for the second or third time you will be constantly checking your watch. It just won't end! The film could have easily cut 20-30 minutes. While there are a lot of pretty images, the plot and characters are pretty ugly.",
+            "review_date": "2011-08-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Visually, Its extremely impressive and I was shocked that James Cameron didnt win the oscar for best director because of the visual effects in the film and the ground breaking use of CGI as well. However, The film sucks. The acting isVisually, Its extremely impressive and I was shocked that James Cameron didnt win the oscar for best director because of the visual effects in the film and the ground breaking use of CGI as well. However, The film sucks. The acting is terrible, the plot not only sucks but is a complete rip off of Dances With Wolves, and its incredibly boring (I was only entertained in 3 very short parts in the entire film). Sorry but the visuals can only get you so far in my book and this film just doesnt cut it imo.",
+            "review_date": "2012-01-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Cool visuals, but awful acting and a horrendous plot. I couldn't even make it through the entire movie. I walked out of the theater because I was so bored and could predict the entire movie after the first 10 minutes.",
+            "review_date": "2010-05-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolutely hands down, the most over hyped/ over rated movie in history. I saw this movie when it came out in theatres and i hated it so much i had to vent as soon as i became a member of metacritic. sure the special effects are good, butAbsolutely hands down, the most over hyped/ over rated movie in history. I saw this movie when it came out in theatres and i hated it so much i had to vent as soon as i became a member of metacritic. sure the special effects are good, but thats not enough to salvage the terrible acting and dreadful script. the entire story is borrowed from other hollywood movies. it disgusts me how much people love this movie. to me this shows just how simple and shallow movie goers are. the aliens were just friggen annoying to listen to and to look at. Ive never fallen asleep in the theater, but this got me pretty close. just a boring, eye candy laced, piece of **** movie.",
+            "review_date": "2011-03-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "full points for visual prowess but zero points for plot and originality-the whole time i was watching it i was thinking wow this is a return to my childhood-it's the upgraded Pocahontas! I was waiting for the animals to talk..had they full points for visual prowess but zero points for plot and originality-the whole time i was watching it i was thinking wow this is a return to my childhood-it's the upgraded Pocahontas! I was waiting for the animals to talk..had they spend more time on character development and originality there would have been nothing to criticize. In their defense having an original alien movie would be difficult...after all there are so many alien movies out there.",
+            "review_date": "2010-06-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Are the visual effects breathtaking? Of course, but it's absolutely unforgivable to give credit to a near scene by scene re-make of Disney's Pocahontas. No one in all of Hollywood could come up with an original script for what was Are the visual effects breathtaking? Of course, but it's absolutely unforgivable to give credit to a near scene by scene re-make of Disney's Pocahontas. No one in all of Hollywood could come up with an original script for what was to be potentially a breakthrough in 3D filming? I refuse to believe there are no ideas left in Hollywood, but obviously you can't get a screenplay made unless it came from a graphic novel or is outright stolen from a previous script(whether it was good or not). It's just a sad shame.",
+            "review_date": "2010-06-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was a piece of crap. A predictable storyline that plays on some of the most racist character archetypes I've ever seen in a modern film. People say, OMG, the film looks so realistic, who cares about the plot? Yea, so did This movie was a piece of crap. A predictable storyline that plays on some of the most racist character archetypes I've ever seen in a modern film. People say, OMG, the film looks so realistic, who cares about the plot? Yea, so did Jurassic Park, and that film came out 17 years ago, but still managed to have a unique story, with great characters, and a good Aesop. Industries give consumers what we demand. If we are complacent with the tripe they give us, that's all we will get. If all we ask is a film look really good, and nothing else, that's all we will get. A film that looks good, and nothing else. I enjoy seeing films with good stories, and if we don't continue to demand such films, we won't get them.",
+            "review_date": "2010-05-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was pretty to look at, but was nothing more. The story was copied and not very good. Besides, the acting was nothing special.",
+            "review_date": "2010-05-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Cool animation but the anti-american rhetoric was repulsive. Reminded me of a cross between Small Soldiers and The Crucible.",
+            "review_date": "2010-05-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Well, Avatar Quite possibly the most overhyped movie of all time. Acting is average at best, the plot is unoriginal and was carried out far better in movies released a little over 2 decades ago. However, the visuals are breathtaking, but Well, Avatar Quite possibly the most overhyped movie of all time. Acting is average at best, the plot is unoriginal and was carried out far better in movies released a little over 2 decades ago. However, the visuals are breathtaking, but thats pretty much the best part of this movie. In short, if you're going to spend a decade making a movie might as well give it an original story.",
+            "review_date": "2010-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's ok, not that awesome, but ok. It's long, and it has a lot of good parts. Problem is i'm not a kind of person for this kind of movie, and i was rather bored in a lot of parts. ANother thing i didn't like(my personal It's ok, not that awesome, but ok. It's long, and it has a lot of good parts. Problem is i'm not a kind of person for this kind of movie, and i was rather bored in a lot of parts. ANother thing i didn't like(my personal opinion) was that all the cool characters died and we were left with a blue smurf and his blue gf, reminded me of that song Blue by eifel65(i wonder why).",
+            "review_date": "2010-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "james cameron, stop trying to shoving life lessons down my throat and wow me with visual effects, make a good movie without sam worthington your boyfriend.",
+            "review_date": "2011-02-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Avatar is a great movie, but just how great is it? While I thought it was pretty cool that they based all the air and space craft on ones from the Halo series, the story was a bit of a disappointment. I was never really into Pocahontas orAvatar is a great movie, but just how great is it? While I thought it was pretty cool that they based all the air and space craft on ones from the Halo series, the story was a bit of a disappointment. I was never really into Pocahontas or Ferngully when a was younger, and I was never into old movies like Dancing with Wolves, so the story of Avatar did not really stick out to me. Visually the film was quite enticing with it's colourful scenery, it was not all that interesting because of the story. Avatar had much potential, but I am not so sure it lived up to its potential.\u00e2",
+            "review_date": "2010-11-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Congratulations to the special effects and the graphics and the 3D! But, the movie itself is so ridiculous and cheesy. It's terrible. James Cameron can't write a good script. This could have been done a lot better. And, honestly, I'm notCongratulations to the special effects and the graphics and the 3D! But, the movie itself is so ridiculous and cheesy. It's terrible. James Cameron can't write a good script. This could have been done a lot better. And, honestly, I'm not interested in watching sequels.",
+            "review_date": "2011-08-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Overrated. Storyline is predictable, I mean the trailer itself showed what is going to happen already. I don't care if its the highest grossing film ever. I am not going to judge the film a high rating because of that..",
+            "review_date": "2011-06-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "hurr hurr hurr look at me i use words like mediocre performance and other intelligent sounding words when the only thing i dont like about the movie is that its made the most money ever. Im a rebel i go aqainst what everyone else says just sohurr hurr hurr look at me i use words like mediocre performance and other intelligent sounding words when the only thing i dont like about the movie is that its made the most money ever. Im a rebel i go aqainst what everyone else says just so i can be different from the crowd even though i secretly love this movie hurr hurr hurr",
+            "review_date": "2013-10-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Kids will like this movie better than adults because the story is very hackneyed and cliched. Any adult will have seen it several dozen times already, so to see it again, in a long drawn out overly long movie, is as tedious as he!!. But kidsKids will like this movie better than adults because the story is very hackneyed and cliched. Any adult will have seen it several dozen times already, so to see it again, in a long drawn out overly long movie, is as tedious as he!!. But kids who have never seen any version of this story before, might like it. The story lacks any nuance. The good guys are the indigenous people without technology who worship a tree. The bad guys are the people from earth, who have lots of technology and calmly drink coffee in their helicopters while they blow the primitive people to smithereens from the air. Like someone else said, it is a 3 hour public service announcement. And it lacks any kind of character development.\r And by late 2014 standards, the effects - the blue people - look absurdly fake and cartoonish. I can't believe today that people were impressed by this just a few short years ago. It is a visual joke.",
+            "review_date": "2014-12-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Visually, this film dazzles and amazes.  Story- this film is an overly preachy and overly long and an overblown film.  I really didn't like it at all.  My opinion.  There you go.  Oh and the 3D, made me sick.",
+            "review_date": "2013-07-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A bland, cliched story with average acting and although the special effects are superb, it doesn't stop the film from being a mediocre bore-fest that you'll forget in a couple weeks time.",
+            "review_date": "2013-09-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Avatar is probably the most beautiful film you'll ever see. The visual effects and the story... it's amazing! James Cameron has created a living world, a world that you'll never forget. The film really caught my heart!",
+            "review_date": "2010-01-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Only thing missing was Mel Gibson and the English (Braveheart). Glad the bad guys were contractors (Blackwater types) and not active duty Marines.",
+            "review_date": "2010-01-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "First off let me make one thing clear, I saw this movie in 2d. Having said that, I thought the movie was still pretty good. Visually the movie looks great and the world of Pandora is gorgeous. Unfortunately, since I wasn't watching it First off let me make one thing clear, I saw this movie in 2d. Having said that, I thought the movie was still pretty good. Visually the movie looks great and the world of Pandora is gorgeous. Unfortunately, since I wasn't watching it in 3d I wasn't as sucked into the world of Avatar as I would've otherwise. As far as plot goes the movie does a nice job. The characters and setting are great and the one guy having two identities keeps things interesting as he struggles to find out who he really is. Also, the story in Avatar Humans vs. Navi is different but at the same time very familiar, which I like. My one criticism is where the movie ends. (SPOILIERS ALERT) I really don't like how the Navi defeat the humans because it feels almost forced in there. A more appropriate ending would be when the Navi set off to fight the humans. As a result, of adding on the climactic battle, the movie was too long for my tastes and started to drag. Avatar is the one movie that everyone should see particulary in 3d. You will be amased at the amount of detail in Pandora and find the plot to be very interesting. If you are a parent, bring your kids because to some extent, Avatar will provide them the same joy that a Star Wars movie would.",
+            "review_date": "2010-01-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing movie. I liked it even more the second time. It will revolutionize the way movies are made from now on.",
+            "review_date": "2010-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't understand why some people are down on this movie; I though it was great. The world of Pandora and the Na'vi is impossible not to get sucked into. The visuals are gorgeous. The story, which seems to be the biggest I don't understand why some people are down on this movie; I though it was great. The world of Pandora and the Na'vi is impossible not to get sucked into. The visuals are gorgeous. The story, which seems to be the biggest complaint, is there to pull you into this world and it does a pretty fine job. As for the length of the movie, you'll be too captivated to notice how long it is. Overall, I think you have to be pretty cynical not to fall in love with this world.",
+            "review_date": "2010-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not someone who gets impressed by much but sat there afterwards thinking I had seen something groundbreaking in 3D and realistic computer graphics. Yeah there are better stories out there, but.......wow!",
+            "review_date": "2010-01-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was a great movie! The visual effects were stunning, the story was a bit longer than it needed to be, but I'd rather have a complete story go a bit beyond than to have a story that has some major holes in it. The message was great It was a great movie! The visual effects were stunning, the story was a bit longer than it needed to be, but I'd rather have a complete story go a bit beyond than to have a story that has some major holes in it. The message was great and the acting/3D universe was, again, amazing. I rarely go to movies in the theaters any more (because it costs so much) but this one will warrant another viewing on the big screen. I saw it in the 3D version and it was definitely worth the extra $3.00. Go and enjoy this Action/War/Love/Sci-Fi Movie, you won't regret it.",
+            "review_date": "2009-12-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Dances with Smurfs, Pocahontas3D: take your pick. Then add in some hypocritical white guilt and you have Avatar. Cameron is a fine film-maker, but this is just dross.",
+            "review_date": "2009-12-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Astounding movie. You have to like fantasy films. Also you have to like nature saving type films like Final Fantasy or Pocahantus. If you are into all that then definitely see it and see it in 3D!",
+            "review_date": "2009-12-25",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 138
 }

@@ -1,639 +1,718 @@
 {
-  "title": "The Lion King",
-  "rating": 8.8,
-  "release_date": "1994-06-15",
-  "genre": [
-    "Adventure",
-    "Drama",
-    "Animation",
-    "Family",
-    "Musical"
-  ],
-  "summary": "Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king, searches for his destiny in the great \"Circle of Life.\" [Disney]",
-  "critic_reviews": [
-    "A technically groundbreaking collaborative work with humor, heart, and talent showing through in every carefully chosen line.",
-    "Pure, eye-popping pleasure.",
-    "A hugely entertaining blend of music, fun and eye-popping thrills, though it doesn't lack for heart.",
-    "A scrumptiously delightful moviegoing experience.",
-    "Has the resonance to stand not just as a terrific cartoon but as an emotionally pungent movie.",
-    "More so than the exuberant movie miracles that came before it, this latest animated juggernaut has the feeling of a clever, predictable product. To its great advantage, it has been contrived with a spirited, animal-loving prettiness no child will resist.",
-    "A timeless classic, full of excitement, humor, witty asides and memorable characters.",
-    "This is the Mickey Mouse factory at its finest, with inventive animation, stirring music and a pride of inspired, almost-human animals.",
-    "There are moments of fun and humor, to be sure, but the undercurrent is of a far more serious, \"adult\" nature.  The Lion King is primarily about guilt and redemption.",
-    "Basically what we have here is a drama, with comedy occasionally lifting the mood. The result is a surprising seriousness; this isn't the mindless romp with cute animals.",
-    "This is more a favourite of the children than adult Disney fans. It has a few memorable songs and has spawned a very popular stage production.",
-    "The Lion King remains one of the strongest Disney efforts of the 1990s, and arguably its last great, traditionally animated feature.",
-    "A dazzling -- and unexpectedly daring -- addition to the Disney canon.",
-    "Even with its flaws, this latest Disney animated feature once again delivers what its audience wants.",
-    "It's a thumping good adventure.",
-    "It bears repeating that The Lion King is quite entertaining as children's fare goes these days. But Disney has established a standard so high on animated features that anything less than a classic leaves you feeling that something's missing.",
-    "For all the undeniable merits, it somehow feels manufactured, and thus, to a degree, calculated - the product not of a collective imagination taking esthetic chances, but of an imaginative collective putting the rivets into a well-wrought plan that can't go awry.",
-    "The result is a step toward multiculturalism and ecological correctness, though not without a certain amount of confusion. The movie is not quite as entertaining as The Little Mermaid or Beauty and the Beast.",
-    "Although far from the worst offender in Disney's canon, The Lion King is nevertheless host to many of the less savory qualities common to the studio's output.",
-    "The film has some of Disney's most spectacular animation yet -- particularly in the wildebeest stampede -- and strong vocal performances, especially by skilled Broadway comedian Nathan Lane. However, it suffers from a curiously undeveloped story line.",
-    "Shakespearean in tone, epic in scope, it seems more appropriate for grown-ups than for kids. If truth be told, even for adults it is downright strange."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Disney animation's \"The Lion King\" is a masterpiece and the godfather of all animations.",
-      "review_date": "2011-09-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Lion King may not be *the* greatest movie of all time, but it's probably in the top 10 or so.  The plot is pretty standard fare, but it doesn't even matter, because it's all about the presentation of that story.  Speaking of which, theThe Lion King may not be *the* greatest movie of all time, but it's probably in the top 10 or so.  The plot is pretty standard fare, but it doesn't even matter, because it's all about the presentation of that story.  Speaking of which, the animation, voice acting, songs, and emotional element of The Lion King carry it to such great heights, and come pretty close to perfect.  I look back on it today, and some of the opening scenes still give me goosebumps when I watch the sun rising over the savanna.  And then you have the saddest scene in just about any modern Disney movie... those who've seen it (everybody at this point) know what I'm talking about.  All in all, it's a beautiful film of love, fatherhood, death, betrayal, revenge, friendship, and rising to destiny.",
-      "review_date": "2011-10-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is my favorite Disney movie. I know that it is not that it does not have very much facts, but it's just a movie. It's fantasy, and fantasy can have anything. So yes I give it a 10.",
-      "review_date": "2006-07-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is one of my favorite movies of all time. The cast, led by Jonathan Taylor Thomas and Matthew Broderick, was simply amazing. The animation was absolutely brilliant. The movie is just incredible. If you haven't seen it, I strongly This is one of my favorite movies of all time. The cast, led by Jonathan Taylor Thomas and Matthew Broderick, was simply amazing. The animation was absolutely brilliant. The movie is just incredible. If you haven't seen it, I strongly recommend it for kids and adults",
-      "review_date": "2007-03-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The is the most amazing film ever created by disney. I cannot imagine anything they could have done better. It is a memerable classic, and touches the heart of young and old alike.",
-      "review_date": "2009-02-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Perhaps it's because it's an essential part of my childhood, but The Lion King will always be regarded by me as one of the greatest cartoons ever made. Yes, it's an adaptation of Hamlet, but one that communicates with children Perhaps it's because it's an essential part of my childhood, but The Lion King will always be regarded by me as one of the greatest cartoons ever made. Yes, it's an adaptation of Hamlet, but one that communicates with children and adults alike. There is depth to Simba which is unparalleled in many other Disney movies. Perhaps it's nostalgia, but I think kids today cannot comprehend what they're missing. I, for one, miss the anticipation of the yearly 2-D Disney cartoon. I guess I'm still a kid at heart.",
-      "review_date": "2007-04-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An outstanding film, back when people put there heart  into everything to be proud of there achievements and to express there talents which were recognized by Disney later choosing the cast very, very well. This film I want to say is my bestAn outstanding film, back when people put there heart  into everything to be proud of there achievements and to express there talents which were recognized by Disney later choosing the cast very, very well. This film I want to say is my best Disney film however I also love Aladdin :). Then B&TB and Hercules. Anyway. This film has a lot of guidance and morals for all ages. Makes me think whats happened to Disney :( Mufasa (James Earl Jones) is Simba's dad and has the perfect voice for a strong lion teaching his son the lessons in life. Like not to take being future king for granted, it's not about getting your own way. And that everyone is one. He also tells his son about the stars, and if he is not here in later life, then to look up at the stars as all of the great kings are up there watching over him. Samba being a small cub has to learn the hard way because of his evil uncle scar. At first he truss to trick samba and forces him to go against his fathers will. It ends up with samba leaving pride rock, but finds two true friends who bring him back to his normal self with the help of an old friend and his fathers friend who christened him at birth. Samba returns to pride Rock some years later, returning the once great land back to how it used to be. And continues with Simba and Nala having a child of there own. And continues, the circle of life. such powerful scenes that can make grown men cry (who are not dead inside) and powerful voice acting that fit each roll perfectly. A brilliant soundtrack that fits very well. And also the meanings and morals in this film alone are what society today is very rappdley loosing. If only James Earl jones could be the king of England! Ohh and must say that I love zazu too :) (probally spelt it wrong)",
-      "review_date": "2011-09-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A wonderful work of animation that is vibrant with color, song, and a stellar emotional core.",
-      "review_date": "2012-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An epic and lovely adventure in every way, this animated production is definitely an icon of its genre. First of all the storyline is great, very unique and funny that will submerge you into a whole new world inside this movie with its veryAn epic and lovely adventure in every way, this animated production is definitely an icon of its genre. First of all the storyline is great, very unique and funny that will submerge you into a whole new world inside this movie with its very well made visual production and style. The plot is interesting and entertaining too, with a friendly story and a light atmosphere that takes exiting shifts as it progresses introducing different scenarios that all together construct a beautiful movie. The characters are just adorable with charming performances, and often a musical number with a memorable soundtrack is included that adds to the wonderful experience this is from beginning to end.",
-      "review_date": "2012-01-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Disney's greatest movie. Every song in this movie is at worst extremely good, with Circle of Life and Can You Feel the Love Tonight just being amazing; the worst song in this movie is better than most musicals' best songs by a fairly wideDisney's greatest movie. Every song in this movie is at worst extremely good, with Circle of Life and Can You Feel the Love Tonight just being amazing; the worst song in this movie is better than most musicals' best songs by a fairly wide margin.\r Amazing, beautiful animation, a solid story, strong characterization, good flow  it just works.",
-      "review_date": "2013-11-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was simply well made. The songs were memorable and amazing, the characters were believable (and arguably acted more human than many movies with human actors), and the animation was vibrant and lush, depicting a unique style of art,This movie was simply well made. The songs were memorable and amazing, the characters were believable (and arguably acted more human than many movies with human actors), and the animation was vibrant and lush, depicting a unique style of art, and still getting the movements of the characters down pat. The story really digs deep into Simba's character, which leaves the other characters a bit stagnant, but that's not to say they aren't developed. They each have their own part to play in the story. The comic relief detracts from the heavier story just enough to keep the feature from being too depressing (it is disney, they like a lighter feel to their movies).Now, on the controversy some people have brought up about \"Disney ripping off 'Kimba: The White Lion'\", I looked into it, and in terms of story and characters, it seems the two are separate. Some art direction seems to have gone the same direction, although Disney and the guys who did Kimba did start working together on a project related to Kimba. The project was scrapped, but the people who had worked on the project probably decided to adapt some concept art to Lion King. Btw, the similarity of the names \"Simba\" and \"Kimba\" is probably coincidental, considering most of the names in \"The Lion King\" are based on Swahili words (simba means 'lion').Regardless, it is a solid movie that I recommend.",
-      "review_date": "2011-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best animated movie of all time. And one of the greatest movie ever made! Every time I see The Lion King I get a special feeling inside me, something that I can't explain with words. The movie is so beautiful and the characters areThe best animated movie of all time. And one of the greatest movie ever made! Every time I see The Lion King I get a special feeling inside me, something that I can't explain with words. The movie is so beautiful and the characters are memorable. The songs are excellent, the soundtrack made by Hans Zimmer is so touching and the opening scene itself are breathtaking. The Lion King is a true masterpiece.",
-      "review_date": "2011-05-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Lion King has great characters and a lot of memorable songs. I think that the story is thin and short though, which makes the idea of the film very simple.",
-      "review_date": "2011-11-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Who would believe this is my first time watch this classic Disney jewel in the crown and the location was ruefully in the plane. After last year's mega-successful re-entering into 3D multiplexes, clearly it becomes more urgent for me toWho would believe this is my first time watch this classic Disney jewel in the crown and the location was ruefully in the plane. After last year's mega-successful re-entering into 3D multiplexes, clearly it becomes more urgent for me to cancel it from my unfinished masterpiece list (there are more horrifying ones on my list which I wish I could show it here). THE LION KING is a timeless artwork, it's technical index could not remain its cutting-edge 2D advances in 1994, the story nevertheless is in perfect pitch for audience from every degree of ages, the HAMLET-inspired plot could feasibly find more evocation with adult groups while the colorful appealing is irresistible for youngsters. It's an archetypical win-win Disney Animation. The narrative is tightly intriguing, the O.S.T. is top-notch although I can hardly admit Elton Johnâ",
-      "review_date": "2012-05-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An absolute masterpiece. A truly wonderful film for the whole family. This movie is a cartoon but it is more compelling, emotional then most non animated films. Truly spectacular.",
-      "review_date": "2012-04-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you don't like The Lion King than I don't like you.",
-      "review_date": "2012-11-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you have not seen this movie, do so. The Lion King is my favorite movie ever, on all levels. It's not just a fantastic kid's movie. It's a movie that just about all people can enjoy. There are no flaws that bring down this movieIf you have not seen this movie, do so. The Lion King is my favorite movie ever, on all levels. It's not just a fantastic kid's movie. It's a movie that just about all people can enjoy. There are no flaws that bring down this movie whatsoever. Every single level of production goes way beyond its expectations. From the excellent main cast to the classic musical numbers, everything about this movie is memorable. This film should be used as a tool for up-and-coming animators who want to make movies at the same level of this movie. There aren't any movies that are as good as this, and there never will be another movie that even surpasses this movie in quality. The Lion King is an epic masterpiece that takes so many risks and overcomes all of them.",
-      "review_date": "2013-03-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of Disney best movies. Simba and Mustafa are awesome characters and the story is heartwarming. Animation's best movie is the Lion King, screw the Aladdin and Snow White, this is the best Disney movie of all time!",
-      "review_date": "2013-02-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best animated Disney films ever (if not the best), puts Frozen to shame. It is also one of the most successful films ever (not only animation). Great story, great message, amazing characters, iconic moments, probably the bestOne of the best animated Disney films ever (if not the best), puts Frozen to shame. It is also one of the most successful films ever (not only animation). Great story, great message, amazing characters, iconic moments, probably the best Disney soundtrack ever and several heartbreaking and emotive scenes. The minutes at the beginning when Mufasa talks to his son alone are so full of beauty and depth. Or just the first 5 minutes where we get introduced to the whole experience thanks to the amazing and unforgettable main song beat almost any other animation film in recent years. The Lion King is in the top 20 of most successful films ever adjusting by inflation. Frozen does not even make it to the top 100. That gives you an idea of the phenomenon it was. So deserved.",
-      "review_date": "2014-04-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the biggest hits created by Disney in 1994 was The Lion King. This movie entices children with its memorable songs and fantastic characters. It is one of Disney’s greatest musicals, even though there are some scary moments. Despite theOne of the biggest hits created by Disney in 1994 was The Lion King. This movie entices children with its memorable songs and fantastic characters. It is one of Disney’s greatest musicals, even though there are some scary moments. Despite the few violent scenes, the overall messages portrayed are hope, love, family, and responsibility. This film is a great choice for children as well as adults.\rThe film is about Simba (Jonathon Taylor Thomas) and how he “just can’t wait to be king.” That being said, his evil Uncle Scar (Jeremy Irons) is extremely jealous of his brother Mufasa (James Earl Jones) because Mufasa is the king of the jungle. His extreme jealously gets the best of him, and Scar has Mufasa killed by a stampede and makes Simba feel responsible. Simba, feeling overwhelming guilt and despair, then runs away and becomes friends with Pumbaa (Ernie Sabella) and Timon (Nathan Lane) who teach him that the best philosophy is “Hakuna Matata”, which means no worries. Simba is having the best time while with Timon and Pumbaa. He feels free and great about himself because he has nothing to worry about. Simba grows up thinking he has escaped his childhood until his old friend Nala, who is living under Scar’s leadership, finds him and tells him that the tribe has been having severe issues.\rThe Lion King was originally inspired by William Shakespeare’s play, Hamlet. The Lion King’s themes and imagery relate to cultural and political situations in the United States and Africa. Along with this, many parts of the film resemble a famous Japanese television show Kimba the White Lion. Two characters in this show are Kimba and Simba. In The Lion King, the camera angles and composition are almost identical to this television show. The voice of Simba almost believed he was working on a remake of Kimba because he was familiar with the show. The movie is mainly about lifestyle choices and collective responsibility. This is where the majority of the movie got several of its ideas.\rThe protagonist, Simba, starts off as a rebellious character whom then grows up and learns to accept his responsibilities instead of seeking revenge. The characters in the film are always filled with energy which shows how much hard work went into each character and their personality, looks, and overall appearance. Each character has there own appealing look and personality, which draws so much attention to them. Along with this, they each have a voice that is very engaging to listen to. The characters have comical senses of humor and perform each scene in a joyful way. When Mufasa emerges in a cloud for Simba and talks to him, he gives Simba hope and inspires him to go and regain his throne. This scene shows how family is always there for you, even when all hope is gone. Not only are the characters funny, but they have a meaningful and serious side as well.\rThe Lion King is a spectacular film for all ages. Although the movie is a cartoon, it is appealing to adults as well because it has a message behind it that can captivate even the oldest of audiences. Even if the children do not grasp the entirety of the overall message, they still love the film because of its entertainment. It keeps you interested the entire time and captivates everyone into feeling compelled to finish it. The directors and producers used great sounds effects and were able to get the audience to sing along with them. The colors and their brightness that was used enhances the film and makes it much more enjoyable and fun to watch. Every scene has an attracting look and amusing music, which always makes it pleasurable to watch. They used music to connect the funny scenes back to the overall message such as “Circle of Life” and “Hakuna Matata”. Circle of Life is played during the ceremony when Simba is born and at the end for Simba and Nala’s newborn club. Simba is baptized here and the whole kingdom comes together to see him. Hakuna Matata is played when Simba arrives at the jungle home and continues to play during a sequence in which Simba grows up. This shows that Simba puts his problems behind him and lives the life he wants. The music makes a child not want to take their eyes off the screen because of the energetic characters and catchy rhythm. The filmmakers used animated programs to show their visuals. The stampede scene was created in a 3D computer program so the characters could be multiplied. The visuals are very clever and give off a fun, loving, and spirited tone. The movie is presented with amazing animation, music, and choreography. The animators of the story studied real-life animals for reference and some even journeyed on a trip to Africa. This assisted in how the animators made the characters act during many of the scenes. This also helped them to better understand the animal environment and way of life. A wildlife expert visited the studio to help the writers with the animal behavior and to help the artists with their drawings. Brenda Chapman, one of the story heads, said that writing an original story is very challenging because there is nothing to fall back on.\rThe Lion King displays that if one is in a dark place, be strong and take the next challenge as it comes. Each character has there own way of doing this, which makes the film so much more interesting to watch. The film portrays many different ideas and responsibilities making it a movie for everyone to watch and enjoy with a lesson learned. The writers created a wonderful original story. The filmmakers did an incredible job with the characters, scenery, and animation. The Lion King is a warm, loving, fun film that everyone should have a chance to see.",
-      "review_date": "2013-09-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I grow up with this and my children's will, too. I have no intention to make them watch the  (sorry) of cartoons of these days. This is just a masterpiece. Extremely funny, engaging, colorful, intelligent. Immortal.",
-      "review_date": "2013-12-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I watched this wonderful masterpiece when i was only six years old. Up to now i have still remembered every detail about it, about the story that i know inspired millions of people not only children but also adults all around the world. ThisI watched this wonderful masterpiece when i was only six years old. Up to now i have still remembered every detail about it, about the story that i know inspired millions of people not only children but also adults all around the world. This is like \"The Godfather\"  for children, with a little exception that it is bright, funny and, most importantly, humanitarian. I think even grown-up men can learn something meaningful from Disney's greatest animation - The Lion King.",
-      "review_date": "2014-01-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Very good plot, with an unforgettable music and makes you think about the blows of life. I do not see bad things, but on the contrary, this great, amazing, wonderful and serious, but I do not give 10, and I'll tell you why: the movie itselfVery good plot, with an unforgettable music and makes you think about the blows of life. I do not see bad things, but on the contrary, this great, amazing, wonderful and serious, but I do not give 10, and I'll tell you why: the movie itself is good, but the characters like Scar and the hyenas were disturbing , desperate and perverse. You can not think clearly about the attitude of these characters, I was left stunned. And the other characters did not cause me any grace, except Mufasa, which was great, but the others are ridiculous or strange, this was the only bad thing about this movie.",
-      "review_date": "2014-03-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThe Lion King is probably not my absolute favorite Disney film, but it's still a piece of my childhood I will always cherish. The story is outstanding, the characters are unforgettable; of course there is really nothing I am saying that hasn't been said before. That scene at the end where Simba walks up Pride Rock to become the new King still gives me chills to this day. If you have not seen The Lion King, you really should, it's one of Disney greatest films, however I do like some others a bit more",
-      "review_date": "2014-03-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This classic Disney movie has catchy songs, wonderful colours and lovable characters! Obviously it is one of the disney movies to feature death, which I think in a way is good to ease children into the idea of it.",
-      "review_date": "2014-04-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When people talk about their favorite Disney film, 'The Lion King' is an answer that always comes up, no matter what generation of Disney you're talking about. The 1990s was a very strong decade for the Walt Disney Studios, as they came off aWhen people talk about their favorite Disney film, 'The Lion King' is an answer that always comes up, no matter what generation of Disney you're talking about. The 1990s was a very strong decade for the Walt Disney Studios, as they came off a string of successes with 'The Little Mermaid' (1989), 'Beauty and the Beast' (1991) (this is MY favorite Disney film) and 'Aladdin' (1992).\r Even after 'The Lion King', there were other films that were not appreciated by the critics mostly, but audiences loved anyway, 'Pocahontas' (1995) and 'The Hunchback of Notre Dame' (1996) spring to mind.\r 'The Lion King' is essentially Hamlet, but with lions, it opens with the best opening sequence I've seen in any film, animated or live-action. \"The Circle of Life\" is an iconic song to open with an we see the sun rising and all the different animals of different breeds gather around to witness the birth of their new future king. A lion cub is lifted before them and the animals bow together. The lion cub is Simba and we witness his adventure in the movie.\r We meet his uncle Scar (Jeremy Irons) who is jealous as he wants to be king, but the birth of Simba compromises his chances, and his brother Mufasa (James Earl Jones) tries to reason with Scar.\r Simba gets into a predicament where Scar plans to kill Mufasa and tells Simba to run away. Unlike Disney's 'Bambi' (1942), the death of Mufasa happens on-screen and can be traumatizing to the younger audience.\r As Simba has run away, he meets a meerkat and a warthog, Timon and Pumbaa who raise Simba from his teen years into his adulthood. But when Scar is king of Pride Rock, the entire group want Simba back and gain his status as the rightful king.\r Of all the Disney films released in the 1990s, 'The Lion King' is the one people speak highly of the most, and for good reason as it is less sugar-coated than 'The Little Mermaid' and 'Beauty and the Beast' and less comical than 'Aladdin'. The movie tells a serious story with the occasional comedy to lighten up the mood for when the film gets too serious. The songs are catchy too and the story is not hard to follow, even for kids.\r So why did I give this film a 9 instead of the perfect 10 everybody is rating it? Well, I do think that 'Beauty and the Beast' (1991) is actually the best film from Disney and 'The Lion King', for me, has some flaws that prevent it from being perfect. Everybody seems to over-praise this film, but here are my problems.\r The songs for me, were a little disappointing, considering they are by Tim Rice and Elton John, I only loved \"The Circle of Life\" and \"Be Prepared\"...I found \"I Just can't wait to be King\" and \"Hakuna Matata\" a little annoying, even as a kid. \"Can you feel the love tonight?\" felt a little shoe-horned in the film, but the Elton John version is brilliant.\r Certain things happen in the third act still make no sense to me, even as a child I didn't understand and still don't understand now. Let's just say that a certain character admits their faults and the film can end after that. I couldn't help but feel that the third act felt rushed just so it can get to the conclusion.\r However, the positives do outweigh the negatives, the animation is still as beautiful as ever (particularly \"The Circle of Life\" sequence), the film tells a really good story and there is pure heart and emotion put into this picture.\r I don't think 'The Lion King' is the best Disney film of all time, that title, for me, goes to 'Beauty and the Beast' (1991), but this is definitely in my top 10.",
-      "review_date": "2015-07-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThe artistic medium of film is very subjective. Every audience member has a different set of criteria they use to measure their viewing experience. Not everyone shares the same set of criteria. If we did, what a bland and uninspired world this would be.\r What I Personally Liked About \"The Lion King\":\rEvery good film starts with a good skeletal structure: the story itself. From that story, all of the other pieces will fall into place. In this case, the story is a beautifully told one centered on familial commitment, the responsibilities you have to yourself and the obligations you have to those who count on your support. The maturation of a destined character has always been a great structural starting point and this time it delivers in abundance. There is also some very good hard-edged humor, particularly surrounding Scar, which doesn't play down to younger audiences. Instead, it treats all of its viewers as equals; something modern Disney filmmakers have a tendency to toss aside. The animation itself is peerless, filled with wonderfully bright colors, crisp lines, deep shadows, lush greenery, and sharply drawn leads. The animation is backed with some of the best voice work Disney had yet utilized in one of their movies. James Earl Jones, Jeremy Irons, Whoopi Goldberg and Nathan Lane fill the spotlight with their charm and add a wonderful dimension to the characters they portray. There are a couple of unforgettable specifics to this animated classic to go over as well. Mufasa's death scene, for one. It is a somber, restrained affair with a perfectly accented score and a real sense of loss defining the event. Too, the epic, slow motion fight sequence between Simba and Scar backlit by the burning embers beneath Pride Rock is a visually stunning treat one rarely sees in a Disney film.\r What I Personally Disliked About \"The Lion King\":\rThere is a song in this film entitled \"Be Prepared.\" Not only is it the weakest song of the picture, but it is also the worst blot on Jeremy Irons' otherwise impeccable career. Irons gives a menacing performance throughout the rest of the film. His dark, creepy delivery of the lines sends chills up and down my spine each and every time I hear them. That merely makes this horrible song seem more out of place. It shamefully slows down the pace of the film where a macabre monologue would have better served the purpose of the story. Fortunately, there's really not much else to dislike about this presentation.\r My Overall Impression of \"The Lion King\":\rNot only would I classify this as the single best film Disney released in its decade, I would also offer the opinion that this is the best film Disney has released since 1994 (excluding Pixar's involvement). It has a wealth of memorable music, a powerful story arc, excellent animation, and fitting vocal performances. Animation simply does not get much better than this.",
-      "review_date": "2016-06-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The film is the latest in a series of annual media events from Disney, which with \"The Little Mermaid,\" \"Beauty and the Beast\" and \"Aladdin\" reinvented its franchise of animated feature films. The inspiration for these recent films comes fromThe film is the latest in a series of annual media events from Disney, which with \"The Little Mermaid,\" \"Beauty and the Beast\" and \"Aladdin\" reinvented its franchise of animated feature films. The inspiration for these recent films comes from the earliest feature cartoons created by Walt Disney himself, who in movies like \"Dumbo,\" with the chaining of Mrs. Jumbo, and \"Snow White and the Seven Dwarfs,\" with its wicked stepmother, tapped into primal fears and desires. Later Disney films drifted off into the neverland of innocuous \"children's movies,\" which were harmless but not very exciting. These most recent four animated features are once again true \"family films,\" in that they entertain adults as well as children.\r \"The Lion King\" is the first Disney animated feature not based on an existing story. In another sense, it is based on half the stories in classical mythology. It tells the tale of the birth, childhood and eventual manhood of Simba, a lion cub. The cub's birth is announced in the opening sequence of the movie, called \"The Circle of Life,\" which is an evocative collaboration of music and animation to show all of the animals of the African veld gathering to hail their future king. The cute little cub is held aloft from a dramatic spur of rock, and all his future minions below hail him, in a staging that looks like the jungle equivalent of a political rally.\r Of course this coming together of zebra and gazelle, monkey and wildebeest, fudges on the uncomfortable fact that many of these animals survive by eating one another. And all through \"The Lion King\" the filmmakers perform a balancing act between the fantasy of their story and the reality of the jungle. Early scenes show Simba as a cute, trusting little tike who believes everyone loves him. He is wrong. He has an enemy - his uncle Scar, the king's jealous brother, who wants to be king himself one day.\r Villains are often the most memorable characters in a Disney animated film, and Scar is one of the great ones, aided by a pack of yipping hyenas who act as his storm troopers. With a voice by Jeremy Irons, and facial features suggestive of Irons' gift for sardonic concealment, Scar is a mannered, manipulative schemer who succeeds in bringing about the death of the king.\r Worse, he convinces Simba that the cub is responsible, and the guilty little heir slinks off into the wastelands. (The movie makes a sly reference to a famous earlier role by Irons. When Simba tells him, \"You're so weird,\" he replies \"You have no idea,\" in exactly the tone he used in \"Reversal of Fortune.\") It is an unwritten law that animated features have comic relief, usually in the form of a duet or trio of goofy characters who become buddies with the hero. This time they are a meerkat named Timon (voice by Nathan Lane) and a warthog named Pumbaa (Ernie Sabella), who cheer up Simba during his long exile.\r The movie has a large cast of other colorful characters, including a hornbill named Zazu (Rowan Atkinson), who is confidant and advisor to King Mufasa (James Earl Jones). And there are the three hyenas (with voices by Whoopi Goldberg, Cheech Marin and Jim Cummings), who are a tumbling, squabbling, yammering team of dirty tricks artists.\r The early Disney cartoons were, of course, painstakingly animated by hand. There has been a lot of talk recently about computerized animation, as if a computer program could somehow create a movie. Not so. Human animators are responsible for the remarkably convincing portrayals of Scar and the other major characters, who somehow combine human and animal body language. But computers did assist with several remarkable sequences, including a stampede in which a herd seems to flow past the camera.\r Despite the comic relief from the hyenas, the meerkat and the warthog, \"The Lion King\" is a little more subdued than \"Mermaid,\" \"Beauty\" and \"Aladdin.\" The central theme is a grim one: A little cub is dispossessed, and feels responsible for the death of its father.\r An uncle betrays a trust.\r And beyond the gently rolling plans of the great savanna lies a wasteland of bones and ashes. Some of the musical comedy numbers break the mood, although with the exception of \"Circle of Life\" and \"Hakuna Matata,\" the songs in \"The Lion King\" are not as memorable as those in \"Mermaid\" and \"Beauty.\" Basically what we have here is a drama, with comedy occasionally lifting the mood. The result is a surprising seriousness; this isn't the mindless romp with cute animals that the ads might lead you to expect. Although the movie may be frightening and depressing to the very young, I think it's positive that \"The Lion King\" deals with real issues. By processing life's realities in stories, children can prepare themselves for more difficult lessons later on. The saga of Simba, which in its deeply buried origins owes something to Greek tragedy and certainly to \"Hamlet,\" is a learning experience as well as an entertainment. 3.5/4.",
-      "review_date": "2016-08-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The greatest animated movie of all time. No movie will ever come close to this movie. The music, the story, the charachters. Everything is perfect and this should be the example of how to make a perfect movie",
-      "review_date": "2018-03-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is simply a magic. I love it so much, and I like Elton John, Hans Zimmer, Lebo M's great composition works so much. This film is not perfect, but in my opinion this is the best 2D animated film so far, even better than Beauty and the Beast.",
-      "review_date": "2018-06-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It surely isn't the best Disney movie but it's still a powerful and emotional adventure. In my opinion, the film will be more appropriate for grown-ups. I'm not saying that kids shouldn't see this, it's just that adults might find the themesIt surely isn't the best Disney movie but it's still a powerful and emotional adventure. In my opinion, the film will be more appropriate for grown-ups. I'm not saying that kids shouldn't see this, it's just that adults might find the themes in the film more understandable and suitable.",
-      "review_date": "2013-11-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Don't work!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-      "review_date": "2019-07-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My wife and I decided to watch this ORIGINAL Lion King version after the remake got poorer reviews and after its cult status was additionally affirmed by multiple crossword puzzle references. We wound up shaking our heads afterwards,My wife and I decided to watch this ORIGINAL Lion King version after the remake got poorer reviews and after its cult status was additionally affirmed by multiple crossword puzzle references. We wound up shaking our heads afterwards, wondering what made it such a winner. The story is simplistic and violent, and some of the images seem awfully retro in their impact -- for example, all the good guys are a lovely light tawny shade while the villains are dark and, in one scene, the huge glowing eyes and teeth in the dark faces seem designed to make children afraid of African faces for life. The music was very so-so, the voice-acting generally good. There are many other movies I would want to see before trying this one again.",
-      "review_date": "2020-04-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I'd like to point out that Simba was voiced by a human actor and not an actual lion. #endhumanwashing",
-      "review_date": "2018-07-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nPURELY BOOOOOORINGthe lion king was great when i was 6 but i recently watched this and thought what the hell was i thinking, THIS MOVE SUCKS!!! lame jokes, random singing, and terrible voice acting. my opinion: WORST DISNEY MOVIE EVER!",
-      "review_date": "2011-09-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fuck Disney. They RIPPED-OFF Kimba the white lion, without even giving any credit to Ozamu Tesuka, the creator.",
-      "review_date": "2008-05-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is just the best movie that Diney has made. It's my favortie too. I'm 18 years old and I still watch the movie over and over again. The best music, the best animation, what else can you want?",
-      "review_date": "2006-08-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is probably the best movie disney ever created. It is one of the few movies that makes me laugh, cry, and it's very touching at the same time. I never saw this movie until I was about twelve, which I really regret. It teaches about This is probably the best movie disney ever created. It is one of the few movies that makes me laugh, cry, and it's very touching at the same time. I never saw this movie until I was about twelve, which I really regret. It teaches about pride, facing your fears, and many other things. Simba is one of the best characters Disney will probably ever make. I almost cry whenever I think about it. I really hope they make another Lion King movie. Thank you, disney, for this great classic.",
-      "review_date": "2007-06-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Agreeing with most of the reviews, I have to say this is my all time most favorite movie that Disney has created even though it was created in 1994. I first watched it when I was very little and never understood the true meaning of what was Agreeing with most of the reviews, I have to say this is my all time most favorite movie that Disney has created even though it was created in 1994. I first watched it when I was very little and never understood the true meaning of what was going on, but thought of it as a sort of comical movie with some sad bits. I admit that I cried at the point where Mufassa had died, but only a true film artist could give such emotion into a movie. Now that I have watched it a few more times, I get the full view of the movie and understand what I did not before. This is one of the only movies that I know of that has been this extraordinary and well thought out. I give tremendous respect to the creators of the excellent animation.",
-      "review_date": "2009-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The thing that makes this movie truly a masterpiece is the fact that it deals with real life. I believe this movie was created to present the meaning of the greatest thing that human beings face.This is the circle of life. I watched this The thing that makes this movie truly a masterpiece is the fact that it deals with real life. I believe this movie was created to present the meaning of the greatest thing that human beings face.This is the circle of life. I watched this film when I was six and it really stigmatized my life(I'm 18 now).The combination of the melanholic and celebrating soundtrack together with the vivid characters make this movie so wonderful and appealing to all ages.This is definitely one of Disney's greatest successes that has been a strong example to many kids all over the world incuding me. It has beautifully taught us about the meaning and the values of life. This film will always be in our hearts.",
-      "review_date": "2006-12-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A beautifully drawn animation allied with a strong narrative and fantastic musical numbers made \"The Lion King\" one of the Disney greatest accomplishments.",
-      "review_date": "2011-10-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Funny how Disney and Pixar can make films and get praised for them. I mean, I love the songs - Hakuna Matata is my favourite - it's understandable though that they can say it's merely 'a coincidence' that this is similar to another animationFunny how Disney and Pixar can make films and get praised for them. I mean, I love the songs - Hakuna Matata is my favourite - it's understandable though that they can say it's merely 'a coincidence' that this is similar to another animation and obtain a huge profit. It's unfair how companies like this can prey on the smaller ones for the sake of it. They can add these certain things to films, but I'm not saying that they're bad. I love how they can inject humour into animation, which I only really saw when Timon and Pumbaa were on the screen, and actually make the characters work, but this doesn't mean it's completely original. I don't think The Lion King can actually be given a higher score, because, although it did work, it didn't feel like they had done it themselves.",
-      "review_date": "2012-07-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The king of Disney indeed. The Lion King marks the pinnacle of Disney's Renaissance of the 1990s, and the best film to come out of that studio ever. Taking its roots from Shakespeare and Hamlet, it is more grown-up and epic than one wouldThe king of Disney indeed. The Lion King marks the pinnacle of Disney's Renaissance of the 1990s, and the best film to come out of that studio ever. Taking its roots from Shakespeare and Hamlet, it is more grown-up and epic than one would expect. Definitely one to keep on your DVD shelf.",
-      "review_date": "2014-09-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I had high hopes for this movie, but on all my viewings, I felt very disappointed. The film does not have much to offer, unlike other Disney masterpieces. I hope to have better viewings of this film in the future.",
-      "review_date": "2019-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One day Simba, you will become the king, when the sun are rises and take responsibility for your past.",
-      "review_date": "2021-09-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best Disney film ever drawn.",
-      "review_date": "2008-08-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "best film ever!!!! camera angles are very great! detail of shading in the characters, backgrounds and the way the film has been animated couldn't have been any better. people who don't see the sense of the film are just brainless best film ever!!!! camera angles are very great! detail of shading in the characters, backgrounds and the way the film has been animated couldn't have been any better. people who don't see the sense of the film are just brainless and don't have any kind of imagination and a sense of seing films in a different way! it's the best traditional animated film by far and i wish there will be more films like that in future.",
-      "review_date": "2008-04-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is the greatest Disney film of all time and possibly the most greatest cultural achievment of the the 20th century. I dont feel these critic reviews are accurate because they only watched this once and did not fully grasp the brilliance This is the greatest Disney film of all time and possibly the most greatest cultural achievment of the the 20th century. I dont feel these critic reviews are accurate because they only watched this once and did not fully grasp the brilliance of this fim in its entirity.",
-      "review_date": "2005-12-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "THis film is a definite masterpiece, nearly flawless. The story is excellently told, the soundtrack is breathtaking. The animation is a feast for the eyes. There's plenty of humor for adults and kids. This has classic written all over it.",
-      "review_date": "2006-03-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "i love this film so much. I used to watch it when i was little but i didn't really understand the meaning of this film. before, it was just a film which entertained me. now after i watched it, not only does it entertain me but also i love this film so much. I used to watch it when i was little but i didn't really understand the meaning of this film. before, it was just a film which entertained me. now after i watched it, not only does it entertain me but also gives me a message. This film is truly the best film ever made, it's entertaining, friendly, funny and makes me feel like a new person. i rate this movie an 11.",
-      "review_date": "2008-07-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is one of my favourite films of all time. I remember seeing when i was younger (i'm 17 now!) and i recall the fact that i thought it was brilliant the first time i watched it, and it still is!!! From the start of the opening song, This is one of my favourite films of all time. I remember seeing when i was younger (i'm 17 now!) and i recall the fact that i thought it was brilliant the first time i watched it, and it still is!!! From the start of the opening song, it continues to move you throughtout the movie. When Mufasa dies i cry so much!!! It still gets me everytime!!! The first time i saw this movie was also the first time i cried at a movie (so my mum says!!). Apparently a boy saw this film when his own father died and it helped him get through it. So this film means a lot to other people as well. Uh, such a fantastic film!!! The songs were great awell!!! WATCH IT!!!",
-      "review_date": "2005-12-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A great Disney movie. For all you people who immedetly reject it becasue its Disney, I have to say: It has a better plot than your Kill Bill movies.",
-      "review_date": "2005-09-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Lion King is a wonderful movie for kids... Some people not like the miovie because euther they don't have a good enough imagination to appricate it funny characters or they are just to old to like disneyclassic",
-      "review_date": "2006-12-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Can i start with who ever anoymnus is, is out of his/her mind. There isn't a song every other minute for one and honesly the lion king wouldn't be half as good without the music. Disney is serious since wen hav they done a movie Can i start with who ever anoymnus is, is out of his/her mind. There isn't a song every other minute for one and honesly the lion king wouldn't be half as good without the music. Disney is serious since wen hav they done a movie like that now. I mean the incredibles that was one of the mist popular films for kids not blade. Yeahe things change now and then but Disney are still the most respected film makers of all time. It's not made for kids anyway why does everyone say that Disney touches the heart of any human being who has one. They are emence. Anyway!! Lion KIng is just amazing it has everything a good film needs when i say everything i mean it. It's a film you just can't fault. At school we are doin my favourite film project in English I'm doing Lion King. I'm 13 yet i still love it to bits and so do all my mates. Even if Disney made films just for kids it wouldn't matter because to be honest growing old is compulsery but growing up is optinal and everyone has a kid inside!",
-      "review_date": "2006-02-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I usually don't care for animated movies but this film is the real deal, this is one of disney's best animated moviesif not the best. The animation is top notch and flawless. This film also features superb work from the vocal cast I usually don't care for animated movies but this film is the real deal, this is one of disney's best animated moviesif not the best. The animation is top notch and flawless. This film also features superb work from the vocal cast James Earl Jones, Jeremy Irons, Whoopi Goldberg. This is a standout.",
-      "review_date": "2007-03-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A classic that will live forever in the hearts of kids who grew up watching this movie, like me. I am really shocked that the movie doesn't have a high user score. Oh well, Hakuna Matata, no worries!",
-      "review_date": "2010-10-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A timeless Disney classic that soars near the top of the list of 'Best animated films of all time'. Heartfelt, featuring a stunning musical score and superbly animated, this is one of Disney's finest achievements, and a must watch for fans ofA timeless Disney classic that soars near the top of the list of 'Best animated films of all time'. Heartfelt, featuring a stunning musical score and superbly animated, this is one of Disney's finest achievements, and a must watch for fans of animated films.",
-      "review_date": "2010-10-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "While the Disney Renaissance presented us such great classics like \"The Little Mermaid\", \"Beauty and the Beast\", and \"Aladdin\", they released another movie that has talking lions and other talking animals and such great wonder also known asWhile the Disney Renaissance presented us such great classics like \"The Little Mermaid\", \"Beauty and the Beast\", and \"Aladdin\", they released another movie that has talking lions and other talking animals and such great wonder also known as \"The Lion King\". Before I begin, let me ask one question: Why is it that every movie you have saw just literally become such great classics? It's because of their creative efforts and mere pride and this movie is one of them.\r The story tells of a young cub named Simba (Jonathan Taylor Thomas), the son of Mufasa (James Earl Jones) who is destined to become king of the Pride Rock. One day, Simba's ruthless evil uncle Scar (Jeremy Irons) plots to take over Pride Rock by killing his father and tricks Simba into feeling guilty which causes him to flee from the kingdom never to return. Once he disappears, he meets two friends named Timon, a meek rat, and Pumbaa, a warthog who helps teach him the meaning of \"Hakuna Matata\". A few years later, after reuniting with his friend Nala, Simba, now an adult (Matthew Broderick) realizes that he doesn't know who he is anymore and is aware that Scar has destroyed everything that the lions had hunted for. He is then persuaded to return to Pride Rock and must overthrow his uncle to restore the kingdom to its rightful place.\r After its success at the box office with $783 dollars which marks this movie as the 32nd highest grossing feature film, everything else has been praised due to Disney and their intelligence.\r The music score by Hans Zimmer and the songs written by Elton John and Tim Rice were considered to be successful in cinema history, The animation and characters were very memorable, The acting was superb and the cinematography was terrific.\r The Lion King is one of the greatest animated movies of all time and is one of my childhood favorites that will teach me that this movie means no worries. Thank you Disney. With your charm and brilliance, a thumbs up from me.\r 10/10",
-      "review_date": "2011-06-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Its one of the greatest animation films of all time for a reason (if not the greatest). The Lion King is great from start to finish. I really enjoyed it and I am confused that it has recieved such a low score from critics and users when itsIts one of the greatest animation films of all time for a reason (if not the greatest). The Lion King is great from start to finish. I really enjoyed it and I am confused that it has recieved such a low score from critics and users when its so much better then that.",
-      "review_date": "2011-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A masterful film that is the absolute best from Disney. I say this is my favorite animated film of all time, if not my overall favorite. Disney put their best effort into this film, and all the haters can suck Mufasa's nuts.10/10",
-      "review_date": "2011-11-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I first watched The Lion King when I was eight, and enjoyed it for all the quirky characters.  But after rewatching it years later, I discovered the deeper meaning behind it.  This is one of my favorite movies of all time, and is the lastI first watched The Lion King when I was eight, and enjoyed it for all the quirky characters.  But after rewatching it years later, I discovered the deeper meaning behind it.  This is one of my favorite movies of all time, and is the last epic disney movie.  They could have done better with Lion King 2, but you cant win all the battles.  And to the people that said that this is a rip off of Kimba the White Lion, What the **** are you talking about? I read the plot line, its about humans trying to kill animals.  I dont understand your point of view to this movie.  And this is also probably one of the darkest things I have ever seen, and I saw Suckerpunch and played Portal.",
-      "review_date": "2011-04-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is one of Disney's best movies, it has likable characters, humor, action, drama, a great plot, ultimately this is one of the best movies ever a must see.",
-      "review_date": "2011-02-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A young lion Prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days.A young lion Prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young Prince must decide his fate: will he remain an outcast, or face his demons and become what he needs to be?",
-      "review_date": "2017-06-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie brings back so many childhood memories. I loved it then and I love it now and I will always love it. Recommend it HIGHLY. In my opinion, one of, if not the best, Disney movie",
-      "review_date": "2011-10-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Classic. Emotion, suspense, stunning visuals and audio, great storyline, entertainment- what more can you want from a movie? The Lion King is the best animated movie of all time. An epic story, but better visuals.",
-      "review_date": "2011-03-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In the Pride Lands of Africa, Lion King Mufasa and Queen Sarabi rule over the animal kingdom. When their son is born, Musafa’s brother Scar plots to take the throne.A beautifully animated and emotional journey full of great songs, The LionIn the Pride Lands of Africa, Lion King Mufasa and Queen Sarabi rule over the animal kingdom. When their son is born, Musafa’s brother Scar plots to take the throne.A beautifully animated and emotional journey full of great songs, The Lion King ranks among the very best Disney movies.",
-      "review_date": "2022-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Deeply heartfelt and pure. A stunning movie.    .",
-      "review_date": "2015-03-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Lion King is the best ever Disney movie and the best animated movie of all time. It is an emotional and heart warming journey. The Lion king showed what a powerful and stunning film it was in 1994 and why to this day it is still the bestThe Lion King is the best ever Disney movie and the best animated movie of all time. It is an emotional and heart warming journey. The Lion king showed what a powerful and stunning film it was in 1994 and why to this day it is still the best Disney movie of all time.",
-      "review_date": "2014-05-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Emotionally resonant and beautifully animated. The Lion King stands tall within Disney's pantheon of classic family films. This should have gotten a Best Picture nomination at the1994 Oscars. 4/4 stars.",
-      "review_date": "2011-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the great animations, very good characters, songs and a timeless story.",
-      "review_date": "2019-12-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Hands down one of the greatest movies of all time, if not the best animated one. Only few movies can take a very sad moment and then turn around and make you life when just a few minutes.",
-      "review_date": "2011-11-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Honestly, The Lion King may not get the highest rating from me but it will always be my favorite animated movie of all time. Star studded cast that does their job well, Great and memorable songs, Likeable characters. Only thing I don't careHonestly, The Lion King may not get the highest rating from me but it will always be my favorite animated movie of all time. Star studded cast that does their job well, Great and memorable songs, Likeable characters. Only thing I don't care for was the casting of Matthew Broderick as the adult Simba, I didn't feel that he fit the part well. Aside from that, It's a great movie and once again, My favorite animated film of all time.",
-      "review_date": "2013-02-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "You can't go wrong with classic Disney. The Lion King is phenomenal in every aspect - the songs, the characters, the animation, and the musical score by Hans Zimmer. It's an amazing movie and it's guaranteed to entertain people of all agesYou can't go wrong with classic Disney. The Lion King is phenomenal in every aspect - the songs, the characters, the animation, and the musical score by Hans Zimmer. It's an amazing movie and it's guaranteed to entertain people of all ages for years to come.",
-      "review_date": "2012-03-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When Simba is young he is naive to the world. Like any child he easily believes almost anything someone tells him and he is eager to discover new things. When his father tells him that one day he will to be king, Simba immediately gets thatWhen Simba is young he is naive to the world. Like any child he easily believes almost anything someone tells him and he is eager to discover new things. When his father tells him that one day he will to be king, Simba immediately gets that sparkle of astonishment in his eyes. However being the naive child he is, he thinks being king is all about having power and just doing what he wants. This can symbolize the way kids think when they are little, they think growing up means you can boss around anyone you want and you have no responsibility. As he goes into exile he develops a more carefree attitude and thinks he has found what it means to be an adult. Like many of us when we were teens, we didnâ",
-      "review_date": "2012-03-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I seriously can't find any flaws. It's a masterpiece. It has great visuals, a touching and epic story, and many songs and sequences that make you cry not only out of nostalgia, but also because it's just so touching.",
-      "review_date": "2012-07-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing movie, set the bar for modern-day animation, really stays in your heard for years after you watch the movie, with exceptional work on soundtracks by the brilliant Hans Zimmer. The characters are depicted extremely well, making viewersAmazing movie, set the bar for modern-day animation, really stays in your heard for years after you watch the movie, with exceptional work on soundtracks by the brilliant Hans Zimmer. The characters are depicted extremely well, making viewers empathetic with characters like Simba, Mufasa, Zazu etc. Overall, this is a great movie and will be remembered for generations.",
-      "review_date": "2013-04-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Truly a masterpiece. I don't know is it me, but he Hyenas were my favorite character especially Ed! Overall perfect movie.",
-      "review_date": "2019-10-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My words are not necessary! I'm sure you watched this masterpiece...if you haven't seen it, then do it now! The soundtracks are amazing! The story is very instructive and emotional, a pure perfect Disney classic!",
-      "review_date": "2013-03-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An amazing masterpiece of animation by Disney. With such power and thought into it, it's no wonder this film is as acclaimed as it is. The voices fit the characters perfectly, the music's rhythm coincides perfectly with the tone of the movie.An amazing masterpiece of animation by Disney. With such power and thought into it, it's no wonder this film is as acclaimed as it is. The voices fit the characters perfectly, the music's rhythm coincides perfectly with the tone of the movie. And Timon and Pumbaa ease the tense moments with pure hilarity. As amazing as Hamlet itself.",
-      "review_date": "2014-07-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Lion King is an old and repeated story's unilateral model, as seen in Romeo and Juliet, but even so it's a film full of soul and beauty and visually, even after 25 years, it looks like it was produced yesterday.",
-      "review_date": "2019-08-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A classic tale of \"survival of the fittest\", The Lion King is an all-time classic for the ages that will never die and will remain as one of the best animated movies ever made.",
-      "review_date": "2013-09-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A timeless classic, \"The Lion king\" resonates thanks to its impeccable voice acting, simple story, and terrific songs and animation.",
-      "review_date": "2019-07-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best animated Disney movies. However they „borrowed“ heavily from Kimba the White Lion from Osamu Tezuka. If you ask how heavily lets say if it were in reverse Disney would have unleashed hell and sued them into oblivion. There isOne of the best animated Disney movies. However they „borrowed“ heavily from Kimba the White Lion from Osamu Tezuka. If you ask how heavily lets say if it were in reverse Disney would have unleashed hell and sued them into oblivion. There is even a reference or side-blow by the Simpsons in one episode. To be fair I must also admit that they used some original themes. It is the story of the lion Simba who is the son of the king of lions Mufasa. It is a coming of age or self discovery story transferred in the animal Kingdom. There is a lot more to the story that I cant spoil but will say the story was always entertaining. It has a lot of great additional characters like Timon and Pumbaa who transcended the movie and became the stars of their own show. This is not surprising as they are funny, enjoyable and have a dynamic like only a few duos in Disney movie history. There is of cause Mufasa himself who is a role model for a good and wise king and his brother Scar who is one of the best antagonist in Disney movies. There is also Rafiki who nailed the role of elderly wise man. I will also praise the three hyenas Shenzi, Banzai and Ed as Zazu the majordomos and Nala (cant spoil). The greatest strength are the facial animations that are well transferred to the animals. You can see all (human) emotions and can relate perfectly to the characters. This is a weakness of the remake as more realistic means lifeless or emotionless here. But back to this movie. The overall animations are still looking good today (Aged well). I also praise the soundtrack. They got Elton John and Hans Zimmer (and a lot of other stars). I am the kind of person that does not enjoy singing in Disney movies but this is the exception as it won me over. “Hakuna Matata” is great as are “Circle of Life”, “Can you feel the Love tonight” and “I cant wait to be King”. Overall it has a great story with enjoyable characters and you can see the care and thoughtfulness. One of the best Disney movies but a shame that they had to “borrow” so much ideas.",
-      "review_date": "2020-09-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Lion King is one of the best Disney films I've ever seen in my entire life. It had an intense and heartfelt coming-of-age story, a strong message about life lessons, beautiful animation, loveable and memorable characters, spot on voiceThe Lion King is one of the best Disney films I've ever seen in my entire life. It had an intense and heartfelt coming-of-age story, a strong message about life lessons, beautiful animation, loveable and memorable characters, spot on voice acting and unforgettable songs by Elton John and Tim Rice. If you're a Disney fan like I am, this is a must-watch. It is a timeless classic that kids and adults can enjoy. I gave it a 10 out of 10.",
-      "review_date": "2014-12-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "If you haven't seen this movie, then you definitely need to watch it this instant! It's a spectacular film with plenty of laughs for kids and even hidden themes for adults. Definitely a Disney classic.",
-      "review_date": "2015-01-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "AHHHHHHHHHHH SEVENYAAAAAAAAAAAAAAAA!\r To start off, this is the movie your kids deserve to watch and nothing less quality if you want to like good movies in the future. I kid kid, but although I give this movie a 8, it's actually more of aAHHHHHHHHHHH SEVENYAAAAAAAAAAAAAAAA!\r To start off, this is the movie your kids deserve to watch and nothing less quality if you want to like good movies in the future. I kid kid, but although I give this movie a 8, it's actually more of a 8.5 for me. The movie is easy to understand and it was purposely made for youth so don't get so uptight about this movie not being Shawshank or Inceptionlike. That being said, this review is for those who haven't seen it.\rMusic...easy A man. This is stuff that you should know even in your sleep. It's a kid movie so expect the musical aspect to seep in here and there. Sing along too or else you're just not experiencing what the producers made\r Plot/Characters: im 20 years old and I'm still not ready to accept some of the scenes but I know that every movie needs a basic problem and solution. That being said, this is a timeless work.\r I appreciate that the writers actually took time to research the animals and setting shown in this movie. That is bonus points for me when someone does their homework and executes perfectly.\r If i had to describe this movie in one word, it would be: rainbow. The reason for that is that you will feel all those colors in the rainbow throughout this movie. Yes, it's animated but don't let that ever dictate what is good.\r Watch this with a friend and call up a homie that has seen this before. I recommend calling up the crew to get that singalong going on.",
-      "review_date": "2015-03-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Disney's best film by far, is still a great epic to be seen by all Disneyphiles out there.\r A adaption of the classical Broadway hit, the film is magnificent and a spectacular triumph displaying every element of Disney's promises for greatDisney's best film by far, is still a great epic to be seen by all Disneyphiles out there.\r A adaption of the classical Broadway hit, the film is magnificent and a spectacular triumph displaying every element of Disney's promises for great entertainment .\r The story of a young exiled Lion who must return to his pack after it has been taken over hyenas, to fulfill his destiny as their rightful king, is still a well memorable classic among generations of fans.\r Featuring a great score by Hans Zimmer, the film is completely undeniably spectacular and must be watched more than twice....\r A CERTIFIED MASTERPIECE!",
-      "review_date": "2015-06-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a fantastic movie, and I am not lying! my 13 year old sister loves this movie, and I can't fault this either. It was one of the first movies I ever saw, so that accounts for how much I love it. The animation is superb, the backgroundsThis is a fantastic movie, and I am not lying! my 13 year old sister loves this movie, and I can't fault this either. It was one of the first movies I ever saw, so that accounts for how much I love it. The animation is superb, the backgrounds look so rich, and for once, there are no stiff movements. The highlights were the stampede and the fight between Scar and Simba. The music by Hans Zimmer is outstanding, a perfect mix of African chants and pure Hollywood. The songs are absolutely great, I had no idea that Elton John could write like that. The best song is \"Can you feel the Love Tonight?\" but the others go without fault, \"Circle of Life\" is so spirit rousing especially. Likewise with the voice overs. Jonathan Taylor Thomas is very likable as Young Simba, and Matthew Broderick, while not as good, is above average too. James Earl Jones lends his booming voice to the majestic King Mufassa, and Nathan Lane, Rowan Atkinson and Whoopi Goldberg provide flawless comic relief. The vocal standout is Jeremy Irons as Scar, who frightened me when I was little. Scar is up there with the best Disney villains, like Jafar, Malificent and Frollo. The humour here is fantastic, and you cry here a bit here as well. I highly recommend the stage version in the West End, and the sequels are actually two of the better DTV sequels.10/10. Bethany Cox",
-      "review_date": "2022-03-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great music, lovable characters and a brilliant story. This film touches your heart and is an absolute masterpiece. The animation and art are beautiful. A must watch.",
-      "review_date": "2015-09-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good, but most definitely overrated. Last time I saw it I was 5 years old, and now, having rewatched it, I realized the plot isn't that good. It merely pleads for sympathy together with a beautiful picture, but isn't motivated or complicatedGood, but most definitely overrated. Last time I saw it I was 5 years old, and now, having rewatched it, I realized the plot isn't that good. It merely pleads for sympathy together with a beautiful picture, but isn't motivated or complicated enough if you're older than 7. The whole episode of Simba's return and the fight is just awkward. Also, why would Scar be such a bad king? You can't deny he was clever and probably knew how to rule, while Simba didn't. Each move in the plot, and often even speeches were easilly guessable to me (and I didn't remember anything). Also, Kimba's plot base most probably defined the success of this one. The sequel imo shows that Disney couldn't make a good Lion King on their own.Needless to say though, music and animation are awesome.",
-      "review_date": "2018-07-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's not the best Disney animated film you've ever seen; but if you can find your heart at the circle of life, you'll pretty much enjoy the movie as I did.",
-      "review_date": "2016-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "And now the one that really chilled and thrilled me, The Lion King the most powerful film of all time. I've seen the trailers from it in VHS's years ago when I was a kid and teenager, taken from The Fox and the Hound, Sleeping Beauty, Dumbo,And now the one that really chilled and thrilled me, The Lion King the most powerful film of all time. I've seen the trailers from it in VHS's years ago when I was a kid and teenager, taken from The Fox and the Hound, Sleeping Beauty, Dumbo, Pinocchio, Pocahontas, Snow White and the Seven Dwarfs, The Aristocats, Aladdin and The Sword in the Stone. This movie did so well it grossed a total of $968. How's that for a Disney movie. I gotta tell ya, this is one of my favourite Disney films of all time. I think it's everybody favourites as well. Hell, I actually cried at one scene but I'll get to that later. The songs are catchy and memorable like songs called Circle of Life, that's a powerful song, I Just Can't Wait To Be King, the one that I've sing is Be Prepared, there's Hakuna Matata and Can You Feel The Love Tonight. There's another by Elton John which my friend Sam Hudson liked cause he likes Elton John. As you know, the songs are by Elton John and Tim Rice. Even the music sounds different. Listen to the powerful verses from every music taken from every scene from this masterpiece. It's composed by Hans Zimmer. I've just found out that he most movies in the decade. He just the master of music. One of my friends loved it. actually there's only one person who actually love it and that is my friend who is from my old school and who is obsessed with this The Lion King, he's name is Matthew Fender. I gotta tell you, me and Matthew have been quoting dialogue. Like I said me and my friends been doing it non-stop. We were singing songs from it. The animation is just top notch. The animator used the same animation what they did like in The Little Mermaid, Beauty and the Beast and Aladdin. They use hand drawn animation and computer animation together to make the animation look realistic. It's fantastic. The characters are memorable and hilariously funny. There's Simba voiced by Matthew Broderick, Mufasa the most powerful king in the entire world and teaches Simba how to become a great king, he is voiced by James Earl Jones, there's Scar who is my favourite Disney villain who is makes me laugh and takes over Pride Rock. He also gets some funny lines like ''That was today? Ohh, I felt simply awful! Must have slip my mind.'' and ''An elephant graveyard is no place for a young prince. Oops!'' Hilarious, isn't it? The two pals Timon and Pumbaa, they're funny and they get there own TV show. Nala who is best friend, Zazu Mufasa's majordomo and guess what? He's voiced by Mr Bean star Rowan Atkinson. How fascinating is that, huh? The wise old Rafiki, shaman of the Pride Lands and then there's three funny hyenas, Shenzi who is sassy and she plays by Whoopi Goldberg, Banzai who is funny and aggressive and he's voiced by Cheech Marin who also voiced Tito from Oliver and Company. Actually two characters from Cheech Marin is hilarious and funny. And Ed who does not talk but only laughs. Man, these characters are so great I could even think the three hyenas who are the highlight of this movie and they even get some funny lines like Banzai says ''Mufasa!'' and other characters Zazu even Timon and Pumbaa. Now let's get on with the scenes. The scenes are hilarious, powerful and groundbraking even the story makes the film strong and extraordinary. The scene where Mufasa shows Simba how to become a great king and the scene where Simba, Nala and Zazu went to the elephant graveyard after Simba singing I Just Can't Wait To The King they come across three hyenas so they escaped but Zazu is captured and puts into the geysor and flew away, the scene where Scar singing ''Be Prepared'' that's a really great song. The stampede scene is just brilliant and so powerful with the most powerful music ever put on film where Simba gets chased by Wildebeests in the gorge and Mufasa saves him and begs Scar to help him but Scar kills Mufasa. Now while I was watching Mufasa's death I was in tears. Remember what I said in the Turner and Hooch film? That's what I mean. And I gotta tell you guys, much like Bambi where Bambi's mom is shot, you don't see the body. In this one though, you see Mufasa's body. That is a saddest and upsetting thing for kids! But what makes the stampede scene look great and magical is the animation. The wildebeests is made from computer animation and the characters are hand drawn animation. It is big! If you take a look of that scene you might be look at it on Blu ray standard because that is the magic. Everyone remembers the songs, the story, the characters, the music, the animation, everything about it is A-MA-ZING! Matthew Fender and I love quoting the lines from it and just like me, Jacob and Liam though this is the most powerful Disney film to be ever remembered and loved. Absolutely phenomenal film! Remember, we are all connected in the great Circle of Life.",
-      "review_date": "2019-04-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "With pure colors, a great plot, an excellently though message, unforgettable characters and breathtaking music (thanks to Elton Jhon), this films b comes a Disney classic that soars from the shadows, to entertain any kind of viewers, withWith pure colors, a great plot, an excellently though message, unforgettable characters and breathtaking music (thanks to Elton Jhon), this films b comes a Disney classic that soars from the shadows, to entertain any kind of viewers, with what a great film gotta be. Who wouldn't like a film like this? Enjoy.\rAdvert: This film could be traumatic for -5 viewers and Asperger Syndrome young viewers.",
-      "review_date": "2016-05-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Me gustan muchos los personajes, grandes canciones y una buena trama. Timon y Pumba se roban todo.",
-      "review_date": "2018-01-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "the Lion King is definitely one of the best all around movies ever. i love all it's hidden messages and it's morals / life lessons. for example : don't let your problems rule your life aka Hakuna Matata. people are not always who they seem tothe Lion King is definitely one of the best all around movies ever. i love all it's hidden messages and it's morals / life lessons. for example : don't let your problems rule your life aka Hakuna Matata. people are not always who they seem to be Scar kills Mufasa. also if you didnt notice when Scar was in the outlands he ruled over the hyenas and he played the role of Hitler and the hyenas where the Nazis hence the Goose Walk.",
-      "review_date": "2016-03-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My favorite animated movie of all-time. A touching and powerful story driven by charismatic and intriguing characters. It's absolutely a classic.",
-      "review_date": "2020-06-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "For all the undeniable merits, it somehow feels manufactured, and thus, to a degree, calculated - the product not of a collective imagination taking esthetic chances, but of an imaginative collective putting the rivets into a well-wroughtFor all the undeniable merits, it somehow feels manufactured, and thus, to a degree, calculated - the product not of a collective imagination taking esthetic chances, but of an imaginative collective putting the rivets into a well-wrought plan that can't go awry.",
-      "review_date": "2016-10-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was simply well made. The songs were memorable and amazing, the characters were believable (and arguably acted more human than many movies with human actors), and the animation was vibrant and lush, depicting a unique style of art,This movie was simply well made. The songs were memorable and amazing, the characters were believable (and arguably acted more human than many movies with human actors), and the animation was vibrant and lush, depicting a unique style of art, and still getting the movements of the characters down pat. The story really digs deep into Simba's character, which leaves the other characters a bit stagnant, but that's not to say they aren't developed. They each have their own part to play in the story. The comic relief detracts from the heavier story just enough to keep the feature from being too depressing (it is disney, they like a lighter feel to their movies).\r Now, on the controversy some people have brought up about \"Disney ripping off 'Kimba: The White Lion'\", I looked into it, and in terms of story and characters, it seems the two are separate. Some art direction seems to have gone the same direction, although Disney and the guys who did Kimba did start working together on a project related to Kimba. The project was scrapped, but the people who had worked on the project probably decided to adapt some concept art to Lion King. Btw, the similarity of the names \"Simba\" and \"Kimba\" is probably coincidental, considering most of the names in \"The Lion King\" are based on Swahili words (simba means 'lion').\r Regardless, it is a solid movie that I recommend.",
-      "review_date": "2016-11-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "First of all, the music in this film is just so iconic and no matter what generation you are a part of you have heard these songs more than once. It’s not just the songs that I’m talking about the score, composed by Hans Zimmer, isFirst of all, the music in this film is just so iconic and no matter what generation you are a part of you have heard these songs more than once. It’s not just the songs that I’m talking about the score, composed by Hans Zimmer, is spectacular. The score fits so well with every scene and it helps to intensify the scene. The entire movie is just filled with incredible music. The animation in this film is stunning and, in my opinion, looks better than some of the animated movies we have now a day. The animals have amazing detail on them and you can easily tell that the animators put a lot of effort into making each and every detail. Not just with the animals but the background as well. This is best shown in the “I Just can’t Wait to be King” song where the animators took the time to change up the backgrounds to help convey that this is a dream sequence. I know it’s weird to mention cinematography in an animated film but honestly, this film almost feels like a live-action film and I will do whatever I want because the cinematography is outstanding in this film. From shots where they are showing a bright scene and then quickly changing to dark is just amazing. The characters in this film feel three-dimensional and anybody can easily relate to one or more of the characters. From the people who are free and easy-going like Timon and Pumbaa to the protective parent like Mufasa they all are relatable and had great voice casting. Everybody was perfectly voice casted and I could easily see them as that character. I only really had a problem sometimes with Matthew Broderick where a couple of times I couldn’t really hear it. This film has a great message in it that you shouldn’t run away from your problems but deal with them right then and there in the present. In the end, this film is perfect for anybody and everybody.",
-      "review_date": "2019-07-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Sinceramente es mi película favorita,cada vez que veo que la pasan la miro, su historia es única, lo que causa cuando miras la película  por primera vez es único, incluso después de verla varias veces sigue causando sentimientos, obviamenteSinceramente es mi película favorita,cada vez que veo que la pasan la miro, su historia es única, lo que causa cuando miras la película  por primera vez es único, incluso después de verla varias veces sigue causando sentimientos, obviamente la recomiendo.",
-      "review_date": "2017-06-03",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 121
+    "title": "The Lion King",
+    "rating": 8.8,
+    "release_date": "1994-06-15",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Animation",
+        "Family",
+        "Musical"
+    ],
+    "summary": "Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king, searches for his destiny in the great \"Circle of Life.\" [Disney]",
+    "critic_reviews": [
+        "A technically groundbreaking collaborative work with humor, heart, and talent showing through in every carefully chosen line.",
+        "Pure, eye-popping pleasure.",
+        "A hugely entertaining blend of music, fun and eye-popping thrills, though it doesn't lack for heart.",
+        "A scrumptiously delightful moviegoing experience.",
+        "Has the resonance to stand not just as a terrific cartoon but as an emotionally pungent movie.",
+        "More so than the exuberant movie miracles that came before it, this latest animated juggernaut has the feeling of a clever, predictable product. To its great advantage, it has been contrived with a spirited, animal-loving prettiness no child will resist.",
+        "A timeless classic, full of excitement, humor, witty asides and memorable characters.",
+        "This is the Mickey Mouse factory at its finest, with inventive animation, stirring music and a pride of inspired, almost-human animals.",
+        "There are moments of fun and humor, to be sure, but the undercurrent is of a far more serious, \"adult\" nature.  The Lion King is primarily about guilt and redemption.",
+        "Basically what we have here is a drama, with comedy occasionally lifting the mood. The result is a surprising seriousness; this isn't the mindless romp with cute animals.",
+        "This is more a favourite of the children than adult Disney fans. It has a few memorable songs and has spawned a very popular stage production.",
+        "The Lion King remains one of the strongest Disney efforts of the 1990s, and arguably its last great, traditionally animated feature.",
+        "A dazzling -- and unexpectedly daring -- addition to the Disney canon.",
+        "Even with its flaws, this latest Disney animated feature once again delivers what its audience wants.",
+        "It's a thumping good adventure.",
+        "It bears repeating that The Lion King is quite entertaining as children's fare goes these days. But Disney has established a standard so high on animated features that anything less than a classic leaves you feeling that something's missing.",
+        "For all the undeniable merits, it somehow feels manufactured, and thus, to a degree, calculated - the product not of a collective imagination taking esthetic chances, but of an imaginative collective putting the rivets into a well-wrought plan that can't go awry.",
+        "The result is a step toward multiculturalism and ecological correctness, though not without a certain amount of confusion. The movie is not quite as entertaining as The Little Mermaid or Beauty and the Beast.",
+        "Although far from the worst offender in Disney's canon, The Lion King is nevertheless host to many of the less savory qualities common to the studio's output.",
+        "The film has some of Disney's most spectacular animation yet -- particularly in the wildebeest stampede -- and strong vocal performances, especially by skilled Broadway comedian Nathan Lane. However, it suffers from a curiously undeveloped story line.",
+        "Shakespearean in tone, epic in scope, it seems more appropriate for grown-ups than for kids. If truth be told, even for adults it is downright strange."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Disney animation's \"The Lion King\" is a masterpiece and the godfather of all animations.",
+            "review_date": "2011-09-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Lion King may not be *the* greatest movie of all time, but it's probably in the top 10 or so.  The plot is pretty standard fare, but it doesn't even matter, because it's all about the presentation of that story.  Speaking of which, theThe Lion King may not be *the* greatest movie of all time, but it's probably in the top 10 or so.  The plot is pretty standard fare, but it doesn't even matter, because it's all about the presentation of that story.  Speaking of which, the animation, voice acting, songs, and emotional element of The Lion King carry it to such great heights, and come pretty close to perfect.  I look back on it today, and some of the opening scenes still give me goosebumps when I watch the sun rising over the savanna.  And then you have the saddest scene in just about any modern Disney movie... those who've seen it (everybody at this point) know what I'm talking about.  All in all, it's a beautiful film of love, fatherhood, death, betrayal, revenge, friendship, and rising to destiny.",
+            "review_date": "2011-10-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is my favorite Disney movie. I know that it is not that it does not have very much facts, but it's just a movie. It's fantasy, and fantasy can have anything. So yes I give it a 10.",
+            "review_date": "2006-07-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one of my favorite movies of all time. The cast, led by Jonathan Taylor Thomas and Matthew Broderick, was simply amazing. The animation was absolutely brilliant. The movie is just incredible. If you haven't seen it, I strongly This is one of my favorite movies of all time. The cast, led by Jonathan Taylor Thomas and Matthew Broderick, was simply amazing. The animation was absolutely brilliant. The movie is just incredible. If you haven't seen it, I strongly recommend it for kids and adults",
+            "review_date": "2007-03-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The is the most amazing film ever created by disney. I cannot imagine anything they could have done better. It is a memerable classic, and touches the heart of young and old alike.",
+            "review_date": "2009-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Perhaps it's because it's an essential part of my childhood, but The Lion King will always be regarded by me as one of the greatest cartoons ever made. Yes, it's an adaptation of Hamlet, but one that communicates with children Perhaps it's because it's an essential part of my childhood, but The Lion King will always be regarded by me as one of the greatest cartoons ever made. Yes, it's an adaptation of Hamlet, but one that communicates with children and adults alike. There is depth to Simba which is unparalleled in many other Disney movies. Perhaps it's nostalgia, but I think kids today cannot comprehend what they're missing. I, for one, miss the anticipation of the yearly 2-D Disney cartoon. I guess I'm still a kid at heart.",
+            "review_date": "2007-04-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An outstanding film, back when people put there heart  into everything to be proud of there achievements and to express there talents which were recognized by Disney later choosing the cast very, very well. This film I want to say is my bestAn outstanding film, back when people put there heart  into everything to be proud of there achievements and to express there talents which were recognized by Disney later choosing the cast very, very well. This film I want to say is my best Disney film however I also love Aladdin :). Then B&TB and Hercules. Anyway. This film has a lot of guidance and morals for all ages. Makes me think whats happened to Disney :( Mufasa (James Earl Jones) is Simba's dad and has the perfect voice for a strong lion teaching his son the lessons in life. Like not to take being future king for granted, it's not about getting your own way. And that everyone is one. He also tells his son about the stars, and if he is not here in later life, then to look up at the stars as all of the great kings are up there watching over him. Samba being a small cub has to learn the hard way because of his evil uncle scar. At first he truss to trick samba and forces him to go against his fathers will. It ends up with samba leaving pride rock, but finds two true friends who bring him back to his normal self with the help of an old friend and his fathers friend who christened him at birth. Samba returns to pride Rock some years later, returning the once great land back to how it used to be. And continues with Simba and Nala having a child of there own. And continues, the circle of life. such powerful scenes that can make grown men cry (who are not dead inside) and powerful voice acting that fit each roll perfectly. A brilliant soundtrack that fits very well. And also the meanings and morals in this film alone are what society today is very rappdley loosing. If only James Earl jones could be the king of England! Ohh and must say that I love zazu too :) (probally spelt it wrong)",
+            "review_date": "2011-09-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A wonderful work of animation that is vibrant with color, song, and a stellar emotional core.",
+            "review_date": "2012-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An epic and lovely adventure in every way, this animated production is definitely an icon of its genre. First of all the storyline is great, very unique and funny that will submerge you into a whole new world inside this movie with its veryAn epic and lovely adventure in every way, this animated production is definitely an icon of its genre. First of all the storyline is great, very unique and funny that will submerge you into a whole new world inside this movie with its very well made visual production and style. The plot is interesting and entertaining too, with a friendly story and a light atmosphere that takes exiting shifts as it progresses introducing different scenarios that all together construct a beautiful movie. The characters are just adorable with charming performances, and often a musical number with a memorable soundtrack is included that adds to the wonderful experience this is from beginning to end.",
+            "review_date": "2012-01-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Disney's greatest movie. Every song in this movie is at worst extremely good, with Circle of Life and Can You Feel the Love Tonight just being amazing; the worst song in this movie is better than most musicals' best songs by a fairly wideDisney's greatest movie. Every song in this movie is at worst extremely good, with Circle of Life and Can You Feel the Love Tonight just being amazing; the worst song in this movie is better than most musicals' best songs by a fairly wide margin.\r Amazing, beautiful animation, a solid story, strong characterization, good flow  it just works.",
+            "review_date": "2013-11-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was simply well made. The songs were memorable and amazing, the characters were believable (and arguably acted more human than many movies with human actors), and the animation was vibrant and lush, depicting a unique style of art,This movie was simply well made. The songs were memorable and amazing, the characters were believable (and arguably acted more human than many movies with human actors), and the animation was vibrant and lush, depicting a unique style of art, and still getting the movements of the characters down pat. The story really digs deep into Simba's character, which leaves the other characters a bit stagnant, but that's not to say they aren't developed. They each have their own part to play in the story. The comic relief detracts from the heavier story just enough to keep the feature from being too depressing (it is disney, they like a lighter feel to their movies).Now, on the controversy some people have brought up about \"Disney ripping off 'Kimba: The White Lion'\", I looked into it, and in terms of story and characters, it seems the two are separate. Some art direction seems to have gone the same direction, although Disney and the guys who did Kimba did start working together on a project related to Kimba. The project was scrapped, but the people who had worked on the project probably decided to adapt some concept art to Lion King. Btw, the similarity of the names \"Simba\" and \"Kimba\" is probably coincidental, considering most of the names in \"The Lion King\" are based on Swahili words (simba means 'lion').Regardless, it is a solid movie that I recommend.",
+            "review_date": "2011-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best animated movie of all time. And one of the greatest movie ever made! Every time I see The Lion King I get a special feeling inside me, something that I can't explain with words. The movie is so beautiful and the characters areThe best animated movie of all time. And one of the greatest movie ever made! Every time I see The Lion King I get a special feeling inside me, something that I can't explain with words. The movie is so beautiful and the characters are memorable. The songs are excellent, the soundtrack made by Hans Zimmer is so touching and the opening scene itself are breathtaking. The Lion King is a true masterpiece.",
+            "review_date": "2011-05-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Lion King has great characters and a lot of memorable songs. I think that the story is thin and short though, which makes the idea of the film very simple.",
+            "review_date": "2011-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Who would believe this is my first time watch this classic Disney jewel in the crown and the location was ruefully in the plane. After last year's mega-successful re-entering into 3D multiplexes, clearly it becomes more urgent for me toWho would believe this is my first time watch this classic Disney jewel in the crown and the location was ruefully in the plane. After last year's mega-successful re-entering into 3D multiplexes, clearly it becomes more urgent for me to cancel it from my unfinished masterpiece list (there are more horrifying ones on my list which I wish I could show it here). THE LION KING is a timeless artwork, it's technical index could not remain its cutting-edge 2D advances in 1994, the story nevertheless is in perfect pitch for audience from every degree of ages, the HAMLET-inspired plot could feasibly find more evocation with adult groups while the colorful appealing is irresistible for youngsters. It's an archetypical win-win Disney Animation. The narrative is tightly intriguing, the O.S.T. is top-notch although I can hardly admit Elton John\u00e2",
+            "review_date": "2012-05-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An absolute masterpiece. A truly wonderful film for the whole family. This movie is a cartoon but it is more compelling, emotional then most non animated films. Truly spectacular.",
+            "review_date": "2012-04-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you don't like The Lion King than I don't like you.",
+            "review_date": "2012-11-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you have not seen this movie, do so. The Lion King is my favorite movie ever, on all levels. It's not just a fantastic kid's movie. It's a movie that just about all people can enjoy. There are no flaws that bring down this movieIf you have not seen this movie, do so. The Lion King is my favorite movie ever, on all levels. It's not just a fantastic kid's movie. It's a movie that just about all people can enjoy. There are no flaws that bring down this movie whatsoever. Every single level of production goes way beyond its expectations. From the excellent main cast to the classic musical numbers, everything about this movie is memorable. This film should be used as a tool for up-and-coming animators who want to make movies at the same level of this movie. There aren't any movies that are as good as this, and there never will be another movie that even surpasses this movie in quality. The Lion King is an epic masterpiece that takes so many risks and overcomes all of them.",
+            "review_date": "2013-03-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of Disney best movies. Simba and Mustafa are awesome characters and the story is heartwarming. Animation's best movie is the Lion King, screw the Aladdin and Snow White, this is the best Disney movie of all time!",
+            "review_date": "2013-02-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best animated Disney films ever (if not the best), puts Frozen to shame. It is also one of the most successful films ever (not only animation). Great story, great message, amazing characters, iconic moments, probably the bestOne of the best animated Disney films ever (if not the best), puts Frozen to shame. It is also one of the most successful films ever (not only animation). Great story, great message, amazing characters, iconic moments, probably the best Disney soundtrack ever and several heartbreaking and emotive scenes. The minutes at the beginning when Mufasa talks to his son alone are so full of beauty and depth. Or just the first 5 minutes where we get introduced to the whole experience thanks to the amazing and unforgettable main song beat almost any other animation film in recent years. The Lion King is in the top 20 of most successful films ever adjusting by inflation. Frozen does not even make it to the top 100. That gives you an idea of the phenomenon it was. So deserved.",
+            "review_date": "2014-04-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the biggest hits created by Disney in 1994 was The Lion King. This movie entices children with its memorable songs and fantastic characters. It is one of Disney\u2019s greatest musicals, even though there are some scary moments. Despite theOne of the biggest hits created by Disney in 1994 was The Lion King. This movie entices children with its memorable songs and fantastic characters. It is one of Disney\u2019s greatest musicals, even though there are some scary moments. Despite the few violent scenes, the overall messages portrayed are hope, love, family, and responsibility. This film is a great choice for children as well as adults.\rThe film is about Simba (Jonathon Taylor Thomas) and how he \u201cjust can\u2019t wait to be king.\u201d That being said, his evil Uncle Scar (Jeremy Irons) is extremely jealous of his brother Mufasa (James Earl Jones) because Mufasa is the king of the jungle. His extreme jealously gets the best of him, and Scar has Mufasa killed by a stampede and makes Simba feel responsible. Simba, feeling overwhelming guilt and despair, then runs away and becomes friends with Pumbaa (Ernie Sabella) and Timon (Nathan Lane) who teach him that the best philosophy is \u201cHakuna Matata\u201d, which means no worries. Simba is having the best time while with Timon and Pumbaa. He feels free and great about himself because he has nothing to worry about. Simba grows up thinking he has escaped his childhood until his old friend Nala, who is living under Scar\u2019s leadership, finds him and tells him that the tribe has been having severe issues.\rThe Lion King was originally inspired by William Shakespeare\u2019s play, Hamlet. The Lion King\u2019s themes and imagery relate to cultural and political situations in the United States and Africa. Along with this, many parts of the film resemble a famous Japanese television show Kimba the White Lion. Two characters in this show are Kimba and Simba. In The Lion King, the camera angles and composition are almost identical to this television show. The voice of Simba almost believed he was working on a remake of Kimba because he was familiar with the show. The movie is mainly about lifestyle choices and collective responsibility. This is where the majority of the movie got several of its ideas.\rThe protagonist, Simba, starts off as a rebellious character whom then grows up and learns to accept his responsibilities instead of seeking revenge. The characters in the film are always filled with energy which shows how much hard work went into each character and their personality, looks, and overall appearance. Each character has there own appealing look and personality, which draws so much attention to them. Along with this, they each have a voice that is very engaging to listen to. The characters have comical senses of humor and perform each scene in a joyful way. When Mufasa emerges in a cloud for Simba and talks to him, he gives Simba hope and inspires him to go and regain his throne. This scene shows how family is always there for you, even when all hope is gone. Not only are the characters funny, but they have a meaningful and serious side as well.\rThe Lion King is a spectacular film for all ages. Although the movie is a cartoon, it is appealing to adults as well because it has a message behind it that can captivate even the oldest of audiences. Even if the children do not grasp the entirety of the overall message, they still love the film because of its entertainment. It keeps you interested the entire time and captivates everyone into feeling compelled to finish it. The directors and producers used great sounds effects and were able to get the audience to sing along with them. The colors and their brightness that was used enhances the film and makes it much more enjoyable and fun to watch. Every scene has an attracting look and amusing music, which always makes it pleasurable to watch. They used music to connect the funny scenes back to the overall message such as \u201cCircle of Life\u201d and \u201cHakuna Matata\u201d. Circle of Life is played during the ceremony when Simba is born and at the end for Simba and Nala\u2019s newborn club. Simba is baptized here and the whole kingdom comes together to see him. Hakuna Matata is played when Simba arrives at the jungle home and continues to play during a sequence in which Simba grows up. This shows that Simba puts his problems behind him and lives the life he wants. The music makes a child not want to take their eyes off the screen because of the energetic characters and catchy rhythm. The filmmakers used animated programs to show their visuals. The stampede scene was created in a 3D computer program so the characters could be multiplied. The visuals are very clever and give off a fun, loving, and spirited tone. The movie is presented with amazing animation, music, and choreography. The animators of the story studied real-life animals for reference and some even journeyed on a trip to Africa. This assisted in how the animators made the characters act during many of the scenes. This also helped them to better understand the animal environment and way of life. A wildlife expert visited the studio to help the writers with the animal behavior and to help the artists with their drawings. Brenda Chapman, one of the story heads, said that writing an original story is very challenging because there is nothing to fall back on.\rThe Lion King displays that if one is in a dark place, be strong and take the next challenge as it comes. Each character has there own way of doing this, which makes the film so much more interesting to watch. The film portrays many different ideas and responsibilities making it a movie for everyone to watch and enjoy with a lesson learned. The writers created a wonderful original story. The filmmakers did an incredible job with the characters, scenery, and animation. The Lion King is a warm, loving, fun film that everyone should have a chance to see.",
+            "review_date": "2013-09-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I grow up with this and my children's will, too. I have no intention to make them watch the  (sorry) of cartoons of these days. This is just a masterpiece. Extremely funny, engaging, colorful, intelligent. Immortal.",
+            "review_date": "2013-12-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I watched this wonderful masterpiece when i was only six years old. Up to now i have still remembered every detail about it, about the story that i know inspired millions of people not only children but also adults all around the world. ThisI watched this wonderful masterpiece when i was only six years old. Up to now i have still remembered every detail about it, about the story that i know inspired millions of people not only children but also adults all around the world. This is like \"The Godfather\"  for children, with a little exception that it is bright, funny and, most importantly, humanitarian. I think even grown-up men can learn something meaningful from Disney's greatest animation - The Lion King.",
+            "review_date": "2014-01-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very good plot, with an unforgettable music and makes you think about the blows of life. I do not see bad things, but on the contrary, this great, amazing, wonderful and serious, but I do not give 10, and I'll tell you why: the movie itselfVery good plot, with an unforgettable music and makes you think about the blows of life. I do not see bad things, but on the contrary, this great, amazing, wonderful and serious, but I do not give 10, and I'll tell you why: the movie itself is good, but the characters like Scar and the hyenas were disturbing , desperate and perverse. You can not think clearly about the attitude of these characters, I was left stunned. And the other characters did not cause me any grace, except Mufasa, which was great, but the others are ridiculous or strange, this was the only bad thing about this movie.",
+            "review_date": "2014-03-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThe Lion King is probably not my absolute favorite Disney film, but it's still a piece of my childhood I will always cherish. The story is outstanding, the characters are unforgettable; of course there is really nothing I am saying that hasn't been said before. That scene at the end where Simba walks up Pride Rock to become the new King still gives me chills to this day. If you have not seen The Lion King, you really should, it's one of Disney greatest films, however I do like some others a bit more",
+            "review_date": "2014-03-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This classic Disney movie has catchy songs, wonderful colours and lovable characters! Obviously it is one of the disney movies to feature death, which I think in a way is good to ease children into the idea of it.",
+            "review_date": "2014-04-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When people talk about their favorite Disney film, 'The Lion King' is an answer that always comes up, no matter what generation of Disney you're talking about. The 1990s was a very strong decade for the Walt Disney Studios, as they came off aWhen people talk about their favorite Disney film, 'The Lion King' is an answer that always comes up, no matter what generation of Disney you're talking about. The 1990s was a very strong decade for the Walt Disney Studios, as they came off a string of successes with 'The Little Mermaid' (1989), 'Beauty and the Beast' (1991) (this is MY favorite Disney film) and 'Aladdin' (1992).\r Even after 'The Lion King', there were other films that were not appreciated by the critics mostly, but audiences loved anyway, 'Pocahontas' (1995) and 'The Hunchback of Notre Dame' (1996) spring to mind.\r 'The Lion King' is essentially Hamlet, but with lions, it opens with the best opening sequence I've seen in any film, animated or live-action. \"The Circle of Life\" is an iconic song to open with an we see the sun rising and all the different animals of different breeds gather around to witness the birth of their new future king. A lion cub is lifted before them and the animals bow together. The lion cub is Simba and we witness his adventure in the movie.\r We meet his uncle Scar (Jeremy Irons) who is jealous as he wants to be king, but the birth of Simba compromises his chances, and his brother Mufasa (James Earl Jones) tries to reason with Scar.\r Simba gets into a predicament where Scar plans to kill Mufasa and tells Simba to run away. Unlike Disney's 'Bambi' (1942), the death of Mufasa happens on-screen and can be traumatizing to the younger audience.\r As Simba has run away, he meets a meerkat and a warthog, Timon and Pumbaa who raise Simba from his teen years into his adulthood. But when Scar is king of Pride Rock, the entire group want Simba back and gain his status as the rightful king.\r Of all the Disney films released in the 1990s, 'The Lion King' is the one people speak highly of the most, and for good reason as it is less sugar-coated than 'The Little Mermaid' and 'Beauty and the Beast' and less comical than 'Aladdin'. The movie tells a serious story with the occasional comedy to lighten up the mood for when the film gets too serious. The songs are catchy too and the story is not hard to follow, even for kids.\r So why did I give this film a 9 instead of the perfect 10 everybody is rating it? Well, I do think that 'Beauty and the Beast' (1991) is actually the best film from Disney and 'The Lion King', for me, has some flaws that prevent it from being perfect. Everybody seems to over-praise this film, but here are my problems.\r The songs for me, were a little disappointing, considering they are by Tim Rice and Elton John, I only loved \"The Circle of Life\" and \"Be Prepared\"...I found \"I Just can't wait to be King\" and \"Hakuna Matata\" a little annoying, even as a kid. \"Can you feel the love tonight?\" felt a little shoe-horned in the film, but the Elton John version is brilliant.\r Certain things happen in the third act still make no sense to me, even as a child I didn't understand and still don't understand now. Let's just say that a certain character admits their faults and the film can end after that. I couldn't help but feel that the third act felt rushed just so it can get to the conclusion.\r However, the positives do outweigh the negatives, the animation is still as beautiful as ever (particularly \"The Circle of Life\" sequence), the film tells a really good story and there is pure heart and emotion put into this picture.\r I don't think 'The Lion King' is the best Disney film of all time, that title, for me, goes to 'Beauty and the Beast' (1991), but this is definitely in my top 10.",
+            "review_date": "2015-07-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThe artistic medium of film is very subjective. Every audience member has a different set of criteria they use to measure their viewing experience. Not everyone shares the same set of criteria. If we did, what a bland and uninspired world this would be.\r What I Personally Liked About \"The Lion King\":\rEvery good film starts with a good skeletal structure: the story itself. From that story, all of the other pieces will fall into place. In this case, the story is a beautifully told one centered on familial commitment, the responsibilities you have to yourself and the obligations you have to those who count on your support. The maturation of a destined character has always been a great structural starting point and this time it delivers in abundance. There is also some very good hard-edged humor, particularly surrounding Scar, which doesn't play down to younger audiences. Instead, it treats all of its viewers as equals; something modern Disney filmmakers have a tendency to toss aside. The animation itself is peerless, filled with wonderfully bright colors, crisp lines, deep shadows, lush greenery, and sharply drawn leads. The animation is backed with some of the best voice work Disney had yet utilized in one of their movies. James Earl Jones, Jeremy Irons, Whoopi Goldberg and Nathan Lane fill the spotlight with their charm and add a wonderful dimension to the characters they portray. There are a couple of unforgettable specifics to this animated classic to go over as well. Mufasa's death scene, for one. It is a somber, restrained affair with a perfectly accented score and a real sense of loss defining the event. Too, the epic, slow motion fight sequence between Simba and Scar backlit by the burning embers beneath Pride Rock is a visually stunning treat one rarely sees in a Disney film.\r What I Personally Disliked About \"The Lion King\":\rThere is a song in this film entitled \"Be Prepared.\" Not only is it the weakest song of the picture, but it is also the worst blot on Jeremy Irons' otherwise impeccable career. Irons gives a menacing performance throughout the rest of the film. His dark, creepy delivery of the lines sends chills up and down my spine each and every time I hear them. That merely makes this horrible song seem more out of place. It shamefully slows down the pace of the film where a macabre monologue would have better served the purpose of the story. Fortunately, there's really not much else to dislike about this presentation.\r My Overall Impression of \"The Lion King\":\rNot only would I classify this as the single best film Disney released in its decade, I would also offer the opinion that this is the best film Disney has released since 1994 (excluding Pixar's involvement). It has a wealth of memorable music, a powerful story arc, excellent animation, and fitting vocal performances. Animation simply does not get much better than this.",
+            "review_date": "2016-06-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The film is the latest in a series of annual media events from Disney, which with \"The Little Mermaid,\" \"Beauty and the Beast\" and \"Aladdin\" reinvented its franchise of animated feature films. The inspiration for these recent films comes fromThe film is the latest in a series of annual media events from Disney, which with \"The Little Mermaid,\" \"Beauty and the Beast\" and \"Aladdin\" reinvented its franchise of animated feature films. The inspiration for these recent films comes from the earliest feature cartoons created by Walt Disney himself, who in movies like \"Dumbo,\" with the chaining of Mrs. Jumbo, and \"Snow White and the Seven Dwarfs,\" with its wicked stepmother, tapped into primal fears and desires. Later Disney films drifted off into the neverland of innocuous \"children's movies,\" which were harmless but not very exciting. These most recent four animated features are once again true \"family films,\" in that they entertain adults as well as children.\r \"The Lion King\" is the first Disney animated feature not based on an existing story. In another sense, it is based on half the stories in classical mythology. It tells the tale of the birth, childhood and eventual manhood of Simba, a lion cub. The cub's birth is announced in the opening sequence of the movie, called \"The Circle of Life,\" which is an evocative collaboration of music and animation to show all of the animals of the African veld gathering to hail their future king. The cute little cub is held aloft from a dramatic spur of rock, and all his future minions below hail him, in a staging that looks like the jungle equivalent of a political rally.\r Of course this coming together of zebra and gazelle, monkey and wildebeest, fudges on the uncomfortable fact that many of these animals survive by eating one another. And all through \"The Lion King\" the filmmakers perform a balancing act between the fantasy of their story and the reality of the jungle. Early scenes show Simba as a cute, trusting little tike who believes everyone loves him. He is wrong. He has an enemy - his uncle Scar, the king's jealous brother, who wants to be king himself one day.\r Villains are often the most memorable characters in a Disney animated film, and Scar is one of the great ones, aided by a pack of yipping hyenas who act as his storm troopers. With a voice by Jeremy Irons, and facial features suggestive of Irons' gift for sardonic concealment, Scar is a mannered, manipulative schemer who succeeds in bringing about the death of the king.\r Worse, he convinces Simba that the cub is responsible, and the guilty little heir slinks off into the wastelands. (The movie makes a sly reference to a famous earlier role by Irons. When Simba tells him, \"You're so weird,\" he replies \"You have no idea,\" in exactly the tone he used in \"Reversal of Fortune.\") It is an unwritten law that animated features have comic relief, usually in the form of a duet or trio of goofy characters who become buddies with the hero. This time they are a meerkat named Timon (voice by Nathan Lane) and a warthog named Pumbaa (Ernie Sabella), who cheer up Simba during his long exile.\r The movie has a large cast of other colorful characters, including a hornbill named Zazu (Rowan Atkinson), who is confidant and advisor to King Mufasa (James Earl Jones). And there are the three hyenas (with voices by Whoopi Goldberg, Cheech Marin and Jim Cummings), who are a tumbling, squabbling, yammering team of dirty tricks artists.\r The early Disney cartoons were, of course, painstakingly animated by hand. There has been a lot of talk recently about computerized animation, as if a computer program could somehow create a movie. Not so. Human animators are responsible for the remarkably convincing portrayals of Scar and the other major characters, who somehow combine human and animal body language. But computers did assist with several remarkable sequences, including a stampede in which a herd seems to flow past the camera.\r Despite the comic relief from the hyenas, the meerkat and the warthog, \"The Lion King\" is a little more subdued than \"Mermaid,\" \"Beauty\" and \"Aladdin.\" The central theme is a grim one: A little cub is dispossessed, and feels responsible for the death of its father.\r An uncle betrays a trust.\r And beyond the gently rolling plans of the great savanna lies a wasteland of bones and ashes. Some of the musical comedy numbers break the mood, although with the exception of \"Circle of Life\" and \"Hakuna Matata,\" the songs in \"The Lion King\" are not as memorable as those in \"Mermaid\" and \"Beauty.\" Basically what we have here is a drama, with comedy occasionally lifting the mood. The result is a surprising seriousness; this isn't the mindless romp with cute animals that the ads might lead you to expect. Although the movie may be frightening and depressing to the very young, I think it's positive that \"The Lion King\" deals with real issues. By processing life's realities in stories, children can prepare themselves for more difficult lessons later on. The saga of Simba, which in its deeply buried origins owes something to Greek tragedy and certainly to \"Hamlet,\" is a learning experience as well as an entertainment. 3.5/4.",
+            "review_date": "2016-08-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The greatest animated movie of all time. No movie will ever come close to this movie. The music, the story, the charachters. Everything is perfect and this should be the example of how to make a perfect movie",
+            "review_date": "2018-03-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is simply a magic. I love it so much, and I like Elton John, Hans Zimmer, Lebo M's great composition works so much. This film is not perfect, but in my opinion this is the best 2D animated film so far, even better than Beauty and the Beast.",
+            "review_date": "2018-06-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It surely isn't the best Disney movie but it's still a powerful and emotional adventure. In my opinion, the film will be more appropriate for grown-ups. I'm not saying that kids shouldn't see this, it's just that adults might find the themesIt surely isn't the best Disney movie but it's still a powerful and emotional adventure. In my opinion, the film will be more appropriate for grown-ups. I'm not saying that kids shouldn't see this, it's just that adults might find the themes in the film more understandable and suitable.",
+            "review_date": "2013-11-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My wife and I decided to watch this ORIGINAL Lion King version after the remake got poorer reviews and after its cult status was additionally affirmed by multiple crossword puzzle references. We wound up shaking our heads afterwards,My wife and I decided to watch this ORIGINAL Lion King version after the remake got poorer reviews and after its cult status was additionally affirmed by multiple crossword puzzle references. We wound up shaking our heads afterwards, wondering what made it such a winner. The story is simplistic and violent, and some of the images seem awfully retro in their impact -- for example, all the good guys are a lovely light tawny shade while the villains are dark and, in one scene, the huge glowing eyes and teeth in the dark faces seem designed to make children afraid of African faces for life. The music was very so-so, the voice-acting generally good. There are many other movies I would want to see before trying this one again.",
+            "review_date": "2020-04-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I'd like to point out that Simba was voiced by a human actor and not an actual lion. #endhumanwashing",
+            "review_date": "2018-07-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nPURELY BOOOOOORINGthe lion king was great when i was 6 but i recently watched this and thought what the hell was i thinking, THIS MOVE SUCKS!!! lame jokes, random singing, and terrible voice acting. my opinion: WORST DISNEY MOVIE EVER!",
+            "review_date": "2011-09-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fuck Disney. They RIPPED-OFF Kimba the white lion, without even giving any credit to Ozamu Tesuka, the creator.",
+            "review_date": "2008-05-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is just the best movie that Diney has made. It's my favortie too. I'm 18 years old and I still watch the movie over and over again. The best music, the best animation, what else can you want?",
+            "review_date": "2006-08-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is probably the best movie disney ever created. It is one of the few movies that makes me laugh, cry, and it's very touching at the same time. I never saw this movie until I was about twelve, which I really regret. It teaches about This is probably the best movie disney ever created. It is one of the few movies that makes me laugh, cry, and it's very touching at the same time. I never saw this movie until I was about twelve, which I really regret. It teaches about pride, facing your fears, and many other things. Simba is one of the best characters Disney will probably ever make. I almost cry whenever I think about it. I really hope they make another Lion King movie. Thank you, disney, for this great classic.",
+            "review_date": "2007-06-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Agreeing with most of the reviews, I have to say this is my all time most favorite movie that Disney has created even though it was created in 1994. I first watched it when I was very little and never understood the true meaning of what was Agreeing with most of the reviews, I have to say this is my all time most favorite movie that Disney has created even though it was created in 1994. I first watched it when I was very little and never understood the true meaning of what was going on, but thought of it as a sort of comical movie with some sad bits. I admit that I cried at the point where Mufassa had died, but only a true film artist could give such emotion into a movie. Now that I have watched it a few more times, I get the full view of the movie and understand what I did not before. This is one of the only movies that I know of that has been this extraordinary and well thought out. I give tremendous respect to the creators of the excellent animation.",
+            "review_date": "2009-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The thing that makes this movie truly a masterpiece is the fact that it deals with real life. I believe this movie was created to present the meaning of the greatest thing that human beings face.This is the circle of life. I watched this The thing that makes this movie truly a masterpiece is the fact that it deals with real life. I believe this movie was created to present the meaning of the greatest thing that human beings face.This is the circle of life. I watched this film when I was six and it really stigmatized my life(I'm 18 now).The combination of the melanholic and celebrating soundtrack together with the vivid characters make this movie so wonderful and appealing to all ages.This is definitely one of Disney's greatest successes that has been a strong example to many kids all over the world incuding me. It has beautifully taught us about the meaning and the values of life. This film will always be in our hearts.",
+            "review_date": "2006-12-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A beautifully drawn animation allied with a strong narrative and fantastic musical numbers made \"The Lion King\" one of the Disney greatest accomplishments.",
+            "review_date": "2011-10-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Funny how Disney and Pixar can make films and get praised for them. I mean, I love the songs - Hakuna Matata is my favourite - it's understandable though that they can say it's merely 'a coincidence' that this is similar to another animationFunny how Disney and Pixar can make films and get praised for them. I mean, I love the songs - Hakuna Matata is my favourite - it's understandable though that they can say it's merely 'a coincidence' that this is similar to another animation and obtain a huge profit. It's unfair how companies like this can prey on the smaller ones for the sake of it. They can add these certain things to films, but I'm not saying that they're bad. I love how they can inject humour into animation, which I only really saw when Timon and Pumbaa were on the screen, and actually make the characters work, but this doesn't mean it's completely original. I don't think The Lion King can actually be given a higher score, because, although it did work, it didn't feel like they had done it themselves.",
+            "review_date": "2012-07-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The king of Disney indeed. The Lion King marks the pinnacle of Disney's Renaissance of the 1990s, and the best film to come out of that studio ever. Taking its roots from Shakespeare and Hamlet, it is more grown-up and epic than one wouldThe king of Disney indeed. The Lion King marks the pinnacle of Disney's Renaissance of the 1990s, and the best film to come out of that studio ever. Taking its roots from Shakespeare and Hamlet, it is more grown-up and epic than one would expect. Definitely one to keep on your DVD shelf.",
+            "review_date": "2014-09-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I had high hopes for this movie, but on all my viewings, I felt very disappointed. The film does not have much to offer, unlike other Disney masterpieces. I hope to have better viewings of this film in the future.",
+            "review_date": "2019-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One day Simba, you will become the king, when the sun are rises and take responsibility for your past.",
+            "review_date": "2021-09-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best Disney film ever drawn.",
+            "review_date": "2008-08-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "best film ever!!!! camera angles are very great! detail of shading in the characters, backgrounds and the way the film has been animated couldn't have been any better. people who don't see the sense of the film are just brainless best film ever!!!! camera angles are very great! detail of shading in the characters, backgrounds and the way the film has been animated couldn't have been any better. people who don't see the sense of the film are just brainless and don't have any kind of imagination and a sense of seing films in a different way! it's the best traditional animated film by far and i wish there will be more films like that in future.",
+            "review_date": "2008-04-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is the greatest Disney film of all time and possibly the most greatest cultural achievment of the the 20th century. I dont feel these critic reviews are accurate because they only watched this once and did not fully grasp the brilliance This is the greatest Disney film of all time and possibly the most greatest cultural achievment of the the 20th century. I dont feel these critic reviews are accurate because they only watched this once and did not fully grasp the brilliance of this fim in its entirity.",
+            "review_date": "2005-12-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "THis film is a definite masterpiece, nearly flawless. The story is excellently told, the soundtrack is breathtaking. The animation is a feast for the eyes. There's plenty of humor for adults and kids. This has classic written all over it.",
+            "review_date": "2006-03-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "i love this film so much. I used to watch it when i was little but i didn't really understand the meaning of this film. before, it was just a film which entertained me. now after i watched it, not only does it entertain me but also i love this film so much. I used to watch it when i was little but i didn't really understand the meaning of this film. before, it was just a film which entertained me. now after i watched it, not only does it entertain me but also gives me a message. This film is truly the best film ever made, it's entertaining, friendly, funny and makes me feel like a new person. i rate this movie an 11.",
+            "review_date": "2008-07-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one of my favourite films of all time. I remember seeing when i was younger (i'm 17 now!) and i recall the fact that i thought it was brilliant the first time i watched it, and it still is!!! From the start of the opening song, This is one of my favourite films of all time. I remember seeing when i was younger (i'm 17 now!) and i recall the fact that i thought it was brilliant the first time i watched it, and it still is!!! From the start of the opening song, it continues to move you throughtout the movie. When Mufasa dies i cry so much!!! It still gets me everytime!!! The first time i saw this movie was also the first time i cried at a movie (so my mum says!!). Apparently a boy saw this film when his own father died and it helped him get through it. So this film means a lot to other people as well. Uh, such a fantastic film!!! The songs were great awell!!! WATCH IT!!!",
+            "review_date": "2005-12-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A great Disney movie. For all you people who immedetly reject it becasue its Disney, I have to say: It has a better plot than your Kill Bill movies.",
+            "review_date": "2005-09-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Lion King is a wonderful movie for kids... Some people not like the miovie because euther they don't have a good enough imagination to appricate it funny characters or they are just to old to like disneyclassic",
+            "review_date": "2006-12-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Can i start with who ever anoymnus is, is out of his/her mind. There isn't a song every other minute for one and honesly the lion king wouldn't be half as good without the music. Disney is serious since wen hav they done a movie Can i start with who ever anoymnus is, is out of his/her mind. There isn't a song every other minute for one and honesly the lion king wouldn't be half as good without the music. Disney is serious since wen hav they done a movie like that now. I mean the incredibles that was one of the mist popular films for kids not blade. Yeahe things change now and then but Disney are still the most respected film makers of all time. It's not made for kids anyway why does everyone say that Disney touches the heart of any human being who has one. They are emence. Anyway!! Lion KIng is just amazing it has everything a good film needs when i say everything i mean it. It's a film you just can't fault. At school we are doin my favourite film project in English I'm doing Lion King. I'm 13 yet i still love it to bits and so do all my mates. Even if Disney made films just for kids it wouldn't matter because to be honest growing old is compulsery but growing up is optinal and everyone has a kid inside!",
+            "review_date": "2006-02-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I usually don't care for animated movies but this film is the real deal, this is one of disney's best animated moviesif not the best. The animation is top notch and flawless. This film also features superb work from the vocal cast I usually don't care for animated movies but this film is the real deal, this is one of disney's best animated moviesif not the best. The animation is top notch and flawless. This film also features superb work from the vocal cast James Earl Jones, Jeremy Irons, Whoopi Goldberg. This is a standout.",
+            "review_date": "2007-03-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A classic that will live forever in the hearts of kids who grew up watching this movie, like me. I am really shocked that the movie doesn't have a high user score. Oh well, Hakuna Matata, no worries!",
+            "review_date": "2010-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A timeless Disney classic that soars near the top of the list of 'Best animated films of all time'. Heartfelt, featuring a stunning musical score and superbly animated, this is one of Disney's finest achievements, and a must watch for fans ofA timeless Disney classic that soars near the top of the list of 'Best animated films of all time'. Heartfelt, featuring a stunning musical score and superbly animated, this is one of Disney's finest achievements, and a must watch for fans of animated films.",
+            "review_date": "2010-10-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While the Disney Renaissance presented us such great classics like \"The Little Mermaid\", \"Beauty and the Beast\", and \"Aladdin\", they released another movie that has talking lions and other talking animals and such great wonder also known asWhile the Disney Renaissance presented us such great classics like \"The Little Mermaid\", \"Beauty and the Beast\", and \"Aladdin\", they released another movie that has talking lions and other talking animals and such great wonder also known as \"The Lion King\". Before I begin, let me ask one question: Why is it that every movie you have saw just literally become such great classics? It's because of their creative efforts and mere pride and this movie is one of them.\r The story tells of a young cub named Simba (Jonathan Taylor Thomas), the son of Mufasa (James Earl Jones) who is destined to become king of the Pride Rock. One day, Simba's ruthless evil uncle Scar (Jeremy Irons) plots to take over Pride Rock by killing his father and tricks Simba into feeling guilty which causes him to flee from the kingdom never to return. Once he disappears, he meets two friends named Timon, a meek rat, and Pumbaa, a warthog who helps teach him the meaning of \"Hakuna Matata\". A few years later, after reuniting with his friend Nala, Simba, now an adult (Matthew Broderick) realizes that he doesn't know who he is anymore and is aware that Scar has destroyed everything that the lions had hunted for. He is then persuaded to return to Pride Rock and must overthrow his uncle to restore the kingdom to its rightful place.\r After its success at the box office with $783 dollars which marks this movie as the 32nd highest grossing feature film, everything else has been praised due to Disney and their intelligence.\r The music score by Hans Zimmer and the songs written by Elton John and Tim Rice were considered to be successful in cinema history, The animation and characters were very memorable, The acting was superb and the cinematography was terrific.\r The Lion King is one of the greatest animated movies of all time and is one of my childhood favorites that will teach me that this movie means no worries. Thank you Disney. With your charm and brilliance, a thumbs up from me.\r 10/10",
+            "review_date": "2011-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Its one of the greatest animation films of all time for a reason (if not the greatest). The Lion King is great from start to finish. I really enjoyed it and I am confused that it has recieved such a low score from critics and users when itsIts one of the greatest animation films of all time for a reason (if not the greatest). The Lion King is great from start to finish. I really enjoyed it and I am confused that it has recieved such a low score from critics and users when its so much better then that.",
+            "review_date": "2011-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A masterful film that is the absolute best from Disney. I say this is my favorite animated film of all time, if not my overall favorite. Disney put their best effort into this film, and all the haters can suck Mufasa's nuts.10/10",
+            "review_date": "2011-11-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I first watched The Lion King when I was eight, and enjoyed it for all the quirky characters.  But after rewatching it years later, I discovered the deeper meaning behind it.  This is one of my favorite movies of all time, and is the lastI first watched The Lion King when I was eight, and enjoyed it for all the quirky characters.  But after rewatching it years later, I discovered the deeper meaning behind it.  This is one of my favorite movies of all time, and is the last epic disney movie.  They could have done better with Lion King 2, but you cant win all the battles.  And to the people that said that this is a rip off of Kimba the White Lion, What the **** are you talking about? I read the plot line, its about humans trying to kill animals.  I dont understand your point of view to this movie.  And this is also probably one of the darkest things I have ever seen, and I saw Suckerpunch and played Portal.",
+            "review_date": "2011-04-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one of Disney's best movies, it has likable characters, humor, action, drama, a great plot, ultimately this is one of the best movies ever a must see.",
+            "review_date": "2011-02-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A young lion Prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days.A young lion Prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young Prince must decide his fate: will he remain an outcast, or face his demons and become what he needs to be?",
+            "review_date": "2017-06-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie brings back so many childhood memories. I loved it then and I love it now and I will always love it. Recommend it HIGHLY. In my opinion, one of, if not the best, Disney movie",
+            "review_date": "2011-10-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Classic. Emotion, suspense, stunning visuals and audio, great storyline, entertainment- what more can you want from a movie? The Lion King is the best animated movie of all time. An epic story, but better visuals.",
+            "review_date": "2011-03-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In the Pride Lands of Africa, Lion King Mufasa and Queen Sarabi rule over the animal kingdom. When their son is born, Musafa\u2019s brother Scar plots to take the throne.A beautifully animated and emotional journey full of great songs, The LionIn the Pride Lands of Africa, Lion King Mufasa and Queen Sarabi rule over the animal kingdom. When their son is born, Musafa\u2019s brother Scar plots to take the throne.A beautifully animated and emotional journey full of great songs, The Lion King ranks among the very best Disney movies.",
+            "review_date": "2022-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Deeply heartfelt and pure. A stunning movie.    .",
+            "review_date": "2015-03-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Lion King is the best ever Disney movie and the best animated movie of all time. It is an emotional and heart warming journey. The Lion king showed what a powerful and stunning film it was in 1994 and why to this day it is still the bestThe Lion King is the best ever Disney movie and the best animated movie of all time. It is an emotional and heart warming journey. The Lion king showed what a powerful and stunning film it was in 1994 and why to this day it is still the best Disney movie of all time.",
+            "review_date": "2014-05-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Emotionally resonant and beautifully animated. The Lion King stands tall within Disney's pantheon of classic family films. This should have gotten a Best Picture nomination at the1994 Oscars. 4/4 stars.",
+            "review_date": "2011-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the great animations, very good characters, songs and a timeless story.",
+            "review_date": "2019-12-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Hands down one of the greatest movies of all time, if not the best animated one. Only few movies can take a very sad moment and then turn around and make you life when just a few minutes.",
+            "review_date": "2011-11-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Honestly, The Lion King may not get the highest rating from me but it will always be my favorite animated movie of all time. Star studded cast that does their job well, Great and memorable songs, Likeable characters. Only thing I don't careHonestly, The Lion King may not get the highest rating from me but it will always be my favorite animated movie of all time. Star studded cast that does their job well, Great and memorable songs, Likeable characters. Only thing I don't care for was the casting of Matthew Broderick as the adult Simba, I didn't feel that he fit the part well. Aside from that, It's a great movie and once again, My favorite animated film of all time.",
+            "review_date": "2013-02-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "You can't go wrong with classic Disney. The Lion King is phenomenal in every aspect - the songs, the characters, the animation, and the musical score by Hans Zimmer. It's an amazing movie and it's guaranteed to entertain people of all agesYou can't go wrong with classic Disney. The Lion King is phenomenal in every aspect - the songs, the characters, the animation, and the musical score by Hans Zimmer. It's an amazing movie and it's guaranteed to entertain people of all ages for years to come.",
+            "review_date": "2012-03-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When Simba is young he is naive to the world. Like any child he easily believes almost anything someone tells him and he is eager to discover new things. When his father tells him that one day he will to be king, Simba immediately gets thatWhen Simba is young he is naive to the world. Like any child he easily believes almost anything someone tells him and he is eager to discover new things. When his father tells him that one day he will to be king, Simba immediately gets that sparkle of astonishment in his eyes. However being the naive child he is, he thinks being king is all about having power and just doing what he wants. This can symbolize the way kids think when they are little, they think growing up means you can boss around anyone you want and you have no responsibility. As he goes into exile he develops a more carefree attitude and thinks he has found what it means to be an adult. Like many of us when we were teens, we didn\u00e2",
+            "review_date": "2012-03-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I seriously can't find any flaws. It's a masterpiece. It has great visuals, a touching and epic story, and many songs and sequences that make you cry not only out of nostalgia, but also because it's just so touching.",
+            "review_date": "2012-07-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing movie, set the bar for modern-day animation, really stays in your heard for years after you watch the movie, with exceptional work on soundtracks by the brilliant Hans Zimmer. The characters are depicted extremely well, making viewersAmazing movie, set the bar for modern-day animation, really stays in your heard for years after you watch the movie, with exceptional work on soundtracks by the brilliant Hans Zimmer. The characters are depicted extremely well, making viewers empathetic with characters like Simba, Mufasa, Zazu etc. Overall, this is a great movie and will be remembered for generations.",
+            "review_date": "2013-04-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Truly a masterpiece. I don't know is it me, but he Hyenas were my favorite character especially Ed! Overall perfect movie.",
+            "review_date": "2019-10-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My words are not necessary! I'm sure you watched this masterpiece...if you haven't seen it, then do it now! The soundtracks are amazing! The story is very instructive and emotional, a pure perfect Disney classic!",
+            "review_date": "2013-03-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An amazing masterpiece of animation by Disney. With such power and thought into it, it's no wonder this film is as acclaimed as it is. The voices fit the characters perfectly, the music's rhythm coincides perfectly with the tone of the movie.An amazing masterpiece of animation by Disney. With such power and thought into it, it's no wonder this film is as acclaimed as it is. The voices fit the characters perfectly, the music's rhythm coincides perfectly with the tone of the movie. And Timon and Pumbaa ease the tense moments with pure hilarity. As amazing as Hamlet itself.",
+            "review_date": "2014-07-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Lion King is an old and repeated story's unilateral model, as seen in Romeo and Juliet, but even so it's a film full of soul and beauty and visually, even after 25 years, it looks like it was produced yesterday.",
+            "review_date": "2019-08-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A classic tale of \"survival of the fittest\", The Lion King is an all-time classic for the ages that will never die and will remain as one of the best animated movies ever made.",
+            "review_date": "2013-09-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A timeless classic, \"The Lion king\" resonates thanks to its impeccable voice acting, simple story, and terrific songs and animation.",
+            "review_date": "2019-07-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best animated Disney movies. However they \u201eborrowed\u201c heavily from Kimba the White Lion from Osamu Tezuka. If you ask how heavily lets say if it were in reverse Disney would have unleashed hell and sued them into oblivion. There isOne of the best animated Disney movies. However they \u201eborrowed\u201c heavily from Kimba the White Lion from Osamu Tezuka. If you ask how heavily lets say if it were in reverse Disney would have unleashed hell and sued them into oblivion. There is even a reference or side-blow by the Simpsons in one episode. To be fair I must also admit that they used some original themes. It is the story of the lion Simba who is the son of the king of lions Mufasa. It is a coming of age or self discovery story transferred in the animal Kingdom. There is a lot more to the story that I cant spoil but will say the story was always entertaining. It has a lot of great additional characters like Timon and Pumbaa who transcended the movie and became the stars of their own show. This is not surprising as they are funny, enjoyable and have a dynamic like only a few duos in Disney movie history. There is of cause Mufasa himself who is a role model for a good and wise king and his brother Scar who is one of the best antagonist in Disney movies. There is also Rafiki who nailed the role of elderly wise man. I will also praise the three hyenas Shenzi, Banzai and Ed as Zazu the majordomos and Nala (cant spoil). The greatest strength are the facial animations that are well transferred to the animals. You can see all (human) emotions and can relate perfectly to the characters. This is a weakness of the remake as more realistic means lifeless or emotionless here. But back to this movie. The overall animations are still looking good today (Aged well). I also praise the soundtrack. They got Elton John and Hans Zimmer (and a lot of other stars). I am the kind of person that does not enjoy singing in Disney movies but this is the exception as it won me over. \u201cHakuna Matata\u201d is great as are \u201cCircle of Life\u201d, \u201cCan you feel the Love tonight\u201d and \u201cI cant wait to be King\u201d. Overall it has a great story with enjoyable characters and you can see the care and thoughtfulness. One of the best Disney movies but a shame that they had to \u201cborrow\u201d so much ideas.",
+            "review_date": "2020-09-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Lion King is one of the best Disney films I've ever seen in my entire life. It had an intense and heartfelt coming-of-age story, a strong message about life lessons, beautiful animation, loveable and memorable characters, spot on voiceThe Lion King is one of the best Disney films I've ever seen in my entire life. It had an intense and heartfelt coming-of-age story, a strong message about life lessons, beautiful animation, loveable and memorable characters, spot on voice acting and unforgettable songs by Elton John and Tim Rice. If you're a Disney fan like I am, this is a must-watch. It is a timeless classic that kids and adults can enjoy. I gave it a 10 out of 10.",
+            "review_date": "2014-12-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you haven't seen this movie, then you definitely need to watch it this instant! It's a spectacular film with plenty of laughs for kids and even hidden themes for adults. Definitely a Disney classic.",
+            "review_date": "2015-01-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "AHHHHHHHHHHH SEVENYAAAAAAAAAAAAAAAA!\r To start off, this is the movie your kids deserve to watch and nothing less quality if you want to like good movies in the future. I kid kid, but although I give this movie a 8, it's actually more of aAHHHHHHHHHHH SEVENYAAAAAAAAAAAAAAAA!\r To start off, this is the movie your kids deserve to watch and nothing less quality if you want to like good movies in the future. I kid kid, but although I give this movie a 8, it's actually more of a 8.5 for me. The movie is easy to understand and it was purposely made for youth so don't get so uptight about this movie not being Shawshank or Inceptionlike. That being said, this review is for those who haven't seen it.\rMusic...easy A man. This is stuff that you should know even in your sleep. It's a kid movie so expect the musical aspect to seep in here and there. Sing along too or else you're just not experiencing what the producers made\r Plot/Characters: im 20 years old and I'm still not ready to accept some of the scenes but I know that every movie needs a basic problem and solution. That being said, this is a timeless work.\r I appreciate that the writers actually took time to research the animals and setting shown in this movie. That is bonus points for me when someone does their homework and executes perfectly.\r If i had to describe this movie in one word, it would be: rainbow. The reason for that is that you will feel all those colors in the rainbow throughout this movie. Yes, it's animated but don't let that ever dictate what is good.\r Watch this with a friend and call up a homie that has seen this before. I recommend calling up the crew to get that singalong going on.",
+            "review_date": "2015-03-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Disney's best film by far, is still a great epic to be seen by all Disneyphiles out there.\r A adaption of the classical Broadway hit, the film is magnificent and a spectacular triumph displaying every element of Disney's promises for greatDisney's best film by far, is still a great epic to be seen by all Disneyphiles out there.\r A adaption of the classical Broadway hit, the film is magnificent and a spectacular triumph displaying every element of Disney's promises for great entertainment .\r The story of a young exiled Lion who must return to his pack after it has been taken over hyenas, to fulfill his destiny as their rightful king, is still a well memorable classic among generations of fans.\r Featuring a great score by Hans Zimmer, the film is completely undeniably spectacular and must be watched more than twice....\r A CERTIFIED MASTERPIECE!",
+            "review_date": "2015-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a fantastic movie, and I am not lying! my 13 year old sister loves this movie, and I can't fault this either. It was one of the first movies I ever saw, so that accounts for how much I love it. The animation is superb, the backgroundsThis is a fantastic movie, and I am not lying! my 13 year old sister loves this movie, and I can't fault this either. It was one of the first movies I ever saw, so that accounts for how much I love it. The animation is superb, the backgrounds look so rich, and for once, there are no stiff movements. The highlights were the stampede and the fight between Scar and Simba. The music by Hans Zimmer is outstanding, a perfect mix of African chants and pure Hollywood. The songs are absolutely great, I had no idea that Elton John could write like that. The best song is \"Can you feel the Love Tonight?\" but the others go without fault, \"Circle of Life\" is so spirit rousing especially. Likewise with the voice overs. Jonathan Taylor Thomas is very likable as Young Simba, and Matthew Broderick, while not as good, is above average too. James Earl Jones lends his booming voice to the majestic King Mufassa, and Nathan Lane, Rowan Atkinson and Whoopi Goldberg provide flawless comic relief. The vocal standout is Jeremy Irons as Scar, who frightened me when I was little. Scar is up there with the best Disney villains, like Jafar, Malificent and Frollo. The humour here is fantastic, and you cry here a bit here as well. I highly recommend the stage version in the West End, and the sequels are actually two of the better DTV sequels.10/10. Bethany Cox",
+            "review_date": "2022-03-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great music, lovable characters and a brilliant story. This film touches your heart and is an absolute masterpiece. The animation and art are beautiful. A must watch.",
+            "review_date": "2015-09-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good, but most definitely overrated. Last time I saw it I was 5 years old, and now, having rewatched it, I realized the plot isn't that good. It merely pleads for sympathy together with a beautiful picture, but isn't motivated or complicatedGood, but most definitely overrated. Last time I saw it I was 5 years old, and now, having rewatched it, I realized the plot isn't that good. It merely pleads for sympathy together with a beautiful picture, but isn't motivated or complicated enough if you're older than 7. The whole episode of Simba's return and the fight is just awkward. Also, why would Scar be such a bad king? You can't deny he was clever and probably knew how to rule, while Simba didn't. Each move in the plot, and often even speeches were easilly guessable to me (and I didn't remember anything). Also, Kimba's plot base most probably defined the success of this one. The sequel imo shows that Disney couldn't make a good Lion King on their own.Needless to say though, music and animation are awesome.",
+            "review_date": "2018-07-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's not the best Disney animated film you've ever seen; but if you can find your heart at the circle of life, you'll pretty much enjoy the movie as I did.",
+            "review_date": "2016-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "And now the one that really chilled and thrilled me, The Lion King the most powerful film of all time. I've seen the trailers from it in VHS's years ago when I was a kid and teenager, taken from The Fox and the Hound, Sleeping Beauty, Dumbo,And now the one that really chilled and thrilled me, The Lion King the most powerful film of all time. I've seen the trailers from it in VHS's years ago when I was a kid and teenager, taken from The Fox and the Hound, Sleeping Beauty, Dumbo, Pinocchio, Pocahontas, Snow White and the Seven Dwarfs, The Aristocats, Aladdin and The Sword in the Stone. This movie did so well it grossed a total of $968. How's that for a Disney movie. I gotta tell ya, this is one of my favourite Disney films of all time. I think it's everybody favourites as well. Hell, I actually cried at one scene but I'll get to that later. The songs are catchy and memorable like songs called Circle of Life, that's a powerful song, I Just Can't Wait To Be King, the one that I've sing is Be Prepared, there's Hakuna Matata and Can You Feel The Love Tonight. There's another by Elton John which my friend Sam Hudson liked cause he likes Elton John. As you know, the songs are by Elton John and Tim Rice. Even the music sounds different. Listen to the powerful verses from every music taken from every scene from this masterpiece. It's composed by Hans Zimmer. I've just found out that he most movies in the decade. He just the master of music. One of my friends loved it. actually there's only one person who actually love it and that is my friend who is from my old school and who is obsessed with this The Lion King, he's name is Matthew Fender. I gotta tell you, me and Matthew have been quoting dialogue. Like I said me and my friends been doing it non-stop. We were singing songs from it. The animation is just top notch. The animator used the same animation what they did like in The Little Mermaid, Beauty and the Beast and Aladdin. They use hand drawn animation and computer animation together to make the animation look realistic. It's fantastic. The characters are memorable and hilariously funny. There's Simba voiced by Matthew Broderick, Mufasa the most powerful king in the entire world and teaches Simba how to become a great king, he is voiced by James Earl Jones, there's Scar who is my favourite Disney villain who is makes me laugh and takes over Pride Rock. He also gets some funny lines like ''That was today? Ohh, I felt simply awful! Must have slip my mind.'' and ''An elephant graveyard is no place for a young prince. Oops!'' Hilarious, isn't it? The two pals Timon and Pumbaa, they're funny and they get there own TV show. Nala who is best friend, Zazu Mufasa's majordomo and guess what? He's voiced by Mr Bean star Rowan Atkinson. How fascinating is that, huh? The wise old Rafiki, shaman of the Pride Lands and then there's three funny hyenas, Shenzi who is sassy and she plays by Whoopi Goldberg, Banzai who is funny and aggressive and he's voiced by Cheech Marin who also voiced Tito from Oliver and Company. Actually two characters from Cheech Marin is hilarious and funny. And Ed who does not talk but only laughs. Man, these characters are so great I could even think the three hyenas who are the highlight of this movie and they even get some funny lines like Banzai says ''Mufasa!'' and other characters Zazu even Timon and Pumbaa. Now let's get on with the scenes. The scenes are hilarious, powerful and groundbraking even the story makes the film strong and extraordinary. The scene where Mufasa shows Simba how to become a great king and the scene where Simba, Nala and Zazu went to the elephant graveyard after Simba singing I Just Can't Wait To The King they come across three hyenas so they escaped but Zazu is captured and puts into the geysor and flew away, the scene where Scar singing ''Be Prepared'' that's a really great song. The stampede scene is just brilliant and so powerful with the most powerful music ever put on film where Simba gets chased by Wildebeests in the gorge and Mufasa saves him and begs Scar to help him but Scar kills Mufasa. Now while I was watching Mufasa's death I was in tears. Remember what I said in the Turner and Hooch film? That's what I mean. And I gotta tell you guys, much like Bambi where Bambi's mom is shot, you don't see the body. In this one though, you see Mufasa's body. That is a saddest and upsetting thing for kids! But what makes the stampede scene look great and magical is the animation. The wildebeests is made from computer animation and the characters are hand drawn animation. It is big! If you take a look of that scene you might be look at it on Blu ray standard because that is the magic. Everyone remembers the songs, the story, the characters, the music, the animation, everything about it is A-MA-ZING! Matthew Fender and I love quoting the lines from it and just like me, Jacob and Liam though this is the most powerful Disney film to be ever remembered and loved. Absolutely phenomenal film! Remember, we are all connected in the great Circle of Life.",
+            "review_date": "2019-04-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With pure colors, a great plot, an excellently though message, unforgettable characters and breathtaking music (thanks to Elton Jhon), this films b comes a Disney classic that soars from the shadows, to entertain any kind of viewers, withWith pure colors, a great plot, an excellently though message, unforgettable characters and breathtaking music (thanks to Elton Jhon), this films b comes a Disney classic that soars from the shadows, to entertain any kind of viewers, with what a great film gotta be. Who wouldn't like a film like this? Enjoy.\rAdvert: This film could be traumatic for -5 viewers and Asperger Syndrome young viewers.",
+            "review_date": "2016-05-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "the Lion King is definitely one of the best all around movies ever. i love all it's hidden messages and it's morals / life lessons. for example : don't let your problems rule your life aka Hakuna Matata. people are not always who they seem tothe Lion King is definitely one of the best all around movies ever. i love all it's hidden messages and it's morals / life lessons. for example : don't let your problems rule your life aka Hakuna Matata. people are not always who they seem to be Scar kills Mufasa. also if you didnt notice when Scar was in the outlands he ruled over the hyenas and he played the role of Hitler and the hyenas where the Nazis hence the Goose Walk.",
+            "review_date": "2016-03-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My favorite animated movie of all-time. A touching and powerful story driven by charismatic and intriguing characters. It's absolutely a classic.",
+            "review_date": "2020-06-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For all the undeniable merits, it somehow feels manufactured, and thus, to a degree, calculated - the product not of a collective imagination taking esthetic chances, but of an imaginative collective putting the rivets into a well-wroughtFor all the undeniable merits, it somehow feels manufactured, and thus, to a degree, calculated - the product not of a collective imagination taking esthetic chances, but of an imaginative collective putting the rivets into a well-wrought plan that can't go awry.",
+            "review_date": "2016-10-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was simply well made. The songs were memorable and amazing, the characters were believable (and arguably acted more human than many movies with human actors), and the animation was vibrant and lush, depicting a unique style of art,This movie was simply well made. The songs were memorable and amazing, the characters were believable (and arguably acted more human than many movies with human actors), and the animation was vibrant and lush, depicting a unique style of art, and still getting the movements of the characters down pat. The story really digs deep into Simba's character, which leaves the other characters a bit stagnant, but that's not to say they aren't developed. They each have their own part to play in the story. The comic relief detracts from the heavier story just enough to keep the feature from being too depressing (it is disney, they like a lighter feel to their movies).\r Now, on the controversy some people have brought up about \"Disney ripping off 'Kimba: The White Lion'\", I looked into it, and in terms of story and characters, it seems the two are separate. Some art direction seems to have gone the same direction, although Disney and the guys who did Kimba did start working together on a project related to Kimba. The project was scrapped, but the people who had worked on the project probably decided to adapt some concept art to Lion King. Btw, the similarity of the names \"Simba\" and \"Kimba\" is probably coincidental, considering most of the names in \"The Lion King\" are based on Swahili words (simba means 'lion').\r Regardless, it is a solid movie that I recommend.",
+            "review_date": "2016-11-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "First of all, the music in this film is just so iconic and no matter what generation you are a part of you have heard these songs more than once. It\u2019s not just the songs that I\u2019m talking about the score, composed by Hans Zimmer, isFirst of all, the music in this film is just so iconic and no matter what generation you are a part of you have heard these songs more than once. It\u2019s not just the songs that I\u2019m talking about the score, composed by Hans Zimmer, is spectacular. The score fits so well with every scene and it helps to intensify the scene. The entire movie is just filled with incredible music. The animation in this film is stunning and, in my opinion, looks better than some of the animated movies we have now a day. The animals have amazing detail on them and you can easily tell that the animators put a lot of effort into making each and every detail. Not just with the animals but the background as well. This is best shown in the \u201cI Just can\u2019t Wait to be King\u201d song where the animators took the time to change up the backgrounds to help convey that this is a dream sequence. I know it\u2019s weird to mention cinematography in an animated film but honestly, this film almost feels like a live-action film and I will do whatever I want because the cinematography is outstanding in this film. From shots where they are showing a bright scene and then quickly changing to dark is just amazing. The characters in this film feel three-dimensional and anybody can easily relate to one or more of the characters. From the people who are free and easy-going like Timon and Pumbaa to the protective parent like Mufasa they all are relatable and had great voice casting. Everybody was perfectly voice casted and I could easily see them as that character. I only really had a problem sometimes with Matthew Broderick where a couple of times I couldn\u2019t really hear it. This film has a great message in it that you shouldn\u2019t run away from your problems but deal with them right then and there in the present. In the end, this film is perfect for anybody and everybody.",
+            "review_date": "2019-07-20",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 121
 }

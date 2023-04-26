@@ -1,328 +1,379 @@
 {
-  "title": "My Name Is Khan",
-  "rating": 8.4,
-  "release_date": "2010-02-12",
-  "genre": [
-    "Drama",
-    "Romance"
-  ],
-  "summary": "Rizvan Khan, a Muslim man from India, moves to San Francisco and lives with his brother and sister-in-law. Rizvan, who has Aspergers, falls in love with Mandira. Despite protests from his family they get married and start a small business together. They are happy until September 11, 2001 when attitudes towards Muslims undergo a sea-change.Rizvan Khan, a Muslim man from India, moves to San Francisco and lives with his brother and sister-in-law. Rizvan, who has Aspergers, falls in love with Mandira. Despite protests from his family they get married and start a small business together. They are happy until September 11, 2001 when attitudes towards Muslims undergo a sea-change. When tragedy strikes, Mandira is devastated and they split. Rizvan is confused and very upset that the love of his life has left him. To win her back, he embarks on a touching and inspiring journey across America. (Red Chillies Entertainment)\r… Expand",
-  "critic_reviews": [
-    "A potent, energetic heart-tugger and Khan and Kajol, major Bollywood stars, are highly appealing and equal to the demand of their emotion-charged roles.",
-    "Skillfully directed by Karan Johar and with an evocative score by Shankar, Ehsaan & Loy, “Khan” jerks tears with ease, while teaching lessons about Islam and tolerance.",
-    "Riotously overstuffed and enormously enjoyable drama.",
-    "A very average, ordinary film that goes haywire.",
-    "This is a movie not built for subtlety, but it does tackle a subject American movies have mostly avoided -- that of racial profiling and the plight of Muslim-Americans.",
-    "For a movie that preaches cultural understanding, it sometimes seems a little too comfortable perpetuating ethnic stereotypes.",
-    "The polished production sometimes touches and amuses despite its naïve “love conquers all” script."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Great movie, very thoughtful and so very true in regards to how muslims are regarded by most in America. I gave it 10 because of the message and the delivery, very nicely produced and realistic.\rIf not for that the rating would have beenGreat movie, very thoughtful and so very true in regards to how muslims are regarded by most in America. I gave it 10 because of the message and the delivery, very nicely produced and realistic.\rIf not for that the rating would have been lower because of the whole georgia hurricane rescue.\rto paraphrase an earlier post, it reminded me too much of Forrest Gump after awhile.\rDespite its shortcomings it was a wonderful story with believable actors/actresses and compelling subject.\rThis should be required viewing for all of the so-called 'tolerant', no matter what faith they follow.",
-      "review_date": "2011-04-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Awesome movie, albeit a little Forest-Gumpy, it is a must-see!",
-      "review_date": "2010-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Remarkable acting, production values.",
-      "review_date": "2010-02-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A simple film with strong message.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A movie of this troubled time. A movie with a (or many?) strong messages. A post 9/11 Forrest Gump. one of the best performances by shahrukh khan. Appropriate support form kajol. Superb cinematography. But the script could be better. It will A movie of this troubled time. A movie with a (or many?) strong messages. A post 9/11 Forrest Gump. one of the best performances by shahrukh khan. Appropriate support form kajol. Superb cinematography. But the script could be better. It will make you laugh when SRK comes with a copy of \"intercourse for dumbos\" or the way he proposes. You cant hold back your tears in a number of scenes specially when their son dies or when Rijwan is hold in the cell. You can definitely call it 'over dramatized'. specially that scene when he saves a whole village from hurricane. But it's the larger than life looks thats the most special asset of this movie. at the end of the day it's the love and inspiration that you carry back home and that should be strong enough to rate it maximum. P.S. I went to watch the movie with a close friend of mine who is definitely not a fan of SRK (rather she dislikes him for one expression acting school.) She had some prejudices about Islam and Muslims like a lot of other Hindus. Previously I've tried a lot to make her understand but she appeared to be quite rigid on her views. But after the movie ends she tells me in teary eyes, \"now i know what u tried to tell me. and I don't hate any religion anymore.\" Thats the power of love it shows. And no compliment is enough for that piece of art, that inspires our real life to this level.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the Best Movies of all time! It has the super magnatic power to pull you inside the story & the character of SRK. DonT Miss! or U will regret! 1million stars to MNIK!",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Awesome movie. First Indian movie that is the global appeal to non-indians. Kudos to SRK and Karan Johar.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "MNIK was clearly meant to be a Bollywood movie, so I don",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fantastic story, fantastic message, awesome direction, mindblowing performance by SRK.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing film on a very touchy subject. Full marks to SRK!!!",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There's so much to learn about humanity and life in this movie that it really inspired me to become a better person in my life.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "once in a while a movie of this capacity comes along.Great music,superb direction and performance of the decade from SRk. MNIK gets tow big thumbs up for being a different and yet entertaining movie, overlook the tiny flaws and its a masterpiece.",
-      "review_date": "2010-02-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Excellent Story by Karan Johar, Acting by Shahrukh Khan and Kajol Devgan. What more can you ask for? Not once do you feel that Shahrukh is a normal human being, and it most definitely was a challenging role to play by Shahrukh. This movie Excellent Story by Karan Johar, Acting by Shahrukh Khan and Kajol Devgan. What more can you ask for? Not once do you feel that Shahrukh is a normal human being, and it most definitely was a challenging role to play by Shahrukh. This movie will be a classic on so many levels. Thank you for making this movie Karan.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Nice one! I watched the movie and liked the story! I know who are Muslim friends, faced the same and the interrogation in the airport, almost everyone from third world country like India are facing. (that includes me!) Atleast in the movie, Nice one! I watched the movie and liked the story! I know who are Muslim friends, faced the same and the interrogation in the airport, almost everyone from third world country like India are facing. (that includes me!) Atleast in the movie, half stripped (as I remember), for me completely - no clothes. There are many situations you can feel to reality, those who were in 9/11 time in USA. After 9/11, for the next few weeks, In particular, if you go to convenient stores, they will ask where are you, which religion ... By the way, I am NOT MUSLIM. I feel the pressure of the fellow Indians. Good luck! SRK, Kajol, Karan Johar, Fox and the whole team.",
-      "review_date": "2010-02-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing movie....one of the indian movies really having a global appeal..hats off.",
-      "review_date": "2010-06-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Most controversial subject handled in best delicate manner & deserve an applause\".Simply Superb Movie.. SRK at the best of acting!Simply Superb Movie.. SRK at the best of acting!One of the best movies I have seen which really touched my heart",
-      "review_date": "2011-03-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Im sure some of my peer who have reviewed this movie with such high ratings are joking. As a long time bollywood movie fan AND a shah rukh admirer, i have to be honest in my evaluation and tell the truth, this movie is extremely poor. There Im sure some of my peer who have reviewed this movie with such high ratings are joking. As a long time bollywood movie fan AND a shah rukh admirer, i have to be honest in my evaluation and tell the truth, this movie is extremely poor. There are some half decent aspects to it, namely the cinematography, but all in all the film disappoints from the even the very first few minutes, with SRK's unrealistic portrayal of Aspergers syndrome, and then to the unlikely romance between him and Kajols character. The middle improves to some extent, but is let down by the ridiculous and extremely cheesy 'forrest-gump' like exploits in the latter half, where he comes to rescue an african-american family from some floods closely followed by hordes of other half-submerged well wishers, and then finally meeting with Obama. With high expectations i went to see this film, especially after various interview of the lead people of the movie, including a light-hearted one of SRK on the Jonathan Ross show on the BBC, but all of my friends felt the same disappointment i felt as we left and reviewed what in retrospect was a rather wasted few hours. Other than a consisting of a few light hearted and funny moments, this is one film i will not be recommending to people. Unfortunately.",
-      "review_date": "2010-02-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is absolute fake. Full of hero khan glorification. Director lost plot in btw and started glorifying the protagonist.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "By no means it deserves any comment except that it is a bad film which presumably comes from one of the finest directors of India Mr Johar (actually he is not)...the movie is shameful exploitation of stereotypes and a juvenile understanding By no means it deserves any comment except that it is a bad film which presumably comes from one of the finest directors of India Mr Johar (actually he is not)...the movie is shameful exploitation of stereotypes and a juvenile understanding of what America is all about.",
-      "review_date": "2010-02-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "besides being emotional with how things run in the real world I think the movie did not work well for me, besides the great acting by the bollywood duo ! The movie is overrated for its cast n director, I thought it had a very slow paced besides being emotional with how things run in the real world I think the movie did not work well for me, besides the great acting by the bollywood duo ! The movie is overrated for its cast n director, I thought it had a very slow paced story with a few irrational happenings, for instance the president of america returning back in the last scene just to meet a person to here him out.. now that is not real and kajol sitting at home n crying most of the second half while seeing what her husband is set to do, that i thought was ridiculous. To sum it up I though the ovie was overrated and very irrational at some point.",
-      "review_date": "2010-02-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "OK movie good acting and direction. SRK at the best of acting! m sure some of my peer who have reviewed this movie with such high ratings are joking. As a long time bollywood movie fan AND a shah rukh admirer, i have to be honest in myOK movie good acting and direction. SRK at the best of acting! m sure some of my peer who have reviewed this movie with such high ratings are joking. As a long time bollywood movie fan AND a shah rukh admirer, i have to be honest in my evaluation and tell the truth, this movie is extremely poor.",
-      "review_date": "2011-07-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Indubitably one of the most meaningful and moving films to be rolled out from the Bollywood mills in recent times. MY NAME IS KHAN is a fascinating love story, has an angle of religion and a world-shaking incident as a backdrop. It not only Indubitably one of the most meaningful and moving films to be rolled out from the Bollywood mills in recent times. MY NAME IS KHAN is a fascinating love story, has an angle of religion and a world-shaking incident as a backdrop. It not only entertains, but also mesmerizes, enthralls and captivates the viewer in those 2.40 hours. At the same time, a film like MY NAME IS KHAN is sure to have a far-reaching influence due to its noble theme. I strongly advocate, don't miss this one!",
-      "review_date": "2010-02-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Most controversial subject handled in best delicate manner & deserve an applause\".",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Simply Superb Movie.. SRK at the best of acting!",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best movies I have seen which really touched my heart.",
-      "review_date": "2010-02-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Moved me beyond anything recently! Entertainment! Inspiration! Messages are important and compelling.",
-      "review_date": "2010-03-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is just too special . Any critic who has said bad about this movie don't have a heart and don't understand humanity. This movie teaches how to unite without looking at the religion, caste, colour, or anything at all.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "On the whole, MY NAME IS KHAN is a fascinating love story, has an angle of religion and a world-shaking incident as a backdrop. It not only entertains, but also mesmerises, enthrals and captivates the viewer in those 2.40 hours. At the same On the whole, MY NAME IS KHAN is a fascinating love story, has an angle of religion and a world-shaking incident as a backdrop. It not only entertains, but also mesmerises, enthrals and captivates the viewer in those 2.40 hours. At the same time, a film like MY NAME IS KHAN is sure to have a far-reaching influence due to its noble theme. I strongly advocate, don't miss this one!",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Brilliant film. Bollywood superstars impress.Oscar worthy performance by both SRK and Kajol.",
-      "review_date": "2010-02-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was really touching and ShahRukh Khan's acting was just too good...and SRK-Kajol chemistry was as always rocking....and a few scenes were the cutest ever in bollywood...10 on 10...go catch it if you havent...congrats to This movie was really touching and ShahRukh Khan's acting was just too good...and SRK-Kajol chemistry was as always rocking....and a few scenes were the cutest ever in bollywood...10 on 10...go catch it if you havent...congrats to KJo,SRK,Kajol and team.",
-      "review_date": "2010-06-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An absolutely amazing movie! Brilliantly directed with striking performances from the cast, especially Shah Rukh Khan. He clearly steals the show with a breathtaking performance, one of, if not his best, acting performance yet.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Its a good movie with a good message, but defintiely not a masterpiece. The second half brings down the film from its apex.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best movie ever made in bollywood on a subject like this. shahrukh delivers his over the top performance and kajol is simply the best. hats off to karan on working and really making a film which bollywood will adore for long.",
-      "review_date": "2010-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A good story that is relevant to America's geopolitical situation. Was superbly acted by Khan and Kajol and the main leads as well the supporting cast. I have read some critics saying the dialouge was cheesy or too melodramatic but that A good story that is relevant to America's geopolitical situation. Was superbly acted by Khan and Kajol and the main leads as well the supporting cast. I have read some critics saying the dialouge was cheesy or too melodramatic but that is how Hindi is often spoken. I do not believe some of the critics are taking the differences of language into account.",
-      "review_date": "2010-02-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best movie of bollywood so far. much better than 3 idiots. is based on a very strong theme.",
-      "review_date": "2010-02-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A good movie. maybe the last part could have been dealt better, but sends a strong message . acting bu shah rukh - brilliant!!",
-      "review_date": "2010-02-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Lets face it guys that we Americans are raciest. We too as a society is not perfect. If a film like Slumdog can show the dirtiest sites of India then why not a bolly movie like MNIK can show the bloody aspects of Americans. I rate this movie Lets face it guys that we Americans are raciest. We too as a society is not perfect. If a film like Slumdog can show the dirtiest sites of India then why not a bolly movie like MNIK can show the bloody aspects of Americans. I rate this movie 10 out of 10. Even though this movie is very unAmerican but lets remember that its an Indian movie and we have a huge cultural difference.",
-      "review_date": "2010-02-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It is time to make a movie to balance the general point of view. Thiz movie tried to answer that someone did not measure by his religion, but more about his good deeds. The story applied some Forrest Gump elements into it. It seems workedIt is time to make a movie to balance the general point of view. Thiz movie tried to answer that someone did not measure by his religion, but more about his good deeds. The story applied some Forrest Gump elements into it. It seems worked well. The film starred by India superstars, Shahrukh Khan along with Kajol and directed by their friend, Karan Johar. Despite of Johar is a known-well Director in India, but his works were very rare. There are only four movies include his first pop-phenomenal KUCH KUCH HOTA HAI (1998). All of Johar movies were appearing Khan and Kajol. The following were KABHI KUSHI KABHIE GAM in 2001 and KABHI ALVIDA NAA KEHNA in 2006 (although Kajol only appeared on small role-uncredited). On thiz movie, Khan performance tried to reach Dustin Hoffman character in RAIN MAN (1988). But like all Bollywood movies, I think some moments were over-acted. Khan who suffered Asperger syndrome, made him difficult to interact with others. However, he gifted by special abilities (In some ways, he was smart). Entire film is about his life journey, meet his love of the lifetime and what happens after 9-11 incident. The story had many layers on what happened next, the conflicts were good. But the ending was too simple and easily solved. The cinematography was awesome. If we want to be honest, thiz movie delivers some clear explicit messages. It made thiz movie a little bit side-weighed. The title and character itself which pointed to Khan is very acceptable. The movie anticipated to be neutral by put the main Cast real name into it.\r Visit My Blog on JONNY'S MOVEE : http://jonnyfendi.blogspot.com",
-      "review_date": "2011-01-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "one of best movies of 2010. best SRK movie .  a very heart touching subject &  splendid performances from the artists specially from SRK. rare bolly movie with a global appeal. everyone should watch MNIK .",
-      "review_date": "2011-01-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Simply stunning, never have I been so emotionally touched when watching a movie. Masterful performance from SRK. Not only does this film tell a story of love, it shows the darkest corners of the usa and tells such a gripping and in many waysSimply stunning, never have I been so emotionally touched when watching a movie. Masterful performance from SRK. Not only does this film tell a story of love, it shows the darkest corners of the usa and tells such a gripping and in many ways true story, this is an absolute must see!hats of to the director ,Karan Johar and to Kajol,God bless.",
-      "review_date": "2012-01-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "SRK in it.surely it will be a MASTERPIECE.BRILLIANT ACTING,Screenplay is engaging,Songs are Melodious,Listen to Noor-e- khuda U'll know.Oscar worthy Movie...By not giving the oscar to this Indian Govt(who sends one movie as the countriesSRK in it.surely it will be a MASTERPIECE.BRILLIANT ACTING,Screenplay is engaging,Songs are Melodious,Listen to Noor-e- khuda U'll know.Oscar worthy Movie...By not giving the oscar to this Indian Govt(who sends one movie as the countries representation to the big stage) ANd Oscar's are the one who has Lost...its there loss..",
-      "review_date": "2012-01-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A beautiful and touching movie and Kajol has produced a heartwarming movie. Rizvan and Mandira are great at acting and the trip was nice. The Americans against Muslims were a bit racist and potentially made it a little lower. The AspergersA beautiful and touching movie and Kajol has produced a heartwarming movie. Rizvan and Mandira are great at acting and the trip was nice. The Americans against Muslims were a bit racist and potentially made it a little lower. The Aspergers Syndrome for Rizvan was a debt but still a energetic and beautiful movie. I give it 88%.",
-      "review_date": "2013-01-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Funny movie with a cute love story, but over time gets more and more questionable on the film's realism. The racism portrayed in the film seems exaggerated, but I cannot speak for it as I don't remember any racism towards muslims after 9/11.Funny movie with a cute love story, but over time gets more and more questionable on the film's realism. The racism portrayed in the film seems exaggerated, but I cannot speak for it as I don't remember any racism towards muslims after 9/11. The lead actor and the female lead have great chemistry, and Khan's very charismatic with his Asperger's Syndrome, while still being brilliant. Worth a watch, thought provoking, at times unrealistic and feel good.",
-      "review_date": "2014-05-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"My Name is Khan\" was a good, touching and funny story, it tells a story of a man with Asperger syndrome, who wants to meet the President, the interesting thing is that the cultures of Hollywood, Bollywood, have mixed , and was well aged in a\"My Name is Khan\" was a good, touching and funny story, it tells a story of a man with Asperger syndrome, who wants to meet the President, the interesting thing is that the cultures of Hollywood, Bollywood, have mixed , and was well aged in a spectacular story, the cast was fascinating, and the performance of each well, the story was very good, and the message it conveys is inspiring you.",
-      "review_date": "2016-10-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The film My name is Khan gives a moral message to mankind that we must tolerate fellow religious communities.  Especially actor Shahrukh Khan made a very valuable sentence that Islam is not a terrorist religion.  Thank you for this best film,The film My name is Khan gives a moral message to mankind that we must tolerate fellow religious communities.  Especially actor Shahrukh Khan made a very valuable sentence that Islam is not a terrorist religion.  Thank you for this best film, I am deeply moved by Karan Johar's masterpiece..",
-      "review_date": "2020-10-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I think not only is the movie Johar's best, but also Shah Rukh Khan's best!",
-      "review_date": "2020-01-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nIn my opinion...this is the only movie of Bollywood...who can captured the Oscar but sadly this movie wasn't send to Oscar by India ....which was their biggest mistake...",
-      "review_date": "2020-02-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Its quite a wonderful movie, I'll never get bored watching it, very emotional movie too.",
-      "review_date": "2020-05-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie to watch, so much to learn.Funny and emotional.Must watch it is!",
-      "review_date": "2020-12-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I really love the movie and never feel bored to watch many timesThe music, the story was amazingThe khan theme with the scene really touch my soul...",
-      "review_date": "2021-05-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Idk what is wrong with the critics here. It's a great movie, and  my  favorite Indian movie.",
-      "review_date": "2022-09-11",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 58
+    "title": "My Name Is Khan",
+    "rating": 8.4,
+    "release_date": "2010-02-12",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "summary": "Rizvan Khan, a Muslim man from India, moves to San Francisco and lives with his brother and sister-in-law. Rizvan, who has Aspergers, falls in love with Mandira. Despite protests from his family they get married and start a small business together. They are happy until September 11, 2001 when attitudes towards Muslims undergo a sea-change.Rizvan Khan, a Muslim man from India, moves to San Francisco and lives with his brother and sister-in-law. Rizvan, who has Aspergers, falls in love with Mandira. Despite protests from his family they get married and start a small business together. They are happy until September 11, 2001 when attitudes towards Muslims undergo a sea-change. When tragedy strikes, Mandira is devastated and they split. Rizvan is confused and very upset that the love of his life has left him. To win her back, he embarks on a touching and inspiring journey across America. (Red Chillies Entertainment)\r\u2026 Expand",
+    "critic_reviews": [
+        "A potent, energetic heart-tugger and Khan and Kajol, major Bollywood stars, are highly appealing and equal to the demand of their emotion-charged roles.",
+        "Skillfully directed by Karan Johar and with an evocative score by Shankar, Ehsaan & Loy, \u201cKhan\u201d jerks tears with ease, while teaching lessons about Islam and tolerance.",
+        "Riotously overstuffed and enormously enjoyable drama.",
+        "A very average, ordinary film that goes haywire.",
+        "This is a movie not built for subtlety, but it does tackle a subject American movies have mostly avoided -- that of racial profiling and the plight of Muslim-Americans.",
+        "For a movie that preaches cultural understanding, it sometimes seems a little too comfortable perpetuating ethnic stereotypes.",
+        "The polished production sometimes touches and amuses despite its na\u00efve \u201clove conquers all\u201d script."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Great movie, very thoughtful and so very true in regards to how muslims are regarded by most in America. I gave it 10 because of the message and the delivery, very nicely produced and realistic.\rIf not for that the rating would have beenGreat movie, very thoughtful and so very true in regards to how muslims are regarded by most in America. I gave it 10 because of the message and the delivery, very nicely produced and realistic.\rIf not for that the rating would have been lower because of the whole georgia hurricane rescue.\rto paraphrase an earlier post, it reminded me too much of Forrest Gump after awhile.\rDespite its shortcomings it was a wonderful story with believable actors/actresses and compelling subject.\rThis should be required viewing for all of the so-called 'tolerant', no matter what faith they follow.",
+            "review_date": "2011-04-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Awesome movie, albeit a little Forest-Gumpy, it is a must-see!",
+            "review_date": "2010-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Remarkable acting, production values.",
+            "review_date": "2010-02-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A simple film with strong message.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A movie of this troubled time. A movie with a (or many?) strong messages. A post 9/11 Forrest Gump. one of the best performances by shahrukh khan. Appropriate support form kajol. Superb cinematography. But the script could be better. It will A movie of this troubled time. A movie with a (or many?) strong messages. A post 9/11 Forrest Gump. one of the best performances by shahrukh khan. Appropriate support form kajol. Superb cinematography. But the script could be better. It will make you laugh when SRK comes with a copy of \"intercourse for dumbos\" or the way he proposes. You cant hold back your tears in a number of scenes specially when their son dies or when Rijwan is hold in the cell. You can definitely call it 'over dramatized'. specially that scene when he saves a whole village from hurricane. But it's the larger than life looks thats the most special asset of this movie. at the end of the day it's the love and inspiration that you carry back home and that should be strong enough to rate it maximum. P.S. I went to watch the movie with a close friend of mine who is definitely not a fan of SRK (rather she dislikes him for one expression acting school.) She had some prejudices about Islam and Muslims like a lot of other Hindus. Previously I've tried a lot to make her understand but she appeared to be quite rigid on her views. But after the movie ends she tells me in teary eyes, \"now i know what u tried to tell me. and I don't hate any religion anymore.\" Thats the power of love it shows. And no compliment is enough for that piece of art, that inspires our real life to this level.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the Best Movies of all time! It has the super magnatic power to pull you inside the story & the character of SRK. DonT Miss! or U will regret! 1million stars to MNIK!",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Awesome movie. First Indian movie that is the global appeal to non-indians. Kudos to SRK and Karan Johar.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "MNIK was clearly meant to be a Bollywood movie, so I don",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fantastic story, fantastic message, awesome direction, mindblowing performance by SRK.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing film on a very touchy subject. Full marks to SRK!!!",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There's so much to learn about humanity and life in this movie that it really inspired me to become a better person in my life.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "once in a while a movie of this capacity comes along.Great music,superb direction and performance of the decade from SRk. MNIK gets tow big thumbs up for being a different and yet entertaining movie, overlook the tiny flaws and its a masterpiece.",
+            "review_date": "2010-02-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent Story by Karan Johar, Acting by Shahrukh Khan and Kajol Devgan. What more can you ask for? Not once do you feel that Shahrukh is a normal human being, and it most definitely was a challenging role to play by Shahrukh. This movie Excellent Story by Karan Johar, Acting by Shahrukh Khan and Kajol Devgan. What more can you ask for? Not once do you feel that Shahrukh is a normal human being, and it most definitely was a challenging role to play by Shahrukh. This movie will be a classic on so many levels. Thank you for making this movie Karan.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Nice one! I watched the movie and liked the story! I know who are Muslim friends, faced the same and the interrogation in the airport, almost everyone from third world country like India are facing. (that includes me!) Atleast in the movie, Nice one! I watched the movie and liked the story! I know who are Muslim friends, faced the same and the interrogation in the airport, almost everyone from third world country like India are facing. (that includes me!) Atleast in the movie, half stripped (as I remember), for me completely - no clothes. There are many situations you can feel to reality, those who were in 9/11 time in USA. After 9/11, for the next few weeks, In particular, if you go to convenient stores, they will ask where are you, which religion ... By the way, I am NOT MUSLIM. I feel the pressure of the fellow Indians. Good luck! SRK, Kajol, Karan Johar, Fox and the whole team.",
+            "review_date": "2010-02-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing movie....one of the indian movies really having a global appeal..hats off.",
+            "review_date": "2010-06-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Most controversial subject handled in best delicate manner & deserve an applause\".Simply Superb Movie.. SRK at the best of acting!Simply Superb Movie.. SRK at the best of acting!One of the best movies I have seen which really touched my heart",
+            "review_date": "2011-03-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Im sure some of my peer who have reviewed this movie with such high ratings are joking. As a long time bollywood movie fan AND a shah rukh admirer, i have to be honest in my evaluation and tell the truth, this movie is extremely poor. There Im sure some of my peer who have reviewed this movie with such high ratings are joking. As a long time bollywood movie fan AND a shah rukh admirer, i have to be honest in my evaluation and tell the truth, this movie is extremely poor. There are some half decent aspects to it, namely the cinematography, but all in all the film disappoints from the even the very first few minutes, with SRK's unrealistic portrayal of Aspergers syndrome, and then to the unlikely romance between him and Kajols character. The middle improves to some extent, but is let down by the ridiculous and extremely cheesy 'forrest-gump' like exploits in the latter half, where he comes to rescue an african-american family from some floods closely followed by hordes of other half-submerged well wishers, and then finally meeting with Obama. With high expectations i went to see this film, especially after various interview of the lead people of the movie, including a light-hearted one of SRK on the Jonathan Ross show on the BBC, but all of my friends felt the same disappointment i felt as we left and reviewed what in retrospect was a rather wasted few hours. Other than a consisting of a few light hearted and funny moments, this is one film i will not be recommending to people. Unfortunately.",
+            "review_date": "2010-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is absolute fake. Full of hero khan glorification. Director lost plot in btw and started glorifying the protagonist.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "By no means it deserves any comment except that it is a bad film which presumably comes from one of the finest directors of India Mr Johar (actually he is not)...the movie is shameful exploitation of stereotypes and a juvenile understanding By no means it deserves any comment except that it is a bad film which presumably comes from one of the finest directors of India Mr Johar (actually he is not)...the movie is shameful exploitation of stereotypes and a juvenile understanding of what America is all about.",
+            "review_date": "2010-02-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "besides being emotional with how things run in the real world I think the movie did not work well for me, besides the great acting by the bollywood duo ! The movie is overrated for its cast n director, I thought it had a very slow paced besides being emotional with how things run in the real world I think the movie did not work well for me, besides the great acting by the bollywood duo ! The movie is overrated for its cast n director, I thought it had a very slow paced story with a few irrational happenings, for instance the president of america returning back in the last scene just to meet a person to here him out.. now that is not real and kajol sitting at home n crying most of the second half while seeing what her husband is set to do, that i thought was ridiculous. To sum it up I though the ovie was overrated and very irrational at some point.",
+            "review_date": "2010-02-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "OK movie good acting and direction. SRK at the best of acting! m sure some of my peer who have reviewed this movie with such high ratings are joking. As a long time bollywood movie fan AND a shah rukh admirer, i have to be honest in myOK movie good acting and direction. SRK at the best of acting! m sure some of my peer who have reviewed this movie with such high ratings are joking. As a long time bollywood movie fan AND a shah rukh admirer, i have to be honest in my evaluation and tell the truth, this movie is extremely poor.",
+            "review_date": "2011-07-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Indubitably one of the most meaningful and moving films to be rolled out from the Bollywood mills in recent times. MY NAME IS KHAN is a fascinating love story, has an angle of religion and a world-shaking incident as a backdrop. It not only Indubitably one of the most meaningful and moving films to be rolled out from the Bollywood mills in recent times. MY NAME IS KHAN is a fascinating love story, has an angle of religion and a world-shaking incident as a backdrop. It not only entertains, but also mesmerizes, enthralls and captivates the viewer in those 2.40 hours. At the same time, a film like MY NAME IS KHAN is sure to have a far-reaching influence due to its noble theme. I strongly advocate, don't miss this one!",
+            "review_date": "2010-02-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Most controversial subject handled in best delicate manner & deserve an applause\".",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Simply Superb Movie.. SRK at the best of acting!",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best movies I have seen which really touched my heart.",
+            "review_date": "2010-02-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Moved me beyond anything recently! Entertainment! Inspiration! Messages are important and compelling.",
+            "review_date": "2010-03-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is just too special . Any critic who has said bad about this movie don't have a heart and don't understand humanity. This movie teaches how to unite without looking at the religion, caste, colour, or anything at all.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "On the whole, MY NAME IS KHAN is a fascinating love story, has an angle of religion and a world-shaking incident as a backdrop. It not only entertains, but also mesmerises, enthrals and captivates the viewer in those 2.40 hours. At the same On the whole, MY NAME IS KHAN is a fascinating love story, has an angle of religion and a world-shaking incident as a backdrop. It not only entertains, but also mesmerises, enthrals and captivates the viewer in those 2.40 hours. At the same time, a film like MY NAME IS KHAN is sure to have a far-reaching influence due to its noble theme. I strongly advocate, don't miss this one!",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Brilliant film. Bollywood superstars impress.Oscar worthy performance by both SRK and Kajol.",
+            "review_date": "2010-02-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was really touching and ShahRukh Khan's acting was just too good...and SRK-Kajol chemistry was as always rocking....and a few scenes were the cutest ever in bollywood...10 on 10...go catch it if you havent...congrats to This movie was really touching and ShahRukh Khan's acting was just too good...and SRK-Kajol chemistry was as always rocking....and a few scenes were the cutest ever in bollywood...10 on 10...go catch it if you havent...congrats to KJo,SRK,Kajol and team.",
+            "review_date": "2010-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An absolutely amazing movie! Brilliantly directed with striking performances from the cast, especially Shah Rukh Khan. He clearly steals the show with a breathtaking performance, one of, if not his best, acting performance yet.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Its a good movie with a good message, but defintiely not a masterpiece. The second half brings down the film from its apex.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best movie ever made in bollywood on a subject like this. shahrukh delivers his over the top performance and kajol is simply the best. hats off to karan on working and really making a film which bollywood will adore for long.",
+            "review_date": "2010-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A good story that is relevant to America's geopolitical situation. Was superbly acted by Khan and Kajol and the main leads as well the supporting cast. I have read some critics saying the dialouge was cheesy or too melodramatic but that A good story that is relevant to America's geopolitical situation. Was superbly acted by Khan and Kajol and the main leads as well the supporting cast. I have read some critics saying the dialouge was cheesy or too melodramatic but that is how Hindi is often spoken. I do not believe some of the critics are taking the differences of language into account.",
+            "review_date": "2010-02-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best movie of bollywood so far. much better than 3 idiots. is based on a very strong theme.",
+            "review_date": "2010-02-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A good movie. maybe the last part could have been dealt better, but sends a strong message . acting bu shah rukh - brilliant!!",
+            "review_date": "2010-02-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Lets face it guys that we Americans are raciest. We too as a society is not perfect. If a film like Slumdog can show the dirtiest sites of India then why not a bolly movie like MNIK can show the bloody aspects of Americans. I rate this movie Lets face it guys that we Americans are raciest. We too as a society is not perfect. If a film like Slumdog can show the dirtiest sites of India then why not a bolly movie like MNIK can show the bloody aspects of Americans. I rate this movie 10 out of 10. Even though this movie is very unAmerican but lets remember that its an Indian movie and we have a huge cultural difference.",
+            "review_date": "2010-02-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It is time to make a movie to balance the general point of view. Thiz movie tried to answer that someone did not measure by his religion, but more about his good deeds. The story applied some Forrest Gump elements into it. It seems workedIt is time to make a movie to balance the general point of view. Thiz movie tried to answer that someone did not measure by his religion, but more about his good deeds. The story applied some Forrest Gump elements into it. It seems worked well. The film starred by India superstars, Shahrukh Khan along with Kajol and directed by their friend, Karan Johar. Despite of Johar is a known-well Director in India, but his works were very rare. There are only four movies include his first pop-phenomenal KUCH KUCH HOTA HAI (1998). All of Johar movies were appearing Khan and Kajol. The following were KABHI KUSHI KABHIE GAM in 2001 and KABHI ALVIDA NAA KEHNA in 2006 (although Kajol only appeared on small role-uncredited). On thiz movie, Khan performance tried to reach Dustin Hoffman character in RAIN MAN (1988). But like all Bollywood movies, I think some moments were over-acted. Khan who suffered Asperger syndrome, made him difficult to interact with others. However, he gifted by special abilities (In some ways, he was smart). Entire film is about his life journey, meet his love of the lifetime and what happens after 9-11 incident. The story had many layers on what happened next, the conflicts were good. But the ending was too simple and easily solved. The cinematography was awesome. If we want to be honest, thiz movie delivers some clear explicit messages. It made thiz movie a little bit side-weighed. The title and character itself which pointed to Khan is very acceptable. The movie anticipated to be neutral by put the main Cast real name into it.\r Visit My Blog on JONNY'S MOVEE : http://jonnyfendi.blogspot.com",
+            "review_date": "2011-01-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "one of best movies of 2010. best SRK movie .  a very heart touching subject &  splendid performances from the artists specially from SRK. rare bolly movie with a global appeal. everyone should watch MNIK .",
+            "review_date": "2011-01-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Simply stunning, never have I been so emotionally touched when watching a movie. Masterful performance from SRK. Not only does this film tell a story of love, it shows the darkest corners of the usa and tells such a gripping and in many waysSimply stunning, never have I been so emotionally touched when watching a movie. Masterful performance from SRK. Not only does this film tell a story of love, it shows the darkest corners of the usa and tells such a gripping and in many ways true story, this is an absolute must see!hats of to the director ,Karan Johar and to Kajol,God bless.",
+            "review_date": "2012-01-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "SRK in it.surely it will be a MASTERPIECE.BRILLIANT ACTING,Screenplay is engaging,Songs are Melodious,Listen to Noor-e- khuda U'll know.Oscar worthy Movie...By not giving the oscar to this Indian Govt(who sends one movie as the countriesSRK in it.surely it will be a MASTERPIECE.BRILLIANT ACTING,Screenplay is engaging,Songs are Melodious,Listen to Noor-e- khuda U'll know.Oscar worthy Movie...By not giving the oscar to this Indian Govt(who sends one movie as the countries representation to the big stage) ANd Oscar's are the one who has Lost...its there loss..",
+            "review_date": "2012-01-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A beautiful and touching movie and Kajol has produced a heartwarming movie. Rizvan and Mandira are great at acting and the trip was nice. The Americans against Muslims were a bit racist and potentially made it a little lower. The AspergersA beautiful and touching movie and Kajol has produced a heartwarming movie. Rizvan and Mandira are great at acting and the trip was nice. The Americans against Muslims were a bit racist and potentially made it a little lower. The Aspergers Syndrome for Rizvan was a debt but still a energetic and beautiful movie. I give it 88%.",
+            "review_date": "2013-01-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Funny movie with a cute love story, but over time gets more and more questionable on the film's realism. The racism portrayed in the film seems exaggerated, but I cannot speak for it as I don't remember any racism towards muslims after 9/11.Funny movie with a cute love story, but over time gets more and more questionable on the film's realism. The racism portrayed in the film seems exaggerated, but I cannot speak for it as I don't remember any racism towards muslims after 9/11. The lead actor and the female lead have great chemistry, and Khan's very charismatic with his Asperger's Syndrome, while still being brilliant. Worth a watch, thought provoking, at times unrealistic and feel good.",
+            "review_date": "2014-05-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"My Name is Khan\" was a good, touching and funny story, it tells a story of a man with Asperger syndrome, who wants to meet the President, the interesting thing is that the cultures of Hollywood, Bollywood, have mixed , and was well aged in a\"My Name is Khan\" was a good, touching and funny story, it tells a story of a man with Asperger syndrome, who wants to meet the President, the interesting thing is that the cultures of Hollywood, Bollywood, have mixed , and was well aged in a spectacular story, the cast was fascinating, and the performance of each well, the story was very good, and the message it conveys is inspiring you.",
+            "review_date": "2016-10-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The film My name is Khan gives a moral message to mankind that we must tolerate fellow religious communities.  Especially actor Shahrukh Khan made a very valuable sentence that Islam is not a terrorist religion.  Thank you for this best film,The film My name is Khan gives a moral message to mankind that we must tolerate fellow religious communities.  Especially actor Shahrukh Khan made a very valuable sentence that Islam is not a terrorist religion.  Thank you for this best film, I am deeply moved by Karan Johar's masterpiece..",
+            "review_date": "2020-10-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think not only is the movie Johar's best, but also Shah Rukh Khan's best!",
+            "review_date": "2020-01-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nIn my opinion...this is the only movie of Bollywood...who can captured the Oscar but sadly this movie wasn't send to Oscar by India ....which was their biggest mistake...",
+            "review_date": "2020-02-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Its quite a wonderful movie, I'll never get bored watching it, very emotional movie too.",
+            "review_date": "2020-05-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie to watch, so much to learn.Funny and emotional.Must watch it is!",
+            "review_date": "2020-12-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really love the movie and never feel bored to watch many timesThe music, the story was amazingThe khan theme with the scene really touch my soul...",
+            "review_date": "2021-05-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Idk what is wrong with the critics here. It's a great movie, and  my  favorite Indian movie.",
+            "review_date": "2022-09-11",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 58
 }

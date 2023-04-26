@@ -1,29 +1,24 @@
 {
-  "title": "CODA",
-  "rating": 8.0,
-  "release_date": "2020-01-31",
-  "genre": [
-    "Drama",
-    "Music"
-  ],
-  "summary": "A famous pianist struggling with stage fright late in his career finds inspiration with a free-spirited music critic.",
-  "critic_reviews": [
-    "A deliberately paced and stealthily involving saunter through familiar territory.",
-    "Sadly, the script for this debut feature, written by Louis Godbout, is less persuasive: No single event is fatally implausible, perhaps, but taken together it doesn't ring true."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "I love this movie. It is simple, in a way; beautifully simple, and simply beautiful. The commonplace themes of fear, love, and loss are certainly universal, but no less profound for that. Perhaps I am biased, as I myself am a musician with noI love this movie. It is simple, in a way; beautifully simple, and simply beautiful. The commonplace themes of fear, love, and loss are certainly universal, but no less profound for that. Perhaps I am biased, as I myself am a musician with no confidence--if one is looking for an action-packed adventure, this is not that. It is, instead, quietly passionate. Sir Patrick Stewart gives a compelling, powerfully moving performance (indeed, I don't think I've ever seen him give anything else). Katie Holmes is very natural, genuine, intense but most charming. Even Giancarlo Esposito is quite memorable, although his character gets relatively little screen time--he's sort of the voice of reason, keeping everyone from falling into themselves, as it were.Not that long, small cast, a great deal of silence and natural beauty... simple, as I said. Yet it has found a special place in my heart, and I hope that if you see it, you feel the same.",
-      "review_date": "2020-06-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "La vi por Patrick Steward y el hace muy bien el papel, algunos planos son curiosos, pero el montaje no me termina de gustar por cuando hay muchos planos rápidos lo noto muy abrupto. Pero no olvidemos de como trata lo que es el miedo escénico.",
-      "review_date": "2021-04-23",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 4
+    "title": "CODA",
+    "rating": 8.0,
+    "release_date": "2020-01-31",
+    "genre": [
+        "Drama",
+        "Music"
+    ],
+    "summary": "A famous pianist struggling with stage fright late in his career finds inspiration with a free-spirited music critic.",
+    "critic_reviews": [
+        "A deliberately paced and stealthily involving saunter through familiar territory.",
+        "Sadly, the script for this debut feature, written by Louis Godbout, is less persuasive: No single event is fatally implausible, perhaps, but taken together it doesn't ring true."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "I love this movie. It is simple, in a way; beautifully simple, and simply beautiful. The commonplace themes of fear, love, and loss are certainly universal, but no less profound for that. Perhaps I am biased, as I myself am a musician with noI love this movie. It is simple, in a way; beautifully simple, and simply beautiful. The commonplace themes of fear, love, and loss are certainly universal, but no less profound for that. Perhaps I am biased, as I myself am a musician with no confidence--if one is looking for an action-packed adventure, this is not that. It is, instead, quietly passionate. Sir Patrick Stewart gives a compelling, powerfully moving performance (indeed, I don't think I've ever seen him give anything else). Katie Holmes is very natural, genuine, intense but most charming. Even Giancarlo Esposito is quite memorable, although his character gets relatively little screen time--he's sort of the voice of reason, keeping everyone from falling into themselves, as it were.Not that long, small cast, a great deal of silence and natural beauty... simple, as I said. Yet it has found a special place in my heart, and I hope that if you see it, you feel the same.",
+            "review_date": "2020-06-01",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 4
 }

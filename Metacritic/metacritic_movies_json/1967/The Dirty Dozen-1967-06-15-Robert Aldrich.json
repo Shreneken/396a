@@ -1,39 +1,41 @@
 {
-  "title": "The Dirty Dozen",
-  "rating": 7.4,
-  "release_date": "1967-06-15",
-  "genre": [
-    "Action",
-    "Adventure",
-    "War"
-  ],
-  "summary": "During World War II, a rebellious U.S. Army Major is assigned a dozen convicted murderers to train and lead them into a mass assassination mission of German officers.",
-  "critic_reviews": [
-    "Aldrich was a master at presenting his distinctly cynical outlook in the context of crowd-pleasing entertainment, and The Dirty Dozen is one of his most effective and lasting efforts.",
-    "Unarguably one of the great war movies of all time.",
-    "Aldrich appears to be against everything: anti-military, anti-Establishment, anti-women, anti-religion, anti-culture, anti-life. Overriding such nihilism is the super-crudity of Aldrich's energy and his humour, sufficiently cynical to suggest that the whole thing is a game anyway, a spectacle that demands an audience.",
-    "Lee Marvin and Charles Bronson in the same picture. How much more bad-assedness do you need?",
-    "Lee Marvin heads a very strong, nearly all-male cast in an excellent performance.",
-    "Director Robert Aldrich gets convincingly raw, tough performances in even the smallest roles.",
-    "There are some nice, amusing scenes, especially when one of the dozen (Donald Sutherland) pretends to be a general and inspects some troops. In fact, right up to the last scene the movie is amusing, well paced, intelligent.",
-    "The Dirty Dozen flows nicely, keeping things moving and drawing the audience along in its rapid current",
-    "Robert Aldrich dissects the underlying ideas with just enough craft and thoughtfulness to make the implications of this gritty 1966 war drama unsettling in not entirely constructive ways.",
-    "It is overlong, uneven and frequently obscure, but will succeed by virtue of its sustained action, even though what it attempts to say, if anything, remains elusive.",
-    "Sadistic, anti-Nazi slaughter mission. Entertaining as a blowtorch."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "Very entertaining war film with good screenplay, story and acting. A deserved classic.",
-      "review_date": "2019-04-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film, set in the World War II, is an adventure in which a group of twelve American soldiers, chosen among those convicted of several military crimes, is trained and sent on a suicide mission behind German lines, in occupied France, toThis film, set in the World War II, is an adventure in which a group of twelve American soldiers, chosen among those convicted of several military crimes, is trained and sent on a suicide mission behind German lines, in occupied France, to kill as many German officers as possible in a castle that was used as a place of rest and recreation. It is an engaging but long film, and I think it has some problems, as the preparation and training of these soldiers occupies more than half of the film's leght and the operation itself is placed without much detail or attention, when compared to the trainings.The film is directed by Robert Aldrich, and it is his first work that I have seen, but it seems good enough. The question I mentioned above, about the difference between the time spent showing the trainings and the time spent with the military action, was something that he could have solved. One thing, for example, in which the film does not spend a minute of celluloid is the return or evacuation of the survival soldiers. What compensates these flaws is the light and well-placed humour and the action, always present in one way or another.The cast is one of the most interesting things here. In addition to Lee Marvin, a veteran of cowboy or soldier movies, we have other famous \"tough guys\" like Robert Ryan, Ernest Borgnine, Clint Walker, Telly Savalas (in one of the most complex roles in the film, a fanatical religious freak) and Donald Sutherland. John Cassavetes has one of the most central roles in the plot and is simply excellent, as is Charles Bronson. Its the \"tough squad\" of cinema assembled in a film loaded with testosterone and masculinity. Everyone does a good job, they are good actors in the genre they are used to, and they do not disappoint the public. However, people looking for something intellectual or psychologically profound may prefer to see something else.Technically, the film seems to me quite regular. A somewhat dated cinematography, the state of the art when the film was made, good special, visual and sound effects, costumes and sets according to the time (as far as I could tell, an expert in old military material maybe more skilful than me) and a suitable soundtrack, but it doesn't stand out.",
-      "review_date": "2020-05-02",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 13
+    "title": "The Dirty Dozen",
+    "rating": 7.4,
+    "release_date": "1967-06-15",
+    "genre": [
+        "Action",
+        "Adventure",
+        "War"
+    ],
+    "summary": "During World War II, a rebellious U.S. Army Major is assigned a dozen convicted murderers to train and lead them into a mass assassination mission of German officers.",
+    "critic_reviews": [
+        "Aldrich was a master at presenting his distinctly cynical outlook in the context of crowd-pleasing entertainment, and The Dirty Dozen is one of his most effective and lasting efforts.",
+        "Unarguably one of the great war movies of all time.",
+        "Aldrich appears to be against everything: anti-military, anti-Establishment, anti-women, anti-religion, anti-culture, anti-life. Overriding such nihilism is the super-crudity of Aldrich's energy and his humour, sufficiently cynical to suggest that the whole thing is a game anyway, a spectacle that demands an audience.",
+        "Lee Marvin and Charles Bronson in the same picture. How much more bad-assedness do you need?",
+        "Lee Marvin heads a very strong, nearly all-male cast in an excellent performance.",
+        "Director Robert Aldrich gets convincingly raw, tough performances in even the smallest roles.",
+        "There are some nice, amusing scenes, especially when one of the dozen (Donald Sutherland) pretends to be a general and inspects some troops. In fact, right up to the last scene the movie is amusing, well paced, intelligent.",
+        "The Dirty Dozen flows nicely, keeping things moving and drawing the audience along in its rapid current",
+        "Robert Aldrich dissects the underlying ideas with just enough craft and thoughtfulness to make the implications of this gritty 1966 war drama unsettling in not entirely constructive ways.",
+        "It is overlong, uneven and frequently obscure, but will succeed by virtue of its sustained action, even though what it attempts to say, if anything, remains elusive.",
+        "Sadistic, anti-Nazi slaughter mission. Entertaining as a blowtorch."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "Very entertaining war film with good screenplay, story and acting. A deserved classic.",
+            "review_date": "2019-04-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film, set in the World War II, is an adventure in which a group of twelve American soldiers, chosen among those convicted of several military crimes, is trained and sent on a suicide mission behind German lines, in occupied France, toThis film, set in the World War II, is an adventure in which a group of twelve American soldiers, chosen among those convicted of several military crimes, is trained and sent on a suicide mission behind German lines, in occupied France, to kill as many German officers as possible in a castle that was used as a place of rest and recreation. It is an engaging but long film, and I think it has some problems, as the preparation and training of these soldiers occupies more than half of the film's leght and the operation itself is placed without much detail or attention, when compared to the trainings.The film is directed by Robert Aldrich, and it is his first work that I have seen, but it seems good enough. The question I mentioned above, about the difference between the time spent showing the trainings and the time spent with the military action, was something that he could have solved. One thing, for example, in which the film does not spend a minute of celluloid is the return or evacuation of the survival soldiers. What compensates these flaws is the light and well-placed humour and the action, always present in one way or another.The cast is one of the most interesting things here. In addition to Lee Marvin, a veteran of cowboy or soldier movies, we have other famous \"tough guys\" like Robert Ryan, Ernest Borgnine, Clint Walker, Telly Savalas (in one of the most complex roles in the film, a fanatical religious freak) and Donald Sutherland. John Cassavetes has one of the most central roles in the plot and is simply excellent, as is Charles Bronson. Its the \"tough squad\" of cinema assembled in a film loaded with testosterone and masculinity. Everyone does a good job, they are good actors in the genre they are used to, and they do not disappoint the public. However, people looking for something intellectual or psychologically profound may prefer to see something else.Technically, the film seems to me quite regular. A somewhat dated cinematography, the state of the art when the film was made, good special, visual and sound effects, costumes and sets according to the time (as far as I could tell, an expert in old military material maybe more skilful than me) and a suitable soundtrack, but it doesn't stand out.",
+            "review_date": "2020-05-02",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 13
 }
