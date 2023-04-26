@@ -26,12 +26,14 @@
     {
       "review_title": null,
       "content": "The Best Civil War movie of all time.  And one of the top 5 war movies of all time.  \"Glory\" doesn't get the credit it deserves.  It actually gives you an idea of what it is like to have something to die for.",
-      "review_date": "2023-01-23"
+      "review_date": "2023-01-23",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "aż szkoda że tak mało filmów traktuje o tym pasjonującym okresie w historii USA",
-      "review_date": "2021-12-14"
+      "review_date": "2021-12-14",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 13

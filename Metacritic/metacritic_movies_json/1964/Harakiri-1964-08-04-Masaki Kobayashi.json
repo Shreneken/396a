@@ -20,17 +20,20 @@
     {
       "review_title": null,
       "content": "genuinely one of the greatest movies of all time. This dark, suspenseful tale is an absolute triumph for Japanese cinema!",
-      "review_date": "2020-06-01"
+      "review_date": "2020-06-01",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "Despite their profound idealization of honor when it comes to the samurai, in one way or another, it is something that makes them so fascinating, and Harakiri clearly addresses the ethics of what their code entails.Harakiri is an elegant,Despite their profound idealization of honor when it comes to the samurai, in one way or another, it is something that makes them so fascinating, and Harakiri clearly addresses the ethics of what their code entails.Harakiri is an elegant, powerful, emotional, dramatic, exciting and beautiful movie. A masterpiece that exudes quality in all its elements.I can now see why this is one of the best samurai movies ever made, and it's all the more surprising that it's one that rightly questions its system.",
-      "review_date": "2023-02-04"
+      "review_date": "2023-02-04",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "Whereas the story didn't fully captivate me, there is no doubt in the perfection of its directing, use of camera and acting.",
-      "review_date": "2022-07-23"
+      "review_date": "2022-07-23",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 9

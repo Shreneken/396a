@@ -29,7 +29,8 @@
     {
       "review_title": null,
       "content": "This was excellent, the pacing and editing were probably the best for any animated movie ever. Think definitely the most 'adult' and **** up animated movie I can remember watching.",
-      "review_date": "2023-03-06"
+      "review_date": "2023-03-06",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 15

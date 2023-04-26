@@ -25,7 +25,8 @@
     {
       "review_title": null,
       "content": "I think Bill Goldberg is a good addition to the movie 'cuz he's lean and mean and fits the part very well. All the other parts can be thrown out.",
-      "review_date": "2006-07-21"
+      "review_date": "2006-07-21",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 13

@@ -27,12 +27,14 @@
     {
       "review_title": null,
       "content": "All the French food (movies) tastes the same. You either love them or hate them.",
-      "review_date": "2018-09-07"
+      "review_date": "2018-09-07",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "An understated, poetic film set in a quiet countryside during a tumultuous time. Serves as an alternative perspective to war and its casualties. Nathalie Baye, Laura Smet, Iris Bry all gave a first-rate performance. The pacing is on the slowAn understated, poetic film set in a quiet countryside during a tumultuous time. Serves as an alternative perspective to war and its casualties. Nathalie Baye, Laura Smet, Iris Bry all gave a first-rate performance. The pacing is on the slow side. Needs patience to take it all in.",
-      "review_date": "2018-06-03"
+      "review_date": "2018-06-03",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 17

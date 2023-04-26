@@ -18,17 +18,20 @@
     {
       "review_title": null,
       "content": "There are moments in this film that shocked me on a new level. It build suspense brilliantly but like many films it feels rushed towards the end. It also takes a lot of ideas from the Babadook.  Definitely recommend though",
-      "review_date": "2020-10-08"
+      "review_date": "2020-10-08",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "A Shudder original, so I wasn't expecting much.In all honesty I thought it was better than some horror stuff that was released this year but there's nothing worth mentioning and I say this because even though there's some interestingA Shudder original, so I wasn't expecting much.In all honesty I thought it was better than some horror stuff that was released this year but there's nothing worth mentioning and I say this because even though there's some interesting elements, the way it's driven makes the jump scares an abusive resource for the narrative and I hate when that happens.",
-      "review_date": "2020-06-13"
+      "review_date": "2020-06-13",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "The script has creativity, maybe even in the name of the thing or maybe not.",
-      "review_date": "2021-06-15"
+      "review_date": "2021-06-15",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 7

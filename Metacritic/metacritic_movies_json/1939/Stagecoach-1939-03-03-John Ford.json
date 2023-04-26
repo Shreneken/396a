@@ -26,12 +26,14 @@
     {
       "review_title": null,
       "content": "Great classic movie. It was in a day when there were gentlemen and they treated women like ladies. Interesting characters and journey plot.",
-      "review_date": "2019-06-15"
+      "review_date": "2019-06-15",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "John Wayne stars in the spectacular Western which has a great cast, superb script, and gripping drama.",
-      "review_date": "2022-02-02"
+      "review_date": "2022-02-02",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 14

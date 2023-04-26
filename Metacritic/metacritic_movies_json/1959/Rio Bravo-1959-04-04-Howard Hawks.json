@@ -27,12 +27,14 @@
     {
       "review_title": null,
       "content": "Pretty much garbage. I don't know why people once thought John Wayne was a good actor. Unrealistic overly long and brainless.",
-      "review_date": "2020-07-17"
+      "review_date": "2020-07-17",
+      "source": "metacritic"
     },
     {
       "review_title": null,
       "content": "One of the best westerns ever made. with great performance of john wayne dean martin and Ricky Nelson. howard hawks in rio bravo used Art for entertainment",
-      "review_date": "2020-07-19"
+      "review_date": "2020-07-19",
+      "source": "metacritic"
     }
   ],
   "num_reviews": 15
