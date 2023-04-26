@@ -21,11 +21,13 @@ def change_title_if_required(title):
 def check_file_existence(file_name):
     already_exists = False
     file_name = change_title_if_required(file_name)
-    for json_name in os.listdir("./RottenTomatoes/rt_movie_jsons"):
-        if file_name in json_name:
-            already_exists = True
-            break
-    return already_exists
+    if "rt_movie_jsons" in os.listdir("./RottenTomatoes"):
+        for json_name in os.listdir("./RottenTomatoes/rt_movie_jsons"):
+            if file_name in json_name:
+                already_exists = True
+                break
+        return already_exists
+
 
 def get_movie_url(title):
     search_url = "https://www.rottentomatoes.com/search?search=" + title.lower().replace(' ', '-')
@@ -34,38 +36,82 @@ def get_movie_url(title):
             search_results = get(search_url, headers=HEADERS)
             break
         except Exception:
-            print("Connected failed.. Retrying")
+            print("Connection failed.. Retrying")
             time.sleep(0.1)
     chicken = BeautifulSoup(search_results.content, "html.parser")
-    movie_url = chicken.find('search-page-media-row')
+    movie_url = chicken.find_all('search-page-media-row')
     if movie_url is None:
         return "Movie not found"
     else:
-        return movie_url.find('a')['href']
+        for movie in movie_url:
+            movie_name = movie.find('a', attrs ={'data-qa': 'info-name'}).string.strip()
+            score = movie['tomatometerscore']
+            if score != 'null' and score != '':
+                print(movie_name)
+                print(score)
+                return movie.find('a')['href']
+        return movie_url[0]
+
+def find_movie_id(soup):
+    try:
+        id = soup.find('critic-add-article')['emsid']
+        return id
+    except Exception:
+        return ''
 
 def find_rating(soup):
-    rt_str = soup.find('score-board')['audiencescore']
-    rating = float(rt_str) / 10
-    return rating
+    try:
+        rt_str = soup.find('score-board')['audiencescore']
+        rating = float(rt_str) / 10
+        return rating
+    except Exception:
+        return 0.0
 
 def find_release_date(soup):
-    rd_str = soup.find('time').string
-    dt = datetime.strptime(rd_str,"%b %d, %Y")
-    rd = str(dt.date())
-    return rd
+    try:
+        rd_str = soup.find('time').string
+        dt = datetime.strptime(rd_str,"%b %d, %Y")
+        rd = str(dt.date())
+        return rd
+    except Exception:
+        return 'Invalid'
 
 def find_genres(soup):
-    genre_container = soup.findall('span', attrs={'class': 'info-item-value'})
-    genres_str = genre_container[1].string
-    genres_str = genres_str.replace(" ", "")
-    genres = genres_str.split(",")
-    return genres
+    try:
+        genre_containers = soup.find_all('li', attrs={'class': 'info-item'})
+        genre_container = genre_containers[1]
+        genres_str = genre_container.find('p').find('span').string.strip().replace(" ", "").replace("\n", "")
+        if ',' in genres_str:
+            genres = genres_str.split(',')
+        else:
+            genres = [genres_str]
+        return genres
+    except Exception:
+        return []
 
 def find_summary(soup):
-    summary = soup.find('p', attrs={'data-qa': 'movie-info-synopsis'}).string.strip()
-    return summary
+    try:
+        summary = soup.find('p', attrs={'data-qa': 'movie-info-synopsis'}).string.strip()
+        return summary
+    except Exception:
+        return 'N/A'
 
 def find_director(soup):
-    director_container = soup.findall('span', attrs={'class': 'info-item-value'})
-    director = director_container[3].string
-    return director
+    try:
+        director = soup.find('a', attrs={'data-qa': 'movie-info-director'}).string
+        return director
+    except Exception:
+        return 'unknown'
+
+def movie_into_json(content, movie_title, release_date, director):
+    try:
+        with open(
+            f"./RottenTomatoes/rt_movie_jsons/{movie_title}-{release_date}-{director}.json", "w"
+        ) as eachMovie:
+            json.dump(content, eachMovie, indent=4)
+    except:
+        print(f"./RottenTomatoes/rt_movie_jsons/{movie_title}-{release_date}-{director}.json")
+        with open(
+            f"./RottenTomatoes/rt_movie_jsons/{movie_title}-{release_date}-{director}.json", "w"
+        ) as eachMovie:
+            json.dump(content, eachMovie, index=4)
