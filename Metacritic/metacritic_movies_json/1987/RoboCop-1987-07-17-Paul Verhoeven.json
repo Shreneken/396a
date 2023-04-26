@@ -1,287 +1,316 @@
 {
-  "title": "RoboCop",
-  "rating": 8.6,
-  "release_date": "1987-07-17",
-  "genre": [
-    "Action",
-    "Sci-Fi",
-    "Drama",
-    "Thriller",
-    "Crime"
-  ],
-  "summary": "When Officer Alex J. Murphy (Weller) is murdered in a futuristic crime-ridden Detroit, scientists and doctors decide to turn him into a \"Robocop\". He seeks revenge when memories of his past life return.",
-  "critic_reviews": [
-    "RoboCop looks more than ever like Verhoeven’s masterpiece, a classic of 80s Hollywood and apart from everything else a brilliant commentary on the city of Detroit; hi-tech RoboCop is a harbinger of the decline of the automotive industry and the ruin-porn wasteland to come.",
-    "Robocop is as tightly worked as a film can be, not a moment or line wasted.",
-    "A first-rate production full of nonstop action and inventive special effects but what truly makes Robocop spellbinding is a superior script.",
-    "It was this love of mayhem combined with a biting comic attack on neo-fascist corporatism - most notably seen in the TV ads for products like the apocalyptic board game Nuke 'Em - which helped raise Robocop above the common sci-fi herd.",
-    "With its droll underpinnings, Robocop does for cyborgs and Detroit what \"Blade Runner\" did for androids and L.A.",
-    "Robocop is one weird and entertaining hybrid of camp and sci-fi shoot-'em-up.",
-    "Robocop is a thriller with a difference.",
-    "Paul Verhoeven, a Dutch director (\"Soldier of Orange\"), doesn't let the furiously futuristic plot get in the way of the flaming explosions, shattering glass and hurtling bodies.",
-    "Great effects and a nasty undercurrent drive this vehicle.",
-    "The action is skillfully directed by Dutch filmmaker Paul Verhoeven, and there are many bursts of razor-sharp social satire. But the story amounts to a celebration of brute force in a crudely etched law-and-order context.",
-    "There's a brooding, agonized quality to the violence that almost seems subversive, as if Verhoeven were both appalled and fascinated by his complicity in the toxic action rot."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "A violent, vicious, and prescient satire of urban decay, privatization, idiotic consumer culture, and corporate greed, RoboCop delivers a visceral kick to the gut and a jolt of rude awakening to the oblivious.",
-      "review_date": "2013-07-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Brilliant. Sums up the 80's action genre in one film. Fantastic plot, amazing soundtrack, great action choreography. And a random, excessive, but exciting level of violence. This film will force you to your couch in an exhilarating turn ofBrilliant. Sums up the 80's action genre in one film. Fantastic plot, amazing soundtrack, great action choreography. And a random, excessive, but exciting level of violence. This film will force you to your couch in an exhilarating turn of events. Then you go to sleep at the end of the film and have one thought. Wow.",
-      "review_date": "2014-07-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "RoboCop was an interesting original film. I didn't see any of Peter Weller or Nancy Allen's other films until I saw this, and I was quite surprised that they were good actors.",
-      "review_date": "2014-07-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An astute sci-fi satire about corporate and capitalistic greed, corruption, crime, dystopia, humanity, and it even dares to cross the border of adding totalitarian undertones to the social allegory of the film, 'Robocop' defies the archetypalAn astute sci-fi satire about corporate and capitalistic greed, corruption, crime, dystopia, humanity, and it even dares to cross the border of adding totalitarian undertones to the social allegory of the film, 'Robocop' defies the archetypal 80's sci-fi, by making us all realize our humanity and how it works and what it does to us. The urban decay predicted in this film actually occurred: to this day the Detroit bankruptcy is the largest municipal bankruptcy filing in U.S. history, and this film was spot on. Though it was merely a coincidence. 'Robocop' is smart, ultraviolent, and a perfect satirical allegory to our American society and culture.",
-      "review_date": "2014-02-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A film that works on two levels; there is the ultraviolent science fiction action movie first, but lurking beneath the surface there is a brilliant and often hilarious satire. Special effects deserve a special mention; Rob Bottin's work,A film that works on two levels; there is the ultraviolent science fiction action movie first, but lurking beneath the surface there is a brilliant and often hilarious satire. Special effects deserve a special mention; Rob Bottin's work, especially on Murphy's head (with the RoboCop helmet removed) still look amazing.",
-      "review_date": "2011-07-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is absolutely incredible! The best sci-fi, action, thriller, drama, crime movie ever! It is full of gore, action and thrills. It is one of the most entertaining and fun movies ever made. RoboCop is the best!",
-      "review_date": "2013-11-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Thematically it represents a deep, existential look into the modern human condition, addressing the effect that corporations and rampant capitalism are having on the human soul, body and psyche, all of these allegories played out within theThematically it represents a deep, existential look into the modern human condition, addressing the effect that corporations and rampant capitalism are having on the human soul, body and psyche, all of these allegories played out within the body of Murphy, part man, part corporate machine. It portrays the fear that at the rate we're going even our bodies will be owned by big business. All of this is played out within one of the coolest, most intense action films you'll ever see. I knew every word to this film when I was kid as I watched it so many times. I even wrote a dissertation on it for my film degree and trust me, there was enough material for a 2000 word essay, easily.",
-      "review_date": "2019-01-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nIkonischer Film, schau ich jedes Jahr wieder. Wer einen guten counter gegen Terminator/Terminator 2 schauen will, Robocop ist eine gute Wahl.",
-      "review_date": "2020-03-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is epic as hell; fantastic score from Basil Poledouris, adrenaline-pumping action, touching scenes (that don't go overboard), capitalist satire, cool villains, over-the-top violence and a fascinating protagonist make this, in This movie is epic as hell; fantastic score from Basil Poledouris, adrenaline-pumping action, touching scenes (that don't go overboard), capitalist satire, cool villains, over-the-top violence and a fascinating protagonist make this, in my opinion, the best movie of the 80s.",
-      "review_date": "2007-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Robocop may not have much depth but it is pretty entertaining. The comic book feel of the movie will have some appeal to viewers. Also, Robocop himself is a feat to behold with his awesome personality and design. There is also some niceRobocop may not have much depth but it is pretty entertaining. The comic book feel of the movie will have some appeal to viewers. Also, Robocop himself is a feat to behold with his awesome personality and design. There is also some nice cinematography. This is not a great movie but it is still pretty entertaining. This movie has a fan base and it is obvious why. Robocop is pretty cool. This movie takes something kind of silly and cheesy and makes it cool. Check it out if you get a chance.",
-      "review_date": "2014-01-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's pretty fitting that I write down a review for RoboCop a month away from the release of the remake.\r This movie was always about the way society had been (and some would say still is) on a downward spiral, with interest inIt's pretty fitting that I write down a review for RoboCop a month away from the release of the remake.\r This movie was always about the way society had been (and some would say still is) on a downward spiral, with interest in hyperviolence, endless consumerism and corporate greed destroying normal family lives.\rAnd that's the charm with the RoboCop movie, it sits you down and shows you the exact thing you want, but not in a good light. The idea of ED209 gunning a man to death may simply entertain the younger mindset for the gore, but with older people we can see a parallel with vampant  police brutality and a failure to police that side of the law.\rWhile this movie will never be lauded as a cinematic milestone in the areas of acting, directing or producing, it is and forever will be a cultural megahit that - hopefully - will not be lost to the new generation when this PG-13 version comes out.",
-      "review_date": "2014-01-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Classic movie with an interesting story and good vision of a future Detroit. The movie is a bit outdated and the characters onesided, bit still enjoyable.",
-      "review_date": "2020-01-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Far better than the 2014's remake, and while I did watch that one first, I can say this one had something the reboot lacked -- wit, violence and consistency. Very over-the-top as well, with surreal gory scenes, some that are really disturbingFar better than the 2014's remake, and while I did watch that one first, I can say this one had something the reboot lacked -- wit, violence and consistency. Very over-the-top as well, with surreal gory scenes, some that are really disturbing at times. Not for the faint of heart. Solid performances, surprising dramatic heft, though I wished the writers could have digged into the family relationship with the main character more. The hero's partner should have also been more of a focus, in my opinion. The villain's plans were simple, yet their attitude and personality were enjoyable and reasonable. The score is great and memorable, also. All in all, it's not a masterpiece by any means, but it's still a pretty good movie with some terrific, gory action and sharp narrative.\r Final Score: 7.5/10",
-      "review_date": "2015-09-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Better than the 2014 remake of the original thing and reboot of the entire franchise. This one's finally got what it needs to live up to be a true legend.",
-      "review_date": "2016-04-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "WHAT I LIKED: Suprisingly intellegent, Robocop's focus on character and American ideals makes it stand out from other 80s films. It's a truly original idea that just about works thanks to a brilliant score and some well directed characterWHAT I LIKED: Suprisingly intellegent, Robocop's focus on character and American ideals makes it stand out from other 80s films. It's a truly original idea that just about works thanks to a brilliant score and some well directed character moments. Throw in some great action and you've got yourself a fun film you can really get into\rWHAT I DIDN'T LIKE: The odd bit of sloppy corporate writing and acting can bore, and it's not a subtle 80s film, to put it lightly\rVERDICT: A suprisingly good and original film that actually stands the test of time for good reason.",
-      "review_date": "2016-01-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "After I reviewed Basic Instinct which is something that people will love or hate, RoboCop came into my head. When I first heard about RoboCop I actually thought about the videogame before the film. That intrigued me because I see it's made inAfter I reviewed Basic Instinct which is something that people will love or hate, RoboCop came into my head. When I first heard about RoboCop I actually thought about the videogame before the film. That intrigued me because I see it's made in the 80's. Until The Terminator have hit most fans claiming it to be one of the best film ever made, Paul Verhoeven making his film look iconic and brutal. Some of the violence are over-the-top and bloody! Most of the time when it gets bloody, it gets bloody and gets it really quick! Like the scene where Alex Murphy gets shot many times by Clarence Boddicker and his gang, it is gory! Now Alex Murphy is put to the hospital but he's dead and was resurrected and being created as RoboCop by Bob Morton. The creation of RoboCop infuriated Dick Jones. The ED-209 is made by stop-motion animation. The way you look at it, it looks exactly something you seen before in the older films. I enjoyed the shootouts from the film like in the drug factory where they sell cocaine and puts Boddicker to jail for charge of being a cop killer. The film is absolutely underrated it's possibly be one of Paul Verhoeven's best work, no matter what! It has memorable one-liners that everybody will say over and over again and it will phenomenon the fans who are a huge fan of the Terminator films.",
-      "review_date": "2018-03-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One more classic from the 80s. In addition to functioning as a fiction film, it is a reflection on the interaction and validity of the man behind the machine, and a critique of the massification of violence.",
-      "review_date": "2022-08-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "RoboCop one of the best action movies of the 80s , If you want something bloody charming and goodheart then Go no further And if you can get a friend to watch it with you then you have one hell of a night the stop-motion is charming theRoboCop one of the best action movies of the 80s , If you want something bloody charming and goodheart then Go no further And if you can get a friend to watch it with you then you have one hell of a night the stop-motion is charming the special effects still holding up And fast-paced",
-      "review_date": "2020-08-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Dark comedic social satire about a corrupt and dystopian future. That is set not far from our own time. The stop motion special effects have not aged well, but this is still a sci-fi classic from back in the day.",
-      "review_date": "2018-12-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Way smarter and more prescient than it has any right to be, this sardonic vision of the future holds up as one of the trashiest thrills in cinema.  Not much more to be said, if you haven't seen it you should immediately.",
-      "review_date": "2019-12-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "human robot has more compassion and concern for than than the average person",
-      "review_date": "2019-02-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "On the surface about a cop who gets mangled in a bloody shootout and a big corrupt corporation schemes to use what's left of his brain (they think he is clinically dead but he isn't)to infuse in a robot to make him a super cop cyborg. This isOn the surface about a cop who gets mangled in a bloody shootout and a big corrupt corporation schemes to use what's left of his brain (they think he is clinically dead but he isn't)to infuse in a robot to make him a super cop cyborg. This is not a must-see because it's old, old, old and there are numerous sequels, remakes, clones, et. a. out there.However, it still has thrills for those who have yet to see it ... or only have seen it a few times. It's a Paul Verhoeven-ish flick that draws on urban cultural themes and motifs – such as race, sex, policing urban style, unionism, TV news media. It's both bloody funny and bloody serious. And hasof what was then some of the best character and up-and-coming character actors in Hollywood.",
-      "review_date": "2020-05-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Robocop is awesome, gory, action packed and at times funny !The Best movie in the franchise since the sequels are weird and stupid.",
-      "review_date": "2019-05-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I am supremely impressed. not by the fact that it avoid the typical inept 80's action movie stereotypes, but by the entire film. It's epic, it's grand, it's just so goddamn amazing. One would expect less, but when that one person decides toI am supremely impressed. not by the fact that it avoid the typical inept 80's action movie stereotypes, but by the entire film. It's epic, it's grand, it's just so goddamn amazing. One would expect less, but when that one person decides to see this, they will be smiten and ashamed as to their thoughts of the movie prior.",
-      "review_date": "2011-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The \"critic\" that gave this film a 5/10 is probably mentally-ill. This film is amazing. It's stylish, brutal, witty, and oh, so satisfying. The best action flick of the 80's in my opinion.",
-      "review_date": "2012-10-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In 2012, RoboCop is hilariously dated but still a great action movie from start to finish. One of the finest examples of action movie greatness with a story that is, surprisingly, good. A timeless classic! A must see for all action movie fans!",
-      "review_date": "2012-08-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This was supposed to be a film destined to Class B, but people now a days and since its premiere the Legendary looks, and I do not disagree, it is.\rHail, Paul Verhoeven!",
-      "review_date": "2014-03-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love the work of Paul Verhoeven and Robocop is not an exception to this rule. An astute criticism of American culture and also a fantastic shoot em up late 80's action flick, Robocop features solid acting, solid special effects, and aI love the work of Paul Verhoeven and Robocop is not an exception to this rule. An astute criticism of American culture and also a fantastic shoot em up late 80's action flick, Robocop features solid acting, solid special effects, and a killer plot coupled with great direction and writing. A fun and entertaining film, Robocop works on both a pure entertainment level and the satirical level, similar to Verhoeven's later work on Starship Troopers. In Robocop, Verhoeven uses its relatively straight forward plot as a tool to critique American culture, namely when it comes to violence, television, the military, capitalism, and the very infrastructure of our society. In addition, I also really thought Verhoeven was ahead of his time in his portrayal of women here, as they are shown as being largely on the same playing field as men and if you did not know better, you would have no idea what gender they are. Somehow, this film was criticized for being sexist, but I have no idea how. As I watched, I was struck by how well done the women in the film were, but I guess maybe I am the one who is wrong. Who knows. Anyways, Robocop is a very well made action film by Paul Verhoeven that is both entertaining and thought provoking.",
-      "review_date": "2016-02-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's a shame that this movie wasn't done better because there's a lot of potential with the story to have been great. But unfortunately this movie was done in the 1980's which means you're stuck with cheesy, over-the-top acting, mediocreIt's a shame that this movie wasn't done better because there's a lot of potential with the story to have been great. But unfortunately this movie was done in the 1980's which means you're stuck with cheesy, over-the-top acting, mediocre effects (though I'm sure they were at least decent when the film was made), and the same piss poor directing that plagued so many films in the era. I think there's a lot of potential to the story and the human element and internal conflict of the RoboCop/Murphy character but the film largely skims right past most of that focusing more on needless side clips of a setting that was never established or non-critical villains. I'm interested to see the reboot version and hoping they go the direction so many other films in this generation of action movies have gone... dark, realistic, and gritty. If you gave this concept to Christopher Nolan, you'd have an amazing movie. Hopefully the reboot can be everything the original was not. Now it sounds like I'm being really hard on the movie and yet I gave it a 7/10 so what gives? Well, it was still a good movie, even with all the minor negatives, because the story has so much potential and even with the poor execution it manages to pull you in.",
-      "review_date": "2012-11-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's pretty excessively and unreasonably violent, but it's also a pretty engaging revenge flick.",
-      "review_date": "2012-11-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Robocop suffers a lose of imagination and action, so this film is just a mediocre sci-fi film, withboring story-telling, simple interpretations and only violence in step of action, for try to entertain adult viewers. Nothing bad for that times...",
-      "review_date": "2016-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "and we'll give you the world..RoboCop RoboCop doesn't waste any time, its pace and runtime is one of its strength along with a new concept but beyond that its pretty much nothing.",
-      "review_date": "2018-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Paul Verhoeven (Basic Instinct) brings us 1987's Robocop which is an action sci-fi. Robocop is a film not shy when it comes to violence and the problem with the movie is that it has too much violence and some horrible scenes such as one ofPaul Verhoeven (Basic Instinct) brings us 1987's Robocop which is an action sci-fi. Robocop is a film not shy when it comes to violence and the problem with the movie is that it has too much violence and some horrible scenes such as one of the badguys just fading away slowly due to chemicals or toxic waste after his vehicle crashes into a huge container.. Peter Weller and Nancy Allen get chosen to work together as cops, Murphy (Weller) gets shot up by some ruthless criminal gang so much he should be dead but he still has flashbacks of his wife and kid lol. Absolutely stupid considering he also got shot in the head and ridiculously laughable and them constant memories and flashbacks during the film make the movie even more unbearable plus the 6000 SUX car commercial and the other commercials. The whole film felt horrible and disgusting and the villains were okay but all unlikeable and horrible and make Jack the ripper seem like a nice guy in comparison. Ronny Cox as Dick Jones was rubbish and his acting sucked. Way too violent, depressing, horrible movie.",
-      "review_date": "2020-03-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This has aged incredibly well. The pacing is fantastic. It is a b-movie but it’s a really well made b-movie. Robocop is so shiny, I feel they would make the robot with a matte finish nowadays. The main actors do well but the smaller roles areThis has aged incredibly well. The pacing is fantastic. It is a b-movie but it’s a really well made b-movie. Robocop is so shiny, I feel they would make the robot with a matte finish nowadays. The main actors do well but the smaller roles are generally badly acted which only bring down the overall enjoyment a little. The story is enjoyable. It is just great fun. It is slightly campy but that is why it is some much fun with a beer in your hand. The effects are big, the story fast and action explosive. The violence is visceral and extreme and bloody. The direction is solid and all the complexity of how some of the scenes are shot gives the film an enthralling energy. It’s reminiscent of Alien (1979) and Terminator (1984) but slightly cheesier.",
-      "review_date": "2022-11-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great story, great effects, timeless science fiction!",
-      "review_date": "2007-09-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Robocop is the classic Paul Verhoeven futuristic crime action movie featuring Robocop, a cyborg who is something of a superhero in a dark universe. The movie takes place in the near-future Detroit where there is a dystopia and the city is onRobocop is the classic Paul Verhoeven futuristic crime action movie featuring Robocop, a cyborg who is something of a superhero in a dark universe. The movie takes place in the near-future Detroit where there is a dystopia and the city is on the brink of societal and financial collapse. The mega-corporation Omni Consumer Products takes control of the police force. Corrupt rich executives at the company end up creating Robocop after a good cop, Alex Murphy, is almost killed by Detroit gangsters. Following the introduction of Robocop there are some amusing scenes showcasing Robocop apprehending bizarre crimes. From there, the rest of the movie gets a little sentimental about the humanity of Robocop and how he still has some memory of his family. The movie is also a satire of corrupt crony capitalism and corporatism controlling the police force. The film is very effective in what it is trying to convey and still holds up as a classic.",
-      "review_date": "2022-04-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "/    /",
-      "review_date": "2021-06-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "(Watched this entirely for the first time in 2020. I know, what a shame.) 'Robocop' is one of these old movies that doesn't seem to have aged. The main reason is maybe that it still feels current. Special effects are not that bad, maybe just(Watched this entirely for the first time in 2020. I know, what a shame.) 'Robocop' is one of these old movies that doesn't seem to have aged. The main reason is maybe that it still feels current. Special effects are not that bad, maybe just the design is old-fashioned. Plot, although with hindsight is predictable, is well brought and the whole movie in general has a very good pace. The fake advertising and television news are funny as hell and do contibute to the atmosphere of the movie. It has the ability to make us laugh, fear and be disgusted in alternately. Only the (no spoil) seems to be rushed and happens too fast. An interesting questionning of our humanity and our daily societies.",
-      "review_date": "2020-11-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When Officer Alex J. Murphy (Weller) is murdered in a futuristic crime-ridden Detroit, scientists and doctors decide to turn him into a \"Robocop\". He seeks revenge when memories of his past life return.",
-      "review_date": "2022-11-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "for me this is easily one of the greatest action films ever made, it's just ridiculously good, so many classic scenes and quotable memorable lines, it's perfect in every way, just a shame about all the rubbish sequels that came after it",
-      "review_date": "2020-11-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The robot effects and the film's occasional satirical moments are enjoyable despite its extreme violence and graphic details in some parts. Robocop is about cheap thrills for those who prefer violent movies flavoured with sarcasm, so thereThe robot effects and the film's occasional satirical moments are enjoyable despite its extreme violence and graphic details in some parts. Robocop is about cheap thrills for those who prefer violent movies flavoured with sarcasm, so there isn't much more to say about it.",
-      "review_date": "2023-02-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film is pretty cliche, but even concidering this - it's still cool and badass action movie.",
-      "review_date": "2022-06-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Another timeless action classic robocop's practical effects have up stood the test of time very well too bad it was followed by terrible sequels.",
-      "review_date": "2023-02-23",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 54
+    "title": "RoboCop",
+    "rating": 8.6,
+    "release_date": "1987-07-17",
+    "genre": [
+        "Action",
+        "Sci-Fi",
+        "Drama",
+        "Thriller",
+        "Crime"
+    ],
+    "summary": "When Officer Alex J. Murphy (Weller) is murdered in a futuristic crime-ridden Detroit, scientists and doctors decide to turn him into a \"Robocop\". He seeks revenge when memories of his past life return.",
+    "critic_reviews": [
+        "RoboCop looks more than ever like Verhoeven\u2019s masterpiece, a classic of 80s Hollywood and apart from everything else a brilliant commentary on the city of Detroit; hi-tech RoboCop is a harbinger of the decline of the automotive industry and the ruin-porn wasteland to come.",
+        "Robocop is as tightly worked as a film can be, not a moment or line wasted.",
+        "A first-rate production full of nonstop action and inventive special effects but what truly makes Robocop spellbinding is a superior script.",
+        "It was this love of mayhem combined with a biting comic attack on neo-fascist corporatism - most notably seen in the TV ads for products like the apocalyptic board game Nuke 'Em - which helped raise Robocop above the common sci-fi herd.",
+        "With its droll underpinnings, Robocop does for cyborgs and Detroit what \"Blade Runner\" did for androids and L.A.",
+        "Robocop is one weird and entertaining hybrid of camp and sci-fi shoot-'em-up.",
+        "Robocop is a thriller with a difference.",
+        "Paul Verhoeven, a Dutch director (\"Soldier of Orange\"), doesn't let the furiously futuristic plot get in the way of the flaming explosions, shattering glass and hurtling bodies.",
+        "Great effects and a nasty undercurrent drive this vehicle.",
+        "The action is skillfully directed by Dutch filmmaker Paul Verhoeven, and there are many bursts of razor-sharp social satire. But the story amounts to a celebration of brute force in a crudely etched law-and-order context.",
+        "There's a brooding, agonized quality to the violence that almost seems subversive, as if Verhoeven were both appalled and fascinated by his complicity in the toxic action rot."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "A violent, vicious, and prescient satire of urban decay, privatization, idiotic consumer culture, and corporate greed, RoboCop delivers a visceral kick to the gut and a jolt of rude awakening to the oblivious.",
+            "review_date": "2013-07-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Brilliant. Sums up the 80's action genre in one film. Fantastic plot, amazing soundtrack, great action choreography. And a random, excessive, but exciting level of violence. This film will force you to your couch in an exhilarating turn ofBrilliant. Sums up the 80's action genre in one film. Fantastic plot, amazing soundtrack, great action choreography. And a random, excessive, but exciting level of violence. This film will force you to your couch in an exhilarating turn of events. Then you go to sleep at the end of the film and have one thought. Wow.",
+            "review_date": "2014-07-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "RoboCop was an interesting original film. I didn't see any of Peter Weller or Nancy Allen's other films until I saw this, and I was quite surprised that they were good actors.",
+            "review_date": "2014-07-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An astute sci-fi satire about corporate and capitalistic greed, corruption, crime, dystopia, humanity, and it even dares to cross the border of adding totalitarian undertones to the social allegory of the film, 'Robocop' defies the archetypalAn astute sci-fi satire about corporate and capitalistic greed, corruption, crime, dystopia, humanity, and it even dares to cross the border of adding totalitarian undertones to the social allegory of the film, 'Robocop' defies the archetypal 80's sci-fi, by making us all realize our humanity and how it works and what it does to us. The urban decay predicted in this film actually occurred: to this day the Detroit bankruptcy is the largest municipal bankruptcy filing in U.S. history, and this film was spot on. Though it was merely a coincidence. 'Robocop' is smart, ultraviolent, and a perfect satirical allegory to our American society and culture.",
+            "review_date": "2014-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A film that works on two levels; there is the ultraviolent science fiction action movie first, but lurking beneath the surface there is a brilliant and often hilarious satire. Special effects deserve a special mention; Rob Bottin's work,A film that works on two levels; there is the ultraviolent science fiction action movie first, but lurking beneath the surface there is a brilliant and often hilarious satire. Special effects deserve a special mention; Rob Bottin's work, especially on Murphy's head (with the RoboCop helmet removed) still look amazing.",
+            "review_date": "2011-07-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is absolutely incredible! The best sci-fi, action, thriller, drama, crime movie ever! It is full of gore, action and thrills. It is one of the most entertaining and fun movies ever made. RoboCop is the best!",
+            "review_date": "2013-11-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Thematically it represents a deep, existential look into the modern human condition, addressing the effect that corporations and rampant capitalism are having on the human soul, body and psyche, all of these allegories played out within theThematically it represents a deep, existential look into the modern human condition, addressing the effect that corporations and rampant capitalism are having on the human soul, body and psyche, all of these allegories played out within the body of Murphy, part man, part corporate machine. It portrays the fear that at the rate we're going even our bodies will be owned by big business. All of this is played out within one of the coolest, most intense action films you'll ever see. I knew every word to this film when I was kid as I watched it so many times. I even wrote a dissertation on it for my film degree and trust me, there was enough material for a 2000 word essay, easily.",
+            "review_date": "2019-01-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is epic as hell; fantastic score from Basil Poledouris, adrenaline-pumping action, touching scenes (that don't go overboard), capitalist satire, cool villains, over-the-top violence and a fascinating protagonist make this, in This movie is epic as hell; fantastic score from Basil Poledouris, adrenaline-pumping action, touching scenes (that don't go overboard), capitalist satire, cool villains, over-the-top violence and a fascinating protagonist make this, in my opinion, the best movie of the 80s.",
+            "review_date": "2007-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Robocop may not have much depth but it is pretty entertaining. The comic book feel of the movie will have some appeal to viewers. Also, Robocop himself is a feat to behold with his awesome personality and design. There is also some niceRobocop may not have much depth but it is pretty entertaining. The comic book feel of the movie will have some appeal to viewers. Also, Robocop himself is a feat to behold with his awesome personality and design. There is also some nice cinematography. This is not a great movie but it is still pretty entertaining. This movie has a fan base and it is obvious why. Robocop is pretty cool. This movie takes something kind of silly and cheesy and makes it cool. Check it out if you get a chance.",
+            "review_date": "2014-01-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's pretty fitting that I write down a review for RoboCop a month away from the release of the remake.\r This movie was always about the way society had been (and some would say still is) on a downward spiral, with interest inIt's pretty fitting that I write down a review for RoboCop a month away from the release of the remake.\r This movie was always about the way society had been (and some would say still is) on a downward spiral, with interest in hyperviolence, endless consumerism and corporate greed destroying normal family lives.\rAnd that's the charm with the RoboCop movie, it sits you down and shows you the exact thing you want, but not in a good light. The idea of ED209 gunning a man to death may simply entertain the younger mindset for the gore, but with older people we can see a parallel with vampant  police brutality and a failure to police that side of the law.\rWhile this movie will never be lauded as a cinematic milestone in the areas of acting, directing or producing, it is and forever will be a cultural megahit that - hopefully - will not be lost to the new generation when this PG-13 version comes out.",
+            "review_date": "2014-01-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Classic movie with an interesting story and good vision of a future Detroit. The movie is a bit outdated and the characters onesided, bit still enjoyable.",
+            "review_date": "2020-01-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Far better than the 2014's remake, and while I did watch that one first, I can say this one had something the reboot lacked -- wit, violence and consistency. Very over-the-top as well, with surreal gory scenes, some that are really disturbingFar better than the 2014's remake, and while I did watch that one first, I can say this one had something the reboot lacked -- wit, violence and consistency. Very over-the-top as well, with surreal gory scenes, some that are really disturbing at times. Not for the faint of heart. Solid performances, surprising dramatic heft, though I wished the writers could have digged into the family relationship with the main character more. The hero's partner should have also been more of a focus, in my opinion. The villain's plans were simple, yet their attitude and personality were enjoyable and reasonable. The score is great and memorable, also. All in all, it's not a masterpiece by any means, but it's still a pretty good movie with some terrific, gory action and sharp narrative.\r Final Score: 7.5/10",
+            "review_date": "2015-09-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Better than the 2014 remake of the original thing and reboot of the entire franchise. This one's finally got what it needs to live up to be a true legend.",
+            "review_date": "2016-04-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "WHAT I LIKED: Suprisingly intellegent, Robocop's focus on character and American ideals makes it stand out from other 80s films. It's a truly original idea that just about works thanks to a brilliant score and some well directed characterWHAT I LIKED: Suprisingly intellegent, Robocop's focus on character and American ideals makes it stand out from other 80s films. It's a truly original idea that just about works thanks to a brilliant score and some well directed character moments. Throw in some great action and you've got yourself a fun film you can really get into\rWHAT I DIDN'T LIKE: The odd bit of sloppy corporate writing and acting can bore, and it's not a subtle 80s film, to put it lightly\rVERDICT: A suprisingly good and original film that actually stands the test of time for good reason.",
+            "review_date": "2016-01-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "After I reviewed Basic Instinct which is something that people will love or hate, RoboCop came into my head. When I first heard about RoboCop I actually thought about the videogame before the film. That intrigued me because I see it's made inAfter I reviewed Basic Instinct which is something that people will love or hate, RoboCop came into my head. When I first heard about RoboCop I actually thought about the videogame before the film. That intrigued me because I see it's made in the 80's. Until The Terminator have hit most fans claiming it to be one of the best film ever made, Paul Verhoeven making his film look iconic and brutal. Some of the violence are over-the-top and bloody! Most of the time when it gets bloody, it gets bloody and gets it really quick! Like the scene where Alex Murphy gets shot many times by Clarence Boddicker and his gang, it is gory! Now Alex Murphy is put to the hospital but he's dead and was resurrected and being created as RoboCop by Bob Morton. The creation of RoboCop infuriated Dick Jones. The ED-209 is made by stop-motion animation. The way you look at it, it looks exactly something you seen before in the older films. I enjoyed the shootouts from the film like in the drug factory where they sell cocaine and puts Boddicker to jail for charge of being a cop killer. The film is absolutely underrated it's possibly be one of Paul Verhoeven's best work, no matter what! It has memorable one-liners that everybody will say over and over again and it will phenomenon the fans who are a huge fan of the Terminator films.",
+            "review_date": "2018-03-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One more classic from the 80s. In addition to functioning as a fiction film, it is a reflection on the interaction and validity of the man behind the machine, and a critique of the massification of violence.",
+            "review_date": "2022-08-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "RoboCop one of the best action movies of the 80s , If you want something bloody charming and goodheart then Go no further And if you can get a friend to watch it with you then you have one hell of a night the stop-motion is charming theRoboCop one of the best action movies of the 80s , If you want something bloody charming and goodheart then Go no further And if you can get a friend to watch it with you then you have one hell of a night the stop-motion is charming the special effects still holding up And fast-paced",
+            "review_date": "2020-08-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Dark comedic social satire about a corrupt and dystopian future. That is set not far from our own time. The stop motion special effects have not aged well, but this is still a sci-fi classic from back in the day.",
+            "review_date": "2018-12-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Way smarter and more prescient than it has any right to be, this sardonic vision of the future holds up as one of the trashiest thrills in cinema.  Not much more to be said, if you haven't seen it you should immediately.",
+            "review_date": "2019-12-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "human robot has more compassion and concern for than than the average person",
+            "review_date": "2019-02-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "On the surface about a cop who gets mangled in a bloody shootout and a big corrupt corporation schemes to use what's left of his brain (they think he is clinically dead but he isn't)to infuse in a robot to make him a super cop cyborg. This isOn the surface about a cop who gets mangled in a bloody shootout and a big corrupt corporation schemes to use what's left of his brain (they think he is clinically dead but he isn't)to infuse in a robot to make him a super cop cyborg. This is not a must-see because it's old, old, old and there are numerous sequels, remakes, clones, et. a. out there.However, it still has thrills for those who have yet to see it ... or only have seen it a few times. It's a Paul Verhoeven-ish flick that draws on urban cultural themes and motifs \u2013 such as race, sex, policing urban style, unionism, TV news media. It's both bloody funny and bloody serious. And hasof what was then some of the best character and up-and-coming character actors in Hollywood.",
+            "review_date": "2020-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Robocop is awesome, gory, action packed and at times funny !The Best movie in the franchise since the sequels are weird and stupid.",
+            "review_date": "2019-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I am supremely impressed. not by the fact that it avoid the typical inept 80's action movie stereotypes, but by the entire film. It's epic, it's grand, it's just so goddamn amazing. One would expect less, but when that one person decides toI am supremely impressed. not by the fact that it avoid the typical inept 80's action movie stereotypes, but by the entire film. It's epic, it's grand, it's just so goddamn amazing. One would expect less, but when that one person decides to see this, they will be smiten and ashamed as to their thoughts of the movie prior.",
+            "review_date": "2011-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The \"critic\" that gave this film a 5/10 is probably mentally-ill. This film is amazing. It's stylish, brutal, witty, and oh, so satisfying. The best action flick of the 80's in my opinion.",
+            "review_date": "2012-10-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In 2012, RoboCop is hilariously dated but still a great action movie from start to finish. One of the finest examples of action movie greatness with a story that is, surprisingly, good. A timeless classic! A must see for all action movie fans!",
+            "review_date": "2012-08-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This was supposed to be a film destined to Class B, but people now a days and since its premiere the Legendary looks, and I do not disagree, it is.\rHail, Paul Verhoeven!",
+            "review_date": "2014-03-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love the work of Paul Verhoeven and Robocop is not an exception to this rule. An astute criticism of American culture and also a fantastic shoot em up late 80's action flick, Robocop features solid acting, solid special effects, and aI love the work of Paul Verhoeven and Robocop is not an exception to this rule. An astute criticism of American culture and also a fantastic shoot em up late 80's action flick, Robocop features solid acting, solid special effects, and a killer plot coupled with great direction and writing. A fun and entertaining film, Robocop works on both a pure entertainment level and the satirical level, similar to Verhoeven's later work on Starship Troopers. In Robocop, Verhoeven uses its relatively straight forward plot as a tool to critique American culture, namely when it comes to violence, television, the military, capitalism, and the very infrastructure of our society. In addition, I also really thought Verhoeven was ahead of his time in his portrayal of women here, as they are shown as being largely on the same playing field as men and if you did not know better, you would have no idea what gender they are. Somehow, this film was criticized for being sexist, but I have no idea how. As I watched, I was struck by how well done the women in the film were, but I guess maybe I am the one who is wrong. Who knows. Anyways, Robocop is a very well made action film by Paul Verhoeven that is both entertaining and thought provoking.",
+            "review_date": "2016-02-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's a shame that this movie wasn't done better because there's a lot of potential with the story to have been great. But unfortunately this movie was done in the 1980's which means you're stuck with cheesy, over-the-top acting, mediocreIt's a shame that this movie wasn't done better because there's a lot of potential with the story to have been great. But unfortunately this movie was done in the 1980's which means you're stuck with cheesy, over-the-top acting, mediocre effects (though I'm sure they were at least decent when the film was made), and the same piss poor directing that plagued so many films in the era. I think there's a lot of potential to the story and the human element and internal conflict of the RoboCop/Murphy character but the film largely skims right past most of that focusing more on needless side clips of a setting that was never established or non-critical villains. I'm interested to see the reboot version and hoping they go the direction so many other films in this generation of action movies have gone... dark, realistic, and gritty. If you gave this concept to Christopher Nolan, you'd have an amazing movie. Hopefully the reboot can be everything the original was not. Now it sounds like I'm being really hard on the movie and yet I gave it a 7/10 so what gives? Well, it was still a good movie, even with all the minor negatives, because the story has so much potential and even with the poor execution it manages to pull you in.",
+            "review_date": "2012-11-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's pretty excessively and unreasonably violent, but it's also a pretty engaging revenge flick.",
+            "review_date": "2012-11-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Robocop suffers a lose of imagination and action, so this film is just a mediocre sci-fi film, withboring story-telling, simple interpretations and only violence in step of action, for try to entertain adult viewers. Nothing bad for that times...",
+            "review_date": "2016-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "and we'll give you the world..RoboCop RoboCop doesn't waste any time, its pace and runtime is one of its strength along with a new concept but beyond that its pretty much nothing.",
+            "review_date": "2018-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Paul Verhoeven (Basic Instinct) brings us 1987's Robocop which is an action sci-fi. Robocop is a film not shy when it comes to violence and the problem with the movie is that it has too much violence and some horrible scenes such as one ofPaul Verhoeven (Basic Instinct) brings us 1987's Robocop which is an action sci-fi. Robocop is a film not shy when it comes to violence and the problem with the movie is that it has too much violence and some horrible scenes such as one of the badguys just fading away slowly due to chemicals or toxic waste after his vehicle crashes into a huge container.. Peter Weller and Nancy Allen get chosen to work together as cops, Murphy (Weller) gets shot up by some ruthless criminal gang so much he should be dead but he still has flashbacks of his wife and kid lol. Absolutely stupid considering he also got shot in the head and ridiculously laughable and them constant memories and flashbacks during the film make the movie even more unbearable plus the 6000 SUX car commercial and the other commercials. The whole film felt horrible and disgusting and the villains were okay but all unlikeable and horrible and make Jack the ripper seem like a nice guy in comparison. Ronny Cox as Dick Jones was rubbish and his acting sucked. Way too violent, depressing, horrible movie.",
+            "review_date": "2020-03-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This has aged incredibly well. The pacing is fantastic. It is a b-movie but it\u2019s a really well made b-movie. Robocop is so shiny, I feel they would make the robot with a matte finish nowadays. The main actors do well but the smaller roles areThis has aged incredibly well. The pacing is fantastic. It is a b-movie but it\u2019s a really well made b-movie. Robocop is so shiny, I feel they would make the robot with a matte finish nowadays. The main actors do well but the smaller roles are generally badly acted which only bring down the overall enjoyment a little. The story is enjoyable. It is just great fun. It is slightly campy but that is why it is some much fun with a beer in your hand. The effects are big, the story fast and action explosive. The violence is visceral and extreme and bloody. The direction is solid and all the complexity of how some of the scenes are shot gives the film an enthralling energy. It\u2019s reminiscent of Alien (1979) and Terminator (1984) but slightly cheesier.",
+            "review_date": "2022-11-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great story, great effects, timeless science fiction!",
+            "review_date": "2007-09-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Robocop is the classic Paul Verhoeven futuristic crime action movie featuring Robocop, a cyborg who is something of a superhero in a dark universe. The movie takes place in the near-future Detroit where there is a dystopia and the city is onRobocop is the classic Paul Verhoeven futuristic crime action movie featuring Robocop, a cyborg who is something of a superhero in a dark universe. The movie takes place in the near-future Detroit where there is a dystopia and the city is on the brink of societal and financial collapse. The mega-corporation Omni Consumer Products takes control of the police force. Corrupt rich executives at the company end up creating Robocop after a good cop, Alex Murphy, is almost killed by Detroit gangsters. Following the introduction of Robocop there are some amusing scenes showcasing Robocop apprehending bizarre crimes. From there, the rest of the movie gets a little sentimental about the humanity of Robocop and how he still has some memory of his family. The movie is also a satire of corrupt crony capitalism and corporatism controlling the police force. The film is very effective in what it is trying to convey and still holds up as a classic.",
+            "review_date": "2022-04-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "(Watched this entirely for the first time in 2020. I know, what a shame.) 'Robocop' is one of these old movies that doesn't seem to have aged. The main reason is maybe that it still feels current. Special effects are not that bad, maybe just(Watched this entirely for the first time in 2020. I know, what a shame.) 'Robocop' is one of these old movies that doesn't seem to have aged. The main reason is maybe that it still feels current. Special effects are not that bad, maybe just the design is old-fashioned. Plot, although with hindsight is predictable, is well brought and the whole movie in general has a very good pace. The fake advertising and television news are funny as hell and do contibute to the atmosphere of the movie. It has the ability to make us laugh, fear and be disgusted in alternately. Only the (no spoil) seems to be rushed and happens too fast. An interesting questionning of our humanity and our daily societies.",
+            "review_date": "2020-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When Officer Alex J. Murphy (Weller) is murdered in a futuristic crime-ridden Detroit, scientists and doctors decide to turn him into a \"Robocop\". He seeks revenge when memories of his past life return.",
+            "review_date": "2022-11-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "for me this is easily one of the greatest action films ever made, it's just ridiculously good, so many classic scenes and quotable memorable lines, it's perfect in every way, just a shame about all the rubbish sequels that came after it",
+            "review_date": "2020-11-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The robot effects and the film's occasional satirical moments are enjoyable despite its extreme violence and graphic details in some parts. Robocop is about cheap thrills for those who prefer violent movies flavoured with sarcasm, so thereThe robot effects and the film's occasional satirical moments are enjoyable despite its extreme violence and graphic details in some parts. Robocop is about cheap thrills for those who prefer violent movies flavoured with sarcasm, so there isn't much more to say about it.",
+            "review_date": "2023-02-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is pretty cliche, but even concidering this - it's still cool and badass action movie.",
+            "review_date": "2022-06-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Another timeless action classic robocop's practical effects have up stood the test of time very well too bad it was followed by terrible sequels.",
+            "review_date": "2023-02-23",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 54
 }

@@ -1,586 +1,622 @@
 {
-  "title": "Good Will Hunting",
-  "rating": 8.6,
-  "release_date": "1997-12-05",
-  "genre": [
-    "Drama"
-  ],
-  "summary": "Will Hunting (Matt Damon) is a brilliant mathematician, but also an angry young man. To avoid jail time, he agrees to work with Sean (Robin Williams) a therapist who comes from the same tough Boston neighborhood.",
-  "critic_reviews": [
-    "Intimate, heartfelt and wickedly funny, it's a movie whose impact lingers.",
-    "First and foremost, Good Will Hunting is a film riding young, exuberant energies.",
-    "The script's bare bones are familiar, yet the film also has fine acting, steady momentum, a sharp eye and a very warm heart.",
-    "Director Van Sant, who made the lyrical \"Mala Noche,\" \"Drugstore Cowboy\" and \"My Own Private Idaho,\" returns to his favorite hunting ground -- the subworlds of grimy, poetic lost boys -- and pulls us right in",
-    "Damon convincingly matches Williams recrimination for recrimination in this portrayal of mutual tough love, even with the latter giving what may be the best performance of his career.",
-    "Gus Van Sant, working from the tangy, well-written script, gets so much humor, grit and emotional truth out of this tale that the familiar formulas behind it simply fall away.",
-    "This beautifully realized tale is always engaging and often quite touching.",
-    "An ordinary story told well. Taken as a whole, there's little that's special about this tale -- it follows a traditional narrative path, leaves the audience with a warm, fuzzy feeling, and never really challenges or surprises us.",
-    "It's the individual moments, not the payoff, that make it so effective.",
-    "You'd never guess this just-off-center movie was directed by indie hero Gus Van Sant. Maybe, like Will, he's casual about his gifts and feels no need to trot them out.",
-    "Stuffed--indeed, overstuffed--with heart, soul, audacity, and blarney. You may not believe a minute of it, but you don't necessarily want to stop watching.",
-    "Both smart and shrewd -- it wraps that same comforting message in a thoroughly entertaining package.",
-    "This is good, solid work that never achieves either the art or poignance of Van Sant's earlier and more personal projects.",
-    "While the charismatic performances of Damon and Affleck make Good Will Hunting a difficult entertainment to resist, doing just that is not as hard as the film would like to think.",
-    "It isn't surprising that the film was originally based on actors' improvisations, since it creates a universe of tremendously enjoyable characters and allows them plenty of room to roam, but has only the most predictable notion of plot and nothing whatever to say beyond be-yourself pieties.",
-    "Part character study, part redemptive drama, and all cheesy heart, it's Boston-baked melodrama, a little too gooey at times, but still pretty delicious.",
-    "Matt Damon and Robin Williams give touching performances, but Gus Van Sant's filmmaking is surprisingly ordinary.",
-    "Van Sant's direction is surprisingly static and conventional, which doesn't help this earnest, underwhelming misfire.",
-    "Damon--as actor, not as co-screenwriter--is the best thing about Good Will Hunting.",
-    "The acting is top-notch and some scenes are authentically well-observed."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "This is a great movie.  I got out of it that it is a sham that without pushing that a life would be wasted and I can\"t stand wasted lives.  he wasn\"t even on drugs.  It also stresses the importance of getting your emotional stuff in order.This is a great movie.  I got out of it that it is a sham that without pushing that a life would be wasted and I can\"t stand wasted lives.  he wasn\"t even on drugs.  It also stresses the importance of getting your emotional stuff in order.  Untill that was in order, he had no faith in himself.  I guess your environment really really determines that.  Great movie.  you can learn so much from it.  That is why I am not into action movies because I can\"t learn much from them that I can\"t use in life if you know what I mean.",
-      "review_date": "2010-08-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting is a dumbfounded wonder of a movie. With exceptional performances from Robin Williams, Matt Damon, and wait... Ben Affleck (oh and he co-wrote the movie with Matt Damon).",
-      "review_date": "2011-12-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Brilliant script and great direction, Good Will Hunting is a must-see movie. Amazing performance by Matt Damon. The Greatest Math Janitor Film Of All Time",
-      "review_date": "2011-02-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting is a very endearing movie; you can really feel Will's internal struggle, and every emotional scene in the film feels authentic rather than sappy. Bravo.",
-      "review_date": "2014-01-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Brilliant performances and good message about self growth and realising your potential",
-      "review_date": "2018-06-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The magical feeling you get by watching \"Good Will Hunting\" will make you question the meaning to filmmaking and life as a whole. When Sean Maquire (Robin Williams) states \"you'll have bad times, but it'll always wake you up to the good stuffThe magical feeling you get by watching \"Good Will Hunting\" will make you question the meaning to filmmaking and life as a whole. When Sean Maquire (Robin Williams) states \"you'll have bad times, but it'll always wake you up to the good stuff you weren't paying attention to\" leads me to think of the negative moments in my life that inspired me to be a big-time movie fan. Good Will Hunting will express the deepest emotions your mind can possibly experiences by bringing you tears, laughter and even anger.\r Rating: 10/10\r A+ = 10\rA = 9\rA- = 8\rB+ = 7\rB = 6\rB- = 5\rC+ = 4\rC = 3\rC- = 2.5\rD+ = 2\rD = 1.5\rD- = 1\rF = 0",
-      "review_date": "2016-07-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie annnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd yeaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhh",
-      "review_date": "2017-07-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "HOW is this movie only an 8.9? A brilliant movie. A work of art. A must-see!",
-      "review_date": "2018-01-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤¿♤:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇",
-      "review_date": "2021-06-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Marvelously original, and bolstered by a strong performance of Damon, and a equally strong, sarcastic, and cynical role by Robin Williams. Minnie Driver is interesting in her role, playing this half-sophisticated, and half-normal character,Marvelously original, and bolstered by a strong performance of Damon, and a equally strong, sarcastic, and cynical role by Robin Williams. Minnie Driver is interesting in her role, playing this half-sophisticated, and half-normal character, one who can go to Stanford and still make a joke about a blow-job. Ben Affleck and everyone else helps give the film it's stance. Love this movie",
-      "review_date": "2013-08-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting is such a brilliant movie and it's especially a masterpiece and a half. The movie's got such an amazing story and it's about this lad who's called Will Hunting (Matt Damon), who's this very intelligent genius at mathematicsGood Will Hunting is such a brilliant movie and it's especially a masterpiece and a half. The movie's got such an amazing story and it's about this lad who's called Will Hunting (Matt Damon), who's this very intelligent genius at mathematics and he's really good at solving all the difficult mathematical problems.However, when he starts to face an emotional crisis, he starts to see many different psychiatrist's until he finds the right one who can help him and his name is Dr Sean Maguireto (Robin Williams), who later helps Will recover.The movie's got some amazing performance's from all of the cast, especially from Will (Matt Damon) and Sean (Robin Williams), those two are honestly brilliant and the two of them bring their characters to life so well.The dialogue which is given and received from each character throughout this movie is all very strong dialogue. The dialogue which this movie's got never feels weak at any moment and every single bit of the dialogue comes out very strong.The movie's cinematographer Jean-Yves Esoffier does such a beautiful job on capturing each moment and each emotion from each character so beautifully, he honestly does it so well.Also, the chemistry between Matt Damon and Robin Williams throughout this movie is honestly great and it adds so much to their friendship in this movie and it works perfectly.The pacing in this movie is honestly great, each main moment which ends up happening throughout this movie is all well built up and it's so beautifully well done.The movie's even got some brilliant humour, which is well scattered throughout and all of the humour works very well in making me laugh in some sort of way.Finally, the movie's got some really great emotions and they're all well built up with the great pacing and it really adds to their characters as a whole throughout this movie.The movie's even got some brilliant character development with the main character Will, It's so beautifully well done and it works so perfectly due to the events, which end up happening to him.The love interest in this movie, which is between Will and Skylar (Minnie Driver) is so beautifully well done and the certain events, which end up happening throughout their relationship are all well built up.Overall, Good Will Hunting is such a brilliant movie with such an amazing story, amazing performances, very strong dialogue, beautiful cinematography, great chemistry, great pacing, brilliant humour, great emotions, brilliant character development and such a beautiful love interest.I'd honestly recommend Good Will Hunting, if you're wanting to watch a very beautiful Drama/Romance movie. It's honestly worth the watch, it's so amazing.",
-      "review_date": "2020-12-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "'Good Will Hunting' is a drama that earned $225 million, whereas the budget of the movie is $10 million. It was directed by Gus Van Sant in 1997.The movie is about a twenty-year-old genius and the influence of his difficult childhood on his'Good Will Hunting' is a drama that earned $225 million, whereas the budget of the movie is $10 million. It was directed by Gus Van Sant in 1997.The movie is about a twenty-year-old genius and the influence of his difficult childhood on his life.The high-level acting and well-written script attract moviegoers all over the world. The script was written by Ben Affleck and Matt Damon. 'Good Will Hunting' won two Academy Awards: the Academy Award for Best Original Screenplay and the Academy Award for Best Supporting Actor.Written by Anastasiia Shystovska",
-      "review_date": "2021-01-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is honestly one of the best films I have ever seen considering the year it was made great actors, amazing plot, truly incredible",
-      "review_date": "2021-02-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie. Learn to be more mature and get past the use of the 'f' word as you love to call it, otherwise go watching finding nemo.",
-      "review_date": "2005-11-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Incredibly well written and well executed piece of art. Feel good movie on the level of the story but also on the level that there are still true writers and films out there that don't need lame special effects and corny action to compensateIncredibly well written and well executed piece of art. Feel good movie on the level of the story but also on the level that there are still true writers and films out there that don't need lame special effects and corny action to compensate for the terrible script.",
-      "review_date": "2012-05-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was released befor I was born. I watched it as a child - didn't understand several things.\rWatch it with sixteen when university will be an important part of my life and see the movie much different.\rThe best moment for me wasThis movie was released befor I was born. I watched it as a child - didn't understand several things.\rWatch it with sixteen when university will be an important part of my life and see the movie much different.\rThe best moment for me was the baseball match when I was younger. Now it's the great monologue of Robin Wiliams.",
-      "review_date": "2014-10-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting is a modern day classic about finding one's place in the world, and conquering your fears. A touching, inspirational film with a great script, great performances (Matt Damon, Robin Williams, and Ben Affleck really shine) andGood Will Hunting is a modern day classic about finding one's place in the world, and conquering your fears. A touching, inspirational film with a great script, great performances (Matt Damon, Robin Williams, and Ben Affleck really shine) and good cinematography. Good Will Hunting is guaranteed to uplift anyone who watches it.",
-      "review_date": "2017-11-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting is an incredible film about growing up and believing in yourself. Its got a lot of great lessons and would be a great watch for adolescents. Great writing, great casting, great performances, and a large emotional impact allGood Will Hunting is an incredible film about growing up and believing in yourself. Its got a lot of great lessons and would be a great watch for adolescents. Great writing, great casting, great performances, and a large emotional impact all help the movie to be truly special.",
-      "review_date": "2016-07-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Solid performances all around, especially by Damon and Robin Williams. It's a touching and inspirational film that explores several issues in life.",
-      "review_date": "2006-03-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie! Heart breaking, romantic, and had some good humor in it. Truely a great movie about a brillient kid who gets in a little to much trouble. It inspired me to reach for my goals. Overall a great movie.",
-      "review_date": "2008-12-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "¤¡¤¡¤¡¤¡¤¤¡¤¡¤¡¤¡¡•¡•¡•¡•¡•¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡¤¡¤¡¤¡¤¡¤¤¡¤¡¤¡¤¡¡•¡•¡•¡•¡•¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡¤¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡•¡",
-      "review_date": "2021-06-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting: Now I said I couldn’t review this movie because I wouldn’t be doing it justice but I’m only doing it because of the brilliant Robin Williams, Rest In Peace to a actor we lost too soon. So yeah this movie is another one thatGood Will Hunting: Now I said I couldn’t review this movie because I wouldn’t be doing it justice but I’m only doing it because of the brilliant Robin Williams, Rest In Peace to a actor we lost too soon. So yeah this movie is another one that everyone should see because the way Matt Damon and Ben Affleck this art is that they fake you out in the beginning making you think it’a a comedy but then you get introduced to Robin’s character and then the movie flips into a drama. So the main person I really want to bring light on is Robin because he is so amazing in this roll he goes from being a humble person to grabbing Matt’s character by the neck and that’s what makes him feel more real, he has emotions and with his perfect performance he brings weight to a certain type of character and I don’t think I can ever unsee the way he plays him and I don’t want to either. Overall watch it. Ranking: Masterpiece.",
-      "review_date": "2022-03-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Personally, my favorite movie of all time. I first time watched this movie back in 2009 on Netflix and I was captivated by Matt Damons character as well as Robbin Williams. This is a movie is littered with valuable life lessons and never actPersonally, my favorite movie of all time. I first time watched this movie back in 2009 on Netflix and I was captivated by Matt Damons character as well as Robbin Williams. This is a movie is littered with valuable life lessons and never act hot-headed or arrogant. It's a movie that teaches humility and I was so moved by it. The acting was phenomenal, great cinematography, and absolutely great writing. An absolute A+!",
-      "review_date": "2022-03-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fantastic film. Great, very reflective story and amazing direction by Gus Van Sant. Robin Williams, Matt Damon, Ben Affleck andStellen Skarsgard's performances are exceptional. All of the characters are relate-able, the story makes you thinkFantastic film. Great, very reflective story and amazing direction by Gus Van Sant. Robin Williams, Matt Damon, Ben Affleck andStellen Skarsgard's performances are exceptional. All of the characters are relate-able, the story makes you think about your own life in reflection.",
-      "review_date": "2020-02-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The only negative reviews I hear of this movies are by people who either cant stand violence or strong language (and one about it being to simple from the guy who watched inception and still has his mind blown). This movie is very real to me,The only negative reviews I hear of this movies are by people who either cant stand violence or strong language (and one about it being to simple from the guy who watched inception and still has his mind blown). This movie is very real to me, though the genius of the main is hyperbolized (in my opinion) It just goes to display the internal struggle of what to do with your natural gifts, and just how much negative influences during your childhood effect your growth. Plus the Jokes in this movie are HILARIOUS! Even if you didnt like this movie you cannot tell me you didnt like the apples joke, or the old couple.",
-      "review_date": "2015-07-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "-----------------------------¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○",
-      "review_date": "2021-06-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting is one of the greatest American Movies of all time. It is both Robin Williams and Matt Damon's best performances, and Robin Williams won the Academy Award for Best Supporting Actor. Good Will Hunting is both wise and deep.Good Will Hunting is one of the greatest American Movies of all time. It is both Robin Williams and Matt Damon's best performances, and Robin Williams won the Academy Award for Best Supporting Actor. Good Will Hunting is both wise and deep. It really makes you stop and look at yourself and life.",
-      "review_date": "2012-03-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is nothing but a masterpiece. The characters all have so much depth, and the actors all pull them off beautifully. The writing was genius, especially for Damon and Affleck having been so young at the time. The only downside now isThis movie is nothing but a masterpiece. The characters all have so much depth, and the actors all pull them off beautifully. The writing was genius, especially for Damon and Affleck having been so young at the time. The only downside now is Harvey Weinstein's involvement, but there's no changing that now.",
-      "review_date": "2019-10-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nWill: [during a therapy session, after his job interview with the NSA] Why shouldn't I work for the N.S.A.? That's a tough one, but I'll take a shot. Say I'm working at N.S.A. Somebody puts a code on my desk, something nobody else can break. Maybe I take a shot at it and maybe I break it. And I'm real happy with myself, 'cause I did my job well. But maybe that code was the location of some rebel army in North Africa or the Middle East. Once they have that location, they bomb the village where the rebels were hiding and fifteen hundred people I never met, never had no problem with, get killed. Now the politicians are sayin', \"Oh, send in the Marines to secure the area\" 'cause they don't give a **** It won't be their kid over there, gettin' shot. Just like it wasn't them when their number got called, 'cause they were pullin' a tour in the National Guard. It'll be some kid from Southie takin' shrapnel in the ass. And he comes back to find that the plant he used to work at got exported to the country he just got back from. And the guy who put the shrapnel in his ass got his old job, 'cause he'll work for fifteen cents a day and no bathroom breaks. Meanwhile, he realizes the only reason he was over there in the first place was so we could install a government that would sell us oil at a good price. And, of course, the oil companies used the skirmish over there to scare up domestic oil prices. A cute little ancillary benefit for them, but it ain't helping my buddy at two-fifty a gallon. And they're takin' their sweet time bringin' the oil back, of course, and maybe even took the liberty of hiring an alcoholic skipper who likes to drink martinis and **** play slalom with the icebergs, and it ain't too long 'til he hits one, spills the oil and kills all the sea life in the North Atlantic. So now my buddy's out of work and he can't afford to drive, so he's got to walk to the **** job interviews, which sucks 'cause the shrapnel in his ass is givin' him chronic hemorrhoids. And meanwhile he's starvin', 'cause every time he tries to get a bite to eat, the only blue plate special they're servin' is North Atlantic scrod with Quaker State. So what did I think? I'm holdin' out for somethin' better. I figure **** it, while I'm at it why not just shoot my buddy, take his job, give it to his sworn enemy, hike up gas prices, bomb a village, club a baby seal, hit the hash pipe and join the National Guard? I could be elected president.",
-      "review_date": "2021-05-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is one of my all time favorite movies. The grit and grime of the kind of life that most wish to look away from. Matt Damon was truly inspiring in his performance and insight. I wish that more movies were as real as this one (with the This is one of my all time favorite movies. The grit and grime of the kind of life that most wish to look away from. Matt Damon was truly inspiring in his performance and insight. I wish that more movies were as real as this one (with the exception of 'Will' being a genius).",
-      "review_date": "2007-07-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Very emotional movie. Great performance by Matt Damon and Robin Williams, pretty complex characters with their own stories. One of the movies which makes you look at life from a different angle.",
-      "review_date": "2013-09-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "i dont like robin williams but his performances here is worth commending. he played his character perfectly about man in pain very naturally. the movie is about will (matt damon), facing his trials and tribulations in his life despite being ai dont like robin williams but his performances here is worth commending. he played his character perfectly about man in pain very naturally. the movie is about will (matt damon), facing his trials and tribulations in his life despite being a genius. good acting from the cast too.",
-      "review_date": "2012-03-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Damon, Affleck, Skarsgard, and Williams all give fantastic performances, but that isn't what makes this film special. What makes this a classic is the writing by Matt Damon and Ben Affleck. They make the characters seem real, and makes theDamon, Affleck, Skarsgard, and Williams all give fantastic performances, but that isn't what makes this film special. What makes this a classic is the writing by Matt Damon and Ben Affleck. They make the characters seem real, and makes the viewer invested in them.",
-      "review_date": "2017-09-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It comes quite clear that the critics that gave the movie a negative review did not understand the excellence of the acting. Especially from Robin Williams, has he ver made a movie like this? No. The intelligence of this movie is outstanding,It comes quite clear that the critics that gave the movie a negative review did not understand the excellence of the acting. Especially from Robin Williams, has he ver made a movie like this? No. The intelligence of this movie is outstanding, no fancy effects or crazy dramatic turns, just human life at it's peak. A beautiful movie, don't over analyze it, but do recognize how it makes you look deep into life.",
-      "review_date": "2011-07-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The premise and Robin Williams are great, but the rest is utterly a  disappointment.http://themoviefreakblog.com/2012/06/02/review-good-will-hunting/",
-      "review_date": "2012-06-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What it is to be enveloped by ignorance for your own self, not knowing what you want and what you do with your life? Even people with talents are not insured against this possible daily burden. The greatest pain is to live, going downstream.What it is to be enveloped by ignorance for your own self, not knowing what you want and what you do with your life? Even people with talents are not insured against this possible daily burden. The greatest pain is to live, going downstream. But hugging life, we should not lose the much needed faith. There is something good there, in the future, hiding and waiting. Waiting for us, who, in the meantime, are on the spiral of time. Getting closer.A movie about the need for self-knowledge. About the turns of life. About love.",
-      "review_date": "2018-04-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's over-long for a film of its nature, but despite the length, the film does not lag. In fact, it is beautifully filmed, exceptionally acted, brilliantly written, and---in the end---extremely heartwarming. It is a triumph.",
-      "review_date": "2016-05-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I saw this movie for the first time last night and I'm sad to say it has not held up well. The audience is meant to believe that Matt Damon's character is smart because he writes mathematic gibberish on a black board conveniently placed in aI saw this movie for the first time last night and I'm sad to say it has not held up well. The audience is meant to believe that Matt Damon's character is smart because he writes mathematic gibberish on a black board conveniently placed in a walk way for a janitor to draw on, I was never convinced he was the genius the movie claimed him to be. The movie has good acting if you consider characters yelling and swearing at each other for 3 quarters of the movie for little reason and for nothing you will care about. In the end I never cared about the films characters nor did I find them relatable. Pass",
-      "review_date": "2011-10-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What a bunch of pseudo-intellectual claptrap. This is a movie written from the perspective of a college undergrad who thinks he's impossibly clever, but is really just a big dummy full of stupid ideas (e.g. the Howard Zinn and Chomsky What a bunch of pseudo-intellectual claptrap. This is a movie written from the perspective of a college undergrad who thinks he's impossibly clever, but is really just a big dummy full of stupid ideas (e.g. the Howard Zinn and Chomsky references -- are there two bigger moral imbeciles on the planet earth than those two twits?). Matt Damon's character is a witless jackass. Who could possibly care about this goon? The rest is so absurd that it's laughable. The film positively groans under the weight of its pretentions. There are few things worse than patently ignorant people showing off their \"intelligence,\" such as it is. This is the sort of film that does serve a purpose, however. If anyone likes it, you know right away they really have no clue about what makes a good film. And they probably really enjoy congratulating themselves on how smart they are.",
-      "review_date": "2009-01-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I waited a whole decade to finally see this movie. It was horrible. Why is it called \"Good Will Hunting?\" There is a scene where Will holds a man down and beats him until there is blood coming from not just the victims nose, but his mouth as I waited a whole decade to finally see this movie. It was horrible. Why is it called \"Good Will Hunting?\" There is a scene where Will holds a man down and beats him until there is blood coming from not just the victims nose, but his mouth as well. If I were to do that to someone, would I be considered \"good\"? I sure hope not.",
-      "review_date": "2006-08-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting is pretty good. The story is predictable but what makes it enjoyable are the characters, the acting, and the relationships (particularly Will’s relationship with Williams’ character as well as his relationship with BenGood Will Hunting is pretty good. The story is predictable but what makes it enjoyable are the characters, the acting, and the relationships (particularly Will’s relationship with Williams’ character as well as his relationship with Ben Affleck’s character). It’s a nice feel good movie. My only issues come from the last third/fourth of the movie where we have to sit through a lot of arguing as well as moping and doping even though its obvious that the film will end on a happy note and what that note will be specifically. Since this is a Robin Williams movie where he plays a teacher that inspires a pupil, I feel its fair to compare it to Dead Poet’s Society, which is a better film. I found the arc of the students’ in that film to be far more interesting and I like how the happy ending comes at the cost of some tragedy. Additionally, that film was not as predictable. With all that said though I still enjoy Good Will Hunting it’s a heart-warming film with a good message that pulls at your heart strings. It makes you laugh and cry as well as remember a time when cell phones did not exist and the Dunkin Donuts logo looked different. It is cliché and predictable but I’m willing to overlook it because the characters are likeable and the relationships are fantastic especially in the first half (second half/third is where the clichés fall in). This is definitely a movie that everyone should see at least once in their life.",
-      "review_date": "2014-10-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Alright, I am going to go straight ahead and say that in no way do I understand how people manage to like this movie.\r Absolutely everything in this film is outright terrible: the premise of two grown men going out of their way to help someAlright, I am going to go straight ahead and say that in no way do I understand how people manage to like this movie.\r Absolutely everything in this film is outright terrible: the premise of two grown men going out of their way to help some guy \"because he's a genius\", the cliché boring love interest and friend subplots, young Damon showing his \"intellect\" by citing old books with a super-serious face, Affleck picking up girls (extra cringy!), Williams remembering his wife's farts (literally), Minnie Driver's story about geriatric blowjobs, Casey Affleck jerking off (not shown explicitly, thankfully), the battered \"do what you really like, don't miss your true love\" morale... The list could go on forever, or for about two hours, to be exact.\r The only bright spot is Robin Williams (when he's not remembering his wife's farts, obviously), his performance is solid, his smile heart- warming, his wrists very hairy.\r What I also don't get is why people have doubts whether Affleck and Damon actually wrote this piece of trash. I mean come on, saying that someone isn't capable of even coming up with something as bad as Will Hunting is probably the worst insult there is.",
-      "review_date": "2016-07-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I recently had the opportunity to see Good Will Hunting for the second time. I had not seen it since its video release in 1997. It's funny how 15 years can change your opinion about a movie. I was lukewarm to the film back then, but now  15I recently had the opportunity to see Good Will Hunting for the second time. I had not seen it since its video release in 1997. It's funny how 15 years can change your opinion about a movie. I was lukewarm to the film back then, but now  15 years wiser  I see it in a new light.\r I had initially dismissed this film as a two hour study of a bunch of unlikeable and unbelievable people. But now it is evident that Matt Damon deserved his Oscar nomination for his portrayal of the title character, the good Will Hunting.\r Damon does a yeoman's job making us believe in someone who is not only a math genius with a photographic memory, but a barroom-brawler, cynic, janitor, lover, and all-around down-to-earth working-class Joe. Damon and his compadre Ben Affleck also deserved their Oscar screenplay win for creating a character more fantastic than any from the mind of J.R.R. Tolkien.\r Robin Williams also deserved his Oscar win for having us buy his interpretation of an all-knowing beard-sporting eye-glinting joke-cracking-but-no-nonsense psychologist.\r Affleck, director Gus Van Sant, and the rest of the cast merit mention as well for trying to get us to like and accept all the unappealing and implausible characters who populate this fantasy world.\r All this leads me to believe that I should revisit films like Showgirls, The River Wild, Divine Secrets of the Ya-Ya Sisterhood, and The Greek Tycoon. Maybe I was a little too harsh in my initial assessment of these as well.",
-      "review_date": "2013-04-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The movie itself is OK, and  some of it is really interesting. But, two Afflecks in the same movie? I mean, whose idea was this? Was it suposed to be funny?",
-      "review_date": "2015-03-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting is one of the greatest American Movies of all time. It is both Robin Williams and Matt Damon's best performances, and Robin Williams won the Academy Award for Best Supporting Actor. Good Will Hunting is both wise and deep.Good Will Hunting is one of the greatest American Movies of all time. It is both Robin Williams and Matt Damon's best performances, and Robin Williams won the Academy Award for Best Supporting Actor. Good Will Hunting is both wise and deep. It really makes you stop and look at yourself and life.",
-      "review_date": "2016-04-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is one of the best movies I have seen. After seeing it a second time and seeing some of the unaccidental coincidences by the producer, the movie shows many different angles. This is one of the cleverest movies I have seen, very This movie is one of the best movies I have seen. After seeing it a second time and seeing some of the unaccidental coincidences by the producer, the movie shows many different angles. This is one of the cleverest movies I have seen, very intriguing.",
-      "review_date": "2005-12-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing movie, great acting, perfect screenplay. And I think I speak for a lot of people when I say, I think it's time Damon and Affleck hooked up again on a screenplay.",
-      "review_date": "2005-12-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A great movie. Matt damon did way more on the screenplay than Ben Affleck. It's clear they realized who was more talented some time ago.",
-      "review_date": "2007-01-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great performances & dialogue with Robin Williams in fine form as psychologist Sean Maguire.I still have a strong dislike for Ben Affleck though he did co-write this so fair play to him.Also nice soundtrack with lots of the late ElliottGreat performances & dialogue with Robin Williams in fine form as psychologist Sean Maguire.I still have a strong dislike for Ben Affleck though he did co-write this so fair play to him.Also nice soundtrack with lots of the late Elliott Smith featuring.",
-      "review_date": "2010-09-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Of the works of art I have experienced, this has struck a deep impression within me and remains to be my favorite film of all time.  To begin with, the story is not only a wonderful concept but also devoid of idealistic clichÃ©.Of the works of art I have experienced, this has struck a deep impression within me and remains to be my favorite film of all time.  To begin with, the story is not only a wonderful concept but also devoid of idealistic clichÃ©.  It was the kind of story that carried itself through the journey; situations fabricated to nudge the plot along were very sparse.  The entire movie flowed out smoothly, avoiding the impression of multiple disjointed scenes, instead following a cohesive line of thought, and yet integrated within was a well-paced emotional rampage.  It balanced on the edge of fact and fiction, using â",
-      "review_date": "2010-08-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The complexity of the characters in Good Will Hunting is astounding with it taking multiple viewing to truly understand the depth of character (even for some of its more minor characters). Good Will Hunting tells the story of (believe it orThe complexity of the characters in Good Will Hunting is astounding with it taking multiple viewing to truly understand the depth of character (even for some of its more minor characters). Good Will Hunting tells the story of (believe it or not) Will Hunting, An underachieving genius who works as a janitor at MIT (Massachusetts Institute of Technology to us non Americans). When one of the professors (the always impressive Stellan Skaarsgard) notices him he suddenly finds his way out of his life but at the same time is sabotaging himself due to the problems of his past. The movie has a strong emotional richness as the film covers everything from love and family to abuse and heartbreak. The writing (by Matt Damon and Ben Affleck) is brilliant as it has the ability to be mundane and colloquial only to turn suddenly to something eloquent and articulate. The film has a tendency to give you speeches instead of conversations but they are so well written you cannot help but listen in awe as these characters wax lyrical. The cast is sensational with Matt Damon being a solid lead as Will. Stellan Skaarsgard portrayal helps us empathise with his character despite the fact he is incredibly arrogant. Even Ben Affleck whose early career has been peppered with terrible performances gives everything as Willâ",
-      "review_date": "2012-02-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This one of my all time favorites movies.\rC'est un film original et qui traite de beaucoup de sujet tout en gardant de la fraicheur et de la surprise.",
-      "review_date": "2011-10-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This was superb. A best cast ensemble and a very planned out story from Matt Damon and Ben Affleck has made this film more favorable to the fans of Matt Damon and his films.",
-      "review_date": "2011-11-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A film that can easily be looked up to, Good Will Hunting is an underdog story in a sense, but its the battle within that is the most significant part of this fantastic film.\rMatt Damon delivers a spellbinding performance as Will Hunting, aA film that can easily be looked up to, Good Will Hunting is an underdog story in a sense, but its the battle within that is the most significant part of this fantastic film.\rMatt Damon delivers a spellbinding performance as Will Hunting, a working class kid from Boston, and also a janitor, who, in his spare time of course, is a mathematical genius. The problem with this is that Will seems very reluctant to be noticed for his remarkable talents, but famed lecturer Gerald Lambeau (Stellan Skarsgård) takes it upon himself to mentor the young but flawed genius, who has a knack for getting into countless fights and all other forms of bad behaviour with his best pals Chuckie (Ben Affleck), Morgan (Casey Affleck) and Billy (Cole Hauser).\rAs Lambeau attempts to put Will through therapy, Will makes a mockery of the process, so Lambeau decides to send him to a longtime friend, Dr. Sean Maguire (Robin Williams), a roommate Lambeau's younger years. Sean immediately notices the similarities that he and Will share in regards to family life and past problems.\rWritten by Damon and Affleck, Good Will Hunting tells a trial and error story of how our pasts most definitely matter and make a difference to how our futures may take shape. Will is frightened to let anybody into his life, even giving up his remarkable abilities just so he can remain with people he trusts, and not get hurt again the way is troubled and horrific past show.\rBut the film is also cleverly funny, with the chemistry between Damon and Williams electrifying, bouncing off each other in fast-paced successions of dialogue and humour.\rRobin Williams gives a magical and emotional performance as Will's eventual therapist, he holds troubles quite dear to himself that he could never speak about until this kid came along, something that certainly taught both characters a lesson.\rThe film does play out in a very predictable and often feel-good manner, but this isn't a bad thing, Will's character needed to develop and evolve to the new people in his life, including a girl (Minnie Driver) a student who falls for Will. With an Oscar for Damon and Affleck for their screenplay and a well-deserved Oscar for best supporting actor in Robin Williams, Good Will Hunting has all the ingredients of a well crafted, gifted and defining piece of cinema that still goes down as one of the best films of all time.",
-      "review_date": "2013-04-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Although the film does have a very depressing back story and the film suffers from awkward mood changes, Good Will Hunting is entertaining, emotionally rich and benefits from powerful performances from Williams, Damon, and Driver. I give thisAlthough the film does have a very depressing back story and the film suffers from awkward mood changes, Good Will Hunting is entertaining, emotionally rich and benefits from powerful performances from Williams, Damon, and Driver. I give this movie 71%.",
-      "review_date": "2012-01-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Undeniably genius. This movie is true to its core, lacking pretense. It brings you to an emotional roller coaster too. Thanks to the brilliant and phenomenal actors, it pulled off a great storyline. It's been a while since I get speechless byUndeniably genius. This movie is true to its core, lacking pretense. It brings you to an emotional roller coaster too. Thanks to the brilliant and phenomenal actors, it pulled off a great storyline. It's been a while since I get speechless by good movies, but this movie is just one of them. It's mind blowingly good, not to mention a good moral lesson to be learnt.",
-      "review_date": "2013-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Absolutely marvelous. Matt Damon and his cast of friends, Robin Williams, and every other actor turned in outstanding performances. At many points, you're not entirely whether you're rooting for or against the kid seemingly determined to ruinAbsolutely marvelous. Matt Damon and his cast of friends, Robin Williams, and every other actor turned in outstanding performances. At many points, you're not entirely whether you're rooting for or against the kid seemingly determined to ruin his life. However, the movie had numerous good messages, such as pushing through your hardships to reach your potential. Fantastic directing and writing here, just a feel good kind of film.",
-      "review_date": "2013-05-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "For what it is, Good Will Hunting isn't bad. Robin Williams is okay, the message is inoffensive, it serves fine in that respect. But by no means is it special. Even if it was relatively original for its time, this is just another heftyFor what it is, Good Will Hunting isn't bad. Robin Williams is okay, the message is inoffensive, it serves fine in that respect. But by no means is it special. Even if it was relatively original for its time, this is just another hefty serving of Robin Williams ego-porn. \"He's a genius\". \"This is unorthodox\". The whole stupid slew of quirky-but-good nonsense audiences eat up to make them feel like they've achieved something. The protagonist is bland, annoyingly shallow and eerily 2d. He exists purely for the audience to relate to so when he is told he is oh-so-bloody-great the audience will feel complimented, proud, and therefore enjoy it. Anyone looking for a story however will find bland, unoriginal pandering and little else. It may have been one of the first films to do this trope, but today with all the times we see this bland predictable little sketch it simply can't be justified to watch unless you have some deep personal connection with Robocop. I mean Matt Damon. I mean WIll. Bland, competently well done, mostly well-acted but in the end utterly forgettable and lacking substance.\r And don't go all artsy on me, that symbolism they toss in is clumsy and obvious as it gets. I was told \"You'll like this. It's a smart movie.\" It isn't. It's ego-porn. Make no mistake.",
-      "review_date": "2015-03-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"It's not your fault\" scene was definitely the saddest scene in this movie. I liked also how this movie shows a chemistry in a friendship between Matt Damon and Ben Affleck as they make you believe that they are not acting at all. Also as\"It's not your fault\" scene was definitely the saddest scene in this movie. I liked also how this movie shows a chemistry in a friendship between Matt Damon and Ben Affleck as they make you believe that they are not acting at all. Also as someone who also has trouble to find myself in something to be happy, I can relate to this movie so much. Definitely one of the rare movies that had me cry so much.",
-      "review_date": "2021-09-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Ample with truly heartwarming themes and chock full of some supremely well-written dialogue, \"Good Will Hunting\" is a modest, yet undeniably faultless drama.",
-      "review_date": "2012-11-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Everything a drama should be.  Well written, charming characters, dialogue that ranges from impressively authentic to strikingly smart, and a very satisfying ending all add up to one of the best films I've seen in a long time.  The screenplayEverything a drama should be.  Well written, charming characters, dialogue that ranges from impressively authentic to strikingly smart, and a very satisfying ending all add up to one of the best films I've seen in a long time.  The screenplay is smart, the direction is sensitive, and the performances are all very good.  I really liked how natural all of the relationships between the characters seemed.  They gave the film a very easygoing and comfortable atmosphere.  I can't stress how important that is for this genre.  Needless to say, I think every film lover needs to see this movie.",
-      "review_date": "2014-01-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "one of the best writing i have ever watched in a movie  sure Ben affleck acting skills wasn't in the place but some how that worked  he look like a shy guy who take care of his friends  i loved Casey affleck performance  they gave him anone of the best writing i have ever watched in a movie  sure Ben affleck acting skills wasn't in the place but some how that worked  he look like a shy guy who take care of his friends  i loved Casey affleck performance  they gave him an awesome character and since then I'm into his movies  overall great movie and astonishing performance by robin Williams ",
-      "review_date": "2013-03-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I can't believe what I had been missing! This movie is a great and powerful film. The performances are spot on, especially Matt Damon and Robin Williams. And the chemistry between those two were dynamite! I completely understand why this isI can't believe what I had been missing! This movie is a great and powerful film. The performances are spot on, especially Matt Damon and Robin Williams. And the chemistry between those two were dynamite! I completely understand why this is Williams and Damon's best film. The screenplay is refreshing the characters have you put on an emotional journey through oneself. Easily now one of my all-time favorites! I give this masterpiece an A+!",
-      "review_date": "2014-08-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I thoroughly enjoy this movie along with its characters. Robin Williams steps into a more serious role where he delivers a very strong performance. I mloved watching the interactions between many of the characters, especially Damon's and William's.",
-      "review_date": "2013-08-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Touching and relfexive. A few films talks about wasted talent. One of the best and emotional Matt Damon's acting.",
-      "review_date": "2018-10-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Was good but also really boring at times. Fell asleep twice in the movie. Matt Damon and Robin William's performances were excellent though. 7/10 (good)",
-      "review_date": "2014-09-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The underrated and smart Gus Van Sant's Good Will Hunting has one of the best improvisational sequences that i have seen. Robin Williams gives one of the smartest performances of his career and Matt Damon is so good at living with theThe underrated and smart Gus Van Sant's Good Will Hunting has one of the best improvisational sequences that i have seen. Robin Williams gives one of the smartest performances of his career and Matt Damon is so good at living with the character of Will, great perfomances from Affleck, Driver and the supporting cast.",
-      "review_date": "2014-06-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A definitive classic without a doubt. With a a powerful screenplay, outstanding acting performances and a touching story, Good Will Hunting is a powerful movie that anyone should enjoy.",
-      "review_date": "2017-09-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Let's be honest. Everybody at one point in hist life wants to be that smart boy in the bar who teaches a lesson to that **** prick who is picking on his friend.",
-      "review_date": "2015-12-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the best movies I've ever seen. I applaud Matt Damon and Ben Affleck for being able to create a true masterpiece at such a young age. This movie made both these boys look like veterans. I couldn't take my eyes off the screen throughoutOne of the best movies I've ever seen. I applaud Matt Damon and Ben Affleck for being able to create a true masterpiece at such a young age. This movie made both these boys look like veterans. I couldn't take my eyes off the screen throughout this movie. Robin Williams plays his best role in his career as Sean McGuire and Damon is no slouch either. I also enjoyed Affleck's role despite settling for a smaller part. Good Will Hunting is a must watch for anyone.",
-      "review_date": "2014-11-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Nothing less than a masterpiece and written by Matt Damon and Ben Affleck at such young ages. The writing is brilliantly heartfelt and funny, the acting is brilliant and the whole feeling of the film is beautiful. Honestly my favourite film ever.",
-      "review_date": "2016-08-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film taught me to never give up when in hard times and that if I go threw abuse, is not my fault. One of my favorite YouTubers, MrRepzion, loved this film because it taught him the exact same moral. I wish Robin Williams could see thisThis film taught me to never give up when in hard times and that if I go threw abuse, is not my fault. One of my favorite YouTubers, MrRepzion, loved this film because it taught him the exact same moral. I wish Robin Williams could see this review so he could know what a great job he did",
-      "review_date": "2015-07-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Unoriginal and slow. It's easy to tell how the film is going to end and how events are going to play out within the first 10 minutes of watching. The film  unrealistically portrays mathematics as being something easy to grasp for someone withUnoriginal and slow. It's easy to tell how the film is going to end and how events are going to play out within the first 10 minutes of watching. The film  unrealistically portrays mathematics as being something easy to grasp for someone with such a high intellect. No \"super genius\" can solve complex math problems the way Will does. Matt Damon's and Robin William's performances are exceptional.",
-      "review_date": "2015-12-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Probably one of the greatest movies ever made. Brilliant acting, heartfelt story, emotional ending, and a truly perfect script make this movie a masterful journey!",
-      "review_date": "2015-07-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I don't think I have been this moved by a movie in a while. Good Will Hunting is an incredible movie and if I had to say what I think is Gus Van Sant's best film, this would be it. It is a slow-burner, but I think this was purposefully doneI don't think I have been this moved by a movie in a while. Good Will Hunting is an incredible movie and if I had to say what I think is Gus Van Sant's best film, this would be it. It is a slow-burner, but I think this was purposefully done and it added to the film's poignancy and psychological aspect.Good Will Hunting is a beautifully filmed movie with striking scenery, and it is directed wonderfully by Van Sant. The music is never obtrusive but never too low-key either, while the story is interesting and compelling and the script intelligently written.The acting is one of the film's best assets, as well as its compellingly real characters. Robin Williams is superb in one of his best \"drama\" roles, while Ben Affleck has never been better and Matt Damon gives another fine performance to match his performance in The Talented Mr Ripley. Minnie Driver is also quite touching and believable.All in all, an incredible movie. 10/10 Bethany Cox",
-      "review_date": "2022-03-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a really good movie. The plot and the characters are really interesting and make for a great watch. Matt Damon and Ben Affleck do a great job.",
-      "review_date": "2015-11-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A compelling, funny, and ultimately moving examination of life's priorities, with mesmerising performances from Damon, Affleck and the late Robin Williams.",
-      "review_date": "2016-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting is a charming movie driven by a brilliant script (co-written by Ben Affleck and Matt Damon) and stellar performances, in particular from Damon (the best of his career in my opinion) and the late Robin Williams.",
-      "review_date": "2021-05-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Sharp and heart touching story of a genius in development, mixed in character with an angry man. Pay attention of rookies Matt Damon and Ben Affleck; Robin Williams is also remarkable in the role of psychologist.",
-      "review_date": "2017-12-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting is a wonderful drama about the talented young mathematician Will. A superb cast, surprisingly it's one of Matt Damon's best acting works. And of course, a wonderful game by Robin Williams. A Good Will Hunting drama thatGood Will Hunting is a wonderful drama about the talented young mathematician Will. A superb cast, surprisingly it's one of Matt Damon's best acting works. And of course, a wonderful game by Robin Williams. A Good Will Hunting drama that exists and will exist beyond time, it will always be relevant. Good Will Hunting is a prime example of demonstrating people's self-reflection. Throughout the film, 2 societies are opposed: the intelligentsia societies led by Gerald Lambeau and the societies of ordinary friends with Chuck. The finale of Good Will Hunting is excellent, Will chose love after all, which only happens 1 time",
-      "review_date": "2022-09-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is honestly a brilliant movie, with two big-shot Hollywood actors, Matt Damon and the late Robin Williams. It is about a extremely intelligent person who is only a Janitor, and after he is jailed for assaulting someone he has to go andThis is honestly a brilliant movie, with two big-shot Hollywood actors, Matt Damon and the late Robin Williams. It is about a extremely intelligent person who is only a Janitor, and after he is jailed for assaulting someone he has to go and see a therapist. I'll let you watch the movie, but the rest of it is about him uncovering his potential making friends and learning valuable lessons. Highly Recommended.",
-      "review_date": "2017-12-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Accept Your Blessings.Good Will Hunting\n\nVan Sant's coaching is pretty much what you already know. His guidance isn't extraordinary but is undeniably productive. This vivacious film runs on nothing but the merit of the script. Matt DamonAccept Your Blessings.Good Will HuntingVan Sant's coaching is pretty much what you already know. His guidance isn't extraordinary but is undeniably productive. This vivacious film runs on nothing but the merit of the script. Matt Damon and Ben Affleck, the writers, aren't bringing anything new on the table, but it is the Disney of the dramatic movies. Incredibly confident in its ingredients, the film never stutters, not even for a frame. What's been so crowd pleasing about the script, is its ability to create a topsy-turvy world in a pragmatic one. Usually, the concept of \"power\" in the hand is often presented as misused by the characters and also always is craved by them.In here, Matt Damon who powerfully portrays a guy that accounts in, his photographic memory as a hindrance. His surrounding doesn't ask him to repel it, but his affection towards that very surrounding and the fear to go physically distant with it, makes him turn all this into a hobby. Damon's excruciating performance of an arrogant and blessed kid has a match that makes him rubble in a snap.And the answer is Robin Williams, that cloaks in a completely opposite persona to Damon in order to get in, in his game. If Damon likes to hurt, he keeps his wound open, if Damon oozes power and rage, he whispers warmth so gently that it makes your eyes teary within a blink. And despite of all the other tracks sprinkled amazingly in the film, Williams and Damon sharing a few laughs sitting in the room is the best asset of it, that Gus Van Sant is well aware of and encourages it like some big antic to stand tall and proud upon. Good Will Hunting is never a hunt, if anything it is the surrender in a long lasting lost game, that actually our host never cares for.",
-      "review_date": "2019-03-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nThis an exceptional movie revolving around the theme growth. We start out meeting Will Hunting as a cocky, rude and frankly dangerous 20 year old who has no idea what he is doing, and when he is convicted for a fight, we soon learn at court that he is an orphan who has had many abusive foster families, causing his behaviour. By the end of the movie, Will has ironically matured in age and in character as he gets a job he is finally worthy of, and whilst he originally takes it, he decides to leave it whilst he goes to \"see about a girl\". This therefore shows he has taken the even braver option, facing his demons of forever being alone. The growth theme takes the same journey with Will's therapist Sean, who we see move on from the passing of his wife. When Will first confronts Sean about his wife, Sean gets so angry that he strangles him, but when Will confronts him about it more angrily in a later session, Sean replies calmly. Sean is also shown to have confronted his inner termoil towards the professor. Sean's plotline concludes as he decides to go travelling (showing he does not need to put all his focus into his work after his wife's death), when he finds a letter from Will saying he has left to follow Skylar, foreshadowing that Will will continue to lead a successful and in-love life, similar to Sean's. Overall, the script and acting is really what carried this movie, with heartfelt performances from Williams and Damon, and incredibly detailed and articulate writing, helping the audience delve deeper into Damon's character.",
-      "review_date": "2018-02-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "While the plot is quite generic and predictable, where the film and script truly shines is in the little moments of hooliganism it captures. A light-hearted film about redemption and forgiveness that almost makes me hate calculus a littleWhile the plot is quite generic and predictable, where the film and script truly shines is in the little moments of hooliganism it captures. A light-hearted film about redemption and forgiveness that almost makes me hate calculus a little less. Almost.",
-      "review_date": "2018-06-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good Will Hunting keeps you engaged by its incredible performances from Robin Williams and Matt Damon, but it's conventional plot and unoriginal love scenes hinder the film from being anything special.",
-      "review_date": "2018-06-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "++++++++×××××÷÷÷÷÷××××======÷÷÷÷××××××++++÷÷÷÷÷÷××××÷++÷■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■",
-      "review_date": "2021-06-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Matt Damon i Ben Afflack stworzyli kapitalny scenariusz. Należy pamiętać również o roli Robina Williamsa za którą dostał oscara.",
-      "review_date": "2021-12-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The film has good intentions and ideas where they are best depicted in amazing scenes involving Matt Damon as the titular character and Robin Williams as professor Sean McGuire (in his best dramatic role). Their chemistry is very strong andThe film has good intentions and ideas where they are best depicted in amazing scenes involving Matt Damon as the titular character and Robin Williams as professor Sean McGuire (in his best dramatic role). Their chemistry is very strong and the ideas and values they talk about are both fascinating and engaging. I wish that this whole film's plot could've just solely been about these two, but disappointingly, the screenplay written by Matt Damon and Ben Affleck is too incompetent (it's a good thing they stuck to acting I suppose). In between the thought-provoking scenes involving Damon and Williams is a cliché-ridden story told with characters that are not engaging nor have enough backstory for us, the audience, to care about. All I need to say is that it is a romance plot with the titular character and a girl and there's a misunderstood fight between them and....ugh....yeah. It's that same old 'song and dance' we all achingly know. In fact, the effect the film had on me was a tug-of-war, pulling me back and forth between smart characters with smart dialogue and dumb characters with dumb dialogue. I'm teetering on the fence for \"Good Will Hunting\". I want to like this film, but I just can't stomach its amateur plot peppered with intelligent scenes. It (sadly) comes across as Hollywood trying to relate with the smart crowd and failing, which in turn, makes for a phony film.",
-      "review_date": "2021-08-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I've always found this movie a little bit overrated since it is an ordinary movie with an ordinary screenplay directed by a great director that here only manages to make his work without giving the passion he gave in his previous films.I've always found this movie a little bit overrated since it is an ordinary movie with an ordinary screenplay directed by a great director that here only manages to make his work without giving the passion he gave in his previous films. That's what I feel as a viewer.",
-      "review_date": "2021-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Damon and Williams do an excellent job I think it is the best acting job of Damon's career.  A movie that anyone of any age can draw some likenesses to the main characters.  Do yourself a favor watch this movie.",
-      "review_date": "2021-11-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of my favorite all time movies.  Relatable and likable characters, addresses common conflicts like: what is expected vs what you want, ambition vs safety, and avoiding real connections vs risking being hurt.",
-      "review_date": "2022-05-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Me fez refletir sobre o futuro, sobre como ser jovem significa um futuro onde tudo pode ser possível. Me fez lembrar de como impomos limites ao nosso potencial, por conta de medos em nosso passado. Me fez pensar em como muitas vezes vivemosMe fez refletir sobre o futuro, sobre como ser jovem significa um futuro onde tudo pode ser possível. Me fez lembrar de como impomos limites ao nosso potencial, por conta de medos em nosso passado. Me fez pensar em como muitas vezes vivemos sob a expectativa de outros, porque nós mesmos não temos sonhos e aspirações. Com tudo isso dito, ainda sobram atuações brilhantes e diálogos excelentes. Muito comovente.",
-      "review_date": "2023-01-12",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 112
+    "title": "Good Will Hunting",
+    "rating": 8.6,
+    "release_date": "1997-12-05",
+    "genre": [
+        "Drama"
+    ],
+    "summary": "Will Hunting (Matt Damon) is a brilliant mathematician, but also an angry young man. To avoid jail time, he agrees to work with Sean (Robin Williams) a therapist who comes from the same tough Boston neighborhood.",
+    "critic_reviews": [
+        "Intimate, heartfelt and wickedly funny, it's a movie whose impact lingers.",
+        "First and foremost, Good Will Hunting is a film riding young, exuberant energies.",
+        "The script's bare bones are familiar, yet the film also has fine acting, steady momentum, a sharp eye and a very warm heart.",
+        "Director Van Sant, who made the lyrical \"Mala Noche,\" \"Drugstore Cowboy\" and \"My Own Private Idaho,\" returns to his favorite hunting ground -- the subworlds of grimy, poetic lost boys -- and pulls us right in",
+        "Damon convincingly matches Williams recrimination for recrimination in this portrayal of mutual tough love, even with the latter giving what may be the best performance of his career.",
+        "Gus Van Sant, working from the tangy, well-written script, gets so much humor, grit and emotional truth out of this tale that the familiar formulas behind it simply fall away.",
+        "This beautifully realized tale is always engaging and often quite touching.",
+        "An ordinary story told well. Taken as a whole, there's little that's special about this tale -- it follows a traditional narrative path, leaves the audience with a warm, fuzzy feeling, and never really challenges or surprises us.",
+        "It's the individual moments, not the payoff, that make it so effective.",
+        "You'd never guess this just-off-center movie was directed by indie hero Gus Van Sant. Maybe, like Will, he's casual about his gifts and feels no need to trot them out.",
+        "Stuffed--indeed, overstuffed--with heart, soul, audacity, and blarney. You may not believe a minute of it, but you don't necessarily want to stop watching.",
+        "Both smart and shrewd -- it wraps that same comforting message in a thoroughly entertaining package.",
+        "This is good, solid work that never achieves either the art or poignance of Van Sant's earlier and more personal projects.",
+        "While the charismatic performances of Damon and Affleck make Good Will Hunting a difficult entertainment to resist, doing just that is not as hard as the film would like to think.",
+        "It isn't surprising that the film was originally based on actors' improvisations, since it creates a universe of tremendously enjoyable characters and allows them plenty of room to roam, but has only the most predictable notion of plot and nothing whatever to say beyond be-yourself pieties.",
+        "Part character study, part redemptive drama, and all cheesy heart, it's Boston-baked melodrama, a little too gooey at times, but still pretty delicious.",
+        "Matt Damon and Robin Williams give touching performances, but Gus Van Sant's filmmaking is surprisingly ordinary.",
+        "Van Sant's direction is surprisingly static and conventional, which doesn't help this earnest, underwhelming misfire.",
+        "Damon--as actor, not as co-screenwriter--is the best thing about Good Will Hunting.",
+        "The acting is top-notch and some scenes are authentically well-observed."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "This is a great movie.  I got out of it that it is a sham that without pushing that a life would be wasted and I can\"t stand wasted lives.  he wasn\"t even on drugs.  It also stresses the importance of getting your emotional stuff in order.This is a great movie.  I got out of it that it is a sham that without pushing that a life would be wasted and I can\"t stand wasted lives.  he wasn\"t even on drugs.  It also stresses the importance of getting your emotional stuff in order.  Untill that was in order, he had no faith in himself.  I guess your environment really really determines that.  Great movie.  you can learn so much from it.  That is why I am not into action movies because I can\"t learn much from them that I can\"t use in life if you know what I mean.",
+            "review_date": "2010-08-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting is a dumbfounded wonder of a movie. With exceptional performances from Robin Williams, Matt Damon, and wait... Ben Affleck (oh and he co-wrote the movie with Matt Damon).",
+            "review_date": "2011-12-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Brilliant script and great direction, Good Will Hunting is a must-see movie. Amazing performance by Matt Damon. The Greatest Math Janitor Film Of All Time",
+            "review_date": "2011-02-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting is a very endearing movie; you can really feel Will's internal struggle, and every emotional scene in the film feels authentic rather than sappy. Bravo.",
+            "review_date": "2014-01-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Brilliant performances and good message about self growth and realising your potential",
+            "review_date": "2018-06-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The magical feeling you get by watching \"Good Will Hunting\" will make you question the meaning to filmmaking and life as a whole. When Sean Maquire (Robin Williams) states \"you'll have bad times, but it'll always wake you up to the good stuffThe magical feeling you get by watching \"Good Will Hunting\" will make you question the meaning to filmmaking and life as a whole. When Sean Maquire (Robin Williams) states \"you'll have bad times, but it'll always wake you up to the good stuff you weren't paying attention to\" leads me to think of the negative moments in my life that inspired me to be a big-time movie fan. Good Will Hunting will express the deepest emotions your mind can possibly experiences by bringing you tears, laughter and even anger.\r Rating: 10/10\r A+ = 10\rA = 9\rA- = 8\rB+ = 7\rB = 6\rB- = 5\rC+ = 4\rC = 3\rC- = 2.5\rD+ = 2\rD = 1.5\rD- = 1\rF = 0",
+            "review_date": "2016-07-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "HOW is this movie only an 8.9? A brilliant movie. A work of art. A must-see!",
+            "review_date": "2018-01-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Marvelously original, and bolstered by a strong performance of Damon, and a equally strong, sarcastic, and cynical role by Robin Williams. Minnie Driver is interesting in her role, playing this half-sophisticated, and half-normal character,Marvelously original, and bolstered by a strong performance of Damon, and a equally strong, sarcastic, and cynical role by Robin Williams. Minnie Driver is interesting in her role, playing this half-sophisticated, and half-normal character, one who can go to Stanford and still make a joke about a blow-job. Ben Affleck and everyone else helps give the film it's stance. Love this movie",
+            "review_date": "2013-08-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting is such a brilliant movie and it's especially a masterpiece and a half. The movie's got such an amazing story and it's about this lad who's called Will Hunting (Matt Damon), who's this very intelligent genius at mathematicsGood Will Hunting is such a brilliant movie and it's especially a masterpiece and a half. The movie's got such an amazing story and it's about this lad who's called Will Hunting (Matt Damon), who's this very intelligent genius at mathematics and he's really good at solving all the difficult mathematical problems.However, when he starts to face an emotional crisis, he starts to see many different psychiatrist's until he finds the right one who can help him and his name is Dr Sean Maguireto (Robin Williams), who later helps Will recover.The movie's got some amazing performance's from all of the cast, especially from Will (Matt Damon) and Sean (Robin Williams), those two are honestly brilliant and the two of them bring their characters to life so well.The dialogue which is given and received from each character throughout this movie is all very strong dialogue. The dialogue which this movie's got never feels weak at any moment and every single bit of the dialogue comes out very strong.The movie's cinematographer Jean-Yves Esoffier does such a beautiful job on capturing each moment and each emotion from each character so beautifully, he honestly does it so well.Also, the chemistry between Matt Damon and Robin Williams throughout this movie is honestly great and it adds so much to their friendship in this movie and it works perfectly.The pacing in this movie is honestly great, each main moment which ends up happening throughout this movie is all well built up and it's so beautifully well done.The movie's even got some brilliant humour, which is well scattered throughout and all of the humour works very well in making me laugh in some sort of way.Finally, the movie's got some really great emotions and they're all well built up with the great pacing and it really adds to their characters as a whole throughout this movie.The movie's even got some brilliant character development with the main character Will, It's so beautifully well done and it works so perfectly due to the events, which end up happening to him.The love interest in this movie, which is between Will and Skylar (Minnie Driver) is so beautifully well done and the certain events, which end up happening throughout their relationship are all well built up.Overall, Good Will Hunting is such a brilliant movie with such an amazing story, amazing performances, very strong dialogue, beautiful cinematography, great chemistry, great pacing, brilliant humour, great emotions, brilliant character development and such a beautiful love interest.I'd honestly recommend Good Will Hunting, if you're wanting to watch a very beautiful Drama/Romance movie. It's honestly worth the watch, it's so amazing.",
+            "review_date": "2020-12-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "'Good Will Hunting' is a drama that earned $225 million, whereas the budget of the movie is $10 million. It was directed by Gus Van Sant in 1997.The movie is about a twenty-year-old genius and the influence of his difficult childhood on his'Good Will Hunting' is a drama that earned $225 million, whereas the budget of the movie is $10 million. It was directed by Gus Van Sant in 1997.The movie is about a twenty-year-old genius and the influence of his difficult childhood on his life.The high-level acting and well-written script attract moviegoers all over the world. The script was written by Ben Affleck and Matt Damon. 'Good Will Hunting' won two Academy Awards: the Academy Award for Best Original Screenplay and the Academy Award for Best Supporting Actor.Written by Anastasiia Shystovska",
+            "review_date": "2021-01-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is honestly one of the best films I have ever seen considering the year it was made great actors, amazing plot, truly incredible",
+            "review_date": "2021-02-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie. Learn to be more mature and get past the use of the 'f' word as you love to call it, otherwise go watching finding nemo.",
+            "review_date": "2005-11-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Incredibly well written and well executed piece of art. Feel good movie on the level of the story but also on the level that there are still true writers and films out there that don't need lame special effects and corny action to compensateIncredibly well written and well executed piece of art. Feel good movie on the level of the story but also on the level that there are still true writers and films out there that don't need lame special effects and corny action to compensate for the terrible script.",
+            "review_date": "2012-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was released befor I was born. I watched it as a child - didn't understand several things.\rWatch it with sixteen when university will be an important part of my life and see the movie much different.\rThe best moment for me wasThis movie was released befor I was born. I watched it as a child - didn't understand several things.\rWatch it with sixteen when university will be an important part of my life and see the movie much different.\rThe best moment for me was the baseball match when I was younger. Now it's the great monologue of Robin Wiliams.",
+            "review_date": "2014-10-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting is a modern day classic about finding one's place in the world, and conquering your fears. A touching, inspirational film with a great script, great performances (Matt Damon, Robin Williams, and Ben Affleck really shine) andGood Will Hunting is a modern day classic about finding one's place in the world, and conquering your fears. A touching, inspirational film with a great script, great performances (Matt Damon, Robin Williams, and Ben Affleck really shine) and good cinematography. Good Will Hunting is guaranteed to uplift anyone who watches it.",
+            "review_date": "2017-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting is an incredible film about growing up and believing in yourself. Its got a lot of great lessons and would be a great watch for adolescents. Great writing, great casting, great performances, and a large emotional impact allGood Will Hunting is an incredible film about growing up and believing in yourself. Its got a lot of great lessons and would be a great watch for adolescents. Great writing, great casting, great performances, and a large emotional impact all help the movie to be truly special.",
+            "review_date": "2016-07-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Solid performances all around, especially by Damon and Robin Williams. It's a touching and inspirational film that explores several issues in life.",
+            "review_date": "2006-03-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie! Heart breaking, romantic, and had some good humor in it. Truely a great movie about a brillient kid who gets in a little to much trouble. It inspired me to reach for my goals. Overall a great movie.",
+            "review_date": "2008-12-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting: Now I said I couldn\u2019t review this movie because I wouldn\u2019t be doing it justice but I\u2019m only doing it because of the brilliant Robin Williams, Rest In Peace to a actor we lost too soon. So yeah this movie is another one thatGood Will Hunting: Now I said I couldn\u2019t review this movie because I wouldn\u2019t be doing it justice but I\u2019m only doing it because of the brilliant Robin Williams, Rest In Peace to a actor we lost too soon. So yeah this movie is another one that everyone should see because the way Matt Damon and Ben Affleck this art is that they fake you out in the beginning making you think it\u2019a a comedy but then you get introduced to Robin\u2019s character and then the movie flips into a drama. So the main person I really want to bring light on is Robin because he is so amazing in this roll he goes from being a humble person to grabbing Matt\u2019s character by the neck and that\u2019s what makes him feel more real, he has emotions and with his perfect performance he brings weight to a certain type of character and I don\u2019t think I can ever unsee the way he plays him and I don\u2019t want to either. Overall watch it. Ranking: Masterpiece.",
+            "review_date": "2022-03-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Personally, my favorite movie of all time. I first time watched this movie back in 2009 on Netflix and I was captivated by Matt Damons character as well as Robbin Williams. This is a movie is littered with valuable life lessons and never actPersonally, my favorite movie of all time. I first time watched this movie back in 2009 on Netflix and I was captivated by Matt Damons character as well as Robbin Williams. This is a movie is littered with valuable life lessons and never act hot-headed or arrogant. It's a movie that teaches humility and I was so moved by it. The acting was phenomenal, great cinematography, and absolutely great writing. An absolute A+!",
+            "review_date": "2022-03-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fantastic film. Great, very reflective story and amazing direction by Gus Van Sant. Robin Williams, Matt Damon, Ben Affleck andStellen Skarsgard's performances are exceptional. All of the characters are relate-able, the story makes you thinkFantastic film. Great, very reflective story and amazing direction by Gus Van Sant. Robin Williams, Matt Damon, Ben Affleck andStellen Skarsgard's performances are exceptional. All of the characters are relate-able, the story makes you think about your own life in reflection.",
+            "review_date": "2020-02-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The only negative reviews I hear of this movies are by people who either cant stand violence or strong language (and one about it being to simple from the guy who watched inception and still has his mind blown). This movie is very real to me,The only negative reviews I hear of this movies are by people who either cant stand violence or strong language (and one about it being to simple from the guy who watched inception and still has his mind blown). This movie is very real to me, though the genius of the main is hyperbolized (in my opinion) It just goes to display the internal struggle of what to do with your natural gifts, and just how much negative influences during your childhood effect your growth. Plus the Jokes in this movie are HILARIOUS! Even if you didnt like this movie you cannot tell me you didnt like the apples joke, or the old couple.",
+            "review_date": "2015-07-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting is one of the greatest American Movies of all time. It is both Robin Williams and Matt Damon's best performances, and Robin Williams won the Academy Award for Best Supporting Actor. Good Will Hunting is both wise and deep.Good Will Hunting is one of the greatest American Movies of all time. It is both Robin Williams and Matt Damon's best performances, and Robin Williams won the Academy Award for Best Supporting Actor. Good Will Hunting is both wise and deep. It really makes you stop and look at yourself and life.",
+            "review_date": "2012-03-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is nothing but a masterpiece. The characters all have so much depth, and the actors all pull them off beautifully. The writing was genius, especially for Damon and Affleck having been so young at the time. The only downside now isThis movie is nothing but a masterpiece. The characters all have so much depth, and the actors all pull them off beautifully. The writing was genius, especially for Damon and Affleck having been so young at the time. The only downside now is Harvey Weinstein's involvement, but there's no changing that now.",
+            "review_date": "2019-10-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nWill: [during a therapy session, after his job interview with the NSA] Why shouldn't I work for the N.S.A.? That's a tough one, but I'll take a shot. Say I'm working at N.S.A. Somebody puts a code on my desk, something nobody else can break. Maybe I take a shot at it and maybe I break it. And I'm real happy with myself, 'cause I did my job well. But maybe that code was the location of some rebel army in North Africa or the Middle East. Once they have that location, they bomb the village where the rebels were hiding and fifteen hundred people I never met, never had no problem with, get killed. Now the politicians are sayin', \"Oh, send in the Marines to secure the area\" 'cause they don't give a **** It won't be their kid over there, gettin' shot. Just like it wasn't them when their number got called, 'cause they were pullin' a tour in the National Guard. It'll be some kid from Southie takin' shrapnel in the ass. And he comes back to find that the plant he used to work at got exported to the country he just got back from. And the guy who put the shrapnel in his ass got his old job, 'cause he'll work for fifteen cents a day and no bathroom breaks. Meanwhile, he realizes the only reason he was over there in the first place was so we could install a government that would sell us oil at a good price. And, of course, the oil companies used the skirmish over there to scare up domestic oil prices. A cute little ancillary benefit for them, but it ain't helping my buddy at two-fifty a gallon. And they're takin' their sweet time bringin' the oil back, of course, and maybe even took the liberty of hiring an alcoholic skipper who likes to drink martinis and **** play slalom with the icebergs, and it ain't too long 'til he hits one, spills the oil and kills all the sea life in the North Atlantic. So now my buddy's out of work and he can't afford to drive, so he's got to walk to the **** job interviews, which sucks 'cause the shrapnel in his ass is givin' him chronic hemorrhoids. And meanwhile he's starvin', 'cause every time he tries to get a bite to eat, the only blue plate special they're servin' is North Atlantic scrod with Quaker State. So what did I think? I'm holdin' out for somethin' better. I figure **** it, while I'm at it why not just shoot my buddy, take his job, give it to his sworn enemy, hike up gas prices, bomb a village, club a baby seal, hit the hash pipe and join the National Guard? I could be elected president.",
+            "review_date": "2021-05-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one of my all time favorite movies. The grit and grime of the kind of life that most wish to look away from. Matt Damon was truly inspiring in his performance and insight. I wish that more movies were as real as this one (with the This is one of my all time favorite movies. The grit and grime of the kind of life that most wish to look away from. Matt Damon was truly inspiring in his performance and insight. I wish that more movies were as real as this one (with the exception of 'Will' being a genius).",
+            "review_date": "2007-07-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very emotional movie. Great performance by Matt Damon and Robin Williams, pretty complex characters with their own stories. One of the movies which makes you look at life from a different angle.",
+            "review_date": "2013-09-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "i dont like robin williams but his performances here is worth commending. he played his character perfectly about man in pain very naturally. the movie is about will (matt damon), facing his trials and tribulations in his life despite being ai dont like robin williams but his performances here is worth commending. he played his character perfectly about man in pain very naturally. the movie is about will (matt damon), facing his trials and tribulations in his life despite being a genius. good acting from the cast too.",
+            "review_date": "2012-03-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Damon, Affleck, Skarsgard, and Williams all give fantastic performances, but that isn't what makes this film special. What makes this a classic is the writing by Matt Damon and Ben Affleck. They make the characters seem real, and makes theDamon, Affleck, Skarsgard, and Williams all give fantastic performances, but that isn't what makes this film special. What makes this a classic is the writing by Matt Damon and Ben Affleck. They make the characters seem real, and makes the viewer invested in them.",
+            "review_date": "2017-09-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It comes quite clear that the critics that gave the movie a negative review did not understand the excellence of the acting. Especially from Robin Williams, has he ver made a movie like this? No. The intelligence of this movie is outstanding,It comes quite clear that the critics that gave the movie a negative review did not understand the excellence of the acting. Especially from Robin Williams, has he ver made a movie like this? No. The intelligence of this movie is outstanding, no fancy effects or crazy dramatic turns, just human life at it's peak. A beautiful movie, don't over analyze it, but do recognize how it makes you look deep into life.",
+            "review_date": "2011-07-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The premise and Robin Williams are great, but the rest is utterly a  disappointment.http://themoviefreakblog.com/2012/06/02/review-good-will-hunting/",
+            "review_date": "2012-06-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What it is to be enveloped by ignorance for your own self, not knowing what you want and what you do with your life? Even people with talents are not insured against this possible daily burden. The greatest pain is to live, going downstream.What it is to be enveloped by ignorance for your own self, not knowing what you want and what you do with your life? Even people with talents are not insured against this possible daily burden. The greatest pain is to live, going downstream. But hugging life, we should not lose the much needed faith. There is something good there, in the future, hiding and waiting. Waiting for us, who, in the meantime, are on the spiral of time. Getting closer.A movie about the need for self-knowledge. About the turns of life. About love.",
+            "review_date": "2018-04-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's over-long for a film of its nature, but despite the length, the film does not lag. In fact, it is beautifully filmed, exceptionally acted, brilliantly written, and---in the end---extremely heartwarming. It is a triumph.",
+            "review_date": "2016-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I saw this movie for the first time last night and I'm sad to say it has not held up well. The audience is meant to believe that Matt Damon's character is smart because he writes mathematic gibberish on a black board conveniently placed in aI saw this movie for the first time last night and I'm sad to say it has not held up well. The audience is meant to believe that Matt Damon's character is smart because he writes mathematic gibberish on a black board conveniently placed in a walk way for a janitor to draw on, I was never convinced he was the genius the movie claimed him to be. The movie has good acting if you consider characters yelling and swearing at each other for 3 quarters of the movie for little reason and for nothing you will care about. In the end I never cared about the films characters nor did I find them relatable. Pass",
+            "review_date": "2011-10-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What a bunch of pseudo-intellectual claptrap. This is a movie written from the perspective of a college undergrad who thinks he's impossibly clever, but is really just a big dummy full of stupid ideas (e.g. the Howard Zinn and Chomsky What a bunch of pseudo-intellectual claptrap. This is a movie written from the perspective of a college undergrad who thinks he's impossibly clever, but is really just a big dummy full of stupid ideas (e.g. the Howard Zinn and Chomsky references -- are there two bigger moral imbeciles on the planet earth than those two twits?). Matt Damon's character is a witless jackass. Who could possibly care about this goon? The rest is so absurd that it's laughable. The film positively groans under the weight of its pretentions. There are few things worse than patently ignorant people showing off their \"intelligence,\" such as it is. This is the sort of film that does serve a purpose, however. If anyone likes it, you know right away they really have no clue about what makes a good film. And they probably really enjoy congratulating themselves on how smart they are.",
+            "review_date": "2009-01-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I waited a whole decade to finally see this movie. It was horrible. Why is it called \"Good Will Hunting?\" There is a scene where Will holds a man down and beats him until there is blood coming from not just the victims nose, but his mouth as I waited a whole decade to finally see this movie. It was horrible. Why is it called \"Good Will Hunting?\" There is a scene where Will holds a man down and beats him until there is blood coming from not just the victims nose, but his mouth as well. If I were to do that to someone, would I be considered \"good\"? I sure hope not.",
+            "review_date": "2006-08-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting is pretty good. The story is predictable but what makes it enjoyable are the characters, the acting, and the relationships (particularly Will\u2019s relationship with Williams\u2019 character as well as his relationship with BenGood Will Hunting is pretty good. The story is predictable but what makes it enjoyable are the characters, the acting, and the relationships (particularly Will\u2019s relationship with Williams\u2019 character as well as his relationship with Ben Affleck\u2019s character). It\u2019s a nice feel good movie. My only issues come from the last third/fourth of the movie where we have to sit through a lot of arguing as well as moping and doping even though its obvious that the film will end on a happy note and what that note will be specifically. Since this is a Robin Williams movie where he plays a teacher that inspires a pupil, I feel its fair to compare it to Dead Poet\u2019s Society, which is a better film. I found the arc of the students\u2019 in that film to be far more interesting and I like how the happy ending comes at the cost of some tragedy. Additionally, that film was not as predictable. With all that said though I still enjoy Good Will Hunting it\u2019s a heart-warming film with a good message that pulls at your heart strings. It makes you laugh and cry as well as remember a time when cell phones did not exist and the Dunkin Donuts logo looked different. It is clich\u00e9 and predictable but I\u2019m willing to overlook it because the characters are likeable and the relationships are fantastic especially in the first half (second half/third is where the clich\u00e9s fall in). This is definitely a movie that everyone should see at least once in their life.",
+            "review_date": "2014-10-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Alright, I am going to go straight ahead and say that in no way do I understand how people manage to like this movie.\r Absolutely everything in this film is outright terrible: the premise of two grown men going out of their way to help someAlright, I am going to go straight ahead and say that in no way do I understand how people manage to like this movie.\r Absolutely everything in this film is outright terrible: the premise of two grown men going out of their way to help some guy \"because he's a genius\", the clich\u00e9 boring love interest and friend subplots, young Damon showing his \"intellect\" by citing old books with a super-serious face, Affleck picking up girls (extra cringy!), Williams remembering his wife's farts (literally), Minnie Driver's story about geriatric blowjobs, Casey Affleck jerking off (not shown explicitly, thankfully), the battered \"do what you really like, don't miss your true love\" morale... The list could go on forever, or for about two hours, to be exact.\r The only bright spot is Robin Williams (when he's not remembering his wife's farts, obviously), his performance is solid, his smile heart- warming, his wrists very hairy.\r What I also don't get is why people have doubts whether Affleck and Damon actually wrote this piece of trash. I mean come on, saying that someone isn't capable of even coming up with something as bad as Will Hunting is probably the worst insult there is.",
+            "review_date": "2016-07-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I recently had the opportunity to see Good Will Hunting for the second time. I had not seen it since its video release in 1997. It's funny how 15 years can change your opinion about a movie. I was lukewarm to the film back then, but now  15I recently had the opportunity to see Good Will Hunting for the second time. I had not seen it since its video release in 1997. It's funny how 15 years can change your opinion about a movie. I was lukewarm to the film back then, but now  15 years wiser  I see it in a new light.\r I had initially dismissed this film as a two hour study of a bunch of unlikeable and unbelievable people. But now it is evident that Matt Damon deserved his Oscar nomination for his portrayal of the title character, the good Will Hunting.\r Damon does a yeoman's job making us believe in someone who is not only a math genius with a photographic memory, but a barroom-brawler, cynic, janitor, lover, and all-around down-to-earth working-class Joe. Damon and his compadre Ben Affleck also deserved their Oscar screenplay win for creating a character more fantastic than any from the mind of J.R.R. Tolkien.\r Robin Williams also deserved his Oscar win for having us buy his interpretation of an all-knowing beard-sporting eye-glinting joke-cracking-but-no-nonsense psychologist.\r Affleck, director Gus Van Sant, and the rest of the cast merit mention as well for trying to get us to like and accept all the unappealing and implausible characters who populate this fantasy world.\r All this leads me to believe that I should revisit films like Showgirls, The River Wild, Divine Secrets of the Ya-Ya Sisterhood, and The Greek Tycoon. Maybe I was a little too harsh in my initial assessment of these as well.",
+            "review_date": "2013-04-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie itself is OK, and  some of it is really interesting. But, two Afflecks in the same movie? I mean, whose idea was this? Was it suposed to be funny?",
+            "review_date": "2015-03-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting is one of the greatest American Movies of all time. It is both Robin Williams and Matt Damon's best performances, and Robin Williams won the Academy Award for Best Supporting Actor. Good Will Hunting is both wise and deep.Good Will Hunting is one of the greatest American Movies of all time. It is both Robin Williams and Matt Damon's best performances, and Robin Williams won the Academy Award for Best Supporting Actor. Good Will Hunting is both wise and deep. It really makes you stop and look at yourself and life.",
+            "review_date": "2016-04-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is one of the best movies I have seen. After seeing it a second time and seeing some of the unaccidental coincidences by the producer, the movie shows many different angles. This is one of the cleverest movies I have seen, very This movie is one of the best movies I have seen. After seeing it a second time and seeing some of the unaccidental coincidences by the producer, the movie shows many different angles. This is one of the cleverest movies I have seen, very intriguing.",
+            "review_date": "2005-12-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing movie, great acting, perfect screenplay. And I think I speak for a lot of people when I say, I think it's time Damon and Affleck hooked up again on a screenplay.",
+            "review_date": "2005-12-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A great movie. Matt damon did way more on the screenplay than Ben Affleck. It's clear they realized who was more talented some time ago.",
+            "review_date": "2007-01-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great performances & dialogue with Robin Williams in fine form as psychologist Sean Maguire.I still have a strong dislike for Ben Affleck though he did co-write this so fair play to him.Also nice soundtrack with lots of the late ElliottGreat performances & dialogue with Robin Williams in fine form as psychologist Sean Maguire.I still have a strong dislike for Ben Affleck though he did co-write this so fair play to him.Also nice soundtrack with lots of the late Elliott Smith featuring.",
+            "review_date": "2010-09-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Of the works of art I have experienced, this has struck a deep impression within me and remains to be my favorite film of all time.  To begin with, the story is not only a wonderful concept but also devoid of idealistic clich\u00c3\u00a9.Of the works of art I have experienced, this has struck a deep impression within me and remains to be my favorite film of all time.  To begin with, the story is not only a wonderful concept but also devoid of idealistic clich\u00c3\u00a9.  It was the kind of story that carried itself through the journey; situations fabricated to nudge the plot along were very sparse.  The entire movie flowed out smoothly, avoiding the impression of multiple disjointed scenes, instead following a cohesive line of thought, and yet integrated within was a well-paced emotional rampage.  It balanced on the edge of fact and fiction, using \u00e2",
+            "review_date": "2010-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The complexity of the characters in Good Will Hunting is astounding with it taking multiple viewing to truly understand the depth of character (even for some of its more minor characters). Good Will Hunting tells the story of (believe it orThe complexity of the characters in Good Will Hunting is astounding with it taking multiple viewing to truly understand the depth of character (even for some of its more minor characters). Good Will Hunting tells the story of (believe it or not) Will Hunting, An underachieving genius who works as a janitor at MIT (Massachusetts Institute of Technology to us non Americans). When one of the professors (the always impressive Stellan Skaarsgard) notices him he suddenly finds his way out of his life but at the same time is sabotaging himself due to the problems of his past. The movie has a strong emotional richness as the film covers everything from love and family to abuse and heartbreak. The writing (by Matt Damon and Ben Affleck) is brilliant as it has the ability to be mundane and colloquial only to turn suddenly to something eloquent and articulate. The film has a tendency to give you speeches instead of conversations but they are so well written you cannot help but listen in awe as these characters wax lyrical. The cast is sensational with Matt Damon being a solid lead as Will. Stellan Skaarsgard portrayal helps us empathise with his character despite the fact he is incredibly arrogant. Even Ben Affleck whose early career has been peppered with terrible performances gives everything as Will\u00e2",
+            "review_date": "2012-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This was superb. A best cast ensemble and a very planned out story from Matt Damon and Ben Affleck has made this film more favorable to the fans of Matt Damon and his films.",
+            "review_date": "2011-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A film that can easily be looked up to, Good Will Hunting is an underdog story in a sense, but its the battle within that is the most significant part of this fantastic film.\rMatt Damon delivers a spellbinding performance as Will Hunting, aA film that can easily be looked up to, Good Will Hunting is an underdog story in a sense, but its the battle within that is the most significant part of this fantastic film.\rMatt Damon delivers a spellbinding performance as Will Hunting, a working class kid from Boston, and also a janitor, who, in his spare time of course, is a mathematical genius. The problem with this is that Will seems very reluctant to be noticed for his remarkable talents, but famed lecturer Gerald Lambeau (Stellan Skarsg\u00e5rd) takes it upon himself to mentor the young but flawed genius, who has a knack for getting into countless fights and all other forms of bad behaviour with his best pals Chuckie (Ben Affleck), Morgan (Casey Affleck) and Billy (Cole Hauser).\rAs Lambeau attempts to put Will through therapy, Will makes a mockery of the process, so Lambeau decides to send him to a longtime friend, Dr. Sean Maguire (Robin Williams), a roommate Lambeau's younger years. Sean immediately notices the similarities that he and Will share in regards to family life and past problems.\rWritten by Damon and Affleck, Good Will Hunting tells a trial and error story of how our pasts most definitely matter and make a difference to how our futures may take shape. Will is frightened to let anybody into his life, even giving up his remarkable abilities just so he can remain with people he trusts, and not get hurt again the way is troubled and horrific past show.\rBut the film is also cleverly funny, with the chemistry between Damon and Williams electrifying, bouncing off each other in fast-paced successions of dialogue and humour.\rRobin Williams gives a magical and emotional performance as Will's eventual therapist, he holds troubles quite dear to himself that he could never speak about until this kid came along, something that certainly taught both characters a lesson.\rThe film does play out in a very predictable and often feel-good manner, but this isn't a bad thing, Will's character needed to develop and evolve to the new people in his life, including a girl (Minnie Driver) a student who falls for Will. With an Oscar for Damon and Affleck for their screenplay and a well-deserved Oscar for best supporting actor in Robin Williams, Good Will Hunting has all the ingredients of a well crafted, gifted and defining piece of cinema that still goes down as one of the best films of all time.",
+            "review_date": "2013-04-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Although the film does have a very depressing back story and the film suffers from awkward mood changes, Good Will Hunting is entertaining, emotionally rich and benefits from powerful performances from Williams, Damon, and Driver. I give thisAlthough the film does have a very depressing back story and the film suffers from awkward mood changes, Good Will Hunting is entertaining, emotionally rich and benefits from powerful performances from Williams, Damon, and Driver. I give this movie 71%.",
+            "review_date": "2012-01-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Undeniably genius. This movie is true to its core, lacking pretense. It brings you to an emotional roller coaster too. Thanks to the brilliant and phenomenal actors, it pulled off a great storyline. It's been a while since I get speechless byUndeniably genius. This movie is true to its core, lacking pretense. It brings you to an emotional roller coaster too. Thanks to the brilliant and phenomenal actors, it pulled off a great storyline. It's been a while since I get speechless by good movies, but this movie is just one of them. It's mind blowingly good, not to mention a good moral lesson to be learnt.",
+            "review_date": "2013-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolutely marvelous. Matt Damon and his cast of friends, Robin Williams, and every other actor turned in outstanding performances. At many points, you're not entirely whether you're rooting for or against the kid seemingly determined to ruinAbsolutely marvelous. Matt Damon and his cast of friends, Robin Williams, and every other actor turned in outstanding performances. At many points, you're not entirely whether you're rooting for or against the kid seemingly determined to ruin his life. However, the movie had numerous good messages, such as pushing through your hardships to reach your potential. Fantastic directing and writing here, just a feel good kind of film.",
+            "review_date": "2013-05-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For what it is, Good Will Hunting isn't bad. Robin Williams is okay, the message is inoffensive, it serves fine in that respect. But by no means is it special. Even if it was relatively original for its time, this is just another heftyFor what it is, Good Will Hunting isn't bad. Robin Williams is okay, the message is inoffensive, it serves fine in that respect. But by no means is it special. Even if it was relatively original for its time, this is just another hefty serving of Robin Williams ego-porn. \"He's a genius\". \"This is unorthodox\". The whole stupid slew of quirky-but-good nonsense audiences eat up to make them feel like they've achieved something. The protagonist is bland, annoyingly shallow and eerily 2d. He exists purely for the audience to relate to so when he is told he is oh-so-bloody-great the audience will feel complimented, proud, and therefore enjoy it. Anyone looking for a story however will find bland, unoriginal pandering and little else. It may have been one of the first films to do this trope, but today with all the times we see this bland predictable little sketch it simply can't be justified to watch unless you have some deep personal connection with Robocop. I mean Matt Damon. I mean WIll. Bland, competently well done, mostly well-acted but in the end utterly forgettable and lacking substance.\r And don't go all artsy on me, that symbolism they toss in is clumsy and obvious as it gets. I was told \"You'll like this. It's a smart movie.\" It isn't. It's ego-porn. Make no mistake.",
+            "review_date": "2015-03-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"It's not your fault\" scene was definitely the saddest scene in this movie. I liked also how this movie shows a chemistry in a friendship between Matt Damon and Ben Affleck as they make you believe that they are not acting at all. Also as\"It's not your fault\" scene was definitely the saddest scene in this movie. I liked also how this movie shows a chemistry in a friendship between Matt Damon and Ben Affleck as they make you believe that they are not acting at all. Also as someone who also has trouble to find myself in something to be happy, I can relate to this movie so much. Definitely one of the rare movies that had me cry so much.",
+            "review_date": "2021-09-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Ample with truly heartwarming themes and chock full of some supremely well-written dialogue, \"Good Will Hunting\" is a modest, yet undeniably faultless drama.",
+            "review_date": "2012-11-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Everything a drama should be.  Well written, charming characters, dialogue that ranges from impressively authentic to strikingly smart, and a very satisfying ending all add up to one of the best films I've seen in a long time.  The screenplayEverything a drama should be.  Well written, charming characters, dialogue that ranges from impressively authentic to strikingly smart, and a very satisfying ending all add up to one of the best films I've seen in a long time.  The screenplay is smart, the direction is sensitive, and the performances are all very good.  I really liked how natural all of the relationships between the characters seemed.  They gave the film a very easygoing and comfortable atmosphere.  I can't stress how important that is for this genre.  Needless to say, I think every film lover needs to see this movie.",
+            "review_date": "2014-01-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "one of the best writing i have ever watched in a movie  sure Ben affleck acting skills wasn't in the place but some how that worked  he look like a shy guy who take care of his friends  i loved Casey affleck performance  they gave him anone of the best writing i have ever watched in a movie  sure Ben affleck acting skills wasn't in the place but some how that worked  he look like a shy guy who take care of his friends  i loved Casey affleck performance  they gave him an awesome character and since then I'm into his movies  overall great movie and astonishing performance by robin Williams ",
+            "review_date": "2013-03-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I can't believe what I had been missing! This movie is a great and powerful film. The performances are spot on, especially Matt Damon and Robin Williams. And the chemistry between those two were dynamite! I completely understand why this isI can't believe what I had been missing! This movie is a great and powerful film. The performances are spot on, especially Matt Damon and Robin Williams. And the chemistry between those two were dynamite! I completely understand why this is Williams and Damon's best film. The screenplay is refreshing the characters have you put on an emotional journey through oneself. Easily now one of my all-time favorites! I give this masterpiece an A+!",
+            "review_date": "2014-08-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thoroughly enjoy this movie along with its characters. Robin Williams steps into a more serious role where he delivers a very strong performance. I mloved watching the interactions between many of the characters, especially Damon's and William's.",
+            "review_date": "2013-08-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Touching and relfexive. A few films talks about wasted talent. One of the best and emotional Matt Damon's acting.",
+            "review_date": "2018-10-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Was good but also really boring at times. Fell asleep twice in the movie. Matt Damon and Robin William's performances were excellent though. 7/10 (good)",
+            "review_date": "2014-09-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The underrated and smart Gus Van Sant's Good Will Hunting has one of the best improvisational sequences that i have seen. Robin Williams gives one of the smartest performances of his career and Matt Damon is so good at living with theThe underrated and smart Gus Van Sant's Good Will Hunting has one of the best improvisational sequences that i have seen. Robin Williams gives one of the smartest performances of his career and Matt Damon is so good at living with the character of Will, great perfomances from Affleck, Driver and the supporting cast.",
+            "review_date": "2014-06-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A definitive classic without a doubt. With a a powerful screenplay, outstanding acting performances and a touching story, Good Will Hunting is a powerful movie that anyone should enjoy.",
+            "review_date": "2017-09-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Let's be honest. Everybody at one point in hist life wants to be that smart boy in the bar who teaches a lesson to that **** prick who is picking on his friend.",
+            "review_date": "2015-12-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best movies I've ever seen. I applaud Matt Damon and Ben Affleck for being able to create a true masterpiece at such a young age. This movie made both these boys look like veterans. I couldn't take my eyes off the screen throughoutOne of the best movies I've ever seen. I applaud Matt Damon and Ben Affleck for being able to create a true masterpiece at such a young age. This movie made both these boys look like veterans. I couldn't take my eyes off the screen throughout this movie. Robin Williams plays his best role in his career as Sean McGuire and Damon is no slouch either. I also enjoyed Affleck's role despite settling for a smaller part. Good Will Hunting is a must watch for anyone.",
+            "review_date": "2014-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Nothing less than a masterpiece and written by Matt Damon and Ben Affleck at such young ages. The writing is brilliantly heartfelt and funny, the acting is brilliant and the whole feeling of the film is beautiful. Honestly my favourite film ever.",
+            "review_date": "2016-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film taught me to never give up when in hard times and that if I go threw abuse, is not my fault. One of my favorite YouTubers, MrRepzion, loved this film because it taught him the exact same moral. I wish Robin Williams could see thisThis film taught me to never give up when in hard times and that if I go threw abuse, is not my fault. One of my favorite YouTubers, MrRepzion, loved this film because it taught him the exact same moral. I wish Robin Williams could see this review so he could know what a great job he did",
+            "review_date": "2015-07-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Unoriginal and slow. It's easy to tell how the film is going to end and how events are going to play out within the first 10 minutes of watching. The film  unrealistically portrays mathematics as being something easy to grasp for someone withUnoriginal and slow. It's easy to tell how the film is going to end and how events are going to play out within the first 10 minutes of watching. The film  unrealistically portrays mathematics as being something easy to grasp for someone with such a high intellect. No \"super genius\" can solve complex math problems the way Will does. Matt Damon's and Robin William's performances are exceptional.",
+            "review_date": "2015-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Probably one of the greatest movies ever made. Brilliant acting, heartfelt story, emotional ending, and a truly perfect script make this movie a masterful journey!",
+            "review_date": "2015-07-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't think I have been this moved by a movie in a while. Good Will Hunting is an incredible movie and if I had to say what I think is Gus Van Sant's best film, this would be it. It is a slow-burner, but I think this was purposefully doneI don't think I have been this moved by a movie in a while. Good Will Hunting is an incredible movie and if I had to say what I think is Gus Van Sant's best film, this would be it. It is a slow-burner, but I think this was purposefully done and it added to the film's poignancy and psychological aspect.Good Will Hunting is a beautifully filmed movie with striking scenery, and it is directed wonderfully by Van Sant. The music is never obtrusive but never too low-key either, while the story is interesting and compelling and the script intelligently written.The acting is one of the film's best assets, as well as its compellingly real characters. Robin Williams is superb in one of his best \"drama\" roles, while Ben Affleck has never been better and Matt Damon gives another fine performance to match his performance in The Talented Mr Ripley. Minnie Driver is also quite touching and believable.All in all, an incredible movie. 10/10 Bethany Cox",
+            "review_date": "2022-03-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a really good movie. The plot and the characters are really interesting and make for a great watch. Matt Damon and Ben Affleck do a great job.",
+            "review_date": "2015-11-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A compelling, funny, and ultimately moving examination of life's priorities, with mesmerising performances from Damon, Affleck and the late Robin Williams.",
+            "review_date": "2016-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting is a charming movie driven by a brilliant script (co-written by Ben Affleck and Matt Damon) and stellar performances, in particular from Damon (the best of his career in my opinion) and the late Robin Williams.",
+            "review_date": "2021-05-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Sharp and heart touching story of a genius in development, mixed in character with an angry man. Pay attention of rookies Matt Damon and Ben Affleck; Robin Williams is also remarkable in the role of psychologist.",
+            "review_date": "2017-12-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting is a wonderful drama about the talented young mathematician Will. A superb cast, surprisingly it's one of Matt Damon's best acting works. And of course, a wonderful game by Robin Williams. A Good Will Hunting drama thatGood Will Hunting is a wonderful drama about the talented young mathematician Will. A superb cast, surprisingly it's one of Matt Damon's best acting works. And of course, a wonderful game by Robin Williams. A Good Will Hunting drama that exists and will exist beyond time, it will always be relevant. Good Will Hunting is a prime example of demonstrating people's self-reflection. Throughout the film, 2 societies are opposed: the intelligentsia societies led by Gerald Lambeau and the societies of ordinary friends with Chuck. The finale of Good Will Hunting is excellent, Will chose love after all, which only happens 1 time",
+            "review_date": "2022-09-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is honestly a brilliant movie, with two big-shot Hollywood actors, Matt Damon and the late Robin Williams. It is about a extremely intelligent person who is only a Janitor, and after he is jailed for assaulting someone he has to go andThis is honestly a brilliant movie, with two big-shot Hollywood actors, Matt Damon and the late Robin Williams. It is about a extremely intelligent person who is only a Janitor, and after he is jailed for assaulting someone he has to go and see a therapist. I'll let you watch the movie, but the rest of it is about him uncovering his potential making friends and learning valuable lessons. Highly Recommended.",
+            "review_date": "2017-12-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Accept Your Blessings.Good Will Hunting\n\nVan Sant's coaching is pretty much what you already know. His guidance isn't extraordinary but is undeniably productive. This vivacious film runs on nothing but the merit of the script. Matt DamonAccept Your Blessings.Good Will HuntingVan Sant's coaching is pretty much what you already know. His guidance isn't extraordinary but is undeniably productive. This vivacious film runs on nothing but the merit of the script. Matt Damon and Ben Affleck, the writers, aren't bringing anything new on the table, but it is the Disney of the dramatic movies. Incredibly confident in its ingredients, the film never stutters, not even for a frame. What's been so crowd pleasing about the script, is its ability to create a topsy-turvy world in a pragmatic one. Usually, the concept of \"power\" in the hand is often presented as misused by the characters and also always is craved by them.In here, Matt Damon who powerfully portrays a guy that accounts in, his photographic memory as a hindrance. His surrounding doesn't ask him to repel it, but his affection towards that very surrounding and the fear to go physically distant with it, makes him turn all this into a hobby. Damon's excruciating performance of an arrogant and blessed kid has a match that makes him rubble in a snap.And the answer is Robin Williams, that cloaks in a completely opposite persona to Damon in order to get in, in his game. If Damon likes to hurt, he keeps his wound open, if Damon oozes power and rage, he whispers warmth so gently that it makes your eyes teary within a blink. And despite of all the other tracks sprinkled amazingly in the film, Williams and Damon sharing a few laughs sitting in the room is the best asset of it, that Gus Van Sant is well aware of and encourages it like some big antic to stand tall and proud upon. Good Will Hunting is never a hunt, if anything it is the surrender in a long lasting lost game, that actually our host never cares for.",
+            "review_date": "2019-03-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis an exceptional movie revolving around the theme growth. We start out meeting Will Hunting as a cocky, rude and frankly dangerous 20 year old who has no idea what he is doing, and when he is convicted for a fight, we soon learn at court that he is an orphan who has had many abusive foster families, causing his behaviour. By the end of the movie, Will has ironically matured in age and in character as he gets a job he is finally worthy of, and whilst he originally takes it, he decides to leave it whilst he goes to \"see about a girl\". This therefore shows he has taken the even braver option, facing his demons of forever being alone. The growth theme takes the same journey with Will's therapist Sean, who we see move on from the passing of his wife. When Will first confronts Sean about his wife, Sean gets so angry that he strangles him, but when Will confronts him about it more angrily in a later session, Sean replies calmly. Sean is also shown to have confronted his inner termoil towards the professor. Sean's plotline concludes as he decides to go travelling (showing he does not need to put all his focus into his work after his wife's death), when he finds a letter from Will saying he has left to follow Skylar, foreshadowing that Will will continue to lead a successful and in-love life, similar to Sean's. Overall, the script and acting is really what carried this movie, with heartfelt performances from Williams and Damon, and incredibly detailed and articulate writing, helping the audience delve deeper into Damon's character.",
+            "review_date": "2018-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While the plot is quite generic and predictable, where the film and script truly shines is in the little moments of hooliganism it captures. A light-hearted film about redemption and forgiveness that almost makes me hate calculus a littleWhile the plot is quite generic and predictable, where the film and script truly shines is in the little moments of hooliganism it captures. A light-hearted film about redemption and forgiveness that almost makes me hate calculus a little less. Almost.",
+            "review_date": "2018-06-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good Will Hunting keeps you engaged by its incredible performances from Robin Williams and Matt Damon, but it's conventional plot and unoriginal love scenes hinder the film from being anything special.",
+            "review_date": "2018-06-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The film has good intentions and ideas where they are best depicted in amazing scenes involving Matt Damon as the titular character and Robin Williams as professor Sean McGuire (in his best dramatic role). Their chemistry is very strong andThe film has good intentions and ideas where they are best depicted in amazing scenes involving Matt Damon as the titular character and Robin Williams as professor Sean McGuire (in his best dramatic role). Their chemistry is very strong and the ideas and values they talk about are both fascinating and engaging. I wish that this whole film's plot could've just solely been about these two, but disappointingly, the screenplay written by Matt Damon and Ben Affleck is too incompetent (it's a good thing they stuck to acting I suppose). In between the thought-provoking scenes involving Damon and Williams is a clich\u00e9-ridden story told with characters that are not engaging nor have enough backstory for us, the audience, to care about. All I need to say is that it is a romance plot with the titular character and a girl and there's a misunderstood fight between them and....ugh....yeah. It's that same old 'song and dance' we all achingly know. In fact, the effect the film had on me was a tug-of-war, pulling me back and forth between smart characters with smart dialogue and dumb characters with dumb dialogue. I'm teetering on the fence for \"Good Will Hunting\". I want to like this film, but I just can't stomach its amateur plot peppered with intelligent scenes. It (sadly) comes across as Hollywood trying to relate with the smart crowd and failing, which in turn, makes for a phony film.",
+            "review_date": "2021-08-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I've always found this movie a little bit overrated since it is an ordinary movie with an ordinary screenplay directed by a great director that here only manages to make his work without giving the passion he gave in his previous films.I've always found this movie a little bit overrated since it is an ordinary movie with an ordinary screenplay directed by a great director that here only manages to make his work without giving the passion he gave in his previous films. That's what I feel as a viewer.",
+            "review_date": "2021-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Damon and Williams do an excellent job I think it is the best acting job of Damon's career.  A movie that anyone of any age can draw some likenesses to the main characters.  Do yourself a favor watch this movie.",
+            "review_date": "2021-11-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of my favorite all time movies.  Relatable and likable characters, addresses common conflicts like: what is expected vs what you want, ambition vs safety, and avoiding real connections vs risking being hurt.",
+            "review_date": "2022-05-27",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 112
 }

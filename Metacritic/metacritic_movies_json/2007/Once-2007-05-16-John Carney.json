@@ -1,649 +1,735 @@
 {
-  "title": "Once",
-  "rating": 8.2,
-  "release_date": "2007-05-16",
-  "genre": [
-    "Drama",
-    "Romance",
-    "Music"
-  ],
-  "summary": "A modern day musical set on the streets of Dublin. Featuring Glen Hansard from the Irish band \"The Frames,\" the film tells the story of a street musician and a Czech immigrant during an eventful week as they write, rehearse and record songs that reveal their unique love story.  (Fox Searchlight)",
-  "critic_reviews": [
-    "Until Once, I'm not sure that I'd ever seen a small-scale, nonstylized, kitchen-sink drama in which the songs take on the majesty and devotion of a musical dream.",
-    "Once feels handmade in the best sense, an impressionistic feast for the senses cobbled together from lovely grace notes and a warm palette of reds and yellows.",
-    "In its own subdued, mellow way, Once is just about perfect.",
-    "Once proves to be as smart and funny as it is sweet; it swirls with ambiguity and conflict beneath a simple surface. In all of 88 minutes, Mr. Carney's singular fable follows its guy and girl through a week of musical and emotional growth that could suffice for a lifetime.",
-    "The music is so rich and completely satisfying and the characters so appealing Once makes us believe that this is all happening right in front of our eyes. We fall for each of these young people at the precise moment they are falling for each other, and what could be better than that?",
-    "It's a very small piece, working in a deceptively casual storytelling style. But it's my favorite music film since \"Stop Making Sense,\" and it's more emotionally satisfying than any of the Broadway-to-Hollywood adaptations made in the last 20 years.",
-    "The songs don't advance the narrative lyrically so much as follow the two characters' uncertain relationship through the slow realization of their themes; in particular a scene in which they first jam together in the back room of a music store is a gem.",
-    "Once is the first rock musical that actually makes sense. People don't burst into song in this movie because the orchestra's swelling out of nowhere. The guy and the girl are working musicians -- or they'd like to be, if they could make a living at it -- and they're played by working musicians.",
-    "A miracle of a movie that is both fairy tale and slice of life.",
-    "Once is the kind of film I've been pestered about ever since I started reviewing again. People couldn't quite describe it, but they said I had to see it. I had to. Well, I did. They were right.",
-    "Music aside, what finally puts Once over and makes it a film you can watch more than once is its slight but thoroughly credible realism.",
-    "There's not a false moment within the film's 88-minute running time, nor many that could be done any better.",
-    "Its low-key affect and decidedly human scale endow Once with an easy, lovable charm that a flashier production could never have achieved. The formula is simple: two people, a few instruments, 88 minutes and not a single false note.",
-    "Ultimately, Once transcends even its own ambitions, becoming a complex meditation on relationships, Irish culture, and music.",
-    "Focusing strictly on stripped-down performances of great music and the charming chemistry between the two leads, it's a perfectly realized yet unassuming movie that deserves to find a big audience.",
-    "What \"Rent\" should have been, Once is: a Bohemian rhapsody.",
-    "Once may not boast stellar production values or elaborate dance numbers, but in its own scruffy way it captures the spirit of the genre better than any recent Hollywood musical.",
-    "It's a magical, beguiling wonder.",
-    "Once is a film for anyone who has ever been transported by the power and passion of music.",
-    "Most movies have music, some movies are musicals, but very few movies combine the two with the grace and pure eloquence of Once.",
-    "The film drags a bit and Irglova's inexperience as an actor sometimes leaves her costars in the lurch. But it's a sweet little film just the same.",
-    "The film has enormous charm and zero pretense.",
-    "Yet the magic of the movie is how utterly wrenching it renders these songs, which thrive alongside the film's simple, eloquent, dusky narrative.",
-    "Although there's plenty of music, and plenty of joy, in Once, it's ultimately a quiet, wistful picture.",
-    "Even the uninitiated will be hard-pressed to resist the movie's charms, from its likable leading players and its charming Dublin setting to its wistful take on modern love.",
-    "The year’s most pleasant cinematic surprise. Once has enough heart, wit, verve and sheer songwriting genius to ensure you’ll see it far more times than its title suggests.",
-    "This isn't a perfect motion picture but, in the midst of summer's vapid pursuit of spectacle, a movie that provides real heart and emotion is a rare find.",
-    "Once isn't especially complex, but the chemistry between its appealing leads (who contribute to the lovely score) feels deeply true. You'd have to look awfully hard to find such sincerity in a Hollywood romance.",
-    "This is a very little film with a very large heart.",
-    "This simple story of a Guy and a Girl and their music is very appealing.",
-    "I can't imagine anyone seeing Once and not instantly falling in love with it.",
-    "A film of limited production values, a low-quality picture and the occasional flubbed camera move. But it makes up for these flaws with sharp observations, compelling characters and a great collection of music.",
-    "Winningly unpretentious tale uses a wispy romantic narrative as a vehicle for attractive original tunes."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "\"Once\" works so well in the realm of its own simplicity: two people connect over their love of music, and the week that they share together is fulfilling enough to last a lifetime. The music, written and performed by the two leads Glen\"Once\" works so well in the realm of its own simplicity: two people connect over their love of music, and the week that they share together is fulfilling enough to last a lifetime. The music, written and performed by the two leads Glen Hansard and MarkÃ©ta IrglovÃ¡, is pure bliss and the movie is an independent film, so the dialogue and character interactions are allowed to feel genuine.",
-      "review_date": "2010-08-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Brilliance.",
-      "review_date": "2007-06-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I can't get the movie or the music out of my head weeks after seeing it. It is simply the best movie musical of all time.",
-      "review_date": "2008-01-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The magic of this film definitely lies in the power of the music but with an added bonus: the low-budget simplicity of how it is all executed before your eyes...absolute beauty.",
-      "review_date": "2009-08-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "this movie speaks to the soul. it's uplifting and heartbreaking at the same time, painfully real. the sort of honest, engaging, intelligent romance that hollywood couldn't make in a month of sundays. the music is fabulous",
-      "review_date": "2007-11-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wonderful story, wonderful music. A refreshingly simple story with palpable chemistry between the 2 leads, even if the story doesn't go where you might expect.",
-      "review_date": "2007-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Perfectly magical and magically perfect....I haven't seen a better film this year.",
-      "review_date": "2007-07-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This film's stratagem to attract audiences is its simplicity and honesty, and that is enough in abundance.The bottom line is that Once is a straightforward romantic story at its core, but the flirtation is natural. Nothing cheeky or withThis film's stratagem to attract audiences is its simplicity and honesty, and that is enough in abundance.The bottom line is that Once is a straightforward romantic story at its core, but the flirtation is natural. Nothing cheeky or with tasteless comedy in between.Everything flows through the actions of the characters and the most important thing that brings them together in the first instance, which is the music.This is the kind of film that has zero ambition to be something it is not. It treats its audience with respect by showing them without gimmicks that what it offers is a story that doesn't seek to entertain you with filler characters or cheap sentimentality.The two of them and the music are the engine that drives everything and Once without any complexity becomes a small but very pleasant experience that when it ends is really satisfactory.",
-      "review_date": "2022-04-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It was mildly entertaining and definitely had some songs that stuck in my head. However, the dialogue and story line lacked cohesiveness and fluidity, among other things. The ending definitely helped the movie, IMO, but otherwise, I It was mildly entertaining and definitely had some songs that stuck in my head. However, the dialogue and story line lacked cohesiveness and fluidity, among other things. The ending definitely helped the movie, IMO, but otherwise, I wasn't entirely impressed.",
-      "review_date": "2008-02-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was like a MTV \"behind the music show\" it was slooooooow, not fun to watch, and dialog hard to understand for U.S. english speakers.",
-      "review_date": "2007-12-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "so cooool",
-      "review_date": "2007-12-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The only thing of interest in this move is the beautiful music. But let's not judge a movie based on the soundtrack. The story is paper thin, and the weakest link is Irglova, who adds very little and is unconvincing as an actress. All The only thing of interest in this move is the beautiful music. But let's not judge a movie based on the soundtrack. The story is paper thin, and the weakest link is Irglova, who adds very little and is unconvincing as an actress. All she does in the first fifteen minutes is ask a stranger multiple times about his old girlfriend. The fact that they play out entire songs that don't drive the plot is another mistake. One-dimensional characters and lack of story kill this film. I saw Hansard & Irglova in concert and unlike the movie, didn't walk away wanting my money back.",
-      "review_date": "2008-11-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "We wanted to see this musical based on the instruments and the singing.  That was all awesome but the language was terrible!  If you don't mind hearing the \"F\" bomb every sentence, then this musical is for you.  We really would have enjoyedWe wanted to see this musical based on the instruments and the singing.  That was all awesome but the language was terrible!  If you don't mind hearing the \"F\" bomb every sentence, then this musical is for you.  We really would have enjoyed this musical based on it's content however, it was ruined!  Maybe they talk that way in Ireland and that's the reason the language was so foul!  Either way, could have done without it!!!!!!!",
-      "review_date": "2012-08-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Talk about doing the right thing in the end? Going back to a woman who cheated on you and who sounds like she wants to throw up while talking on the phone with you? And going back to an out of shape unattractive guy you don't even care Talk about doing the right thing in the end? Going back to a woman who cheated on you and who sounds like she wants to throw up while talking on the phone with you? And going back to an out of shape unattractive guy you don't even care about just because he's from the Czech Republic unlike the younger, more attractive man you've recently fallen in love with? Give me a break. Good music but the worst ending since The Godfather Part 3.",
-      "review_date": "2008-02-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A great, small film with unexpectedly strong performances from non-actors. So much great music (with maybe a bit too much repetition...), great pacing and real people acting, and talking, like real people. That's a nice change of pace.",
-      "review_date": "2008-03-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "it's very difficult to create genuine and big emotion out of such small moments in a film. but once probably does it better than any movie I've ever seen with the possible exception of 'eternal sunshine of the spotless it's very difficult to create genuine and big emotion out of such small moments in a film. but once probably does it better than any movie I've ever seen with the possible exception of 'eternal sunshine of the spotless mind.' and, as a musician i can tell you that there was not one single false note in the songs, or the depiction of the emotional journey that is writing and recording music. no film has ever so successfully captured that very daunting and naked process that can devastate your self-esteem. which is why people often fall in love when making music together. it requires honesty, humility and vulnerability, without somehow losing your integrity. that's what 'once' is about. and for the first time, i truly cannot even fathom the people here who've given this less than a five rating. to those people: at exactly what point in your life was your heart surgically removed?",
-      "review_date": "2007-07-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The movie had one or two good songs, but that was it and they continued to play them over and over. There wasn't much to the movie. It was boring and was disappointing after hearing so much positive regarding it.",
-      "review_date": "2008-02-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie could have been the most maudlin, saccharine, melodramatic and sexed-up movie of the year. Instead, it is the most beautiful. Partly because of the transcendent musical collaboration between Hansard and Irglova, but also the This movie could have been the most maudlin, saccharine, melodramatic and sexed-up movie of the year. Instead, it is the most beautiful. Partly because of the transcendent musical collaboration between Hansard and Irglova, but also the simple and elegant (yet seemingly low-fi) directing of John Carney. Hollywood could never make this movie in its wildest dreams. I'm so happy that a small indie movie like this became the grassroots phenomenon that it is now. Give Carney, Hansard, and Irglova awards, fetes and money and let them keep doing what they're doing: adding beauty to the world and proving to the Hollywood bigwigs that viewers DON'T want to see the next pastiche of fantasy, special effects and silicone tits. I hope more movies can be made like this soon - but if not, I'm happy to sit cross-legged in front of my TV and watch Once again for the twentieth time.",
-      "review_date": "2007-10-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The plot of the 120 minute film goes absolutely nowhere and amounts to nothing, much like the typical singer/songwriter songs that fill out the running time. Worse still, all the people falling over these simple songs like he's the next The plot of the 120 minute film goes absolutely nowhere and amounts to nothing, much like the typical singer/songwriter songs that fill out the running time. Worse still, all the people falling over these simple songs like he's the next Bob Dylan makes this seem like nothing more than a vanity project. The movie is also filmed in a very jerky manner that made many of the older people in the audience sick. Avoid at all costs.",
-      "review_date": "2007-06-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Totally agree with negative reviews. How did this get such great reviews/ It wasn't terrible, but it offered so little. It wasn't touching, romantic, well written, or well directed. The music was fine enough, but that just makes it Totally agree with negative reviews. How did this get such great reviews/ It wasn't terrible, but it offered so little. It wasn't touching, romantic, well written, or well directed. The music was fine enough, but that just makes it feel like a documentary on David Gray.",
-      "review_date": "2007-07-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "For a movie that cost 1/1000th (literally) of Transformers to make, it has a million times the heart and soul and sticking power. A month after I saw it, I heard one of the songs on the radio and I was taken instantly back to that amazing For a movie that cost 1/1000th (literally) of Transformers to make, it has a million times the heart and soul and sticking power. A month after I saw it, I heard one of the songs on the radio and I was taken instantly back to that amazing scene in the piano shop and I started to tear up. An amazing film.",
-      "review_date": "2007-07-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Digital video is often used by default, as an answered prayer to the economical wall that had previously stood between the filmmaker and his/her celluloid dream. But here, it makes intellectual sense that \"Once\" should be shot on digital Digital video is often used by default, as an answered prayer to the economical wall that had previously stood between the filmmaker and his/her celluloid dream. But here, it makes intellectual sense that \"Once\" should be shot on digital video; after all, a street musician is the very embodiment of the DIY spirit. \"Once\" looks right, a little amateurish(this filmmaker is not as accomplished as The Dardenne Brothers), but just like good indie-rock, the reduced budget and professional know-how are nullified by a suffusion of organic emotion that you can't get from a mainstream product. \"Once\" achieves a tone that's seemingly impossible; it's diabetic-sweet without making you want to drink a lot of water. It's absolutely how this budding couple's love never truly breaks free from the abstract. \"Once\" is a gem; every song, a ruby.",
-      "review_date": "2007-07-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "?The reviews are accurate. Great antidote to typical glossy Hollywood love stories.",
-      "review_date": "2007-07-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An unconventional love story. It flowed very well, and the songs added much depth and tenderness to each of the main characters. The emotions seemed real with an outcome that was as practical and realistic as it should have been. A simple An unconventional love story. It flowed very well, and the songs added much depth and tenderness to each of the main characters. The emotions seemed real with an outcome that was as practical and realistic as it should have been. A simple film, with a whole lot heart than any other movie.",
-      "review_date": "2007-08-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The music in this movie is fantastic. The way he sings, it really makes you feel what he is feeling at that time. It is a small scale irish love story that may surprise you.",
-      "review_date": "2007-08-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Low-key, enjoyable, charming. I left the theatre and immediately went in search of the CD. Wound up buying it for less on I-Tunes. A word of caution: After reading all the glowing reviews, don't go in expecting to be blown away as if Low-key, enjoyable, charming. I left the theatre and immediately went in search of the CD. Wound up buying it for less on I-Tunes. A word of caution: After reading all the glowing reviews, don't go in expecting to be blown away as if this were some major blockbuster. It's just a good little movie and well worth your time.",
-      "review_date": "2007-08-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Certain publications like Spin Magazine have the nerve to call the Frames Coldplay knockoffs despite the fact that they had been releasing records 10 years before Coldplay. That doesn't matter, when Mr. Hansard is holding up his Oscar Certain publications like Spin Magazine have the nerve to call the Frames Coldplay knockoffs despite the fact that they had been releasing records 10 years before Coldplay. That doesn't matter, when Mr. Hansard is holding up his Oscar for Song of the Year we know exactly where he's going to shove that Oscar. Freakin amazing. Glen has the world in his grasp. From greatest live band in the world to greatest musical film of our era. Wait to go. Eat Your heart out Almost Famous.",
-      "review_date": "2007-09-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Never have I become so emotionally invested in a film. I enjoyed every minute of it. Never dull, never slow, always beautiful. I felt like I got to know \"Guy\" and \"Girl\" on very deep levels as people, not actors. The music is haunting and Never have I become so emotionally invested in a film. I enjoyed every minute of it. Never dull, never slow, always beautiful. I felt like I got to know \"Guy\" and \"Girl\" on very deep levels as people, not actors. The music is haunting and hard to forget. Highly, highly recommended to anyone with a heart.",
-      "review_date": "2007-09-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A sincere, honest, charming, realistic and heartwarming low key romantic musical film.",
-      "review_date": "2007-09-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I liked the opening. I liked her a lot and wouldn't have watched the whole film if she hadn't have been in it. I got sick of hearing the same song over and over. I hated the camera work. I found him tedious. I found the storyline I liked the opening. I liked her a lot and wouldn't have watched the whole film if she hadn't have been in it. I got sick of hearing the same song over and over. I hated the camera work. I found him tedious. I found the storyline severely lacking. And although the characters in the movie thought the music brilliant, I didn't.",
-      "review_date": "2007-09-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "",
-      "review_date": "2007-09-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I heard so many good things about this movie's music and was completely let down. I swear to god, i am not exaggerating, i had to cover my ears during that scene in the back of the music shop. She was \"harmonizing\" with him while he I heard so many good things about this movie's music and was completely let down. I swear to god, i am not exaggerating, i had to cover my ears during that scene in the back of the music shop. She was \"harmonizing\" with him while he sang- really just singing like a 6th below him the entire time. a lacking storyline for yet another stupid artsy film.",
-      "review_date": "2008-01-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My favorite movie of the year. Just a wonderful flick. A friend recommended it to me and I couldn't thank him enough for telling me to go see it. The actors are the real musicians, and they are fantastic. Getting to watch the live My favorite movie of the year. Just a wonderful flick. A friend recommended it to me and I couldn't thank him enough for telling me to go see it. The actors are the real musicians, and they are fantastic. Getting to watch the live performances within the context of the film is awesome. And the story is perfect. Overall, just a wonderful film. I can't recommend it enough.",
-      "review_date": "2008-01-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I, too, was engrossed in this film. Man, talk about doing the right thing in the end.",
-      "review_date": "2008-02-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie is outstandingly brilliant, it's like a modern musical without those pompous singers singing solemn songs. With a credible story and down-to-earth characters, who are reflected in their moving songs, this film is actually This movie is outstandingly brilliant, it's like a modern musical without those pompous singers singing solemn songs. With a credible story and down-to-earth characters, who are reflected in their moving songs, this film is actually able to make you cry and, after having watched the whole movie, overwhelm you with joy. But there's also enough evidence that 'once' even works in its moment without the music. The scene, where the 3 male cohabitants appear in the female protagonists apartment to watch TV is at the same time comical and striking and better than many of Hollywood's so-called milieu-surveys.",
-      "review_date": "2008-02-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great small time movie.",
-      "review_date": "2009-01-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Overall a fine movie. But a tad overrated. I've heard many critics call it the best of the year. I doubt it!",
-      "review_date": "2007-10-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of my favourite movies of ALL TIME. Exquisite love story, great music. Loved the recording studio scenes in particular. After reading up on the back story to the making of the movie, I questioned what great acting even is. These One of my favourite movies of ALL TIME. Exquisite love story, great music. Loved the recording studio scenes in particular. After reading up on the back story to the making of the movie, I questioned what great acting even is. These non-actor actors blew me away.",
-      "review_date": "2007-10-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The film takes off with a magical early scene where the two leads make wonderful music together almost before they realize it. The funny-melancholy mood reminded me of a good Chekhov story: quiet, real, and profound. See it!",
-      "review_date": "2007-10-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Shot for $150,000, this film should be an inspiration to independent filmmakers everywhere -- that personal films, about people, can be made on a low budget without car crashes and big stars. It's fantastic.",
-      "review_date": "2007-05-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just pure beauty.",
-      "review_date": "2007-05-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Quite possibly the best Movie about music in at least a decade. This film is so refreshing in it's handling of the musical genre, This film is so anti-Hollywood, all I could do was stand up and cheer on it's splendid, beautifully Quite possibly the best Movie about music in at least a decade. This film is so refreshing in it's handling of the musical genre, This film is so anti-Hollywood, all I could do was stand up and cheer on it's splendid, beautifully sad, artistic statement.",
-      "review_date": "2007-05-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Touching and inspiring, luscious music!",
-      "review_date": "2007-06-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A simple story told very well of a boy meeting a girl and their making music together at a recording studio. The music was very enjoyable and the story was heartfelt.",
-      "review_date": "2007-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Brilliant. I didn't see the ending coming and it blew me away. The best movie I've seen so far this year. See it on the big screen, before it's too late.",
-      "review_date": "2007-06-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Very good small budget independent film. The songs went on a bit too long but still a good film. Very nice to see a female character with brains and talent.",
-      "review_date": "2007-06-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I'm completely baffled by the fellow reviews on this site. You must consider this movie a musical if you want to take its reviews seriously, because the plot moves at such a snail's pace that it's hard to become engaged at all I'm completely baffled by the fellow reviews on this site. You must consider this movie a musical if you want to take its reviews seriously, because the plot moves at such a snail's pace that it's hard to become engaged at all with this movie. Not until the halfway point do the two lead's finally start to gel a bit (along with the first plot revelation). We are supposed to find the Czech immigrant's willingness to drag a vaccum cleaner around Dublin as well as her poor fashion sense as cute and endearing, but it felt forced by Carney in my opinion, like a poor man's Sam from Garden State. I feel that musicians will feel much more positively about this movie than I did, and that it must deliver something to them that it didn't bring to me. If that's the case, then may they enjoy it, because personally I haven't felt this lost at a movie since \"My Summer of Love,\" another highly praised movie that I walked away from wondering what I missed.",
-      "review_date": "2007-06-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Amazing cinema. Music & actors fantastic & fresh. I cried 5 times!",
-      "review_date": "2007-06-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Effortless with an incredible score and natural performances by it's non actor actors. Love it. Not one false note. If you don't go see this movie you really are missing out.",
-      "review_date": "2007-07-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I agree with Bob W. I walked out of this film. Banal music, nauseatingly shaky camera work, irritating male character. The people I was with, one of whom is a filmmaker, also thought it was terrible. What do people see in this film?",
-      "review_date": "2007-07-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great Movie! Am shocked to see the negative criticism. Sometimes people simply refuse to to admit they like something out of fear of following. I have a friend who is a film maker too, and I am sure he would appreciate this movie. Remember, Great Movie! Am shocked to see the negative criticism. Sometimes people simply refuse to to admit they like something out of fear of following. I have a friend who is a film maker too, and I am sure he would appreciate this movie. Remember, these are musicians, not actors.",
-      "review_date": "2007-07-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Thoroughly charming film, all the more attractive because it is delivers a simple story. Has heart and guts and does not need to apologize for its small budget. Well done!",
-      "review_date": "2007-07-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just a good movie that makes you feel all warm and happy inside! Nothing really happens in the movie, yet everything happens at the same time! Definitely a must see!",
-      "review_date": "2007-09-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There are only two movies this year that I haven't enjoyed to a certain extent. This was one of them. I'm sure it will be nominated and possibly win for Best Original Screenplay, but there was no screenplay. Just songs being played There are only two movies this year that I haven't enjoyed to a certain extent. This was one of them. I'm sure it will be nominated and possibly win for Best Original Screenplay, but there was no screenplay. Just songs being played interminably. Still, I would rather have listened to the music than had the silly story that went along with it. This movie is not the reason I go to movies.",
-      "review_date": "2007-09-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Could not finish the movie - yawn - like the same song played the entire movie.",
-      "review_date": "2008-01-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Possibly the most-hyped movie of 2007, Once is a lot like its characters: seedy and unprepossessing on the surface, but wildly in love with its own self-proclaimed whimsical creativity just beneath. Ultimately just another story about a boy Possibly the most-hyped movie of 2007, Once is a lot like its characters: seedy and unprepossessing on the surface, but wildly in love with its own self-proclaimed whimsical creativity just beneath. Ultimately just another story about a boy with a guitar and the girl who inspires him (the ballyhooed \"modern musical\" angle doesn't hold up to scrutiny; musicals use music to tell a story, but the plot of Once grinds to a halt every time the characters feel like cranking out another falsetto-y power ballad about lost loves, which is often), the only truly original thing about Once is that it completely excises the obligatory love story from the formula, replacing it with a sort of friendship-of-desperation between two very lonely people who only seem to be together at all because they both happen to be musicians. They chat about random trivia, record some songs, lean on each others' shoulders a bit, and that's the whole substance of their \"captivating, elegant, uplifting, engaging, magical\" relationship (the girl, especially, is clearly holding the guy at arm's length for most of the movie, even though it was she who creepily approached him in the first place). They are NOT in love, though hardly anyone who saw the movie seems to realize this, and it's clear from early on that they probably never will be what with all the complications in their lives. As for the music, one reviewer summed it up with a single word (\"Coldplay\") and there's nothing I can add to that. As one last thought, take a look through the comments and pay attention to how many of the people praising Once don't seem to actually like the movie itself so much as the fact that it's not a major Hollywood film. I give it credit for shrewdness in that regard: there's definitely a demographic who like having their scruffy-indie-underdog-outsider egos stroked and Once plays them like a Stradivarius. Doesn't make it a good movie, though.",
-      "review_date": "2008-01-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Once\" is unique because it uses real popular music; the genuine article, like Gillian Armstrong's \"Starstruck\"(this 1982 musical from Australia employed new-wave songs), or more recently, Lars Von Trier's \"Dancer in the\"Once\" is unique because it uses real popular music; the genuine article, like Gillian Armstrong's \"Starstruck\"(this 1982 musical from Australia employed new-wave songs), or more recently, Lars Von Trier's \"Dancer in the Dark\"(featuring the pop stylings of Icelandic siren Bjork); not some Broadway notion of rock such as \"Rent\", or \"Jesus Christ Superstar\". \"Once\" is truly, a trailblazing film, an alternative to the traditional musical; no camp, no bigger than life characters are allowed. The music is humble. The people are actual size. You actually feel cool watching it. The songs have a intimate quality to them because they were meant to be played in a coffehouse or bar, not in a concert hall. \"Falling Slowly\" kills me, absolutely kills me. If you're still in the recovering process of unrequited love, it'll kill you, too. Rolling Stone's Rob Sheffield wrote an amazing memoir about his late music critic wife called \"Love is a Mix Tape\" last year about the role music plays in our personal lives. An appropriate title for \"Once\" would be \"Love is a Demo Tape\". Every time the guy(Glen Hansard) listens to that demo, he'll be reunited with the girl(Marketa Irglova). It's a relationship in the abstract. They made beautiful music together. \"Once\" is the first and last word on romantic disappointment; how you have to take it on the chin and carry on. It was, by far, the best film of 2006. God only knows it's better than \"ATONEMENT\"!!!!!!!!!",
-      "review_date": "2008-01-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Similar to the disappointment of waking up on Christmas morning, not to the bright red bmx you had been promised, but instead, 6 pairs of striped socks- this movie is banal, self-reverential, sentimental tripe. I have lost two hours of my Similar to the disappointment of waking up on Christmas morning, not to the bright red bmx you had been promised, but instead, 6 pairs of striped socks- this movie is banal, self-reverential, sentimental tripe. I have lost two hours of my life and I will be contacting Glen Hansard to arrange getting them back.",
-      "review_date": "2008-01-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Surely I must have been on another planet and it all just went over my head. People were dazzled and touched by this movie?? I was frazzled and bamboozled. I banged my head against the wall to make sure I wasn't comatose.",
-      "review_date": "2008-01-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wow.... Really, the best movie of 07. It strikes you in all the right places. Very beautiful.",
-      "review_date": "2008-01-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is a very good film. It is honest, touching, and vulnerable in a way that is very affecting. The minimalist treatment of this film may not be for all; there are no carcrashes, no sex, no special effects. My two complaints are that it This is a very good film. It is honest, touching, and vulnerable in a way that is very affecting. The minimalist treatment of this film may not be for all; there are no carcrashes, no sex, no special effects. My two complaints are that it feels a little too short and the tale doesn't quite wrap up. Still emotionally satisfying, but not fully. It's hard to achieve a satisfying ending without being cheesy, but I would have liked a better attempt... what we have is 90% there for me. The music stays with you and is really what puts this movie over the top. Will it be an enduring classic? Only time will tell, but it is still leaps and bounds above 99% of the crap filling cineplexes today.",
-      "review_date": "2008-01-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A lovely film with excellent music.",
-      "review_date": "2008-02-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A slow moving film that seduces the viewer by its sensual, passionate and non-sexual build-up into a magnificent conclusion about friends and art. More musically based than acting based.",
-      "review_date": "2008-02-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I haven't felt so much emotion for a movie since Dancer in the Dark. Of course, for that it was heartbreaking, this was uplifting. It was beautiful, and I believed the characters, the natural wonder in their connection, and the sweet, I haven't felt so much emotion for a movie since Dancer in the Dark. Of course, for that it was heartbreaking, this was uplifting. It was beautiful, and I believed the characters, the natural wonder in their connection, and the sweet, unassuming nature of everything. You bet they played the songs time and time and time again - and I listened to them time and time and time again. Watch it for yourself, then judge - I loved it, you might not. And if you don't, it doesn't make you a bad person, but maybe not one that I'd be that akin to. Loved by me, loved by my wife. Huge fan of The Frames now.",
-      "review_date": "2008-02-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Greatest soundtrack I have ever heard. Cinematography keeps the scenes personal and real. Best movie I have seen in a long time.",
-      "review_date": "2008-02-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "There's a great line in Julius Ceasar. Ceasar and Marc Anthony are observing Cassius, and Caesar says that Cassius \"hears no music.\" The people who rated this movie below a 5 obviously fall in the same category as malcontent There's a great line in Julius Ceasar. Ceasar and Marc Anthony are observing Cassius, and Caesar says that Cassius \"hears no music.\" The people who rated this movie below a 5 obviously fall in the same category as malcontent conspirators yearning for blood lust. This movie is miraculous!",
-      "review_date": "2008-02-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie was enchanting, and captures the truth and beauty of making music, writing songs, and falling in love. Sometimes all three are connected, as one can see from how the main character writes lovely songs about his broken This movie was enchanting, and captures the truth and beauty of making music, writing songs, and falling in love. Sometimes all three are connected, as one can see from how the main character writes lovely songs about his broken relationship. The scene in the music shop captures that feeling perfectly; it's a gem of a scene, showing, not telling, how music can help cement a bond of love & understanding between two people. It was completely natural, filled with warmth and ambiguity, like real life.",
-      "review_date": "2008-02-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Tremendous. Simple honest acting but incredible music. Why can't hollywood make music films like this? Because this film was made around incredible songwriters who just happen to be able to act as well. The music wasn't written by Tremendous. Simple honest acting but incredible music. Why can't hollywood make music films like this? Because this film was made around incredible songwriters who just happen to be able to act as well. The music wasn't written by some cheesy stage musical nob but by someone who lives and breathes songwriting and who also perfomed it in an honest and believable fashion, like all music should be performed. A work of passion, talent and belief....what else do you need?",
-      "review_date": "2008-03-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An unpretentious Irish musical that captures your heart with its beautiful music, simplicity, deft timing and refusal to take you where you expect to go. With the feel of a documentary, it tells the story of a relationship between two skilledAn unpretentious Irish musical that captures your heart with its beautiful music, simplicity, deft timing and refusal to take you where you expect to go. With the feel of a documentary, it tells the story of a relationship between two skilled but struggling musicians whose love for each other blossoms through their music. In my humbl;e opinion, it belongs in the Top Ten motion pictures of the decade. The film and its beautiful music continues to haunt me months after viewing, an event that introduced me to a secret those who have not seen the movie have yet to share. Thank you, writer/director John Carney and the rest oif the cast and crew. Glen Hansard and Marketa Irglova will forever be part of my psyche because of your collaboration!",
-      "review_date": "2008-05-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A Soul is a difficult thing to reach with a movie or a song, because it means that you have to have performers with authentic Soul. Hollywood has very few of these, and most of the great music is created by people in small attic rooms above A Soul is a difficult thing to reach with a movie or a song, because it means that you have to have performers with authentic Soul. Hollywood has very few of these, and most of the great music is created by people in small attic rooms above their parent's flat. This movie, its music and performances are authentic, and that is why they are great. And rare.",
-      "review_date": "2008-06-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A sonic and emotional feast--the rare kind that satisfies the hunger and satiates the desire for a bittersweet treat. The combination of psuedo-doc and musical diversion echoes the emotional range of Dancer in the Dark minus the choreography A sonic and emotional feast--the rare kind that satisfies the hunger and satiates the desire for a bittersweet treat. The combination of psuedo-doc and musical diversion echoes the emotional range of Dancer in the Dark minus the choreography and tragedy. If you need inspiration, a good cry or if you simply love music, look no further.",
-      "review_date": "2009-12-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is an everyday story with beautiful music.",
-      "review_date": "2009-03-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A sweet, moving story. I'm glad I saw it. But for an even better cinema-verite musical set in Dublin, watch \"The Commitments.\" I've seen that movie at least 20 times and would gladly watch it again.",
-      "review_date": "2009-09-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This was a great movie, a very romantic, but unforced story line and compelling actors, especially the girl. It bothers me that people are choosing to give this movie a 0 simply to \"counteract\" the 10's people chose to gave it. If you This was a great movie, a very romantic, but unforced story line and compelling actors, especially the girl. It bothers me that people are choosing to give this movie a 0 simply to \"counteract\" the 10's people chose to gave it. If you think its worth a 4, then fine, but I don't think this movie warrants a zero.",
-      "review_date": "2007-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Totally captivating.......highly recommended.",
-      "review_date": "2007-11-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "with all the forgettable rubbish hollywood spends hundreds of millions dollars on and shoves in our faces its comforting to find a movie made in our own city that many of us could afford to make and remember fondly for many years",
-      "review_date": "2007-11-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Little but deep, rough but sweet, quiet but moving, silent but full of music. That's ONCE, an almost perfect film for our times. Don't miss it, please.",
-      "review_date": "2007-12-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I honestly don't get it. The movie had its cute moments but overall I was bored to tears. I don't see how this movie was a great romantic wonder. I'm sorry it just didn't register with me at all.",
-      "review_date": "2007-12-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Wonderful, irresistible movie with engaging, attractive leads that you root for. Someone described it as a \"musical for the art house crowd\", and this is probably a fair assessment, since it's light years away from big hollywood Wonderful, irresistible movie with engaging, attractive leads that you root for. Someone described it as a \"musical for the art house crowd\", and this is probably a fair assessment, since it's light years away from big hollywood musicals. Here, the songs seem like a natural part of the story and describe better than any dialogue, what the characters are feeling. And it's refreshing to see a movie where none of the main characters have cell phones! Touching and moving without being sentimental or syrupy. I saw this in the Talk Cinema series where the movie is discussed after the viewing. There is one scene where the [***SPOILER***] boy has found out that the girl is married and asks her if she loves her husband. She reponds in Czech and doesn't translate. What she said, according to a member of the audience who speaks Czech, was \"No, I love you.\" See this, you won't regret it.",
-      "review_date": "2007-05-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The only reason to see this is for the music. Frankly, I've seen better stories in concert films. I went expecting to see a Musical, meaning something where the music is used to tell the story, but that's not really what's The only reason to see this is for the music. Frankly, I've seen better stories in concert films. I went expecting to see a Musical, meaning something where the music is used to tell the story, but that's not really what's going on here. In this movie, the characters are composers and performers and the music is what they do, all out of proportion to telling a story. This is more like watching a CD with brief narrative interludes.",
-      "review_date": "2007-05-25",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Most satisfying movie in a while. Great music with great cast. Could not have been made by Hollywood.",
-      "review_date": "2007-05-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The language was unnecessarily crude for such a sweet story. The music was not that great, but the acting and the story made it worth NOT walking out - which was our initial reaction in the first five minutes. We stayed and our score wentThe language was unnecessarily crude for such a sweet story. The music was not that great, but the acting and the story made it worth NOT walking out - which was our initial reaction in the first five minutes. We stayed and our score went from an initial 1- up to a 5.",
-      "review_date": "2007-06-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This little Irish item is the best Irish film since the commitments and maybe better. A terrific chick Flick, in the best sense of the phrase. The chemistry and music are 'spot on;!",
-      "review_date": "2007-06-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Best movie of the year. I can't get it out of my head. Fabulous and simple story. Great cast. Wonderful music. Extremely powerful.",
-      "review_date": "2007-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An amazing movie. The ultimate anti-Hollywood experience at its best.",
-      "review_date": "2007-06-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A sweet and lovely film. The characters are so genuine and real. The realism is almost like a documentary....in the best sense. Real life with all its ambiguities and vicissitudes, and a song and music score that evokes yearning, joy, and A sweet and lovely film. The characters are so genuine and real. The realism is almost like a documentary....in the best sense. Real life with all its ambiguities and vicissitudes, and a song and music score that evokes yearning, joy, and sorrow. The film is a tender affirmation of forebearance and generosity.",
-      "review_date": "2007-06-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Once is a small, simple no-frills movie, it also happens to be simply Brilliant. Its simplicity is overwhelming and beautifully honest. Once is the best, most touching film I've seen this year and the best movie musical since \"All That Once is a small, simple no-frills movie, it also happens to be simply Brilliant. Its simplicity is overwhelming and beautifully honest. Once is the best, most touching film I've seen this year and the best movie musical since \"All That Jazz\". If you're lucky enough to get it on one screen in your town, make the trip, you won't regret it!!",
-      "review_date": "2007-06-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When I went to see this film, I was pleasantly surprised by how many people were in the theater. Who in their right mind would choose to see a small film about two people rediscovering themselves and inspiring each other to achieve things When I went to see this film, I was pleasantly surprised by how many people were in the theater. Who in their right mind would choose to see a small film about two people rediscovering themselves and inspiring each other to achieve things that they were incapable of previously. After all summer is a time for Ogres and Pirates, right? With a good mix of humor, wit, a bitter-sweet love story and incredible music, this film is a rare gem that has the power to inpire its audience. The main characters exude passion towards their music as they find a temporary reprieve from their troubled lives. Over a week they build something that will change each of their lives forever. I was not surprised that many of the people in the theater couldn't grasp the extent of what they had just experienced as they left the theater. The transformation/journey that these characters go through is an experience that anyone in life would be lucky to have, once.",
-      "review_date": "2007-06-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Sometimes a movie can be great when it just introduces you to characters who are nice, sweet, believable and incredibly talented. The great thing about this movie is that you feel like you've gotten to know some friends.",
-      "review_date": "2007-06-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "All of my instincts tell me not to hype this movie because it's the kind of small film that may crumble under the weight of someone's high expectations, but as its characters might say in a charming Irish brogue or beautiful Czech All of my instincts tell me not to hype this movie because it's the kind of small film that may crumble under the weight of someone's high expectations, but as its characters might say in a charming Irish brogue or beautiful Czech sneer, f.ck all that. Every review I've read has contained some variation of the phrase \"This is the musical for people who hate musicals\" but more accurately, I'll say this is the musical for people who generally hate musicals because they so desperately want to love musicals. (In case you don't know, that's me.) It's 'gritty' and 'realistic' but also an amazing fairy tale. It's 88 minutes that capture more truth and pain about love and the creative process than any movie I've maybe ever seen, yet it's a fantasy anyone with a soul hopes might happen to them. To say much more would cheapen it. See this movie.",
-      "review_date": "2007-06-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's rare when my wife and I agree on a movie. We went to see this on a whim, knowing nothing about it. Both agreed, best movie we've seen this year. After wasting my time seeing Spiderman 3 and Pirates 3 over the last few It's rare when my wife and I agree on a movie. We went to see this on a whim, knowing nothing about it. Both agreed, best movie we've seen this year. After wasting my time seeing Spiderman 3 and Pirates 3 over the last few weekends, it was great to see a simple story well-told with great performances and so much heart.",
-      "review_date": "2007-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beautiful, heartfelt movie. I think the music was among the best the singer/songwriter genre produces (backhanded complement), and certainly better than I've come to expect from a musical or a guy on a guitar. I like the main Beautiful, heartfelt movie. I think the music was among the best the singer/songwriter genre produces (backhanded complement), and certainly better than I've come to expect from a musical or a guy on a guitar. I like the main characters, the feel, and the evolution of their relationship.d",
-      "review_date": "2007-06-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Well, the opinions are certainly split here. The truth is that those who don't like \"Once\" aren't reacting against the fact that it's a small independent film. Many small independents can be annoying, I agree. But this one Well, the opinions are certainly split here. The truth is that those who don't like \"Once\" aren't reacting against the fact that it's a small independent film. Many small independents can be annoying, I agree. But this one isn't. It's authetic and unpretentious. No, what those few ones and zeroes are reacting against is the unabashed romanticism of the film. And for that reaction you really have to pity them. And as to the \"filmmaker\" who thought it was terrible. Pretty safe to say he doesn't have a clue. I mean even if he didn't like it, any artist couldn't help but see the merit in \"Once.\" Absolutely great film.",
-      "review_date": "2007-07-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Charming, lovely, just about perfect. It's a movie other filmmakers SHOULD see, not because others need to make movies like this necessarily. But there are lessons here. After seeing it, I thought about all the movies I've seen Charming, lovely, just about perfect. It's a movie other filmmakers SHOULD see, not because others need to make movies like this necessarily. But there are lessons here. After seeing it, I thought about all the movies I've seen that have bent over backwards with money, big names, contrivances of all kinds to be romantic. This film is a lesson about how little it really takes to tell a wonderful, sincere story that is also romantic. As for the negative criticisms, I tend to ignore them. Every time a movie comes along that gets almost universally positive reviews, there are always those who protest simply because they think it makes them sound smarter. It doesn't. It just makes you sound like you have bad taste. Congrats to all involved with the movie. Lovely story with music I'll remember for a long time.",
-      "review_date": "2007-07-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "No violence, just a sweet love story with a great soundtrack.",
-      "review_date": "2007-07-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie moved me in a magical way and I am seldom moved this way. Do not miss this movie. Footnote: I find it ironic to see a reviewer like Jen L. who gave it a 2 commenting it was a 120 minute film. Actually, Jen L., it was 88 minutes. This movie moved me in a magical way and I am seldom moved this way. Do not miss this movie. Footnote: I find it ironic to see a reviewer like Jen L. who gave it a 2 commenting it was a 120 minute film. Actually, Jen L., it was 88 minutes. What film did you see or do you like to give negative ratings when everyone else is positive?",
-      "review_date": "2007-07-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beautiful movie with good intentions. Songs were perfect for the movie. Its nice to see a genuine movie that is not contaminated with Hollywood BS. The LOVE story was truly there. I'm happy with the ending.",
-      "review_date": "2007-07-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I would vote zero except that I am not sure my vote would be counted. This is one of the worst movies I have ever seen. If I could pick one word to describe it, it would be \"annoying\" The grainy photography gets annoying, his voice gets I would vote zero except that I am not sure my vote would be counted. This is one of the worst movies I have ever seen. If I could pick one word to describe it, it would be \"annoying\" The grainy photography gets annoying, his voice gets annoying, the little turns that appear and go nowhere get annoying, and the fact that nothing is resolved between the guy, his girlfriend and his new found songwriter gets annoying. I simply can't understand the high ratings for this movie. I am not an unsophisticated moviegoer. I like offbeat movies, and artsy movies, but this one is not artsy, and it certainly is way offbeat. It is so offbeat that it totally misses the mark.",
-      "review_date": "2007-07-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The music sucks. Maybe if you really like derivative-folk-rock-david gray rip off ballads you'll like the music. What little story there is is linear and uninteresting. There is a pathetic attempt at some kind of climax that The music sucks. Maybe if you really like derivative-folk-rock-david gray rip off ballads you'll like the music. What little story there is is linear and uninteresting. There is a pathetic attempt at some kind of climax that doesn't pay off bc it's never earned and we have no reason to care for these characters and their relationship whatsoever. Once, was one time too many. BOOM!",
-      "review_date": "2007-07-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Beautiful Movie in itself, from the music to the amazing acting from one amateur and one fresh actor is amazing, i wouldn't think it was Oscar potential for acting, but golden globes, this movie is going to get every musical category, Beautiful Movie in itself, from the music to the amazing acting from one amateur and one fresh actor is amazing, i wouldn't think it was Oscar potential for acting, but golden globes, this movie is going to get every musical category, well done, just well done.",
-      "review_date": "2007-07-09",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 133
+    "title": "Once",
+    "rating": 8.2,
+    "release_date": "2007-05-16",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Music"
+    ],
+    "summary": "A modern day musical set on the streets of Dublin. Featuring Glen Hansard from the Irish band \"The Frames,\" the film tells the story of a street musician and a Czech immigrant during an eventful week as they write, rehearse and record songs that reveal their unique love story.  (Fox Searchlight)",
+    "critic_reviews": [
+        "Until Once, I'm not sure that I'd ever seen a small-scale, nonstylized, kitchen-sink drama in which the songs take on the majesty and devotion of a musical dream.",
+        "Once feels handmade in the best sense, an impressionistic feast for the senses cobbled together from lovely grace notes and a warm palette of reds and yellows.",
+        "In its own subdued, mellow way, Once is just about perfect.",
+        "Once proves to be as smart and funny as it is sweet; it swirls with ambiguity and conflict beneath a simple surface. In all of 88 minutes, Mr. Carney's singular fable follows its guy and girl through a week of musical and emotional growth that could suffice for a lifetime.",
+        "The music is so rich and completely satisfying and the characters so appealing Once makes us believe that this is all happening right in front of our eyes. We fall for each of these young people at the precise moment they are falling for each other, and what could be better than that?",
+        "It's a very small piece, working in a deceptively casual storytelling style. But it's my favorite music film since \"Stop Making Sense,\" and it's more emotionally satisfying than any of the Broadway-to-Hollywood adaptations made in the last 20 years.",
+        "The songs don't advance the narrative lyrically so much as follow the two characters' uncertain relationship through the slow realization of their themes; in particular a scene in which they first jam together in the back room of a music store is a gem.",
+        "Once is the first rock musical that actually makes sense. People don't burst into song in this movie because the orchestra's swelling out of nowhere. The guy and the girl are working musicians -- or they'd like to be, if they could make a living at it -- and they're played by working musicians.",
+        "A miracle of a movie that is both fairy tale and slice of life.",
+        "Once is the kind of film I've been pestered about ever since I started reviewing again. People couldn't quite describe it, but they said I had to see it. I had to. Well, I did. They were right.",
+        "Music aside, what finally puts Once over and makes it a film you can watch more than once is its slight but thoroughly credible realism.",
+        "There's not a false moment within the film's 88-minute running time, nor many that could be done any better.",
+        "Its low-key affect and decidedly human scale endow Once with an easy, lovable charm that a flashier production could never have achieved. The formula is simple: two people, a few instruments, 88 minutes and not a single false note.",
+        "Ultimately, Once transcends even its own ambitions, becoming a complex meditation on relationships, Irish culture, and music.",
+        "Focusing strictly on stripped-down performances of great music and the charming chemistry between the two leads, it's a perfectly realized yet unassuming movie that deserves to find a big audience.",
+        "What \"Rent\" should have been, Once is: a Bohemian rhapsody.",
+        "Once may not boast stellar production values or elaborate dance numbers, but in its own scruffy way it captures the spirit of the genre better than any recent Hollywood musical.",
+        "It's a magical, beguiling wonder.",
+        "Once is a film for anyone who has ever been transported by the power and passion of music.",
+        "Most movies have music, some movies are musicals, but very few movies combine the two with the grace and pure eloquence of Once.",
+        "The film drags a bit and Irglova's inexperience as an actor sometimes leaves her costars in the lurch. But it's a sweet little film just the same.",
+        "The film has enormous charm and zero pretense.",
+        "Yet the magic of the movie is how utterly wrenching it renders these songs, which thrive alongside the film's simple, eloquent, dusky narrative.",
+        "Although there's plenty of music, and plenty of joy, in Once, it's ultimately a quiet, wistful picture.",
+        "Even the uninitiated will be hard-pressed to resist the movie's charms, from its likable leading players and its charming Dublin setting to its wistful take on modern love.",
+        "The year\u2019s most pleasant cinematic surprise. Once has enough heart, wit, verve and sheer songwriting genius to ensure you\u2019ll see it far more times than its title suggests.",
+        "This isn't a perfect motion picture but, in the midst of summer's vapid pursuit of spectacle, a movie that provides real heart and emotion is a rare find.",
+        "Once isn't especially complex, but the chemistry between its appealing leads (who contribute to the lovely score) feels deeply true. You'd have to look awfully hard to find such sincerity in a Hollywood romance.",
+        "This is a very little film with a very large heart.",
+        "This simple story of a Guy and a Girl and their music is very appealing.",
+        "I can't imagine anyone seeing Once and not instantly falling in love with it.",
+        "A film of limited production values, a low-quality picture and the occasional flubbed camera move. But it makes up for these flaws with sharp observations, compelling characters and a great collection of music.",
+        "Winningly unpretentious tale uses a wispy romantic narrative as a vehicle for attractive original tunes."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "\"Once\" works so well in the realm of its own simplicity: two people connect over their love of music, and the week that they share together is fulfilling enough to last a lifetime. The music, written and performed by the two leads Glen\"Once\" works so well in the realm of its own simplicity: two people connect over their love of music, and the week that they share together is fulfilling enough to last a lifetime. The music, written and performed by the two leads Glen Hansard and Mark\u00c3\u00a9ta Irglov\u00c3\u00a1, is pure bliss and the movie is an independent film, so the dialogue and character interactions are allowed to feel genuine.",
+            "review_date": "2010-08-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Brilliance.",
+            "review_date": "2007-06-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I can't get the movie or the music out of my head weeks after seeing it. It is simply the best movie musical of all time.",
+            "review_date": "2008-01-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The magic of this film definitely lies in the power of the music but with an added bonus: the low-budget simplicity of how it is all executed before your eyes...absolute beauty.",
+            "review_date": "2009-08-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "this movie speaks to the soul. it's uplifting and heartbreaking at the same time, painfully real. the sort of honest, engaging, intelligent romance that hollywood couldn't make in a month of sundays. the music is fabulous",
+            "review_date": "2007-11-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wonderful story, wonderful music. A refreshingly simple story with palpable chemistry between the 2 leads, even if the story doesn't go where you might expect.",
+            "review_date": "2007-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Perfectly magical and magically perfect....I haven't seen a better film this year.",
+            "review_date": "2007-07-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film's stratagem to attract audiences is its simplicity and honesty, and that is enough in abundance.The bottom line is that Once is a straightforward romantic story at its core, but the flirtation is natural. Nothing cheeky or withThis film's stratagem to attract audiences is its simplicity and honesty, and that is enough in abundance.The bottom line is that Once is a straightforward romantic story at its core, but the flirtation is natural. Nothing cheeky or with tasteless comedy in between.Everything flows through the actions of the characters and the most important thing that brings them together in the first instance, which is the music.This is the kind of film that has zero ambition to be something it is not. It treats its audience with respect by showing them without gimmicks that what it offers is a story that doesn't seek to entertain you with filler characters or cheap sentimentality.The two of them and the music are the engine that drives everything and Once without any complexity becomes a small but very pleasant experience that when it ends is really satisfactory.",
+            "review_date": "2022-04-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was mildly entertaining and definitely had some songs that stuck in my head. However, the dialogue and story line lacked cohesiveness and fluidity, among other things. The ending definitely helped the movie, IMO, but otherwise, I It was mildly entertaining and definitely had some songs that stuck in my head. However, the dialogue and story line lacked cohesiveness and fluidity, among other things. The ending definitely helped the movie, IMO, but otherwise, I wasn't entirely impressed.",
+            "review_date": "2008-02-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was like a MTV \"behind the music show\" it was slooooooow, not fun to watch, and dialog hard to understand for U.S. english speakers.",
+            "review_date": "2007-12-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The only thing of interest in this move is the beautiful music. But let's not judge a movie based on the soundtrack. The story is paper thin, and the weakest link is Irglova, who adds very little and is unconvincing as an actress. All The only thing of interest in this move is the beautiful music. But let's not judge a movie based on the soundtrack. The story is paper thin, and the weakest link is Irglova, who adds very little and is unconvincing as an actress. All she does in the first fifteen minutes is ask a stranger multiple times about his old girlfriend. The fact that they play out entire songs that don't drive the plot is another mistake. One-dimensional characters and lack of story kill this film. I saw Hansard & Irglova in concert and unlike the movie, didn't walk away wanting my money back.",
+            "review_date": "2008-11-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "We wanted to see this musical based on the instruments and the singing.  That was all awesome but the language was terrible!  If you don't mind hearing the \"F\" bomb every sentence, then this musical is for you.  We really would have enjoyedWe wanted to see this musical based on the instruments and the singing.  That was all awesome but the language was terrible!  If you don't mind hearing the \"F\" bomb every sentence, then this musical is for you.  We really would have enjoyed this musical based on it's content however, it was ruined!  Maybe they talk that way in Ireland and that's the reason the language was so foul!  Either way, could have done without it!!!!!!!",
+            "review_date": "2012-08-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Talk about doing the right thing in the end? Going back to a woman who cheated on you and who sounds like she wants to throw up while talking on the phone with you? And going back to an out of shape unattractive guy you don't even care Talk about doing the right thing in the end? Going back to a woman who cheated on you and who sounds like she wants to throw up while talking on the phone with you? And going back to an out of shape unattractive guy you don't even care about just because he's from the Czech Republic unlike the younger, more attractive man you've recently fallen in love with? Give me a break. Good music but the worst ending since The Godfather Part 3.",
+            "review_date": "2008-02-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A great, small film with unexpectedly strong performances from non-actors. So much great music (with maybe a bit too much repetition...), great pacing and real people acting, and talking, like real people. That's a nice change of pace.",
+            "review_date": "2008-03-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "it's very difficult to create genuine and big emotion out of such small moments in a film. but once probably does it better than any movie I've ever seen with the possible exception of 'eternal sunshine of the spotless it's very difficult to create genuine and big emotion out of such small moments in a film. but once probably does it better than any movie I've ever seen with the possible exception of 'eternal sunshine of the spotless mind.' and, as a musician i can tell you that there was not one single false note in the songs, or the depiction of the emotional journey that is writing and recording music. no film has ever so successfully captured that very daunting and naked process that can devastate your self-esteem. which is why people often fall in love when making music together. it requires honesty, humility and vulnerability, without somehow losing your integrity. that's what 'once' is about. and for the first time, i truly cannot even fathom the people here who've given this less than a five rating. to those people: at exactly what point in your life was your heart surgically removed?",
+            "review_date": "2007-07-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie had one or two good songs, but that was it and they continued to play them over and over. There wasn't much to the movie. It was boring and was disappointing after hearing so much positive regarding it.",
+            "review_date": "2008-02-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie could have been the most maudlin, saccharine, melodramatic and sexed-up movie of the year. Instead, it is the most beautiful. Partly because of the transcendent musical collaboration between Hansard and Irglova, but also the This movie could have been the most maudlin, saccharine, melodramatic and sexed-up movie of the year. Instead, it is the most beautiful. Partly because of the transcendent musical collaboration between Hansard and Irglova, but also the simple and elegant (yet seemingly low-fi) directing of John Carney. Hollywood could never make this movie in its wildest dreams. I'm so happy that a small indie movie like this became the grassroots phenomenon that it is now. Give Carney, Hansard, and Irglova awards, fetes and money and let them keep doing what they're doing: adding beauty to the world and proving to the Hollywood bigwigs that viewers DON'T want to see the next pastiche of fantasy, special effects and silicone tits. I hope more movies can be made like this soon - but if not, I'm happy to sit cross-legged in front of my TV and watch Once again for the twentieth time.",
+            "review_date": "2007-10-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The plot of the 120 minute film goes absolutely nowhere and amounts to nothing, much like the typical singer/songwriter songs that fill out the running time. Worse still, all the people falling over these simple songs like he's the next The plot of the 120 minute film goes absolutely nowhere and amounts to nothing, much like the typical singer/songwriter songs that fill out the running time. Worse still, all the people falling over these simple songs like he's the next Bob Dylan makes this seem like nothing more than a vanity project. The movie is also filmed in a very jerky manner that made many of the older people in the audience sick. Avoid at all costs.",
+            "review_date": "2007-06-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Totally agree with negative reviews. How did this get such great reviews/ It wasn't terrible, but it offered so little. It wasn't touching, romantic, well written, or well directed. The music was fine enough, but that just makes it Totally agree with negative reviews. How did this get such great reviews/ It wasn't terrible, but it offered so little. It wasn't touching, romantic, well written, or well directed. The music was fine enough, but that just makes it feel like a documentary on David Gray.",
+            "review_date": "2007-07-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For a movie that cost 1/1000th (literally) of Transformers to make, it has a million times the heart and soul and sticking power. A month after I saw it, I heard one of the songs on the radio and I was taken instantly back to that amazing For a movie that cost 1/1000th (literally) of Transformers to make, it has a million times the heart and soul and sticking power. A month after I saw it, I heard one of the songs on the radio and I was taken instantly back to that amazing scene in the piano shop and I started to tear up. An amazing film.",
+            "review_date": "2007-07-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Digital video is often used by default, as an answered prayer to the economical wall that had previously stood between the filmmaker and his/her celluloid dream. But here, it makes intellectual sense that \"Once\" should be shot on digital Digital video is often used by default, as an answered prayer to the economical wall that had previously stood between the filmmaker and his/her celluloid dream. But here, it makes intellectual sense that \"Once\" should be shot on digital video; after all, a street musician is the very embodiment of the DIY spirit. \"Once\" looks right, a little amateurish(this filmmaker is not as accomplished as The Dardenne Brothers), but just like good indie-rock, the reduced budget and professional know-how are nullified by a suffusion of organic emotion that you can't get from a mainstream product. \"Once\" achieves a tone that's seemingly impossible; it's diabetic-sweet without making you want to drink a lot of water. It's absolutely how this budding couple's love never truly breaks free from the abstract. \"Once\" is a gem; every song, a ruby.",
+            "review_date": "2007-07-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "?The reviews are accurate. Great antidote to typical glossy Hollywood love stories.",
+            "review_date": "2007-07-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An unconventional love story. It flowed very well, and the songs added much depth and tenderness to each of the main characters. The emotions seemed real with an outcome that was as practical and realistic as it should have been. A simple An unconventional love story. It flowed very well, and the songs added much depth and tenderness to each of the main characters. The emotions seemed real with an outcome that was as practical and realistic as it should have been. A simple film, with a whole lot heart than any other movie.",
+            "review_date": "2007-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The music in this movie is fantastic. The way he sings, it really makes you feel what he is feeling at that time. It is a small scale irish love story that may surprise you.",
+            "review_date": "2007-08-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Low-key, enjoyable, charming. I left the theatre and immediately went in search of the CD. Wound up buying it for less on I-Tunes. A word of caution: After reading all the glowing reviews, don't go in expecting to be blown away as if Low-key, enjoyable, charming. I left the theatre and immediately went in search of the CD. Wound up buying it for less on I-Tunes. A word of caution: After reading all the glowing reviews, don't go in expecting to be blown away as if this were some major blockbuster. It's just a good little movie and well worth your time.",
+            "review_date": "2007-08-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Certain publications like Spin Magazine have the nerve to call the Frames Coldplay knockoffs despite the fact that they had been releasing records 10 years before Coldplay. That doesn't matter, when Mr. Hansard is holding up his Oscar Certain publications like Spin Magazine have the nerve to call the Frames Coldplay knockoffs despite the fact that they had been releasing records 10 years before Coldplay. That doesn't matter, when Mr. Hansard is holding up his Oscar for Song of the Year we know exactly where he's going to shove that Oscar. Freakin amazing. Glen has the world in his grasp. From greatest live band in the world to greatest musical film of our era. Wait to go. Eat Your heart out Almost Famous.",
+            "review_date": "2007-09-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Never have I become so emotionally invested in a film. I enjoyed every minute of it. Never dull, never slow, always beautiful. I felt like I got to know \"Guy\" and \"Girl\" on very deep levels as people, not actors. The music is haunting and Never have I become so emotionally invested in a film. I enjoyed every minute of it. Never dull, never slow, always beautiful. I felt like I got to know \"Guy\" and \"Girl\" on very deep levels as people, not actors. The music is haunting and hard to forget. Highly, highly recommended to anyone with a heart.",
+            "review_date": "2007-09-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A sincere, honest, charming, realistic and heartwarming low key romantic musical film.",
+            "review_date": "2007-09-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I liked the opening. I liked her a lot and wouldn't have watched the whole film if she hadn't have been in it. I got sick of hearing the same song over and over. I hated the camera work. I found him tedious. I found the storyline I liked the opening. I liked her a lot and wouldn't have watched the whole film if she hadn't have been in it. I got sick of hearing the same song over and over. I hated the camera work. I found him tedious. I found the storyline severely lacking. And although the characters in the movie thought the music brilliant, I didn't.",
+            "review_date": "2007-09-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I heard so many good things about this movie's music and was completely let down. I swear to god, i am not exaggerating, i had to cover my ears during that scene in the back of the music shop. She was \"harmonizing\" with him while he I heard so many good things about this movie's music and was completely let down. I swear to god, i am not exaggerating, i had to cover my ears during that scene in the back of the music shop. She was \"harmonizing\" with him while he sang- really just singing like a 6th below him the entire time. a lacking storyline for yet another stupid artsy film.",
+            "review_date": "2008-01-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My favorite movie of the year. Just a wonderful flick. A friend recommended it to me and I couldn't thank him enough for telling me to go see it. The actors are the real musicians, and they are fantastic. Getting to watch the live My favorite movie of the year. Just a wonderful flick. A friend recommended it to me and I couldn't thank him enough for telling me to go see it. The actors are the real musicians, and they are fantastic. Getting to watch the live performances within the context of the film is awesome. And the story is perfect. Overall, just a wonderful film. I can't recommend it enough.",
+            "review_date": "2008-01-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I, too, was engrossed in this film. Man, talk about doing the right thing in the end.",
+            "review_date": "2008-02-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is outstandingly brilliant, it's like a modern musical without those pompous singers singing solemn songs. With a credible story and down-to-earth characters, who are reflected in their moving songs, this film is actually This movie is outstandingly brilliant, it's like a modern musical without those pompous singers singing solemn songs. With a credible story and down-to-earth characters, who are reflected in their moving songs, this film is actually able to make you cry and, after having watched the whole movie, overwhelm you with joy. But there's also enough evidence that 'once' even works in its moment without the music. The scene, where the 3 male cohabitants appear in the female protagonists apartment to watch TV is at the same time comical and striking and better than many of Hollywood's so-called milieu-surveys.",
+            "review_date": "2008-02-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great small time movie.",
+            "review_date": "2009-01-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Overall a fine movie. But a tad overrated. I've heard many critics call it the best of the year. I doubt it!",
+            "review_date": "2007-10-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of my favourite movies of ALL TIME. Exquisite love story, great music. Loved the recording studio scenes in particular. After reading up on the back story to the making of the movie, I questioned what great acting even is. These One of my favourite movies of ALL TIME. Exquisite love story, great music. Loved the recording studio scenes in particular. After reading up on the back story to the making of the movie, I questioned what great acting even is. These non-actor actors blew me away.",
+            "review_date": "2007-10-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The film takes off with a magical early scene where the two leads make wonderful music together almost before they realize it. The funny-melancholy mood reminded me of a good Chekhov story: quiet, real, and profound. See it!",
+            "review_date": "2007-10-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Shot for $150,000, this film should be an inspiration to independent filmmakers everywhere -- that personal films, about people, can be made on a low budget without car crashes and big stars. It's fantastic.",
+            "review_date": "2007-05-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just pure beauty.",
+            "review_date": "2007-05-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Quite possibly the best Movie about music in at least a decade. This film is so refreshing in it's handling of the musical genre, This film is so anti-Hollywood, all I could do was stand up and cheer on it's splendid, beautifully Quite possibly the best Movie about music in at least a decade. This film is so refreshing in it's handling of the musical genre, This film is so anti-Hollywood, all I could do was stand up and cheer on it's splendid, beautifully sad, artistic statement.",
+            "review_date": "2007-05-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Touching and inspiring, luscious music!",
+            "review_date": "2007-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A simple story told very well of a boy meeting a girl and their making music together at a recording studio. The music was very enjoyable and the story was heartfelt.",
+            "review_date": "2007-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Brilliant. I didn't see the ending coming and it blew me away. The best movie I've seen so far this year. See it on the big screen, before it's too late.",
+            "review_date": "2007-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very good small budget independent film. The songs went on a bit too long but still a good film. Very nice to see a female character with brains and talent.",
+            "review_date": "2007-06-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I'm completely baffled by the fellow reviews on this site. You must consider this movie a musical if you want to take its reviews seriously, because the plot moves at such a snail's pace that it's hard to become engaged at all I'm completely baffled by the fellow reviews on this site. You must consider this movie a musical if you want to take its reviews seriously, because the plot moves at such a snail's pace that it's hard to become engaged at all with this movie. Not until the halfway point do the two lead's finally start to gel a bit (along with the first plot revelation). We are supposed to find the Czech immigrant's willingness to drag a vaccum cleaner around Dublin as well as her poor fashion sense as cute and endearing, but it felt forced by Carney in my opinion, like a poor man's Sam from Garden State. I feel that musicians will feel much more positively about this movie than I did, and that it must deliver something to them that it didn't bring to me. If that's the case, then may they enjoy it, because personally I haven't felt this lost at a movie since \"My Summer of Love,\" another highly praised movie that I walked away from wondering what I missed.",
+            "review_date": "2007-06-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing cinema. Music & actors fantastic & fresh. I cried 5 times!",
+            "review_date": "2007-06-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Effortless with an incredible score and natural performances by it's non actor actors. Love it. Not one false note. If you don't go see this movie you really are missing out.",
+            "review_date": "2007-07-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I agree with Bob W. I walked out of this film. Banal music, nauseatingly shaky camera work, irritating male character. The people I was with, one of whom is a filmmaker, also thought it was terrible. What do people see in this film?",
+            "review_date": "2007-07-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great Movie! Am shocked to see the negative criticism. Sometimes people simply refuse to to admit they like something out of fear of following. I have a friend who is a film maker too, and I am sure he would appreciate this movie. Remember, Great Movie! Am shocked to see the negative criticism. Sometimes people simply refuse to to admit they like something out of fear of following. I have a friend who is a film maker too, and I am sure he would appreciate this movie. Remember, these are musicians, not actors.",
+            "review_date": "2007-07-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Thoroughly charming film, all the more attractive because it is delivers a simple story. Has heart and guts and does not need to apologize for its small budget. Well done!",
+            "review_date": "2007-07-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just a good movie that makes you feel all warm and happy inside! Nothing really happens in the movie, yet everything happens at the same time! Definitely a must see!",
+            "review_date": "2007-09-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There are only two movies this year that I haven't enjoyed to a certain extent. This was one of them. I'm sure it will be nominated and possibly win for Best Original Screenplay, but there was no screenplay. Just songs being played There are only two movies this year that I haven't enjoyed to a certain extent. This was one of them. I'm sure it will be nominated and possibly win for Best Original Screenplay, but there was no screenplay. Just songs being played interminably. Still, I would rather have listened to the music than had the silly story that went along with it. This movie is not the reason I go to movies.",
+            "review_date": "2007-09-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Could not finish the movie - yawn - like the same song played the entire movie.",
+            "review_date": "2008-01-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Possibly the most-hyped movie of 2007, Once is a lot like its characters: seedy and unprepossessing on the surface, but wildly in love with its own self-proclaimed whimsical creativity just beneath. Ultimately just another story about a boy Possibly the most-hyped movie of 2007, Once is a lot like its characters: seedy and unprepossessing on the surface, but wildly in love with its own self-proclaimed whimsical creativity just beneath. Ultimately just another story about a boy with a guitar and the girl who inspires him (the ballyhooed \"modern musical\" angle doesn't hold up to scrutiny; musicals use music to tell a story, but the plot of Once grinds to a halt every time the characters feel like cranking out another falsetto-y power ballad about lost loves, which is often), the only truly original thing about Once is that it completely excises the obligatory love story from the formula, replacing it with a sort of friendship-of-desperation between two very lonely people who only seem to be together at all because they both happen to be musicians. They chat about random trivia, record some songs, lean on each others' shoulders a bit, and that's the whole substance of their \"captivating, elegant, uplifting, engaging, magical\" relationship (the girl, especially, is clearly holding the guy at arm's length for most of the movie, even though it was she who creepily approached him in the first place). They are NOT in love, though hardly anyone who saw the movie seems to realize this, and it's clear from early on that they probably never will be what with all the complications in their lives. As for the music, one reviewer summed it up with a single word (\"Coldplay\") and there's nothing I can add to that. As one last thought, take a look through the comments and pay attention to how many of the people praising Once don't seem to actually like the movie itself so much as the fact that it's not a major Hollywood film. I give it credit for shrewdness in that regard: there's definitely a demographic who like having their scruffy-indie-underdog-outsider egos stroked and Once plays them like a Stradivarius. Doesn't make it a good movie, though.",
+            "review_date": "2008-01-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Once\" is unique because it uses real popular music; the genuine article, like Gillian Armstrong's \"Starstruck\"(this 1982 musical from Australia employed new-wave songs), or more recently, Lars Von Trier's \"Dancer in the\"Once\" is unique because it uses real popular music; the genuine article, like Gillian Armstrong's \"Starstruck\"(this 1982 musical from Australia employed new-wave songs), or more recently, Lars Von Trier's \"Dancer in the Dark\"(featuring the pop stylings of Icelandic siren Bjork); not some Broadway notion of rock such as \"Rent\", or \"Jesus Christ Superstar\". \"Once\" is truly, a trailblazing film, an alternative to the traditional musical; no camp, no bigger than life characters are allowed. The music is humble. The people are actual size. You actually feel cool watching it. The songs have a intimate quality to them because they were meant to be played in a coffehouse or bar, not in a concert hall. \"Falling Slowly\" kills me, absolutely kills me. If you're still in the recovering process of unrequited love, it'll kill you, too. Rolling Stone's Rob Sheffield wrote an amazing memoir about his late music critic wife called \"Love is a Mix Tape\" last year about the role music plays in our personal lives. An appropriate title for \"Once\" would be \"Love is a Demo Tape\". Every time the guy(Glen Hansard) listens to that demo, he'll be reunited with the girl(Marketa Irglova). It's a relationship in the abstract. They made beautiful music together. \"Once\" is the first and last word on romantic disappointment; how you have to take it on the chin and carry on. It was, by far, the best film of 2006. God only knows it's better than \"ATONEMENT\"!!!!!!!!!",
+            "review_date": "2008-01-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Similar to the disappointment of waking up on Christmas morning, not to the bright red bmx you had been promised, but instead, 6 pairs of striped socks- this movie is banal, self-reverential, sentimental tripe. I have lost two hours of my Similar to the disappointment of waking up on Christmas morning, not to the bright red bmx you had been promised, but instead, 6 pairs of striped socks- this movie is banal, self-reverential, sentimental tripe. I have lost two hours of my life and I will be contacting Glen Hansard to arrange getting them back.",
+            "review_date": "2008-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Surely I must have been on another planet and it all just went over my head. People were dazzled and touched by this movie?? I was frazzled and bamboozled. I banged my head against the wall to make sure I wasn't comatose.",
+            "review_date": "2008-01-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wow.... Really, the best movie of 07. It strikes you in all the right places. Very beautiful.",
+            "review_date": "2008-01-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a very good film. It is honest, touching, and vulnerable in a way that is very affecting. The minimalist treatment of this film may not be for all; there are no carcrashes, no sex, no special effects. My two complaints are that it This is a very good film. It is honest, touching, and vulnerable in a way that is very affecting. The minimalist treatment of this film may not be for all; there are no carcrashes, no sex, no special effects. My two complaints are that it feels a little too short and the tale doesn't quite wrap up. Still emotionally satisfying, but not fully. It's hard to achieve a satisfying ending without being cheesy, but I would have liked a better attempt... what we have is 90% there for me. The music stays with you and is really what puts this movie over the top. Will it be an enduring classic? Only time will tell, but it is still leaps and bounds above 99% of the crap filling cineplexes today.",
+            "review_date": "2008-01-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A lovely film with excellent music.",
+            "review_date": "2008-02-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A slow moving film that seduces the viewer by its sensual, passionate and non-sexual build-up into a magnificent conclusion about friends and art. More musically based than acting based.",
+            "review_date": "2008-02-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I haven't felt so much emotion for a movie since Dancer in the Dark. Of course, for that it was heartbreaking, this was uplifting. It was beautiful, and I believed the characters, the natural wonder in their connection, and the sweet, I haven't felt so much emotion for a movie since Dancer in the Dark. Of course, for that it was heartbreaking, this was uplifting. It was beautiful, and I believed the characters, the natural wonder in their connection, and the sweet, unassuming nature of everything. You bet they played the songs time and time and time again - and I listened to them time and time and time again. Watch it for yourself, then judge - I loved it, you might not. And if you don't, it doesn't make you a bad person, but maybe not one that I'd be that akin to. Loved by me, loved by my wife. Huge fan of The Frames now.",
+            "review_date": "2008-02-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Greatest soundtrack I have ever heard. Cinematography keeps the scenes personal and real. Best movie I have seen in a long time.",
+            "review_date": "2008-02-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There's a great line in Julius Ceasar. Ceasar and Marc Anthony are observing Cassius, and Caesar says that Cassius \"hears no music.\" The people who rated this movie below a 5 obviously fall in the same category as malcontent There's a great line in Julius Ceasar. Ceasar and Marc Anthony are observing Cassius, and Caesar says that Cassius \"hears no music.\" The people who rated this movie below a 5 obviously fall in the same category as malcontent conspirators yearning for blood lust. This movie is miraculous!",
+            "review_date": "2008-02-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was enchanting, and captures the truth and beauty of making music, writing songs, and falling in love. Sometimes all three are connected, as one can see from how the main character writes lovely songs about his broken This movie was enchanting, and captures the truth and beauty of making music, writing songs, and falling in love. Sometimes all three are connected, as one can see from how the main character writes lovely songs about his broken relationship. The scene in the music shop captures that feeling perfectly; it's a gem of a scene, showing, not telling, how music can help cement a bond of love & understanding between two people. It was completely natural, filled with warmth and ambiguity, like real life.",
+            "review_date": "2008-02-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Tremendous. Simple honest acting but incredible music. Why can't hollywood make music films like this? Because this film was made around incredible songwriters who just happen to be able to act as well. The music wasn't written by Tremendous. Simple honest acting but incredible music. Why can't hollywood make music films like this? Because this film was made around incredible songwriters who just happen to be able to act as well. The music wasn't written by some cheesy stage musical nob but by someone who lives and breathes songwriting and who also perfomed it in an honest and believable fashion, like all music should be performed. A work of passion, talent and belief....what else do you need?",
+            "review_date": "2008-03-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An unpretentious Irish musical that captures your heart with its beautiful music, simplicity, deft timing and refusal to take you where you expect to go. With the feel of a documentary, it tells the story of a relationship between two skilledAn unpretentious Irish musical that captures your heart with its beautiful music, simplicity, deft timing and refusal to take you where you expect to go. With the feel of a documentary, it tells the story of a relationship between two skilled but struggling musicians whose love for each other blossoms through their music. In my humbl;e opinion, it belongs in the Top Ten motion pictures of the decade. The film and its beautiful music continues to haunt me months after viewing, an event that introduced me to a secret those who have not seen the movie have yet to share. Thank you, writer/director John Carney and the rest oif the cast and crew. Glen Hansard and Marketa Irglova will forever be part of my psyche because of your collaboration!",
+            "review_date": "2008-05-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A Soul is a difficult thing to reach with a movie or a song, because it means that you have to have performers with authentic Soul. Hollywood has very few of these, and most of the great music is created by people in small attic rooms above A Soul is a difficult thing to reach with a movie or a song, because it means that you have to have performers with authentic Soul. Hollywood has very few of these, and most of the great music is created by people in small attic rooms above their parent's flat. This movie, its music and performances are authentic, and that is why they are great. And rare.",
+            "review_date": "2008-06-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A sonic and emotional feast--the rare kind that satisfies the hunger and satiates the desire for a bittersweet treat. The combination of psuedo-doc and musical diversion echoes the emotional range of Dancer in the Dark minus the choreography A sonic and emotional feast--the rare kind that satisfies the hunger and satiates the desire for a bittersweet treat. The combination of psuedo-doc and musical diversion echoes the emotional range of Dancer in the Dark minus the choreography and tragedy. If you need inspiration, a good cry or if you simply love music, look no further.",
+            "review_date": "2009-12-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is an everyday story with beautiful music.",
+            "review_date": "2009-03-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A sweet, moving story. I'm glad I saw it. But for an even better cinema-verite musical set in Dublin, watch \"The Commitments.\" I've seen that movie at least 20 times and would gladly watch it again.",
+            "review_date": "2009-09-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This was a great movie, a very romantic, but unforced story line and compelling actors, especially the girl. It bothers me that people are choosing to give this movie a 0 simply to \"counteract\" the 10's people chose to gave it. If you This was a great movie, a very romantic, but unforced story line and compelling actors, especially the girl. It bothers me that people are choosing to give this movie a 0 simply to \"counteract\" the 10's people chose to gave it. If you think its worth a 4, then fine, but I don't think this movie warrants a zero.",
+            "review_date": "2007-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Totally captivating.......highly recommended.",
+            "review_date": "2007-11-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "with all the forgettable rubbish hollywood spends hundreds of millions dollars on and shoves in our faces its comforting to find a movie made in our own city that many of us could afford to make and remember fondly for many years",
+            "review_date": "2007-11-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Little but deep, rough but sweet, quiet but moving, silent but full of music. That's ONCE, an almost perfect film for our times. Don't miss it, please.",
+            "review_date": "2007-12-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I honestly don't get it. The movie had its cute moments but overall I was bored to tears. I don't see how this movie was a great romantic wonder. I'm sorry it just didn't register with me at all.",
+            "review_date": "2007-12-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wonderful, irresistible movie with engaging, attractive leads that you root for. Someone described it as a \"musical for the art house crowd\", and this is probably a fair assessment, since it's light years away from big hollywood Wonderful, irresistible movie with engaging, attractive leads that you root for. Someone described it as a \"musical for the art house crowd\", and this is probably a fair assessment, since it's light years away from big hollywood musicals. Here, the songs seem like a natural part of the story and describe better than any dialogue, what the characters are feeling. And it's refreshing to see a movie where none of the main characters have cell phones! Touching and moving without being sentimental or syrupy. I saw this in the Talk Cinema series where the movie is discussed after the viewing. There is one scene where the [***SPOILER***] boy has found out that the girl is married and asks her if she loves her husband. She reponds in Czech and doesn't translate. What she said, according to a member of the audience who speaks Czech, was \"No, I love you.\" See this, you won't regret it.",
+            "review_date": "2007-05-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The only reason to see this is for the music. Frankly, I've seen better stories in concert films. I went expecting to see a Musical, meaning something where the music is used to tell the story, but that's not really what's The only reason to see this is for the music. Frankly, I've seen better stories in concert films. I went expecting to see a Musical, meaning something where the music is used to tell the story, but that's not really what's going on here. In this movie, the characters are composers and performers and the music is what they do, all out of proportion to telling a story. This is more like watching a CD with brief narrative interludes.",
+            "review_date": "2007-05-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Most satisfying movie in a while. Great music with great cast. Could not have been made by Hollywood.",
+            "review_date": "2007-05-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The language was unnecessarily crude for such a sweet story. The music was not that great, but the acting and the story made it worth NOT walking out - which was our initial reaction in the first five minutes. We stayed and our score wentThe language was unnecessarily crude for such a sweet story. The music was not that great, but the acting and the story made it worth NOT walking out - which was our initial reaction in the first five minutes. We stayed and our score went from an initial 1- up to a 5.",
+            "review_date": "2007-06-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This little Irish item is the best Irish film since the commitments and maybe better. A terrific chick Flick, in the best sense of the phrase. The chemistry and music are 'spot on;!",
+            "review_date": "2007-06-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Best movie of the year. I can't get it out of my head. Fabulous and simple story. Great cast. Wonderful music. Extremely powerful.",
+            "review_date": "2007-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An amazing movie. The ultimate anti-Hollywood experience at its best.",
+            "review_date": "2007-06-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A sweet and lovely film. The characters are so genuine and real. The realism is almost like a documentary....in the best sense. Real life with all its ambiguities and vicissitudes, and a song and music score that evokes yearning, joy, and A sweet and lovely film. The characters are so genuine and real. The realism is almost like a documentary....in the best sense. Real life with all its ambiguities and vicissitudes, and a song and music score that evokes yearning, joy, and sorrow. The film is a tender affirmation of forebearance and generosity.",
+            "review_date": "2007-06-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Once is a small, simple no-frills movie, it also happens to be simply Brilliant. Its simplicity is overwhelming and beautifully honest. Once is the best, most touching film I've seen this year and the best movie musical since \"All That Once is a small, simple no-frills movie, it also happens to be simply Brilliant. Its simplicity is overwhelming and beautifully honest. Once is the best, most touching film I've seen this year and the best movie musical since \"All That Jazz\". If you're lucky enough to get it on one screen in your town, make the trip, you won't regret it!!",
+            "review_date": "2007-06-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When I went to see this film, I was pleasantly surprised by how many people were in the theater. Who in their right mind would choose to see a small film about two people rediscovering themselves and inspiring each other to achieve things When I went to see this film, I was pleasantly surprised by how many people were in the theater. Who in their right mind would choose to see a small film about two people rediscovering themselves and inspiring each other to achieve things that they were incapable of previously. After all summer is a time for Ogres and Pirates, right? With a good mix of humor, wit, a bitter-sweet love story and incredible music, this film is a rare gem that has the power to inpire its audience. The main characters exude passion towards their music as they find a temporary reprieve from their troubled lives. Over a week they build something that will change each of their lives forever. I was not surprised that many of the people in the theater couldn't grasp the extent of what they had just experienced as they left the theater. The transformation/journey that these characters go through is an experience that anyone in life would be lucky to have, once.",
+            "review_date": "2007-06-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Sometimes a movie can be great when it just introduces you to characters who are nice, sweet, believable and incredibly talented. The great thing about this movie is that you feel like you've gotten to know some friends.",
+            "review_date": "2007-06-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "All of my instincts tell me not to hype this movie because it's the kind of small film that may crumble under the weight of someone's high expectations, but as its characters might say in a charming Irish brogue or beautiful Czech All of my instincts tell me not to hype this movie because it's the kind of small film that may crumble under the weight of someone's high expectations, but as its characters might say in a charming Irish brogue or beautiful Czech sneer, f.ck all that. Every review I've read has contained some variation of the phrase \"This is the musical for people who hate musicals\" but more accurately, I'll say this is the musical for people who generally hate musicals because they so desperately want to love musicals. (In case you don't know, that's me.) It's 'gritty' and 'realistic' but also an amazing fairy tale. It's 88 minutes that capture more truth and pain about love and the creative process than any movie I've maybe ever seen, yet it's a fantasy anyone with a soul hopes might happen to them. To say much more would cheapen it. See this movie.",
+            "review_date": "2007-06-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's rare when my wife and I agree on a movie. We went to see this on a whim, knowing nothing about it. Both agreed, best movie we've seen this year. After wasting my time seeing Spiderman 3 and Pirates 3 over the last few It's rare when my wife and I agree on a movie. We went to see this on a whim, knowing nothing about it. Both agreed, best movie we've seen this year. After wasting my time seeing Spiderman 3 and Pirates 3 over the last few weekends, it was great to see a simple story well-told with great performances and so much heart.",
+            "review_date": "2007-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beautiful, heartfelt movie. I think the music was among the best the singer/songwriter genre produces (backhanded complement), and certainly better than I've come to expect from a musical or a guy on a guitar. I like the main Beautiful, heartfelt movie. I think the music was among the best the singer/songwriter genre produces (backhanded complement), and certainly better than I've come to expect from a musical or a guy on a guitar. I like the main characters, the feel, and the evolution of their relationship.d",
+            "review_date": "2007-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Well, the opinions are certainly split here. The truth is that those who don't like \"Once\" aren't reacting against the fact that it's a small independent film. Many small independents can be annoying, I agree. But this one Well, the opinions are certainly split here. The truth is that those who don't like \"Once\" aren't reacting against the fact that it's a small independent film. Many small independents can be annoying, I agree. But this one isn't. It's authetic and unpretentious. No, what those few ones and zeroes are reacting against is the unabashed romanticism of the film. And for that reaction you really have to pity them. And as to the \"filmmaker\" who thought it was terrible. Pretty safe to say he doesn't have a clue. I mean even if he didn't like it, any artist couldn't help but see the merit in \"Once.\" Absolutely great film.",
+            "review_date": "2007-07-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Charming, lovely, just about perfect. It's a movie other filmmakers SHOULD see, not because others need to make movies like this necessarily. But there are lessons here. After seeing it, I thought about all the movies I've seen Charming, lovely, just about perfect. It's a movie other filmmakers SHOULD see, not because others need to make movies like this necessarily. But there are lessons here. After seeing it, I thought about all the movies I've seen that have bent over backwards with money, big names, contrivances of all kinds to be romantic. This film is a lesson about how little it really takes to tell a wonderful, sincere story that is also romantic. As for the negative criticisms, I tend to ignore them. Every time a movie comes along that gets almost universally positive reviews, there are always those who protest simply because they think it makes them sound smarter. It doesn't. It just makes you sound like you have bad taste. Congrats to all involved with the movie. Lovely story with music I'll remember for a long time.",
+            "review_date": "2007-07-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "No violence, just a sweet love story with a great soundtrack.",
+            "review_date": "2007-07-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie moved me in a magical way and I am seldom moved this way. Do not miss this movie. Footnote: I find it ironic to see a reviewer like Jen L. who gave it a 2 commenting it was a 120 minute film. Actually, Jen L., it was 88 minutes. This movie moved me in a magical way and I am seldom moved this way. Do not miss this movie. Footnote: I find it ironic to see a reviewer like Jen L. who gave it a 2 commenting it was a 120 minute film. Actually, Jen L., it was 88 minutes. What film did you see or do you like to give negative ratings when everyone else is positive?",
+            "review_date": "2007-07-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beautiful movie with good intentions. Songs were perfect for the movie. Its nice to see a genuine movie that is not contaminated with Hollywood BS. The LOVE story was truly there. I'm happy with the ending.",
+            "review_date": "2007-07-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I would vote zero except that I am not sure my vote would be counted. This is one of the worst movies I have ever seen. If I could pick one word to describe it, it would be \"annoying\" The grainy photography gets annoying, his voice gets I would vote zero except that I am not sure my vote would be counted. This is one of the worst movies I have ever seen. If I could pick one word to describe it, it would be \"annoying\" The grainy photography gets annoying, his voice gets annoying, the little turns that appear and go nowhere get annoying, and the fact that nothing is resolved between the guy, his girlfriend and his new found songwriter gets annoying. I simply can't understand the high ratings for this movie. I am not an unsophisticated moviegoer. I like offbeat movies, and artsy movies, but this one is not artsy, and it certainly is way offbeat. It is so offbeat that it totally misses the mark.",
+            "review_date": "2007-07-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The music sucks. Maybe if you really like derivative-folk-rock-david gray rip off ballads you'll like the music. What little story there is is linear and uninteresting. There is a pathetic attempt at some kind of climax that The music sucks. Maybe if you really like derivative-folk-rock-david gray rip off ballads you'll like the music. What little story there is is linear and uninteresting. There is a pathetic attempt at some kind of climax that doesn't pay off bc it's never earned and we have no reason to care for these characters and their relationship whatsoever. Once, was one time too many. BOOM!",
+            "review_date": "2007-07-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beautiful Movie in itself, from the music to the amazing acting from one amateur and one fresh actor is amazing, i wouldn't think it was Oscar potential for acting, but golden globes, this movie is going to get every musical category, Beautiful Movie in itself, from the music to the amazing acting from one amateur and one fresh actor is amazing, i wouldn't think it was Oscar potential for acting, but golden globes, this movie is going to get every musical category, well done, just well done.",
+            "review_date": "2007-07-09",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 133
 }

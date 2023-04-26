@@ -1,652 +1,703 @@
 {
-  "title": "Toy Story 2",
-  "rating": 8.7,
-  "release_date": "1999-11-24",
-  "genre": [
-    "Adventure",
-    "Fantasy",
-    "Comedy",
-    "Animation",
-    "Family"
-  ],
-  "summary": "The sequel to the landmark 1995 computer-animated blockbuster from Disney and Pixar.  This time around, the fun and adventure continue when Andy goes off to cowboy camp and the toys are left to their own devices.  Things shift into high gear when an obsessive toy collector kidnaps Woody -- who hasn't the slightest clue that he's a greatlyThe sequel to the landmark 1995 computer-animated blockbuster from Disney and Pixar.  This time around, the fun and adventure continue when Andy goes off to cowboy camp and the toys are left to their own devices.  Things shift into high gear when an obsessive toy collector kidnaps Woody -- who hasn't the slightest clue that he's a greatly valued collectible.  (Disney/Pixar)… Expand",
-  "critic_reviews": [
-    "One of those rare sequels that's even better than the original.",
-    "Toy Story 2 may not have the most original title, but everything else about it is, well, mint in the box.",
-    "It's a great, IQ-flattering entertainment both wonderful and wise.",
-    "With its agile, clever script and winning characters, Toy Story 2 is that rare thing -- an excellent children's movie with no upper age limit.",
-    "Toy Story 2, like its forebear, will stand the test of time.",
-    "The most entertaining movie of the year.  Funny and action-packed, it's also got that rare thing, heart.",
-    "No parent who's been roped into leading the troops to a matinee need fear being bored: gags are, Simpsons-like, conceived to tickle several generations at once.",
-    "The superrealist images beguile us with their bold wit, and the storytelling is so tight, urgent and inventive there doesn't seem to be a wasted moment. Which makes you wonder -- why can't scripts this clever be written for human beings?",
-    "It not only pushes the computer-generated film envelope to the very edge, it's every bit as charming, funny and exciting as the original. In fact, I enjoyed it quite a bit more.",
-    "What's most amazing is the finely nuanced performances these bits and bytes deliver.",
-    "A sequel that eclipses the original. The toys are back with even more hilarious vengeance. The story's twice as inventive as its predecessor.",
-    "The animation is even more mind-blowing, if that's possible. The characters and objects seem even more palpable and real than last time. There's a thickness to bodies of the human characters and an amazing attention to detail throughout.",
-    "You can't ask for a family film to do more than Toy Story 2. It's smart and playful enough to entertain adults, yet it never aims above the heads of kids.",
-    "Prove(s) once again how ingenious, artful and flat-out entertaining animation can be.",
-    "Toy Story 2 is to \"Toy Story\" what \"The Empire Strikes Back\" was to its predecessor, a richer, more satisfying film in every respect.",
-    "Just as good as the original. In fact, it might even be better. Not only is it just as visually stunning and witty as the first, but it's funnier, more thoughtful and more grown-up.",
-    "Making sure that computer-generated animation will never be the same.",
-    "So funny and smart that holding it up against its predecessor is as pointless as comparing peak episodes of \"Seinfeld.\"",
-    "Pixar's improved computer animation is up to all the demands of this excellent adventure.",
-    "Doesn't have the purity, the sense of discovery, of the first Toy Story, but it's still an utter delight. Its images and gags keep replaying themselves in the mind well after the film is over.",
-    "A technologically marvelous animated movie that's just as funny and inventive as the first, but also more emotionally engaging than most live-action films. This is clearly a sequel in name only.",
-    "Toy Story had a simpler, stronger story and the advantage of being the first of its kind. But it's quickly apparent that TS2 represents a major step forward in computer-animation artistry.",
-    "The sequel is faster, funnier and wilder, with more cunningly contrived computer effects.",
-    "This isn't a made-for-video that they decided to put into theaters, but a version intended from the first to be theatrical. That's important, because it means more detail and complexity went into the animation.",
-    "The story is just as funny and touching. The only problem is the inevitable one: The freshness -- the novel delight -- is a little faded now.",
-    "The kitsch is back in full bloom.",
-    "Runs on wit and creativity.",
-    "Aspires to the boundlessness of a kid's imagination.",
-    "Everything you could want in a sequel. It satisfyingly regenerates the characters and qualities that made the first film so popular. And then it moves them forward into newer, fresher, more elaborate, more involving territory.",
-    "The story is surprising, the screenplay is witty, and the animation is wonderfully creative. A super sequel.",
-    "Some powerful dialogue.",
-    "It's impossible not to shake the feeling that we've been here before, and the movie never does convince you that a return trip was entirely necessary.",
-    "The story is simple enough for young children to follow, and the computer-animated images are both bright and surprisingly complex. Adults won't find the action heart-stopping.",
-    "If you (or your kids) loved Toy Story, you'll like Toy Story 2 as well. Just don't expect any big surprises."
-  ],
-  "reviews": [
-    {
-      "review_title": null,
-      "content": "While the first one showed that animated movies can be made completely with cg animation, this one proved that animated sequels can indeed be just as good as their predecessors (Shrek 2 and Toy Story 3 would prove this years later).",
-      "review_date": "2011-04-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just as good as the first story with a new batch of great characters. Moments for both the adults and the children. It is both timeless and universal just like its predecessor and is one of the few sequels that keeps the legacy of the wholeJust as good as the first story with a new batch of great characters. Moments for both the adults and the children. It is both timeless and universal just like its predecessor and is one of the few sequels that keeps the legacy of the whole franchise.",
-      "review_date": "2010-10-20",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy Story 2 is visually dazzling, heartfelt and just hilarious with amazing voice acting and memorable characters this is a very successful sequel. I give this film 95% of a good movie.",
-      "review_date": "2012-01-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "While not as good as the original, Toy Story 2 is still one of the best animated movies ever made, in my opinion. It does everything almost as good as the orignal",
-      "review_date": "2011-07-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The second masterpiece from Pixar. While arguably not as good as it's predecessor, it contains many funny jokes, a loving plot and a well written and perfectly performed script. It doesn't age (which is nice) and is still one of the bestThe second masterpiece from Pixar. While arguably not as good as it's predecessor, it contains many funny jokes, a loving plot and a well written and perfectly performed script. It doesn't age (which is nice) and is still one of the best animated films I have ever seen. Not quite as good as Toy Story 2, but is Pixar's 5th best film.",
-      "review_date": "2012-01-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy Story 2 is a delight. No matter how old you are, it'll charm you completely. It's an accomplished piece of filmmaking and is virtually flawless. A fantastic achievement.",
-      "review_date": "2007-11-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Honestly, this is almost as good as animation gets. Fantastic for the kids, fantastic for the adults. I really cannot fault this movie. Wheezy is adorable.",
-      "review_date": "2007-07-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love the sequel, I love 1, 2 and 3. I love everything from these movies.\r I love how they introduce the new characters and I love the movie\r In some places, there moments which were funny and exciting.\r Brilliant just brilliant.",
-      "review_date": "2010-11-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I think Toy Story 2 is better than the original. It is more adventurous than the first one because there is a lot more going on and there are more fun characters.",
-      "review_date": "2011-11-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Sequels that attempt to top or even be as good as a brilliant original are hard to come by, but Toy Story 2 manages not only to be as good if not better than the original, but also manages to again find a place in everyones heart on anSequels that attempt to top or even be as good as a brilliant original are hard to come by, but Toy Story 2 manages not only to be as good if not better than the original, but also manages to again find a place in everyones heart on an emotional level that will live on.\rAs owner Andy prepares to go to cowboy camp with Woody, the beloved toy's arm is ripped and must sit out the trip, and he soon is put on the shelf where all the disused toys go, and fears that his days are numbered as a played with toy.\rAfter a yard sale goes disastrously wrong, Woody is captured by a greedy toy collector, who Woody finds out wants to sell him as he is a part of a collection of famous dolls who were on a TV show years before.\rMeanwhile, Buzz and the rest of the gang are on a mission to save Woody and bring him back to his owner before the toy collector, Al, sells him.\rAll our original cast return including Tim Allen as Buzz and Tom Hanks as Woody, with the introduction of new characters including Bullseye the horse, Jesse the cowgirl (Joan Cusack) and Stinky Pete (Kelsey Grammar).\rThe second instalment in the blockbuster animated series continues to deal with real life issues, this time how growing up can affect everyone of all ages, and the film brings back many realisations that we must make difficult decisions as we grow older.\rThe additions of new characters are a welcome expansion to the universe, and offer very funny situations that also mock different films while also delivering a clean and thoroughly enjoyable experience that will again never leave your side..much like the original.\rVisually, the film continues to outshine the original, coming out four years after its predecessor, and it certainly brings a beautiful and more pristine experience and new level of enjoyment to the film.\rPixar continue to surprise and amaze, and with Toy Story 2 this is no different. it truly begs the question of how simple situations can make for the hardest decisions, but which ultimately come down to yourself.\rWith another Randy Newman scored film, its a simply unmissable film that will leave you wanting more and more, and of course one which will perhaps bring a tear to your eye.\rYou should certainly have a friend in Toy Story 2.",
-      "review_date": "2013-04-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy Story is a true classic, in every sense of the word. So Toy Story 2 had a lot to live up to, to try and even meet the standard of the first film let along exceed it. Luckily Toy Story 2 meets the standard perfectly, however does notToy Story is a true classic, in every sense of the word. So Toy Story 2 had a lot to live up to, to try and even meet the standard of the first film let along exceed it. Luckily Toy Story 2 meets the standard perfectly, however does not exceed the awesomeness of the first film, but instead compliments it.\rSo a few years have passed since the events of the original Toy Story and Andy has now reached his early teens, slowly growing out his toys. When clearing out his room Woody is accidentally thrown out and picked up by a toy collector to be framed for the rest of his life. Buzz and the rest of the gang from the first film go after Woody to rescue him and get him back to Andy before he returns from summer camp. However as Woody starts to learn that it wont be long until Andy no longer needs him and he starts to form new relationships with the collectors current set of toys he becomes reluctant to leave and go back to Andy.\rToy Story 2 takes all of the stuff that made Toy Story awesome and exaggerates it to make a much 'bigger' film without making the first one feel 'small' in comparison. It does nothing new but it delivers a concept we can all relate to and can learn from whilst providing us with an entertaining cast, well animated and generally awesome film.",
-      "review_date": "2013-02-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy story 2 is an amazing film, with it being better than the first. New and interesting characters, with a good plot. Pixar really showed us what they are made of.",
-      "review_date": "2013-10-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This review contains spoilers, click expand to view.\n        \nBest Toy Story out of the 3. The characters return like Buzz, Woody, and new characters. Like maybe Zurg, Jessie, etc. Tom Hanks is a great actour. He did a great job acting Woody. The storyline and plot were awesome. Woody gets stolen by this fat guy who goes to Tokyo, Japan. (Lived in Tokyo for 2yrs.) At least Woody got repaired. I give this a 9/10 because of the crappy Barbie. She sucks! Well, in her own series. That's for sure. Great movie overall, and if you liked the first one, I totally recommend watching this.",
-      "review_date": "2015-03-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In the realm of sequels, “Toy Story 2” is to “Toy Story” what “The Empire Strikes Back” was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, givenIn the realm of sequels, “Toy Story 2” is to “Toy Story” what “The Empire Strikes Back” was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, given their utter dissimilarity. But John Lasseter and his team, their confidence clearly bolstered by the massive success of their 1995 blockbuster, have conspired to vigorously push the new entry further with fresh characters, broadened scope, boisterous humor and, most of all, a gratifying emotional and thematic depth. Disney and Pixar have an end-of-millennium behemoth here, one that, given its far greater appeal to girls by virtue of its female co-lead, could easily surpass the $362 million grossed by “Toy Story” worldwide.\r The only thing this sparkling picture lacks, by definition, is the shock of the new; four years ago, it was startling to behold the frontier that computer animation had conquered, to see what vast possibilities were now available in the whole field of animation. But there is no sense of complacency or sameness, as the filmmakers get their charges out of the house and into a situation that gives their lives more poignancy and awareness of mortality than, frankly, most characters in live-action films are accorded these days.\r After an overly assaultive outer-space teaser that will nonetheless serve its purpose of getting kids to shut up and pay attention, brisk set-up sees the affable Woody eagerly anticipating being taken to a summer Cowboy Camp by his owner, Andy. But excitement quickly turns to crushing disappointment when a “broken” arm causes Woody to be left behind, with Andy’s mom adding the final sting with the comment, “Toys don’t last forever.”\r Woody’s nightmare of being flung into the trash heap of broken toys comes true when he inadvertently lands in a yard-sale 25¢ bin, from which he’s kidnapped by the greedy Al McWhiggin, owner of the local Al’s Toy Barn, who knows something that Woody himself doesn’t — that Woody was a big TV star back in the ’50s.\r Stashed in a downtown building, Woody meets cowgirl Jessie, Stinky Pete the Prospector and a horse named Bullseye and, in a wonderfully entertaining interlude, learns of his long-ago celebrity on a show called “Woody’s Roundup,” a kids’ favorite in which Woody and his new acquaintances were puppets. Not only that, but a whole line of commercial products revolved around the show, including the cereal Cowboy Crunchies. Al’s impressive collection of Woody memorabilia was incomplete without its centerpiece, but now that Woody is safely in hand, Al plans to cash in by selling the whole set to a museum in Japan.\r Locked in a high-rise room with his torn limb, there is nothing Woody can do to save himself, so it’s up to spaceman Buzz Lightyear and Andy’s other toys, including Rex the dinosaur, Hamm the pig, Mr. Potato Head and Slinky Dog, to mount a rescue expedition. They head first for the Toy Barn, where some Barbies come to delightful life and Buzz is astonished to find hundreds of exact replicas of himself on the shelves — one of whom throws a monkey wrench into the search for Woody by boxing Buzz up and taking his place on the team.\r Back in the building, the normally rambunctious Jessie begins tugging at Woody’s heart — as well as that of the viewer — by pointing out that, unlike Woody, who has enjoyed many years with a loving owner, she has endured a long purgatory in storage, bereft of any life worth living.\r In the film’s main and moving new song, “When She Loved Me,” penned by Randy Newman and sung by Sarah McLachlan, Jessie recalls how she once had an enchanted relationship with a girl, one that she thought could never end, but that after her owner outgrew her, she ended up, like so many other toys, in a donation box. It’s the fate of all toys, she ruefully reflects, to outlive their usefulness, so the prospect of Japan for her at least means that she will provide pleasure again and have some purpose in life.\r Caught up short by this intimation of mortality, Woody suddenly finds himself conflicted, torn between the “blood” family of his old TV cohorts and his closest friends from Andy’s house. Arrival of the rescue party puts his true loyalty to an immediate test, one complicated by Al’s decision to leave at once for Japan. Dynamite action climax, which proceeds through a maze-like roller-coaster ride on airport baggage ramps, into the belly of a jet and out onto the landing gear during takeoff, deftly combines a modern setting with rousing cowboy heroics, while resolution of the main characters’ fates has a sweetly philosophical ring that satisfies while still taking into account the darker issues raised earlier.\r Visually, “Toy Story 2” is entirely of a piece with its predecessor, distinguished by the same endearing character design and reality-nudging peripheral details.",
-      "review_date": "2016-03-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toys charged again. It could be worse than Andy found out who broke her doll Woody and I would not use it but never really is endless friendship , friendship and talking to other characters film debut came in cowboys.",
-      "review_date": "2015-07-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I love Toy Story, which I still think is the best Pixar animation to date, but Toy Story 2, not only surpasses its predecessor, ,it also manages to make rock-solid entertainment out of a simple story.The animation is faultless. I could findI love Toy Story, which I still think is the best Pixar animation to date, but Toy Story 2, not only surpasses its predecessor, ,it also manages to make rock-solid entertainment out of a simple story.The animation is faultless. I could find nothing wrong with that. The script was just as irreverent and witty as the one in the first film, with jokes that adults will enjoy as well as kids. And the song When She Loved Me was beautiful and vital to the story.The voice talents are also faultless. Tom Hanks and Tim Allen are brilliant here as Woody and Buzz, but they were equally brilliant in the first too. Wayne Knight was also fine as Al, who kidnaps Woody to sell him to a museum. Joan Cusack was great as Jessie, though I do agree she has been better. Frasier's Kelsey Grammar is resoundingly entertaining as Stinky Pete(what a great name!). Solid support also from Don Rickles, Wallace Shawn, Jodi Benson(Ariel from little Mermaid)and Annie Potts.All in all, a fantastic film, that has enough visual jokes(like Wallace and Gromit) to satisfy adults and kids alike. Rock- solid entertainment that thoroughly deserves a 10/10. Bethany Cox",
-      "review_date": "2022-03-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One of the rare occasions where the second film is just as good as the first one. It has a whole load of great new characters (Zurg being the best) and an amazing story. One of Pixar's best.",
-      "review_date": "2015-09-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The rare sequel that equals the brilliance of the of the original. Toy Story 2 is a great movie that continues the adventures of Woody, Buzz and the gang. It introduces great new characters like Jesse, Zurg and Bullseye to the mix and hasThe rare sequel that equals the brilliance of the of the original. Toy Story 2 is a great movie that continues the adventures of Woody, Buzz and the gang. It introduces great new characters like Jesse, Zurg and Bullseye to the mix and has great heart just like the first. If you loved the first, you'll love this!",
-      "review_date": "2015-09-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In the realm of sequels, “Toy Story 2” is to “Toy Story” what “The Empire Strikes Back” was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, givenIn the realm of sequels, “Toy Story 2” is to “Toy Story” what “The Empire Strikes Back” was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, given their utter dissimilarity.\r The only thing this sparkling picture lacks, by definition, is the shock of the new; four years ago, it was startling to behold the frontier that computer animation had conquered, to see what vast possibilities were now available in the whole field of animation. But there is no sense of complacency or sameness, as the filmmakers get their charges out of the house and into a situation that gives their lives more poignancy and awareness of mortality than, frankly, most characters in live-action films are accorded these days.\r After an overly assaultive outer-space teaser that will nonetheless serve its purpose of getting kids to shut up and pay attention, brisk set-up sees the affable Woody eagerly anticipating being taken to a summer Cowboy Camp by his owner, Andy. But excitement quickly turns to crushing disappointment when a “broken” arm causes Woody to be left behind, with Andy’s mom adding the final sting with the comment, “Toys don’t last forever.”\r Woody’s nightmare of being flung into the trash heap of broken toys comes true when he inadvertently lands in a yard-sale 25¢ bin, from which he’s kidnapped by the greedy Al McWhiggin, owner of the local Al’s Toy Barn, who knows something that Woody himself doesn’t — that Woody was a big TV star back in the ’50s.\r Stashed in a downtown building, Woody meets cowgirl Jessie, Stinky Pete the Prospector and a horse named Bullseye and, in a wonderfully entertaining interlude, learns of his long-ago celebrity on a show called “Woody’s Roundup,” a kids’ favorite in which Woody and his new acquaintances were puppets. Not only that, but a whole line of commercial products revolved around the show, including the cereal Cowboy Crunchies. Al’s impressive collection of Woody memorabilia was incomplete without its centerpiece, but now that Woody is safely in hand, Al plans to cash in by selling the whole set to a museum in Japan.\r Locked in a high-rise room with his torn limb, there is nothing Woody can do to save himself, so it’s up to spaceman Buzz Lightyear and Andy’s other toys, including Rex the dinosaur, Hamm the pig, Mr. Potato Head and Slinky Dog, to mount a rescue expedition. They head first for the Toy Barn, where some Barbies come to delightful life and Buzz is astonished to find hundreds of exact replicas of himself on the shelves — one of whom throws a monkey wrench into the search for Woody by boxing Buzz up and taking his place on the team.\r Back in the building, the normally rambunctious Jessie begins tugging at Woody’s heart — as well as that of the viewer — by pointing out that, unlike Woody, who has enjoyed many years with a loving owner, she has endured a long purgatory in storage, bereft of any life worth living.\r In the film’s main and moving new song, “When She Loved Me,” penned by Randy Newman and sung by Sarah McLachlan, Jessie recalls how she once had an enchanted relationship with a girl, one that she thought could never end, but that after her owner outgrew her, she ended up, like so many other toys, in a donation box. It’s the fate of all toys, she ruefully reflects, to outlive their usefulness, so the prospect of Japan for her at least means that she will provide pleasure again and have some purpose in life.\r Caught up short by this intimation of mortality, Woody suddenly finds himself conflicted, torn between the “blood” family of his old TV cohorts and his closest friends from Andy’s house. Arrival of the rescue party puts his true loyalty to an immediate test, one complicated by Al’s decision to leave at once for Japan. Dynamite action climax, which proceeds through a maze-like roller-coaster ride on airport baggage ramps, into the belly of a jet and out onto the landing gear during takeoff, deftly combines a modern setting with rousing cowboy heroics, while resolution of the main characters’ fates has a sweetly philosophical ring that satisfies while still taking into account the darker issues raised earlier.\r Visually, “Toy Story 2” is entirely of a piece with its predecessor, distinguished by the same endearing character design and reality-nudging peripheral details. But the new offering is even more densely packed with rollicking humor than the first, thanks to the addition of more characters and incident; jokey revelation of Buzz’s parentage will bring down the house at every screening. A sense of spirited invention permeates the proceedings from top to bottom, and few films so thoroughly deliver the feeling that everyone connected to it was united in pursuit of a single goal and had matchless fun reaching it.",
-      "review_date": "2016-03-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "One Of Pixar's BestToy Story 2 Has EVERYTHING That Made The First One A Masterpiece.",
-      "review_date": "2018-03-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy Story 2 is one of the only sequels that does not crash into the wall. But things do not finish there, this movie is entertaining and the characters are charming and fresh, with a better development and a with new view into the world weToy Story 2 is one of the only sequels that does not crash into the wall. But things do not finish there, this movie is entertaining and the characters are charming and fresh, with a better development and a with new view into the world we have already seen in the first movie. This sequel really worths it's watch.",
-      "review_date": "2017-10-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The perfect sequel. Nothing gives joy like toy story 2 just turning it on will mesmerize and you will be ready for 3 in no time",
-      "review_date": "2019-07-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Toy Story trilogy films are Pixar's only legendary movies ever, the plots are outstanding, the characters puts all emotions to themselves and have great role models and great designs, and the endings are so emotional.",
-      "review_date": "2019-04-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The best animation till this day. True classic. Clever storytelling, hysterical jokes and very poignant moments.",
-      "review_date": "2019-01-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Semplicemente stupendo.Come sviluppare al meglio storia, personaggi e humor nell'arco di 4 anni, praticamente. Ho amato quasi ogni elemento del film, e sinceramente non ho grosse lamentele da muovere.Consigliato? Assolutamente.",
-      "review_date": "2021-12-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Fresher and more innovative, Toy Story 2 is a beautiful movie with a story that no one could forget.",
-      "review_date": "2022-04-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "a very charming movie with great animation and is extremely better than the original",
-      "review_date": "2022-04-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Toy Story 2\", the animation sequel to the masterpiece \"Toy Story\", labels itself as a another masterpiece by continuing the purity and love the first movie had.",
-      "review_date": "2011-09-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "the reason of why the original was so good is because it needs to be played with sequels and this time this one kicks a** and its my favorite in the series along with the first movie.",
-      "review_date": "2010-10-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy Story 2 is basically just an improvement over the original and it's still one of the best sequels out there. It's so hard to lower down the score on this movie so it stays at a 10.",
-      "review_date": "2015-12-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I always find it so hard to believe that it was made in 1999. It's like it was just released last year! A great movie for anyone.",
-      "review_date": "2011-01-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This may not be the best Toy Story but it is still a great movie, the story is a little predictable and some of the new characters aren't as great as the others but it is still a movie I would recommend seeing, it's funny, smart , andThis may not be the best Toy Story but it is still a great movie, the story is a little predictable and some of the new characters aren't as great as the others but it is still a movie I would recommend seeing, it's funny, smart , and ultimately charming, if you enjoyed the first you'll enjoy this one, even if it's not as good.",
-      "review_date": "2011-02-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Good follow up to the sensational first film with lots of humour though missing the emotional core of the first film in my opinion.",
-      "review_date": "2019-04-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Kind of boring as I remember thinking as a kid when I saw this movie.",
-      "review_date": "2013-03-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy Story 2 is just another dismal effort with inept characters and an implausible story. Any new characters added this time do nothing to help this franchise.",
-      "review_date": "2014-04-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "the second toy story movie series is for me the worst film of all the series but still is no bad film,there is some new characters that i didn't like so much.",
-      "review_date": "2013-10-31",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The animation and visuals are just as gorgeous as they were in the first one and were amazing for the time. I loved the incorporation of the new characters Jessie and Bullseye. The writing and screenplay was spectacular just like the firstThe animation and visuals are just as gorgeous as they were in the first one and were amazing for the time. I loved the incorporation of the new characters Jessie and Bullseye. The writing and screenplay was spectacular just like the first one. The storytelling was even better than the first one. The voice acting was stupendous especially Tim Allen, Tom Hanks, Joan Cusack, Don Rickles, Wallace Shawn, Kelsey Grammer, John Ratzenberger, Jim Varney, and Wayne Knight. The soundtrack and score were also fantastic and I especially loved the song When She Loved Me performed by Sarah McLachlan. I loved this one but I still love the first one more. Toy Story 2 is one of my favorite animated movies of all time.",
-      "review_date": "2018-09-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "For how much longer. Disney sequels just do not work. Pixar tries harder, but why bother if Disney only cares about the money? Disney should stop making sequels. The movie does have merit in some parts, but why start when you already endedFor how much longer. Disney sequels just do not work. Pixar tries harder, but why bother if Disney only cares about the money? Disney should stop making sequels. The movie does have merit in some parts, but why start when you already ended the first movie pretty well?",
-      "review_date": "2021-08-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My favorite all kind movie! I love it so much. The best hit of last Disney-Pixar.",
-      "review_date": "2006-03-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Best movie of 1999! Really Woody and Buzz rock!",
-      "review_date": "2006-05-29",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Just as good as Toy Story, with the best action figure villian... \"Zurg\".",
-      "review_date": "2007-08-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is the best movie in 1999! It's funny and it's for everyone at any age to enjoy! Disney and Pixar are genuises!",
-      "review_date": "2008-04-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Some many years ago....must have watched this 1000 times LOL!.",
-      "review_date": "2008-07-14",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Even more fun and more adventurous than the first film. Pros: Innovative characters; eye popping animation; hilarious dialog and pop culture references; the best Pixar film to date. Cons: Again, if Toy Story 2 lacked anything, it's becauseEven more fun and more adventurous than the first film. Pros: Innovative characters; eye popping animation; hilarious dialog and pop culture references; the best Pixar film to date. Cons: Again, if Toy Story 2 lacked anything, it's because you don't have an eye for animation, period.",
-      "review_date": "2011-04-18",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It could reasonably be argued that the plot for Toy Story 2 is virtually the original's in reverse (this time around Buzz is trying to rescue Woody) but, as with virtually all of Disney Pixar's movies, there are more than enough funny momentsIt could reasonably be argued that the plot for Toy Story 2 is virtually the original's in reverse (this time around Buzz is trying to rescue Woody) but, as with virtually all of Disney Pixar's movies, there are more than enough funny moments to keep anyone entertained.",
-      "review_date": "2013-12-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A fantastic sequel to its previous movie. It has sympathy, just like the first movie. Technically, it was amazing. It has great animation, voice acting and a wonderful new cast of characters. Another masterpiece from Pixar I must say......",
-      "review_date": "2012-09-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's more adventurous than the first with a few more clever pop-culture references, making this the sequel that the first film deserved. Not to mention the introduction of great new characters and would you believe it, no age limit",
-      "review_date": "2011-08-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In my opinion, this is the best Pixar movie, other than Ratatouille and The Incredibles. And I say this only because the movie introduces new character bonds while still strengthening the old ones. (9.7/10)",
-      "review_date": "2012-01-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Like its predecessor, Toy Story 2 is filled with great depth and genuine heart showing us the potential of big budget animation as something that's truly for all ages and the ages.",
-      "review_date": "2013-12-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The new characters including Buster (The Dog) are great additions. I love that the old guy from Geri's Game made a cameo. Toy Story 2 is about friendship, just like the first movie, but in a different way. This one is about friends havingThe new characters including Buster (The Dog) are great additions. I love that the old guy from Geri's Game made a cameo. Toy Story 2 is about friendship, just like the first movie, but in a different way. This one is about friends having each others back. The movie goes in depth about the meaning of a toy's life. Great dialogue like the first, only problem I had was Buzz and Woody didn't have enough screen time together like in the first. I love the star wars reference with Zurg being Buzz's dad. I have to say the Toy Story version is better. I absolutely love the sexual reference with Buzz, it's Hilarious.",
-      "review_date": "2012-04-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Toy Story 2\" is exactly what a sequel must be  bigger, funnier and more exciting. The computer-animation, just like the first, is outstanding. Anyone who loved \"Toy Story\" definitely must check out this touching sequel.",
-      "review_date": "2013-11-03",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Duplicates the first one's brilliance. Toy Story 2 is not only lots of fun, but has many strong, emotional moments in it as well. A lot of new, great characters are introduced for the first time, too.",
-      "review_date": "2013-01-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Another masterpiece of animation.",
-      "review_date": "2013-01-30",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "My favorite animated movie of all time. Full of great characters, fun action sequences and quality animation. It has an incredible balance of humor, action and tear jerking scenes that everyone will find something to love in.",
-      "review_date": "2013-02-09",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This took a while to come out but when it did, it was worth the long wait. New characters meant more excitement. In a way, it was bigger in scale compared to the first movie. Definitely a must see like its predecessor.",
-      "review_date": "2013-02-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Here's my childhood part 2. Not only is this a fantastic sequel and even lives up to the first, but it also touches on a more human emotional grasp than the first one. It's definitely a more mature \"Toy Story\" adaptation, yet it still neverHere's my childhood part 2. Not only is this a fantastic sequel and even lives up to the first, but it also touches on a more human emotional grasp than the first one. It's definitely a more mature \"Toy Story\" adaptation, yet it still never becomes something too much. Overall, it's a well deserved sequel! This also deserves an A+!",
-      "review_date": "2013-12-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The animation is even more mind-blowing, if that's possible. The characters and objects seem even more palpable and real than last time. There's a thickness to bodies of the human characters and an amazing attention to detail throughout.",
-      "review_date": "2014-03-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Great movie, it's more than just a continuation to the story of the first movie, it's also impeccable at getting deeper into the the characters persona and past.",
-      "review_date": "2013-06-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "\"Toy Story 2\" is good, but not as good as the first one, but despite that the original is slightly better this one is really great, amazing and smart, a great time for the whole family.",
-      "review_date": "2013-06-22",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "While building on emotions from the first film, the \"Toy Story\" gang is back for an outrageously good sequel that leaves almost none to disappoint. With saddening touches, hilarious returns, and a wonderful tale put into the movie, you canWhile building on emotions from the first film, the \"Toy Story\" gang is back for an outrageously good sequel that leaves almost none to disappoint. With saddening touches, hilarious returns, and a wonderful tale put into the movie, you can almost call \"Toy Story 2\" better than the first. Well, almost.",
-      "review_date": "2013-07-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Its always spellbinding, funny, and appealing to even adults. I have to admit, it's a downturn from its predecessor, which is on the list of greatest films of all time. Its still charming and lovable, but not a masterpiece like the original.Its always spellbinding, funny, and appealing to even adults. I have to admit, it's a downturn from its predecessor, which is on the list of greatest films of all time. Its still charming and lovable, but not a masterpiece like the original. But I must say, \"Toy Story 2\" is a necessary and approving sequel.",
-      "review_date": "2013-11-01",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This is in my opinion the worst Toy Story movie. That does not make it a bad movie though. the pacing is a bit weird but the voice acting and the look still holds up today.",
-      "review_date": "2014-09-08",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "I'm just gonna get this out of the way right now, and not sugarcoat it, \"Toy Story 2\" might be my favorite animated film of all time. Instead of feeling like a rehash made simply for profit, \"Toy Story 2\" evolves the story and characters inI'm just gonna get this out of the way right now, and not sugarcoat it, \"Toy Story 2\" might be my favorite animated film of all time. Instead of feeling like a rehash made simply for profit, \"Toy Story 2\" evolves the story and characters in wonderful ways, introduces us to some fantastic new characters, improves the already-great animation, and ups the humor, heart, charm, fun, excitement and wit that made the first film so great. There's no two ways about it, \"Toy Story 2\" is even better than the first, no questions asked.",
-      "review_date": "2016-11-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The sequel to the excellent Toy Story somehow did the impossible, it was better than the original. This film talks about loss at a level that is relatable to children, as well really shows the value of friendship and loyalty.",
-      "review_date": "2019-06-16",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy Story 2 succeeds its predecessor by leaps and bounds.\rToy Story 2 impresses audiences young and old with its radiant style and life like characters.",
-      "review_date": "2013-11-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "While it's hard to improve upon the original, Toy Story 2  is a more than worthy sequel taking place 5 years after the original one. With Andy off to camp, Woody is kidnapped by a greedy toy collector with the intention of being sold to aWhile it's hard to improve upon the original, Toy Story 2  is a more than worthy sequel taking place 5 years after the original one. With Andy off to camp, Woody is kidnapped by a greedy toy collector with the intention of being sold to a Japanese Toy Museum. From there Buzz and the gang work together to save Woody along with a whole new cast of characters.",
-      "review_date": "2019-11-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Textbook example of how an effective sequel to any successful first outing should be ... improvements to the production quality and a major focus on story and character. In addition to the obvious improvements to CGI rendering quality fromTextbook example of how an effective sequel to any successful first outing should be ... improvements to the production quality and a major focus on story and character. In addition to the obvious improvements to CGI rendering quality from the first movie, TS1 sports ambitious set pieces and locations used to great effect here and really show off how much Pixar learned from TS1 in storytelling. Great use of the new characters and the story comes across as a natural progression from the first movie. Overall this is seminal stuff that flexed how on top of their game Pixar were at this stage in full length CG movie production.",
-      "review_date": "2019-10-02",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Definitely one of the best Toy Story films up to now. It's comical, it's tear-jerking, beautifully animated but it's also, surprisingly well-written and fabulously voiced. I recommend it for all ages.",
-      "review_date": "2014-12-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "After the immaculate success of Toy Story, everyone knew that Toy Story 2 had a lot to live up to. But Toy Story 2 not only matched it's predecessor, it surpassed it. Toy Story 2 has it all. It's powerful, intense, humorous and rich. ThisAfter the immaculate success of Toy Story, everyone knew that Toy Story 2 had a lot to live up to. But Toy Story 2 not only matched it's predecessor, it surpassed it. Toy Story 2 has it all. It's powerful, intense, humorous and rich. This time the toys are dropped in a much darker world where our protagonist (Woody) is faced with a choice of choosing between fame and love. There are no easy choices. It's a film about dedication, commitment, friendship and immortality. Wall-E is still Pixar's best film to date. Toy Story 2 is certainly among the best.",
-      "review_date": "2015-01-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Yeah i don't think this is AS good as the original. I would give it a 7,5 but since i cant i'm giving it a 8. It was a GREAT movie don't get me wrong. This movie was just a let down but not bad. It wasn't as funny and i didn't like the newYeah i don't think this is AS good as the original. I would give it a 7,5 but since i cant i'm giving it a 8. It was a GREAT movie don't get me wrong. This movie was just a let down but not bad. It wasn't as funny and i didn't like the new characters that much.",
-      "review_date": "2014-12-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy Story 2 essentially matches the strength of the original film. I love the additions of the new characters like Jessie and Bullseye and Kelsey Grammer is excellent playing the villain Stinky Pete. Toy Story 2 captures all of the laughs youToy Story 2 essentially matches the strength of the original film. I love the additions of the new characters like Jessie and Bullseye and Kelsey Grammer is excellent playing the villain Stinky Pete. Toy Story 2 captures all of the laughs you get from the first film and its just as cute.",
-      "review_date": "2015-02-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A rare sequel that's just as good as the original. Pixar do the clever thing by not trying to re-create these characters, which is why you remember them so well in the first film, as you do in this one. They don't re-hash the same story theyA rare sequel that's just as good as the original. Pixar do the clever thing by not trying to re-create these characters, which is why you remember them so well in the first film, as you do in this one. They don't re-hash the same story they still keep it fresh and new. All the new characters are a lot of fun, and you get emotionally involved with them. In conclusion the Toy Story sequel is a movie that doesn't disappoint.",
-      "review_date": "2014-10-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The sequel to the landmark 1995 computer-animated blockbuster from Disney and Pixar. This time around, the fun and adventure continue when Andy goes off to cowboy camp and the toys are left to their own devices. Things shift into high gearThe sequel to the landmark 1995 computer-animated blockbuster from Disney and Pixar. This time around, the fun and adventure continue when Andy goes off to cowboy camp and the toys are left to their own devices. Things shift into high gear when an obsessive toy collector kidnaps Woody -- who hasn't the slightest clue that he's a greatly valued collectible.",
-      "review_date": "2014-10-19",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It's true: Toy Story 2 is an even better movie than the first one! Better villain (Stinky Pete) and new characters (like Jessie the cowgirl) make it almost impossible not to like. Don't miss out on another epic PIXAR film.",
-      "review_date": "2015-01-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy Story 2 is a fantastic film that introduced one of the most recognizable cowboys/girls in film history. Jessie felt very insincere in this movie until \"When She Loved Me\" came on and made everyone feel for her story and recognize theToy Story 2 is a fantastic film that introduced one of the most recognizable cowboys/girls in film history. Jessie felt very insincere in this movie until \"When She Loved Me\" came on and made everyone feel for her story and recognize the stakes of their situation. I can't say I absolutely loved the storyline as much as the first since I thinK Prospector Pete was more of a jerk than a threat but how can I not love a movie that introduced the dynamic duo that is Jessie and Bullseye?! Overall this film may not be as perfect as its predecessor, it does a fantastic job of making everyone laugh and cry.",
-      "review_date": "2017-03-23",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "What's amazing about this picture is how much higher it takes the original Story. Most sequels milk a successful franchise while providing nothing but the same ol' thing, but I was surprised and moved by how wonderful the storytelling andWhat's amazing about this picture is how much higher it takes the original Story. Most sequels milk a successful franchise while providing nothing but the same ol' thing, but I was surprised and moved by how wonderful the storytelling and acting were, but above all else how the folks at Pixar drew together a darker more unhappy element for neglected inanimate objects. I have been delighted to view this more than once. Definite buy for lovers of animated cinema.",
-      "review_date": "2015-03-11",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "1010 .................................................................................…………............................................................",
-      "review_date": "2015-04-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy story 2 is an American film produced by Pixar and Wall Disney studio directed by John Lesseter, Ash Brannon and Lee Unkrich in 1999.\rIt deals with toys alive. The principal character is a cow-boy, Woody.\rI think it’s my favourite filmToy story 2 is an American film produced by Pixar and Wall Disney studio directed by John Lesseter, Ash Brannon and Lee Unkrich in 1999.\rIt deals with toys alive. The principal character is a cow-boy, Woody.\rI think it’s my favourite film of the Toy story trilogy. In this film, there are new characters who are fun like Jessy the cow-girl. Her story is for me, emotional because she thinks that Emily, her owner, was her best friend but when the little girl growns up, she realizes that Emily doesn’t care for her because she grows, so she has another passion like make-up she can share with her new friend.\rJessy is very happy during all the film even she had a sad past but doesn’t show it because she was abandoned by her last friend, so it’s horrible part of her life of toy ! But we find Woody in new adventures with Buzz lightyear who are eventful.\rIf you like the Disney movies and you have already watched the first one, you like this one too because it’s a great story, espacelly for young viewers.",
-      "review_date": "2015-04-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Чуть уступающая оригиналу, но всё такая же прекрасная история игрушек, сумевшая сохранить все плюсы первой части.",
-      "review_date": "2017-08-26",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When Woody is mistakenly sold to an evil toy trader, the rest of the toys team up to save him.\r Toy Story 2 contains some great moments. From a purely visual standpoint, few are better than the opening scenes, which show Buzz LightyearWhen Woody is mistakenly sold to an evil toy trader, the rest of the toys team up to save him.\r Toy Story 2 contains some great moments. From a purely visual standpoint, few are better than the opening scenes, which show Buzz Lightyear zipping around the galaxy, ready to do battle with his Darth Vader-like nemesis, Zurg. With its ever-changing camera angles and intricately rendered detail, the sequence cannot fail to dazzle. Equally impressive are scenes where the toys attempt a \"safe\" crossing of a busy street (using red cones) and Buzz's visit to the \"Buzz Lightyear\" aisle in a Toys 'R Us-type toy store. Parodies are kept to a minimum, although there's a funny takeoff on a key element of the Star Wars series in addition to a quick, throw-away moment lifted from Jurassic Park. The movie also pokes fun at its own merchandising, even going so far as to offer a blueprint for a possible Toy Story video game.\r The camerawork is more interesting here than in either Toy Story or A Bug's Life. A real effort is made to duplicate the kinds of shots obtained though live-action cinematography. The camera moves around. There are distant shots and close ups. Lighting and filters are used to establish a mood (as in Jessie's remembrance of her days when she was a beloved toy). And there are times when techniques are employed to suggest a depth of field (such as making background objects slightly blurry).\r Voice casting is as good the second time around as it was the first. The principals are all back - Tom Hanks as the irrepressible Woody; Tim Allen as the heroic Buzz; Don Rickles as Mr. Potatohead; John Ratzenberger as Hamm, the piggy bank who keeps losing his change; Jim Varney as the stretchable slinky dog; and Annie Potts as Woody's flame, Bo Peep. New additions include Joan Cusack as Jessie the Cowgirl; Kelsey Grammar (who has one of the most versatile voices in the business) as Stinky Pete the Prospector; Wayne Knight as the unscrupulous toy salesman Al; and The Little Mermaid herself, Jodi Benson, as Tour Guide Barbie.\r Toy Story 2 is to \"Toy Story\" what \"The Empire Strikes Back\" was to its predecessor, a richer, more satisfying film in every respect.",
-      "review_date": "2015-04-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Four years ago, the release of Toy Story forever changed the face of animated motion pictures. The astonishing, three-dimensional quality of John Lasseter's work amazed both average movie-goers and hard-to-impress critics. Now, in 1999, theFour years ago, the release of Toy Story forever changed the face of animated motion pictures. The astonishing, three-dimensional quality of John Lasseter's work amazed both average movie-goers and hard-to-impress critics. Now, in 1999, the toys are back. While not as innovative as the original Toy Story, Toy Story 2 is a worthy successor. The sequel picks up where the landmark original left off, and tells an enjoyable story without retreading everything that has gone before. Those who appreciated the first movie are virtually guaranteed to like the second, which represents family filmmaking at its best. All the elements that made Toy Story popular are present in this installment. Toy Story 2 makes Pixar three-for-three in the feature film arena and is sure to continue Disney's string of animated hits.\r One would have to be a hopeless curmudgeon not to be entertained by Toy Story 2's remarkable visual style, quick-moving storyline, endearing characters, and witty dialogue. The balance between what has been included for kids and what's there for adults is almost perfect. There are things that children will appreciate more than their parents, but other elements will go over the heads of shorter viewers. However, the majority of what Toy Story 2 offers will delight everyone in the audience, regardless of their physical or mental age.\r Reportedly, Toy Story 2 was originally slated for a direct-to-video release, but Disney eventually opted for theatrical distribution instead (all of The Magic Kingdom's recent animated sequels, including further chapters in the Aladdin, Beauty and the Beast, and Lion King sagas, have bypassed theaters). After viewing the final product, it's difficult for me to believe that this movie was ever intended for the ignominy of a Blockbuster premiere. Like Toy Story and A Bug's Life, Toy Story 2 has a richness of texture and detail that will be lost on smaller screens. Only in a theater is it possible to fully appreciate the benefits of computer animation, where every blade of grass, mote of dust, and hair on a dog's body has its own identity, and where the branches of a tree sway to the prompting of a gentle breeze. And, while computer animation has drawbacks (for example, the humans are saddled with an artificial appearance), those are significantly outweighed by the benefits.\r Toy Story 2 contains some great moments. From a purely visual standpoint, few are better than the opening scenes, which show Buzz Lightyear zipping around the galaxy, ready to do battle with his Darth Vader-like nemesis, Zurg. With its ever-changing camera angles and intricately rendered detail, the sequence cannot fail to dazzle. Equally impressive are scenes where the toys attempt a \"safe\" crossing of a busy street (using red cones) and Buzz's visit to the \"Buzz Lightyear\" aisle in a Toys 'R Us-type toy store. Parodies are kept to a minimum, although there's a funny takeoff on a key element of the Star Wars series in addition to a quick, throw-away moment lifted from Jurassic Park. The movie also pokes fun at its own merchandising, even going so far as to offer a blueprint for a possible Toy Story video game.\r The camerawork is more interesting here than in either Toy Story or A Bug's Life. A real effort is made to duplicate the kinds of shots obtained though live-action cinematography. The camera moves around. There are distant shots and close ups. Lighting and filters are used to establish a mood (as in Jessie's remembrance of her days when she was a beloved toy). And there are times when techniques are employed to suggest a depth of field (such as making background objects slightly blurry).\r Voice casting is as good the second time around as it was the first. The principals are all back - Tom Hanks as the irrepressible Woody; Tim Allen as the heroic Buzz; Don Rickles as Mr. Potatohead; John Ratzenberger as Hamm, the piggy bank who keeps losing his change; Jim Varney as the stretchable slinky dog; and Annie Potts as Woody's flame, Bo Peep. New additions include Joan Cusack as Jessie the Cowgirl; Kelsey Grammar (who has one of the most versatile voices in the business) as Stinky Pete the Prospector; Wayne Knight as the unscrupulous toy salesman Al; and The Little Mermaid herself, Jodi Benson, as Tour Guide Barbie.\r It's a testimony to the skill of directors John Lasseter (who went solo on the original Toy Story), Lee Unkrich, and Ash Brannon that we develop such a strong bond with a group of computer generated toys. And, while Toy Story 2 isn't quite the achievement that its predecessor represented, it is nevertheless one of the best examples of family entertainment that 1999 has offered.",
-      "review_date": "2015-04-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In my opinion is the worst movie of the saga toy story , yet I do not think it's a bad film. The visual part is very detailed and well crafted , and the actors who do the voices also were very good. This film is advisable for a family night.",
-      "review_date": "2015-07-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "When the frist one of Toy Story came out every one was crazy of this film, it was so good for all a generation of kids and adults, and people didn't expect a sequel of Toy Story. And like every one, i love it. Not just the comedy has better,When the frist one of Toy Story came out every one was crazy of this film, it was so good for all a generation of kids and adults, and people didn't expect a sequel of Toy Story. And like every one, i love it. Not just the comedy has better, the animation looks fantastic. Every single detail is like a wonderful time in do it. The new characters are intresting and funny, the music has better, and the meesege of this sequel its also great. And even the animation of humans has better and the textures are really awesome. In my opinon, Toy Story 2 its another sequel who has all the passion of the pixar people.",
-      "review_date": "2016-05-21",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Боже, обожаю этот мультфильм, храни его! Ещё помню, как мелким смотрел его на VHS кассете, купленной на рынке, на видике! С тех пор ни один кадр этой ленты не устарел, и этот мультик будет смотреть ещё не одно поколение.Боже, обожаю этот мультфильм, храни его! Ещё помню, как мелким смотрел его на VHS кассете, купленной на рынке, на видике! С тех пор ни один кадр этой ленты не устарел, и этот мультик будет смотреть ещё не одно поколение.",
-      "review_date": "2015-11-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Toys, as they say, are back in town. And if you're not already excited by this, then that key in your back obviously needs a few vigorous turns, because Pixar's latest CG spectacular is funnier, more thrilling and more genre-bustinglyThe Toys, as they say, are back in town. And if you're not already excited by this, then that key in your back obviously needs a few vigorous turns, because Pixar's latest CG spectacular is funnier, more thrilling and more genre-bustingly brilliant than you could imagine.\r Disney sequels are usually just shunted onto the sell-through market, involving only a fraction of the original budget and effort (witness the Aladdin follow-up minus Robin Williams, or the slightly mangier Lion King II: Simba's Pride). But the keyboard-clacking bods at Pixar couldn't take the easy option and trot out an inferior product on VHS. No, their rough cut smacked the gobs of the men at the Mouse House so much that the running time was bumped up, new scenes and characters added, the original cast kept on and the whole thing redirected towards the silver screen.\r Pixar supremo and TS2 director John Lasseter has always claimed that plot and character are as important as jaw-to-floor visuals, and his latest Lego-block-buster scores top marks on both. Just compare the graphics in the original with last year's ultra-textured A Bug's Life, and you'll have an idea of how far they've come with this second toyscapade. Okay, the main characters don't look that different, but then they don't really need to. Being toys, they don't require the roughness, spikiness and flakiness of A Bug's Life's insects. Besides, it'd be a bad move to change Buzz and co's appearance simply for the sake of change.\r No, the real improvements are more obvious when you look at the non-toy world they inhabit: back-grounds are packed with detail and exteriors are breathtakingly vast, involving skyscrapers, main streets and an entire airport, while the opening sequence even whirls you around a immense sci-fi spacescape. Although both Andy and his mom haven't quite lost their plastic sheen, the pudgy, greasy Al - who has more screentime than any other human - is remarkably realistic, right down to the individual bristles poking out of his jowly chin. And, talking of hair, Pixar has done a superb job rendering the fur on Andy's dog, Buster, apparently a result of the work it's been doing on its next movie, Monsters Inc.\r But it's in terms of story, script and character that Pixar's latest truly excels. Buzz is now at ease with his status as a plaything rather than a true-life cosmic adventurer, but that doesn't prevent him taking on the responsibility for Woody's rescue with deliciously hammy gusto, setting him up for some beautifully executed pratfalls. Woody, meanwhile, is developed far further when it's revealed to him that he's more than a mere doll... He's a collectible. One minor problem with the first film was that, unlike all the other toys, it was never clear how Woody ever came into being. Hamm's a piggy bank, Mr Potato Head we're all familiar with, Rex is a plastic dinosaur - but what's Woody? A floppy old cowpoke. Who ever had a toy like that? TS2 holds all the answers, and with them it introduces three new characters: Stinky Pete The Prospector, who's never even been removed from his box; Bullseye the clumsy cloth horse; and Jessie the cowgirl, voiced by a whooping, hollering Joan Cusack,who has her own, sad tale to tell (involving the movie's one slightly duff moment with an intrusively saccharine ballad). Also, now that Buzz and Woody are well established in the audience's minds, there's more time devoted to the supporting cast. So we're treated to some neat little sub-plots involving, for example, Rex's videogame addiction.\r The jokes may fly thick and fast, but it's in the thrill department that TS2 really goes, well, to infinity and beyond (sorry). The pace rarely lets up, as you're hurled from one giddily kinetic set piece to another, right up to the fingernail-pruning intensity of the climactic airport scramble. It's only when you notice the deeply embedded grip marks on the arms of your cinema seat that you'll realise you're not just watching a great cartoon, you're watching the best family-oriented action movie for years.\r Eye-rolling action, needle-sharp in-jokes, engaging characterisations, perfect plotting... The only fault with this movie is one slightly irksome ballad. But even that's not going to stop you floating out of the cinema sporting a big, soppy smile.",
-      "review_date": "2016-01-04",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "WHAT I LIKED: With all the magic of the first film and more - 'Toy Story 2' is a rare sequel that actually improves over it's predecessor. This is mainly because of the addition of a better group of themes for the adults to enjoy, and the wayWHAT I LIKED: With all the magic of the first film and more - 'Toy Story 2' is a rare sequel that actually improves over it's predecessor. This is mainly because of the addition of a better group of themes for the adults to enjoy, and the way in which it successfully continues to develop it's excellent characters in a delicate and fun way\rWHAT I DIDN'T LIKE: It keeps it's silliness to a certain degree, and it's added themes makes it feel a little chaotic. Plus it still can't shake the lack of an interesting plot that would add adventure and excitement\rVERDICT: A sequel that's a success - when the first film was so good that's a big achievement.",
-      "review_date": "2016-01-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The Toys, as they say, are back in town. And if you're not already excited by this, then that key in your back obviously needs a few vigorous turns, because Pixar's latest CG spectacular is funnier, more thrilling and more genre-bustinglyThe Toys, as they say, are back in town. And if you're not already excited by this, then that key in your back obviously needs a few vigorous turns, because Pixar's latest CG spectacular is funnier, more thrilling and more genre-bustingly brilliant than you could imagine.\r Disney sequels are usually just shunted onto the sell-through market, involving only a fraction of the original budget and effort (witness the Aladdin follow-up minus Robin Williams, or the slightly mangier Lion King II: Simba's Pride). But the keyboard-clacking bods at Pixar couldn't take the easy option and trot out an inferior product on VHS. No, their rough cut smacked the gobs of the men at the Mouse House so much that the running time was bumped up, new scenes and characters added, the original cast kept on and the whole thing redirected towards the silver screen.\r Pixar supremo and TS2 director John Lasseter has always claimed that plot and character are as important as jaw-to-floor visuals, and his latest Lego-block-buster scores top marks on both. Just compare the graphics in the original with last year's ultra-textured A Bug's Life, and you'll have an idea of how far they've come with this second toyscapade. Okay, the main characters don't look that different, but then they don't really need to. Being toys, they don't require the roughness, spikiness and flakiness of A Bug's Life's insects. Besides, it'd be a bad move to change Buzz and co's appearance simply for the sake of change.\r No, the real improvements are more obvious when you look at the non-toy world they inhabit: back-grounds are packed with detail and exteriors are breathtakingly vast, involving skyscrapers, main streets and an entire airport, while the opening sequence even whirls you around a immense sci-fi spacescape. Although both Andy and his mom haven't quite lost their plastic sheen, the pudgy, greasy Al - who has more screentime than any other human - is remarkably realistic, right down to the individual bristles poking out of his jowly chin. And, talking of hair, Pixar has done a superb job rendering the fur on Andy's dog, Buster, apparently a result of the work it's been doing on its next movie, Monsters Inc.\r But it's in terms of story, script and character that Pixar's latest truly excels. Buzz is now at ease with his status as a plaything rather than a true-life cosmic adventurer, but that doesn't prevent him taking on the responsibility for Woody's rescue with deliciously hammy gusto, setting him up for some beautifully executed pratfalls. Woody, meanwhile, is developed far further when it's revealed to him that he's more than a mere doll... He's a collectible. One minor problem with the first film was that, unlike all the other toys, it was never clear how Woody ever came into being. Hamm's a piggy bank, Mr Potato Head we're all familiar with, Rex is a plastic dinosaur - but what's Woody? A floppy old cowpoke. Who ever had a toy like that? TS2 holds all the answers, and with them it introduces three new characters: Stinky Pete The Prospector, who's never even been removed from his box; Bullseye the clumsy cloth horse; and Jessie the cowgirl, voiced by a whooping, hollering Joan Cusack,who has her own, sad tale to tell (involving the movie's one slightly duff moment with an intrusively saccharine ballad). Also, now that Buzz and Woody are well established in the audience's minds, there's more time devoted to the supporting cast. So we're treated to some neat little sub-plots involving, for example, Rex's videogame addiction.\r The jokes may fly thick and fast, but it's in the thrill department that TS2 really goes, well, to infinity and beyond (sorry). The pace rarely lets up, as you're hurled from one giddily kinetic set piece to another, right up to the fingernail-pruning intensity of the climactic airport scramble. It's only when you notice the deeply embedded grip marks on the arms of your cinema seat that you'll realise you're not just watching a great cartoon, you're watching the best family-oriented action movie for years.\r Eye-rolling action, needle-sharp in-jokes, engaging characterisations, perfect plotting... The only fault with this movie is one slightly irksome ballad. But even that's not going to stop you floating out of the cinema sporting a big, soppy smile.",
-      "review_date": "2016-01-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "While it doesn't remain as good as the first one, it still ofers alot here as it features something new while still keeping us thinking about what is next to come.",
-      "review_date": "2016-03-24",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy story 2 works perfectly with its predesesors and shows a one-of-a-kind story-telling for entertain every kind of audience. This warm and pleasing film is, of course, the best of Pixar yet.",
-      "review_date": "2016-04-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "This movie better than Toy Story , but worse than Toy Story 3 . Toy Story 2 has got awesome storyline and this movie very beatiful for 1999 . This movie worse than Cars and Cars 2 , but can compete . Toy Story Movies were awesome and areThis movie better than Toy Story , but worse than Toy Story 3 . Toy Story 2 has got awesome storyline and this movie very beatiful for 1999 . This movie worse than Cars and Cars 2 , but can compete . Toy Story Movies were awesome and are awesome . Special Toy Story 2 and 3 . 8/10 . Good",
-      "review_date": "2016-05-17",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "A mi gusto mucho mejor que la primera, los nuevos personajes y la historia son excepcionales.",
-      "review_date": "2018-01-06",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "In the realm of sequels, “Toy Story 2” is to “Toy Story” what “The Empire Strikes Back” was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, givenIn the realm of sequels, “Toy Story 2” is to “Toy Story” what “The Empire Strikes Back” was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, given their utter dissimilarity. But John Lasseter and his team, their confidence clearly bolstered by the massive success of their 1995 blockbuster, have conspired to vigorously push the new entry further with fresh characters, broadened scope, boisterous humor and, most of all, a gratifying emotional and thematic depth. Disney and Pixar have an end-of-millennium behemoth here, one that, given its far greater appeal to girls by virtue of its female co-lead, could easily surpass the $362 million grossed by “Toy Story” worldwide.\r The only thing this sparkling picture lacks, by definition, is the shock of the new; four years ago, it was startling to behold the frontier that computer animation had conquered, to see what vast possibilities were now available in the whole field of animation. But there is no sense of complacency or sameness, as the filmmakers get their charges out of the house and into a situation that gives their lives more poignancy and awareness of mortality than, frankly, most characters in live-action films are accorded these days.\r After an overly assaultive outer-space teaser that will nonetheless serve its purpose of getting kids to shut up and pay attention, brisk set-up sees the affable Woody eagerly anticipating being taken to a summer Cowboy Camp by his owner, Andy. But excitement quickly turns to crushing disappointment when a “broken” arm causes Woody to be left behind, with Andy’s mom adding the final sting with the comment, “Toys don’t last forever.”\r Woody’s nightmare of being flung into the trash heap of broken toys comes true when he inadvertently lands in a yard-sale 25¢ bin, from which he’s kidnapped by the greedy Al McWhiggin, owner of the local Al’s Toy Barn, who knows something that Woody himself doesn’t — that Woody was a big TV star back in the ’50s.\r Stashed in a downtown building, Woody meets cowgirl Jessie, Stinky Pete the Prospector and a horse named Bullseye and, in a wonderfully entertaining interlude, learns of his long-ago celebrity on a show called “Woody’s Roundup,” a kids’ favorite in which Woody and his new acquaintances were puppets. Not only that, but a whole line of commercial products revolved around the show, including the cereal Cowboy Crunchies. Al’s impressive collection of Woody memorabilia was incomplete without its centerpiece, but now that Woody is safely in hand, Al plans to cash in by selling the whole set to a museum in Japan.\r Locked in a high-rise room with his torn limb, there is nothing Woody can do to save himself, so it’s up to spaceman Buzz Lightyear and Andy’s other toys, including Rex the dinosaur, Hamm the pig, Mr. Potato Head and Slinky Dog, to mount a rescue expedition. They head first for the Toy Barn, where some Barbies come to delightful life and Buzz is astonished to find hundreds of exact replicas of himself on the shelves  one of whom throws a monkey wrench into the search for Woody by boxing Buzz up and taking his place on the team.\r Back in the building, the normally rambunctious Jessie begins tugging at Woody’s heart as well as that of the viewer by pointing out that, unlike Woody, who has enjoyed many years with a loving owner, she has endured a long purgatory in storage, bereft of any life worth living.\r In the film’s main and moving new song, “When She Loved Me,” penned by Randy Newman and sung by Sarah McLachlan, Jessie recalls how she once had an enchanted relationship with a girl, one that she thought could never end, but that after her owner outgrew her, she ended up, like so many other toys, in a donation box. It’s the fate of all toys, she ruefully reflects, to outlive their usefulness, so the prospect of Japan for her at least means that she will provide pleasure again and have some purpose in life.\r Caught up short by this intimation of mortality, Woody suddenly finds himself conflicted, torn between the “blood” family of his old TV cohorts and his closest friends from Andy’s house. Arrival of the rescue party puts his true loyalty to an immediate test, one complicated by Al’s decision to leave at once for Japan. Dynamite action climax, which proceeds through a maze-like roller-coaster ride on airport baggage ramps, into the belly of a jet and out onto the landing gear during takeoff, deftly combines a modern setting with rousing cowboy heroics, while resolution of the main characters’ fates has a sweetly philosophical ring that satisfies while still taking into account the darker issues raised earlier.\r Visually, “Toy Story 2” is entirely of a piece with its predecessor, distinguished by the same endearing character design and reality-nudging peripheral details.",
-      "review_date": "2016-04-07",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "La secuela de Toy Story supo mantener el encanto de la primera y se añadieron nuevos personajes.La secuela de Toy Story supo mantener el encanto de la primera y se añadieron nuevos personajes.\r..................................................................................................................................................................",
-      "review_date": "2016-04-12",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Toy Story 2 may not surpass it's 1995 predecessor, but it lives up to be a great sequel and has tons of cleverness and memorable scenes that makes it a classic sequel.",
-      "review_date": "2016-06-13",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "An good 2nd movie with good charters with a movie that kids and adult can enjoy.......................................................................",
-      "review_date": "2016-10-05",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "It preserves the agility and grace of the previous one with new characters, melancholic moments, and self- parodic humor. Take note of the sequence of the elevator and the bloopers of the exit credits. Kids from 1yo and up will love it.",
-      "review_date": "2017-08-27",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "The original movie was amazing, and so is this one. In some ways, this story was better than the first. Also, the characters are even better than the last time we saw them.",
-      "review_date": "2017-05-28",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "Not as unforgettable as the other entries in the series but worth the watch.",
-      "review_date": "2018-04-15",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "John Lasseter's Toy Story 2 is probably the BEST sequel of all time and, just like the previous film, is one of the best films of all time period. The story is great as well as the characters, old and new. I really love this film and myJohn Lasseter's Toy Story 2 is probably the BEST sequel of all time and, just like the previous film, is one of the best films of all time period. The story is great as well as the characters, old and new. I really love this film and my rating would be 10/10",
-      "review_date": "2017-12-10",
-      "source": "metacritic"
-    },
-    {
-      "review_title": null,
-      "content": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "review_date": "2017-12-30",
-      "source": "metacritic"
-    }
-  ],
-  "num_reviews": 134
+    "title": "Toy Story 2",
+    "rating": 8.7,
+    "release_date": "1999-11-24",
+    "genre": [
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Animation",
+        "Family"
+    ],
+    "summary": "The sequel to the landmark 1995 computer-animated blockbuster from Disney and Pixar.  This time around, the fun and adventure continue when Andy goes off to cowboy camp and the toys are left to their own devices.  Things shift into high gear when an obsessive toy collector kidnaps Woody -- who hasn't the slightest clue that he's a greatlyThe sequel to the landmark 1995 computer-animated blockbuster from Disney and Pixar.  This time around, the fun and adventure continue when Andy goes off to cowboy camp and the toys are left to their own devices.  Things shift into high gear when an obsessive toy collector kidnaps Woody -- who hasn't the slightest clue that he's a greatly valued collectible.  (Disney/Pixar)\u2026 Expand",
+    "critic_reviews": [
+        "One of those rare sequels that's even better than the original.",
+        "Toy Story 2 may not have the most original title, but everything else about it is, well, mint in the box.",
+        "It's a great, IQ-flattering entertainment both wonderful and wise.",
+        "With its agile, clever script and winning characters, Toy Story 2 is that rare thing -- an excellent children's movie with no upper age limit.",
+        "Toy Story 2, like its forebear, will stand the test of time.",
+        "The most entertaining movie of the year.  Funny and action-packed, it's also got that rare thing, heart.",
+        "No parent who's been roped into leading the troops to a matinee need fear being bored: gags are, Simpsons-like, conceived to tickle several generations at once.",
+        "The superrealist images beguile us with their bold wit, and the storytelling is so tight, urgent and inventive there doesn't seem to be a wasted moment. Which makes you wonder -- why can't scripts this clever be written for human beings?",
+        "It not only pushes the computer-generated film envelope to the very edge, it's every bit as charming, funny and exciting as the original. In fact, I enjoyed it quite a bit more.",
+        "What's most amazing is the finely nuanced performances these bits and bytes deliver.",
+        "A sequel that eclipses the original. The toys are back with even more hilarious vengeance. The story's twice as inventive as its predecessor.",
+        "The animation is even more mind-blowing, if that's possible. The characters and objects seem even more palpable and real than last time. There's a thickness to bodies of the human characters and an amazing attention to detail throughout.",
+        "You can't ask for a family film to do more than Toy Story 2. It's smart and playful enough to entertain adults, yet it never aims above the heads of kids.",
+        "Prove(s) once again how ingenious, artful and flat-out entertaining animation can be.",
+        "Toy Story 2 is to \"Toy Story\" what \"The Empire Strikes Back\" was to its predecessor, a richer, more satisfying film in every respect.",
+        "Just as good as the original. In fact, it might even be better. Not only is it just as visually stunning and witty as the first, but it's funnier, more thoughtful and more grown-up.",
+        "Making sure that computer-generated animation will never be the same.",
+        "So funny and smart that holding it up against its predecessor is as pointless as comparing peak episodes of \"Seinfeld.\"",
+        "Pixar's improved computer animation is up to all the demands of this excellent adventure.",
+        "Doesn't have the purity, the sense of discovery, of the first Toy Story, but it's still an utter delight. Its images and gags keep replaying themselves in the mind well after the film is over.",
+        "A technologically marvelous animated movie that's just as funny and inventive as the first, but also more emotionally engaging than most live-action films. This is clearly a sequel in name only.",
+        "Toy Story had a simpler, stronger story and the advantage of being the first of its kind. But it's quickly apparent that TS2 represents a major step forward in computer-animation artistry.",
+        "The sequel is faster, funnier and wilder, with more cunningly contrived computer effects.",
+        "This isn't a made-for-video that they decided to put into theaters, but a version intended from the first to be theatrical. That's important, because it means more detail and complexity went into the animation.",
+        "The story is just as funny and touching. The only problem is the inevitable one: The freshness -- the novel delight -- is a little faded now.",
+        "The kitsch is back in full bloom.",
+        "Runs on wit and creativity.",
+        "Aspires to the boundlessness of a kid's imagination.",
+        "Everything you could want in a sequel. It satisfyingly regenerates the characters and qualities that made the first film so popular. And then it moves them forward into newer, fresher, more elaborate, more involving territory.",
+        "The story is surprising, the screenplay is witty, and the animation is wonderfully creative. A super sequel.",
+        "Some powerful dialogue.",
+        "It's impossible not to shake the feeling that we've been here before, and the movie never does convince you that a return trip was entirely necessary.",
+        "The story is simple enough for young children to follow, and the computer-animated images are both bright and surprisingly complex. Adults won't find the action heart-stopping.",
+        "If you (or your kids) loved Toy Story, you'll like Toy Story 2 as well. Just don't expect any big surprises."
+    ],
+    "reviews": [
+        {
+            "review_title": null,
+            "content": "While the first one showed that animated movies can be made completely with cg animation, this one proved that animated sequels can indeed be just as good as their predecessors (Shrek 2 and Toy Story 3 would prove this years later).",
+            "review_date": "2011-04-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just as good as the first story with a new batch of great characters. Moments for both the adults and the children. It is both timeless and universal just like its predecessor and is one of the few sequels that keeps the legacy of the wholeJust as good as the first story with a new batch of great characters. Moments for both the adults and the children. It is both timeless and universal just like its predecessor and is one of the few sequels that keeps the legacy of the whole franchise.",
+            "review_date": "2010-10-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy Story 2 is visually dazzling, heartfelt and just hilarious with amazing voice acting and memorable characters this is a very successful sequel. I give this film 95% of a good movie.",
+            "review_date": "2012-01-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While not as good as the original, Toy Story 2 is still one of the best animated movies ever made, in my opinion. It does everything almost as good as the orignal",
+            "review_date": "2011-07-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The second masterpiece from Pixar. While arguably not as good as it's predecessor, it contains many funny jokes, a loving plot and a well written and perfectly performed script. It doesn't age (which is nice) and is still one of the bestThe second masterpiece from Pixar. While arguably not as good as it's predecessor, it contains many funny jokes, a loving plot and a well written and perfectly performed script. It doesn't age (which is nice) and is still one of the best animated films I have ever seen. Not quite as good as Toy Story 2, but is Pixar's 5th best film.",
+            "review_date": "2012-01-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy Story 2 is a delight. No matter how old you are, it'll charm you completely. It's an accomplished piece of filmmaking and is virtually flawless. A fantastic achievement.",
+            "review_date": "2007-11-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Honestly, this is almost as good as animation gets. Fantastic for the kids, fantastic for the adults. I really cannot fault this movie. Wheezy is adorable.",
+            "review_date": "2007-07-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love the sequel, I love 1, 2 and 3. I love everything from these movies.\r I love how they introduce the new characters and I love the movie\r In some places, there moments which were funny and exciting.\r Brilliant just brilliant.",
+            "review_date": "2010-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think Toy Story 2 is better than the original. It is more adventurous than the first one because there is a lot more going on and there are more fun characters.",
+            "review_date": "2011-11-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Sequels that attempt to top or even be as good as a brilliant original are hard to come by, but Toy Story 2 manages not only to be as good if not better than the original, but also manages to again find a place in everyones heart on anSequels that attempt to top or even be as good as a brilliant original are hard to come by, but Toy Story 2 manages not only to be as good if not better than the original, but also manages to again find a place in everyones heart on an emotional level that will live on.\rAs owner Andy prepares to go to cowboy camp with Woody, the beloved toy's arm is ripped and must sit out the trip, and he soon is put on the shelf where all the disused toys go, and fears that his days are numbered as a played with toy.\rAfter a yard sale goes disastrously wrong, Woody is captured by a greedy toy collector, who Woody finds out wants to sell him as he is a part of a collection of famous dolls who were on a TV show years before.\rMeanwhile, Buzz and the rest of the gang are on a mission to save Woody and bring him back to his owner before the toy collector, Al, sells him.\rAll our original cast return including Tim Allen as Buzz and Tom Hanks as Woody, with the introduction of new characters including Bullseye the horse, Jesse the cowgirl (Joan Cusack) and Stinky Pete (Kelsey Grammar).\rThe second instalment in the blockbuster animated series continues to deal with real life issues, this time how growing up can affect everyone of all ages, and the film brings back many realisations that we must make difficult decisions as we grow older.\rThe additions of new characters are a welcome expansion to the universe, and offer very funny situations that also mock different films while also delivering a clean and thoroughly enjoyable experience that will again never leave your side..much like the original.\rVisually, the film continues to outshine the original, coming out four years after its predecessor, and it certainly brings a beautiful and more pristine experience and new level of enjoyment to the film.\rPixar continue to surprise and amaze, and with Toy Story 2 this is no different. it truly begs the question of how simple situations can make for the hardest decisions, but which ultimately come down to yourself.\rWith another Randy Newman scored film, its a simply unmissable film that will leave you wanting more and more, and of course one which will perhaps bring a tear to your eye.\rYou should certainly have a friend in Toy Story 2.",
+            "review_date": "2013-04-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy Story is a true classic, in every sense of the word. So Toy Story 2 had a lot to live up to, to try and even meet the standard of the first film let along exceed it. Luckily Toy Story 2 meets the standard perfectly, however does notToy Story is a true classic, in every sense of the word. So Toy Story 2 had a lot to live up to, to try and even meet the standard of the first film let along exceed it. Luckily Toy Story 2 meets the standard perfectly, however does not exceed the awesomeness of the first film, but instead compliments it.\rSo a few years have passed since the events of the original Toy Story and Andy has now reached his early teens, slowly growing out his toys. When clearing out his room Woody is accidentally thrown out and picked up by a toy collector to be framed for the rest of his life. Buzz and the rest of the gang from the first film go after Woody to rescue him and get him back to Andy before he returns from summer camp. However as Woody starts to learn that it wont be long until Andy no longer needs him and he starts to form new relationships with the collectors current set of toys he becomes reluctant to leave and go back to Andy.\rToy Story 2 takes all of the stuff that made Toy Story awesome and exaggerates it to make a much 'bigger' film without making the first one feel 'small' in comparison. It does nothing new but it delivers a concept we can all relate to and can learn from whilst providing us with an entertaining cast, well animated and generally awesome film.",
+            "review_date": "2013-02-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy story 2 is an amazing film, with it being better than the first. New and interesting characters, with a good plot. Pixar really showed us what they are made of.",
+            "review_date": "2013-10-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nBest Toy Story out of the 3. The characters return like Buzz, Woody, and new characters. Like maybe Zurg, Jessie, etc. Tom Hanks is a great actour. He did a great job acting Woody. The storyline and plot were awesome. Woody gets stolen by this fat guy who goes to Tokyo, Japan. (Lived in Tokyo for 2yrs.) At least Woody got repaired. I give this a 9/10 because of the crappy Barbie. She sucks! Well, in her own series. That's for sure. Great movie overall, and if you liked the first one, I totally recommend watching this.",
+            "review_date": "2015-03-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In the realm of sequels, \u201cToy Story 2\u201d is to \u201cToy Story\u201d what \u201cThe Empire Strikes Back\u201d was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, givenIn the realm of sequels, \u201cToy Story 2\u201d is to \u201cToy Story\u201d what \u201cThe Empire Strikes Back\u201d was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, given their utter dissimilarity. But John Lasseter and his team, their confidence clearly bolstered by the massive success of their 1995 blockbuster, have conspired to vigorously push the new entry further with fresh characters, broadened scope, boisterous humor and, most of all, a gratifying emotional and thematic depth. Disney and Pixar have an end-of-millennium behemoth here, one that, given its far greater appeal to girls by virtue of its female co-lead, could easily surpass the $362 million grossed by \u201cToy Story\u201d worldwide.\r The only thing this sparkling picture lacks, by definition, is the shock of the new; four years ago, it was startling to behold the frontier that computer animation had conquered, to see what vast possibilities were now available in the whole field of animation. But there is no sense of complacency or sameness, as the filmmakers get their charges out of the house and into a situation that gives their lives more poignancy and awareness of mortality than, frankly, most characters in live-action films are accorded these days.\r After an overly assaultive outer-space teaser that will nonetheless serve its purpose of getting kids to shut up and pay attention, brisk set-up sees the affable Woody eagerly anticipating being taken to a summer Cowboy Camp by his owner, Andy. But excitement quickly turns to crushing disappointment when a \u201cbroken\u201d arm causes Woody to be left behind, with Andy\u2019s mom adding the final sting with the comment, \u201cToys don\u2019t last forever.\u201d\r Woody\u2019s nightmare of being flung into the trash heap of broken toys comes true when he inadvertently lands in a yard-sale 25\u00a2 bin, from which he\u2019s kidnapped by the greedy Al McWhiggin, owner of the local Al\u2019s Toy Barn, who knows something that Woody himself doesn\u2019t \u2014 that Woody was a big TV star back in the \u201950s.\r Stashed in a downtown building, Woody meets cowgirl Jessie, Stinky Pete the Prospector and a horse named Bullseye and, in a wonderfully entertaining interlude, learns of his long-ago celebrity on a show called \u201cWoody\u2019s Roundup,\u201d a kids\u2019 favorite in which Woody and his new acquaintances were puppets. Not only that, but a whole line of commercial products revolved around the show, including the cereal Cowboy Crunchies. Al\u2019s impressive collection of Woody memorabilia was incomplete without its centerpiece, but now that Woody is safely in hand, Al plans to cash in by selling the whole set to a museum in Japan.\r Locked in a high-rise room with his torn limb, there is nothing Woody can do to save himself, so it\u2019s up to spaceman Buzz Lightyear and Andy\u2019s other toys, including Rex the dinosaur, Hamm the pig, Mr. Potato Head and Slinky Dog, to mount a rescue expedition. They head first for the Toy Barn, where some Barbies come to delightful life and Buzz is astonished to find hundreds of exact replicas of himself on the shelves \u2014 one of whom throws a monkey wrench into the search for Woody by boxing Buzz up and taking his place on the team.\r Back in the building, the normally rambunctious Jessie begins tugging at Woody\u2019s heart \u2014 as well as that of the viewer \u2014 by pointing out that, unlike Woody, who has enjoyed many years with a loving owner, she has endured a long purgatory in storage, bereft of any life worth living.\r In the film\u2019s main and moving new song, \u201cWhen She Loved Me,\u201d penned by Randy Newman and sung by Sarah McLachlan, Jessie recalls how she once had an enchanted relationship with a girl, one that she thought could never end, but that after her owner outgrew her, she ended up, like so many other toys, in a donation box. It\u2019s the fate of all toys, she ruefully reflects, to outlive their usefulness, so the prospect of Japan for her at least means that she will provide pleasure again and have some purpose in life.\r Caught up short by this intimation of mortality, Woody suddenly finds himself conflicted, torn between the \u201cblood\u201d family of his old TV cohorts and his closest friends from Andy\u2019s house. Arrival of the rescue party puts his true loyalty to an immediate test, one complicated by Al\u2019s decision to leave at once for Japan. Dynamite action climax, which proceeds through a maze-like roller-coaster ride on airport baggage ramps, into the belly of a jet and out onto the landing gear during takeoff, deftly combines a modern setting with rousing cowboy heroics, while resolution of the main characters\u2019 fates has a sweetly philosophical ring that satisfies while still taking into account the darker issues raised earlier.\r Visually, \u201cToy Story 2\u201d is entirely of a piece with its predecessor, distinguished by the same endearing character design and reality-nudging peripheral details.",
+            "review_date": "2016-03-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toys charged again. It could be worse than Andy found out who broke her doll Woody and I would not use it but never really is endless friendship , friendship and talking to other characters film debut came in cowboys.",
+            "review_date": "2015-07-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love Toy Story, which I still think is the best Pixar animation to date, but Toy Story 2, not only surpasses its predecessor, ,it also manages to make rock-solid entertainment out of a simple story.The animation is faultless. I could findI love Toy Story, which I still think is the best Pixar animation to date, but Toy Story 2, not only surpasses its predecessor, ,it also manages to make rock-solid entertainment out of a simple story.The animation is faultless. I could find nothing wrong with that. The script was just as irreverent and witty as the one in the first film, with jokes that adults will enjoy as well as kids. And the song When She Loved Me was beautiful and vital to the story.The voice talents are also faultless. Tom Hanks and Tim Allen are brilliant here as Woody and Buzz, but they were equally brilliant in the first too. Wayne Knight was also fine as Al, who kidnaps Woody to sell him to a museum. Joan Cusack was great as Jessie, though I do agree she has been better. Frasier's Kelsey Grammar is resoundingly entertaining as Stinky Pete(what a great name!). Solid support also from Don Rickles, Wallace Shawn, Jodi Benson(Ariel from little Mermaid)and Annie Potts.All in all, a fantastic film, that has enough visual jokes(like Wallace and Gromit) to satisfy adults and kids alike. Rock- solid entertainment that thoroughly deserves a 10/10. Bethany Cox",
+            "review_date": "2022-03-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the rare occasions where the second film is just as good as the first one. It has a whole load of great new characters (Zurg being the best) and an amazing story. One of Pixar's best.",
+            "review_date": "2015-09-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The rare sequel that equals the brilliance of the of the original. Toy Story 2 is a great movie that continues the adventures of Woody, Buzz and the gang. It introduces great new characters like Jesse, Zurg and Bullseye to the mix and hasThe rare sequel that equals the brilliance of the of the original. Toy Story 2 is a great movie that continues the adventures of Woody, Buzz and the gang. It introduces great new characters like Jesse, Zurg and Bullseye to the mix and has great heart just like the first. If you loved the first, you'll love this!",
+            "review_date": "2015-09-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In the realm of sequels, \u201cToy Story 2\u201d is to \u201cToy Story\u201d what \u201cThe Empire Strikes Back\u201d was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, givenIn the realm of sequels, \u201cToy Story 2\u201d is to \u201cToy Story\u201d what \u201cThe Empire Strikes Back\u201d was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, given their utter dissimilarity.\r The only thing this sparkling picture lacks, by definition, is the shock of the new; four years ago, it was startling to behold the frontier that computer animation had conquered, to see what vast possibilities were now available in the whole field of animation. But there is no sense of complacency or sameness, as the filmmakers get their charges out of the house and into a situation that gives their lives more poignancy and awareness of mortality than, frankly, most characters in live-action films are accorded these days.\r After an overly assaultive outer-space teaser that will nonetheless serve its purpose of getting kids to shut up and pay attention, brisk set-up sees the affable Woody eagerly anticipating being taken to a summer Cowboy Camp by his owner, Andy. But excitement quickly turns to crushing disappointment when a \u201cbroken\u201d arm causes Woody to be left behind, with Andy\u2019s mom adding the final sting with the comment, \u201cToys don\u2019t last forever.\u201d\r Woody\u2019s nightmare of being flung into the trash heap of broken toys comes true when he inadvertently lands in a yard-sale 25\u00a2 bin, from which he\u2019s kidnapped by the greedy Al McWhiggin, owner of the local Al\u2019s Toy Barn, who knows something that Woody himself doesn\u2019t \u2014 that Woody was a big TV star back in the \u201950s.\r Stashed in a downtown building, Woody meets cowgirl Jessie, Stinky Pete the Prospector and a horse named Bullseye and, in a wonderfully entertaining interlude, learns of his long-ago celebrity on a show called \u201cWoody\u2019s Roundup,\u201d a kids\u2019 favorite in which Woody and his new acquaintances were puppets. Not only that, but a whole line of commercial products revolved around the show, including the cereal Cowboy Crunchies. Al\u2019s impressive collection of Woody memorabilia was incomplete without its centerpiece, but now that Woody is safely in hand, Al plans to cash in by selling the whole set to a museum in Japan.\r Locked in a high-rise room with his torn limb, there is nothing Woody can do to save himself, so it\u2019s up to spaceman Buzz Lightyear and Andy\u2019s other toys, including Rex the dinosaur, Hamm the pig, Mr. Potato Head and Slinky Dog, to mount a rescue expedition. They head first for the Toy Barn, where some Barbies come to delightful life and Buzz is astonished to find hundreds of exact replicas of himself on the shelves \u2014 one of whom throws a monkey wrench into the search for Woody by boxing Buzz up and taking his place on the team.\r Back in the building, the normally rambunctious Jessie begins tugging at Woody\u2019s heart \u2014 as well as that of the viewer \u2014 by pointing out that, unlike Woody, who has enjoyed many years with a loving owner, she has endured a long purgatory in storage, bereft of any life worth living.\r In the film\u2019s main and moving new song, \u201cWhen She Loved Me,\u201d penned by Randy Newman and sung by Sarah McLachlan, Jessie recalls how she once had an enchanted relationship with a girl, one that she thought could never end, but that after her owner outgrew her, she ended up, like so many other toys, in a donation box. It\u2019s the fate of all toys, she ruefully reflects, to outlive their usefulness, so the prospect of Japan for her at least means that she will provide pleasure again and have some purpose in life.\r Caught up short by this intimation of mortality, Woody suddenly finds himself conflicted, torn between the \u201cblood\u201d family of his old TV cohorts and his closest friends from Andy\u2019s house. Arrival of the rescue party puts his true loyalty to an immediate test, one complicated by Al\u2019s decision to leave at once for Japan. Dynamite action climax, which proceeds through a maze-like roller-coaster ride on airport baggage ramps, into the belly of a jet and out onto the landing gear during takeoff, deftly combines a modern setting with rousing cowboy heroics, while resolution of the main characters\u2019 fates has a sweetly philosophical ring that satisfies while still taking into account the darker issues raised earlier.\r Visually, \u201cToy Story 2\u201d is entirely of a piece with its predecessor, distinguished by the same endearing character design and reality-nudging peripheral details. But the new offering is even more densely packed with rollicking humor than the first, thanks to the addition of more characters and incident; jokey revelation of Buzz\u2019s parentage will bring down the house at every screening. A sense of spirited invention permeates the proceedings from top to bottom, and few films so thoroughly deliver the feeling that everyone connected to it was united in pursuit of a single goal and had matchless fun reaching it.",
+            "review_date": "2016-03-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One Of Pixar's BestToy Story 2 Has EVERYTHING That Made The First One A Masterpiece.",
+            "review_date": "2018-03-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy Story 2 is one of the only sequels that does not crash into the wall. But things do not finish there, this movie is entertaining and the characters are charming and fresh, with a better development and a with new view into the world weToy Story 2 is one of the only sequels that does not crash into the wall. But things do not finish there, this movie is entertaining and the characters are charming and fresh, with a better development and a with new view into the world we have already seen in the first movie. This sequel really worths it's watch.",
+            "review_date": "2017-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The perfect sequel. Nothing gives joy like toy story 2 just turning it on will mesmerize and you will be ready for 3 in no time",
+            "review_date": "2019-07-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Toy Story trilogy films are Pixar's only legendary movies ever, the plots are outstanding, the characters puts all emotions to themselves and have great role models and great designs, and the endings are so emotional.",
+            "review_date": "2019-04-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best animation till this day. True classic. Clever storytelling, hysterical jokes and very poignant moments.",
+            "review_date": "2019-01-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fresher and more innovative, Toy Story 2 is a beautiful movie with a story that no one could forget.",
+            "review_date": "2022-04-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "a very charming movie with great animation and is extremely better than the original",
+            "review_date": "2022-04-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Toy Story 2\", the animation sequel to the masterpiece \"Toy Story\", labels itself as a another masterpiece by continuing the purity and love the first movie had.",
+            "review_date": "2011-09-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "the reason of why the original was so good is because it needs to be played with sequels and this time this one kicks a** and its my favorite in the series along with the first movie.",
+            "review_date": "2010-10-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy Story 2 is basically just an improvement over the original and it's still one of the best sequels out there. It's so hard to lower down the score on this movie so it stays at a 10.",
+            "review_date": "2015-12-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I always find it so hard to believe that it was made in 1999. It's like it was just released last year! A great movie for anyone.",
+            "review_date": "2011-01-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This may not be the best Toy Story but it is still a great movie, the story is a little predictable and some of the new characters aren't as great as the others but it is still a movie I would recommend seeing, it's funny, smart , andThis may not be the best Toy Story but it is still a great movie, the story is a little predictable and some of the new characters aren't as great as the others but it is still a movie I would recommend seeing, it's funny, smart , and ultimately charming, if you enjoyed the first you'll enjoy this one, even if it's not as good.",
+            "review_date": "2011-02-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good follow up to the sensational first film with lots of humour though missing the emotional core of the first film in my opinion.",
+            "review_date": "2019-04-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Kind of boring as I remember thinking as a kid when I saw this movie.",
+            "review_date": "2013-03-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy Story 2 is just another dismal effort with inept characters and an implausible story. Any new characters added this time do nothing to help this franchise.",
+            "review_date": "2014-04-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "the second toy story movie series is for me the worst film of all the series but still is no bad film,there is some new characters that i didn't like so much.",
+            "review_date": "2013-10-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The animation and visuals are just as gorgeous as they were in the first one and were amazing for the time. I loved the incorporation of the new characters Jessie and Bullseye. The writing and screenplay was spectacular just like the firstThe animation and visuals are just as gorgeous as they were in the first one and were amazing for the time. I loved the incorporation of the new characters Jessie and Bullseye. The writing and screenplay was spectacular just like the first one. The storytelling was even better than the first one. The voice acting was stupendous especially Tim Allen, Tom Hanks, Joan Cusack, Don Rickles, Wallace Shawn, Kelsey Grammer, John Ratzenberger, Jim Varney, and Wayne Knight. The soundtrack and score were also fantastic and I especially loved the song When She Loved Me performed by Sarah McLachlan. I loved this one but I still love the first one more. Toy Story 2 is one of my favorite animated movies of all time.",
+            "review_date": "2018-09-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For how much longer. Disney sequels just do not work. Pixar tries harder, but why bother if Disney only cares about the money? Disney should stop making sequels. The movie does have merit in some parts, but why start when you already endedFor how much longer. Disney sequels just do not work. Pixar tries harder, but why bother if Disney only cares about the money? Disney should stop making sequels. The movie does have merit in some parts, but why start when you already ended the first movie pretty well?",
+            "review_date": "2021-08-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My favorite all kind movie! I love it so much. The best hit of last Disney-Pixar.",
+            "review_date": "2006-03-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Best movie of 1999! Really Woody and Buzz rock!",
+            "review_date": "2006-05-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just as good as Toy Story, with the best action figure villian... \"Zurg\".",
+            "review_date": "2007-08-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is the best movie in 1999! It's funny and it's for everyone at any age to enjoy! Disney and Pixar are genuises!",
+            "review_date": "2008-04-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Some many years ago....must have watched this 1000 times LOL!.",
+            "review_date": "2008-07-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Even more fun and more adventurous than the first film. Pros: Innovative characters; eye popping animation; hilarious dialog and pop culture references; the best Pixar film to date. Cons: Again, if Toy Story 2 lacked anything, it's becauseEven more fun and more adventurous than the first film. Pros: Innovative characters; eye popping animation; hilarious dialog and pop culture references; the best Pixar film to date. Cons: Again, if Toy Story 2 lacked anything, it's because you don't have an eye for animation, period.",
+            "review_date": "2011-04-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It could reasonably be argued that the plot for Toy Story 2 is virtually the original's in reverse (this time around Buzz is trying to rescue Woody) but, as with virtually all of Disney Pixar's movies, there are more than enough funny momentsIt could reasonably be argued that the plot for Toy Story 2 is virtually the original's in reverse (this time around Buzz is trying to rescue Woody) but, as with virtually all of Disney Pixar's movies, there are more than enough funny moments to keep anyone entertained.",
+            "review_date": "2013-12-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A fantastic sequel to its previous movie. It has sympathy, just like the first movie. Technically, it was amazing. It has great animation, voice acting and a wonderful new cast of characters. Another masterpiece from Pixar I must say......",
+            "review_date": "2012-09-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's more adventurous than the first with a few more clever pop-culture references, making this the sequel that the first film deserved. Not to mention the introduction of great new characters and would you believe it, no age limit",
+            "review_date": "2011-08-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In my opinion, this is the best Pixar movie, other than Ratatouille and The Incredibles. And I say this only because the movie introduces new character bonds while still strengthening the old ones. (9.7/10)",
+            "review_date": "2012-01-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Like its predecessor, Toy Story 2 is filled with great depth and genuine heart showing us the potential of big budget animation as something that's truly for all ages and the ages.",
+            "review_date": "2013-12-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The new characters including Buster (The Dog) are great additions. I love that the old guy from Geri's Game made a cameo. Toy Story 2 is about friendship, just like the first movie, but in a different way. This one is about friends havingThe new characters including Buster (The Dog) are great additions. I love that the old guy from Geri's Game made a cameo. Toy Story 2 is about friendship, just like the first movie, but in a different way. This one is about friends having each others back. The movie goes in depth about the meaning of a toy's life. Great dialogue like the first, only problem I had was Buzz and Woody didn't have enough screen time together like in the first. I love the star wars reference with Zurg being Buzz's dad. I have to say the Toy Story version is better. I absolutely love the sexual reference with Buzz, it's Hilarious.",
+            "review_date": "2012-04-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Toy Story 2\" is exactly what a sequel must be  bigger, funnier and more exciting. The computer-animation, just like the first, is outstanding. Anyone who loved \"Toy Story\" definitely must check out this touching sequel.",
+            "review_date": "2013-11-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Duplicates the first one's brilliance. Toy Story 2 is not only lots of fun, but has many strong, emotional moments in it as well. A lot of new, great characters are introduced for the first time, too.",
+            "review_date": "2013-01-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Another masterpiece of animation.",
+            "review_date": "2013-01-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My favorite animated movie of all time. Full of great characters, fun action sequences and quality animation. It has an incredible balance of humor, action and tear jerking scenes that everyone will find something to love in.",
+            "review_date": "2013-02-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This took a while to come out but when it did, it was worth the long wait. New characters meant more excitement. In a way, it was bigger in scale compared to the first movie. Definitely a must see like its predecessor.",
+            "review_date": "2013-02-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Here's my childhood part 2. Not only is this a fantastic sequel and even lives up to the first, but it also touches on a more human emotional grasp than the first one. It's definitely a more mature \"Toy Story\" adaptation, yet it still neverHere's my childhood part 2. Not only is this a fantastic sequel and even lives up to the first, but it also touches on a more human emotional grasp than the first one. It's definitely a more mature \"Toy Story\" adaptation, yet it still never becomes something too much. Overall, it's a well deserved sequel! This also deserves an A+!",
+            "review_date": "2013-12-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The animation is even more mind-blowing, if that's possible. The characters and objects seem even more palpable and real than last time. There's a thickness to bodies of the human characters and an amazing attention to detail throughout.",
+            "review_date": "2014-03-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great movie, it's more than just a continuation to the story of the first movie, it's also impeccable at getting deeper into the the characters persona and past.",
+            "review_date": "2013-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"Toy Story 2\" is good, but not as good as the first one, but despite that the original is slightly better this one is really great, amazing and smart, a great time for the whole family.",
+            "review_date": "2013-06-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While building on emotions from the first film, the \"Toy Story\" gang is back for an outrageously good sequel that leaves almost none to disappoint. With saddening touches, hilarious returns, and a wonderful tale put into the movie, you canWhile building on emotions from the first film, the \"Toy Story\" gang is back for an outrageously good sequel that leaves almost none to disappoint. With saddening touches, hilarious returns, and a wonderful tale put into the movie, you can almost call \"Toy Story 2\" better than the first. Well, almost.",
+            "review_date": "2013-07-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Its always spellbinding, funny, and appealing to even adults. I have to admit, it's a downturn from its predecessor, which is on the list of greatest films of all time. Its still charming and lovable, but not a masterpiece like the original.Its always spellbinding, funny, and appealing to even adults. I have to admit, it's a downturn from its predecessor, which is on the list of greatest films of all time. Its still charming and lovable, but not a masterpiece like the original. But I must say, \"Toy Story 2\" is a necessary and approving sequel.",
+            "review_date": "2013-11-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is in my opinion the worst Toy Story movie. That does not make it a bad movie though. the pacing is a bit weird but the voice acting and the look still holds up today.",
+            "review_date": "2014-09-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I'm just gonna get this out of the way right now, and not sugarcoat it, \"Toy Story 2\" might be my favorite animated film of all time. Instead of feeling like a rehash made simply for profit, \"Toy Story 2\" evolves the story and characters inI'm just gonna get this out of the way right now, and not sugarcoat it, \"Toy Story 2\" might be my favorite animated film of all time. Instead of feeling like a rehash made simply for profit, \"Toy Story 2\" evolves the story and characters in wonderful ways, introduces us to some fantastic new characters, improves the already-great animation, and ups the humor, heart, charm, fun, excitement and wit that made the first film so great. There's no two ways about it, \"Toy Story 2\" is even better than the first, no questions asked.",
+            "review_date": "2016-11-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The sequel to the excellent Toy Story somehow did the impossible, it was better than the original. This film talks about loss at a level that is relatable to children, as well really shows the value of friendship and loyalty.",
+            "review_date": "2019-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy Story 2 succeeds its predecessor by leaps and bounds.\rToy Story 2 impresses audiences young and old with its radiant style and life like characters.",
+            "review_date": "2013-11-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While it's hard to improve upon the original, Toy Story 2  is a more than worthy sequel taking place 5 years after the original one. With Andy off to camp, Woody is kidnapped by a greedy toy collector with the intention of being sold to aWhile it's hard to improve upon the original, Toy Story 2  is a more than worthy sequel taking place 5 years after the original one. With Andy off to camp, Woody is kidnapped by a greedy toy collector with the intention of being sold to a Japanese Toy Museum. From there Buzz and the gang work together to save Woody along with a whole new cast of characters.",
+            "review_date": "2019-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Textbook example of how an effective sequel to any successful first outing should be ... improvements to the production quality and a major focus on story and character. In addition to the obvious improvements to CGI rendering quality fromTextbook example of how an effective sequel to any successful first outing should be ... improvements to the production quality and a major focus on story and character. In addition to the obvious improvements to CGI rendering quality from the first movie, TS1 sports ambitious set pieces and locations used to great effect here and really show off how much Pixar learned from TS1 in storytelling. Great use of the new characters and the story comes across as a natural progression from the first movie. Overall this is seminal stuff that flexed how on top of their game Pixar were at this stage in full length CG movie production.",
+            "review_date": "2019-10-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Definitely one of the best Toy Story films up to now. It's comical, it's tear-jerking, beautifully animated but it's also, surprisingly well-written and fabulously voiced. I recommend it for all ages.",
+            "review_date": "2014-12-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "After the immaculate success of Toy Story, everyone knew that Toy Story 2 had a lot to live up to. But Toy Story 2 not only matched it's predecessor, it surpassed it. Toy Story 2 has it all. It's powerful, intense, humorous and rich. ThisAfter the immaculate success of Toy Story, everyone knew that Toy Story 2 had a lot to live up to. But Toy Story 2 not only matched it's predecessor, it surpassed it. Toy Story 2 has it all. It's powerful, intense, humorous and rich. This time the toys are dropped in a much darker world where our protagonist (Woody) is faced with a choice of choosing between fame and love. There are no easy choices. It's a film about dedication, commitment, friendship and immortality. Wall-E is still Pixar's best film to date. Toy Story 2 is certainly among the best.",
+            "review_date": "2015-01-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Yeah i don't think this is AS good as the original. I would give it a 7,5 but since i cant i'm giving it a 8. It was a GREAT movie don't get me wrong. This movie was just a let down but not bad. It wasn't as funny and i didn't like the newYeah i don't think this is AS good as the original. I would give it a 7,5 but since i cant i'm giving it a 8. It was a GREAT movie don't get me wrong. This movie was just a let down but not bad. It wasn't as funny and i didn't like the new characters that much.",
+            "review_date": "2014-12-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy Story 2 essentially matches the strength of the original film. I love the additions of the new characters like Jessie and Bullseye and Kelsey Grammer is excellent playing the villain Stinky Pete. Toy Story 2 captures all of the laughs youToy Story 2 essentially matches the strength of the original film. I love the additions of the new characters like Jessie and Bullseye and Kelsey Grammer is excellent playing the villain Stinky Pete. Toy Story 2 captures all of the laughs you get from the first film and its just as cute.",
+            "review_date": "2015-02-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A rare sequel that's just as good as the original. Pixar do the clever thing by not trying to re-create these characters, which is why you remember them so well in the first film, as you do in this one. They don't re-hash the same story theyA rare sequel that's just as good as the original. Pixar do the clever thing by not trying to re-create these characters, which is why you remember them so well in the first film, as you do in this one. They don't re-hash the same story they still keep it fresh and new. All the new characters are a lot of fun, and you get emotionally involved with them. In conclusion the Toy Story sequel is a movie that doesn't disappoint.",
+            "review_date": "2014-10-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The sequel to the landmark 1995 computer-animated blockbuster from Disney and Pixar. This time around, the fun and adventure continue when Andy goes off to cowboy camp and the toys are left to their own devices. Things shift into high gearThe sequel to the landmark 1995 computer-animated blockbuster from Disney and Pixar. This time around, the fun and adventure continue when Andy goes off to cowboy camp and the toys are left to their own devices. Things shift into high gear when an obsessive toy collector kidnaps Woody -- who hasn't the slightest clue that he's a greatly valued collectible.",
+            "review_date": "2014-10-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's true: Toy Story 2 is an even better movie than the first one! Better villain (Stinky Pete) and new characters (like Jessie the cowgirl) make it almost impossible not to like. Don't miss out on another epic PIXAR film.",
+            "review_date": "2015-01-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy Story 2 is a fantastic film that introduced one of the most recognizable cowboys/girls in film history. Jessie felt very insincere in this movie until \"When She Loved Me\" came on and made everyone feel for her story and recognize theToy Story 2 is a fantastic film that introduced one of the most recognizable cowboys/girls in film history. Jessie felt very insincere in this movie until \"When She Loved Me\" came on and made everyone feel for her story and recognize the stakes of their situation. I can't say I absolutely loved the storyline as much as the first since I thinK Prospector Pete was more of a jerk than a threat but how can I not love a movie that introduced the dynamic duo that is Jessie and Bullseye?! Overall this film may not be as perfect as its predecessor, it does a fantastic job of making everyone laugh and cry.",
+            "review_date": "2017-03-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What's amazing about this picture is how much higher it takes the original Story. Most sequels milk a successful franchise while providing nothing but the same ol' thing, but I was surprised and moved by how wonderful the storytelling andWhat's amazing about this picture is how much higher it takes the original Story. Most sequels milk a successful franchise while providing nothing but the same ol' thing, but I was surprised and moved by how wonderful the storytelling and acting were, but above all else how the folks at Pixar drew together a darker more unhappy element for neglected inanimate objects. I have been delighted to view this more than once. Definite buy for lovers of animated cinema.",
+            "review_date": "2015-03-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy story 2 is an American film produced by Pixar and Wall Disney studio directed by John Lesseter, Ash Brannon and Lee Unkrich in 1999.\rIt deals with toys alive. The principal character is a cow-boy, Woody.\rI think it\u2019s my favourite filmToy story 2 is an American film produced by Pixar and Wall Disney studio directed by John Lesseter, Ash Brannon and Lee Unkrich in 1999.\rIt deals with toys alive. The principal character is a cow-boy, Woody.\rI think it\u2019s my favourite film of the Toy story trilogy. In this film, there are new characters who are fun like Jessy the cow-girl. Her story is for me, emotional because she thinks that Emily, her owner, was her best friend but when the little girl growns up, she realizes that Emily doesn\u2019t care for her because she grows, so she has another passion like make-up she can share with her new friend.\rJessy is very happy during all the film even she had a sad past but doesn\u2019t show it because she was abandoned by her last friend, so it\u2019s horrible part of her life of toy ! But we find Woody in new adventures with Buzz lightyear who are eventful.\rIf you like the Disney movies and you have already watched the first one, you like this one too because it\u2019s a great story, espacelly for young viewers.",
+            "review_date": "2015-04-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When Woody is mistakenly sold to an evil toy trader, the rest of the toys team up to save him.\r Toy Story 2 contains some great moments. From a purely visual standpoint, few are better than the opening scenes, which show Buzz LightyearWhen Woody is mistakenly sold to an evil toy trader, the rest of the toys team up to save him.\r Toy Story 2 contains some great moments. From a purely visual standpoint, few are better than the opening scenes, which show Buzz Lightyear zipping around the galaxy, ready to do battle with his Darth Vader-like nemesis, Zurg. With its ever-changing camera angles and intricately rendered detail, the sequence cannot fail to dazzle. Equally impressive are scenes where the toys attempt a \"safe\" crossing of a busy street (using red cones) and Buzz's visit to the \"Buzz Lightyear\" aisle in a Toys 'R Us-type toy store. Parodies are kept to a minimum, although there's a funny takeoff on a key element of the Star Wars series in addition to a quick, throw-away moment lifted from Jurassic Park. The movie also pokes fun at its own merchandising, even going so far as to offer a blueprint for a possible Toy Story video game.\r The camerawork is more interesting here than in either Toy Story or A Bug's Life. A real effort is made to duplicate the kinds of shots obtained though live-action cinematography. The camera moves around. There are distant shots and close ups. Lighting and filters are used to establish a mood (as in Jessie's remembrance of her days when she was a beloved toy). And there are times when techniques are employed to suggest a depth of field (such as making background objects slightly blurry).\r Voice casting is as good the second time around as it was the first. The principals are all back - Tom Hanks as the irrepressible Woody; Tim Allen as the heroic Buzz; Don Rickles as Mr. Potatohead; John Ratzenberger as Hamm, the piggy bank who keeps losing his change; Jim Varney as the stretchable slinky dog; and Annie Potts as Woody's flame, Bo Peep. New additions include Joan Cusack as Jessie the Cowgirl; Kelsey Grammar (who has one of the most versatile voices in the business) as Stinky Pete the Prospector; Wayne Knight as the unscrupulous toy salesman Al; and The Little Mermaid herself, Jodi Benson, as Tour Guide Barbie.\r Toy Story 2 is to \"Toy Story\" what \"The Empire Strikes Back\" was to its predecessor, a richer, more satisfying film in every respect.",
+            "review_date": "2015-04-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Four years ago, the release of Toy Story forever changed the face of animated motion pictures. The astonishing, three-dimensional quality of John Lasseter's work amazed both average movie-goers and hard-to-impress critics. Now, in 1999, theFour years ago, the release of Toy Story forever changed the face of animated motion pictures. The astonishing, three-dimensional quality of John Lasseter's work amazed both average movie-goers and hard-to-impress critics. Now, in 1999, the toys are back. While not as innovative as the original Toy Story, Toy Story 2 is a worthy successor. The sequel picks up where the landmark original left off, and tells an enjoyable story without retreading everything that has gone before. Those who appreciated the first movie are virtually guaranteed to like the second, which represents family filmmaking at its best. All the elements that made Toy Story popular are present in this installment. Toy Story 2 makes Pixar three-for-three in the feature film arena and is sure to continue Disney's string of animated hits.\r One would have to be a hopeless curmudgeon not to be entertained by Toy Story 2's remarkable visual style, quick-moving storyline, endearing characters, and witty dialogue. The balance between what has been included for kids and what's there for adults is almost perfect. There are things that children will appreciate more than their parents, but other elements will go over the heads of shorter viewers. However, the majority of what Toy Story 2 offers will delight everyone in the audience, regardless of their physical or mental age.\r Reportedly, Toy Story 2 was originally slated for a direct-to-video release, but Disney eventually opted for theatrical distribution instead (all of The Magic Kingdom's recent animated sequels, including further chapters in the Aladdin, Beauty and the Beast, and Lion King sagas, have bypassed theaters). After viewing the final product, it's difficult for me to believe that this movie was ever intended for the ignominy of a Blockbuster premiere. Like Toy Story and A Bug's Life, Toy Story 2 has a richness of texture and detail that will be lost on smaller screens. Only in a theater is it possible to fully appreciate the benefits of computer animation, where every blade of grass, mote of dust, and hair on a dog's body has its own identity, and where the branches of a tree sway to the prompting of a gentle breeze. And, while computer animation has drawbacks (for example, the humans are saddled with an artificial appearance), those are significantly outweighed by the benefits.\r Toy Story 2 contains some great moments. From a purely visual standpoint, few are better than the opening scenes, which show Buzz Lightyear zipping around the galaxy, ready to do battle with his Darth Vader-like nemesis, Zurg. With its ever-changing camera angles and intricately rendered detail, the sequence cannot fail to dazzle. Equally impressive are scenes where the toys attempt a \"safe\" crossing of a busy street (using red cones) and Buzz's visit to the \"Buzz Lightyear\" aisle in a Toys 'R Us-type toy store. Parodies are kept to a minimum, although there's a funny takeoff on a key element of the Star Wars series in addition to a quick, throw-away moment lifted from Jurassic Park. The movie also pokes fun at its own merchandising, even going so far as to offer a blueprint for a possible Toy Story video game.\r The camerawork is more interesting here than in either Toy Story or A Bug's Life. A real effort is made to duplicate the kinds of shots obtained though live-action cinematography. The camera moves around. There are distant shots and close ups. Lighting and filters are used to establish a mood (as in Jessie's remembrance of her days when she was a beloved toy). And there are times when techniques are employed to suggest a depth of field (such as making background objects slightly blurry).\r Voice casting is as good the second time around as it was the first. The principals are all back - Tom Hanks as the irrepressible Woody; Tim Allen as the heroic Buzz; Don Rickles as Mr. Potatohead; John Ratzenberger as Hamm, the piggy bank who keeps losing his change; Jim Varney as the stretchable slinky dog; and Annie Potts as Woody's flame, Bo Peep. New additions include Joan Cusack as Jessie the Cowgirl; Kelsey Grammar (who has one of the most versatile voices in the business) as Stinky Pete the Prospector; Wayne Knight as the unscrupulous toy salesman Al; and The Little Mermaid herself, Jodi Benson, as Tour Guide Barbie.\r It's a testimony to the skill of directors John Lasseter (who went solo on the original Toy Story), Lee Unkrich, and Ash Brannon that we develop such a strong bond with a group of computer generated toys. And, while Toy Story 2 isn't quite the achievement that its predecessor represented, it is nevertheless one of the best examples of family entertainment that 1999 has offered.",
+            "review_date": "2015-04-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In my opinion is the worst movie of the saga toy story , yet I do not think it's a bad film. The visual part is very detailed and well crafted , and the actors who do the voices also were very good. This film is advisable for a family night.",
+            "review_date": "2015-07-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When the frist one of Toy Story came out every one was crazy of this film, it was so good for all a generation of kids and adults, and people didn't expect a sequel of Toy Story. And like every one, i love it. Not just the comedy has better,When the frist one of Toy Story came out every one was crazy of this film, it was so good for all a generation of kids and adults, and people didn't expect a sequel of Toy Story. And like every one, i love it. Not just the comedy has better, the animation looks fantastic. Every single detail is like a wonderful time in do it. The new characters are intresting and funny, the music has better, and the meesege of this sequel its also great. And even the animation of humans has better and the textures are really awesome. In my opinon, Toy Story 2 its another sequel who has all the passion of the pixar people.",
+            "review_date": "2016-05-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Toys, as they say, are back in town. And if you're not already excited by this, then that key in your back obviously needs a few vigorous turns, because Pixar's latest CG spectacular is funnier, more thrilling and more genre-bustinglyThe Toys, as they say, are back in town. And if you're not already excited by this, then that key in your back obviously needs a few vigorous turns, because Pixar's latest CG spectacular is funnier, more thrilling and more genre-bustingly brilliant than you could imagine.\r Disney sequels are usually just shunted onto the sell-through market, involving only a fraction of the original budget and effort (witness the Aladdin follow-up minus Robin Williams, or the slightly mangier Lion King II: Simba's Pride). But the keyboard-clacking bods at Pixar couldn't take the easy option and trot out an inferior product on VHS. No, their rough cut smacked the gobs of the men at the Mouse House so much that the running time was bumped up, new scenes and characters added, the original cast kept on and the whole thing redirected towards the silver screen.\r Pixar supremo and TS2 director John Lasseter has always claimed that plot and character are as important as jaw-to-floor visuals, and his latest Lego-block-buster scores top marks on both. Just compare the graphics in the original with last year's ultra-textured A Bug's Life, and you'll have an idea of how far they've come with this second toyscapade. Okay, the main characters don't look that different, but then they don't really need to. Being toys, they don't require the roughness, spikiness and flakiness of A Bug's Life's insects. Besides, it'd be a bad move to change Buzz and co's appearance simply for the sake of change.\r No, the real improvements are more obvious when you look at the non-toy world they inhabit: back-grounds are packed with detail and exteriors are breathtakingly vast, involving skyscrapers, main streets and an entire airport, while the opening sequence even whirls you around a immense sci-fi spacescape. Although both Andy and his mom haven't quite lost their plastic sheen, the pudgy, greasy Al - who has more screentime than any other human - is remarkably realistic, right down to the individual bristles poking out of his jowly chin. And, talking of hair, Pixar has done a superb job rendering the fur on Andy's dog, Buster, apparently a result of the work it's been doing on its next movie, Monsters Inc.\r But it's in terms of story, script and character that Pixar's latest truly excels. Buzz is now at ease with his status as a plaything rather than a true-life cosmic adventurer, but that doesn't prevent him taking on the responsibility for Woody's rescue with deliciously hammy gusto, setting him up for some beautifully executed pratfalls. Woody, meanwhile, is developed far further when it's revealed to him that he's more than a mere doll... He's a collectible. One minor problem with the first film was that, unlike all the other toys, it was never clear how Woody ever came into being. Hamm's a piggy bank, Mr Potato Head we're all familiar with, Rex is a plastic dinosaur - but what's Woody? A floppy old cowpoke. Who ever had a toy like that? TS2 holds all the answers, and with them it introduces three new characters: Stinky Pete The Prospector, who's never even been removed from his box; Bullseye the clumsy cloth horse; and Jessie the cowgirl, voiced by a whooping, hollering Joan Cusack,who has her own, sad tale to tell (involving the movie's one slightly duff moment with an intrusively saccharine ballad). Also, now that Buzz and Woody are well established in the audience's minds, there's more time devoted to the supporting cast. So we're treated to some neat little sub-plots involving, for example, Rex's videogame addiction.\r The jokes may fly thick and fast, but it's in the thrill department that TS2 really goes, well, to infinity and beyond (sorry). The pace rarely lets up, as you're hurled from one giddily kinetic set piece to another, right up to the fingernail-pruning intensity of the climactic airport scramble. It's only when you notice the deeply embedded grip marks on the arms of your cinema seat that you'll realise you're not just watching a great cartoon, you're watching the best family-oriented action movie for years.\r Eye-rolling action, needle-sharp in-jokes, engaging characterisations, perfect plotting... The only fault with this movie is one slightly irksome ballad. But even that's not going to stop you floating out of the cinema sporting a big, soppy smile.",
+            "review_date": "2016-01-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "WHAT I LIKED: With all the magic of the first film and more - 'Toy Story 2' is a rare sequel that actually improves over it's predecessor. This is mainly because of the addition of a better group of themes for the adults to enjoy, and the wayWHAT I LIKED: With all the magic of the first film and more - 'Toy Story 2' is a rare sequel that actually improves over it's predecessor. This is mainly because of the addition of a better group of themes for the adults to enjoy, and the way in which it successfully continues to develop it's excellent characters in a delicate and fun way\rWHAT I DIDN'T LIKE: It keeps it's silliness to a certain degree, and it's added themes makes it feel a little chaotic. Plus it still can't shake the lack of an interesting plot that would add adventure and excitement\rVERDICT: A sequel that's a success - when the first film was so good that's a big achievement.",
+            "review_date": "2016-01-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Toys, as they say, are back in town. And if you're not already excited by this, then that key in your back obviously needs a few vigorous turns, because Pixar's latest CG spectacular is funnier, more thrilling and more genre-bustinglyThe Toys, as they say, are back in town. And if you're not already excited by this, then that key in your back obviously needs a few vigorous turns, because Pixar's latest CG spectacular is funnier, more thrilling and more genre-bustingly brilliant than you could imagine.\r Disney sequels are usually just shunted onto the sell-through market, involving only a fraction of the original budget and effort (witness the Aladdin follow-up minus Robin Williams, or the slightly mangier Lion King II: Simba's Pride). But the keyboard-clacking bods at Pixar couldn't take the easy option and trot out an inferior product on VHS. No, their rough cut smacked the gobs of the men at the Mouse House so much that the running time was bumped up, new scenes and characters added, the original cast kept on and the whole thing redirected towards the silver screen.\r Pixar supremo and TS2 director John Lasseter has always claimed that plot and character are as important as jaw-to-floor visuals, and his latest Lego-block-buster scores top marks on both. Just compare the graphics in the original with last year's ultra-textured A Bug's Life, and you'll have an idea of how far they've come with this second toyscapade. Okay, the main characters don't look that different, but then they don't really need to. Being toys, they don't require the roughness, spikiness and flakiness of A Bug's Life's insects. Besides, it'd be a bad move to change Buzz and co's appearance simply for the sake of change.\r No, the real improvements are more obvious when you look at the non-toy world they inhabit: back-grounds are packed with detail and exteriors are breathtakingly vast, involving skyscrapers, main streets and an entire airport, while the opening sequence even whirls you around a immense sci-fi spacescape. Although both Andy and his mom haven't quite lost their plastic sheen, the pudgy, greasy Al - who has more screentime than any other human - is remarkably realistic, right down to the individual bristles poking out of his jowly chin. And, talking of hair, Pixar has done a superb job rendering the fur on Andy's dog, Buster, apparently a result of the work it's been doing on its next movie, Monsters Inc.\r But it's in terms of story, script and character that Pixar's latest truly excels. Buzz is now at ease with his status as a plaything rather than a true-life cosmic adventurer, but that doesn't prevent him taking on the responsibility for Woody's rescue with deliciously hammy gusto, setting him up for some beautifully executed pratfalls. Woody, meanwhile, is developed far further when it's revealed to him that he's more than a mere doll... He's a collectible. One minor problem with the first film was that, unlike all the other toys, it was never clear how Woody ever came into being. Hamm's a piggy bank, Mr Potato Head we're all familiar with, Rex is a plastic dinosaur - but what's Woody? A floppy old cowpoke. Who ever had a toy like that? TS2 holds all the answers, and with them it introduces three new characters: Stinky Pete The Prospector, who's never even been removed from his box; Bullseye the clumsy cloth horse; and Jessie the cowgirl, voiced by a whooping, hollering Joan Cusack,who has her own, sad tale to tell (involving the movie's one slightly duff moment with an intrusively saccharine ballad). Also, now that Buzz and Woody are well established in the audience's minds, there's more time devoted to the supporting cast. So we're treated to some neat little sub-plots involving, for example, Rex's videogame addiction.\r The jokes may fly thick and fast, but it's in the thrill department that TS2 really goes, well, to infinity and beyond (sorry). The pace rarely lets up, as you're hurled from one giddily kinetic set piece to another, right up to the fingernail-pruning intensity of the climactic airport scramble. It's only when you notice the deeply embedded grip marks on the arms of your cinema seat that you'll realise you're not just watching a great cartoon, you're watching the best family-oriented action movie for years.\r Eye-rolling action, needle-sharp in-jokes, engaging characterisations, perfect plotting... The only fault with this movie is one slightly irksome ballad. But even that's not going to stop you floating out of the cinema sporting a big, soppy smile.",
+            "review_date": "2016-01-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While it doesn't remain as good as the first one, it still ofers alot here as it features something new while still keeping us thinking about what is next to come.",
+            "review_date": "2016-03-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy story 2 works perfectly with its predesesors and shows a one-of-a-kind story-telling for entertain every kind of audience. This warm and pleasing film is, of course, the best of Pixar yet.",
+            "review_date": "2016-04-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie better than Toy Story , but worse than Toy Story 3 . Toy Story 2 has got awesome storyline and this movie very beatiful for 1999 . This movie worse than Cars and Cars 2 , but can compete . Toy Story Movies were awesome and areThis movie better than Toy Story , but worse than Toy Story 3 . Toy Story 2 has got awesome storyline and this movie very beatiful for 1999 . This movie worse than Cars and Cars 2 , but can compete . Toy Story Movies were awesome and are awesome . Special Toy Story 2 and 3 . 8/10 . Good",
+            "review_date": "2016-05-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In the realm of sequels, \u201cToy Story 2\u201d is to \u201cToy Story\u201d what \u201cThe Empire Strikes Back\u201d was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, givenIn the realm of sequels, \u201cToy Story 2\u201d is to \u201cToy Story\u201d what \u201cThe Empire Strikes Back\u201d was to its predecessor, a richer, more satisfying film in every respect. The comparison between these two franchises will be pursued no further, given their utter dissimilarity. But John Lasseter and his team, their confidence clearly bolstered by the massive success of their 1995 blockbuster, have conspired to vigorously push the new entry further with fresh characters, broadened scope, boisterous humor and, most of all, a gratifying emotional and thematic depth. Disney and Pixar have an end-of-millennium behemoth here, one that, given its far greater appeal to girls by virtue of its female co-lead, could easily surpass the $362 million grossed by \u201cToy Story\u201d worldwide.\r The only thing this sparkling picture lacks, by definition, is the shock of the new; four years ago, it was startling to behold the frontier that computer animation had conquered, to see what vast possibilities were now available in the whole field of animation. But there is no sense of complacency or sameness, as the filmmakers get their charges out of the house and into a situation that gives their lives more poignancy and awareness of mortality than, frankly, most characters in live-action films are accorded these days.\r After an overly assaultive outer-space teaser that will nonetheless serve its purpose of getting kids to shut up and pay attention, brisk set-up sees the affable Woody eagerly anticipating being taken to a summer Cowboy Camp by his owner, Andy. But excitement quickly turns to crushing disappointment when a \u201cbroken\u201d arm causes Woody to be left behind, with Andy\u2019s mom adding the final sting with the comment, \u201cToys don\u2019t last forever.\u201d\r Woody\u2019s nightmare of being flung into the trash heap of broken toys comes true when he inadvertently lands in a yard-sale 25\u00a2 bin, from which he\u2019s kidnapped by the greedy Al McWhiggin, owner of the local Al\u2019s Toy Barn, who knows something that Woody himself doesn\u2019t \u2014 that Woody was a big TV star back in the \u201950s.\r Stashed in a downtown building, Woody meets cowgirl Jessie, Stinky Pete the Prospector and a horse named Bullseye and, in a wonderfully entertaining interlude, learns of his long-ago celebrity on a show called \u201cWoody\u2019s Roundup,\u201d a kids\u2019 favorite in which Woody and his new acquaintances were puppets. Not only that, but a whole line of commercial products revolved around the show, including the cereal Cowboy Crunchies. Al\u2019s impressive collection of Woody memorabilia was incomplete without its centerpiece, but now that Woody is safely in hand, Al plans to cash in by selling the whole set to a museum in Japan.\r Locked in a high-rise room with his torn limb, there is nothing Woody can do to save himself, so it\u2019s up to spaceman Buzz Lightyear and Andy\u2019s other toys, including Rex the dinosaur, Hamm the pig, Mr. Potato Head and Slinky Dog, to mount a rescue expedition. They head first for the Toy Barn, where some Barbies come to delightful life and Buzz is astonished to find hundreds of exact replicas of himself on the shelves  one of whom throws a monkey wrench into the search for Woody by boxing Buzz up and taking his place on the team.\r Back in the building, the normally rambunctious Jessie begins tugging at Woody\u2019s heart as well as that of the viewer by pointing out that, unlike Woody, who has enjoyed many years with a loving owner, she has endured a long purgatory in storage, bereft of any life worth living.\r In the film\u2019s main and moving new song, \u201cWhen She Loved Me,\u201d penned by Randy Newman and sung by Sarah McLachlan, Jessie recalls how she once had an enchanted relationship with a girl, one that she thought could never end, but that after her owner outgrew her, she ended up, like so many other toys, in a donation box. It\u2019s the fate of all toys, she ruefully reflects, to outlive their usefulness, so the prospect of Japan for her at least means that she will provide pleasure again and have some purpose in life.\r Caught up short by this intimation of mortality, Woody suddenly finds himself conflicted, torn between the \u201cblood\u201d family of his old TV cohorts and his closest friends from Andy\u2019s house. Arrival of the rescue party puts his true loyalty to an immediate test, one complicated by Al\u2019s decision to leave at once for Japan. Dynamite action climax, which proceeds through a maze-like roller-coaster ride on airport baggage ramps, into the belly of a jet and out onto the landing gear during takeoff, deftly combines a modern setting with rousing cowboy heroics, while resolution of the main characters\u2019 fates has a sweetly philosophical ring that satisfies while still taking into account the darker issues raised earlier.\r Visually, \u201cToy Story 2\u201d is entirely of a piece with its predecessor, distinguished by the same endearing character design and reality-nudging peripheral details.",
+            "review_date": "2016-04-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Toy Story 2 may not surpass it's 1995 predecessor, but it lives up to be a great sequel and has tons of cleverness and memorable scenes that makes it a classic sequel.",
+            "review_date": "2016-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An good 2nd movie with good charters with a movie that kids and adult can enjoy.......................................................................",
+            "review_date": "2016-10-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It preserves the agility and grace of the previous one with new characters, melancholic moments, and self- parodic humor. Take note of the sequence of the elevator and the bloopers of the exit credits. Kids from 1yo and up will love it.",
+            "review_date": "2017-08-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The original movie was amazing, and so is this one. In some ways, this story was better than the first. Also, the characters are even better than the last time we saw them.",
+            "review_date": "2017-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not as unforgettable as the other entries in the series but worth the watch.",
+            "review_date": "2018-04-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "John Lasseter's Toy Story 2 is probably the BEST sequel of all time and, just like the previous film, is one of the best films of all time period. The story is great as well as the characters, old and new. I really love this film and myJohn Lasseter's Toy Story 2 is probably the BEST sequel of all time and, just like the previous film, is one of the best films of all time period. The story is great as well as the characters, old and new. I really love this film and my rating would be 10/10",
+            "review_date": "2017-12-10",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "num_reviews": 134
 }
