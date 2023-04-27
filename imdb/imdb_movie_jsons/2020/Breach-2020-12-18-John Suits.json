@@ -892,12 +892,6 @@
             "source": "imdb"
         },
         {
-            "review_title": "Awful",
-            "content": "Worst movie ever made avoid at all costs.Avoid avoid avoid",
-            "review_date": "2021-02-28",
-            "source": "imdb"
-        },
-        {
             "review_title": "Emmm, yeah...",
             "content": "This moment, when one of the best actors team up with some random non-actors, take some drugs and want to recreate Aliens in 2020. I thought that pandemic was already bad, but this is way worse...",
             "review_date": "2020-12-22",
@@ -972,13 +966,6 @@
             "content": "I don't know why every ones so shocked that Bruce Willis is in another really crappy movie. Die Hard was a long time ago. Pretty soon Bruce is going to drift into Jim Carrey or. Nicholas Cage territory. Most of the C movies hes been in over the last 15 years, are ones where hes bordering on 'cameo' roles. You can find a better movie, right now, on non-premium cable.Yep....... Its that bad. Low budget in every way. \"Hey lets hire BW and maybe no one will notice how awful rthe movie is, in every category.\"",
             "review_date": "2021-06-30",
             "lang": "en",
-            "source": "imdb"
-        },
-        {
-            "review_title": "Hahaha",
-            "content": "Hahahahahahaaaaaaaa\nHagagaaaaaahaaa\nHahahaaa\nNo.Absolutely not\nDo not watch.",
-            "review_date": "2021-07-20",
-            "lang": "so",
             "source": "imdb"
         },
         {
@@ -3407,7 +3394,8 @@
             "review_title": "Stinker",
             "content": "What a lousy movie. Looks like a bad Syfy channel movie.",
             "review_date": "2021-08-08",
-            "source": "imdb"
+            "source": "imdb",
+            "lang": "en"
         },
         {
             "review_title": "Can I give it zero stars?",

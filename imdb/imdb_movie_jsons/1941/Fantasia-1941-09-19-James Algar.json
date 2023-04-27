@@ -1756,7 +1756,8 @@
             "review_title": "Ungodly nonsense",
             "content": "\"Millions of years ago, dinosaurs... blah blah blah\".",
             "review_date": "2020-11-14",
-            "source": "imdb"
+            "source": "imdb",
+            "lang": "en"
         },
         {
             "review_title": "Top flight, but DVD soundtrack differs from VHS and LD",

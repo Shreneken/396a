@@ -2620,13 +2620,6 @@
             "source": "imdb"
         },
         {
-            "review_title": "Penoso",
-            "content": "Come hanno fatto a convincere questo cast a girare questo film? Senza senso, senza storia, senza budget. Scene buttate gi\u00f9 a casaccio. Che pena.",
-            "review_date": "2021-04-17",
-            "lang": "it",
-            "source": "imdb"
-        },
-        {
             "review_title": "Wow, I struggled to watch this",
             "content": "I made it 34 mins before my gag reflex kicked in. It's only an 88min movie and I couldn't find the energy to last.Everything that the other reviews say is true. Gas cars, 2010-era motorcycles, bullet-firing guns. Etc, etc. The simple fact that humans would still be around in 500 years was laughable at this point.I started to channel Wesley Snipes: \"Where's all the phasers and s%^&?\" No one has cybernetics, bionic limbs, or nanomachines built into them?Seriously bad movie. Bruce Willis seems to be on a bad roll lately, with Breach and this disaster.",
             "review_date": "2021-07-20",
@@ -3009,13 +3002,6 @@
             "content": "Bad story, bad plot, poor special effects, bad acting, bad character design, cheap costume designs and materials. This movie was as bad as Titan. Worst movie of 2021. I can hardly believe I was able to finish it.",
             "review_date": "2021-07-30",
             "lang": "en",
-            "source": "imdb"
-        },
-        {
-            "review_title": "Old style...",
-            "content": "Non \u00e8 male... Ovviamente \u00e8 un genere che deve piacere e non \u00e8 per tutti. Azione e fantascienza non mancano.",
-            "review_date": "2021-05-02",
-            "lang": "it",
             "source": "imdb"
         },
         {
@@ -4310,7 +4296,8 @@
             "review_title": "HahahahH",
             "content": "Hahahhahahahahah.Quarantine really got to these guys.",
             "review_date": "2021-03-19",
-            "source": "imdb"
+            "source": "imdb",
+            "lang": "en"
         },
         {
             "review_title": "Show, don't tell",

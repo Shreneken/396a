@@ -5946,13 +5946,6 @@
             "source": "imdb"
         },
         {
-            "review_title": "yes",
-            "content": "Good burger fries movie good yum best movie good watch doom burgers",
-            "review_date": "2020-09-27",
-            "lang": "af",
-            "source": "imdb"
-        },
-        {
             "review_title": "Hand it over to Marvel Studios",
             "content": "This movie is possibly one of the worst films of all time. I was so surprised when I heard they were making a fantastic four reboot. I shouldn't have been so positive. This makes Fantastic Four Rise of the Silver Surfer feel like the best movie of all time.The movie is poorly written and is too short. The team has 0 chemistry. The acting is OK, but could've been better. The final battle is awful. It is over way too fast. Fox needs to stop trying to make a good ff movie. They need to go the Sony route and sign with Marvel Studios. That is the only way it can be saved. Do not waste your money on this movie. I REPEAT DO NOT WASTE YOUR MONEY OR TIME IT IS AWFUL!",
             "review_date": "2015-08-08",
@@ -6229,7 +6222,8 @@
             "review_title": "Decepcionante/Disappointing (ESP/ENG)",
             "content": "101 minutos de pel\u00edcula para obtener 10 minutos finales de acci\u00f3n, oportunidad perdida de renacer la franquicia, dej\u00e1ndola m\u00e1s que tocada y hundida en el Universo Cinematogr\u00e1fico de Marvel.//101 minutes of film to get the final 10 minutes of action, a missed opportunity to reborn the franchise, leaving it more than shaken and plunged into the Marvel Cinematic Universe.",
             "review_date": "2021-07-15",
-            "source": "imdb"
+            "source": "imdb",
+            "lang": "en"
         },
         {
             "review_title": "Worst Boss Fight Ever",

@@ -3783,13 +3783,6 @@
             "source": "imdb"
         },
         {
-            "review_title": "Hermosa y profunda",
-            "content": "Bella y de profundo significado, las escenas y relatos transmiten diferentes emociones.",
-            "review_date": "2018-11-25",
-            "lang": "es",
-            "source": "imdb"
-        },
-        {
             "review_title": "Loved it!",
             "content": "These are the types of movies that I like the most. Based on a true story - which makes it even more interesting. I have great admiration for this young guy. He followed his beliefs and followed his heart. He had a lot of great experiences along the way. Nothing compares to pushing your boundaries and limits - it is the best life lesson you can have. Kudos to this guy. The pace of the movie and the cinematography are not far short of perfect. I hope his parents and sister are extremely proud of how he lived his life. A great humanitarian who I am certain would have achieved a lot - but not in the materialistic sense. His life has great meaning and sadly for us, it was cut way too short. Movies like this lift the spirit. I did also watch the docu-movie about this young guy which paints a slightly different view of him. I believe the true person lies somewhere in the middle. Well worth watching. I hope it moves you in the same way it did for me!",
             "review_date": "2015-05-14",
@@ -4577,7 +4570,8 @@
             "review_title": "I wasted my time",
             "content": "So disappointed, I didn't resist to see the entire movie.",
             "review_date": "2017-12-23",
-            "source": "imdb"
+            "source": "imdb",
+            "lang": "en"
         },
         {
             "review_title": "note to the haters",

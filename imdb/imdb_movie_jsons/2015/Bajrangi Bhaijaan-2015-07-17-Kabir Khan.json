@@ -2320,13 +2320,6 @@
             "source": "imdb"
         },
         {
-            "review_title": "Bester Film aller Zeiten",
-            "content": "Einfach der beste Film den ich je gesehen habe. Auch die Filmmusik ist 1a",
-            "review_date": "2018-12-23",
-            "lang": "de",
-            "source": "imdb"
-        },
-        {
             "review_title": "Blockbuster\ud83d\udd25",
             "content": "Beyond expectations.\nA treat for you and your family.\nGoosebumps gurranteed.",
             "review_date": "2019-06-05",
@@ -2352,12 +2345,6 @@
             "content": "The story is very solid. i enjoyed the movie very much. a lots of emotions involved.",
             "review_date": "2020-08-19",
             "lang": "en",
-            "source": "imdb"
-        },
-        {
-            "review_title": "salmankhan always make the best movie",
-            "content": "Superb movie salman khan s looks osm",
-            "review_date": "2020-09-11",
             "source": "imdb"
         },
         {
@@ -2497,7 +2484,8 @@
             "review_title": "MEGASTAR Sallu",
             "content": "Very Good Movie Sallu Bhai !! Yahi movie chahte hai hamlog.",
             "review_date": "2021-05-19",
-            "source": "imdb"
+            "source": "imdb",
+            "lang": "en"
         },
         {
             "review_title": "Irreplaceable masterpiece movie...!!",
@@ -2560,12 +2548,6 @@
             "content": "This is the most beautiful movie i have seen in my entire life , and while watching that movie it touches my heart and my tears had drop down few times .",
             "review_date": "2018-02-14",
             "lang": "en",
-            "source": "imdb"
-        },
-        {
-            "review_title": "Nice movies",
-            "content": "Super acting Salman khan harsali Malhotra good movies",
-            "review_date": "2018-02-27",
             "source": "imdb"
         },
         {

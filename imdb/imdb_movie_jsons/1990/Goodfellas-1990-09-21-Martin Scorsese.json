@@ -4651,12 +4651,6 @@
             "source": "imdb"
         },
         {
-            "review_title": "+\u00d7\u00f7=",
-            "content": "+\u00d7\u00f7=/_\u00a3\u00a5!@#$%^&*()-'c\":;,+\u00d7=$$#$%#=$##%^^#%&:#$$%$^^#-@-@$@$$-@$%(###@@",
-            "review_date": "2020-03-14",
-            "source": "imdb"
-        },
-        {
             "review_title": "Excellent",
             "content": "Scorsese is at his best as he pulls back the curtain into the fascinating and mostly dark lifestyle of a wiseguy. Even with all the crime and corruption, you can't help but silently root for these \"Goodfellas\". This is one of the best films of the 90s and cemented Scorsese as the king of mobster films.Plot: 10/10\nActing: 9/10\nCinematography: 6.3/7\nScore: 4/5\nEnjoyable: 1/1\n= 92/100Favorite Character = Tommy DeVito (Joe Pesci)Favorite Scene = OpeningFavorite Quote = \"As far back as I can remember, I always wanted to be a gangster.\" -Henry Hill.",
             "review_date": "2022-08-19",
@@ -9161,7 +9155,8 @@
             "review_title": "Inccreible Films",
             "content": "Inccreible Films,Inccreible Films,Inccreible Films,Inccreible Films",
             "review_date": "2019-03-22",
-            "source": "imdb"
+            "source": "imdb",
+            "lang": "en"
         },
         {
             "review_title": "Best Film of the 1990's",
@@ -9231,13 +9226,6 @@
             "content": "I could watch this movie 100000 times and still love it.",
             "review_date": "2021-03-31",
             "lang": "en",
-            "source": "imdb"
-        },
-        {
-            "review_title": "No Words",
-            "content": "YOUSHOULDWATCHTHISGEM\n:) :) :) :) :) :) :)",
-            "review_date": "2020-12-02",
-            "lang": "cy",
             "source": "imdb"
         },
         {
@@ -10085,13 +10073,6 @@
             "content": "This in my opinion is the best film ever made and anyone who has not seen it should drop what they are doing right now and head down to the video store and rent it! IT is an amazing piece of work. Everything from the direction by Scorsese and the acting by the three leads is perfect.",
             "review_date": "2001-10-31",
             "lang": "en",
-            "source": "imdb"
-        },
-        {
-            "review_title": "Mafiabr\u00f8dre p\u00e5 norsk.",
-            "content": "Med DeNiro p\u00e5 laget blir det en bra film.De andre skuespillerne er ogs\u00e5 ypperlige.Og Martin Scorsese er en av de beste regiss\u00f8rene.Sett den p\u00e5 Netflix.",
-            "review_date": "2021-11-05",
-            "lang": "no",
             "source": "imdb"
         },
         {
