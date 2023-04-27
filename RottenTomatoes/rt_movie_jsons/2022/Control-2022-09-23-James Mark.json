@@ -11,32 +11,38 @@
         {
             "content": "Just as bad as expected. They tried.",
             "review_date": "2023-02-28",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "It was ok, but Eileen as a character, just gross. What's with the man hating in all these movies these days.",
             "review_date": "2023-02-22",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "Good thriller for the budget on a diet while scratching your head when you can only hire 2 actors.",
             "review_date": "2023-01-21",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "Fairly boring. Characters - no depth. Outcome - predictable.",
             "review_date": "2023-01-02",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "I get that it's a low budget movie and didn't expect much but it was just funny how bad it is",
             "review_date": "2022-10-02",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "This was really predictable trash, the effects weren't well done, and the acting wasn't fantastic. I thought it could be redeemed with the storyline, because the story had a lot of ways in which I could go, but the character show themselves as one dimensional over and over again.",
             "review_date": "2022-09-27",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         }
     ]
 }

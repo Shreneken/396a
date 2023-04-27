@@ -10,42 +10,50 @@
         {
             "content": "The best Korean movie.",
             "review_date": "2021-12-02",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "Sorry, but I have to disagree with all the rave reviews, I thought was a tad amateurish with bad acting.",
             "review_date": "2019-07-30",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "If only this movie had a likable character. From the opening sequence to the bloody and predictable end, I could not get behind a single character or their motivation, which made the entire 2 hour running time frustrating to sit through.",
             "review_date": "2018-10-10",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "Excellent film, but not for the light-hearted.",
             "review_date": "2018-07-28",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "ASURA already has a clear theme in the title of the film. Asura connotes that it is a quarrelsome ghost. So all the characters in the movie are really bad. The movie depicts the gruesome battle of the wicked. ASURA is a film aimed at pure violence. In one word, everybody in this movie is wielding meaningless violence. And it is a very violent film unlike most Korean films. It was impressive to see the characters run towards the end of the violence without any purpose. Also, the car chasing scenes are comparable to those of any previous Korean movie. Since the shooting technique featured in this scene was very unique and attractive, I couldn't take my eyes off it. Anyway if you crave innocent violence or murder, please watch ASURA. You won't regret it.",
             "review_date": "2016-10-16",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "this movie is so terrible and the worst film in this autumn.",
             "review_date": "2016-10-15",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "It is the one of the best Criminal thriller films of this year in Korea. I've seen this movie four times. I will see this one more time again on Next Monday and Director Kim Sung-soo will join this event and he will meet his movie fans. This film is really different from the other gangster movies before.",
             "review_date": "2016-10-13",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "Saw at International Premiere at TIFF2016 and thoroughly enjoyed, ialbeit sometimes it was a bit over the top violent and could have been 15 minutes shorter.  Overall a solid film, if you can stomach some violence.",
             "review_date": "2016-09-13",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         }
     ]
 }

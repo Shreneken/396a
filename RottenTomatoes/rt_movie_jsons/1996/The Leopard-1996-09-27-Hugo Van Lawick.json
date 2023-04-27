@@ -10,12 +10,14 @@
         {
             "content": "Follows the coming-of-age of this elusive animal in the Serengeti over a two year period.",
             "review_date": "2012-04-30",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         },
         {
             "content": "A marvelous survey of African wildlife with variety of activity and scenery along with a good story",
             "review_date": "2009-02-28",
-            "source": "rt"
+            "source": "rt",
+            "lang": "en"
         }
     ]
 }

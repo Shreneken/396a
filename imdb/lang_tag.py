@@ -4,14 +4,14 @@ import json
 from tqdm import tqdm
 
 trash = []
-for date_dir in os.listdir("imdb/imdb_movie_jsons"):
-    new_dir = f"imdb/imdb_movie_jsons/{date_dir}/"
+for date_dir in os.listdir("RottenTomatoes/rt_movie_jsons"):
+    new_dir = f"RottenTomatoes/rt_movie_jsons/{date_dir}/"
     # if int(date_dir) != 2018:
     #     continue
     try:
         for each_movie in tqdm(os.listdir(new_dir)):
             try:
-                file = f"imdb/imdb_movie_jsons/{date_dir}/{each_movie}"
+                file = f"RottenTomatoes/rt_movie_jsons/{date_dir}/{each_movie}"
 
                 with open(file, "r+") as read_movie:
                     load_curr_movie = json.load(read_movie)
