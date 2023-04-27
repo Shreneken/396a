@@ -1,0 +1,26 @@
+{
+    "rating": 7.0,
+    "release_date": "Invalid",
+    "num_reviews": 3,
+    "genres": [
+        "Drama"
+    ],
+    "summary": "The wife of a famous artist tries to contact his estranged family before his dementia worsens.",
+    "reviews": [
+        {
+            "content": "Bruce Dern disappears for large swaths of the movie so the story can concentrate on Lena Olin reigniting her painting career.  Dern's character is much more interesting.",
+            "review_date": "2021-04-27",
+            "source": "rt"
+        },
+        {
+            "content": "A moving, if sometimes slightly disjointed look at the life of a wife who gave up her pursuit to be an artist to support the painting career of her talented, famous and affluent but capricious and egotistical husband, a challenge made all the more difficult by the onset of Alzheimer's disease, making him more volatile and unpredictable than ever. The dynamics of a woman torn between wanting to support her beloved and pull away to attend to her own needs are examined in multiple permutations, presenting a profile of a character frustrated while attempting to be conciliatory in multiple regards. The superb lead performances by Lena Olin and Bruce Dern, backed by a fine supporting cast, really make this picture, helping it shine even when its sometimes-meandering narrative lets them down. A worthwhile candidate for awards season, especially in the acting categories.",
+            "review_date": "2020-11-12",
+            "source": "rt"
+        },
+        {
+            "content": "Good actoing, trite plot.",
+            "review_date": "2020-09-18",
+            "source": "rt"
+        }
+    ]
+}

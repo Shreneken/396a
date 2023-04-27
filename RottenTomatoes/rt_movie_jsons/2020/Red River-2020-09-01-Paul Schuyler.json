@@ -1,0 +1,31 @@
+{
+    "rating": 0.0,
+    "release_date": "2020-09-01",
+    "num_reviews": 4,
+    "genres": [
+        "English"
+    ],
+    "summary": "Suspicion grows in a family of four isolating against a virus that spreads through the internet and robs people of the ability to perceive reality, often violently.",
+    "reviews": [
+        {
+            "content": "I really liked it! When I watch movies late at night I fall usually fall asleep in minutes. I stayed awake the entire movie!",
+            "review_date": "2023-04-16",
+            "source": "rt"
+        },
+        {
+            "content": "Knocked me down and dragged me out! This movie is a nod to the isolation of the  pandemic, as well as an luckily timed warning about artificial intelligence and the perilous quest to understand one's reality. This film did so much with so little. See it if you dare. Do you know what day this is?",
+            "review_date": "2023-04-10",
+            "source": "rt"
+        },
+        {
+            "content": "Loved this movie for its originality, excellent plot and acting. Also loved the Jaws reference of the dog's names Brody and Hooper!",
+            "review_date": "2023-04-03",
+            "source": "rt"
+        },
+        {
+            "content": "It's about time someone came up with a fresh take on a pandemic movie. Def an enjoyable watch, would recommend.",
+            "review_date": "2023-02-02",
+            "source": "rt"
+        }
+    ]
+}

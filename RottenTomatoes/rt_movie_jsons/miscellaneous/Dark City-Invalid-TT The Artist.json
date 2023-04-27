@@ -1,0 +1,21 @@
+{
+    "rating": 8.3,
+    "release_date": "Invalid",
+    "num_reviews": 2,
+    "genres": [
+        "English"
+    ],
+    "summary": "Baltimore club music revitalizes the city's close-knit community for the arts.",
+    "reviews": [
+        {
+            "content": "I'd love to see this re-edited. It is way too stylistically edited with non-stop quick cuts, overdubs, nonlinearity. There's so much truly spectacular creativity and content here, but the substance is way overshadowed by style -- which is impressive in its way but ultimately skirts very close to gimmicky. The footage is astonishing, the talent is there, the history -- all good but, again. it suffers from a lack of overarching cohesion due to its manic editing. I would love to give it 4.5 or 5 because it's a gorgeous labor of love, but it's too all over the place.  It should be a 5-part series, going into the facets that are merely touched on.",
+            "review_date": "2021-05-01",
+            "source": "rt"
+        },
+        {
+            "content": "Between the music, fashion, dance, and energy. Dark City represents Maryland and Baltimore in an unseen bright light. Love love loved it",
+            "review_date": "2021-04-25",
+            "source": "rt"
+        }
+    ]
+}

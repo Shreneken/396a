@@ -13,7 +13,7 @@ with open("./movie_titles_list.json", "r") as mlist:
     movies = json.load(mlist)
 
 for title in tqdm(movies):
-
+    #615 did not work
     #check if file already exists
     already_exists = rt.check_file_existence(title)
     if already_exists:
@@ -25,13 +25,19 @@ for title in tqdm(movies):
     if movie_url == "Movie not found":
         continue
 
-    while True:
+    i = 0
+    while i < 15:
         try:
             movie = requests.get(movie_url, headers=HEADERS)
             break
         except Exception:
             print("Connection failed.. Retrying")
             time.sleep(0.1)
+            i += 1
+    if i == 15:
+        with open("RottenTomatoes/err_file.txt", "a") as f:
+            f.write(title+"\n")
+        continue
 
     #parsing trees for all pages
     soup = BeautifulSoup(movie.content, "lxml")
@@ -49,6 +55,7 @@ for title in tqdm(movies):
 
     api_url = "https://www.rottentomatoes.com/napi/movie/" + movie_id + "/reviews/user"
 
+    i = 0
     while True:
         try:
             api = requests.get(api_url, headers=HEADERS)
@@ -56,12 +63,27 @@ for title in tqdm(movies):
         except Exception:
             print("Connection failed.. Retrying")
             time.sleep(0.1)
+            i += 1
+    if i == 15:
+        with open("RottenTomatoes/err_file.txt", "a") as f:
+            f.write(title+"\n")
+        continue
 
     wonton = BeautifulSoup(api.content, "lxml")
 
     #first page
-    content_string = wonton.find('body').contents[0].string
-    content_obj = json.loads(content_string)
+    try:
+        content_string = wonton.find('body').contents[0].string.strip()
+    except:
+        with open("RottenTomatoes/err_file.txt", "a") as f:
+            f.write(title+"\n")
+        continue
+    try:
+        content_obj = json.loads(content_string)
+    except:
+        with open("RottenTomatoes/err_file.txt", "a") as f:
+            f.write(title+"\n")
+        continue
 
     if len(content_obj) != 0:
         for review in content_obj["reviews"]:
@@ -77,14 +99,20 @@ for title in tqdm(movies):
     while hasNextPage:
         endCursor = content_obj["pageInfo"]["endCursor"]
         next_url = "https://www.rottentomatoes.com/napi/movie/" + movie_id + "/reviews/user?after=" + endCursor
-    
-        while True:
+
+        i = 0
+        while i < 15:
             try:
                 next = requests.get(next_url, headers=HEADERS)
                 break
             except Exception:
                 print("Connection failed.. Retrying")
                 time.sleep(0.1)
+                i += 1
+        if i == 15:
+            with open("RottenTomatoes/err_file.txt", "a") as f:
+                f.write(title+"\n")
+            continue
 
         cheddar = BeautifulSoup(next.content, "lxml")
 

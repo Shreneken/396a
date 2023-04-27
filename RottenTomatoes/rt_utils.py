@@ -47,8 +47,8 @@ def get_movie_url(title):
             movie_name = movie.find('a', attrs ={'data-qa': 'info-name'}).string.strip()
             score = movie['tomatometerscore']
             if score != 'null' and score != '':
-                print(movie_name)
-                print(score)
+                # print(movie_name)
+                # print(score)
                 return movie.find('a')['href']
         return movie_url[0]
 
@@ -103,15 +103,33 @@ def find_director(soup):
     except Exception:
         return 'unknown'
 
+# rt_movie_jsons
+
+def create_dir(release_date):
+    """create the directory for the year if it does not exist
+        a "miscellaneous" directory is created if the year can not be detected"""
+    dir_to_check = release_date.split("-")[0]
+    try:
+        int(dir_to_check)
+        dir_to_check = "RottenTomatoes/rt_movie_jsons/" + dir_to_check + "/"
+    except ValueError:
+        dir_to_check = "RottenTomatoes/rt_movie_jsons/" + "miscellaneous/"
+    if not os.path.exists(dir_to_check):
+        os.makedirs(dir_to_check)
+    print(dir_to_check)
+    return dir_to_check
+
 def movie_into_json(content, movie_title, release_date, director):
+    
     try:
         with open(
-            f"./RottenTomatoes/rt_movie_jsons/{movie_title}-{release_date}-{director}.json", "w"
+            f"{create_dir(release_date)}/{movie_title}-{release_date}-{director}.json", "w",
+            encoding="utf-8"
+        ) as eachMovie:
+            json.dump(content, eachMovie, indent=4, ensure_ascii=False)
+    except:
+        # print(f"./RottenTomatoes/rt_movie_jsons/{movie_title}-{release_date}-{director}.json")
+        with open(
+            f"RottenTomatoes/rt_movie_jsons/{movie_title}-{release_date}-{director}.json", "w"
         ) as eachMovie:
             json.dump(content, eachMovie, indent=4)
-    except:
-        print(f"./RottenTomatoes/rt_movie_jsons/{movie_title}-{release_date}-{director}.json")
-        with open(
-            f"./RottenTomatoes/rt_movie_jsons/{movie_title}-{release_date}-{director}.json", "w"
-        ) as eachMovie:
-            json.dump(content, eachMovie, index=4)

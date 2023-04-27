@@ -1,0 +1,16 @@
+{
+    "rating": 0.0,
+    "release_date": "Invalid",
+    "num_reviews": 1,
+    "genres": [
+        "English"
+    ],
+    "summary": "The film explores every detail of David Lynch's world through a combination of montage, interview extracts and sound recordings taken on set of the film \"No Frank In Lumberton.\"",
+    "reviews": [
+        {
+            "content": "An expansion and deeper analysis of the director's previous No Frank in Lumberton, this semi-documentary is in itself a work of art conveying the making of Blue Velvet through a skillfully assembled and atmospheric collage of visuals and aural impressions, but all throughout remaining informative about David Lynch's creative process.",
+            "review_date": "2022-04-08",
+            "source": "rt"
+        }
+    ]
+}

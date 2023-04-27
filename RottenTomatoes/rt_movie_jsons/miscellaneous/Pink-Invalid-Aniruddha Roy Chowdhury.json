@@ -1,0 +1,51 @@
+{
+    "rating": 7.8,
+    "release_date": "Invalid",
+    "num_reviews": 8,
+    "genres": [
+        "Hindi"
+    ],
+    "summary": "A lawyer with wild mood swings helps three women sue the men who attacked them.",
+    "reviews": [
+        {
+            "content": "Es un drama legal muy entretenido; la trama es muy buena y las actuaciones son excelentes; es muy recomendable si te gustan las películas indias.",
+            "review_date": "2021-07-19",
+            "source": "rt"
+        },
+        {
+            "content": "This is really great movie and as always Taapsee always best....love ya Taapsee",
+            "review_date": "2020-08-29",
+            "source": "rt"
+        },
+        {
+            "content": "A thought provoking drama.",
+            "review_date": "2020-06-20",
+            "source": "rt"
+        },
+        {
+            "content": "Bollywood should make these types of movies based on social issue much often.\nAnd especially the khans",
+            "review_date": "2020-05-24",
+            "source": "rt"
+        },
+        {
+            "content": "Nothing like Aniruddha Roy Chowdhury's deftly surprising and strikingly hard-hitting 'Pink' has been ever seen in Bollywood. This fiercely questioning film is  intelligent and qualified enough to raise the voice and uphold the cause. It's bound to become the talk of the town. The writing of the film makes it the best Hindi film of the year. And the performances of Amitabh Bachchan and Taapsee Pannu are probably what makes the film further enticing. It's an important and bold film which is rock solid about it's thought on why a woman's consent matters. And it has a command rushing out through the climax, which shouts out to feminism in a slick way. In complete thought and emotion, the film is also extremely entertaining. Don't miss 'Pink'. It's likely the best Hindi film of the year.",
+            "review_date": "2020-01-21",
+            "source": "rt"
+        },
+        {
+            "content": "wow, wow, wow! incredibly thrilling. dizzying plot twists. fantastic acting and character development. and a story that rings true all over the world!",
+            "review_date": "2019-08-19",
+            "source": "rt"
+        },
+        {
+            "content": "gripping storyline. head-spinning plot twists. great character development. brilliant all around. probably my favorite movie of the year!",
+            "review_date": "2019-08-19",
+            "source": "rt"
+        },
+        {
+            "content": "Stupid, homofobic, an insult to the 21 century",
+            "review_date": "2016-03-28",
+            "source": "rt"
+        }
+    ]
+}

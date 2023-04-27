@@ -1,0 +1,26 @@
+{
+    "rating": 5.0,
+    "release_date": "Invalid",
+    "num_reviews": 3,
+    "genres": [
+        "Italian"
+    ],
+    "summary": "A slacker who does his best to avoid confrontation strikes up an unlikely friendship with a dangerous thug who suddenly forces his way into his life.",
+    "reviews": [
+        {
+            "content": "Excellent Italian movie. I did not expect much when I started watching it, but I was very pleasantly surprised. Great acting, plot, and storyline. It's entertaining and full of twists and turns till the end.",
+            "review_date": "2023-03-20",
+            "source": "rt"
+        },
+        {
+            "content": "As \"The Turning Point\" (2021 release from Italy; 96 min.) opens, Ludovico hosts his dad at his place, and his dad is none too pleased about the state of things in Ludovico's life. In a parallel story, a thug named Jack steals a backpack full of cash from a mobster. In the ensuing bike chase, Jack is cornered into fleeing and ends up at Ludovico's apartment... At this point we are 10 min into the movie.\n\nCouple of comments: let me state upfront that i know absolutely nothing about the film makers or the cast of this film. What I do know is that the movie is a strange cocktail between the traditional Italian crime movie and the unexpected friendship that seems to develop between the thug/hostage taker and the victim/hostage. Jack offers in jest \"It's Stockholm syndrome!\". It's the dynamic between the Jack and Ludovico characters that form the core of this film, far more so that the traditional crime aspects. But because the movie does go back and forth between these two very different aspects, it makes for some challenging viewing at times. That said. These 95 min came and went pretty quickly.\n\nEven though this movie was released in Italy in 2021, the movie didn't make it onto the US until Netflix started streaming it some months ago. Netflix had suggested it to me based on my viewing habits. (I will admit that these recommendations are more often than not right on the money for me.) If you are in the mood for an Italian film that offers a strange cocktail of crime drama with a character study of two very different guys stuck in an apartment for a long stretch of time, I'd readily suggest you check this out and draw your own conclusion.",
+            "review_date": "2023-02-11",
+            "source": "rt"
+        },
+        {
+            "content": "Very very kind Italian movie. the demonstration that to make a good film all you need is a good story and good actors. Well done netflix, we want more productions like this!",
+            "review_date": "2022-04-23",
+            "source": "rt"
+        }
+    ]
+}

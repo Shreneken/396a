@@ -1,0 +1,21 @@
+{
+    "rating": 0.0,
+    "release_date": "1996-09-27",
+    "num_reviews": 2,
+    "genres": [
+        "Documentary"
+    ],
+    "summary": "Renowned nature documentarian Hugo Van Lawick journeys deep into the arid African plains of the Serengeti to track the birth and early years of a leopard cub. The documentary follows the young leopard as he develops from a curious little cat into a sleek young predator capable of existing without the protection and assistance of his mother. In addition to finding food to survive, the leopard must also contend with various dangerous animals, including ruthless hyenas.",
+    "reviews": [
+        {
+            "content": "Follows the coming-of-age of this elusive animal in the Serengeti over a two year period.",
+            "review_date": "2012-04-30",
+            "source": "rt"
+        },
+        {
+            "content": "A marvelous survey of African wildlife with variety of activity and scenery along with a good story",
+            "review_date": "2009-02-28",
+            "source": "rt"
+        }
+    ]
+}

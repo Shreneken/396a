@@ -1,0 +1,42 @@
+{
+    "rating": 2.0,
+    "release_date": "2022-09-23",
+    "num_reviews": 6,
+    "genres": [
+        "Sci-fi",
+        "Mystery&thriller"
+    ],
+    "summary": "A mother locked inside a stark room is tasked by an unknown voice to complete increasingly difficult challenges if she wants to save her daughter's life. As the frequency and intensity of the tasks threaten to overwhelm her, she must piece together half-remembered chapters of her life before imprisonment if she wants to secure her freedom, rescue her child, and escape this waking nightmare. CONTROL is an intensely thrilling sci-fi mystery that will keep you guessing until the final moments.",
+    "reviews": [
+        {
+            "content": "Just as bad as expected. They tried.",
+            "review_date": "2023-02-28",
+            "source": "rt"
+        },
+        {
+            "content": "It was ok, but Eileen as a character, just gross. What's with the man hating in all these movies these days.",
+            "review_date": "2023-02-22",
+            "source": "rt"
+        },
+        {
+            "content": "Good thriller for the budget on a diet while scratching your head when you can only hire 2 actors.",
+            "review_date": "2023-01-21",
+            "source": "rt"
+        },
+        {
+            "content": "Fairly boring. Characters - no depth. Outcome - predictable.",
+            "review_date": "2023-01-02",
+            "source": "rt"
+        },
+        {
+            "content": "I get that it's a low budget movie and didn't expect much but it was just funny how bad it is",
+            "review_date": "2022-10-02",
+            "source": "rt"
+        },
+        {
+            "content": "This was really predictable trash, the effects weren't well done, and the acting wasn't fantastic. I thought it could be redeemed with the storyline, because the story had a lot of ways in which I could go, but the character show themselves as one dimensional over and over again.",
+            "review_date": "2022-09-27",
+            "source": "rt"
+        }
+    ]
+}

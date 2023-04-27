@@ -1,0 +1,36 @@
+{
+    "rating": 6.0,
+    "release_date": "Invalid",
+    "num_reviews": 5,
+    "genres": [
+        "Spanish"
+    ],
+    "summary": "A man who looks after cars parked on his turf must protect his livelihood when traffickers attempt to make him and his pals sell drugs on the streets.",
+    "reviews": [
+        {
+            "content": "Outstanding correction to the history books about a heroic dog",
+            "review_date": "2023-03-17",
+            "source": "rt"
+        },
+        {
+            "content": "While far from perfect, the movie survives on the strength of its cast (especially Alonso in the lead role) and premise (how many movies have you ever seen portraying homeless people from their perspective?).",
+            "review_date": "2022-10-13",
+            "source": "rt"
+        },
+        {
+            "content": "Trama inverosímil, actuaciones que no transmiten nada. Muy floja.",
+            "review_date": "2022-10-10",
+            "source": "rt"
+        },
+        {
+            "content": "A good idea but not so good execution. Feels predictable and non-conclusive. The actors' direction feels odd and not natural at all.",
+            "review_date": "2022-10-07",
+            "source": "rt"
+        },
+        {
+            "content": "Excelente Película. Hermoso ver la rambla uruguaya.",
+            "review_date": "2022-10-05",
+            "source": "rt"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "rating": 0.0,
+    "release_date": "2023-03-24",
+    "num_reviews": 2,
+    "genres": [
+        "English"
+    ],
+    "summary": "Returning to an eerily empty hotel after a day of filming, young actress, Rose Hepburn, finds herself suspended on the twelfth floor of an old freight elevator, trapped dangerously high with an unwanted companion. Left with no phone signal as a storm approaches, and with no other way to reach hotel staff, tensions escalate and suspicions rise when Rose discovers the identity of the mysterious man is Daniel Reed, a camera operator who is seemingly obsessed with her.",
+    "reviews": [
+        {
+            "content": "Could have been much better with a couple tweaks here and there. The actors and the setup are good, if not original, but it doesn't really deliver anything but the nastiness you might expect.",
+            "review_date": "2023-04-01",
+            "source": "rt"
+        },
+        {
+            "content": "Meh just meh okay it's just meh",
+            "review_date": "2023-03-26",
+            "source": "rt"
+        }
+    ]
+}
