@@ -31,4 +31,21 @@ Does the dataset contain any sensitive information?
 - Effort to remove these (including profanity/disturbing info)
 
 Collection Process
+- What techniques did we use to collect movie ratings? (beautiful soup, web scraping)
+- Who was involved in the data collection process? (just us, no crowdworkers)
+- Individuals consent to their data being used
 
+Preprocessing/cleaning/labeling
+- How was the data preprocessed (tokenization, tf-idf, python, model that gave us the vibes)
+- Was the raw data saved for future work?
+- How were the vibes extracted from the movie ratings?
+- Link to repository
+- What could the dataset be used for?
+
+Distribution
+- How will the dataset be made available? (API, GitHub?)
+- 3rd Parties licensing (imdb, rt, metacritic)
+
+Maintenence
+- Contacting the owner
+- Who will be hosting the dataset
