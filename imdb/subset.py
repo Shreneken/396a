@@ -32,7 +32,7 @@ for file in tqdm(os.listdir('./imdb/imdb_movie_jsons/2014/')):
             if lexeme.is_stop == False:
                 filtered_sentence.append(word) 
 
-        print(filtered_sentence)
+        # print(filtered_sentence)
 
         data.append(filtered_sentence)
 
