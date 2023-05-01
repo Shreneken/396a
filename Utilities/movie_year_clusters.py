@@ -53,6 +53,6 @@ def get_yearly_movie_count(dir_name: str, output_filename: str, year_group: int 
 
 
 if __name__ == "__main__":
-    dir_name = "Metacritic/metacritic_movies_json"
-    output_file = "Metacritic/Statistics/json/year_clusters.json"
+    dir_name = "imdb/imdb_movie_jsons/"
+    output_file = "imdb/stats/year_clusters.json"
     get_yearly_movie_count(dir_name, output_file)
