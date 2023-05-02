@@ -72,5 +72,5 @@ if __name__ == '__main__':
     # add_from_src('meta')
     # get_from_rt()
     # merge_only_meta_and_rt()
-    print('Merged Successfully!')
+    print('Already Merged Successfully!')
 
