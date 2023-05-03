@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1973-12-01",
-    "num_reviews": 155,
+    "num_reviews": 167,
     "genres": [
         "Animation",
         "Sci-Fi"
@@ -1036,6 +1036,22 @@
             "review_date": "2021-08-11",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "Why did not a single woman in this movie have a full shirt, how did they not get cold?!",
+            "review_date": "2022-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Vivid, imaginative, trippy and thought-provoking. Can't do anything except gawking the screen, wide-eyed the entire time. Such inventive and ingenious piece of art. One of the most profound films I've ever seen.",
+            "review_date": "2023-03-06",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 7.0,
+    "meta_summary": "On a faraway planet where blue giants rule, oppressed humanoids rebel against their machine-like leaders."
 }

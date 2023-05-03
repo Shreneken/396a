@@ -1,9 +1,10 @@
 {
     "rating": 8.1,
     "release_date": "1940-03-15",
-    "num_reviews": 904,
+    "num_reviews": 919,
     "genres": [
-        "Drama"
+        "Drama",
+        "History"
     ],
     "summary": null,
     "reviews": [
@@ -5601,8 +5602,31 @@
             "review_date": "2009-02-15",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Grapes of Wrath is a classic film that stands out as one of the American greats. Not only does it hold up today, but it stands out as one of the best adaptations of a novel I have ever seen. The stunning visuals really help sell the senseThe Grapes of Wrath is a classic film that stands out as one of the American greats. Not only does it hold up today, but it stands out as one of the best adaptations of a novel I have ever seen. The stunning visuals really help sell the sense of hopelessness that pervades The Great Depression. The performances are fantastic and the ensemble cast really bares their souls and shares their pains, their hopes, their dreams, and their inevitable defeat. This is a must see movie for film buffs.",
+            "review_date": "2019-09-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a masterpiece of historical storytelling. I grew up watching this movie, and it is one of those timeless dramas you can watch again and again.",
+            "review_date": "2019-09-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "John Steinbeck's classic novel adapted beautifully into a tale that perfectly captures the essence of the time period.",
+            "review_date": "2021-06-23",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 8.8,
-    "rt_summary": "The Joad clan, introduced to the world in John Steinbeck's iconic novel, is looking for a better life in California. After their drought-ridden farm is seized by the bank, the family -- led by just-paroled son Tom (Henry Fonda) -- loads up a truck and heads West. On the road, beset by hardships, the Joads meet dozens of other families making the same trek and holding onto the same dream. Once in California, however, the Joads soon realize that the promised land isn't quite what they hoped."
+    "rt_summary": "The Joad clan, introduced to the world in John Steinbeck's iconic novel, is looking for a better life in California. After their drought-ridden farm is seized by the bank, the family -- led by just-paroled son Tom (Henry Fonda) -- loads up a truck and heads West. On the road, beset by hardships, the Joads meet dozens of other families making the same trek and holding onto the same dream. Once in California, however, the Joads soon realize that the promised land isn't quite what they hoped.",
+    "meta_rating": 8.6,
+    "meta_summary": "A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression."
 }

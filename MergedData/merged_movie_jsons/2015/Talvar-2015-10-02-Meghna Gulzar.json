@@ -5,7 +5,8 @@
     "genres": [
         "Crime",
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Thriller"
     ],
     "summary": "An experienced investigator confronts several conflicting theories about the perpetrators of a violent double homicide.",
     "reviews": [
@@ -903,5 +904,7 @@
         }
     ],
     "rt_rating": 8.9,
-    "rt_summary": "Police investigate the mysterious murder of a teenage girl."
+    "rt_summary": "Police investigate the mysterious murder of a teenage girl.",
+    "meta_rating": 7.6,
+    "meta_summary": "An experienced investigator (Irrfan Khan) confronts several conflicting theories about the perpetrators of a violent double homicide."
 }

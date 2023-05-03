@@ -1,7 +1,7 @@
 {
     "rating": 3.9,
     "release_date": "1999-08-27",
-    "num_reviews": 197,
+    "num_reviews": 216,
     "genres": [
         "Comedy",
         "Family",
@@ -1137,8 +1137,17 @@
             "review_date": "2009-02-20",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I remember a time long ago when Brendan Fraser was actually a charming leading man.  At some point in the late 90's he decided to accept every single script that was shoved into his hands, regardless of quality, thus destroying anyI remember a time long ago when Brendan Fraser was actually a charming leading man.  At some point in the late 90's he decided to accept every single script that was shoved into his hands, regardless of quality, thus destroying any credibility as an actor he may have commanded.  Dudley Do-Right is one of the earlier examples of this unfortunate behavior now being displayed by Jason Statham and (even more disappointingly) Robert De Niro :(.  I've never had a film make 77 minutes seem so long.",
+            "review_date": "2012-02-18",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 2.4,
-    "rt_summary": "Based on the cartoon, this live-action comedy follows the adventures of Dudley Do-Right (Brendan Fraser), an enthusiastic, if somewhat dim, Canadian Mountie. When Dudley's childhood crush, Nell Fenwick (Sarah Jessica Parker), returns to their hometown in the mountains, he is eager to spend time with her, but his attempts at courting her are foiled by the villainous Snidely Whiplash (Alfred Molina), who is up to his usual schemes. Can Dudley win Nell's heart and curtail Snidely's wicked ways?"
+    "rt_summary": "Based on the cartoon, this live-action comedy follows the adventures of Dudley Do-Right (Brendan Fraser), an enthusiastic, if somewhat dim, Canadian Mountie. When Dudley's childhood crush, Nell Fenwick (Sarah Jessica Parker), returns to their hometown in the mountains, he is eager to spend time with her, but his attempts at courting her are foiled by the villainous Snidely Whiplash (Alfred Molina), who is up to his usual schemes. Can Dudley win Nell's heart and curtail Snidely's wicked ways?",
+    "meta_rating": 4.9,
+    "meta_summary": "Follows the hilarious exploits of the dedicated but hapless young Canadian Mountie (Frasier).  (Universal Pictures)"
 }

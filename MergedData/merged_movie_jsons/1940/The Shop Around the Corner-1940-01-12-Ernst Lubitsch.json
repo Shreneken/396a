@@ -1,7 +1,7 @@
 {
     "rating": 8.0,
     "release_date": "1940-01-12",
-    "num_reviews": 282,
+    "num_reviews": 297,
     "genres": [
         "Comedy",
         "Drama",
@@ -1730,8 +1730,31 @@
             "review_date": "2012-06-01",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best stylish German director Ernst Lubstich Movies and I actually recommend to everyone",
+            "review_date": "2020-08-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This has to be one of the great movies of all time. The acting is wonderful and the premise, which, because it is an old movie, is very original, if fun and entertaining. I think the more modern movie, \"You've Got Mail\" is a remaking of thisThis has to be one of the great movies of all time. The acting is wonderful and the premise, which, because it is an old movie, is very original, if fun and entertaining. I think the more modern movie, \"You've Got Mail\" is a remaking of this movie. That one wasn't nearly as good.  :-)",
+            "review_date": "2021-08-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "is the best comedy of all time and is One of the best movies of my life.With this film, Lubich proved his unparalleled power in humor.I hope you see this movie as soon as possible.",
+            "review_date": "2022-03-26",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 9.1,
-    "rt_summary": "Alfred Kralik (James Stewart) and Klara Novak (Margaret Sullavan) are employees at Matuschek and Company, a general store in Budapest. Klara and Alfred are constantly at odds with each other, butting heads and disagreeing on almost everything. Both are enamored of their respective pen pals, who serve as welcome distractions in their lives. Little do they know, they are each the other's pen pal and, despite outward differences, have unwittingly fallen in love through their letters."
+    "rt_summary": "Alfred Kralik (James Stewart) and Klara Novak (Margaret Sullavan) are employees at Matuschek and Company, a general store in Budapest. Klara and Alfred are constantly at odds with each other, butting heads and disagreeing on almost everything. Both are enamored of their respective pen pals, who serve as welcome distractions in their lives. Little do they know, they are each the other's pen pal and, despite outward differences, have unwittingly fallen in love through their letters.",
+    "meta_rating": 7.2,
+    "meta_summary": "Two employees at a gift shop can barely stand each other, without realizing that they are falling in love through the post as each other's anonymous pen pal."
 }

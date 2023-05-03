@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1942-03-06",
-    "num_reviews": 164,
+    "num_reviews": 177,
     "genres": [
         "Comedy",
         "Romance",
@@ -1059,5 +1059,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 7.9,
+    "meta_summary": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy."
 }

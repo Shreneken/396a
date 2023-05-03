@@ -1,10 +1,11 @@
 {
     "rating": 0.0,
     "release_date": "1933-11-17",
-    "num_reviews": 528,
+    "num_reviews": 539,
     "genres": [
         "Comedy",
-        "Musical"
+        "Musical",
+        "War"
     ],
     "summary": "N/A",
     "reviews": [
@@ -3250,8 +3251,24 @@
             "review_date": "2011-10-06",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It has definitely aged a bit, but it\u2019s still a pretty good classic comedy. It\u2019s a mixed bag; this film has some of the best comedic exchanges in cinematic history, but it also has some bits that wear out their welcome after a while (orIt has definitely aged a bit, but it\u2019s still a pretty good classic comedy. It\u2019s a mixed bag; this film has some of the best comedic exchanges in cinematic history, but it also has some bits that wear out their welcome after a while (or weren\u2019t very welcome to begin with). For a movie as short as Duck Soup is, you wouldn\u2019t think there\u2019d be any drag, but there is. Still, the craft on display especially for the time and those great exchanges make it worth a watch.",
+            "review_date": "2019-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Used to watch a lot of Marx Brothers films growing up with my Dad. Feel like I enjoyed them more back then. There were some good laughs and moments throughout and the pacing was great. Just by the end I was losing some patience with theUsed to watch a lot of Marx Brothers films growing up with my Dad. Feel like I enjoyed them more back then. There were some good laughs and moments throughout and the pacing was great. Just by the end I was losing some patience with the sameness of all the humor.",
+            "review_date": "2023-03-05",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 9.1,
-    "rt_summary": "When the tiny nation of Freedonia goes bankrupt, its wealthy benefactor, Mrs. Teasdale (Margaret Dumont), insists that the wacky Rufus T. Firefly (Groucho Marx) become the country's president. Sensing a weakness in leadership, the bordering nation of Sylvania sends in the spies Pinky (Harpo Marx) and Chicolini (Chico Marx) to set the stage for a revolution. As Firefly clashes with the Sylvanian ambassador (Louis Calhern), plenty of mayhem ensues, and the countries verge on all-out war."
+    "rt_summary": "When the tiny nation of Freedonia goes bankrupt, its wealthy benefactor, Mrs. Teasdale (Margaret Dumont), insists that the wacky Rufus T. Firefly (Groucho Marx) become the country's president. Sensing a weakness in leadership, the bordering nation of Sylvania sends in the spies Pinky (Harpo Marx) and Chicolini (Chico Marx) to set the stage for a revolution. As Firefly clashes with the Sylvanian ambassador (Louis Calhern), plenty of mayhem ensues, and the countries verge on all-out war.",
+    "meta_rating": 7.9,
+    "meta_summary": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale."
 }

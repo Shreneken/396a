@@ -1,11 +1,13 @@
 {
     "rating": 3.7,
     "release_date": "2005-06-10",
-    "num_reviews": 572,
+    "num_reviews": 674,
     "genres": [
         "Action",
         "Adventure",
-        "Comedy"
+        "Comedy",
+        "Fantasy",
+        "Family"
     ],
     "summary": "A young boy is recruited by his imaginary friends Sharkboy and Lavagirl to help save their planet.",
     "reviews": [
@@ -3540,8 +3542,472 @@
             "review_date": "2013-02-09",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Anyone who thinks popcorn commercialised peices of contempoary, not even contempoary but martek orientated crap should have their IQ tested and then get back to me with the LOW score.",
+            "review_date": "2005-09-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "i thought 3-d would be an intresting movie choice. baaaaaad idea. many effects can easily be considered unrealistic and the plotline is just too horrible. non-recommendation, but i've seen worse.",
+            "review_date": "2006-06-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was absolutely HORRIBLE!!! The jokes are lame, the story is bad, and the animation is even worse! Like the spykids series, it just got worse and worse as the movie went on. DO NOT see it, you'll ruin your eyes!",
+            "review_date": "2007-03-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Did the directors, who make good or decent films stop trying to work hard on their later work?",
+            "review_date": "2009-02-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My poor children my poor poor children. i wonder how many hit lists Rodriguez is on now.",
+            "review_date": "2005-11-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I went to see this with my son. Frankly, it made me want to strangle myself in my seat with my tie. Never, ever go see this movie, whether you're 5 or 50. Run for your life.",
+            "review_date": "2005-10-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The worst pathetic piece of cr@p of a movie ever to destroy the poor inocent minds of thousands of small children pitifuly unfortunate enough to get draged along to this.",
+            "review_date": "2005-10-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I've seen a lot of films in my time. But this was undoubtedly the biggest piece of crapola that I've ever witnessed. Warning: Do not pay a cent for this turkey!!!",
+            "review_date": "2005-08-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think there should be someway of stopping little kids from commenting on this movie. Obviously they're going to give it a score. This movie is good for everybody under 8. For everybody else it's just a stupid random piece of I think there should be someway of stopping little kids from commenting on this movie. Obviously they're going to give it a score. This movie is good for everybody under 8. For everybody else it's just a stupid random piece of junk. The 3D is clearly there to make up for the 1 dimensional characters. Unfortunatly the 3D just makes the movie look dumber, as for the jokes, I did even smile at them. Half the time I couldn't even tell that they were supposed to be jokes. It seemed as though the characters were just pointless stating facts. And did I mention the acting, it sucked! Also it's unfair that a young boy gets to come up with stories from movies, just because his father is a director. All kids have a great imagination, what makes Racer's ideas so special. I could write a better story than him without even trying",
+            "review_date": "2008-01-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Horrid movie, what ever age you are it will live with you as the worst 90 of your life. George Lopez at his worst. i was forced to watch it with my niece and wanted to shoot myself the entire time",
+            "review_date": "2008-09-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The acting is terrible, the plot is boring, the graphics are ordinary and the overall presentation is horrible. Everything in this movie is terribly bad................",
+            "review_date": "2012-05-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It has the imagination and the colorful visuals, but the story and characters lifelessness just makes it average and it negatively affects the experience.",
+            "review_date": "2012-05-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This has to be the worst 'movie' I've ever seen. I saw only 20 minutes, because it was so unbearable I had to ragequit. The 'movie' is embarrassing and it seems like guys responsible for this were on drugs! What is worst is that my countryThis has to be the worst 'movie' I've ever seen. I saw only 20 minutes, because it was so unbearable I had to ragequit. The 'movie' is embarrassing and it seems like guys responsible for this were on drugs! What is worst is that my country released dubbing which makes everything even WORSE!!!",
+            "review_date": "2011-11-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terribly written and played with crappy CGI, \"The Adventures of Sharkboy and Lavagirl\" is definitely one of the year's worst adult, and well as child, films.",
+            "review_date": "2011-10-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie has the lowest form of graphics ever. Plus, it's EXTREMELY CRAPPY!!!!!",
+            "review_date": "2011-01-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It might not be as good as the 3 Spy Kids movies, but The Adventures of Sharkboy and Lavagirl is definitely a 2-D experience instead of 3-D. Sure the movie was a disappointment, but this is Taylor Lautner's first film before he was Jacob inIt might not be as good as the 3 Spy Kids movies, but The Adventures of Sharkboy and Lavagirl is definitely a 2-D experience instead of 3-D. Sure the movie was a disappointment, but this is Taylor Lautner's first film before he was Jacob in the \"Twilight\" series. How hard can it be? I knew it got bad reviews, but since they said it was going to be bad, did they still watch Spy Kids 1-3 and usually blame a 3-D kids movie by Robert Rodriguez? No. They just want to be the center of attention yip-yapping those negative feedbacks. I gotta give credit to Robert Rodriguez. Even though he still has a loyal fanbase to those who want to become the next Antonio Banderas or Salma Hayek, he still makes more action movies like Sin City and Machete. That's a good director, maybe he will be making his star into the Hollywood Walk of Fame someday. It's a great movie if you haven't seen it, I watched a little bit on the Cartoon Network. But great job, Mr. Rodriguez.",
+            "review_date": "2012-09-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "WHAT THE **** is this piece of ****? Are you kidding me?! I'm so angry it makes me bleed out of my eyeballs! Seriously, just...watch it and see for yourself how bad it is. Quick! Incinerate all the copies in the world!",
+            "review_date": "2012-12-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Yo this movie is the bomb dogs! It's like hardcore shizizit for the hole faimly! It has the hardcore action of movies like Rambo, the drama of Indiana Jones, the suspense of Silence of the Lambs, and the family values of Blue's Yo this movie is the bomb dogs! It's like hardcore shizizit for the hole faimly! It has the hardcore action of movies like Rambo, the drama of Indiana Jones, the suspense of Silence of the Lambs, and the family values of Blue's Clues and Bob the Builder. It's like a Clockwork Orange meets the Davinci Code as this thinking man's epic reveals the flaws within our capitalistic society and the greed of corporate America. It's seering criticism of the Bush administration shows a world torn by war and corporate chauvinism and challenges traditional concepts of gender relationships and racial issues.",
+            "review_date": "2009-05-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "My classroom loved it!!  I have seen worse movies all of the Disney movies SUCK and are nothing but a waste of money. I thought this movie was unique, creative and very entertaining.",
+            "review_date": "2011-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Hey, whaddya expect from a 'child-at-heart' daddy & his teeny-weeny-year-old son movie collaboration? A cute cupcake movie, hehe. Still, its sweetness will probably last only for awhile before your tummy starts grumbling for a Hey, whaddya expect from a 'child-at-heart' daddy & his teeny-weeny-year-old son movie collaboration? A cute cupcake movie, hehe. Still, its sweetness will probably last only for awhile before your tummy starts grumbling for a heavier and more savoury desert. The 3d effects does look gimmicky and cheezy, but i understand it was all made in the name of fun. The execution of the effects look rushed though, as there were some major flaws in the compositing with the live action and 3D world. I'm sure Rodriguez had much better things to do with his other upcoming projects than to scrutinize the technical details of his child's film. Or maybe he left that role of supervising to his kiddy son??? Anyway, the movie did offer some creative yet juvenile moments of mini-genius ideas all rolled into a big fat supersized burger. Seriously appetizing & cute. But not yummy enough. Darn, there goes my tummy.",
+            "review_date": "2005-10-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was to much like spy kids, but it was cute.",
+            "review_date": "2005-10-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Shark boy and Lava Girl really is a decent movie. But is the 3D necessary?Whats with the director's obsession with 3D?",
+            "review_date": "2006-02-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It is very low quality. The acting wasn't very good either, which makes it way worse. I can't rate it to bad though because it has a couple good scenes. You probably don't need to see it.",
+            "review_date": "2017-06-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Nice movie i love to watch it all day first when i saw that the movie was coming out i fell in love with shark boy! but lava girl is asume too!",
+            "review_date": "2006-06-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It my favorite movie !I love Sharkboy and Lavagirl and others.I wish Robert Rodriguez can bring them back. And saw them in my dream!",
+            "review_date": "2008-08-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I give this movie a 10 because,Sharkboy is really,really,cute and pluse its a very good movie.",
+            "review_date": "2005-10-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thort it was cool lots of good themes and i can c how some ppl would hate it but for almost the same reasons i loved it.",
+            "review_date": "2005-10-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love this movie!!!!",
+            "review_date": "2005-09-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very cheesy but ultiamtely entertaining. Not so bad as some might rate it. The visuals are great.",
+            "review_date": "2007-02-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was the greatest movie ever!! i love the whole movie.",
+            "review_date": "2005-10-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It was the best movie ever.",
+            "review_date": "2005-09-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love this movie. I could keep watching it over and over again. I loved everything about this movie.",
+            "review_date": "2006-10-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's the bestest and my faverite film!",
+            "review_date": "2006-12-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "They are the best. They are so fun. I wish I could go to the park with them. I wish Lava Girl could have Lava Girl Ice Cream. I wish Shark Boy could have a Sushi Ice Cream. I wish Lava Girl could come to my house for a sleep over. I wish They are the best. They are so fun. I wish I could go to the park with them. I wish Lava Girl could have Lava Girl Ice Cream. I wish Shark Boy could have a Sushi Ice Cream. I wish Lava Girl could come to my house for a sleep over. I wish Lava Girl could eat toast with me. Shark Boy and Lava Girl please come to my house. I love you Zaria 4 years old. ",
+            "review_date": "2006-06-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is the best kids movie I have seen in years. Critics who don't like it have NO imagination. The movie is fantastically entertaining, the visuals are amazing and the actors are charming. Bravo for the Rodriguez family! Please make This is the best kids movie I have seen in years. Critics who don't like it have NO imagination. The movie is fantastically entertaining, the visuals are amazing and the actors are charming. Bravo for the Rodriguez family! Please make more movies.",
+            "review_date": "2008-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For those of you who say kids hate it: If you haven't noticed, every single kid, and only the kids, have posted on here saying they love the movie; it's only older kids and parents that will be likely to hate this.",
+            "review_date": "2008-05-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I loved this movie Shark boy is relly HOT!!!!!!!!",
+            "review_date": "2005-11-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I thought it was very creative. It may not be for adults, but the kids love it. That is who it was made for, and that is what counts. I am 25 and my daughter loved it we watch it everyday. I wish I had the resources to do something like that I thought it was very creative. It may not be for adults, but the kids love it. That is who it was made for, and that is what counts. I am 25 and my daughter loved it we watch it everyday. I wish I had the resources to do something like that with my kids.",
+            "review_date": "2005-11-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Shark Boy is the HOTTEST guy on the planet!!!!",
+            "review_date": "2005-11-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Hey i liked the movie and im only 10 but sharkboy is soo cute.And the movie brillient.",
+            "review_date": "2005-10-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Bad. Painful. Horrible. Then the musical number started. If my kid didn't like it so much, I would run the disc over with my car.",
+            "review_date": "2006-07-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is simply amazing. Those of you who insult it for its poor visuals or 'lame' jokes just aren't looking hard enough. The theme of the movie is beautiful. Everything starts with a dream. If you've forgotten that, This movie is simply amazing. Those of you who insult it for its poor visuals or 'lame' jokes just aren't looking hard enough. The theme of the movie is beautiful. Everything starts with a dream. If you've forgotten that, there's no way you could like this movie. But hopefully, you'll wath it again. Then maybe you'll remember.",
+            "review_date": "2007-08-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great kids movie, it's not supposed to appeal to adults...duh. Let your kids watch it and tell you if they like it. That's the true test.",
+            "review_date": "2005-11-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie sucked so bad i wanted to throw up during the whole movie. Fake Fake piece of crap. Only someone so stupid and imature would even watch this more than once oh nd for the record sharkboy is UGLY all yous have bad taste both in This movie sucked so bad i wanted to throw up during the whole movie. Fake Fake piece of crap. Only someone so stupid and imature would even watch this more than once oh nd for the record sharkboy is UGLY all yous have bad taste both in movies nd guys. o and lava gurl is ugly and stupid. all are idiots for liking it BIGGEST PICE OF S*** ON EARTH.",
+            "review_date": "2007-11-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "ACTING - 4\rThe acting left a lot to be desired in this movie. Everything seemed so unrealistic. The best actor was probably Taylor Dooley. She did a wonderful job of getting mad, and could be very sweet when she needed to be. Taylor LautnerACTING - 4\rThe acting left a lot to be desired in this movie. Everything seemed so unrealistic. The best actor was probably Taylor Dooley. She did a wonderful job of getting mad, and could be very sweet when she needed to be. Taylor Lautner was okay, but he portrayed Sharkboy as a character that was always mad, and it became monotonous after the first twenty minutes or so. Cayden Boyd Was okay as Max, but he seemed uninterested at times, and he looked like he was about to throw up when he was supposed to be crying, which left a bad taste in my mouth.\r PLOT - 3\rThe plot was very disconnected and felt like it kept changing all of the time, which left me confused at points. The plot seemed utterly ridiculous in the first place, causing all of the changes to just make it worse.\r SPECIAL EFFECTS - 7\rFor constant special effects composed in a 2005 film, this was a good attempt. The lava was almost realistic and Mr. Electric was somewhat impressive. Although some special effects were awfully cheesy, most of them were pretty solid.\r OVERALL - 4.6 (4)\rAlthough Sharkboy and Lavagirl may impress toddlers, it will not impress anyone else. As a \"family film\", it leaves the rest of the family in pure torture of having to sit through this.",
+            "review_date": "2012-08-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Robert Rodriguez loses his Spy Kids style in Sharkboy & Lavagirl. The script is terrible and drowsy, and the action is quite frankly, boring if not so imaginative it sucks. It aims to be a kids movie, but is Rodriguez the right director for kids?",
+            "review_date": "2013-04-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I was very young when I watched this film and I seemed to enjoy it a lot in my early days. I recall it as being one of my favourite films as young one. I recently watched sharkboy and lavagirl again as a teenager and was just appalled. FirstI was very young when I watched this film and I seemed to enjoy it a lot in my early days. I recall it as being one of my favourite films as young one. I recently watched sharkboy and lavagirl again as a teenager and was just appalled. First off, the cgi is god awful in this film and it looked as though it was made for a toys r us advert! The whole concept is just f@!&ing bulls%^t and honestly could've been written by a 5 year old. Some may argue in saying that it was built for young children and it is and many children and toddlers enjoy it. But the kid films that really entertain are the one's that are built for ALL ages. Why do you think disney/pixar films are so popular? So, sharkboy and lavagirl is a good film to put on for your children when they are very young but if they decide to watch it again when they are older like me...they're probably going to be dissapointed.",
+            "review_date": "2013-08-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Terrible is honestly an understatement.",
+            "review_date": "2013-03-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The only saving grace that can be said about this Spy Kids lookalike is that it has amusing 3-D effects which is, unfortunately, the only real positive thing about this laughably scripted kids flick.",
+            "review_date": "2013-08-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What is this movie?\r __________________________________________________________________________________________________________________________________________________________________",
+            "review_date": "2013-12-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Whenever dealing with terrible action movies, one can find that the special effects are the only redeeming quality. Not in this case: the CGI looks like cutout, and, coupled with the corny storyline, idiotic humor, and bizarre plot, RobertWhenever dealing with terrible action movies, one can find that the special effects are the only redeeming quality. Not in this case: the CGI looks like cutout, and, coupled with the corny storyline, idiotic humor, and bizarre plot, Robert Rodriguez takes Spy Kids far beyond what is both entertaining and interesting.",
+            "review_date": "2014-07-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Adventures of Sharkboy and Lavagirl will most likely be a drag for adults, but the kiddies will enjoy it. If you can overlook the horrible CGI and bland special effects, you might be able to sit through this one.",
+            "review_date": "2014-03-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's a good movie for kids if you are over 8 it won't make any sense but if",
+            "review_date": "2020-11-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While entertaining, this film drops scores based on it's plot, special effects, characters, writing, presentation, acting, & not forgetting a ridiculous amount of silly moments that made me feel like the film was deliberately trying to put meWhile entertaining, this film drops scores based on it's plot, special effects, characters, writing, presentation, acting, & not forgetting a ridiculous amount of silly moments that made me feel like the film was deliberately trying to put me off, kids will probably love this film, but anyone aged 10 & over may find this film too off putting for all the reasons mentioned above!",
+            "review_date": "2014-05-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "totally girly the fact Co- director of sin  city Robert Rodriguez made  sharkboy and added taylor laughtner which talyor is a **** . it is okay and i like the ending . still waste of my time\rGrade D-",
+            "review_date": "2014-03-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Apart from having cheesy green screen effects, The Adventures of Sharkboy and Lavagirl 3-D forks over some positive messages and never ending inventiveness, a must see in 3-D!",
+            "review_date": "2014-07-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"The Adventures of Sharkboy and Lavagirl\" was a horrible but very decent idea , because the animation was just awful , the script very absurd and this movie is just for children.",
+            "review_date": "2015-12-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I personally have no real problem with 3D, as long as it is done well and has a good story and characters. Sadly, that's where The Adventures of SharkBoy and Lava Girl fails. I like Robert Rodriguez and thought his first two Spy Kids moviesI personally have no real problem with 3D, as long as it is done well and has a good story and characters. Sadly, that's where The Adventures of SharkBoy and Lava Girl fails. I like Robert Rodriguez and thought his first two Spy Kids movies were very enjoyable and while mediocre I actually thought the third Spy Kids film was better than this too. I will give some credit, the moral is decent if hardly original and there is some energy. But everything else falls flat.People might say the art direction was colourful and pleasing to the eye. Sorry, for me it was very tacky, gaudy and brash. And as for the 3D, it is actually some of the worst I've seen, it needed more clarity and sharpness and sometimes moved too fast. Also I found it distracting in alternative to enhancing. The soundtrack is rather plodding, generic and unmemorable too.The script is absolutely awful too. Any parts that tried to be funny made me roll my eyes to be perfectly honest with you, while the story is unevenly paced and very weak and predictable. The characters are just as weak and bland too, the two main characters have their likable moments but there is little chemistry between them and the audience while the supporting characters fare even worse suffering either from being underused or overacted. Overall, the acting is very uneven and way too broad in some cases.Other disappointments are the poor pace and plodding direction from Rodriguez. So in conclusion, the result is a pretty awful, overstuffed and disappointing effort of a family film. 1/10 Bethany Cox",
+            "review_date": "2022-03-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "WTF!!!!!!!!! is everyone complaining about.I found it imaginative creative.And I honestly found the special effects not to be bad.Also it is a pretty accurate pot rail of a boys imagination.",
+            "review_date": "2015-12-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "HORRIBLE\rAs a kid this movie was not so bad, but watching it now is a piece of crap\rI would give it a 2 but i'm giving it a 3 just because i remember liking it as a kid.",
+            "review_date": "2016-03-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was actually pretty good, there were some stupid parts, but it's a dream movie that's why. They actually did pretty good and it's a harmless kids flick, despite Sharkboy going savage.",
+            "review_date": "2016-09-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Adventure Of Sharkboy And Lavagirl 3-D Is a visual disaster, with poor performances, a lazy script, his characters are very poorly developed and a direction full of mistakes.",
+            "review_date": "2017-08-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "this movie is art. this movie cured my crippling depression. the composition of each shot seems hand crafted by either van Gogh or di Vinci. this movie could talk to me in a way Jah could not. It's arts it's just art. Kubrick is shaking Nolanthis movie is art. this movie cured my crippling depression. the composition of each shot seems hand crafted by either van Gogh or di Vinci. this movie could talk to me in a way Jah could not. It's arts it's just art. Kubrick is shaking Nolan is quivering. 2001 waaaaaa. the cinematographer is a fish so he wanted to paint shark boy in a bad light. get it I made a cinematography joke. this movie is the only reason I didn't commit suicide when my parents left. thank you and goodbye sweet world I have seen all I need to",
+            "review_date": "2019-07-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \ni like film this is soo good film and characters is good lol i watching this movie all days",
+            "review_date": "2019-04-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This Movie WAS EPIC AND GREAT IT WAS ABOUT THE STORY IT WAS GREAT AND CANT WAIT FOR PART 2 TO COME IM VERY READY",
+            "review_date": "2020-05-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Another \"so bad it's good\" movie. There's a lot of really bad acting which is always welcome.",
+            "review_date": "2021-04-25",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 3.3,
-    "rt_summary": "Bullied by classmates, young Max (Cayden Boyd) escapes into a fantasy, conjuring up the action-packed lives of Lavagirl (Taylor Dooley) and Sharkboy (Taylor Lautner). But one day, Lavagirl and Sharkboy suddenly come to life -- and their world, Planet Drool, needs a hero named Max. As Max escapes to Planet Drool, he battles aliens and tries to save his new friends' planet from destruction. He also battles his bullies, who have become villains like the Ice Princess (Sasha Pieterse)."
+    "rt_summary": "Bullied by classmates, young Max (Cayden Boyd) escapes into a fantasy, conjuring up the action-packed lives of Lavagirl (Taylor Dooley) and Sharkboy (Taylor Lautner). But one day, Lavagirl and Sharkboy suddenly come to life -- and their world, Planet Drool, needs a hero named Max. As Max escapes to Planet Drool, he battles aliens and tries to save his new friends' planet from destruction. He also battles his bullies, who have become villains like the Ice Princess (Sasha Pieterse).",
+    "meta_rating": 4.5,
+    "meta_summary": "From the wild imagination of a child and the digital vision of director Robert Rodriguez comes this magical, original, not to mention three-dimensional, family entertainment.  (Dimension Films)"
 }

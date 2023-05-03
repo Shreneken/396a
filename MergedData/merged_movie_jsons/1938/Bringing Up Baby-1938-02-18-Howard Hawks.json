@@ -1,9 +1,11 @@
 {
     "rating": 7.8,
     "release_date": "1938-02-18",
-    "num_reviews": 473,
+    "num_reviews": 487,
     "genres": [
-        "Comedy"
+        "Comedy",
+        "Romance",
+        "Family"
     ],
     "summary": "While trying to secure a $1 million donation for his museum, a befuddled paleontologist is pursued by a flighty and often irritating heiress and her pet leopard, Baby.",
     "reviews": [
@@ -2970,8 +2972,17 @@
             "review_date": "2013-01-02",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "All the bickering and small talks, led to this, one of the finest pair I encountered on screen.Bringing Up Baby\n\nHawks, maybe, has the ingredients that I don't prefer. For, as far as filmmaking is concerned, there are scenes projected inAll the bickering and small talks, led to this, one of the finest pair I encountered on screen.Bringing Up BabyHawks, maybe, has the ingredients that I don't prefer. For, as far as filmmaking is concerned, there are scenes projected in here, that might drop your jaw. The director Howard Hawks must be a good comedian. Since what he finds funny might not marginally come under everyone's jurisdiction. Let us first give the respect to the visual department. How smartly have they pulled off some imageries. For instance, a dog fighting a leopard or in that case anything with leopard. Just like, George Lucas used efficiently productive methods on set to create a whole new world, Hawks is tricking you nicely.Maybe these are the moments that led the industry to use more artificial things or sprinkle something post production, hence films like Wings makes you challenge yourself. In plot, I'll tell you one thing, the irritation does communicate with me. There are loads of verbal sparrings and loud noises, it's like if Martin Scorsese met Aaron Sorkin and together they were on steroids. It can be too much, easily. The screenplay is smartly and highly detailed and still the gags are kept prior to the narration.No matter how well it is done, you can always tell apart after you are done with the film. The chemistry is another major note. It is off the hook and if you want to see a good example, watch them coordinate with each other in sync in the beginning of the party sequence. The issue that I had with was Cary Grant's character and not of Katherine Hepburn. He is the catalyst. She is one smart cookie in every situation. Just watch her get her way out of ticket, she knows what she is doing. Bringing Up Baby is actually a \"how to not\" novel, and unfortunately \"how tos\" are not my thing.",
+            "review_date": "2019-06-19",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 8.9,
-    "rt_summary": "Harried paleontologist David Huxley (Cary Grant) has to make a good impression on society matron Mrs. Random (May Robson), who is considering donating one million dollars to his museum. On the day before his wedding, Huxley meets Mrs. Random's high-spirited young niece, Susan Vance (Katharine Hepburn), a madcap adventuress who immediately falls for the straitlaced scientist. The ever-growing chaos -- including a missing dinosaur bone and a pet leopard -- threatens to swallow him whole."
+    "rt_summary": "Harried paleontologist David Huxley (Cary Grant) has to make a good impression on society matron Mrs. Random (May Robson), who is considering donating one million dollars to his museum. On the day before his wedding, Huxley meets Mrs. Random's high-spirited young niece, Susan Vance (Katharine Hepburn), a madcap adventuress who immediately falls for the straitlaced scientist. The ever-growing chaos -- including a missing dinosaur bone and a pet leopard -- threatens to swallow him whole.",
+    "meta_rating": 7.6,
+    "meta_summary": "While trying to secure a $1 million donation for his museum, a befuddled paleontologist is pursued by a flighty and often irritating heiress and her pet leopard, Baby."
 }

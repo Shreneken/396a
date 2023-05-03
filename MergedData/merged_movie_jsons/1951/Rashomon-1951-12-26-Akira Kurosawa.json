@@ -1,7 +1,7 @@
 {
     "rating": 8.2,
     "release_date": "1951-12-26",
-    "num_reviews": 400,
+    "num_reviews": 424,
     "genres": [
         "Crime",
         "Drama",
@@ -2619,6 +2619,57 @@
             "review_date": "2001-07-04",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "Movie gets points for groundbreaking narrative,  stylish camerabatics, and strong performances.  But only gets a 5 overall from me because, no matter whose story you believe, all their motivations and personalities are all so wacky, it reallyMovie gets points for groundbreaking narrative,  stylish camerabatics, and strong performances.  But only gets a 5 overall from me because, no matter whose story you believe, all their motivations and personalities are all so wacky, it really made it hard to empathize with anyone.",
+            "review_date": "2019-09-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie shows that right and wrong and truth is a matter of perspective. One of the best of all time.",
+            "review_date": "2019-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While not my favourite Akira Kurasawa(for not only Japan's greatest director, but one of the finest directors there was) film, like Seven Samurai closely followed by Ran, Rashomon is still a fantastic film. No Kurasawa film is the sameWhile not my favourite Akira Kurasawa(for not only Japan's greatest director, but one of the finest directors there was) film, like Seven Samurai closely followed by Ran, Rashomon is still a fantastic film. No Kurasawa film is the same without great scenery and cinematography, and Rashomon is no disappointment in that regard. The camera is always moving but never feels like too much due to how subtly composed they (and the editing) are, and the scenery especially the beautifully lit jungle is just as striking, not as epic as Seven Samurai but still making its mark. The music, though I may prefer Ran's score when it comes to scores for Kurasawa's films, is always fitting with the mood and atmosphere of the film, and with its exploration of the relativity of truth the four accounts of the woodland encounter between a bandit and a wealthy couple is written in a compelling and completely credible manner. Kurasawa's direction as ever is superb, as are the performances of Machiko Kyo and Toshiru Mifune. Overall, a truly remarkable film. 10/10 Bethany Cox",
+            "review_date": "2022-03-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A ghastly crime has occurred, but who knows what really happened? This is the common thread of one of the most outstanding films of Japanese cinema. From the beginning it is inevitable to closely follow the perspectives and then draw your ownA ghastly crime has occurred, but who knows what really happened? This is the common thread of one of the most outstanding films of Japanese cinema. From the beginning it is inevitable to closely follow the perspectives and then draw your own conclusions, with an unexpected ending.",
+            "review_date": "2022-02-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "THE GOOD: I found the conversations between the three travelers in the temple really profound and interesting. The other subplot is sustained by a great Toshiro Mifune. Ahead of its time on a technical level.\nTHE BAD: I didn't really careTHE GOOD: I found the conversations between the three travelers in the temple really profound and interesting. The other subplot is sustained by a great Toshiro Mifune. Ahead of its time on a technical level.THE BAD: I didn't really care about what happened in the woods. I hope it had more moral complexity. Simply disappointed, good but I thought it would be better.",
+            "review_date": "2022-09-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Absolutely striking film.This  is very important for cinema film.Kurosawa`s masterpiece.If you are true cinema fan,you have to check it asap!",
+            "review_date": "2020-05-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film noir portrait of corruption and morally-compromised obsessions stars Welles as Hank Quinlan, a crooked police chief who frames a Mexican youth as part of an intricate criminal plot. Charlton Heston plays an honorable MexicanThis film noir portrait of corruption and morally-compromised obsessions stars Welles as Hank Quinlan, a crooked police chief who frames a Mexican youth as part of an intricate criminal plot. Charlton Heston plays an honorable Mexican narcotics investigator who clashes with the bigoted Quinlan after probing into his dark past. A memorable",
+            "review_date": "2022-09-17",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 8.5,
+    "meta_summary": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter."
 }

@@ -1,11 +1,13 @@
 {
     "rating": 0.0,
     "release_date": "1982-06-11",
-    "num_reviews": 2030,
+    "num_reviews": 2129,
     "genres": [
         "Adventure",
         "Family",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Drama",
+        "Fantasy"
     ],
     "summary": "N/A",
     "reviews": [
@@ -12031,8 +12033,486 @@
             "review_date": "2012-10-09",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An excellent film directed by a master.",
+            "review_date": "2010-03-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Ask John Williams to play in your country live with his orchestra in E.T.'s 30th Anniversary Edition. Please enter here: http://sites.google.com/site/et30thjohnwilliams/Home",
+            "review_date": "2008-07-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "E.T. is extremely thin--it pretends to be a much more heartwarming and spectacular than it actually is. I've found it difficult to emotionally connect and am unimpressed with Spielberg's attempt at creating fantastic science-fiction.",
+            "review_date": "2014-08-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nHE IS AFRAID\rHE IS ALONE\rHE IS 3,000,000 LIGHT YEARS AWAY FROM HOME\r Weather you like it or not, I truly believe at everyone has to admit that E.T. Is a pristine example of a perfect film! It is so much more than a little boy meeting a slimy little alien. E.T. Is the 1982 masterpiece about the innocence of nature not only from this world, but the innocence that the rest of the universe might quite possibly obtain. E.T. shows you that no matter how far away, sometimes the most important person in your life could be one that lives 3,000,000 light years away from you and that despite the distance, you and that person will always have a phenomenally strong connection no matter what. It shows in the film when E.T. gives his life for Elliot out of nothing less than pure true love and compassion for him.\r The cast is phenomenal despite only making one true star, Drew Barrymore, while she's fantastic, Henry Thomas Knocks it out of the park with the greatest  performance I have seen from a child actor ever. This movie s brilliantly directed by Steven Spielberg who made so man fantastic decisions, such as filming the scenes in order of when they occur in the story so that the child actors would not get confused. Steven Spielberg, a man who planned to never have children, was convinced due to how like able these child actors were. Spielberg has even claimed that he feels like they were his first kids, he basically was there for Drew Barrymore's entire life and is basically a father figure to her.\r E.T. Is easily the most emotional film of all time as well, making little kids to grown men cry like a lost kitten not once, but twice in the film! The film also manages to have it's little comedic moment to lighten up the mood, which are placed out perfectly throughout the film. Not to mention the adult cast is amazing as well, specifically Dee Wallace, who might very well be the ultimate mother figure to ever grace the big screen playing the type of role countless of times. It is a movie that is perfectly paced throughout it's two hour runtime that just draws you into the story and towards the end makes you crave for more like the chunky lad on a baseball team craving a bottle of water after running to first base. It perfectly builds up to an epic finally completely built up by your emotions which consists one of the greatest scores in film history by John Williams.\r Not to mention E.T. Steals the show by completely controlling the audiences hearts like a puppet on strings. E.T. is so easy to just fall in love with that he could even make a queen xenomorph tear up!  This film truly shows how you could use practical effects rather than CGI, check out the deleted scenes in the twentieth anniversary edition, in a much more effective way. E.T. remained the highest-grossing film of all time for about twenty-one years until another definitive Spielberg film called Jurassic Park. E.T. blew up like a pimple on prom night, being on the cover of everything such as, T-shirts, cereal, and candy. Hell,  E.T. even became best friends in real life with the so called \"greatest entertainer to ever live Michael Jackson,\"to the point where they even took one of the most iconic images involving the two from the iconic E.T. soundtrack.\r E.T. is probably the only big moneymaker in film history to escape an amateur sequel, trust me I read the plot, because Spielberg came and told the studio that they couldn't do a sequel, because they truly did have a perfect film.......and the studio agreed for once. E.T. Not only is the biggest film to come out of the 80's, but it is probably the first movie to gain as much support from the audience as it did. E.T. Is still remembered today as one of the all time greatest masterpieces in film history and still continues to touch audiences hearts around the planet..........and will continue to do so until the end of time! E.T. is Pure....... Perfection! My Favorite Film Of All Time!",
+            "review_date": "2013-05-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This was a great movie. WAAY better than that crappy game for Atari 2600. The storyline was nice. The characters were great. The dialogue was good. E.T. phone home. E.T. the Extra Terrestrial is a great film for all ages and you should watchThis was a great movie. WAAY better than that crappy game for Atari 2600. The storyline was nice. The characters were great. The dialogue was good. E.T. phone home. E.T. the Extra Terrestrial is a great film for all ages and you should watch it if you haven't. You're awesome Speilberg!",
+            "review_date": "2015-02-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Never seen this movie but there is one thing I gotta say: THE MOVIE IS WAAAAAYYY BETTER than this Atari 2600 game. E.T. A2600 is absolute s***! No joke.",
+            "review_date": "2015-02-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "E.T. is an heartwarming family hit and it will cherrish moviegoers of all ages.",
+            "review_date": "2010-10-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Don't listen to the cynics, those who reject anything with an ounce of heart. Forced sentimentality is junk, yes, but this movie has none of that. It's enchanting and wonderful. A great film all around.",
+            "review_date": "2006-05-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of Spielberg's greatest films by far, timeless storytelling.",
+            "review_date": "2007-05-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best modern classics!",
+            "review_date": "2007-07-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Despite the movies great effects for the time this over the top smaltz factory from the man obsessed by 6 year old heroes himself (mr spielberg) is the most over rated bag of salmon sick I have ever watched. ET go home? I wish he'd Despite the movies great effects for the time this over the top smaltz factory from the man obsessed by 6 year old heroes himself (mr spielberg) is the most over rated bag of salmon sick I have ever watched. ET go home? I wish he'd never bothered to come here in the first place.",
+            "review_date": "2006-01-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Like all Spielberg movies, every single minute of this looser is predictable. This is the first movie that made me realize that Hollywood was pandering to me--I was about 19 then. The term \"puerile\" not only comes to mind, but walks up to me Like all Spielberg movies, every single minute of this looser is predictable. This is the first movie that made me realize that Hollywood was pandering to me--I was about 19 then. The term \"puerile\" not only comes to mind, but walks up to me with a stupid look n its face and slaps me around for ten solid minutes.",
+            "review_date": "2010-03-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "E.T is an enriching and emotional film that takes another side of aliens. It can become slightly drawn out and boring but for the most part is a wonderful story of a relationship between a boy and an alien.",
+            "review_date": "2012-09-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "E.T is undeniably one of the best family movie that I've ever seen. E.T is one of the greatest achievement in cinema history. It is a masterpiece made by the one and only Steven Spielberg. And it gets 10 out of 10.",
+            "review_date": "2015-05-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The first time I watched this movie I did not like it at all. Rewatching it I really do like this movie the kids are really good in these rolls the e.t alien whatever it is called I do like that also that it learns to speak that was prettyThe first time I watched this movie I did not like it at all. Rewatching it I really do like this movie the kids are really good in these rolls the e.t alien whatever it is called I do like that also that it learns to speak that was pretty cool Around I give E.T the Extra-Terrestrial An B+",
+            "review_date": "2021-02-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This 1982 fantasy, sci fi, family, adventure film is one of them films that never really grabbed my interest but seen it enough times. I'd say the only good bits are the flying bikes and the bike scenes at the end. The rest is kind of tacky,This 1982 fantasy, sci fi, family, adventure film is one of them films that never really grabbed my interest but seen it enough times. I'd say the only good bits are the flying bikes and the bike scenes at the end. The rest is kind of tacky, lazy and boring and certainly most of this film drags on and is boring and the alien named E.T. looks faker than Michael Jackson's plastic surgery and he talks and is leprechaun sized. The kids even treat him as a friend and human being and help him get back home to his planet. One of the worst films ever made but some may enjoy it but certainly not me.... Stars Dee Wallace, Henry Thomas, Drew Barrymore... Directed by Steven Spielberg.",
+            "review_date": "2020-04-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Hmmmm...this is really interesting. When E.T. was first released, a lot of critics hated it. Now that it's re-released, they love it...i don't get it....Anyway, this movie is just a classic and one of my favorites. (Please stopHmmmm...this is really interesting. When E.T. was first released, a lot of critics hated it. Now that it's re-released, they love it...i don't get it....Anyway, this movie is just a classic and one of my favorites. (Please stop calling movies \"shows\"...unless you want to look like an idiot)",
+            "review_date": "2007-08-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A masterpiece that you will fall in love with every time you see it. Key word, \"will.\"",
+            "review_date": "2006-05-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Spielberg's E.T. is one of greatest movies ever made, as a 13 year old, i've never been a fan of kid movies. But E.T. lives on as the friendliest alien Earth, or at least, the movie Industry has ever met. The effects are Spielberg's E.T. is one of greatest movies ever made, as a 13 year old, i've never been a fan of kid movies. But E.T. lives on as the friendliest alien Earth, or at least, the movie Industry has ever met. The effects are spectacular, everything is superb. It's a favorite of my all time movies.",
+            "review_date": "2009-01-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Great show to watch when you're feeling down.",
+            "review_date": "2005-11-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Alien life lands on earth to collect plants, gets left behind, befriends some kids, authorities find out, flying BMXsSpielberg feel-good film with inevitable sad moments along the way. Thought ET was done pretty well but I was watching theAlien life lands on earth to collect plants, gets left behind, befriends some kids, authorities find out, flying BMXsSpielberg feel-good film with inevitable sad moments along the way. Thought ET was done pretty well but I was watching the 20th Anniversary version & I believe SS has gone back & tweaked some scenes George Lucas style.The kids are great in it & I don't think Drew Barrymore has been as good in anything else. Also a mention for the excellent score by John Williams.",
+            "review_date": "2010-08-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When an alien lifeform becomes stranded on Earth he forms an unlikely friendship with a young boy who will do anything to help him return home.I\u2019m sure there can\u2019t be many people who haven\u2019t, if not seen, at least heard about this movie andWhen an alien lifeform becomes stranded on Earth he forms an unlikely friendship with a young boy who will do anything to help him return home.I\u2019m sure there can\u2019t be many people who haven\u2019t, if not seen, at least heard about this movie and it remains amongst the best family movies of all time featuring some truly iconic cinematic scenes. And who didn\u2019t shed a tear at the end!?",
+            "review_date": "2017-06-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best sci-fi movies of all time.......    period",
+            "review_date": "2012-05-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "When I was nine years old and watched E.T, I felt I would not see so soon any other film so rewarding and satisfying. Since then, 9 years have passed but my opinion has not changed.",
+            "review_date": "2011-12-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "If you despise this then you are probably souless. Its a truely fun family movie, one that could be watched over and over by anybody who loves movies.",
+            "review_date": "2012-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Another pretty good Spielberg film with good acting though the ending is quite silly.",
+            "review_date": "2019-08-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not quite a master piece but for sure an instant classic. I enjoyed this film throughout. The film did lack a bit in the acting. It seemed to me like Henry Thomas needed an acting coach. But for a young child he did essentially well. NeverNot quite a master piece but for sure an instant classic. I enjoyed this film throughout. The film did lack a bit in the acting. It seemed to me like Henry Thomas needed an acting coach. But for a young child he did essentially well. Never the least, the rest was spot on. The plot enlightened me. It messed with my emotions. It made me feel like a child again. The film contained many important contributions to plot build up. Especially the part when Elliott was at school and connected to E.T. My most favorite part of the film was the bike ride. Or should I say bike flight. It just might be one of my favorite scenes in cinematic history. It made me believe I too could fly on a bike. Okay, not really because I am aware that it is just a movie. But I'm sure you understand what I'm getting at. I highly recommend this film to anyone and everyone. To parents reading this you might want to show this to your kids because it's great for the imagination. I'm pretty sure that penis breath could escape there mind.",
+            "review_date": "2011-12-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One day, people will eventually realize that E.T. the Extra-Terrestrial is a bad movie. I did not like it as a child and could not stand it as an adult. Truly a timeless disaster. E.T. the Extra-Terrestrial certainly stands as a testament toOne day, people will eventually realize that E.T. the Extra-Terrestrial is a bad movie. I did not like it as a child and could not stand it as an adult. Truly a timeless disaster. E.T. the Extra-Terrestrial certainly stands as a testament to how little I can stand children in films. The kids in this film are universally grating and deserve to be run over with a steamroller. In particular, Drew Barrymore plays the annoying little snitch of a little sister and she does nothing scream in a high-pitched little kid scream and it drove me mad. Alongside her, Henry Thomas plays an annoying ten-year-old who apparently was tasked with, along with the rest of his class, to kill frogs for dissection. Absolutely wild. When I dissected frogs in high school, they were dead already. We did not have to kill them ourselves. Are these the horror stories of growing up that will be told by people that were young in the 1980s? Instead of having to walk up and down hill in a driving blizzard, they had to kill frogs with chloroform and then cut them up. Predictable, lacking wonder and magic, and simply overly manipulative and sentimental, E.T. is yet another 1980s childhood classic that I hate, joining esteemed company with Gremlins (why does that woman want to kill the dog) and The Goonies (where did they find all these annoying little screamers in the 80s).The film is simply unfunny, in spite of attempts to be funny. Scenes of E.T. getting drunk and having some weird connection with Elliott (Thomas) that makes him drunk and kiss a girl with a fat kid serving as a lift for the shorter Elliott are creepy. Now, it is in line with E.T. as a whole who is creepily designed and then lures Elliott in with candy. Slow your roll, pervert. Add in the alcohol that gives him the guts to kiss a girl and the film has worrying messages about drinking and candy from strangers. A series of reaction shots towards the end of the boys on bicycles making weird faces as they fly are also incredibly grating and seem like something out of Tommy Wiseau's The Room instead of an alleged childhood classic. The only part of the movie that is funny is when Michael (Robert MacNaughton) finds E.T. burning in the sun and a raccoon was clearly hanging around and possibly eating E.T. That still makes me laugh.The film is also quite cliched in its plotting with the kids all doubting Elliott, the kids getting behind Elliott, the mom freaking out, and then the adults who do not understand E.T. or kids get in the way and \"kill\" him. Even worse, the astronauts just bust into the home like common cat burglars. They are coming in from every window in a honestly surreal sequence that feels like something out of Blue Velvet and not a Spielberg film. Even worse, the scene where E.T. dies (unfortunate, since Elliott is saved as a result and yells, gratingly, in agony) is obviously a fake out as we just wait Elliott to go over and save him with the power of love. Wrapped up with a similarly sentimental ending, E.T. is merely a manipulative film that uses emotions regarding death and the loss of a parent to adultery as a gateway to trying and getting people to cry. It has no sense of wonder or magic in its own story, just sappy emotions and sentimentality that feel unearned with a hollow emotional core in the film.The only source of any magic and wonder is the score from John Williams, which admittedly sounds good, but it entirely used as a crutch. The characters have to literally scream over the score with Williams' music sounding more akin to the Oscars playing somebody off the stage during the acceptance speech than a film score. Constantly telling the audience how to fell and single-handedly trying to make the film feel wondrous as a celebration of childhood and imagination, the score just does not work in this film because of bad mixing. It just distracts too much and tries to manipulate the audience into buying the sentimental and sappy emotions of the plot and dialogue. It nearly works and has made many people cry, but for those not buying the plot and dialogue, the score just becomes massively annoying with the score constantly getting louder and louder.With a creepy connection between a boy and the alien at the center of this film, a lack of originality, a predictable plot, annoying child actors, a score that is too loud, no comedy, no wonder, and no magic, E.T. is a disaster of a childhood film. It may appeal to the vast majority of people, but I desperately wanted this thing to end. The adults being the bad guys because they do not let kids run all over the earth acting like **** is a truly annoying trope and this film relies upon it quite heavily. All in all, this film may have some fun special effects and is glorious in its 1980s cheese while being mildly entertaining, but it largely falls flat and is hardly an enjoyable experience due to the litany of issues it has.",
+            "review_date": "2017-02-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A heartwarming family adventure, E.T. for once, is not an alien who eats people who tries to destroy planets or whatever. This is a picture of youth, courage, and an absolute testament to the childlike wonder. I LOVE this movie. There's onlyA heartwarming family adventure, E.T. for once, is not an alien who eats people who tries to destroy planets or whatever. This is a picture of youth, courage, and an absolute testament to the childlike wonder. I LOVE this movie. There's only 2 flaws:\r1) It is a bit long, (but it had to be to tell the story)\r2) The first 4 minutes are absolutely boring.",
+            "review_date": "2012-12-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nWith few boring and unnecessary scenes. \"Extra-Terrestrial\" is a good movie with great message! Home is home and no matter where you are, you'll never abandon it!",
+            "review_date": "2016-03-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "No movie is sweeter.\rNo science fiction movie is funnier.\rNo one is sadder.\rE.T. will always be a masterpiece.\rA very lovely movie! A film for the whole family.",
+            "review_date": "2013-05-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "(CONTAINS SPOILERS) About a naked 70 year old sex offender who having run out of credit drunkenly barges his way into someones home and forces several children by finger point to take him to a caravan in the woods on a bike dressed as Mother(CONTAINS SPOILERS) About a naked 70 year old sex offender who having run out of credit drunkenly barges his way into someones home and forces several children by finger point to take him to a caravan in the woods on a bike dressed as Mother Teresa whilst the\ufeff police try to catch him. As drunk as I was I still found it a very moving film for some odd reason.",
+            "review_date": "2013-07-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Heartwarming as it is, E.T. is a little bit too over the top. Although it is a good movie, it could be better, and is a little bit too predictable to be called Spielberg's best film.",
+            "review_date": "2014-04-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I can definitely see the appeal of E.T. and the nostalgia of it. But, as a child of the 90s, I never saw E.T. until I was older. It is not my favorite Spielberg film, but is definitely worth the watch.",
+            "review_date": "2015-04-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Found this leaflet. Not sure ... anyway here it is.\r Watch out for ET! Ever since he was invited to the Intergalactic Boxing Championships. he has ravaged us. Headbutted his  way to the championship. During the introduction. Alien,Found this leaflet. Not sure ... anyway here it is.\r Watch out for ET! Ever since he was invited to the Intergalactic Boxing Championships. he has ravaged us. Headbutted his  way to the championship. During the introduction. Alien, Predator, the Thing, the Borg, Octipi (Independence Day), and others all killed before they could ever get their mitts up.\r We're all living in slavery. Help! Mankind is our last hope! ------ ARRRRGGGH",
+            "review_date": "2015-12-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "E.T. The Extra-Terrestrial is a heartwarming, simplistic tale for families to enjoy. It packs an emotional punch but is also fun throughout its runtime.",
+            "review_date": "2016-09-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A must see especially if your local theater has reruns of E.T. The Extra Terrestrial. The book is also recommended too as it goes very beyond the movie.",
+            "review_date": "2017-12-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one classic films its been a long time since i watched this film it was just mysterious  and it is weird when its been a long time since you saw et it was freaky.  You watch it again and its shocking as you get older watching the filmThis is one classic films its been a long time since i watched this film it was just mysterious  and it is weird when its been a long time since you saw et it was freaky.  You watch it again and its shocking as you get older watching the film again. I love the story and to be honest it had been the best movie to be directed by Steven Speilberg since after his most ambitious film ( Jaws). Steven Speilberg is the best film maker he has a filmmakers eye in adventure films.( Indiana Jones , Catch me if you can , Saving private ryan). Grade A+",
+            "review_date": "2014-10-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "E.T. is a classic story of friendship.  It's filled with exciting set pieces, smart writing, strong acting performances, and top notch directing by Steven Spielberg.",
+            "review_date": "2014-05-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Steven Spielberg's classic tale of an extra-terrestrial who is accidentally left behind on earth and befriends a young boy and his family in a heart warming story.",
+            "review_date": "2014-10-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "At their best, both Spielberg and Lucas make idealized versions of the kinds of films they loved as kids, in the process furnishing this generation\u2019s filmgoers with visual treats of unprecedented skill and sophistication. Despite theAt their best, both Spielberg and Lucas make idealized versions of the kinds of films they loved as kids, in the process furnishing this generation\u2019s filmgoers with visual treats of unprecedented skill and sophistication. Despite the continual presence of the little Yoda-like creature, \u201cE.T.\u201d is not first and foremost an effects picture, but rather a charming \u201cTwilight Zone\u201d-like fable which reminds by turns of \u201cThe Wizard of Oz,\u201d \u201cMary Poppins,\u201d a benign switch on \u201cKing Kong\u201d and a variation of Spielberg\u2019s own \u201cClose Encounters.\u201d\r Opening sequence actually comes off like a repeat of \u201cClose Encounters\u201d\u2018 final frames, as a sizeable spaceship takes off just before some earthly authorities are able to close in on it. One of its occupants gets left behind, however, and the viewer is instantly sympathetic with its plight in the threateningly different environment of a modern California subdivision.\r E.T. is highly fortunate to be found by young Henry Thomas who, after some understandable initial fright, takes the \u2018goblin\u2019 in, first as a sort of pet and then as a friend he must guard against the more preying elements of human society. Over time, Thomas teaches E.T. how to talk and includes his older brother (Robert MacNaughton) and younger sister (Drew Barrymore) in on the secret, even as he manages to hide his discovery from his mother (Dee Wallace).\r Ultimately, of course, the official representatives of society locate E.T., which seems to occasion a rapid decline in its health until it appears to die. When it revives, Thomas marshals his friends into a kids\u2019 commando squad to spirit E.T. back to the spaceship which is on its way to a rescue rendezvous.\r First element which had to work to insure film\u2019s success was E.T. itself. As superlatively created by Carlo Rambaldi, the creature manages to project both a wondrous childlike quality and a sense of superior powers. Cutely awkward in its movements, the being has rubbery brown skin, an extendable neck and possesses eyes which dilate on cue. It even gets to play a drunk scene, perhaps a first for screen aliens. Assuredly not lost on those involved with the film are the opportunities for E.T.-related toys and dolls, which are enormous.\r An amusing sidelight to the tale is that the action takes place in a suburban household almost identical to that in the Spielberg-produced \u201cPoltergeist,\u201d which leads to the thought that the two, distinctly different stories could be unfolding in neighboring homes simultaneously. In fact, many of the motifs in the early going are similar to those in \u201cPoltergeist\u201d\u2013the middle-class family, the blonde dog, goldfish, people glaring into bright lights in awe and disbelief.\r But \u201cE.T.\u201d will surely prove an embraceable film by the general public. Rarely has a picture so completely evinced a kid\u2019s p.o.v. and shown the complicity of youngsters against adults. It\u2019s been said that the only people who don\u2019t like Disneyland are late adolescents who feel too hip to enjoy the pleasures of their earlier years, and the same will probably hold true for \u201cE.T.\u201d\r As can be expected for Spielberg and the Industrial Light & Magic shop, the technical effects are state-of-the-art superb. Enough cannot be said for John Williams\u2019 score, which stands as a model of film composing\u2013although it is almost continually present it\u2019s also practically unnoticeable, so well does it both complement and further the events onscreen.\r As far as the performances go, the key was finding three kids who could respond with both innocence and gumption to the arrival of E.T. All fulfill the requirements, and Thomas is perfect in the lead, playing the childhood equivalent of Spielberg\u2019s everyman heroes of his previous pics.\r There are some unsatisfactory elements\u2013slow spots occur during the middle stretch, the mild anti-establishment stance is getting to be a bit cliche and one never knows whether E.T.\u2019s mortal illness is physical or psychological in nature, or both. But, as with \u201cClose Encounters,\u201d the truly lovely and moving ending more than makes up for everything. Chalk up another smash for Spielberg.",
+            "review_date": "2016-03-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "ET:The Extra Terrestrial is one of Steven Spielberg's better movies, funny, touching and just wonderful. It not only entertains very young children and their parents but it reaches out to the child within us, that is something I want to feelET:The Extra Terrestrial is one of Steven Spielberg's better movies, funny, touching and just wonderful. It not only entertains very young children and their parents but it reaches out to the child within us, that is something I want to feel when I watch a movie from my childhood. I love films like Beauty and the Beast, The Wizard of Oz, Mary Poppins and The NeverEnding Story for exactly that reason. The film is beautifully filmed, with breathtaking cinematography and beautiful scenery. The scene with ET and Elliot on the bicycle is just an amazing scene, I think John Williams's amazing score is to thank for that. The special effects are excellent, and the script is funny and touching. There is one sight gag with ET hiding among Elliot's stuffed animal toys that warms my heart every time. The acting is very good, with Henry Thomas appealing as Elliot and Dee Wallace sincere and sensitive as the mother. I also loved Drew Barrymore as the sassy and big-mouthed sister. What makes this film though is ET himself, even with his large eyes and long arms for an alien ET is adorable, sad and sweet. The part when Elliot cries when ET is dying is a real tearjerker, it kills me every time I see this film. Overall, I love this film, it is so special and delightful. 10/10 Bethany Cox",
+            "review_date": "2022-03-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It is a speilberg classic and it is a interesting idea and mind like after jaws you would think he would stick to r rated movies,but he has a kidfreindly side.",
+            "review_date": "2015-12-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "They all say this is a family-friendly movie. Indeed it is. One of the greatest movies in history also has one of the worst video games in history which is quite disappointing.",
+            "review_date": "2016-01-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With a magnificent direction, talented cast, funny jokes and stunts, interesting story-telling, suspense-packed moments, dramatic parts and an unforgettable message of true friendship and love, so every kind of viewer would get connectedWith a magnificent direction, talented cast, funny jokes and stunts, interesting story-telling, suspense-packed moments, dramatic parts and an unforgettable message of true friendship and love, so every kind of viewer would get connected with, E.T. becomes one of the bests films ever made.",
+            "review_date": "2016-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Featuring one-of-a-kind performances from its leads, E.T. hits home with its wonderfully crafted (and written) story-line that centers around a non-human character who is filled with so much human emotion and charm.",
+            "review_date": "2016-07-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "E.T. is a classic family movie with a simple, but emotionally powerful story. It's definitely one of Spielberg's best.",
+            "review_date": "2020-07-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "E.T the Extra Terrestrial is not only my favorite Steven Spielberg movie but it's also one of my favorite films ever. It has one of the most heart warming stories of all time, the music by John Williams is unforgettable, the acting is greatE.T the Extra Terrestrial is not only my favorite Steven Spielberg movie but it's also one of my favorite films ever. It has one of the most heart warming stories of all time, the music by John Williams is unforgettable, the acting is great and has emotional moments. The idea of a friendship between a boy and alien is very brilliant. The special effects in this movie were great for it's time and still holds up well today. This is one of the movies that i'm gonna remember for the rest of my life cause it's very memorable.",
+            "review_date": "2016-07-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Magical. ET is one of my favourite films of all time. It has great casting, great performances, great direction, AMAZING music (John Williams), an emotional story, and great comedy.",
+            "review_date": "2016-07-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Keep watching the skies. \"E.T. phone home\", a phrase that made history. Spielberg revolutionized the cinema for children with this film, through a visitor from the space he portrayed the theme of childhood loneliness and the strength ofKeep watching the skies. \"E.T. phone home\", a phrase that made history. Spielberg revolutionized the cinema for children with this film, through a visitor from the space he portrayed the theme of childhood loneliness and the strength of friendship. Drew Barrymore in her cutest role. A classic of the 80s and of all time.",
+            "review_date": "2021-02-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The ideas revolving around the fascinated mind of Steven Spielberg unleashes one of the most significant and influential fantasy movies ever made. Together with Eliott (Thomas), Gertie (Barrymore) and Michael (MacNaughton), the beloved spaceThe ideas revolving around the fascinated mind of Steven Spielberg unleashes one of the most significant and influential fantasy movies ever made. Together with Eliott (Thomas), Gertie (Barrymore) and Michael (MacNaughton), the beloved space alien, E.T. embarks on an unforgettable adventure to reach home with the most unexpected things.This film is a beautiful journey of the heartwarming and soul-filled friendship between the kids and E.T. It also features iconic scenes that captivated the world in its magical way. It is an endearingly optimistic film, with a perfect musical score from John Williams and a powerful screenplay from Melissa Mathison. But the biggest praise this movie deserves is the ability to connect to all generations by its themes.VERDICT: E.T. the Extra-Terrestrial is a timeless film with truly memorable moments. Additionally, it fortifies the filmography of Spielberg and strengthens the pillars of science-fiction and fantasy.",
+            "review_date": "2017-06-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Honestly, I found the film to be a bit boring. I just couldn't get into this movie. I think part of that is from the fact that so many people make this movie out to be a lot better than it actually is. It's creative and stuff, but I justHonestly, I found the film to be a bit boring. I just couldn't get into this movie. I think part of that is from the fact that so many people make this movie out to be a lot better than it actually is. It's creative and stuff, but I just didn't really like it.",
+            "review_date": "2017-08-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I loved this. The story is powerful, well written, and funny. The characters are well acted, which was surprising. Overall, it was a pretty good experience for all.",
+            "review_date": "2017-05-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "By Far One Of Spielberg\u2019s BestE.T. is one of the best movies of the 80\u2019s with tons of memorable scenes.",
+            "review_date": "2019-07-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What would happen if aliens exist and one of them was found by a child alive and well, but lost on our planet and eager to return to his home? This is precisely the subject of this film, which is part of the collective memory of most peopleWhat would happen if aliens exist and one of them was found by a child alive and well, but lost on our planet and eager to return to his home? This is precisely the subject of this film, which is part of the collective memory of most people and that is undoubtedly one of the most notable films of Steven Spielberg's career. Directed by him and with a script by Melissa Mathison, this film has the participation of Henry Thomas (as Elliott) and Drew Barrymore (as Gertie). The alien's voice belongs to Pat Welsh, an old woman who smoked two packs of cigarettes daily just to achieve the hoarseness required for the role (at a time when technology wasn't what we have today, that's what was done, and I just hope she didn't suffer from the lungs later).Personally, I consider this the most remarkable film of Spielberg's career so far, despite the success he achieved before with \"Jaws\" and \"Close Encounters of the Third Kind,\" and even of many other blockbuster films he made after. Spielberg has always shown a particular talent for sci-fi themes, very present in his work and presented here at an audience younger than what is normally the target of alien movies. Despite the theme and suspense throughout the film, we can consider it a family film. The suspense alternates with very funny moments, where children (and their interaction with their new friend) reign at all. Drew Barrymore deserves particular attention: this lovely girl, screaming like a grown, won with this film a well deserved stardom, unfortunately tapped the hard way over the next decade in an absolutely downward path, which the actress has only recently recovered. Henry Thomas was also good in his role, grabbing it with vigor and commitment. The special effects, as usual in films of this director, are excellent and the soundtrack is one of the best of John Williams. Some of the scenes on this film became so famous that come naturally to our memory and are known even to those who have never seen the movie. This is the case of the flying bike passing in front of the full moon, one of the most beautiful and striking scenes in sci-fi, along with that famous scene where E.T. finger lights touching on Elliott's forehead.This film is recommended to all families of all ages. Its a truly timeless film, which was done without the massive computerization we are used to, which ends up being an advantage to make it more genuine. Moving and emotional, he entertains any audience so well that it's not surprising the huge success it had at the box office. Winner of Oscars for Best Soundtrack, Best Special Effects, Best Sound Effects and Best Sound (1983), it also won the Golden Globes for Best Dramatic Film and Best Soundtrack. This is that sci-fi film that will decidedly please even those who don't appreciate this kind of movies.",
+            "review_date": "2018-02-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Rewatched Feb 09, 2018This is some wholesome **** Spielberg's classic from 1982 still stands up to this day.",
+            "review_date": "2018-04-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is my favorite movie of all time! I saw it way after it originally came out but it immediately captured my imagination.",
+            "review_date": "2018-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Timeless childhood movie!!!!Please ignore the killjoys here that are reviewing and saying this is a bad movie; they clearly have no concept of legendary storytelling or creativity and should be quiet. One such reviewer said this was copiedTimeless childhood movie!!!!Please ignore the killjoys here that are reviewing and saying this is a bad movie; they clearly have no concept of legendary storytelling or creativity and should be quiet. One such reviewer said this was copied from 'Mac and Me'. All it takes is two minutes to do your research and to the person that posted that - don't spread false info. Mac and Me was released in 1988 and was a blatant rip off of E. T.This movie is a true masterpiece. I first saw it back in 1994 and it stuck with me since then. I miss those times terribly, however I can imagine how amazing it would have been to see it in cinemas back then! It is one of the best films ever created accompanied by one of the best soundtracks to ever be recorded. It is charming, funny and tear-jerking and the plot is straight to the point with each scene executed beautifully! This movie is a must watch and an all time-classic. I assure you it will stick with you for years.There will never be another movie like this.",
+            "review_date": "2022-11-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "And Amblin Entertainment was Born, E.T. Is Spielberg's 2nd Best Movie, The Best Scene Ever in a Movie, One of the Most Saddest Goodbyes ever in a movie, and one of the best Movie Posters, This is a Classic to this day.",
+            "review_date": "2019-04-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Probably the most important movie in my life.I've been watching it ever since I was a little kid.It has always been with me.It has made me laugh, cry and feel alive.I love it with all my heart and soul.Pure magic and childhood innocence.",
+            "review_date": "2020-09-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The time is our own, when rustlers have given way to drug runners and small towns have become free-fire zones. The story begins when Llewelyn Moss finds a pickup truck surrounded by a sentry of dead men. A load of heroin and 2 million dollarsThe time is our own, when rustlers have given way to drug runners and small towns have become free-fire zones. The story begins when Llewelyn Moss finds a pickup truck surrounded by a sentry of dead men. A load of heroin and 2 million dollars in cash are still in the back. When Moss takes the money, he sets off a chain reaction of",
+            "review_date": "2022-09-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "very good for the time, a heart warming, slightly wacky classic movie that was a joy to watch :)))",
+            "review_date": "2020-09-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There's a certain wonderous atmosphere to ET that can only be achieved with children as the main stars. The story may be predictable, but the ride is still full of enough emotional weight to make you forget.",
+            "review_date": "2021-03-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Very talked about movie that surprisingly was only decent to me. Neat look back at the 80's though.",
+            "review_date": "2021-04-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Even after these years it has aged like wine, \"E.T. The Extra-Terrestrial\" is the definition of a memorable film. Its characters, its music, its cinematography, its sound effects, its special effects, its dialogue, its plot, its scenes, itsEven after these years it has aged like wine, \"E.T. The Extra-Terrestrial\" is the definition of a memorable film. Its characters, its music, its cinematography, its sound effects, its special effects, its dialogue, its plot, its scenes, its love of shadows, and of course, its love of providing love to any who watches it. The film works beautifully on all levels by giving children, teens, and adults alike a powerful bond with these characters. We all care about what happens to them as the events unfold with some of the best pacing I've ever seen in a film. Funny enough, it's a bond similar to the one the lovable titular alien has with the main human character, Elliot. EllioT and \"E.T.\" ha ha ha, we see what you've done there.",
+            "review_date": "2021-08-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film, seen when you are a child, remains positively impressed but if you see it when you grow up it can create repulsion. The story is very banal, the alien aesthetically sucks and the film is full of clich\u00e9s. I prefer a more adultThis film, seen when you are a child, remains positively impressed but if you see it when you grow up it can create repulsion. The story is very banal, the alien aesthetically sucks and the film is full of clich\u00e9s. I prefer a more adult science fiction. One of the worst Spielberg's movies.",
+            "review_date": "2022-04-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Saw this at a 40th anniversary IMAX showing and it was real treat, Probably hadn't seen it in over 20 years. Found it very enjoyable and was grateful to see it on the big screen.",
+            "review_date": "2022-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "E.T. is a great movie and has memorable scenes and it\u2019s a movie everyone likes, the only thing I can say that\u2019s bad about this movie is the acting.",
+            "review_date": "2022-07-30",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 7.2,
-    "rt_summary": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott (Henry Thomas). Bringing the extraterrestrial into his suburban California house, Elliott introduces E.T., as the alien is dubbed, to his brother and his little sister, Gertie (Drew Barrymore), and the children decide to keep its existence a secret. Soon, however, E.T. falls ill, resulting in government intervention and a dire situation for both Elliott and the alien."
+    "rt_summary": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott (Henry Thomas). Bringing the extraterrestrial into his suburban California house, Elliott introduces E.T., as the alien is dubbed, to his brother and his little sister, Gertie (Drew Barrymore), and the children decide to keep its existence a secret. Soon, however, E.T. falls ill, resulting in government intervention and a dire situation for both Elliott and the alien.",
+    "meta_rating": 8.2,
+    "meta_summary": "When an imaginative boy meets a lost alien, it is the beginning of one of cinema's most endearing friendships as Elliot (Henry Thomas) helps the marvelous creature he calls E.T. find his way back home before government agents can capture him."
 }

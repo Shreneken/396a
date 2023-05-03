@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1959-06-22",
-    "num_reviews": 570,
+    "num_reviews": 585,
     "genres": [
         "Drama",
         "Romance"
@@ -3213,8 +3213,17 @@
             "review_date": "2009-07-05",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nA journey of a man's life. With death just looming around the corner, Professor Borg has one thing in mind: to reminisce. We get to see the heartaches, the euphoria. and the success of a to-be-awarded man in a very occupied day. We unravel throughout the day on why his daughter-in-law calls him someone who has a benevolent exterior but in the inside, as hard as nails. This is probably because of Sara choosing his brother over him which was aggravated more by marrying someone he doesn't really love as much as Sara. He may be an accomplished professor but his life is miserable and lonely.This is the first Ingmar Bergman film I have watched and I am amazed how he captured the old man's emotion with the use of dreams and parallelism in the characters. Terror, endearment, regret, kindness, sorrow, care, and satisfaction. All of these emotions captured so well by Bergman and made us feel what Professor Borg felt in his lifetime. These may be the emotions felt by a human being living in this world. A human life may be full of sorrow but in his dying days, he can still be out of his comfort and change someone's life for the better.Professor Borg woke up from a dream being terrorized by the idea of death but he goes back to sleep with a sense of satisfaction, with a smile on his face knowing that he is close in seeing his parents soon, in a better place.",
+            "review_date": "2020-07-08",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 9.4,
-    "rt_summary": "Crotchety retired doctor Isak Borg (Victor Sj\u00f6str\u00f6m) travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne (Ingrid Thulin), in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara (Bibi Andersson), a dead ringer for the doctor's own first love."
+    "rt_summary": "Crotchety retired doctor Isak Borg (Victor Sj\u00f6str\u00f6m) travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne (Ingrid Thulin), in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara (Bibi Andersson), a dead ringer for the doctor's own first love.",
+    "meta_rating": 8.2,
+    "meta_summary": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence."
 }

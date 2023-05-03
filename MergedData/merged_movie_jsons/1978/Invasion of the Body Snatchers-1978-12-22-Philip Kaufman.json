@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1978-12-22",
-    "num_reviews": 444,
+    "num_reviews": 461,
     "genres": [
         "Horror",
         "Sci-Fi"
@@ -2854,8 +2854,45 @@
             "review_date": "2012-12-30",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Definitely one of the best sci-fi/horror movies of it's time. With great acting, impressive practical effects and a very atmospheric soundtrack, Invasion of the Body Snatchers delivers and gives much more than what you would expect.",
+            "review_date": "2017-10-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Nothing but sexist belittlement of women characters. Dialogue is unoriginal and annoying.",
+            "review_date": "2019-06-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "+Excellent cast+Interesting sci fi premise -Camera work and lighting have aged poorly-Screenplay hasnt aged well either\n\nIOTBS uses a fascinating concept of the creeping takeover of the human population in san Francisco with alien human+Excellent cast+Interesting sci fi premise -Camera work and lighting have aged poorly-Screenplay hasnt aged well eitherIOTBS uses a fascinating concept of the creeping takeover of the human population in san Francisco with alien human hybrids(and presumably the world!). As a piece of movie history it has aged poorly however. There is little artistic merit to be found in the cinematography although it looks clean in uhd format. Sadly the majority of the film is shot at night but the lighting is virtually non existent so there is little benefit to that choice as everyone and everything is simply swamped in darkness. Cast performances are erratic with little logical reasoning in the screenplay to really sell the sometimes bizarre reactions. The visual effects are possibly the strongest area of the film as they are practical effects and seeing them in uhd was quite intriguing especially the homeless guy face on the dog!Soundtrack performs its function with some odd moments of synth throughout no doubt very edgy back in 1978 but in 2020's feels campy. The hilariously sexist screenplay has also aged terribly but if you dont mind quirky campy sci-fi this may entertain you.",
+            "review_date": "2021-11-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I say this as a big fan of the 1956 film. I have nothing against remakes, some are great, some are good, some are bad, some are downright awful. Fortunately Invasion of the Body Snatchers(1978) is one of the truly great ones, one of thoseI say this as a big fan of the 1956 film. I have nothing against remakes, some are great, some are good, some are bad, some are downright awful. Fortunately Invasion of the Body Snatchers(1978) is one of the truly great ones, one of those rarities that not just lives up to the original film but almost beats it.The only reason why it doesn't quite is because the 1956 film does more with the change of the townsfolk. That said, it is a very well made film, with the special effects enhancing the mood rather than distracting from it and the scenery and cinematography striking. The make up is also outstanding.Invasion of the Body Snatchers also has a strong score that just adds to the tension and suspense, a compelling story especially the ending, in fact for me I marginally preferred the ending here, the dialogue is intelligent and well-delivered and the direction is very fine.There is some great acting too. Donald Sutherland and Brooke Adams are strong leads, while Jeff Goldblum steals the scenes he appears in. Overall, a great film and worthy remake. Anybody who has not seen the Invasion with Craig and Kidman, it may be a good idea to keep it that way. 9/10 Bethany Cox",
+            "review_date": "2022-03-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The first update of the 50s classic for a few moments manages to duplicate the ingenuity of the original, raising the levels of fear and paranoia and above all, with a pessimistic and chilling ending. To note the participation of KevinThe first update of the 50s classic for a few moments manages to duplicate the ingenuity of the original, raising the levels of fear and paranoia and above all, with a pessimistic and chilling ending. To note the participation of Kevin McCarthy, the same as the original version. If you notice any suspicious attitude in a neighbor, or the newspaper delivery boy, watch out!",
+            "review_date": "2022-05-22",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 8.2,
-    "rt_summary": "This remake of the classic horror film is set in San Francisco. Matthew Bennell (Donald Sutherland) assumes that when a friend (Brooke Adams) complains of her husband's strange mood, it's a marital issue. However, he begins to worry as more people report similar observations. His concern is confirmed when writer Jack Bellicec (Jeff Goldblum) and his wife (Veronica Cartwright) discover a mutated corpse. Besieged by an invisible enemy, Bennell must work quickly before the city is consumed."
+    "rt_summary": "This remake of the classic horror film is set in San Francisco. Matthew Bennell (Donald Sutherland) assumes that when a friend (Brooke Adams) complains of her husband's strange mood, it's a marital issue. However, he begins to worry as more people report similar observations. His concern is confirmed when writer Jack Bellicec (Jeff Goldblum) and his wife (Veronica Cartwright) discover a mutated corpse. Besieged by an invisible enemy, Bennell must work quickly before the city is consumed.",
+    "meta_rating": 6.9,
+    "meta_summary": "In San Francisco, a group of people discover the human race is being replaced one by one with clones devoid of emotion."
 }

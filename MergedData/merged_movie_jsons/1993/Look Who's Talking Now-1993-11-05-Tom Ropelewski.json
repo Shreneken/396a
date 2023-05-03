@@ -1,7 +1,7 @@
 {
     "rating": 4.4,
     "release_date": "1993-11-05",
-    "num_reviews": 45,
+    "num_reviews": 57,
     "genres": [
         "Comedy",
         "Family",
@@ -184,5 +184,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 5.8,
+    "meta_summary": "The dogs can talk at a family of 4, where mom loses her job the same day dad gets a job as pilot for a cute, single boss."
 }

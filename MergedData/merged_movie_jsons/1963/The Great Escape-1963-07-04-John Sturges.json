@@ -1,11 +1,13 @@
 {
     "rating": 0.0,
     "release_date": "1963-07-04",
-    "num_reviews": 700,
+    "num_reviews": 718,
     "genres": [
         "Adventure",
         "Drama",
-        "History"
+        "History",
+        "Thriller",
+        "War"
     ],
     "summary": "N/A",
     "reviews": [
@@ -4449,8 +4451,45 @@
             "review_date": "2012-03-20",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think for those times when it came out it could've been a 9 or 10, but watchin now for me it is more of an 8, as some parts felt a bit too silly and some of it a bit unrealistic historically. But overall it is a great movie, with good plot,I think for those times when it came out it could've been a 9 or 10, but watchin now for me it is more of an 8, as some parts felt a bit too silly and some of it a bit unrealistic historically. But overall it is a great movie, with good plot, the humor maybe a bit outweighs that actual drama of the historical events, but nonetheless, a great movie.",
+            "review_date": "2022-02-08",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Tarantino put it in his top 10, so pretty much had to see.  Steve McQueen at his peak.  It is too benevolent for plausibility.   In my experience if a person can commit suicide while killing another person they do.  It does not matter theTarantino put it in his top 10, so pretty much had to see.  Steve McQueen at his peak.  It is too benevolent for plausibility.   In my experience if a person can commit suicide while killing another person they do.  It does not matter the person or the victim, they will do it 100% of the time.",
+            "review_date": "2020-02-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "clearly ahead of its time..The Great Escape\n\nSturges's nail biting escape from the war, is a symphony that soars among all the best outcome that the genre has given us. Sturges means business in here, from the first frame till the curtainclearly ahead of its time..The Great EscapeSturges's nail biting escape from the war, is a symphony that soars among all the best outcome that the genre has given us. Sturges means business in here, from the first frame till the curtain drops. He doesn't have any time to go waste by, he cares for the quality offered to the viewers. And the standard is kept persistent. The story called for your usual supporting characters with allotted characteristics that keeps the viewers tangled onto them. But this is no fiction, each characters might be given a signature name, but they are more to what they seem and Sturges proves that in nearly three hours that feels like seconds passing by.The primary strength of the feature is how the makers fiddle with the geography, environment and the set pieces that every now and then elevates the momentum as the gripping screenplay enfolds onto the screen. The narration is gripping and adoptive with a fascinating structure that builds up the base with equal sincerity and mannerism. It relies a lot upon the physical sequences and yet it never grows dull for it is brimmed with tiny notions and tactics that are pure delights. McQueen stands out from the first act and still he remains of the similar palpable tone like the rest of his cast.Garner gets a much stronger parallel role but Bronson's few compelling sequences steals the show. The cunning ways to cheat their way out and the surveillance team still figuring out their tricks, these sew saw are the best bits of the feature and they are in plethora of it; it is thoroughly entertaining. Armed with such a sharp adaptation, Sturges's execution is plausible and is worth every drop of the sweat that went into it. The Great Escape confronts the reality with a language that was clearly ahead of its time.",
+            "review_date": "2018-11-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film was made as a kind of homage to the fifty Allied war prisoners who were killed in the course of a spectacular escape from a Luftwaffe prison camp. This is a historical and well-known fact, and we can even visit the camp, which hasThis film was made as a kind of homage to the fifty Allied war prisoners who were killed in the course of a spectacular escape from a Luftwaffe prison camp. This is a historical and well-known fact, and we can even visit the camp, which has been preserved. But don't expect this film to be a faithful reconstruction of the facts, because it is not. The film abuses of creative liberty and much of what we see in the film was invented or restructured. There are characters that mix the characteristics of more than one real individual, there are things that never happened (the plane flight, for example) and the participation of American POW's in the escape attempt was not so noteworthy. But Hollywood has already used us for films that disregard history accuracy.The cast is luxurious and has a lot of eminent actors. I particularly liked the good work shown by Steve McQueen, Charles Bronson and Richard Attenborough, who give life to three of the main conspirators in the escape. McQueen gives life to a fugitive veteran, tireless in his attempts but who always ends up in the \"cooler\", planning the next one; Bronson also became very sympathetic thanks to his fear of tight spaces. In addition to them, the film features the excellent work of James Garner, Donald Pleasence, Nigel Stock, Angus Lennie, James Coburn and Hannes Messemer, the latter of them in the role of the German camp commander. In general, everyone had time to show value, and they did it, making good use of the material they received, in particular the excellent dialogues.The film is almost three hours long, but it is worth every minute and never makes us feel that we waste time in unnecessary details. Well filmed, he has a good cinematography and has worked hard to build realistic and credible sets and costumes. It is not the kind of war movie loaded with shootings and action scenes, even though it has several tense scenes and some exciting pursuits. We could really feel how tight that tunnel was, and how much each of those men has risked to, at least, cause the biggest possible disturbance behind the enemy's lines. Another essential detail of this film is its iconic soundtrack, signed by Elmer Bernstein. The sum of all this results in one of the most notable classical war films, which even inspired other cinema works, such as \"Chicken Run\", a stop-motion animated film where we can see the structure of the prison camp in that great chicken coop, and also listen to this film's theme song as those chickens desperately try to get away.",
+            "review_date": "2020-12-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fantastic, magical, tense classic, superb cast and acting for the time. One of my favourite movies of all time. Must watch",
+            "review_date": "2019-10-08",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 9.5,
-    "rt_summary": "Imprisoned during World War II in a German POW camp, a group of Allied soldiers are intent on breaking out, not only to escape, but also to draw Nazi forces away from battle to search for fugitives. Among the prisoners determined to escape are American Captain Virgil Hilts (Steve McQueen) and British Squadron Leader Roger Bartlett (Richard Attenborough). Outwitting their captors by digging a tunnel out of the prison grounds, the soldiers find the stakes much higher when escape becomes a reality."
+    "rt_summary": "Imprisoned during World War II in a German POW camp, a group of Allied soldiers are intent on breaking out, not only to escape, but also to draw Nazi forces away from battle to search for fugitives. Among the prisoners determined to escape are American Captain Virgil Hilts (Steve McQueen) and British Squadron Leader Roger Bartlett (Richard Attenborough). Outwitting their captors by digging a tunnel out of the prison grounds, the soldiers find the stakes much higher when escape becomes a reality.",
+    "meta_rating": 8.4,
+    "meta_summary": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II."
 }

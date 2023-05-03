@@ -1,7 +1,7 @@
 {
     "rating": 8.1,
     "release_date": "1958-10-13",
-    "num_reviews": 400,
+    "num_reviews": 416,
     "genres": [
         "Drama",
         "Fantasy"
@@ -2611,6 +2611,36 @@
             "review_date": "2007-07-30",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "I don't think it is a bad movie at all, it's just not my cup of tea. Nonetheless I apreciate how original, intelligent and thought-provoking it is.",
+            "review_date": "2021-01-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The Seventh Seal is definitely an interesting film that deserves its status as a classic. Well-acted and directed. What made it intriguing for me was the main character's attempts to thwart off the personification of Death while also tryingThe Seventh Seal is definitely an interesting film that deserves its status as a classic. Well-acted and directed. What made it intriguing for me was the main character's attempts to thwart off the personification of Death while also trying desperately to figure out if there was life after death (so to speak).",
+            "review_date": "2021-03-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is certainly a quirky and surreal watch - a surprisingly watchable one. The plot doesn't exactly entirely make sense but it also doesn't entirely matter. I'd say there's an element of farce about it and it even features some (brief)This is certainly a quirky and surreal watch - a surprisingly watchable one. The plot doesn't exactly entirely make sense but it also doesn't entirely matter. I'd say there's an element of farce about it and it even features some (brief) toilet humour/references, which is surprisingly for a film of its age (it was released in the late 1950s).Its different to the usual black and white films I see or have seen but I thought it was surprisingly amusing and surreal, so its certainly an entertaining watch, even though it covers quite serious thematic material, mainly mortality. As the film went on, I felt more engrossed in the story and the characters, which has to be a good sign, hence my rating. The slow drum beats often present in the background help to add to the tension as well.I'd recommend this particularly to fans of quirky, classic (perhaps arthouse type) films I suppose - after all, who doesn't want to see a film with scenes featuring death playing chess? (I wonder if the Bill & Ted Bogus Journey film with a similar scene was taking the pee out of that? I bet you didn't expect to read 'Bill & Ted' in a review of a film such as this but, well, there you go!).",
+            "review_date": "2021-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "From its shrieking, opening music to an ending that leaves a thoughtful impact, Bergman paints an image of Sweden during a time when The Black Plague ran rampant and brought turmoil to its citizens. The film creates an environment that isFrom its shrieking, opening music to an ending that leaves a thoughtful impact, Bergman paints an image of Sweden during a time when The Black Plague ran rampant and brought turmoil to its citizens. The film creates an environment that is filled to the brim with cynicism with a hint of metaphors. The idea of life against death serves as only a subplot for a film that primarily focuses on how much stress the human psyche can handle. When all is unveiled, the film leaves you wanting more from its surprisingly short running time. Regardless, the film is dark, innovative, and smart. It is one of the most cynical films I have ever seen. For filmmakers, this film is a must-see.",
+            "review_date": "2021-08-21",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 8.3,
+    "meta_summary": "A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague."
 }

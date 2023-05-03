@@ -1,7 +1,7 @@
 {
     "rating": 4.0,
     "release_date": "1999-10-22",
-    "num_reviews": 243,
+    "num_reviews": 273,
     "genres": [
         "Horror",
         "Sci-Fi",
@@ -1447,8 +1447,45 @@
             "review_date": "2009-04-26",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nSome actors in the film, such as Dina Meyer, Ironically suffer from chiroptophobia or fear of bats. They were repulsed by the puppets and animatronics.",
+            "review_date": "2021-04-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "At the beginning of 1999, Destination Films opened its doors and was looking for a picture for a Halloween release. Bats was the company's first feature film.",
+            "review_date": "2021-04-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The production of the film had been planned to film the film in Mexico, where it would be much cheaper and cheaper to give a good profit to the budget but finally it was decided to film the film in the United States.",
+            "review_date": "2021-04-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is a real gem...no I take that back it is a (Lou) Diamond (Phillips)! As always The Diamond brings his \"A\" game to the role and owns it. He puts on that oversized sherriffs hat and you think WOW did he quit acting and take on a a This movie is a real gem...no I take that back it is a (Lou) Diamond (Phillips)! As always The Diamond brings his \"A\" game to the role and owns it. He puts on that oversized sherriffs hat and you think WOW did he quit acting and take on a a life of crime fighting. This is a must watch for anybody who wants to see a bunch of bats get handed some Texas justice Diamond style!",
+            "review_date": "2008-01-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nAudio/visual unsynchronised Laser and inkjet printers do not make the noise of a noisy dot matrix printer.",
+            "review_date": "2021-04-27",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 1.4,
-    "rt_summary": "When a population of bats in a small Texas town starts attacking the unsuspecting citizens, Dr. Sheila Casper (Dina Meyer), a zoologist specializing in the species, is called in to investigate. With the help of her assistant and the local sheriff (Lou Diamond Phillips), strange details about the bats begin to emerge: It's discovered that they are the product of a governmental experiment gone awry. With people dying and the military threatening to take action, a solution must be found."
+    "rt_summary": "When a population of bats in a small Texas town starts attacking the unsuspecting citizens, Dr. Sheila Casper (Dina Meyer), a zoologist specializing in the species, is called in to investigate. With the help of her assistant and the local sheriff (Lou Diamond Phillips), strange details about the bats begin to emerge: It's discovered that they are the product of a governmental experiment gone awry. With people dying and the military threatening to take action, a solution must be found.",
+    "meta_rating": 7.4,
+    "meta_summary": "Swarms of genetically altered bats blaze a path of terror through a sleepy Texas town. The only hope to stop the growing tide of devastation is a zoologist who studies bats (Meyer), her assistant (Leon), and the local sheriff (Phillips).  (Destination Films)"
 }

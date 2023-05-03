@@ -1,10 +1,11 @@
 {
     "rating": 0.0,
     "release_date": "1997-05-30",
-    "num_reviews": 110,
+    "num_reviews": 127,
     "genres": [
         "Drama",
-        "Romance"
+        "Romance",
+        "Comedy"
     ],
     "summary": "N/A",
     "reviews": [
@@ -707,6 +708,36 @@
             "review_date": "2008-04-06",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "An amazing film by the incredible director Wong Kar-Wai. Was completely transfixed by this study of love, sadness, relationship, queerness, and marginalization.",
+            "review_date": "2021-10-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is so beautiful, so fragile, so distinguish, so disorientated, so lonely and so sad",
+            "review_date": "2018-04-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A toxic relationship on the verge of self-destruction.It's simple, and at the same time it isn't.\nAt least not with Wong Kar-Wai. Even so, that doesn't mean that he was infallible, after all, this film has problems that don't get solved,A toxic relationship on the verge of self-destruction.It's simple, and at the same time it isn't.At least not with Wong Kar-Wai. Even so, that doesn't mean that he was infallible, after all, this film has problems that don't get solved, especially how unattractive the characters are.It's impossible to connect with them. Since either they show love, which is actually passion, or they're constantly attacking each other.It's a miserable relationship, I tell you that.They don't seem to work together, with some exceptions, yet their loneliness when apart consumes them.That's a bad combination, no matter where you look at it from, because the result will never be good.The result will not be healthy for either of them.Happy Together is an interesting and contemplative observation that is raised by the sure and concise hand of its director, together with the very good performances of its leading duo.But for me it was far from being a movie that grabs you in the first instance.It's more like one where you have to let it sink in slowly, although it may not be satisfying once you get to the end of the road.",
+            "review_date": "2021-06-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "my favorite wong kar wai film. so many layers and the best performance by Tony leung",
+            "review_date": "2021-07-12",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 8.0,
+    "meta_summary": "Yiu-Fai (Leung) and Po-Wing (Cheung) travel from Hong Kong to Argentina in an attempt to save their relationship."
 }

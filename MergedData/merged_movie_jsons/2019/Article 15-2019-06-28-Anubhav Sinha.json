@@ -1,11 +1,12 @@
 {
     "rating": 0.0,
     "release_date": "2019-06-28",
-    "num_reviews": 398,
+    "num_reviews": 401,
     "genres": [
         "Crime",
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Thriller"
     ],
     "summary": "N/A",
     "reviews": [
@@ -2627,5 +2628,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 5.8,
+    "meta_summary": "Set against the backdrop of Badaun gangrape and murder case (2014), Anubhav Sinha's Article 15 is a thrilling investigative drama based on true events."
 }

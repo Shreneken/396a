@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1980-10-10",
-    "num_reviews": 123,
+    "num_reviews": 133,
     "genres": [
         "Drama",
         "History",
@@ -702,5 +702,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 6.2,
+    "meta_summary": "A petty thief with an utter resemblance to a samurai warlord is hired as the lord's double. When the warlord later dies the thief is forced to take up arms in his place."
 }

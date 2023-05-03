@@ -4,7 +4,8 @@
     "num_reviews": 1212,
     "genres": [
         "Action",
-        "Drama"
+        "Drama",
+        "Adventure"
     ],
     "summary": "N/A",
     "reviews": [
@@ -7664,5 +7665,7 @@
         }
     ],
     "rt_rating": 9.7,
-    "rt_summary": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food. A giant battle occurs when 40 bandits attack the village."
+    "rt_summary": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food. A giant battle occurs when 40 bandits attack the village.",
+    "meta_rating": 8.8,
+    "meta_summary": "Seven Samurai (Shichinin no samurai) tells the story of a sixteenth-century village whose desperate inhabitants hire the eponymous warriors to protect them from invading bandits."
 }

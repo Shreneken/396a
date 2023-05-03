@@ -1,11 +1,12 @@
 {
     "rating": 0.0,
     "release_date": "2004-11-12",
-    "num_reviews": 846,
+    "num_reviews": 855,
     "genres": [
         "Drama",
         "Family",
-        "Musical"
+        "Musical",
+        "Romance"
     ],
     "summary": "N/A",
     "reviews": [
@@ -4772,8 +4773,38 @@
             "review_date": "2007-02-19",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best movies in the world.",
+            "review_date": "2006-08-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the Best love stories I have seen  with great songs and awesome background in scenes.\rSpeaks about never ending love between the 2 people which correctly explains what pure or true love is all about",
+            "review_date": "2013-07-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Veer-Zaara is very good and wonderfully romantic.  It's a lively, colorful, dramatic and tender movie.  ********************************************************",
+            "review_date": "2015-06-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I have seen one of the best movies in my life I Feel I Can Tell This Is My BEST Movie I Have Seen . this movie name is veer-zaara .The love that is defined in this film has not even happened in romance novels, an unattainable love, yet pureI have seen one of the best movies in my life I Feel I Can Tell This Is My BEST Movie I Have Seen . this movie name is veer-zaara .The love that is defined in this film has not even happened in romance novels, an unattainable love, yet pure and beautiful I did not understand it at once, but for the second time I recognized the masterpiece. veer - zaara is a romantic film a beautiful movie . movie full of funny moment . I personally like this movie very much. Shah Rukh Khan plays in this film very emotionally and beautifully and makes you feel like a real lover. It plays in the movie as if blood is in love with the blood vessels of its heart. I love her . And this film has a different story than the rest of Indian films. And for all these reasons, I will give a full score to this film .",
+            "review_date": "2018-11-16",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 8.8,
-    "rt_summary": "Squadron Leader Veer Pratap Singh, a pilot in the Indian air force, rescues the stranded Zaara, a woman from Pakistan, following a bus accident, and their lives are forever bound. With all the ingredients of a classic love story, the film is a tale of love, separation, courage and sacrifice that unfolds over 22 years."
+    "rt_summary": "Squadron Leader Veer Pratap Singh, a pilot in the Indian air force, rescues the stranded Zaara, a woman from Pakistan, following a bus accident, and their lives are forever bound. With all the ingredients of a classic love story, the film is a tale of love, separation, courage and sacrifice that unfolds over 22 years.",
+    "meta_rating": 7.6,
+    "meta_summary": "A saga of love, separation, courage and sacrifice. A love that is an inspiration and will remain a legend forever.  (Yash Raj Films)"
 }

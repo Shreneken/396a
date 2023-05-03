@@ -1,11 +1,12 @@
 {
     "rating": 0.0,
     "release_date": "2008-03-07",
-    "num_reviews": 71,
+    "num_reviews": 100,
     "genres": [
         "Adventure",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Family"
     ],
     "summary": "N/A",
     "reviews": [
@@ -358,6 +359,71 @@
             "review_date": "2022-08-21",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "The reviewers were wrong; it's a VERY good movie... had me constantly laughing... very funny.",
+            "review_date": "2008-08-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Okay, I heard this movie got bad reviews but who cares about those critics?! it has Martin Lawrence, Raven Symone and Donny Osmond! I love the movie and I'm going to see it in theatres.",
+            "review_date": "2008-03-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Really the critic are too bad. I saw this movie yesterday and it was too good. Raven did a good job. I don't know why they said it wasn't good. This is a cool movie. You must see the movie. Its Great!",
+            "review_date": "2009-02-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"The Cosby Show\" was something new before \"Something New\" was something new. Every Thursday night, America tuned in to a sitcom about affluent black people. Raven Symone was on that show. She was Olivia. \"College Road Trip\", in its own quiet \"The Cosby Show\" was something new before \"Something New\" was something new. Every Thursday night, America tuned in to a sitcom about affluent black people. Raven Symone was on that show. She was Olivia. \"College Road Trip\", in its own quiet way, pays homage to the Huxtables, since Melanie(Symone) wants to study law(Clair Huxtable(Phylicia Rashad) was an attorney). Melanie chooses between Northwestern and Georgetown. Most, if not all, movies about young black people with a dream, dream about being a basketball star, a singer, or a step-dancer. Black people go to college. But not in the movies. That's why Melanie's choice of lofty schools may take you aback. This is virgin territory. And how does \"College Road Trip\" handle its story about a matriculating black teen? Not very well. One word. Pig. They needed the pig because the filmmaker realized that dad's obsession with his daughter was starting to get creepy(e.g. Tony Danza in \"She's Out of Control\"). The pig doesn't save \"College Road Trip\". But Donny Osmond does. He's Neil Patrick Harris in \"Harold and Kumar go to White Castle\"-funny. For most of its running time, \"College Road Trip\" is either innocuous or schmaltzy. When Osmond and Molly Ephraim grace the screen, they hijack the film, as a tight-knit father and daughter unit from hell. By no stretch of the imagination is this witless road film any good. But you shouldn't dismiss \"College Road Trip\" so easily. When Chief James Porter(Martin Lawrence) and his wife give a couple, a white couple, advice about raising a child. That's something new. The film is colorblind. But we're not. If you watch a lot of movies, you'll understand that this role-reversal is quietly revelatory.",
+            "review_date": "2008-03-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie was TERRIBLE. so lame and NOT FUNNY, when I saw it in theaters the only thing that entertained me was the fact that my brother choked on his popcorn.",
+            "review_date": "2009-01-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Innocuous family comedy, enjoyable but unmemorable. Raven-Symone is good and Donny Osmond has a funny supporting role. Fun score.",
+            "review_date": "2008-07-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Martin Lawrence stars in this dim-witted, run-of-the mill, family friendly comedy that is weak and unfunny. Do not see this movie; let it fall into the 99 cents DVD bins at Kmart.",
+            "review_date": "2013-09-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The story was nothing special. The characters were actually great, and acted well. It feels like I watched it already somehow. It was good but forgettable.",
+            "review_date": "2017-06-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Another Martin Lawrence is not busting' and a weak plot. What is with the Martin Lawrence joints that don't click.",
+            "review_date": "2022-06-20",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 6.5,
+    "meta_summary": "Choosing which college to attend can be the most exciting and thrilling time of a young woman's life... unless your overprotective father isn't quite ready to let you go. In the Disney family comedy College Road Trip, Melanie is eagerly looking forward to her first big step toward independence when she plans a \"girls only\" road trip toChoosing which college to attend can be the most exciting and thrilling time of a young woman's life... unless your overprotective father isn't quite ready to let you go. In the Disney family comedy College Road Trip, Melanie is eagerly looking forward to her first big step toward independence when she plans a \"girls only\" road trip to check out prospective universities. But when her overbearing police-chief father insists on escorting her instead, she soon finds her dream trip has turned into a hilarious nightmare adventure full of comical misfortune and turmoil. (Walt Disney Pictures)\u2026 Expand"
 }

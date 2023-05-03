@@ -1,7 +1,7 @@
 {
     "rating": 7.9,
     "release_date": "2019-02-14",
-    "num_reviews": 489,
+    "num_reviews": 499,
     "genres": [
         "Drama",
         "Music",
@@ -3312,6 +3312,50 @@
             "review_date": "2019-03-10",
             "source": "imdb",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With plenty of catchy songs, stellar acting, skilful direction, and an energetic tone offsetting the by-the-numbers arc of its plot, \"Gully Boy\" is an absolute triumph.",
+            "review_date": "2019-02-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I find wanting to give this movie a good review but not being able to. The movie centers around Murad (played by Ranveer Singh) and his journey to actualize his passion for hip-hop music through dedication and talent. A premise that I wasI find wanting to give this movie a good review but not being able to. The movie centers around Murad (played by Ranveer Singh) and his journey to actualize his passion for hip-hop music through dedication and talent. A premise that I was very excited about but as the movie started and we start seeing possible points of conflict and tension the story rips them out and hands Murad easy solutions to his problems. Murad's world is one where talented people are neglected for their status in life and when they set out to achieve their goals they are shot down and told time and again that it isn't their lot in life. This, I believe, is the message the writers are trying to get across to the audience but instead of showing this narrative through the actions of the world around Murad, the writers resort to a few scenes here and there where it is explicitly told to him all the while people keep providing him the space, time, money, and all around support for him to be successful. The music was sharply written and the acting was wonderfully done. Where the movie falls flat on its face is in the attempt to reconcile its worldview and the personal challenges of its leading character.",
+            "review_date": "2019-03-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis Movie Spreads Positivity And Motivates Youngsters Who Really Wanna Achieve In Life ! Murad Is The Representative Of All The Youngsters Who Have Talents But Not The Money ! Murad's Rap Partner Is My Favourite Character ! The Murad's Drug Dealing Friend Shows Us An Unique Way Of Writing As We Cant Judge Him ! Every Character Tells Us A Story About Society ! Murad's Mom Speaks Feminism ! His Dad Speaks Male Dominance ! Alia Bhatt Speaks A Love Of Poor And The Loyalty In Love ! The Music Work Was Awesome ! The Camera Work At Its Best ! Especially The One Shot Takes ! The Negative Is They Only Show The Ignorance For Murad But Not The Struggle He Went Through To Win ! So He Wont Be Remembered Longer ! My Opinion Is Gully Boy Can Win Awards But Not Oscar ! There Are Also Other Better Movies From India !",
+            "review_date": "2019-09-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Although there may be some length pacing issues, the director nevertheless meticulously documented the metamorphosis from Murad to Gully Boy, eventually delivering an uplifting narrative.",
+            "review_date": "2022-04-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This predictable and implausible rags-to-riches story choked me up. Portraying a slum of Mumbai amplified the drama.",
+            "review_date": "2021-04-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Without any doubt the best Indian film of 2019.And a perfect oscar contender from India.",
+            "review_date": "2022-11-21",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 8.2,
+    "meta_summary": "A coming-of-age story based on the lives of street rappers in Mumbai."
 }

@@ -3,7 +3,8 @@
     "release_date": "1966-11-15",
     "num_reviews": 877,
     "genres": [
-        "Horror"
+        "Horror",
+        "Drama"
     ],
     "summary": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
     "reviews": [
@@ -5811,5 +5812,7 @@
         }
     ],
     "rt_rating": 2.0,
-    "rt_summary": "While on a desert excursion, a family encounters cultists who use human hands as sacrificial offerings to their god."
+    "rt_summary": "While on a desert excursion, a family encounters cultists who use human hands as sacrificial offerings to their god.",
+    "meta_rating": "tbd",
+    "meta_summary": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo."
 }

@@ -1,11 +1,12 @@
 {
     "rating": 7.8,
     "release_date": "1990-02-16",
-    "num_reviews": 494,
+    "num_reviews": 507,
     "genres": [
         "Biography",
         "Drama",
-        "History"
+        "History",
+        "War"
     ],
     "summary": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.",
     "reviews": [
@@ -3319,6 +3320,15 @@
             "review_date": "2003-08-18",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "The Best Civil War movie of all time.  And one of the top 5 war movies of all time.  \"Glory\" doesn't get the credit it deserves.  It actually gives you an idea of what it is like to have something to die for.",
+            "review_date": "2023-01-23",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 7.1,
+    "meta_summary": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates."
 }

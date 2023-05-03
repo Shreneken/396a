@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "2000-04-28",
-    "num_reviews": 142,
+    "num_reviews": 162,
     "genres": [
         "Comedy",
         "Family",
@@ -875,8 +875,38 @@
             "review_date": "2014-02-09",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "not enjoyable, but not that terrible.",
+            "review_date": "2010-11-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I see where and why this film coped a lot of slack but I honestly enjoyed it just as much as I did when I was a kid. Sure the first live-action Flintstones film was better but this one is still highly entertaining and certainly stays true toI see where and why this film coped a lot of slack but I honestly enjoyed it just as much as I did when I was a kid. Sure the first live-action Flintstones film was better but this one is still highly entertaining and certainly stays true to the cartoon in a lot of ways. There are a lot of funny witty jokes that really make the film as well as just being a bright colourful film to watch. Corny, yes and quite a bit too, but not in a way that ruins the movie, but some won't like it others will.",
+            "review_date": "2013-06-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Even Worse Than The 94 MovieWith mediocre performances, Pretty bad humour, and overall boring, Viva Rock Vegas is not a \u201crockin\u201d good time.",
+            "review_date": "2020-08-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I always liked the \"Flintstones\" cartoon and I was able to appreciate some aspects of the 1994 live-action movie. However, this movie was a disgrace in every details. Running as a prequel to the first film and the cartoon itself, it shows howI always liked the \"Flintstones\" cartoon and I was able to appreciate some aspects of the 1994 live-action movie. However, this movie was a disgrace in every details. Running as a prequel to the first film and the cartoon itself, it shows how the four main characters (Flintstones and Rubbles) met and married, after a trip to the city of Rock Vegas (the equivalent, in the movie and Flintstones world, to the city of Las Vegas, of course). But the thing that really make me mad in this movie, personally, was that silly, green character, that seems to have come out of the \"Jetsons\" (another Hanna-Barbera cartoon). He was permanently out of context, his existence has been poorly explained by the plot and he only served to try to make totally empty jokes. I wanted to drown that alien several times while watching the movie.If the 1994 movie had already revealed several fragilities, beginning with an all-too-adult plot for a children-oriented film, this movie completely misses any attempt to improve these faults. The plot is miserably poor, which is probably the result of poor scriptwriting choices and the subliminal, lousy, intention of extorting some more box office money (we cannot forget the huge box-office success that the first film was). A bad choice: the public wisely didn't pay to watch this piece of trash. Dried jokes, a bad plot, poor acting, bad construction of characters, far-fetched props and sets, a tiring cinematography and a cast that did an absolutely painstaking job. For all this, this is one of the worst family movies I've ever seen.",
+            "review_date": "2018-08-24",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 2.0,
-    "rt_summary": "Fred Flintstone, the boy from the wrong side of the rocks, courts the beautiful, young heiress Wilma Slaghoople. Along with best friend Barney Rubble, and his future fiancee Betty, Fred and Wilma head off for a romantic weekend in Rock Vegas, the hottest rock resort on the continent."
+    "rt_summary": "Fred Flintstone, the boy from the wrong side of the rocks, courts the beautiful, young heiress Wilma Slaghoople. Along with best friend Barney Rubble, and his future fiancee Betty, Fred and Wilma head off for a romantic weekend in Rock Vegas, the hottest rock resort on the continent.",
+    "meta_rating": 4.3,
+    "meta_summary": "The Flintstones and the Rubbles go on vacation to Rock Vegas, where Wilma is pursued by a playboy. This is a live-action prequel to 1994's \"The Flintstones.\""
 }

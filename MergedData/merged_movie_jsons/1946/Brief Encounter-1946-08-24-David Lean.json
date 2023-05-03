@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1946-08-24",
-    "num_reviews": 326,
+    "num_reviews": 341,
     "genres": [
         "Drama",
         "Romance"
@@ -2159,8 +2159,24 @@
             "review_date": "2014-08-31",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is quite a daydreamy type film. It seemed like I was listening to someone read their diary (journal) aloud. It's a bit slow in terms of plot pace but to be fair it's certainly somewhat immersive/atmospheric. I thought it had a nice useThis is quite a daydreamy type film. It seemed like I was listening to someone read their diary (journal) aloud. It's a bit slow in terms of plot pace but to be fair it's certainly somewhat immersive/atmospheric. I thought it had a nice use of orchestral music, which adds to the atmosphere. As a bit of escapism, its good and I enjoyed it overall - indeed I found myself rooting for the main female character, wondering what would happen next and if things would work out between them so yes, I'd recommend it.",
+            "review_date": "2021-11-21",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the best British and Romantic films of all time and has aged very well.Keep a box of tissues nearby, this ones a tearjerker.",
+            "review_date": "2020-09-08",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 9.1,
-    "rt_summary": "Returning home from a shopping trip to a nearby town, bored suburban housewife Laura Jesson (Celia Johnson) is thrown by happenstance into an acquaintance with virtuous doctor Alec Harvey (Trevor Howard). Their casual friendship soon develops during their weekly visits into something more emotionally fulfilling than either expected, and they must wrestle with the potential havoc their deepening relationship would have on their lives and the lives of those they love."
+    "rt_summary": "Returning home from a shopping trip to a nearby town, bored suburban housewife Laura Jesson (Celia Johnson) is thrown by happenstance into an acquaintance with virtuous doctor Alec Harvey (Trevor Howard). Their casual friendship soon develops during their weekly visits into something more emotionally fulfilling than either expected, and they must wrestle with the potential havoc their deepening relationship would have on their lives and the lives of those they love.",
+    "meta_rating": 7.6,
+    "meta_summary": "Meeting a stranger in a railway station, a woman is tempted to cheat on her husband."
 }

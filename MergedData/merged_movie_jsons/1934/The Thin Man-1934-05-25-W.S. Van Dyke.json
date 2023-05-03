@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1934-05-25",
-    "num_reviews": 175,
+    "num_reviews": 187,
     "genres": [
         "Comedy",
         "Crime",
@@ -1058,6 +1058,15 @@
             "review_date": "2021-03-10",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "A surprisingly fun movie, very funny, and worth the rewatch. A sci-fi, comedy, murder mystery, very unique for today, let alone 1930s.",
+            "review_date": "2022-09-15",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 7.6,
+    "meta_summary": "Former detective Nick Charles and his wealthy wife Nora investigate a murder case, mostly for the fun of it."
 }

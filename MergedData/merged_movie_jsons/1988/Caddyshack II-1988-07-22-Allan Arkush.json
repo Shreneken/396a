@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1988-07-22",
-    "num_reviews": 175,
+    "num_reviews": 183,
     "genres": [
         "Comedy",
         "Sport"
@@ -1115,8 +1115,24 @@
             "review_date": "2012-01-26",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really enjoyed the first 30 minutes of \u201cCaddyshack II\u201d.  There were a lot of fun comedic bits and it even has a good message; however, the rest of the movie kind of drags.  Not unwatchably bad, just not that great.  As a PG movie, I'dI really enjoyed the first 30 minutes of \u201cCaddyshack II\u201d.  There were a lot of fun comedic bits and it even has a good message; however, the rest of the movie kind of drags.  Not unwatchably bad, just not that great.  As a PG movie, I'd recommend this if you have a young kid around and you are looking for something to watch together.  I think this movie gets a worse rep than it deserves because it is not the same kind of movie as the original \u201cCaddyshack\u201d.  The sequal is more about delivering a positive message that is geared at kids, rather than being the raunchy R rated comedy of the first one.  I give it a C, if you've already seen the best, but you insist on watching a movie, try this one out.",
+            "review_date": "2021-08-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Garish costumes, lame wisecracks, a substandard replacement for Rodney Dangerfield, all make for a ludicrous example of 1980s comedy.  What a pathetic sequel to a great comedy.",
+            "review_date": "2020-06-05",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 1.7,
-    "rt_summary": "Jack Hartounian (Jackie Mason), a boorish but good-hearted real estate tycoon, applies for membership at a snooty country club, but is blackballed by the old-money WASPs, led by Chandler Young (Robert Stack). As revenge, he simply buys the club outright and turns it into a garish amusement park. Chandler wants to win the property back by challenging Jack to a golf match, but he hedges his bets by hiring deranged mercenary Tom Everett (Dan Aykroyd) to eliminate his competition."
+    "rt_summary": "Jack Hartounian (Jackie Mason), a boorish but good-hearted real estate tycoon, applies for membership at a snooty country club, but is blackballed by the old-money WASPs, led by Chandler Young (Robert Stack). As revenge, he simply buys the club outright and turns it into a garish amusement park. Chandler wants to win the property back by challenging Jack to a golf match, but he hedges his bets by hiring deranged mercenary Tom Everett (Dan Aykroyd) to eliminate his competition.",
+    "meta_rating": 6.4,
+    "meta_summary": "When a crass new-money tycoon's membership application is turned down at a snooty country club, he retaliates by buying the club and turning it into a tacky amusement park."
 }

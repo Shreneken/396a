@@ -1,9 +1,10 @@
 {
     "rating": 7.7,
     "release_date": "1967-10-26",
-    "num_reviews": 291,
+    "num_reviews": 300,
     "genres": [
-        "Thriller"
+        "Thriller",
+        "Horror"
     ],
     "summary": "A recently blinded woman is terrorized by a trio of thugs while they search for a heroin-stuffed doll they believe is in her apartment.",
     "reviews": [
@@ -1808,8 +1809,17 @@
             "review_date": "2014-03-29",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Slightly wobbly shots but nice colour and solid sound even if there is only one channel. Impressive for the time. It is psychological. Because she is blind it is far scarier. There is an exciting ending and great story development along theSlightly wobbly shots but nice colour and solid sound even if there is only one channel. Impressive for the time. It is psychological. Because she is blind it is far scarier. There is an exciting ending and great story development along the way. Quite entertaining but not really scary. It doesn't make you jump - more think about it and put yourself in the scary situation. A good solid thriller well worth a watch and a think.",
+            "review_date": "2022-02-16",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 9.1,
-    "rt_summary": "After a flight back home, Sam Hendrix (Efrem Zimbalist Jr.) returns with a doll he innocently acquired along the way. As it turns out, the doll is actually stuffed with heroin, and a group of criminals led by the ruthless Roat (Alan Arkin) has followed Hendrix back to his place to retrieve it. When Hendrix leaves for business, the crooks make their move -- and find his blind wife, Susy (Audrey Hepburn), alone in the apartment. Soon, a life-threatening game begins between Susy and the thugs."
+    "rt_summary": "After a flight back home, Sam Hendrix (Efrem Zimbalist Jr.) returns with a doll he innocently acquired along the way. As it turns out, the doll is actually stuffed with heroin, and a group of criminals led by the ruthless Roat (Alan Arkin) has followed Hendrix back to his place to retrieve it. When Hendrix leaves for business, the crooks make their move -- and find his blind wife, Susy (Audrey Hepburn), alone in the apartment. Soon, a life-threatening game begins between Susy and the thugs.",
+    "meta_rating": 7.0,
+    "meta_summary": "A recently blinded woman is terrorized by a trio of thugs while they search for a heroin-stuffed doll they believe is in her apartment."
 }

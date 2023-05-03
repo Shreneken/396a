@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1948-09-17",
-    "num_reviews": 221,
+    "num_reviews": 232,
     "genres": [
         "Drama",
         "Western"
@@ -1408,5 +1408,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": "tbd",
+    "meta_summary": "Dunson leads a cattle drive, the culmination of over 14 years of work, to its destination in Missouri. But his tyrannical behavior along the way causes a mutiny, led by his adopted son."
 }

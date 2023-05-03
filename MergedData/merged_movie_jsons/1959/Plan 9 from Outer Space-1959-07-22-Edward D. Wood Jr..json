@@ -1,7 +1,7 @@
 {
     "rating": 3.9,
     "release_date": "1959-07-22",
-    "num_reviews": 541,
+    "num_reviews": 553,
     "genres": [
         "Horror",
         "Sci-Fi"
@@ -3641,5 +3641,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 4.5,
+    "meta_summary": "Evil aliens attack Earth and set their terrible \"Plan 9\" into action. As the aliens resurrect the dead of the Earth, the lives of the living are in danger."
 }

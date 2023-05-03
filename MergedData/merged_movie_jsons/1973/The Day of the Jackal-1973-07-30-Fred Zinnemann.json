@@ -1,7 +1,7 @@
 {
     "rating": 7.8,
     "release_date": "1973-07-30",
-    "num_reviews": 749,
+    "num_reviews": 758,
     "genres": [
         "Crime",
         "Drama",
@@ -4522,8 +4522,17 @@
             "review_date": "2007-01-31",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Based on book written by Frederick Forsyth, is an effective thriller about the desperate manhunt for stop the efforts of a nameless chameleon hitman, which target is the current (60s) President of France. The plot takes all times required butBased on book written by Frederick Forsyth, is an effective thriller about the desperate manhunt for stop the efforts of a nameless chameleon hitman, which target is the current (60s) President of France. The plot takes all times required but the dose of suspense is adequate till last minute.",
+            "review_date": "2019-06-23",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 8.8,
-    "rt_summary": "An underground French paramilitary group is intent on eliminating President Charles de Gaulle (Adrien Cayla-Legrand), but when numerous attempts on his life fail, they resort to hiring the infamous hit man known as \"The Jackal\" (Edward Fox). As the enigmatic assassin prepares to shoot de Gaulle, he takes out any problematic people along the way. Meanwhile, Lebel (Michel Lonsdale), a savvy Parisian police detective, begins to solve the mystery of the killer's identity."
+    "rt_summary": "An underground French paramilitary group is intent on eliminating President Charles de Gaulle (Adrien Cayla-Legrand), but when numerous attempts on his life fail, they resort to hiring the infamous hit man known as \"The Jackal\" (Edward Fox). As the enigmatic assassin prepares to shoot de Gaulle, he takes out any problematic people along the way. Meanwhile, Lebel (Michel Lonsdale), a savvy Parisian police detective, begins to solve the mystery of the killer's identity.",
+    "meta_rating": 7.4,
+    "meta_summary": "A professional assassin codenamed \"Jackal\" plots to kill Charles de Gaulle, the President of France."
 }

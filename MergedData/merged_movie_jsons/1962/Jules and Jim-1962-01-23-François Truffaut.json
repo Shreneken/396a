@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1962-01-23",
-    "num_reviews": 322,
+    "num_reviews": 341,
     "genres": [
         "Drama",
         "Romance"
@@ -1967,8 +1967,31 @@
             "review_date": "2010-04-07",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "One of the all-time greats... Jeane Moreau is fantastic, as always - though I did love her in La Femme Nikita, maybe more",
+            "review_date": "2020-10-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I have heard that Jules and Jim is considered one of Fran\u00e7ois Truffaut's best films and at least in my opinion I can declare that it's true, especially because as it progresses it begins to change the game, especially with its ending. HerI have heard that Jules and Jim is considered one of Fran\u00e7ois Truffaut's best films and at least in my opinion I can declare that it's true, especially because as it progresses it begins to change the game, especially with its ending. Her smile and his face before falling was heartbreaking.Marvelous film.",
+            "review_date": "2022-09-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "THE 400 BLOWS REVIEW (IDK WHY THE FILM AIN'T IN METACRITIC)The 400 blows is a pleasant and accesible film to begin with nouvelle vague. Fran\u00e7ois Truffaut's great screenplay and floating camerawork make the movie flow. It's ending truely isTHE 400 BLOWS REVIEW (IDK WHY THE FILM AIN'T IN METACRITIC)The 400 blows is a pleasant and accesible film to begin with nouvelle vague. Fran\u00e7ois Truffaut's great screenplay and floating camerawork make the movie flow. It's ending truely is enigmatic although I gotta admit that I didn't understand it on my first watch.I hate every single adult in this film.",
+            "review_date": "2022-04-22",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 8.9,
-    "rt_summary": "In the carefree days before World War I, introverted Austrian author Jules (Oskar Werner) strikes up a friendship with the exuberant Frenchman Jim (Henri Serre). Both men fall for the impulsive and beautiful Catherine (Jeanne Moreau), but it's Jules who wins her hand. After the war, Jim visits Jules, Catherine and their daughter in their Austrian home and discovers not only that his feelings for Catherine are unchanged, but also that they're reciprocated."
+    "rt_summary": "In the carefree days before World War I, introverted Austrian author Jules (Oskar Werner) strikes up a friendship with the exuberant Frenchman Jim (Henri Serre). Both men fall for the impulsive and beautiful Catherine (Jeanne Moreau), but it's Jules who wins her hand. After the war, Jim visits Jules, Catherine and their daughter in their Austrian home and discovers not only that his feelings for Catherine are unchanged, but also that they're reciprocated.",
+    "meta_rating": 6.5,
+    "meta_summary": "Decades of a love triangle concerning two friends and an impulsive woman."
 }

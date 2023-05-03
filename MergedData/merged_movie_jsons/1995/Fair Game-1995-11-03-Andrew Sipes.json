@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1995-11-03",
-    "num_reviews": 69,
+    "num_reviews": 81,
     "genres": [
         "Action",
         "Romance",
@@ -359,5 +359,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 5.9,
+    "meta_summary": "A dedicated family attorney becomes the target of an assassination plot. Her only protector is a detective who can't resist her charms. (Warner Brothers)"
 }

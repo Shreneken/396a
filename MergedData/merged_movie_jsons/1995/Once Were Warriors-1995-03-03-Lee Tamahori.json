@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1995-03-03",
-    "num_reviews": 322,
+    "num_reviews": 341,
     "genres": [
         "Crime",
         "Drama"
@@ -2079,6 +2079,15 @@
             "review_date": "2009-02-10",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "Very heavy and hard to watch movie. However it tells a great and powerful story with some of the best performances in a movie. Honestly surprised it didn\u2019t get an Oscar. However do keep in mind it is not for everyone, as it has very realisticVery heavy and hard to watch movie. However it tells a great and powerful story with some of the best performances in a movie. Honestly surprised it didn\u2019t get an Oscar. However do keep in mind it is not for everyone, as it has very realistic violence and rape.",
+            "review_date": "2023-02-10",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": "tbd",
+    "meta_summary": "A family descended from Maori warriors is bedeviled by a violent father and the societal problems of being treated as outcasts."
 }

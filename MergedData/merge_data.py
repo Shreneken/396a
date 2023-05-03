@@ -1,3 +1,4 @@
+import re
 import os 
 import json
 import shutil
@@ -39,38 +40,52 @@ def merge_only_meta_and_rt():
                         with open(f'{merged_src_path}/{date_dir}/{movie_file}', 'w') as curr3:
                             json.dump(curr_data, curr3, indent=4)
                     except:
+                        print(f"Error with {date_dir}/{movie_file}")
                         continue
 
 
 def add_from_src(src):
     src_path = rt_src_path if src=='rt' else metacritic_src_path if src =='meta' else 'INVALID'
+    print(src_path)
+    count = 0
     if src_path == 'INVALID': return print('INVALID')
     for date_dir in os.listdir(merged_src_path):  
         for movie_file in os.listdir(f'{merged_src_path}/{date_dir}'):
             with open(f'{merged_src_path}/{date_dir}/{movie_file}', 'r') as curr1:
-                print(f'{merged_src_path}/{date_dir}/{movie_file}')
+                # print(f'{merged_src_path}/{date_dir}/{movie_file}')
                 curr_data = json.load(curr1)
             try:
-                with open(f'{src_path}/{date_dir}/{movie_file}', 'r') as curr2:
+                src_movie = 'INVALID'
+                for src_movies in os.listdir(f'{src_path}/{date_dir}'):
+                    if len(re.findall(movie_file.split('-')[0],src_movies)) > 0:
+                        src_movie = src_movies
+                if src_movie == 'INVALID': continue
+                if src=='meta': print(f'{src_path}/{date_dir}/{src_movie}')
+                with open(f'{src_path}/{date_dir}/{src_movie}', 'r') as curr2:
                     src_data = json.load(curr2)
                 curr_data[f'{src}_rating'] = src_data['rating']
                 curr_data['num_reviews'] += src_data['num_reviews']
                 # Avoiding for RT due to languages considered in genre: 
                 if src != 'rt':
-                    curr_data['genres'].extend([genre for genre in src_data['genres'] if genre not in curr_data['genres']])
+                    curr_data['genres'].extend([genre for genre in src_data['genre'] if genre not in curr_data['genres']])
                 curr_data[f'{src}_summary'] = src_data['summary']
                 curr_data['reviews'].extend(src_data['reviews'])
                 with open(f'{merged_src_path}/{date_dir}/{movie_file}', 'w') as curr3:
                     json.dump(curr_data, curr3, indent=4)
-            except:
+            except Exception as e:
+                print(f"Error with {src_path}/{date_dir}/{movie_file}")
+                print(f"Error is {e}")
+                count +=1
                 continue
                 
+    print(f'{src=},error {count=}')
 
 if __name__ == '__main__':
-    # copy_from_imdb()
-    # add_from_src('rt')
-    # add_from_src('meta')
-    # get_from_rt()
-    # merge_only_meta_and_rt()
+    copy_from_imdb()
+    add_from_src('rt')
+    add_from_src('meta')
+    get_from_meta()
+    get_from_rt()
+    merge_only_meta_and_rt()
     print('Already Merged Successfully!')
 

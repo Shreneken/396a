@@ -1,11 +1,561 @@
 {
     "rating": 0.0,
     "release_date": "2001-05-16",
-    "num_reviews": 0,
+    "num_reviews": 113,
     "genres": [
         "Short",
-        "Comedy"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "summary": "N/A",
-    "reviews": []
+    "reviews": [
+        {
+            "content": "A visual master piece with simple and effective story telling. The shot composition is incredible, the performances stiff but effective and more suggestive than expressive. \nGreat film a must watch for any film student.",
+            "review_date": "2023-03-22",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "it's a very unique and slow building you cannot help and be fascinated by it",
+            "review_date": "2023-02-14",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "\"| Ratings Categories |\n{Characters (8.5/10) ; Cinematography (10/10) ; Plot (9/10) ; Acting (9/10) ; Pacing (8.5/10) = 90%}\"",
+            "review_date": "2023-02-03",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "An absolute masterpiece. A sumptuous feast for the eyes, and a turbulent, searing voyage for the heart. The premise is interesting, the setting is palpable, the characters are masterfully presented (or not presented as the case may be), the pace is precisely the right speed. The score is excellent and the main original song is catchy and well-matched to the drama, as well as a couple of other songs noticeably matched perfectly to the scene. You will find yourself immediately in the hands of a master, and you'll wonder how all cinema is not like this. Wong Kar-Wai uses a color pallete and close, intimate shots to do much of the work of setting the tone and feel of the film, which is a profound longing amid a kind of despair at being betrayed. \n\n*Spoilers*: In a masterful coda before a final ruminatory scene at Angkor Wat Temple, we see the subsequent visits to the apartment building in Hong Kong years later.  Mrs. Chan is shown \nas a single mother with a son, suggesting at least to this viewer that the love affair and offstage final night spent together between her and Mr. Chow was a sexual encounter that resulted in a pregnancy. Later when Mr. Chow shows up to check on the apartment and discovers that \"a woman\" who he suspects is Mrs. Chan is living alone with their child (we have seen her seeming happier--though still longing--wearing her hair down and wearing a less formal dress than we have seen before in the film), which he never knew existed. He smiles and pauses at her door on the way out as if thinking about knocking, but decides to leave them alone. Their friendship and strange secret--but pure--romance created life. Likewise in the final scenes at the Angkor Wat Temple in Cambodia, we see that Mr. Chow's secrets are being whispered into a gouge of rock and covers it with mud to keep it safe forever, per the old folktale of the region. A few frames later we see that a snarl of grass is growing where he covered his secret with mud, alive against all odds. This is partly a reflection of how a secret, like the secret friendship with Mrs. Chan and their secret rehearsals and conversations, can be healing and life-giving.",
+            "review_date": "2023-01-17",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Very well-directed, full of symbols, gorgeous camera angles",
+            "review_date": "2023-01-01",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "\"In the Mood for Love\" is a movie that is technically very beautiful. Every frame of this movie is astoundingly impressive to look at and the use of color and angles is worth noting. I think the romance story it tries to tell is subtle but ultimately memorable. I was more impressed by the camera work than the story itself since I didn't find the story particularly exciting. The performances and other technical aspects make it clear that this is a movie film lovers will appreciate, but as far as romance movies go, this one might be very real, but I wouldn't go as far as calling it one of my favorites. Overall, it is a well-made movie with a decent story and gorgeous camerawork.",
+            "review_date": "2022-12-26",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Wong Kar Wai's romantic artpiece \"In The Mood For Love\", proves that romantic dramedies can be more than the love it presents, but a gem of self discovery",
+            "review_date": "2022-12-19",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "This movie illustrates sadness about getting cheated on on a new level. It focusses on the characters and shows how people can grow together just because they are in the same boat. \nAll the shots are perfect, you could use all the frames as a cool wallpaper and thats what i expect from a Wong Kar-Wai movie.",
+            "review_date": "2022-12-07",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Absolutely cinematic. Legendary film making exhibited here.",
+            "review_date": "2022-11-29",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I always heard a lot about this movie but never got around to watching it. It is a slow and complex tale of human relationships which leaves you with so many amazing flavors after one is done tasting it that I cant stop thinking about it. Another great watch.",
+            "review_date": "2022-11-14",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Emotionally powerful film about a tale of unfulfilled desires. The style, aesthetics, music, impactful.",
+            "review_date": "2022-08-26",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Well made as far as cinematography goes, but does not live up to the hype of a 'classic' due to pathetic story, acting etc.",
+            "review_date": "2022-08-25",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Incredibly beautiful and strange in a good way melodrama! Be sure to familiarize yourself!",
+            "review_date": "2022-08-01",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Read about how critically acclaimed this film was, and I've recently been wanting to try a Chinese film and I feel this was a good place to start.\n\nThe movie is in some sense a love story, but takes time to build up into what the movie intends to achieve. I liked the performances of the two lead actors, and and dialogues are crisp and don't really bore you. The soundtrack feels redundant at times but is still decent enough.\n\nThe premise is interesting but for some viewers, it could leave you wanting more at the end. It's a movie where less is more, and while the ending is a nice diversion from a standard ending, something else could've been done at the end. All in all a good experience!",
+            "review_date": "2022-06-09",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "It's the mood for love not the \"love\", so watch out. 4/10",
+            "review_date": "2022-06-05",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Wong reinvents Romanticism.\nThe delicacy with which he depicts the subdued emotions of the two protagonists gives life to a poetic romance that sublimates the idea of love.\n\"In the Mood for Love\", despite the long gestation period of almost two years, is less dynamic and confused than Wong's previous works, but has a more solid narrative and a more disciplined mise-en-sc\u00e8ne.\nWith epiphanic enthusiasm, the camera slides slowly through the corridors, peers voyeuristically by the mirrors, moves sensual between the curtains; contemplating the inexorable passage of time.\nIt is precisely in the circularity of time that Wong's seventh effort finds its balance. Time that reveals itself repeatedly throughout the film: literally with the continuous insert shots of clocks and cigarettes, abstractly with the weightless slow motions and the evanescent motion blur of Doyle's cinematography.\nChow and Su's tormented mel\u00f2 collapses when they realize what they feel about each other. So, they flee, perhaps because basically it is always the ideal of love that the two protagonists are in love with. The metaphysical vision of love, uncontaminated and intimist, which in the incompleteness of their desires remains forever suspended in time, ethereal and immortal.\n\"In the Mood for Love\" is made up of hesitant glances and suppressed caresses, in a turbid whirl of regret and passion.\nIt is a love story that never blossoms, but basks in its indecision, forced to remain a secret buried for millenniums in the prison of one's heart.\nWithout a doubt, Wong's highest aesthetic and narrative achievement and one of the best films of the 21st century.",
+            "review_date": "2022-05-22",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "A sad, intimate, and beautifully shot love story.",
+            "review_date": "2022-04-28",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Nevertheless, I demand different endings!!!!! argghh **criess**",
+            "review_date": "2022-04-09",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Snore. If you have falling asleep, this is for you! Dark, dark, moody, and very very slow. Choppy editing. We couldn\u2019t finish it. We love movies, but not this one. ",
+            "review_date": "2022-04-05",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Inject doomed lover stories right into my veins!\n\nBut seriously, some of most breathtakingly mesmerizing fusions of cinematography and music. An absolutely perfect sense of longing and loneliness is captured by the slow-motion traversal of a noodle shop staircase with those strings from the main score playing over it. And that coda for Tony Leung's character? Shockingly beautiful and devastating.",
+            "review_date": "2022-03-16",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "A breathtakingly beautiful film. Watched on Feb 8, 2022.",
+            "review_date": "2022-02-08",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "This is a delicate film, as if \"love\" itself was a brittle piece of Venetian glass. Su Li-zhen (Maggie Cheung) and Chow Mo-wan (Tony Leung) have a couple of things in common: they live adjacent to each other in the same apartment (kind of like a rooming house?) building and their spouses are cheating on them with each other. The plot follows Su and Chow as they grow from a platonic friendship \u2014 which feels more out of necessity, to ward off loneliness \u2014 to something more. The surroundings are tight \u2014 cramped hallways, small bedrooms, alleyways filled with customers and workers, it is Hong Kong, after all. Our protags are subdued, polite, and you want them to get nice and good and mad. Other than a couple of moments of unrestricted painful emotion, Su and Chow take their spouses' infidelity on the chin. The timing isn't right for them because it can't be right for them, it wouldn't make as touching a movie. Their style is defined by early 1960s glory. The recurring slow-motion shots \u2014 including the notable \"Corridor Glance\" \u2014 set to \"Yumeji's Theme\" highlight the runtime, which is shot on film and it shows. I'd known about the sentimental final sequence, as it's rightfully lauded, and wasn't disappointed as it appeared before me. Simply, it's gorgeous. Wong Kar-wai's In the Mood for Love is a must-see for cinephiles, and while it may be too slow or not exciting enough for a general audience, I'd recommend anyone give it a try.",
+            "review_date": "2022-02-02",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "One of the most if not most overrated films of all time. Visually striking and I enjoyed the musical soundtrack, (although overdone). I really enjoyed her costumes as well and main actress is beautiful. I also liked when there was dialogue and some of the symbolism-at the end with the tree. The acting was ok, if a bit stoic like many Asian films. The problem is the dialogue didn't compensate, so it was hard to know wth was going on. Movie moves extremely slow n tedious as well, and I wasn't sure about main themes before looking them up. For instance, where they sleeping together-i guess not. Also, somehow we are supposed to know the women and son next door are the main actress n her son? A movie for the critics-the worst kind.",
+            "review_date": "2022-01-17",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "A thoroughly captivating and complicated doomed love affair beautifully shot.",
+            "review_date": "2021-12-31",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Every shot is sheer poetry.",
+            "review_date": "2021-12-28",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I loved the dreamy and mysterious atmosphere. I enjoyed the colors (red & green), music and the whole visual aspect of the movie. But again what really bothers me with these visually beautiful movies is the plot.  The plot of this movie was quite predictable and a bit boring, but it had its good moments also.",
+            "review_date": "2021-12-18",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "When Chow Mo-wan realizes that his wife is having an affair with the next-door neighbor, he develops a tightly knit relationship with the neighbor's wife, Su Li-zhen.  Despite the fact that romance begins to blossom between the two, they manage to repress their feelings in an effort to not lower themselves to the level of their unfaithful spouses.  In the Mood for Love is a story of a mutually agreed upon unrequited love, beautifully shot with a rich color palette, beautifully written and subtly acted, where the actors express more through stolen glances and gentle touches than they do through dialogue.  The emotions explored are heart-breaking and the feelings evoked are unforgettable.",
+            "review_date": "2021-11-17",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "A bitter-sweet romance.  It's quiet, understated, but ultimately powerful.  Beautiful photography and visuals.  Brilliant acting.  Caveats: not fast paced, and you've got to pay close attention at first to figure out the characters (it does cohere after a bit). I want to watch more from this director.",
+            "review_date": "2021-11-15",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "The characters set against the drabness and claustrophobia of 60s Hong Kong positively shine, the women in their snazzy figure-hugging floral outfits. There is clearly sex in the air, but it is all off-screen.\nThe Director even makes us feel like pepping-Toms catching the characters through the windows, framed in the tiny rooms that act as cages, helpless as they are as life and other impulses mark their fate.\nNot only visually arresting, but a wonderful use of music, make sure you watch this film in a theatre with a good sound-system or invest in a top-notch home cinema, or you won't get to enjoy the aural atmospherics of Nat King Cole serenading you and setting the tone for what is unfolding so seductively.\nA magnificent performance from the twin protagonists, understated, elegant and using the simplest of gestures to convey the deepest of feelings in the repressed times and society they inhabit.",
+            "review_date": "2021-10-18",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "It's pretty deflating when you see a film with so many accolades, plaudits and gushing reviews, only to feel completely let down by it. In The Mood For Love was ranked, in 1 poll, as the 2nd greatest film of the 21st century, an assessment which, I have to say, I'm dumbfounded by. The film goes for a minimalistic quality, especially in regard to the dialogue. This isn't necessarily a bad thing, in fact it's quiet refreshing. Most of the emotions are conveyed through camerawork and facial expressions, with no need for lengthy explanations. The faces of the unfaithful spouses are never shown, because the film is not about them. The focus is on the bond which develops between their partners, and its resulting consequences. I enjoyed the movie at first, but soon the real lack of any substance starts to wear thin, and before the 3rd act had begun, I'd already mentally checked out. The film has so much dead air, so much wasted time where nothing happens, but feels the need to linger, because that's what audiences want to see apparently. The slow, quiet moments didn't feel like they were there to let emotions register or feelings develop, it felt like the film just didn't have anything interesting to say. It's sensitively acted by it's leads, which is to say they look mildly annoyed and cry occasionally. It starts with promises but falls flat by the last frame. I wouldn't see it again, and unless somebody had absolutely nothing else to do for an hour and a half, I wouldn't recommend it to anyone either.",
+            "review_date": "2021-09-26",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Although visually beautiful and emotionally sensitive, the plot moves so slowly and so little that the viewer's mind wanders, making it difficult to keep track of what little plot there is. Although I can certainly see why this director is a critics' favorite, I'll skip the rest of his movies.",
+            "review_date": "2021-09-11",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "A visual stunner. But you definitely need to be in the mood for In the Mood for Love. My first time around I hated it.",
+            "review_date": "2021-08-03",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "A masterpiece of aesthetics. Wong Kar-Wai's style is quite unique.",
+            "review_date": "2021-07-24",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Well, how could you transfer the emotion of \"love\" without using words? How could you create a moving painting? How could you use metaphors to process a mountain of things in a duration of a movie? This movie was the answer for all these questions for me. You will not be entertained much because it is a slow movie. However, you will be much more satisfied since it will touch the deepest parts of your soul.",
+            "review_date": "2021-07-17",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "It is a beautiful film.",
+            "review_date": "2021-06-30",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Fabulous! This is a film for cinephiles. It was absolutely beautiful and moving. The only thing that I do not love about it is actually the title. In the Mood For Love could have had a much more sophistocated name. Regardless, I recommend watching this 100%.",
+            "review_date": "2021-06-06",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I had been told before this was a great film. But this is a miracle.\nEvery single part of this film is a piece of art itself, the acting, the camera movements -or the positions in which it says satic-, the dresses, but specially the powerful (not) love story of two people who never find each other, where the most important is what is not said and why. Wong Kar-wai has created a masterpiece, a marvelous trip from wonderland and the land of the drams that never were.",
+            "review_date": "2021-05-20",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Very disappointing for what came from Wong Kar-wai. It's very very boring and slow movie.",
+            "review_date": "2021-05-15",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "A beautifully wrought film about that most powerful of all emotions - love lost, particularly unconsummated and unspoken love that's been lost. The resonance of the message about being drawn back to your past to desperately want to touch and feel that feeling again is stunningly captured. One of the great foreign language films of this century.",
+            "review_date": "2021-05-09",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I usually don't think watch foreign films but this one was beautiful",
+            "review_date": "2021-05-05",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Despite being a bit slow for my taste, I still liked the movie, mainly because of the performances of the two leads. They're never overly dramatic but not lethargic, making their performances feel real. I also found the themes thought-provoking, and Wong Kar-Wai's direction is very skilled and the cinematography is immaculate.",
+            "review_date": "2021-05-05",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "It's a true life changer, summing up so many burdensome emotions and useless moments and details with such perfect coordination of the cinematic language that it's ridiculous I'm here trying to describe it with words.",
+            "review_date": "2021-05-04",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I don't have a keen enough eye for artistry to have appreciated this as much as everyone else appears to have. I did notice the excellent color palette and set/costume designs as they made a very visually pleasing experience for me, Bulbazard, the enemy of desaturation. The main impression I got from this was that Wong heard someone say that it's impossible/very difficult to shoot a movie in a location as cramped as a real-life apartment complex with its narrow hallways and no room for good camera placement and opted to make this movie to show like 35 different ways to do it, shooting from angles like underneath the clothes in a closet or through a peephole or from an open doorway in the hall or from on top of the fridge in the kitchen. I didn't find the story itself particularly believable as it would be nonsensical for either main character to assume they would carry on a years-long close relationship without either catching feelings for the other. The notion that either would have really stayed with their spouses for years during/after their respective affairs, particularly with an obviously superior choice of life partner sitting right next to them didn't seem logical to me whatsoever and I don't think cultural differences fully explain that. The actors were excellent, but the dialogue wasn't creative/interesting enough to make this a superior movie to 2001's Amelie.",
+            "review_date": "2021-04-07",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "One of the most beautiful looking films I've ever seen. So much to explore here that I think it's impossible to write a good review after one viewing. Just a strikingly vivid and fully realized film that is going to draw me back very soon the more I think about it.",
+            "review_date": "2021-04-04",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "this made me in the mood for sleep.",
+            "review_date": "2021-03-25",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "An involving romantic affair period piece with some anchoring performances and Kar-Wai's usually sublime cinematography.",
+            "review_date": "2021-03-22",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "This film is a climactic, sensual must-see. The cinematography's camera angles, the romantic/confrontational role plays, and the climax that never comes keeps you at the edge of your seat.",
+            "review_date": "2021-03-07",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "One of my favorite movies. Gorgeous touching heartbreaking.  Dreamlike but with intimate details. Never maudlin, a restrained masterpiece",
+            "review_date": "2021-02-15",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "One of my favorite movies. Gorgeous touching heartbreaking. Dreamlike but with intimate details. Never maudlin, a restrained masterpiece ",
+            "review_date": "2021-02-15",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I just can't get on the bandwagon for this one. Director Wong's pretentious style detracts from what could have been an interesting story.",
+            "review_date": "2021-02-08",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "First I will tell you my perspective such that you can decide how well you relate to it and can rely on it in determining how much you might like the film.  I watch virtually every film that becomes available to me, including mainstream and at the local art house.  When it comes to foreign films and art movies, I wouldn't say they are uniquely my jam, but I don't shy away from them either, and like them at about the same rate that I would like anything that comes out at the mainstream theater.\n\nI certainly recognized the technical virtuosity and artistic sensibilities brought to bear on this film.  It was haunting, and at times in grossing, and I don't think anyone could ever claim that the acting was anything less than excellent.  \n\nThat said, it can be slow, obscure, and abrupt in a variety of ways, and for that reason, it demands a lot of the viewer over the course of its runtime.  I was on board for that journey throughout, but did expect more pay off than ended up being there.  \n\n(vague semi-spoilers follow)\n\nI suppose it is possible that this ended up being revealed in a way that was subtle enough that I missed it, but so far as I can tell, it was not really explained how either of the two marriages involved proceeded from the events of the core of the film. That is to say, the ending was fairly vague, and I'm not afraid to admit that I found the last handful of scenes collectively rather confusing.  not that I don't get the general gist of how the romance at the core of the movie ended up, but I guess I'm not sure in much detail how the lives of those characters proceeded, nor even why they made the decisions they made or how they felt about those decisions- especially Mrs. Chan.  And again, it's possible I just missed it, but I also happen to have absolutely no clue what happened to Mrs. Chow or the Chow marriage.  I was also confused as to what Cambodia in particular had to do with anything or why Chow went there, aside from providing some nice scenery for the closing sequence, and was especially unclear as to why it was so important to the story that the location deserved its own introductory archival footage right at the end of the film.\n\nI just genuinely found the overall effect to be pretty frustrating and a bit confusing, and you'll have to take my word for it that I'm no dunce in film interpretation generally-speaking, even if it turns out that I botched this one.",
+            "review_date": "2021-01-25",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "This is everything that 2046 was not. A beautifully told, lavish yet restrained, story of unrequited (or just unconsummated?) love, with enough time given to the characters for you to actually care about them. Tons of great directorial moves, too (never showing the spouses faces etc.). Beautifully filmed with a beautiful score, too. I found this film touching and satisfying, despite the heartache.",
+            "review_date": "2021-01-23",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "A fresh take on the classic \"boy meets girl\" love story. In the Mood for Love stands out for its striking costumes, moving score, and crisp cinematography. Every frame in this movie looks like it could be a portrait. It's also incredibly understated. There are no sweeping romantic gestures or \"holding boomboxes outside your house\" moments. Perhaps, that's why it didn't resonate as thoroughly emotionally as I wanted.",
+            "review_date": "2020-12-26",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "This is an elegant, subtly intense, economical meditation on fidelity and the price that sacrifice can mean. More specifically, it's about fidelity in the face of great loneliness and likely infidelity, with the very real presence of another person there who could give you respite from such sadness and uncertainty. We all have the need to feel wanted, loved, appreciated. When we have that, we feel so close to complete, with the security and assurance it brings. But for that to suddenly be gone, or for it to slowly degrade, as is the case for \ud835\ude10\ud835\ude2f \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude14\ud835\ude30\ud835\ude30\ud835\ude25 \ud835\ude0d\ud835\ude30\ud835\ude33 \ud835\ude13\ud835\ude30\ud835\ude37\ud835\ude26, can leave us lost and searching for ways to regain order in our lives. \nThe film is gorgeous to look at. The colors and the look of the characters, from hair styles to wardrobe choices, gives a real sense of 60's films. There's even a touch or two of new-wave Euro movies of that era. Great choices were made throughout by Kar-Wai Wong. The subtleties of glances, quiet but telling body language, saying so much in silence, and those tight shots of Su Li-zhen exuding femininity as she walks up those stairs show the signs of a mature director who knows the power of the visual image and how it can say as much as a shot/scene filled with dialogue. \nExcellent work also by leads Tony Leung Chiu Wai and Maggie Cheung Man-yuk. \nI think of the scene where Chow and Su are first sitting in his apt./room, with the camera set as if under a table or through a keyhole, with us as voyeurs into their new secret friendship, which hints at being more. And then the crushing reminder of history at the very end, along with a secret whispered into a stone wall that makes up part of the halls of a structure constructed for mankind to ponder the mysteries of life, to help resolve our questions and searching, and to reach the peace of mind, security and happiness with our place in the world that the love of a faithful other can bring us. 3.7 stars",
+            "review_date": "2020-09-21",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Every bit of Wong Kar Wai's artistic touch can be seen from this movie.",
+            "review_date": "2020-09-05",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "This is a beautiful film in several ways: its style, its pacing, its score, and of course the performances from the two equally beautiful leads.",
+            "review_date": "2020-07-27",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Wong Kar-Wai's exceptional direction creates a subtle and beautiful atmosphere in which the two leads dive deep to culminate in an astonishing impact",
+            "review_date": "2020-07-09",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I think this was almost too understated for me, bordering on being inert.  But the music and style are peerless.",
+            "review_date": "2020-05-24",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "In The Mood For Love Pros: Phenomenal Acting Fantastic Directing Amazing Screenplay Outstanding Cinematography Magnificent Editing Stunning Set and Costume Design Brilliant Pacing Fascinating Storyline Beautiful Musical Score Explores its themes surrounding marriage and infidelity in a fully fleshed-out manner Cons: None Overall Grade: A+ (10/10)",
+            "review_date": "2020-04-19",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "A well-made, compelling, and thoroughly engrossing romance that effectively combines a subdued tone with emotional power. Bonus points for great costumes and sets, full of vivid color, and note-perfect performances from the two leads. (4.5/5)",
+            "review_date": "2020-04-04",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Perfectly stylised 'poem' about the 60's Hong Kong. The movie is shot on Kodak film, which gives it this vivid, saturated image.\nThough the editing is a bit crazy sometimes (some shots change too rapidly), you get used to it and find it a new, curious cinema language.\nThe performances of the actors are just great.",
+            "review_date": "2020-03-15",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Although a bit slow all the way through, a solid representation of the power of love as well as its universal and unpredictable nature. This 1960's story is an important piece as it stamps Wong Kar-Wai's style into film history. Every element of his storytelling is refined and applied in a way that brings it all together and offers a most complete experience of the infamous mood he tries to convey in his work.",
+            "review_date": "2020-02-01",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Possibly the saddest, most beautiful and romantic movie I've even seen.  Haunting cinematography and soundtrack. Just a perfect movie.",
+            "review_date": "2020-01-19",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Style and subtlety; if there is one movie that fusion both with perfect harmony, that movie is this one.",
+            "review_date": "2020-01-02",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Pure art and beauty! \n\nThe top-ten movie ever made.",
+            "review_date": "2019-12-18",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Very beautiful, aesthetics. And great music",
+            "review_date": "2019-12-13",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wong Kar-Wai's 2000 In the Mood for Love may be the best film, thus far, of the 21st Century. In just over 90 minutes, it conveys, through a voyeur-like cameras eye and spot-on, often silent, acting from Tony Leung and Maggie Cheung, anWong Kar-Wai's 2000 In the Mood for Love may be the best film, thus far, of the 21st Century. In just over 90 minutes, it conveys, through a voyeur-like cameras eye and spot-on, often silent, acting from Tony Leung and Maggie Cheung, an intensity of locked-up longing that's perhaps never been so captured on screen. The leads' spouses are having an affair, which brings them together unwittingly, though they too live in neighboring apartments. Initially joined by mutual heartbreak, they become joined by shared desire for one another that, in 1960s Hong Kong, is verboten. The leads are never joined through plain expression, but rather in often tense, mannered, scenes where they share a space (e.g., a cab) and communicate through just a glance or movement. And, in these scenes, the camera latches on to their subtle gestures with a yearning of its own that brings slight, soft acting full circle, giving it clear meaning. The leads encounter one another, repeatedly, in somewhat scripted, yet somehow not contrived, terms. An encounter might involve bumping in to a neighbor running a common daily (or nightly) errand. Indeed, an encounter of this sort becomes a centerpiece of the film, and the subject of perhaps the most entrancing visual sequences put to film in recent decades. In the Mood for Love is about quiet but telling action that, when enveloped by the camera, becomes loud. Wongs rich visuals tug the viewer into a muted world wrought with emotion. A feat many directors aspire toward. A feat Wong executes to perfection.",
+            "review_date": "2012-05-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "In the Mood for Love is a very slow, moody, and stylized film. If in \"Days of Being Wild\" you can feel the humidity, in this one the feeling is like coming into an air conditioned room out of a hot day being in the city and the sense of quietIn the Mood for Love is a very slow, moody, and stylized film. If in \"Days of Being Wild\" you can feel the humidity, in this one the feeling is like coming into an air conditioned room out of a hot day being in the city and the sense of quiet ease and nice refreshment. That is what the relationship between the main characters feels like in the beginning, and through much of the film. The main tension comes from the fact that things will inevitably change and the question is whether these two people, who seem to deserve more out of life, can get it without becoming undeserving themselves. (And on a side note, Tony Leung and Maggie Cheung both look quite beautiful in this film.) Recommended to art lovers and people watchers.",
+            "review_date": "2015-10-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"In The Mood For Love\" is easily one of the best art-house achievements of the decade, striking all of the qualities a good film should have while remaining unique to itself. Wong's use of color, repetition, and his unique delivery of\"In The Mood For Love\" is easily one of the best art-house achievements of the decade, striking all of the qualities a good film should have while remaining unique to itself. Wong's use of color, repetition, and his unique delivery of revelation and plot development complement perfectly to the two lead actors' performances, which were reason enough to watch this movie.",
+            "review_date": "2010-08-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I guess my challange is to try to understand why there are so many people who fell in love with this movie. No plot, meaningless scenes (Cambodia scenes), slow, and a stupid ending. I can't resist but ask the questions: is it the I guess my challange is to try to understand why there are so many people who fell in love with this movie. No plot, meaningless scenes (Cambodia scenes), slow, and a stupid ending. I can't resist but ask the questions: is it the romantic music that made people love this movie? or do they just think that they're supposed to love this movie like we were told to find the \"Mona Lisa smile\" amazing?",
+            "review_date": "2006-01-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "it challenged my patience to watch this movie.i couldn't find any plot in this movie. i didn't push the slow motion button on my remote control,but why the movie was so slow?i just couldn't imagine if i pushed the slow motion button,whatit challenged my patience to watch this movie.i couldn't find any plot in this movie. i didn't push the slow motion button on my remote control,but why the movie was so slow?i just couldn't imagine if i pushed the slow motion button,what would happen to this movie?would it be more slower than usual? this movie's overhasty.",
+            "review_date": "2011-11-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Moving, erotic and beautiful. I haven't enjoyed a film so much in a long long time. The abstract ending just about gets away with it. The male lead is particularly compelling, the soundtrack is superb and and the photography is Moving, erotic and beautiful. I haven't enjoyed a film so much in a long long time. The abstract ending just about gets away with it. The male lead is particularly compelling, the soundtrack is superb and and the photography is beautifully grainy and organic (DEATH TO DIGITAL PHOTOGRAPHY).",
+            "review_date": "2007-02-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie looks really nice. If you like movies that look nice. You should try looking at the screen when this movie is playing. Some cool smoky shots with some nifty fifties dresses. It is basically Lost in Translation's Dad. Sofia This movie looks really nice. If you like movies that look nice. You should try looking at the screen when this movie is playing. Some cool smoky shots with some nifty fifties dresses. It is basically Lost in Translation's Dad. Sofia Coppola owes quite a bit of debt to the Wong Kar Wai.",
+            "review_date": "2008-09-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "there is no director like wong kar wai who in every movie explores the stale and done state of love. but somehow he makes this theme more beautiful every movie and this movie is the pinecale of films about love. there is no sure way to there is no director like wong kar wai who in every movie explores the stale and done state of love. but somehow he makes this theme more beautiful every movie and this movie is the pinecale of films about love. there is no sure way to describe this movie to someone because of the seemingly thin plot and its experience. somehow one has to create their own definition to be engaged with it. the details that every shot contains begs multiple viewings and the cinematic response to the repeated settings and music is something of an awe experience. hands down one of the best movies of the new mellenium.",
+            "review_date": "2007-05-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An absolutely spectacular movie, one of the very best films of the 2000s... (I wish I could say the same for 2046, which was so unexpectedly awful I still can't believe (apart from the visual style and casting) was the same director)... An absolutely spectacular movie, one of the very best films of the 2000s... (I wish I could say the same for 2046, which was so unexpectedly awful I still can't believe (apart from the visual style and casting) was the same director)... Still, In the Mood for Love is one of the most hauntingly romantic movies I have ever seen. It's a genuine masterpiece and can be appreciated by anyone... without ADD.",
+            "review_date": "2005-12-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Wong's peerless masterpiece, this film is a harrowingly romantic and lyrical meditation on unrequited love, memory, and repression.",
+            "review_date": "2005-10-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Enchanting cinematic art\r Love has it's own erratic language in Wong Kar-Wai's masterful love-story which is set in Hong Kong 1962 and tells the story of news editor Chow Mo-Wan who has recently moved in to a crowded apartment complex withEnchanting cinematic art\r Love has it's own erratic language in Wong Kar-Wai's masterful love-story which is set in Hong Kong 1962 and tells the story of news editor Chow Mo-Wan who has recently moved in to a crowded apartment complex with his wife, and at approximately the same time the beautiful secretary Su Li-Zen moves in to that same place with her husband. Chow and Sus spouses are often away on foreign travels due to their jobs which eventually leads to Chow and Su becoming more and more lonely. After numerous coincidental meetings in the neighborhood a conversation occurs and the news editor and secretary realizes the kinship of their situations. One night Chow invites Su to dinner confiding her in his suspicion about their spouses having an affair. Su admits that she's had similar thoughts, but none of them has any solid evidence. Their intimate conversation gradually turns to regular dinner meetings where these two modest individuals find a unifying chemistry, and in time a subtle romance comes to life.\r The two leading characters are portrayed as introverted, somewhat static and well educated people with high morals, and brought to life through Tony Leung and Maggie Cheung's low-keyed and emotionally demanding performances. Wong Kar-Wai wants us to emphasize with our hero and heroine even though we are aware of the fact that they are about to commit the same deception as their spouses have done. That one feels emphatic towards Chow and Su is hardy unavoidably considering what they are coming to terms with, but Wong Kar-Wai's real masterpiece is that he has us sitting through most of the film wishing for the main characters to become lovers. The esoteric dialog is convincingly communicated and Shigeru Umebayashi's theme song \"Yumeji's Theme\" is like a hymn to Chow and Su's tranquil and romantic friendship.\r \"In the Mood for Love\" is a film that lives on it's on terms and invites the viewer into a dreamlike, poetic and hypnotically beautiful universe. It's without clich\u00c3\u00a9s, filled with hope and contains lyrical shades that makes the film seem like one great love poem or an exploration of human behavior affected by love.\r This unforgettable slow-moving tale from one of the greatest visual storytellers in modern cinema stands alongside \"The Piano\" (1993) as one of the most profound love stories i've ever seen.",
+            "review_date": "2011-02-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "in the mood for bore, nothing happens in this movie, the director uses slow motion in a scene buyind noodles, is pointless, is an exercise in empty style, emptiness is the theme here, i think people think this movie is art because they don'tin the mood for bore, nothing happens in this movie, the director uses slow motion in a scene buyind noodles, is pointless, is an exercise in empty style, emptiness is the theme here, i think people think this movie is art because they don't understand what true cinema is, is about emotions, technique, story, acting, music, this movie fails in all categories, half of the movie is spent showing the protagonist ass in different dresses, shots of a clock in a wall (why?) nothing means anything in this movie, is just stylish for the sake of being stylish but with no context, its repetitive, boring ant should appeal only for people that think they know art but clearly don't have a clue, like the director of this movie, it sucks hard",
+            "review_date": "2015-11-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie is very slow moving and I assumed the pace would increase but, sadly, I was wrong. Nothing much really happens. The music gets very irritating. I think anyone could have played the roles of the main characters. The only praise IThe movie is very slow moving and I assumed the pace would increase but, sadly, I was wrong. Nothing much really happens. The music gets very irritating. I think anyone could have played the roles of the main characters. The only praise I have is that it is quite artistic. I am somewhat perplexed as to why so many people adore this film.",
+            "review_date": "2013-06-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A truly melancholy yet poignant experience, In the Mood for Love is a truly devastating look at those on the other side of infidelity. Yet, at the same, purely and subtly romantic. As a result, director Kar-Wai Wong's moving film touches onA truly melancholy yet poignant experience, In the Mood for Love is a truly devastating look at those on the other side of infidelity. Yet, at the same, purely and subtly romantic. As a result, director Kar-Wai Wong's moving film touches on themes of adultery, marriage, and love, as these two people try to cope with the way in which their lives have been destroyed. Blessed with good cinematography, good acting, and a great score, In the Mood for Love is a wonderful work that really hits home.\r After moving in next door to one another, Mr. Chow (Tony Leung) and Mrs. Chan (Maggie Cheung) discover that their spouses are having an affair with one another. What plays out is them imaging their spouses' spending time with one another, as well as them imagining confronting their adulterous partners. Unfortunately for them, their spouses heavy travel schedule leaves prevents any of these interactions from actually taking place, thus leaving them in eternal limbo as they await their returns. As expected, the two fall in love and spend more and more time with one another, but repress their emotions to keep up appearances. By the film they are willing to move on their love, time has passed and they simply can no longer because together as life has brought them extenuating circumstances.\r A decidedly melancholy film steeped in themes of respect and loneliness, In the Mood for Love only subtly pays off on its hinting at the main characters' love. Though Mr. Chow and Mrs. Chan certainly hit it off and love spending time with another, the film goes out of its way to showcase the two of them maintaining their purity and not becoming their spouses. Instead, they hold themselves back and keep on just being friends. Wong does great at capturing this element as the romantic tension and longing between the two shines through in large part to the camera work and acting.\r In the Mood for Love is incredibly slowly paced, which allows for the full emotional impact of their trauma and regrets to really linger with this audience. Even more, this slow, methodic pacing almost becomes wholly melodic and poetic as Wong weaves his way through this relationship, the crumbling of their marriages, and their later attempts to reconnect but to simply be kept apart. In particular, the discussion of the old method of hiding secrets and then seeing Mr. Chow do exactly as he described while in the ruins of Cambodia is a truly moving and poetic ending to the film. Yet, incredibly subtle and restrained, as is the case with Wong's characters. Plus, this scene does a great job capturing larger topics in the process. it was not just our two protagonists whose lives changed, but also all of Hong Kong. As hinted to at the end, Hong Kong has changed dramatically since they met four years prior to the end of the film. Not only have their former landlady's moved out, but times have changed and people are moving on. The fact that Wong chose to end the film in Cambodian ruins is also attached to this element, considering it is a very visual representation of the way in which time moves on and leaves destruction, ruins, and memories in its wake. The camera work in this final sequence is particularly moving as it moves through these Cambodian ruins as Mr. Chow visits them.\r Ultimately, Kar-Wai Wong's In the Mood for Love is a truly tragic exercise in heartbreak, repression, and loneliness. Though these two may love one another, they simply cannot allow themselves to express this in the conservative Hong Kong. If they did, it would be the end of them socially. Thus, they remain silent. Wong does a tremendous job capturing their chemistry even in silent moments and developing his characters, as well as their relationship. Wholly authentic, In the Mood for Love is a film that may be very slow, but it is a truly melodic and poetic experience.",
+            "review_date": "2016-09-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Despite the gorgeous cinematography, the good acting performances and the interesting story, In the Mood for Love is clich\u00e9, predictable and even boring at times. While it's definitely not a bad movie, it's still not as good as I thought itDespite the gorgeous cinematography, the good acting performances and the interesting story, In the Mood for Love is clich\u00e9, predictable and even boring at times. While it's definitely not a bad movie, it's still not as good as I thought it would be.",
+            "review_date": "2019-01-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "All the money Netflix gave to Ryan Murphy to produce them brand new content was way too much.This was a soporific miniseries that believed that putting emphasis on the staging would be more than enough for the public not to pay attention toAll the money Netflix gave to Ryan Murphy to produce them brand new content was way too much.This was a soporific miniseries that believed that putting emphasis on the staging would be more than enough for the public not to pay attention to their narratives shortcomings.",
+            "review_date": "2020-05-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "With a captivating cinematography and peaceful background score, the moments that the film seeks for is beautifully natural.In The Mood For Love\n\nKar-Wai Wong's masterpiece is a love story that every filmmaker wishes to embark uponWith a captivating cinematography and peaceful background score, the moments that the film seeks for is beautifully natural.In The Mood For LoveKar-Wai Wong's masterpiece is a love story that every filmmaker wishes to embark upon majestically. Personally, I find it not only incredibly difficult to go through but also is left in awe with the structure of the film. Probably, because there isn't any. Dashing across the film, the script tells a story from a third person's perspective. In a sense that the fable is narrated to him or her, as a memory shared in the form of highlights. Now, this sort of writing has always inspired me. Something that you can see majorly in Pawel Pawlikowski's Cold War. Often, while writing such a material, you are under sheer pressure to not boast off about something inessential to the storyline and also not make the events loud enough to give away the trajectory of these characters.Walking that fine line, comes a nuanced vocab, that the writer and director, Kar-Wai Wong is speaking flamboyantly. Not, for a split second does he give away its essence beforehand. And plus, this format of jumping forward with an uneven pace, helps the maker create a jarring impact on you that is soothing despite of the poignancy that it breathes perpetually, there was always very little window for these characters to peek through and almost impossible to go through.As Evan Puschak observed so smartly in one of his sort-of-reviews, the film is majorly shot with a frame within a frame tone, that helps us dive into the \"observer\" theme instantly. Plus, the enactments of these characters for their supposed situations, is just pure fun where later on, the slow-motion montages nail the final nail in the coffin expressively. It would and should provoke everyone to be In The Mood For Love, since it first and foremost is about the evolution of a friendship; innocent I find this world.",
+            "review_date": "2019-05-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Thank god I postponed watching this movie until I am in the right..... mood! \u2665\u2665\u2665\u2665I always wandered how a WKW film would be, if it was less focused on atmosphere, and more concerned about its narrative. And In the Mood for Love is definitelyThank god I postponed watching this movie until I am in the right..... mood! \u2665\u2665\u2665\u2665I always wandered how a WKW film would be, if it was less focused on atmosphere, and more concerned about its narrative. And In the Mood for Love is definitely this movie. The plot of this movie is more cohesive than of the other Wong Kar-wai films.The rest of his films don't have a conventional plot, but rather disjointed beautiful and hypnotic sequences that allow emotions to flow through them. This is not the case here. In the Mood for Love still doesn't have a linear narrative in the traditional way, I mean it's still a WKW film, but the movie has a more contained narrative to say the least.Unfortunately, the movie didn't hit me emotionally as much as it should. Don't get me wrong, I was moved by the movie even more than every WKW I've watched so far, with the exception of Chungking Express. The issues I had with Days of Being Wild and Fallen Angels are what kept me from being fully emotionally engaged, but as for In the Mood for Love, it's the over-control upon the movie's story that deprived me from being entirely connected emotionally. It may sounds strange, but that's what I felt, and in all probability that's what many people also feel if they have been already familiar with Wong Kar-wai style.I don't want to seem as if I'm just creating problems, or make some flaws up out of no where, but I felt that some emotions and feelings passed quickly without hitting me hard.On the other hand, having control on the narrative aspect of the movie, Wong Kar-wai's poetic visual style became more mature. You can easily identify his trademarks, which the movie is full of them; playing with the time, using elliptical editing, and repeating songs, but they are utilized in a more beneficial and purposeful way, hence more delicate and exquisite way.Even the beauty of the cinematography is different from those of Wong Kar-wai's other works. Here the beauty comes from the sumptuous colour palette more than anything else. In the Mood for Love is unquestionably one of the best movies in cinematic history in terms of using colours. The colours here set the mood, and keep enriching it throughout the film's fleeting runtime.However, the characters of this movie along with the performances are the real pleasure I got from. All the subtlety of the characters are brought out by a magnificent cast. Tony Leung Chiu-Wai is quite possibly one of the most talented actors ever. His performance is simply ingenious. Maggie Cheung is equally terrific, if equally, perhaps marginally inferior in comparison Leung, but it's her character that astonished me. Unlike Days of Being Wild's Su Li-Zhen, this character her is jaw-droppingly multi-layered. And the way the brilliant script delves into her is just mind-blowing. Every time Leung's character, Chow, shares the screen with her unravels a new layer in her character, while showcases the talents of the two lead, especially Leung's unique gift.The masterful combination of the ingenious symbolism of Wong Kar-wai, and the movie's sprawling and elaborate narrative is what makes In the Mood for Love stands out, either from Wong Kar-wai's oeuvre, or from the Romance genre. In the Mood for Love is undoubtedly worthy of being hailed as Wong Kar-wai's masterpiece, but Chungking Express is still my favorite among WKW's cinematic gems.(8.5/10)",
+            "review_date": "2018-11-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Top notch editing, cinematography and music. Despite being so slow and contemplative its charm is undeniable.",
+            "review_date": "2021-03-11",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A bitter-sweet romance.  It's quiet, understated, but ultimately powerful.  Beautiful photography and visuals.  Brilliant acting.  Caveats: not fast paced, and you've got to pay close attention at first to figure out the characters (it doesA bitter-sweet romance.  It's quiet, understated, but ultimately powerful.  Beautiful photography and visuals.  Brilliant acting.  Caveats: not fast paced, and you've got to pay close attention at first to figure out the characters (it does cohere after a bit). I want to watch more from this director.",
+            "review_date": "2021-11-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis movie is excellent in terms of directing and has followed all the rules",
+            "review_date": "2021-10-02",
+            "source": "metacritic",
+            "lang": "en"
+        }
+    ],
+    "rt_rating": 9.4,
+    "rt_summary": "In 1962, journalist Chow Mo-wan (Tony Leung Chiu Wai) and his wife move into a Hong Kong apartment, but Chow's spouse is often away on business. Before long, the lonely Chow makes the acquaintance of the alluring Su Li-zhen (Maggie Cheung Man-yuk), whose own significant other also seems preoccupied with work. As the two friends realize their respective partners are cheating on them, they begin to fall for one another; however, neither wants to stoop to the level of the unfaithful spouses.",
+    "meta_rating": 7.9,
+    "meta_summary": "Chow Mo-wan rents a room in a Hong Kong apartment building.  It's sheer coincidence that he moves in the same day that Su Li-zhen moves in next door.  They never have a real conversation until Mr. Chow realizes that their respective spouses are having an affair. This discovery shocks both of them. Mr. Chow, feeling hurt and wishing toChow Mo-wan rents a room in a Hong Kong apartment building.  It's sheer coincidence that he moves in the same day that Su Li-zhen moves in next door.  They never have a real conversation until Mr. Chow realizes that their respective spouses are having an affair. This discovery shocks both of them. Mr. Chow, feeling hurt and wishing to understand how the affair happened, begins finding excuses to spend time with Mrs. Chan. [USA Films]\u2026 Expand"
 }

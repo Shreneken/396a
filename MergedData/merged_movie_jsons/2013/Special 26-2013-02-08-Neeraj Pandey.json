@@ -1,7 +1,7 @@
 {
     "rating": 8.0,
     "release_date": "2013-02-08",
-    "num_reviews": 146,
+    "num_reviews": 149,
     "genres": [
         "Crime",
         "Drama",
@@ -883,6 +883,22 @@
             "review_date": "2021-02-17",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "Excellent film, great shooting and great acting. Suspenseful though some scenes can be cut, and good use of humour.  A bit more sophisticated than most bollywood flicks. Check it out if you are a fan of suspense, drama and plot twists.",
+            "review_date": "2013-07-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Special 26 is a great movie! I really loved this movie. Akshay Kumar has well done in acting, some of the scenes may seem boring but don't let the 50 village voice review fool you. The trailer shows nothing. The real fun comes on the movie.Special 26 is a great movie! I really loved this movie. Akshay Kumar has well done in acting, some of the scenes may seem boring but don't let the 50 village voice review fool you. The trailer shows nothing. The real fun comes on the movie. So, 10/10 is my review. MUST WATCH....",
+            "review_date": "2013-02-17",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 8.5,
+    "meta_summary": "Set in 1987, this heist comedy focuses on a group of thieves who pose as members of the CBI (India's Central Bureau of Investigation) to stage robberies of dirty officials, but when a real member of the CBI learns of their scheme, they become the targets."
 }

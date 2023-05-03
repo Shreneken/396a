@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1996-05-03",
-    "num_reviews": 130,
+    "num_reviews": 149,
     "genres": [
         "Action",
         "Sci-Fi"
@@ -861,6 +861,43 @@
             "review_date": "1999-06-24",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "A dreary and highly predictable action film that has a weak script, poor editing, and unenthusiastic performances from its cast, not to mention an unconvincing performance from the movies lead heroine.",
+            "review_date": "2013-09-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Horrible but nice eye candy i guess at the time.  Weak everything and rather funny with Pam Andersen in a \"tough\" acting character - wrong lol! Very forgettable and wish I had that time back to have watched something else.",
+            "review_date": "2010-12-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Barb Wire is a 1995 mindless sci-fi action starring Pamela Anderson. The film opens with Pamela Anderson on stage in some club or something with music playing, soaking wet with water spraying around her and over her, wearing some outfit withBarb Wire is a 1995 mindless sci-fi action starring Pamela Anderson. The film opens with Pamela Anderson on stage in some club or something with music playing, soaking wet with water spraying around her and over her, wearing some outfit with her boobs poking out then an observer calls her \"Babe\" and she throws one of her heels at his head, killing him... The film has many action scenes and probably some fighting scenes and it's violent but the storyline makes no sense and the acting isn't great to be honest. There's some scene when some fat slob is introduced to us on the back of some vehicle and he's bloody huge in obesity size and is completely a ridiculously scene. We see scenes of Barb Wire (Pamela Anderson)  showing the odd bit of flesh but this would of been better if she showed more of her body. Instead we saw hints of her body and her in some hot tub or something and that along with the action scenes didn't feel great if I'm honest. The action scenes could of been better and the overall film and some of the characters were laughable and silly, even the villains. This is probably one of the worst movies ever made and very stupid",
+            "review_date": "2020-03-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Mostly a clich\u00e9 action movie with a 'kick-ass' sexy heroine. While it's not good, it's not unwatchable, and I found the time passed pretty quickly while I watched it, which is pretty much the best compliment I could give this movie.",
+            "review_date": "2020-06-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "So bad it's good terrible acting but enjoyable from time to time good attempt.",
+            "review_date": "2020-07-17",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 6.2,
+    "meta_summary": "Barb Wire (Anderson) is a bounty hunter whose credo is to never take sides for anybody and that's the only way to survive. As her former lover appears asking for a favour, Barb suddenly finds herself to be key player on high political stage involving a governmental cover-up."
 }

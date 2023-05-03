@@ -1,11 +1,12 @@
 {
     "rating": 7.8,
     "release_date": "1985-02-01",
-    "num_reviews": 228,
+    "num_reviews": 241,
     "genres": [
         "Biography",
         "Drama",
-        "History"
+        "History",
+        "War"
     ],
     "summary": "A journalist is trapped in Cambodia during tyrant Pol Pot's bloody 'Year Zero' cleansing campaign, which claimed the lives of two million 'undesirable' civilians.",
     "reviews": [
@@ -1577,5 +1578,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 7.2,
+    "meta_summary": "A photographer is trapped in Cambodia during tyrant Pol Pot's bloody \"Year Zero\" cleansing campaign, which claimed the lives of two million \"undesirable\" civilians."
 }

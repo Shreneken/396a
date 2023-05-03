@@ -1,11 +1,14 @@
 {
     "rating": 3.0,
     "release_date": "2019-12-20",
-    "num_reviews": 545,
+    "num_reviews": 547,
     "genres": [
         "Action",
         "Comedy",
-        "Crime"
+        "Crime",
+        "Drama",
+        "Romance",
+        "Musical"
     ],
     "summary": "Chulbul Pandey encounters an enemy from his past, and his origin story as the fearless cop unfolds.",
     "reviews": [
@@ -3571,6 +3574,15 @@
             "review_date": "2020-02-20",
             "source": "imdb",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The love angle didn\u2019t work for me. For me Chulbul Pandey\u2019s chemistry with Rajjo was kind of epic, I have no idea why Mr. Khan felt like he could create another love story, pull out same old love punches, do love songs and fans will be allThe love angle didn\u2019t work for me. For me Chulbul Pandey\u2019s chemistry with Rajjo was kind of epic, I have no idea why Mr. Khan felt like he could create another love story, pull out same old love punches, do love songs and fans will be all over the floor, I definitely was not. I wished Chulbul Pandey\u2019s re-vist to the past was something unique than obvious. But if you love to watch Salman Khan playing Salman Khan again, you are most welcome to watch the movie.LoveBlogger Trusttherabbit",
+            "review_date": "2019-12-20",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": "tbd",
+    "meta_summary": "India's most badass and lovable cop is back."
 }

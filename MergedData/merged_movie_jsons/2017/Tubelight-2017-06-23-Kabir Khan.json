@@ -1,10 +1,14 @@
 {
     "rating": 3.9,
     "release_date": "2017-06-23",
-    "num_reviews": 179,
+    "num_reviews": 181,
     "genres": [
         "Drama",
-        "War"
+        "War",
+        "Action",
+        "Adventure",
+        "History",
+        "Fantasy"
     ],
     "summary": "A story of two brothers set during the Sino-Indian war, 1962: the younger one who's at war at the borders and the elder who's at war with his own world.",
     "reviews": [
@@ -1177,8 +1181,17 @@
             "review_date": "2017-06-22",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Well shot and well intentioned, Tubelight should have been a light in Salman Khan and director Kabir Khan's careers. However, the attempted tearjerker is contrived from start to finish. It also tries to manipulate every scene to make itsWell shot and well intentioned, Tubelight should have been a light in Salman Khan and director Kabir Khan's careers. However, the attempted tearjerker is contrived from start to finish. It also tries to manipulate every scene to make its audience cry, which in the end left me more exhausted than emotionally invested in the plot and characters.",
+            "review_date": "2017-06-24",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 4.7,
-    "rt_summary": "A man remains unshakable in his beliefs and love for his family."
+    "rt_summary": "A man remains unshakable in his beliefs and love for his family.",
+    "meta_rating": 4.0,
+    "meta_summary": "In a small picturesque town in North India, Laxman (Salman Khan) lives with his younger brother Bharat (Sohail Khan). The two have no other family and are inseparable. Laxman's world comes crashing down, when war breaks out and Bharat gets drafted into the Army. A helpless Bharat leaves a devastated Laxman behind. News from the border onlyIn a small picturesque town in North India, Laxman (Salman Khan) lives with his younger brother Bharat (Sohail Khan). The two have no other family and are inseparable. Laxman's world comes crashing down, when war breaks out and Bharat gets drafted into the Army. A helpless Bharat leaves a devastated Laxman behind. News from the border only worsens, as the tension continues to escalate. Seeing the carnage around him and worried for his brother, Laxman decides he must stop this conflict and get his brother back.\u2026 Expand"
 }

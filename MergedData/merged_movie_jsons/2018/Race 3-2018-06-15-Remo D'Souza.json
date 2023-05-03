@@ -1,7 +1,7 @@
 {
     "rating": 1.9,
     "release_date": "2018-06-15",
-    "num_reviews": 563,
+    "num_reviews": 566,
     "genres": [
         "Action",
         "Crime",
@@ -3580,8 +3580,17 @@
             "review_date": "2018-05-28",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "every movie of salman khan is full of over acting. not like his movies. no like",
+            "review_date": "2019-03-08",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 1.7,
-    "rt_summary": "Members of a ruthless family become embroiled in a high-stakes heist."
+    "rt_summary": "Members of a ruthless family become embroiled in a high-stakes heist.",
+    "meta_rating": 3.5,
+    "meta_summary": "When Shamsher (Anil Kapoor) entrusts Sikandar (Salman Khan) with a high stakes heist along with the family for support, what could possibly go wrong? Well\u2026We discover everyone\u2019s real character as they change with a blink of an eye. We discover that nothing is as it seems. We discover a family on the verge of self-destruction \u2013 or is it aWhen Shamsher (Anil Kapoor) entrusts Sikandar (Salman Khan) with a high stakes heist along with the family for support, what could possibly go wrong? Well\u2026We discover everyone\u2019s real character as they change with a blink of an eye. We discover that nothing is as it seems. We discover a family on the verge of self-destruction \u2013 or is it a ploy by some outsiders.\u2026 Expand"
 }

@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1960-10-06",
-    "num_reviews": 130,
+    "num_reviews": 143,
     "genres": [
         "Action",
         "Adventure",
@@ -877,5 +877,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 8.1,
+    "meta_summary": "Lured by gold, two greedy peasants escort a man and woman across enemy lines. However, they do not realize that their companions are actually a princess and her general."
 }

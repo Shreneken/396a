@@ -1,11 +1,12 @@
 {
     "rating": 0.0,
     "release_date": "2019-05-10",
-    "num_reviews": 380,
+    "num_reviews": 382,
     "genres": [
         "Action",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Romance"
     ],
     "summary": "N/A",
     "reviews": [
@@ -2479,8 +2480,24 @@
             "review_date": "2019-05-09",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Good romantic-action-drama.After watching the movie \"Baaghi\" i started to kinda like Bollywood movie, so i try some of them on Netflix.They are different , in a good way: with a mix of romance, actions, stunts and dance.\nEntertaining.Good romantic-action-drama.After watching the movie \"Baaghi\" i started to kinda like Bollywood movie, so i try some of them on Netflix.They are different , in a good way: with a mix of romance, actions, stunts and dance.Entertaining. Ananya and Tiger are both stunning and work well togheter",
+            "review_date": "2021-07-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nIt's worst movie with no subject and acting. Only tiger's dancing skills is good.",
+            "review_date": "2020-07-09",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 1.9,
-    "rt_summary": "A college student faces down school bullies while competing in track and field."
+    "rt_summary": "A college student faces down school bullies while competing in track and field.",
+    "meta_rating": 2.4,
+    "meta_summary": "The biggest franchise of Bollywood returns with Student Of The Year 2 starring the incredible Tiger Shroff and introducing - Tara and Ananya. Friendship, sportsmanship, love, companionship - it's all in for the Student Of The Year."
 }

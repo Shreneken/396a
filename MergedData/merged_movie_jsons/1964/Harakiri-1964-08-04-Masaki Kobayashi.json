@@ -1,11 +1,12 @@
 {
     "rating": 8.6,
     "release_date": "1964-08-04",
-    "num_reviews": 408,
+    "num_reviews": 417,
     "genres": [
         "Action",
         "Drama",
-        "Mystery"
+        "Mystery",
+        "History"
     ],
     "summary": null,
     "reviews": [
@@ -2514,8 +2515,31 @@
             "review_date": "2010-12-05",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "genuinely one of the greatest movies of all time. This dark, suspenseful tale is an absolute triumph for Japanese cinema!",
+            "review_date": "2020-06-01",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Despite their profound idealization of honor when it comes to the samurai, in one way or another, it is something that makes them so fascinating, and Harakiri clearly addresses the ethics of what their code entails.Harakiri is an elegant,Despite their profound idealization of honor when it comes to the samurai, in one way or another, it is something that makes them so fascinating, and Harakiri clearly addresses the ethics of what their code entails.Harakiri is an elegant, powerful, emotional, dramatic, exciting and beautiful movie. A masterpiece that exudes quality in all its elements.I can now see why this is one of the best samurai movies ever made, and it's all the more surprising that it's one that rightly questions its system.",
+            "review_date": "2023-02-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Whereas the story didn't fully captivate me, there is no doubt in the perfection of its directing, use of camera and acting.",
+            "review_date": "2022-07-23",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 9.7,
-    "rt_summary": "Aging samurai Hanshiro Tsugumo (Tatsuya Nakadai) arrives at the home of Kageyu Saito (Rentar\u00f4 Mikuni) and asks to commit a ritual suicide on the property, which Saito thinks is a ploy to gain pity and a job. Saito tells Tsugumo of another samurai, Motome Chijiiwa (Yoshio Inaba), who threatened suicide as a stratagem, only to be forced to follow through on the task. When Tsugumo reveals that Chijiiwa was his son-in-law, the disclosure sets off a fierce conflict."
+    "rt_summary": "Aging samurai Hanshiro Tsugumo (Tatsuya Nakadai) arrives at the home of Kageyu Saito (Rentar\u00f4 Mikuni) and asks to commit a ritual suicide on the property, which Saito thinks is a ploy to gain pity and a job. Saito tells Tsugumo of another samurai, Motome Chijiiwa (Yoshio Inaba), who threatened suicide as a stratagem, only to be forced to follow through on the task. When Tsugumo reveals that Chijiiwa was his son-in-law, the disclosure sets off a fierce conflict.",
+    "meta_rating": 7.6,
+    "meta_summary": "An elder ronin samurai arrives at a feudal lord's home and requests an honorable place to commit suicide. But when the ronin inquires about a younger samurai who arrived before him things take an unexpected turn."
 }

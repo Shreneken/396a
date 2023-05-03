@@ -1,11 +1,12 @@
 {
     "rating": 0.0,
     "release_date": "1958-04-23",
-    "num_reviews": 369,
+    "num_reviews": 390,
     "genres": [
         "Crime",
         "Drama",
-        "Film-Noir"
+        "Film-Noir",
+        "Thriller"
     ],
     "summary": "N/A",
     "reviews": [
@@ -2444,6 +2445,36 @@
             "review_date": "1998-10-22",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "Interesting title considering the studio recut it in a fight with Welles that ended in them not wanting to submit it for awards and him never working for a studio again.  Also interesting is that Welles' character mirrored his life at thatInteresting title considering the studio recut it in a fight with Welles that ended in them not wanting to submit it for awards and him never working for a studio again.  Also interesting is that Welles' character mirrored his life at that time.  I saw the 1998 version, reconstructed from Welles' notes.  It is fantastic, his 2nd best movie, just have to get past Charlton Heston as a Mexican.",
+            "review_date": "2020-01-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "An essential from Orson Welles. Police thriller with the well-known ingredents that makes works clockwise: crooked policemen, femmes fatale, an overwhemed atmosphere and intrigue.",
+            "review_date": "2018-11-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The best, GREATEST thrilling gangster movie ever portrayed! With the best movie character ever portrayed: Orson Welles as Capt. Hank Quinlan! Plus the best movie quote ever spoken: \"He was some kind of a man. What does it matter what you sayThe best, GREATEST thrilling gangster movie ever portrayed! With the best movie character ever portrayed: Orson Welles as Capt. Hank Quinlan! Plus the best movie quote ever spoken: \"He was some kind of a man. What does it matter what you say about people?\" And the best movie score ever composed!",
+            "review_date": "2019-08-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not my favourite Film Noir. Quinlan is so disgusting. And somehow I find this movie was so cheap, many scenes are in the studio with artificial light. There are some very mean scenes, but somehow I just wanted to see the end.",
+            "review_date": "2020-05-17",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 8.4,
+    "meta_summary": "This film noir portrait of corruption and morally-compromised obsessions stars Welles as Hank Quinlan, a crooked police chief who frames a Mexican youth as part of an intricate criminal plot. Charlton Heston plays an honorable Mexican narcotics investigator who clashes with the bigoted Quinlan after probing into his dark past. A memorableThis film noir portrait of corruption and morally-compromised obsessions stars Welles as Hank Quinlan, a crooked police chief who frames a Mexican youth as part of an intricate criminal plot. Charlton Heston plays an honorable Mexican narcotics investigator who clashes with the bigoted Quinlan after probing into his dark past. A memorable supporting cast including Janet Leigh as Heston's inquisitive wife, Akim Tamiroff as a seedy underworld leader, Zsa Zsa Gabor and Marlene Dietrich as an enigmatic gypsy complete this fascinating drama engulfed in haunting cinematography and a magnificently eerie score by Henry Mancini.\u2026 Expand"
 }

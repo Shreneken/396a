@@ -1,12 +1,447 @@
 {
     "rating": 5.6,
     "release_date": "January 2006 (United",
-    "num_reviews": 14,
+    "num_reviews": 90,
     "genres": [
         "Drama",
         "Horror",
         "Mystery"
     ],
     "summary": null,
-    "reviews": []
+    "reviews": [
+        {
+            "content": "A film that has had a great impact over the years in great part because of it being one of the movies that was actually preserved and could be seeen, it influenced Noir Film, psychological thrillers and horror for year and will continue to do. Also many people say it's themes come from Post War sensibilities. Hard to say. \n\nDon't believe people who say this was the first horror movie, it was not.\n\n\nRating highly because of it's impact.",
+            "review_date": "2020-09-12",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Really beautiful to watch! The story drags a little but that\u2019s probably just due to being from a different era.",
+            "review_date": "2019-10-06",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "How much more perfect can a remake of a silent classic get? They digitized the original negative to use the original sets and managed to capture the original silent masterpiece but with sound!  Of course they follow the original as closely as possible, the addition of sound makes it different enough that nothing more is needed; if you want a different take on the source material, please watch the 1962 version with Glynis Johns. Manages to be as much a curiosity as the original, and sits comfortably in its shadow.",
+            "review_date": "2019-01-19",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "The Cabinet of Dr. Caligari is an interesting, though unexceptional film. The faults other viewers have noted are there, though I am more forgiving and consider that the acting, for instance, can work as part of the odd vibe of the film. The sets are very interesting to look at. The only serious flaw was the sound, which was quite poor. Viewed as a sideshow (and not a main attraction), the Cabinet of Dr. Caligari is fine.",
+            "review_date": "2015-10-08",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I appreciate the far reaching effort, innovation, homage, and a dazzling concept. It comes across as earnest, and yet its a silly and soulless caricature.\nIt sadly does not capture the intrigue or the creepiness of the original silent film that ran in German theatres for seven straight years after its release.",
+            "review_date": "2015-03-06",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I love the original (favorite movie of all time) for the most part I love what the dialogue adds. I just don't like the effect with the fake Caesare. It just could have been a dummy like the original.",
+            "review_date": "2014-02-06",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Not a bad retelling of this story here, of course, it doesn't really compare to the original, but props for the filmmakers for trying the Guy Maddin approach to this. Doesn't quite work, but interesting nevertheless.",
+            "review_date": "2013-12-17",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Draws attention to and honors the original 1920 classic, but that's about all I can say.",
+            "review_date": "2012-07-13",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Greatest thing since sliced bread (or is it sliced wrists, I get those two confused). Watch with the 1920 original if you have too much time on your hands, as I obviously do. I only guarantee this perspective from the view of my home theater under the influence of the exact confluence I'm experiencing.",
+            "review_date": "2011-12-04",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "To be honest, i actually like this, i love the original so i had a lot of doubts about this but its actually pretty clever. sure its shot-for-shot like the Psycho remake (which that one did suck) but its not really a remake, its actually an update (if you know what i mean) obvisously the people who worked on this film liked the origninal. i guess they did this for modern audiences, or for people who don't like to read. but its not bad. its just a \"talkie\" now. thats all.",
+            "review_date": "2011-10-31",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I really admire what this film is attempting to do, but it misses the mark.  Still, it's an interesting watch.",
+            "review_date": "2011-10-29",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Sort of pointless little endeavor.  This remake of the German Expressionist Silent classic film uses images of the original sets and CG to put new actors in what is essentially a shot for shot remake with new dialogue and sound.  The film is pretty, but not original in anyway...I suggest watching the original, unless you are somehow abhorrent to the idea of silent pictures.",
+            "review_date": "2011-09-21",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I just started watching this on Netflix.  The original is one of my favorite movies.  This version is just as gorgeous and the mood/tone of the film is perfect.",
+            "review_date": "2011-09-11",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "the talking/modernization takes away from the original eeriness a little bit, but all in all, a good remake",
+            "review_date": "2011-08-12",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Awesome horror for classic...",
+            "review_date": "2010-04-04",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "nice specimen of german expressionism.",
+            "review_date": "2010-03-29",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "a classic german expressionist horror movie. However, due to being sooo old it didn't particularly entertain me",
+            "review_date": "2010-02-22",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I have to admit the original Cabinet of Dr. Caligari is my personal favorite silent film so this rating may be a little on the high side because this film seems more like a homage than a remake.  The scenes are almost identical to the original, but obviously there is sound in this version and that's what kills it.  Scenes are filled with too much dialogue, which the original feeds off that silent killer feel.  Also the actors of this version don't come close to the originals, but what do you expect still worthwhile for fans of the original besides that there isn't really that much going for this film.",
+            "review_date": "2010-01-11",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "God, watched this \"classic\" at Uni a fair few times. No recollection of it at all??",
+            "review_date": "2009-12-01",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "The 1919 silent classic The Cabinet of Dr. Caligari was one of the most influential films ever made. It has influenced to a degree every horror film, every serial killer film, and a great many films in other genres that have been made since. Among its most striking elements were the surreal, expressionist sets in which the action took place. This version uses modern digital technology to superimpose a new cast of actors on the actual images of the original sets. This gives us a Cabinet of Dr. Caligari with sound but with exactly the same scenes as the original. The actors adopt a style that blends a degree of modern naturalism with the with the melodramatic gestures and expressions of silent film stars. The resulting product is a fine entertainment. While this film could be enjoyed by someone who had never seen the original, I think it will be enjoyed most by those who have seen the silent version, which is a film every horror fan should see anyway. So, perhaps, is this one.",
+            "review_date": "2009-11-17",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "This attempt at an exact replica of a 1921 silent is actually not too shabby... The film has an aire of a stage production to it, and the set is all digitally composited, but it is strangely pulled off. I consider the original one of my favorite films, and to see that Fischer attempted to replicate it as much as possible make me happy. By itself, this film is quite un-exciting, but taken in context of the remake, The 2005 edition of Dr. Caligari is acceptable if not exceptional.",
+            "review_date": "2009-08-01",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "This is an unbelievably eery film. That is an all time classic must see.",
+            "review_date": "2009-04-21",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I actually found this remake sort of comical. Some of the acting was horrible, some was pretty good. I think a better remake of 'Caligari' could be done by Tim Burton (seeing as that's where a lot of is influence is from...just look at the sets!) in the same animation style as 'Nightmare' with a score by Danny Elfman. THAT, I believe, would be a more worthy remake of the 1919 classic.",
+            "review_date": "2009-01-23",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I'm in awe of all the positive reviews this movie has received.  It's a hilariously poor bastardization of a classic and deserves to be watched only for spitefully comedic purposes.  The green-screen technique was interesting, but NOT effective, and all of the performances felt worse than the average high-school play.  Also, liberties that were taken with the story made NO fucking sense, and in the end we just have a mess on our hands that should be swiftly washed off.",
+            "review_date": "2009-01-19",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Impressive remake of the classic tale of the mad psychiatrist and his somnambulist. Great use of sets and colors, the acting seems spot on appropriate for the style, and the flow felt improved. Bravo to these folks!",
+            "review_date": "2008-11-06",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Psychiatrist treating somnambulist patient uses him as a sideshow freak. This straight-forward remake of the Weimar era expressionist classic doesn't add anything to the story other than using dialog rather than intertitles. Even though the original film is on screen behind the new actors, the overall look of the film fails to grasp the jarringly angular expressionism of the original, but instead has a look that is far too polished and slickly modern for the story it is telling.",
+            "review_date": "2008-09-15",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I was horrified when I found out this was going to be remade. It's blasphemy! BUT.. I was very pleasantly surprised. They filmed the entire film with green screen, and then overlayed it digitally with the sets of the original film. Brilliant. They do an excellent job.",
+            "review_date": "2008-08-29",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "stepping stone for goth, horror. or simply anything dark. the first.",
+            "review_date": "2008-08-27",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "It's a bizarre classic.....",
+            "review_date": "2008-08-26",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "A visual beauty, but not much more. Just tries way too hard.",
+            "review_date": "2008-08-17",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Pretty much a shot-by-shot remake of the classic original.  Very nice looking but the shitty acting is a big problem.",
+            "review_date": "2008-08-08",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "NOTE: THIS FILM WAS RATED ON A FOUR STAR SCALE\n\nA beautiful Gothic masterpiece. One of the most innovative set designs in movie history. One of my favorite silent films.",
+            "review_date": "2008-08-08",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Not bad but you might as well skip this one and go directly to the 1919 original.",
+            "review_date": "2008-08-01",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Very bizarre and interesting with a nice twist ending. I have to see the silent original now!",
+            "review_date": "2008-07-17",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "An interesting concept for this remake of the 1921 silent horror classic. They filmed the entire movie with a green screen and used actual shots from the original film as the background. But the gimmick wore off after awhile and left me wanting to see the original version again.",
+            "review_date": "2008-06-29",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Way way better than most remakes....",
+            "review_date": "2008-06-01",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "For a remake of a classic, it is very well done.",
+            "review_date": "2008-05-10",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "very very interesting and creepy",
+            "review_date": "2008-05-08",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "awsome remake.  Very well done.  I loved hwo they kept the themes of the original movie as well as the expressionist acting style.  Even the sets remained the same.  \r\n\r\nThis movie IS the original movie, just with a script.",
+            "review_date": "2008-05-05",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "They remade it shot for shot with the same colors and shades that it really didn't need to be remade at all.  The only real difference is that this had sound but the original was silent.  Meh.",
+            "review_date": "2008-04-26",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "One of the worst remakes of all time. This film is epically bad and wretchedly acted. In their attempts to retell the classic tale exactly as it originally was they bastardize it beyond excuse. This unintentionally hilarious film physically hurt me to watch.",
+            "review_date": "2008-03-30",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "SO GREAT!!  the sets make the movie and the sleepwalker dude supposedly was the prototype for edward sissorhands and the crow",
+            "review_date": "2008-03-01",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "One of the most innovative remakes I've seen. Of course, it's still merely a shadow of the film it recreates, but it's a damn sight better than most remakes, if only for bringing something somewhat new to the table.\r\n\r\nHowever, wow, how about some overacting? Would you like that? Because this is definitely the place for at least a little bit of that! However, Caligari and his somnambulist are well cast. Doug Jones is always magnifcent.",
+            "review_date": "2008-02-19",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Although technically impressive, the remake is dramatically inert, as the set becomes a motionless backdrop to theatrical line readings instead of a pulsing manifestation of diseased minds. It's Caligari embalmed.",
+            "review_date": "2008-01-31",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "C+ = Slightly above average",
+            "review_date": "2008-01-16",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "It is understandable why they had the desire to remake the German Expressionist horror, the visual style is hypnotic and I'm now hooked to all things Impressionist and Expressionist from 1920s onwards.  What let the film down was a few dud lines here and there, and the acting was rather hit-and-miss.  I felt uncomfortable with the direction, as if they didn't know quite what they wanted to achieve - modern realist acting, then the next minute, silent cinema styled over-acting.  The chase through the woods also didn't work from the way it was edited.  It became comical for the mere minute it was on-screen, nearing farce.  My only desire was to see more of Doug Jones' Cesare and his eerie grace, but that's the way the plot goes.",
+            "review_date": "2008-01-10",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "interesting when you consider how this film was made.",
+            "review_date": "2007-12-28",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "[center][img]http://images.rottentomatoes.com/images/movie/coverv/70/995370.jpg[/img]\n \n [left][font=Courier New]Robert Wiene's [i]The Cabinet of Dr. Caligari[/i] is one of my favorite silent films and one of the best horror films I have ever seen. There is something eerily superb about the film that I just can't explained. The film has inspired many directors in their careers, and even the film [i]Cabinet of Caligari[/i] took elements from the film but wasn't a complete remake. When I first stumbled on David Lee Fisher's sound remake to this film I was intrigued at how closely the look of the film resembled the original. So I eagerly awaited its arrival on DVD.\n \n The amazing thing about this version of [i]The Cabinet of Dr. Caligari[/i] is that it managed to point out all the flaws of the original film, though not intentionally. The story presented in this film works as a silent film, but as a movie with sound you begin to notice just how thin the plot really is. Which made me sad since I couldn't get over how contrived this film felt, despite how much I loved the original film.\n \n The acting in the film makes it feel like this was an amateur  stage performance that was videotaped. None of the actors ever come off as genuine in their performance, and this managed to make me confused onto what was going on... even though I've seen the original many times and know it almost by heart. I will give credit to Doug Jones in his performance of Cesare. Doug Jones is best know for his work in films such as [i]Pan's Labyrinth[/i] and [i]Hellboy[/i]. He is a talented performer, and brings amazing work to each film he is in... even if he is buried beneath make-up and special effects. \n \n I was disappointed with [i]The Cabinet of Dr. Caligari[/i]. Remaking a classic is always risky business, but there have been times where it does work. I was hoping that this remake would work. Maybe if the film didn't try to be a scene for scene remake, just with sound added in, and tried something new, then it is possible this film could have been a great remake. [/font]\n [/left]\n [/center]",
+            "review_date": "2007-12-19",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "While the process of inserting contemporary actors into scenes shot three generations ago is fascinating, in this case (as is often the case in such technically groundbreaking films) the process overshadows the movie itself. The film is a fun watch but mostly only if you've seen the original. While I agree with the director's choice to make his actors employ the histrionic acting style of the original - as anything else would've felt oddly out of place - this still made the film feel not only dated but also makes one wonder, \"Haven\u00e2\u0080\u0099t I seen this before?\"",
+            "review_date": "2007-11-08",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Rubbish when compared to the original but considering the feat it can be excused. First off the use of chroma key is a bit choppy in some parts which I feel detracts a lot from the overall feel of the film. Secondly some of the lighting was a tad too film noir for a German expressionism remake, but it seems to work alright stylistically. The acting is poor at its best. This is not a bad film, it just doesn\u00e2\u0080\u0099t compare to its original.",
+            "review_date": "2007-11-07",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Really amazing adaptation of a great film.  To those who are going to say this is a German Expressionist film, this is actually a remake of the original.  It uses green screen to create the exact same scenes but adds talking.  I felt it was amazing, but sadly it was still a remake.",
+            "review_date": "2007-11-05",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "This film was extremely true to the original, which is nice to see, but overall I felt the film was really uneccesary. The acting was shaky by some, and phenomenal by others, but in the end the original film was much more effective without the dialogue. Still an interesting film to see, but one should not shun the original for this \"Remix\" simply because of sound.",
+            "review_date": "2007-10-17",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "This is actually from 1914 but who's counting, anyway this is a great silent film with a blendering twist at the end. German Expressionism at it's best.",
+            "review_date": "2007-10-04",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "He knows your future too",
+            "review_date": "2007-09-28",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "I think this is where Time Burton got most of his ideas.  An excellent silent German Expressionist film.  Very dark and weird.",
+            "review_date": "2007-09-25",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "creepy and ahead of its years. very smart and visually unique.",
+            "review_date": "2007-09-19",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Very solid film. Worth seeing at least once. Note: it is a sequel, so anyone wanting to see this movie should watch the original first (i personally found the original better)",
+            "review_date": "2007-09-02",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Pretty good. My second-cousin (Judson Pearce Morgan) is the star so that kind of makes my judgement somewhat bias. Very good for an indie film",
+            "review_date": "2007-08-20",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Exactly like the original in so many ways.  They changed very little.  The best thing was the sets, which, quite literally, the exact same ones since they green screened their actors into the original sets.  The bad part is it is quite noticable at times.  It was an interesting idea, but they took a great movie to begin with and made it into a poorly acted movie with good lighting.  I like the original so much, I kept trying to give this movie a chance, but I found myself wandering off throughout much of the dialog.  I recommend watching the original instead.",
+            "review_date": "2007-08-01",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Pretty much just a remake with interesting visuals lifted from the original.  Enthralling to look at, but offers nothing new or exciting.  Stick with the original!",
+            "review_date": "2007-07-16",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "this movie is phenominal. im watching it right now and im loving it. ive never seen the orignal but im going to now. its really scary and just creepy as hell. see this remake of a classic movie~",
+            "review_date": "2007-07-10",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "the acting was bad, but scenery was awesome. probably not as good as the original",
+            "review_date": "2007-07-08",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Silence in itself can be creepy... but the imagery is what gets you here.",
+            "review_date": "2007-06-19",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "The set is the sex !",
+            "review_date": "2007-06-16",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "It's pretty incredible to see current actors waltz around the expressionist sets digitally lifted from the classic German silent \"The Cabinet of Dr. Caligari,\" but other than the technology, this remake brings virtually nothing new to the table. It doesn't even use the many advancements made in the film medium since 1919 to make the offbeat old creeper more frightening to modern audiences the way that Werner Herzog did in his version of \"Nosferatu.\" The actors trudge through the pedestrian, semi-anachronistic dialogue as though they are in an actual silent film - although, in fairness, it mustn't be easy to act in a green-screen void. Anyone who's seen the new \"Star Wars\" trilogy knows that. Nevertheless, if you're a fan of the original, or German Expressionist cinema in general, this little experiment is a worthwhile rent.",
+            "review_date": "2007-06-12",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Absolutely pointless, poorly executed remake of a brilliant film.  See the original silent version rather than this piece of trash.  What made David Lee Fisher think this was a good idea?",
+            "review_date": "2007-06-10",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Interesting concept for a remake of a silent feature, but poorly executed.  Only impressive work comes from Doug Jones as the \"creature.\"  Great potential for a future version; would love to see more updated in this vein.",
+            "review_date": "2007-06-08",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "It's a remake. OH DEAR LORD NO.",
+            "review_date": "2007-06-02",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "one of the first movies I saw...in my other life",
+            "review_date": "2007-03-02",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "seems a little simplistic compared to SOME of todays movies, but none the less I was was intrigued. As first silent horror movie I have seen, I found that the lack of sound and the old quality of film made the film that bit scarier!",
+            "review_date": "2007-01-14",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "THe Best of the silemt German impressionist style films. amazing fisual effects. No computers here!!",
+            "review_date": "2006-12-11",
+            "source": "rt",
+            "lang": "en"
+        },
+        {
+            "content": "Masterful film about paranoia and madness turned into a neo-expressionist nightmare. Marked as the most influential film of its time at the Berlin Museum of Film. Worth checking out just to see how much of an impact this film has left for other dreamscape films.",
+            "review_date": "2006-11-20",
+            "source": "rt",
+            "lang": "en"
+        }
+    ],
+    "rt_rating": 6.4,
+    "rt_summary": "An evil hypnotist puts on an amazing carnival act, but all is not what it seems."
 }

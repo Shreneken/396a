@@ -1,11 +1,13 @@
 {
     "rating": 3.3,
     "release_date": "1988-08-12",
-    "num_reviews": 177,
+    "num_reviews": 186,
     "genres": [
         "Adventure",
         "Comedy",
-        "Family"
+        "Family",
+        "Sci-Fi",
+        "Fantasy"
     ],
     "summary": "An alien trying to escape from NASA is befriended by a wheelchair-bound boy.",
     "reviews": [
@@ -1098,8 +1100,17 @@
             "review_date": "2023-01-06",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis is the worst movie EVER. Coke has healing powers and the acting is terrible. The aliens give my literal nightmares and its pretty much just a McDonalds movie.I can't stress how bad it is, but yet, it is so hilarious to watch!",
+            "review_date": "2022-03-07",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 3.8,
-    "rt_summary": "A young extraterrestrial, separated from its family and stranded on Earth, finds friendship with a boy in a wheelchair."
+    "rt_summary": "A young extraterrestrial, separated from its family and stranded on Earth, finds friendship with a boy in a wheelchair.",
+    "meta_rating": 4.0,
+    "meta_summary": "An alien trying to escape from NASA is befriended by a wheelchair-bound boy."
 }

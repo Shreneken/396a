@@ -1,7 +1,7 @@
 {
     "rating": 7.7,
     "release_date": "1991-12-12",
-    "num_reviews": 123,
+    "num_reviews": 139,
     "genres": [
         "Comedy",
         "Drama"
@@ -701,5 +701,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 7.5,
+    "meta_summary": "An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night."
 }

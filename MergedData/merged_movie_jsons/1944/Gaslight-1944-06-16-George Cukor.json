@@ -1,11 +1,13 @@
 {
     "rating": 0.0,
     "release_date": "1944-06-16",
-    "num_reviews": 182,
+    "num_reviews": 191,
     "genres": [
         "Crime",
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Thriller",
+        "Film-Noir"
     ],
     "summary": "N/A",
     "reviews": [
@@ -1227,5 +1229,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 8.8,
+    "meta_summary": "Years after her aunt was murdered in her home, a young woman moves back into the house with her new husband. However, he has a secret that he will do anything to protect, even if it means driving his wife insane."
 }

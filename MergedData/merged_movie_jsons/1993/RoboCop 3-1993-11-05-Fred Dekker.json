@@ -1,11 +1,12 @@
 {
     "rating": 4.1,
     "release_date": "1993-11-05",
-    "num_reviews": 234,
+    "num_reviews": 248,
     "genres": [
         "Action",
         "Crime",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Thriller"
     ],
     "summary": "Robocop saves the day once more. This time the half man/half robot takes on ruthless developers who want to evict some people on \"their\" land.",
     "reviews": [
@@ -1576,6 +1577,36 @@
             "review_date": "2006-06-26",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "There's a reason this film killed the franchise. The violence and action are replaced with cheesy comedy that is more cringe-worthy than actually funny. Everything is dumbed down, From the terrible plot to the terrible acting, It's just awful.",
+            "review_date": "2018-10-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nI honestly like the overall atmosphere of these first 'Robocop' movies. The beginning of this third opus is simply amazing with these caricatures of the TV news.The story is kind of weird, some parts more than others. Like the little overpowered girl joining the resistance so fast and being involved in huge gunfights. In the end iy is just all about a classic resistance versus oppressor story but with so much around it. There definitely are some powerful symbols here and there. The protagonists are just over-stereotyped (like the punks) and american-ized (like characters' visions of armed justice and self-defense). Obviously they had to add an autodestruction system on the last opponent. How original and unpredictable.Before you realize and accept the fact that the commander leads his own troops in close combat and on the front lines, you also notice that several women play an important role and are strong. Amazing in a 1993 movie. The overall music is great even if sound effects could have been much better from time to time. There are as many effective jokes as there are boring and ridiculous ones. In some scenes you can really see an Iron Man lookalike. The end battles between Robocop and Chinese clones are really disappointing, almost laughable.In conclusion, this sequel sees the characters become more superficial than ever, but I found that the film still managed to bring an interesting depth to the whole.",
+            "review_date": "2021-05-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There's a reason this film killed the franchise. The violence and action are replaced with cheesy comedy that is more cringe-worthy than actually funny. Everything is dumbed down, From the terrible plot to the terrible acting, It's just awful.",
+            "review_date": "2022-11-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "not even close to living up to its hype. Yes, it's a tiny bit better than the original, but it's still far superior to the second movie, which I always thought was incredibly cruel. This film feels more similar to Verhoven's original than thenot even close to living up to its hype. Yes, it's a tiny bit better than the original, but it's still far superior to the second movie, which I always thought was incredibly cruel. This film feels more similar to Verhoven's original than the second one and has an unexpectedly large amount of heart. Not too seriously, please.",
+            "review_date": "2023-02-14",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 5.5,
+    "meta_summary": "Robocop saves the day once more. This time the half man/half robot takes on ruthless developers who want to evict some people on \"their\" land."
 }

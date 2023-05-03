@@ -1,7 +1,7 @@
 {
     "rating": 4.2,
     "release_date": "1999-08-20",
-    "num_reviews": 263,
+    "num_reviews": 276,
     "genres": [
         "Action",
         "Sci-Fi"
@@ -1531,8 +1531,17 @@
             "review_date": "2010-05-19",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think Bill Goldberg is a good addition to the movie 'cuz he's lean and mean and fits the part very well. All the other parts can be thrown out.",
+            "review_date": "2006-07-21",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 2.4,
-    "rt_summary": "After being brought back from the dead as a genetically enhanced warrior, Luc Deveraux (Jean-Claude Van Damme) is now fully human and working with scientist Dylan Cotner (Xander Berkeley) to create a new, safer breed of fighters. When Cotner's project loses its funding, his supercomputer, the sentient SETH (Michael Jai White), is scheduled to be turned off. Alarmed, SETH takes over a human body to defend itself. To prevent the machine from destroying mankind, Luc must fight back."
+    "rt_summary": "After being brought back from the dead as a genetically enhanced warrior, Luc Deveraux (Jean-Claude Van Damme) is now fully human and working with scientist Dylan Cotner (Xander Berkeley) to create a new, safer breed of fighters. When Cotner's project loses its funding, his supercomputer, the sentient SETH (Michael Jai White), is scheduled to be turned off. Alarmed, SETH takes over a human body to defend itself. To prevent the machine from destroying mankind, Luc must fight back.",
+    "meta_rating": 4.7,
+    "meta_summary": "Luc Deveraux (Van Damme), who has survived his experiences as a Universal Soldier, recovered, and is now retired and working as a technical advisor on a government project to revive and improve the Universal Soldier training program, creating stronger, smarter and more versatile cyborg Soldiers.   When S.E.T.H., the supercomputerLuc Deveraux (Van Damme), who has survived his experiences as a Universal Soldier, recovered, and is now retired and working as a technical advisor on a government project to revive and improve the Universal Soldier training program, creating stronger, smarter and more versatile cyborg Soldiers.   When S.E.T.H., the supercomputer controlling the Soldiers, becomes discontent and takes over a la HAL, Luc is the only one who can battle this team of deadly warriors and save the human race.\u2026 Expand"
 }

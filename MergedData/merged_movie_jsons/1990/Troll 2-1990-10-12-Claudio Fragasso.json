@@ -1,7 +1,7 @@
 {
     "rating": 0.0,
     "release_date": "1990-10-12",
-    "num_reviews": 786,
+    "num_reviews": 791,
     "genres": [
         "Comedy",
         "Fantasy",
@@ -4925,8 +4925,31 @@
             "review_date": "2013-02-16",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Troll 2 has been cited as one of the worst movies ever or the father of bad movies and such. After finally seeing it, I have to concur. This film is dreadful, but because it is dreadful it is somewhat hilarious. The cinematography and editingTroll 2 has been cited as one of the worst movies ever or the father of bad movies and such. After finally seeing it, I have to concur. This film is dreadful, but because it is dreadful it is somewhat hilarious. The cinematography and editing are incredibly slip shod and the costumes of the trolls(or shall I say goblins) are quite horrible. The story also meanders all over the place, the script is abysmal and the direction is wretched. Then there is the poor pacing and atrocious acting, and any hopes of any thrills or scares are replaced with scatterings of unintentional laughs and often for the wrong reasons. Overall, it is a dreadful film, but it does have some unintentional entertainment value unlike some of the other bad movies I've seen. 1/10 Bethany Cox",
+            "review_date": "2022-03-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "'Oh my god!' From the film perfectly sums up this film. Firstly, no trolls. Just nilbogs, just goblins backwards. The acting is awful, the film is awful, but there's some sort of enjoyment from it.",
+            "review_date": "2022-04-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The acting is just awful, script is laughable. Don't watch this movie. There are far better movies from the 90's.",
+            "review_date": "2021-08-25",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 4.5,
-    "rt_summary": "When young Joshua (Michael Stephenson) learns that he will be going on vacation with his family to a small town called Nilbog, he protests adamantly. He is warned by the spirit of his deceased grandfather that goblins populate the town. His parents, Michael (George Hardy) and Diana (Margo Prey), dismiss his apprehensions, but soon learn to appreciate their son's warnings. Guided by his grandfather's ghost, will Joshua and his family stand a chance in fighting off these evil beings?"
+    "rt_summary": "When young Joshua (Michael Stephenson) learns that he will be going on vacation with his family to a small town called Nilbog, he protests adamantly. He is warned by the spirit of his deceased grandfather that goblins populate the town. His parents, Michael (George Hardy) and Diana (Margo Prey), dismiss his apprehensions, but soon learn to appreciate their son's warnings. Guided by his grandfather's ghost, will Joshua and his family stand a chance in fighting off these evil beings?",
+    "meta_rating": 4.2,
+    "meta_summary": "A vacationing family discovers that the entire town they're visiting is inhabited by goblins, disguised as humans, who plan to eat them."
 }

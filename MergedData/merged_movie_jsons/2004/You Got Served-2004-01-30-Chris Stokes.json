@@ -1,10 +1,13 @@
 {
     "rating": 3.8,
     "release_date": "2004-01-30",
-    "num_reviews": 253,
+    "num_reviews": 283,
     "genres": [
         "Drama",
-        "Music"
+        "Music",
+        "Sport",
+        "Comedy",
+        "Family"
     ],
     "summary": null,
     "reviews": [
@@ -1757,6 +1760,50 @@
             "review_date": "2005-12-30",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "That was the best dancing movie i've ever seen. The story line sucks but the dancing made the movie, it was tight!",
+            "review_date": "2005-11-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I loved your movie. It's showd how no matter what comes in between you and you friends. thier isn't that will stand in the way of true friendship because it wins everytime.",
+            "review_date": "2005-08-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "We have found evidence of weapons of mass destruction.",
+            "review_date": "2004-02-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Garbage. It's as if, every single dance movie is CRAP. The only reason this gets a 3 is because some dance moves looked cool. Other than that, total crap. So when people go to these movies, and the producers seem to think that the Garbage. It's as if, every single dance movie is CRAP. The only reason this gets a 3 is because some dance moves looked cool. Other than that, total crap. So when people go to these movies, and the producers seem to think that the actual public like it, this just makes them make even crappier movies. So, if you go to watch these movies, you're part of the problem. join forces with us (people that don't stand for this garbage), and say no to ass movies, don't let them to this to us.",
+            "review_date": "2006-10-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I watch this movie only for the dancing, well and steve harvey haha. Other then the dancing the movie is excruciatingly bad. Every movie like this someone dies and at the end it has to go down to a tie and a showdown.",
+            "review_date": "2012-02-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The movie is rather generic, the dance sequences were exhilarating but it doesn't make up for the movies' abundance of cliche. Out of the B2K crew, J-Boog was spot on in his role as Rico. While his character is just as underdeveloped as theThe movie is rather generic, the dance sequences were exhilarating but it doesn't make up for the movies' abundance of cliche. Out of the B2K crew, J-Boog was spot on in his role as Rico. While his character is just as underdeveloped as the rest, J-Boog's performance, at least, brings warmth in this otherwise very ordinary and way below-average popcorn flick.",
+            "review_date": "2013-07-01",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 6.4,
+    "meta_summary": "A new fable for the hip hop age, where the best street dancers pit their moves and their passion for a chance to turn their talent into their dreams.  (Screen Gems)"
 }

@@ -1,11 +1,12 @@
 {
     "rating": 8.4,
     "release_date": "1963-11-26",
-    "num_reviews": 407,
+    "num_reviews": 419,
     "genres": [
         "Crime",
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Thriller"
     ],
     "summary": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
     "reviews": [
@@ -2495,5 +2496,7 @@
         }
     ],
     "rt_rating": 9.5,
-    "rt_summary": "Toshiro Mifune stars as a wealthy industrialist whose family becomes the target of a ruthless kidnapper in Akira Kurosawa's exemplary film noir. Based on Ed McBain's detective novel \"King's Ransom,\" \"High and Low\" is both a riveting thriller and a brilliant commentary on contemporary Japanese society."
+    "rt_summary": "Toshiro Mifune stars as a wealthy industrialist whose family becomes the target of a ruthless kidnapper in Akira Kurosawa's exemplary film noir. Based on Ed McBain's detective novel \"King's Ransom,\" \"High and Low\" is both a riveting thriller and a brilliant commentary on contemporary Japanese society.",
+    "meta_rating": 8.0,
+    "meta_summary": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom."
 }

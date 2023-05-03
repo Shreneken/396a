@@ -5,7 +5,8 @@
     "genres": [
         "Drama",
         "Thriller",
-        "Western"
+        "Western",
+        "Action"
     ],
     "summary": null,
     "reviews": [
@@ -2970,5 +2971,7 @@
             "lang": "en",
             "source": "imdb"
         }
-    ]
+    ],
+    "meta_rating": 8.4,
+    "meta_summary": "This classic 1952 Western stars Gary Cooper as just-married lawman Will Kane, who is about to retire as a small-town sheriff and begin a new life with his bride (Grace Kelly) when he learns that gunslinger Frank Miller (Ian MacDonald) is due to arrive at high noon to settle an old score."
 }

@@ -1,11 +1,12 @@
 {
     "rating": 0.0,
     "release_date": "2015-05-15",
-    "num_reviews": 276,
+    "num_reviews": 282,
     "genres": [
         "Horror",
         "Mystery",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Thriller"
     ],
     "summary": "N/A",
     "reviews": [
@@ -1681,8 +1682,24 @@
             "review_date": "2009-06-07",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The minimalist approach surprisingly creates an involving trip, although it's hampered with vague visual and unsatisfying conclusion Found footage genre hasn't found much success after the initial trend start with REC or Cloverfield. ItThe minimalist approach surprisingly creates an involving trip, although it's hampered with vague visual and unsatisfying conclusion Found footage genre hasn't found much success after the initial trend start with REC or Cloverfield. It attempts to create a more personal experience with first person view often falls flat with cumbersome shaky shots and unclear scenes. Area 51 suffers from the same exact problems and it stutters towards the end, but it also manages to set an occasionally interesting trip, especially in the first half.\r Story follows Reid and his friends as he tries to infiltrate the highly secured titular facility. To do so he must investigate the area and bypass many security measures. For most early parts, the film delivers quite the ride as audiences follow these guys on Vegas and its surrounding. Some investigations and interviews set the tone right, and not in overly silly way. Characters are also pretty decent and likeable as though they are real life friends.\r Unfortunately, it soon arrives at familiar territory of hazy shots and mindless running. The scenes in the city or desert are identifiable, but when it is stranded in dark corners, the movie loses the momentum significantly. Script is also numbingly bland as characters would yell the same thing over and over again, this is especially true when they are repeatedly shouting, \u201cWe gotta go\u201d. With both visual and audio decrease in quality, it just turns into a confusing escapade.\r Cinematography is to be expected from this kind of found footage flick, it\u2019s rather elementary, but there are a few good shots with modified vision. At several scenes the film builds up the suspense pretty well, these are not all translated into thrilling moments. It almost seems like it has problems in latter half, resorting to cheap alien gimmick and nullifying its early decent production.\r Area 51 has a presentable start with more engaging use of the found footage, but it falls to the same issues and ends up like the rest without accomplishing much.",
+            "review_date": "2015-05-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For a movie that was in production for 6+ years and directed by Oren Peli (the director of Paranormal Activity), Area 51 is a letdown. Now, it's not terrible mind you, but average. It is not a horror movie; more like a fake documentary aboutFor a movie that was in production for 6+ years and directed by Oren Peli (the director of Paranormal Activity), Area 51 is a letdown. Now, it's not terrible mind you, but average. It is not a horror movie; more like a fake documentary about people sneaking onto Area 51. There are some interesting visuals/ideas and the characters are very likeable for a found-footage affair, but is definitely not a must see. If you like found-footage movies, then give Area 51 a try. I don't hate myself for watching it.",
+            "review_date": "2015-09-02",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 3.3,
-    "rt_summary": "Obsessed with UFOs, a man (Reid Warner) and two friends find evidence of an alien presence at Area 51 in Nevada."
+    "rt_summary": "Obsessed with UFOs, a man (Reid Warner) and two friends find evidence of an alien presence at Area 51 in Nevada.",
+    "meta_rating": 3.6,
+    "meta_summary": "Three young conspiracy theorists attempt to uncover the mysteries of Area 51, the government\u2019s top secret location rumored to have hosted encounters with alien beings. What they find at this hidden facility exposes horrifying, unimaginable secrets."
 }

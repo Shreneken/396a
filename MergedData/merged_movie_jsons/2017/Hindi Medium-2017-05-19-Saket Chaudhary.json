@@ -1,7 +1,7 @@
 {
     "rating": 7.8,
     "release_date": "2017-05-19",
-    "num_reviews": 110,
+    "num_reviews": 112,
     "genres": [
         "Comedy",
         "Drama"
@@ -707,6 +707,15 @@
             "review_date": "2020-05-03",
             "lang": "en",
             "source": "imdb"
+        },
+        {
+            "review_title": null,
+            "content": "Heartwarming, engaging, thought-provoking, and humorous. This film won the Filmfare Award for Best Film, and it definitely deserved that award. Saba Qamar's performance is spectacular.",
+            "review_date": "2018-02-05",
+            "source": "metacritic",
+            "lang": "en"
         }
-    ]
+    ],
+    "meta_rating": 7.8,
+    "meta_summary": "A young couple Raj (Irrfan Khan) & Mita (Saba Qamar) from Chandni Chowk, Delhi aspire to move into English speaking society for their daughter\u2019s sake. The film traces their trials and tribulations on this journey and the impact it has on their relationship on their family."
 }

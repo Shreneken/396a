@@ -1,11 +1,14 @@
 {
     "rating": 0.0,
     "release_date": "2014-06-13",
-    "num_reviews": 1114,
+    "num_reviews": 1262,
     "genres": [
         "Animation",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Family"
     ],
     "summary": "N/A",
     "reviews": [
@@ -6775,8 +6778,696 @@
             "review_date": "2014-12-24",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Not only is this movie an excellent follow-up that's almost as good as the first, it's gorgeous to look at and one of the studios most emotional.",
+            "review_date": "2019-11-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"How To Train Your Dragon 2\" Is a very emotional movie, and captures the importance of trust and friendship very well. The plot was organized and easy to follow, and the story line was creatively created. It was a great continuation from the\"How To Train Your Dragon 2\" Is a very emotional movie, and captures the importance of trust and friendship very well. The plot was organized and easy to follow, and the story line was creatively created. It was a great continuation from the first film, and Toothless and Hiccup's friendship grew. It was a wonderful movie, and I am excited for the third one!",
+            "review_date": "2014-09-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It doesn't have the bit of charm from the first movie, but it's still worth it to say that it's still a decent sequel to the charming original that made the book look like a success.",
+            "review_date": "2016-01-12",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "DreamWorks, thank you. THANK YOU! Thank you for making a sequel to one of my favorite animated films and not screwing it up! And, on that note, thank you for making a sequel to an amazing animated film and building on the previous film like aDreamWorks, thank you. THANK YOU! Thank you for making a sequel to one of my favorite animated films and not screwing it up! And, on that note, thank you for making a sequel to an amazing animated film and building on the previous film like a sequel should! \"How to Train Your Dragon 2\" is a fantastic animated adventure that's brilliantly animated, well-acted, excellently written, action-packed, and emotionally resonant. When all is said and done, this might go down as one of the greatest animated sequels ever made, and it is an absolute must-watch! If you haven't gotten the chance to see the film yet, do yourself a favor!",
+            "review_date": "2017-01-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Hiccup, the main character of the movie, lives in a small viking town called Berk. Thanks to his studies and constant analysis of dragons, people of Berk now a lot more about dragons and understand them better. They are living peacefully withHiccup, the main character of the movie, lives in a small viking town called Berk. Thanks to his studies and constant analysis of dragons, people of Berk now a lot more about dragons and understand them better. They are living peacefully with tamed dragons until a group of dragon hunters arrive from a neighboring place. From then the story gets twisted and we unpredicted events unfold.\r Hiccup constantly pushes to solve the problems with conversation and dialog unlike most vikings in his town who are ready to fight and use violence. He relentlessly engages with the \u201cenemies\u201d and keeps a discourse with them. He constantly studies them and tries to understand them.\r There are two strong themes in the movie that made me love it. The first theme is the relation between humans and animals which symbolically represents the relation between any two group of adversaries: two races, two ethnicities, followers of two religions, or even two nations. Through the movie, when a group studies and understands the other group, animosities subside, mutual respect flourishes, and the common cores of both groups bind them together. In the call for understanding other groups, this movie implicitly asks us to throw away all the preconceptions and dogma and look at them, judge them, and treat them fairly and justly.\r The second strong theme in the movie is Hiccup's constant search for his identity. He is confused about who he really is and why he is different from all other vikings. But he also ceaselessly searches and seek what he wants to do with his life. He is fearless when he faces challenges and new experiences.\r How to train your dragon 2, is a phenomenal movie, the kind that you have wait years for to come and the kind that will fill you with joy whenever you remember. It is extremely fun to watch with an amazing story and unbelievable cinematography. It is a kids movie for adults. After watching this movie, all you want to do is flying and pondering on the questions that it touches.",
+            "review_date": "2014-08-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How To Train Your Dragon 2 is one of the rare cases in which an animation can entertain kids and adults equally.  Boasting beautiful animation, strong character development, and surprising emotional impact, How To Train Your Dragon 2 succeedsHow To Train Your Dragon 2 is one of the rare cases in which an animation can entertain kids and adults equally.  Boasting beautiful animation, strong character development, and surprising emotional impact, How To Train Your Dragon 2 succeeds in becoming one of the best animated films ever made.\r 9.4/10",
+            "review_date": "2015-01-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Quite possibly the best animated sequel of all time, How To Train Your Dragon 2 expands its boundaries while retaining the heart-warming spirit of the original. The animation quality is superb; the plot is as mature as any Lord of the RingsQuite possibly the best animated sequel of all time, How To Train Your Dragon 2 expands its boundaries while retaining the heart-warming spirit of the original. The animation quality is superb; the plot is as mature as any Lord of the Rings movie; the soundtrack is mind-blowing; and the characters are relatable human characters, complete with flaws and realistic character development. It far surpassed my expectations, and was worth the 6 month long wait. Honestly deserves the wins for Best Animated Feature, Best Original Score, and Best Original Song at the 2015 Oscars.",
+            "review_date": "2014-09-02",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"At the first sight you may find the film boring, but if you continue watching, you'll see it worth it.\rprobably DreamWorks's  best animation along with the original \"How to Train your Dragon\", the meaning it contained was somehow political\"At the first sight you may find the film boring, but if you continue watching, you'll see it worth it.\rprobably DreamWorks's  best animation along with the original \"How to Train your Dragon\", the meaning it contained was somehow political which made it even more enjoyable to watch. \"Good dragons under the control of bad dragons will do bad things\"\rmany things just cropped up during the movie, in a gripping and beautiful way\"",
+            "review_date": "2014-11-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I don't know how they did it, but DreamWorks managed to top the original. How to Train Your Dragon 2 takes every aspect of the original and makes it better, from the character development to the action to the visuals to the humor to the dramaI don't know how they did it, but DreamWorks managed to top the original. How to Train Your Dragon 2 takes every aspect of the original and makes it better, from the character development to the action to the visuals to the humor to the drama to the subject matter. This is easily the best animated movie of 2014.",
+            "review_date": "2014-12-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Quiet possibly one of the best animated movies of all time.How To Train Your Dragon 2 reminded us what is like to watch an animated movie that speaks to kids and adults alike.Everybody will love and get amazed by this movie.It's constantlyQuiet possibly one of the best animated movies of all time.How To Train Your Dragon 2 reminded us what is like to watch an animated movie that speaks to kids and adults alike.Everybody will love and get amazed by this movie.It's constantly fast paced full of action and the characters are as great as they ever was.The voice acting is also perfect and the Director really knows where to take inspiration,which in this case just happens to be The Empire Strikes Back.And this movie totally reminded us of the greatness of that movie.",
+            "review_date": "2015-06-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Life there is amazing! How to Train Your Dragon is always my favorite movie!",
+            "review_date": "2019-02-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a very good film, but for me it lost the charm of the original. Typically, sequels to an animated movie end up being trash, but this film doesn't follow that trend. As a sequel, it has more dragons that are very interesting and coolThis is a very good film, but for me it lost the charm of the original. Typically, sequels to an animated movie end up being trash, but this film doesn't follow that trend. As a sequel, it has more dragons that are very interesting and cool looking. The action, graphics and overall story in the film are great as well! I'm very happy with the progress of the main characters, and it really sets up the 3rd film well. Where I was turned off, was the constant need to force Toothless into doing cute actions. In the first film, Toothless had a genuine cuteness to him, but in the sequel it was overdone and quite frankly became distracting. For example, there would be some important dialogue between characters, and then Toothless would be doing something in the background... I guess they put this is for the kiddies who could care less about what's going on in the story, but as an adult, I care about the characters and the challenges they're trying to overcome... but I couldn't focus on what they were saying with how distracting Toothless became during those scenes. Also, I really liked the rag-tag bunch of Hiccups friends in the first film. They were a ton of fun, but in the sequel, they didn't have the same impact. Astrid as Hiccups girlfriend is boring, and Snotlout, Fishlegs, Tuffnut were not really funny. Ruffnut was definitely the best of the group, but her \"joke\" quickly ran its course, when they used it over and over again. Other than the many distractions from Toothless and the lack of fun from Hiccup's group of friends, this movie was a fantastic sequel. I will recommend it to all families and feel like it's a great challenger to Lego Movie for best animated film of the year.",
+            "review_date": "2014-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For starters, \u201cHow to Train Your Dragon 2\u201d has a very mature and rich story that is filled with emotional and dramatic depth. It grows our characters from the first film and really feels like a continuation of the series and not just someFor starters, \u201cHow to Train Your Dragon 2\u201d has a very mature and rich story that is filled with emotional and dramatic depth. It grows our characters from the first film and really feels like a continuation of the series and not just some cash grab. We see how Berk has changed and how the lives of everyone on the island has become better, I really love how the film tackles darker subject matter like remorse, forgiveness, and redemption, while at the same time touching on themes of love and loss. The screenplay is filled with moments of pure heart and we really see the bond between Hiccup and Toothless expanded upon. Not only is this a great screenplay, but also Dreamworks\u2019 best since the original \u201cShrek.\u201d\r The characters and voice actors are perfect. I love how the characters have grown and their personalities have been enhanced. Hiccup takes a more proactive role in this film and we really see that he\u2019s matured a lot from the first film. His and Toothless\u2019 relationship is expanded on and it really is still the core emotional center of the film. The side characters like Astrid and Snotlout get more screen time this time around and they actually do more with the film. They aid with the comic relief to keep the movie a little lighter than the extremely dark tone that it\u2019s going for. There are a few new characters introduced into the universe like Valka, Eret, and Drago Bludvist. Valka is a great character and she\u2019s another great female addition to the roster. She has a great emotional ark and not only that, she is a strong character and a better dragon master than Hiccup that really holds her own. Eret is a nice addition to the cast as he is also comic relief, but also a interest side villain character. Drago is a fantastic villain and is really a cold hearted murderer. His method of mastering dragons really differs from Hiccups and its a great contrast that shows the different types of people that are in this world. I love how they build him up before actually revealing him.\r The animation and visuals are probably amongst the best I\u2019ve seen from any CGI film to date. It is just breathtakingly gorgeous. The character\u2019s movements are so fluid and each character has their own way of moving. What I found really impressive is the facial animation. There are so many intimate moments in this film that require no dialogue and we can sense exactly what the characters are thinking from their expressions. There is always something happening in the foreground as well as the background and it\u2019s unlike anything that I\u2019ve seen before in the medium. Characters could be taking in front of the camera, but in the background there could be an epic battle taking place. There is a lot to take in, but the director, Dean DeBlois, knows how to balance the visuals with well paced story. The layout and environment are also quite impressive. Every blade of grass, powder of snow, and water particles are just amazing to look at.\r The score from John Powell impresses again and really enhances the already great score of the series. It\u2019s bombastic, epic, touching, and moving. There is something about the score that really makes the film so much better than it already is. I was literally left in tears because of the score and how beautiful it is.\r I\u2019m gonna come out and say it. \u201cHow to Train Your Dragon 2\u201d is a MASTERPIECE amongst modern films and a revolution in animation. It is a film that is going to push animation further and allow the medium to be taken more seriously. For a major studio production, it goes to places that the medium has only thought of, but couldn\u2019t really pull it off because of limitations set by studios and audiences alike. It is almost a near perfect film and I award it the highest 5/5 that I can.",
+            "review_date": "2014-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Just finished watching HTTYD2. Yes, Yes, Yes, Yes, Best animated i have seen so far\r ___\r\n-Visual, Best visual for a Animation I had seen so far, Every dragon has a really interesting art design, they detailed every bits of the dragon andJust finished watching HTTYD2. Yes, Yes, Yes, Yes, Best animated i have seen so far\r ___\r-Visual, Best visual for a Animation I had seen so far, Every dragon has a really interesting art design, they detailed every bits of the dragon and make it look realistic. I think even better than any Pixar movie visuals yet, i think...\r -Story plot, though the concept felt abit same as the first one, but its still really great that every seconds count and you never want to even leave your seats for a toilet break, kids will learn alot of life lessons out of it and not only kids, but everyone too will defiantly enjoy it.\r -Voice, also quite a really good job, but i think there's still room for improvement\r -Soundtrack, Yes Yes Yes Yes, Really holy Amazing, i love every bit of it. each track works really well in their part and The ending song by Jonsi is my favorite among them all.\r -Character, Is good as always, showing every character background really well and made them really interesting to the audience.\r Overall, Best Animated yet i have seen so far, from anyone young to old, movie lovers, or everyone, its a movie that you wouldn't want to miss\r(oh the 3D is something you wouldn't want to miss )\r Score: 5/5",
+            "review_date": "2014-06-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How to train your dragon 2 is the best film ever made!! i could well can and have watched it like everyday! no where near boring i love the film, the first one was brilliant also!!! i hope for a third",
+            "review_date": "2014-09-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This sequel takes place 5 years later, when brave Hiccup and his dragon have united their species in harmony. Then comes a villain who wants to enslave them all. The plot and dialogue are pretty mundane, the characters lack any spark orThis sequel takes place 5 years later, when brave Hiccup and his dragon have united their species in harmony. Then comes a villain who wants to enslave them all. The plot and dialogue are pretty mundane, the characters lack any spark or originality, but the animation is lovely. There's too much dialogue for young audiences, but enough action sprinkled throughout to entertain. Overall, an uninspired and unspecial followup. (I don't understand why several of the Vikings in this village have Scottish accents.)",
+            "review_date": "2014-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Story:\rFive years after the Viking village of Berk has made peace with the dragons, dragons now live amongst the villagers as working animals and companions. But when someone wants to control all the dragons, it's up to Hiccup and the gangStory:\rFive years after the Viking village of Berk has made peace with the dragons, dragons now live amongst the villagers as working animals and companions. But when someone wants to control all the dragons, it's up to Hiccup and the gang to stop him. The film has been getting a TON of praise from critics, so much that I decided to finally begin reviewing animated films (Will eventually go to other genres). Whereas the 1st film's story revolved around Hiccup as he tries to earn the respect of his father and fellow villagers, along with developing a relationship with Toothless, the 2nd film focuses on Hiccup's family and the dangers that Drago Bludvist has on the dragons. To me, I don't see what the critics are talking about when it comes to the story being refreshing and original since it does have some problems. The story here is by-the-books: (To avoid as much spoilers as possible, I won't reveal anything important) Hiccup learns about Drago, Drago does evil things, Hiccup meets Drago and tries to solve the problem without violence, Drago does more evil things, Hiccup has to stop Drago in the end leading into a final action scene. The story here is nothing new and amazing as critics seem to say, and since this is one of those animated films that centers around its story and characters (as in their contributions to the plot) while also having a serious tone, having a cliched story actually hurts the film more than it would in something like Madagascar or Rio. In fact, the story in the 1st film to me felt better than here mostly because of Hiccup's great chemistry with some of the characters. Overall, the story is receiving more praise than it deserves. 6/10\r Animation:\rThis is the film's biggest strength as the animation here is spectacular. The backgrounds look stunning, the textures are great, the character designs are well made, the environments vary from snowy mountains, to lush flora, to ice-y terrain, and Berk. Another impressive thing was the variety of dragons. There were at least 30 different kinds of dragons seen, and each one looks like they have their own unique feature that makes them special. You can easily make an encyclopedia on all the dragons here. But the most incredible thing about the animation were the action scenes, especially with some \"Alpha\" dragons fighting in the background. Definitely watch this movie in 3D or IMAX if you can. 10/10\r Characters and Comedy:\rAs said, to me the 1st film made better use of the characters than here. I'll say that Hiccup's relationship with his father Stoick and his mother Valka make for some of the more heartwarming moments in the film. Dreamworks did add in some emotional scenes here as things happen to Hiccup, and it's great to see him change throughout the film because of those actions. His bond with Toothless also serves as another highlight to the film. His scenes with his family and Toothless are some of the best moments in the film. As for all the returning characters, they don't serve much of a purpose in the film outside of mere comic relief. I'm even disappointed that Dreamworks didn't expand Astrid and Hiccup's relationship seeing as how they're a couple now. Astrid just follows what all the side characters do now. As for the villain, Drago is your standard-dark dressing, eye-slashed, gritty-voiced villain who doesn't have an interesting backstory or goal. He wants to control all the dragons. So original. As for comedy, the returning side characters are mostly comic relief, so with them and Toothless, you'll find some nice comedy sprinkled here and there amidst all the action and conflicts. It's clear that Dreamworks focused more on Hiccup, his family, and Toothless more than their returning characters and villain. 7/10\r Sound:\rJohn Powell does an incredible job with this score incorporating a more \"epic\" fantasy feel to the film. The score ends up immersing you into this fictional world that Dreamworks created. They even added a song to the mix. It features Hiccup's mom and dad singing a song they hold dear to them, and it's a nice addition to an already incredible score. Oh, and the sound effects here are fine, especially in the action scenes. 10/10\r Acting and Casting:\rAll the performances here are great but if there's one thing I have to complain about, it would be Jay Baruchel's voice for Hiccup. Watch the movie and find out why. I also feel they didn't use Jonah Hill and Christopher Mintz-Plasse to their full potential. But the acting is still great and the casting is fine. 8/10\r Verdict:\rThis film although great, is sort of overrated when it comes to praise. This is mostly because of the flaws in the story and some of the characters. But the animation and score are what makes this film soar over Frozen and The Lego Movie. This is my pick for best animated feature of the year.....for now.\r Extra:\r+1 for being a sequel I enjoyed.\r Rating: 9/10",
+            "review_date": "2014-06-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I was pleasantly surprised by how great this film was! In fact, this sequel performed the rare stunt of being equally as good, if not, better than its predecessor! While it does return to some of the familiar concepts from the first, it evenI was pleasantly surprised by how great this film was! In fact, this sequel performed the rare stunt of being equally as good, if not, better than its predecessor! While it does return to some of the familiar concepts from the first, it even offers a lot of new things as well. There's more action, excitement, emotion, you name it! I was definitely entertained from start to finish! Overall, this was a very worthy and groundbreaking sequel to an already great first movie! If you loved the first, then don't hesitate to see this one!",
+            "review_date": "2014-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I didn't think that a sequel to a movie could be better than the original. I'm glad to say that I was wrong. Everything about this film works to improve on the first. The graphic design seems much more colorful this time around. The level ofI didn't think that a sequel to a movie could be better than the original. I'm glad to say that I was wrong. Everything about this film works to improve on the first. The graphic design seems much more colorful this time around. The level of detail is astounding. The voice actors are just as spectacular, especially Cate Blanchet as Valka. Most importantly, the mood and emotion has become much more adult, resulting in the movie appealing to more ages.  I have seen this movie twice already. I may even see it again, because it is just that good.",
+            "review_date": "2014-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "As soon as the movie started I could tell something was off. The only character that expressed any real emotion was Toothless, everyone else seemed so lifeless. During most of the dialogue the characters mouths moved and words came out, butAs soon as the movie started I could tell something was off. The only character that expressed any real emotion was Toothless, everyone else seemed so lifeless. During most of the dialogue the characters mouths moved and words came out, but they were so inexpressive it didn't feel like they were actually living characters with something to say. The entire film lacked in humor and had less charm than a single frame of a Disney or Pixar film. This was disappointing because I quite enjoyed the first one.",
+            "review_date": "2014-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Much, much better then the original one. That's it. YOU SHOULD KNOW WHAT THIS MOVIE IS!!!! GO SEE IT NOWWWWWW!!!!!! DON'T WASTE MY TIME, GO WATCH IT!!",
+            "review_date": "2014-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The overall fell is darker and much more mature, which is a good thing, especially with the 5 years gap. The animation, is unsurprisingly gorgeous, so is the production design. The action, by cinematography standpoint, is majestic and epic.The overall fell is darker and much more mature, which is a good thing, especially with the 5 years gap. The animation, is unsurprisingly gorgeous, so is the production design. The action, by cinematography standpoint, is majestic and epic. But one has to expect, with all of those nice additions, you will get something less, especially the story and character developments. Other thing to regret, how under-mixed the beautiful score by John Powell is in the movie, makes the scene anti-climax. Overall, a nice sequel, but just that, not more",
+            "review_date": "2014-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How to train your dragon 2 is amazing, one of the best animation movies I have ever seen, It will surprise you in all the ways! The movie is funny and exciting at the same time. I think I never seen a sequence of a animation movie as good as that.",
+            "review_date": "2014-06-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "absolutely amazing! i can't believe how much i loved \"How To Train Your Dragon 2\"! cause i did went into this movie excited, but i was also worried if it was gonna screw up like usual sequels do. i was so wrong! \"How To Train Your Dragon 2\"absolutely amazing! i can't believe how much i loved \"How To Train Your Dragon 2\"! cause i did went into this movie excited, but i was also worried if it was gonna screw up like usual sequels do. i was so wrong! \"How To Train Your Dragon 2\" is everything a good sequel should be. first of all, it's absolutely gorgeous! and the best part: it takes the incredible animation of the first movie, makes it even better and takes it to the next level. the flying scenes in this movie are incredibly stunning! like they're flying around and the camera's following them, it was so beautiful and it felt like i was up there with them. and i saw it in 3D, so my mind was literally blown away. and the CGI in this movie's definitely top notch! like there's this shot of a piece of land and a ship. it's a far away shot that looked so great, i was like \"It looks like live action. This looks like a live action movie\". but aside from the incredible animation, deep down this movie's something even more. it takes the characters we all loved in the first one to the next level, just like a good sequel should do. ya know in the first movie, Hiccup was the boy, the boy who found a dragon. in HTTYD 2, he has to become the man, the chief of Berk. this reminded of \"The Lion King\" or \"The Empire Strikes Back\". i walked outta the movie like \"This is probably \"The Lion King\" or \"The Empire Strikes Back\" of this generation\". the action's exciting, the comedy's hilarious and it has fantastic emotions. i actually cried like 3 times in \"How To Train Your Dragon 2\". this movie's not just for kids, it's also for adults. i mean, adults are gonna love this movie, cause there are themes that really hit them, and kids are gonna love the movie cause it's a fun and exciting action/fantasy movie with incredible animation and awesome dragons. and when they grow up, they'll start to understand the darker themes and emotional aspects the movie was going for, and they'll appreciate it even more. that's what i call a good sequel! another one of the great highlights in the movie, it's the relationship between Hiccup and Toothless. to Hiccup, Toothless's a lot more than just a pet dragon. he's Hiccup's best friend and they really show how complex the emotional bond between a person and an animal can really be. it was perfect in that sense. the only small gripe i got with the movie, it's that Drago could've been a little better as the villain. don't get me wrong, he's still a great new character and the movie does make him better as it goes. it's just that, when he first showed up, i was like \"This guy feels kinda weak\". that's just a small gripe, it's not enough to bring the movie down. honestly, i can't think of anything bad in \"How To Train Your Dragon 2\". it's the best animated sequel from DreamWorks we have, since \"Kung Fu Panda 2\". Dean DeBlois, i really hope you win the Oscar for this movie. you definitely deserve it! you gave us one of the best sequels in a really long time. i'm telling ya, Dean DeBlois knows what he's doing in every movie he makes. he gave us \"How To Train Your Dragon 1\" which was amazing. now, he gives us \"How To Train Your Dragon 2\" which is even better. i'm really excited for \"How To Train Your Dragon 3\", but i don't know how they're gonna top this one. this is the BEST animated movie of the year, and probably one of the best animated movies in a really long time. so, if you haven't seen it yet, go watch it. i swear to you, you're gonna love it.\r 10/10",
+            "review_date": "2014-06-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Fantastic\rThe animation is incredible, as is the soundtrack and voice acting. Unlike most animated sequels that tick all these boxes, this movie has a palpable soul. It delivers a very strong message about friendship, loyalty and commitment.Fantastic\rThe animation is incredible, as is the soundtrack and voice acting. Unlike most animated sequels that tick all these boxes, this movie has a palpable soul. It delivers a very strong message about friendship, loyalty and commitment.\r You can tell that they didn't make this movie simply as a money grab. There are new ideas, new morals and new dragons!\r Brilliant, and achieves everything that one could hope for in a kid's movie about dragons.",
+            "review_date": "2014-06-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While it lacks the 'wow factor' as it's predecessor, How To Train Your Dragon 2 retains the emotion, fun and brains of it to spur another Dreamworks hit.",
+            "review_date": "2014-11-10",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How to Train Your Dragon 2 is a great sequel to the sublime original. It nails most aspects and easily displays whey the Dragon series is probably the best animated franchise out there. Roll on number 3!",
+            "review_date": "2016-12-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "A mature, richly developed story serves the beautiful animation well.  Any fan of family themed animated movies will find this to be one of the best in recent years.",
+            "review_date": "2014-10-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I loved part 2. Instead of a bland copy of the first story, this sequel continued and advanced the plot. It had complex character development and a true \"coming of age\" story for the main characters. It is one of the few cartoon sequels thatI loved part 2. Instead of a bland copy of the first story, this sequel continued and advanced the plot. It had complex character development and a true \"coming of age\" story for the main characters. It is one of the few cartoon sequels that actually AT LEAST lives up to the original!",
+            "review_date": "2014-06-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is one of the best achievements in animation in a long time better than The Lego Movie, Frozen, and Wreck it Ralph.  Every second of this film blew me away from its sweet more humorous moments, to some of the more darker elements youThis is one of the best achievements in animation in a long time better than The Lego Movie, Frozen, and Wreck it Ralph.  Every second of this film blew me away from its sweet more humorous moments, to some of the more darker elements you will ever see in a children's film.  Plus how can your heart not melt every time you see Toothless on screen.  A",
+            "review_date": "2014-12-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "While it isn't as groundbreaking as it's predecessor, How To Train Your Dragon 2 retains the emotion, fun and brains of it to spur another Dreamworks hit.",
+            "review_date": "2014-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nVery good film,  takes a different approach from the original but continues the story of Hiccup and Toothless.  I just want to say this movie is FULL of FEELS.  Tense and dramatic moments that will make you saddened of obstacles that come between relationships,  you may shed a tear or more,  I know I did.  Around the beginning the movie builds up,  but ends with dramatic and large-scaled events that affect everyone, not just the main characters.  I give this movie a 9/10 .  Flawless animation that are fluid and charming.",
+            "review_date": "2014-10-26",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "For those parents growing more and more weary each day of yet another screening of FROZEN this movie is for you! This movie will be one you won't mind seeing over and over again in the theatre or at home. We are late in the game and just sawFor those parents growing more and more weary each day of yet another screening of FROZEN this movie is for you! This movie will be one you won't mind seeing over and over again in the theatre or at home. We are late in the game and just saw the 1st movie and loved it but 2 was thrilling, funny, pulled at your heart, the whole package. Defintely more mature story line but had just enough comic relief. I have a 3 yr old boy and 5 yr old girl and both were hanging off the edge of their seats and eyes were glued on the screen the entire time (which is a feat for them both). As a parent, one of the best kids movies I have seen in a long time. This is one you want too see on the big screen!!!!",
+            "review_date": "2014-06-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love the movie\rIt's so funny, so meaningful...\rAnd I love all the actor / actress casted voice for the character.\rEspecially Jay Baruchel. Love him, too.",
+            "review_date": "2014-07-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Quite simply one the better movies I have seen in a long time. Saw How to Train Your Dragon 1 and couldn't wait for the 2nd to come out, it delivered and more.\r You know a movie is good when you root for the heroes, boo the villains, andQuite simply one the better movies I have seen in a long time. Saw How to Train Your Dragon 1 and couldn't wait for the 2nd to come out, it delivered and more.\r You know a movie is good when you root for the heroes, boo the villains, and react strongly to emotional parts of the plot. A+",
+            "review_date": "2014-09-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How To Train Your Dragon 2 is a sequel that actually lives up to it's predecessor. It was what I was hoping for and more. The movies starts out with a Dragon competition with all the dragon riders. Astrid, Snotlout, Ruffnut, Tuffnut, andHow To Train Your Dragon 2 is a sequel that actually lives up to it's predecessor. It was what I was hoping for and more. The movies starts out with a Dragon competition with all the dragon riders. Astrid, Snotlout, Ruffnut, Tuffnut, and Fishlegs. At first you have no idea where Hiccup is. Once the competition is over we are now soaring through the sky with Toothless and Hiccup. Greeted with one of the best songs in the film. People talk about this movie not having heart, but it's just as big maybe even bigger than the first film. It will make you laugh and maybe even cry.  It had it's joyful moments and some sad moments too, but throughout it always was perfectly balanced. It was darker than than the first movie, but that's okay. I love that it tread on the dark side sometimes. Life has it's darker moments and that made this movie feel so real, even with dragons flying around. Toothless always brought a smile to your face, even during his vicious times. Without a cute dragon like Toothless the film might be too dark for younger kids, but since he is there he helps keep the film balanced perfectly. I say go see it as soon as you can if you even remotely like animated films. Bring your kids if you have any because they certainly won't be bored, and I don't think you will be either.",
+            "review_date": "2014-09-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Deeper, darker and emotionally power, this does what a sequel should do which is improve upon the first and make way for future installments. The dragons are awesome and the characters are no exceptions, this is a great animation for theDeeper, darker and emotionally power, this does what a sequel should do which is improve upon the first and make way for future installments. The dragons are awesome and the characters are no exceptions, this is a great animation for the whole family.",
+            "review_date": "2014-11-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nHow to Train Your Dragon 2 is a mixed bag for me, on the one hand, its disjointed, annoying and preachy, but on the other its gorgeous, thought provoking and deep. It has many amazing shots and touching pieces of dialog, but it has just as many polar opposite moments. If I had to sum up my thoughts on this movie in one word, it would be disjointed. There are many amazing scenes in this movie, when Hiccups father is reunited with his wife it is truly touching and extremely emotional. But the surprisingly plentiful scenes of the girl twin swooning over arin son arit son of arene son of Arathorn, is strait up stupid, its totally disconnected from the tone of the rest of the movie and was clearly thrown in there because every family movie needs to have comic relief characters. Ugh, actually the friends in general, aside from Astrid, are painfully stupid to watch. They don\u2019t add to the story and they do not need to exist, why are they even such main characters in this movie? You could have had just Hiccup, Astrid, Stoic, and hiccups mom be the main characters, it\u2019s really baffling. And while you\u2019re at it, add Gobber to the list. He is probably the worst offender aside from the twin girl. When he interrupts the scene where Stoic and Hiccups mom are singing to each other just pulls me out of the scene every time. He completely breaks up the scene and it feels completely separate from what we are experiencing. In the first movie he was the kids mentor and he taught them and the audience about dragons, but here\u2026 he\u2019s just pointless! Except for creating laughs for the kiddies to giggle at, and that\u2019s not a character. I don\u2019t care about Gobber when him and Stoic are going after Hiccup, I care about STOIC! Gobber is one dimensional and not funny\u2026 to me anyways. *sighs* and all of these points can be put towards the twin girl and the rest of the friends as well. Its funny they actually have a resolution for the two guys trying to impress the twin girl, like what the heck? Why should I care about that? Short answer, I don\u2019t. Its jarring compared to what\u2019s actually happening and it just pulls me out of the movie and leaves me wishing they were just eradicated from the whole movie. And if they did that, then it woulda been like 20 minutes shorter!\rBut other than that, I really do like this movie. While I do have more negative reactions inside when I here this movies name, I do like quite a lot in this movie. Like the animation, its stunning. Anything to do with water, ice, or hair looks photo realistic. Its insane. The character models have gotten a MUCH needed upgrade. Hiccup ACTUALLY looks like a freaking human! But I do think that because they used motion capture, the people do seem a little jerky\u2026 particularly in the first act. But its not really a problem, just an observation.\rThe relationship between Stoic and the mom is really heart wrenching. I do feel like these two are in love I believe their story, and it really is heart breaking when Stoic dies, while I don\u2019t think Hiccups reaction is handled very well at all, I do feel for him and when they send him to\u2026 val hallah? Right? Right. The relationship between Hiccup and Toothless is really the anchor for the whole thing. You really get the idea that these two have been best friends for a while and they have gotten really good at working together. However I do have a problem with toothless, and the portrayal of dragons in general.\rI think they went a little over board with the intelligence of dragons and they make them borderline human. In the first movie, Toothless was intelligent, he had coherent thoughts and a distinct personality. But he was still an animal, it never felt like he was just as smart as his human companion. In Dragon 2, he is borderline human. And it is really disjointed from the first movie. Now, the designs of the new dragons are far, FAR better than the first one. They look truly awesome. One\rlast thing about the dragons, is anyone else perplexed at why night furies would evolve to have their back spikes be split in two, without them knowing? Like toothless almost lost hiccup twice because he couldn\u2019t fly alone, but he had this hidden feature that his species hid from themselves? What\u2019s the evolutionary advantage? Why would toothless not know about this super useful ability that is a part of his physiology? It makes zero sense, but that\u2019s really just a nitpick and doesn\u2019t affect the overall story.\rOverall, How to Train Your Dragon is a mixture of downright amazing, and painfully silly. It\u2019s deep and emotional, and stupid and silly. I have quite a few problems with it, but all in all it is a great time.\rHtTYD2 gets a 6/10, stunningly beautiful, yet painfully silly.",
+            "review_date": "2015-11-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's One of those DreamWorks Animation movies yet again another green range since the first, First and second Shrek, megamind and puss in boots. These Dragons and people are even funnier. Even when some other girl falls in love with aIt's One of those DreamWorks Animation movies yet again another green range since the first, First and second Shrek, megamind and puss in boots. These Dragons and people are even funnier. Even when some other girl falls in love with a villain. Another Masterpiece by Fox and DreamWorks.! Great Job who ever director! Be sure to look out for an Special Trailer for the new DreamWorks Movie: Penguins of Madagascar! Coming Soon in 3D!",
+            "review_date": "2014-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The first installment should have won the Oscar for best animated picture.  This one should win for sure.  The 3D is excellent, the animation is excellent.  It's also well written and funny.  The detail is amazing.  An all around entertaining film.",
+            "review_date": "2014-06-16",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Easily the Best Animated Feature of the year and Best Summer Film. Dreamworks usually takes the backseat and strides behind Pixar but with How to Train Your Dragon 2 they might have a winning formula to overcome the hurdles. What is reallyEasily the Best Animated Feature of the year and Best Summer Film. Dreamworks usually takes the backseat and strides behind Pixar but with How to Train Your Dragon 2 they might have a winning formula to overcome the hurdles. What is really great about HWTYD2 are the script and characters. The script is moving and digs deep about life, death and overcoming all odds. The cinematography, score and graphics are gorgeous and helps evoke the emotions of the film.",
+            "review_date": "2014-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Gorgeously done and exhilarating in parts. A worthy sequel. Not in my mind as magical as the first, and I thought the film was needlessly dark in a couple areas.",
+            "review_date": "2014-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The storytelling in this movie is really bad, the emotional elements like loss, sacrifice etc are just dealt with on a very superficial, bad tv style level, there are a lot of plotholes. The dragons are cute, though, but I feel this is one ofThe storytelling in this movie is really bad, the emotional elements like loss, sacrifice etc are just dealt with on a very superficial, bad tv style level, there are a lot of plotholes. The dragons are cute, though, but I feel this is one of the animated movies that drags the genre down instead of lifting it up.",
+            "review_date": "2014-11-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I really enjoyed the movie. It was fun to see these characters again and I liked the direction the story went. Great visuals as well as good voice acting and score. The How To Train Your Dragon movies are easily Dreamworks' best work.",
+            "review_date": "2014-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "\"How to Train Your Dragon 2\" has just become one of my favorite movies of all time.  This film takes everything that was great from \"How to Train Your Dragon,\" and improves upon it immensely.  Seriously, this movie is amazing!  The visuals\"How to Train Your Dragon 2\" has just become one of my favorite movies of all time.  This film takes everything that was great from \"How to Train Your Dragon,\" and improves upon it immensely.  Seriously, this movie is amazing!  The visuals are amazing, the sound is amazing, the score is amazing, and the characters are amazing!\rEverything about this movie is outstanding.  It's hilariously funny, gut-wrenchingly sad, and extraordinarily uplifting at different points throughout the movie.\rI'd also recommend that you see it in IMAX 3D, as the visuals are definitely made for this format.  Without a doubt, this was hands down, THE best IMAX 3D movie we've seen all summer, and we've seen every movie that's played in IMAX 3D thus far.\rSeriously, if there's one movie that you see this summer, this should definitely be it.",
+            "review_date": "2014-06-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Pretty steep step down from the original which I thoroughly loved.  It's significantly darker than its predecessor and less funny.  The characters, story, dialogue, and writing have all gotten worse.  I took my daughter, who really likedPretty steep step down from the original which I thoroughly loved.  It's significantly darker than its predecessor and less funny.  The characters, story, dialogue, and writing have all gotten worse.  I took my daughter, who really liked Astrid in the original.  Though a girl, she was driven in a way no other character was and outperformed all the boys with her determination.  In the second book, she's abandoned all that ambition and spends most of the movie doting on Hiccup.  She identifies now seemingly as nothing more than his future wife and has hardly any lines.  That was disappointing.  They did introduce another major female character, but she was nowhere near the inspiration that Astrid had been.  Similarly, the lessons from the first movie, to see past our prejudices, are nowhere to be found.  The story is muddled, and the jokes don't work nearly as well.  I'm sure kids will like the action, but adults will be mostly bored.  I certainly was.",
+            "review_date": "2014-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How to Train Your Dragon 2 is an excellent sequel. It does what sequel should do. It takes its roots, expands them and doesn't rehash the previous film. Twists and surprises make this movie more of an adult experience than a kiddie one.How to Train Your Dragon 2 is an excellent sequel. It does what sequel should do. It takes its roots, expands them and doesn't rehash the previous film. Twists and surprises make this movie more of an adult experience than a kiddie one. Beautiful, emotional and dazzling, How to Train Your Dragon 2 is the best animated film in years and puts some animated sequels to shame.",
+            "review_date": "2014-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Beautifully animated and astoundingly designed, this is never- the- less let down by a so so story line that is unwieldy, over indulgent and finally quite boring. It's a shame because the first film was such a surprise. Alas, there in liesBeautifully animated and astoundingly designed, this is never- the- less let down by a so so story line that is unwieldy, over indulgent and finally quite boring. It's a shame because the first film was such a surprise. Alas, there in lies the key. The first film was quite fresh. This sequel may not necessarily be re-hashing events, but the spark of originality has gone. Aside from the afore mentioned pluses only the score adds any further distinction.",
+            "review_date": "2014-06-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is worthy of going up against a Pixar movie. yes i said it. It may even be better than a Pixar movie because while it kept to a more mature form and also still a childish sense of humor laughable at all ages.\r10/10",
+            "review_date": "2014-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What an incredible movie! This surpassed all my expectations. The movie was extremely funny and had a great storyline. The storyline was so original you never expected what would happen next. Soundtrack and casting was perfect! Overall a must see !",
+            "review_date": "2014-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Decent animation! I'm not going to spoil anything! You may like it but trust me it's really not that good as everyone say. 5/10 is the only true rating for this movie",
+            "review_date": "2014-08-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nI can't think a good reason to say this is a bad film, it's not. It has some flaws in the narrative and Hiccup kinda lost part of the magic he had on the first film, maybe to make him more mature, but nothing terrible, it gave the chance to other characters to shine.\r The heartbreaking scene of the film (Stoick's death) , it has many feelings, not only his father died, he died because of his best friend, it's so dark and bitter that they needed a \"goofy\" scene after it to distract kids from crying and don't get traumatized, it works great, I witnessed some examples while watching the movie, kids crying because of the scene and then they stopped, that is the point of the goofy Baby-Dragon scene). I was thinking that if this film was made by Disney or Pixar it would end up in a tragic clich\u00e9, like magic dragon tears that will bring Stoick back to life, after all,\"All dragons have secrets\"... right?\r A visually stunning movie with an amazing soundtrack and good new dragon designs (that could be better in some cases)  will get your attention (and your kids\u00b4) every moment. Let's hope they don't destroy the magic of two good movies in the third movie.",
+            "review_date": "2014-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Dreamworks sure have a habit of making good sequels don't they? (Shrek 2, Panda 2, Madagascar 2) It impresses me that in the midst of the beautiful animation, the scope of this world they create and the epic storyline of this film: they stillDreamworks sure have a habit of making good sequels don't they? (Shrek 2, Panda 2, Madagascar 2) It impresses me that in the midst of the beautiful animation, the scope of this world they create and the epic storyline of this film: they still manage to give so much weight to the scenes when the characters are talking; something about the pacing, dialogue and soundtrack gives the characters not only more depth but more memorability too. To me it was a crucial reason why I loved every minute of this film, DreamWorks have upped their game once again!",
+            "review_date": "2014-06-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I think that them killing of the father lowered my experience of this movie to horrible. It would have been much better movie if the king would have survived. The director needs to get fired and work at mcdonalds.",
+            "review_date": "2014-09-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThis was a pretty bad movie. First of all, the audience targeted was poorly executed. They tried to make it for kids and adults, but kind of failed. The dark and violent atmosphere vs. the random cartoon guy you all love! The one part that really made me hate it was the stupid idea to kill off Hiccup's dad right after he got reunited with his wife he hadn't seen in years. It reminds me of the insane, unnecessary plot twists and drama in Downton Abbey, which was terrible.",
+            "review_date": "2014-12-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nFive years have passed since the events of the first movie and we're already thrown into how much Berk has changed since then and how much more of a community it feels with the presence of dragons. Things such as Dragon Racing at Berk are fun to watch and it's nice to see all the different ways in which dragons have come to use and how everyone has become adapted to being around them. Hiccup's new inventions were very cool; kudos to the filmmakers for coming up with those very nifty ideas.\r One of the things that struck me at first was how beautiful the film looked; the visuals and animation were vastly improved on the first and characters, dragons and scenery looked and felt more alive than ever. There's a lot of attention to detail such as small character quirks and Toothless playing about in the background with other dragons. That being said though, having dragons pop in and out of frame in the background is overdone by just a touch and distracts from important dialogue and events occurring in the foreground.\r The introduction of Hiccup's mother in the movie feels a little too rushed; I thought that maybe she would have been brought in in the third film. Furthermore, the little mention of Hiccup's mother earlier on in the film takes away from the surprise of the reveal. However, it's nice to see the two finally get to bond, Hiccup discovering that he takes a lot from his mother, and the reunion with the whole family, when Stoick stumbles across his wife, is very heartwarming indeed. \"You're as beautiful as the day I lost you.\" - this may or may not have brought a tear to my eye...\r The moment when the film begins to lose its balance, and almost ejects you from the immersion is when Drago Bludvist, the antagonist, is given very little build-up, despite the mystery surrounding the character at the beginning of the story, and is suddenly seen launching an attack on the dragon home inhabited by Valka, Hiccup's mother. The remainder of the film at this point feels rushed, as if the filmmakers realised they'd forgotten about the threat they'd introduced at the start of the film. I wasn't entirely convinced that Drago was a menacing villain, despite his plans and actions in the film, and the filmmakers hit a bit of a sour note on making the antagonist black, something a little clich\u00e9 in animated films and just a little bit racist too.\r The battle at this point in the movie feels a little too reminiscent of the final battle in the first installment, making it hard not to draw comparisons between the two. Stoick's death was emotional but I expected a greater reaction from everyone else, especially Hiccup and Valka as they'd just lost the chance of being reunited as a family. Having Stoick killed off and Valka there to 'take his place' as a parent for Hiccup just seemed a little too convenient.\r I felt a little disappointed with the climax and ending; though it regarded more the connection between Toothless and Hiccup, the final battle at Berk was a little too short for my liking. Other than Hiccup becoming chieftain and taking his father's mantle, the ending just makes it feel like not much had happened, that there wasn't much of a lesson to learn and that there was little difference between the beginning and end events of the film.\r Though I don't mind the emphasis put on the relationship between Hiccup, his mother and his father, I feel that other characters weren't developed enough and that some of them were merely there for comic relief. The changes made to Astrid felt a little off; yes, you can tell that it's meant to be the same Astrid from the first film and yes, five years have passed but the character's appearance and characterisation is softened and a little watered down from the strong character that she was in the predecessor. It felt like she was only there to be the established 'love interest' who we don't really get to learn much more about. Eret, the dragon trapper and a new character to the series, was one of the only other characters who had sufficient development and subsequently had believable motivations.\r How To Train Your Dragon 2 is a good film and is worth the watch, carrying a lot of heart and is guaranteed to make you smile, laugh and maybe even break into tears but the sequel loses its footing with a story that rushes itself in its second half and fails to develop characters as it did with its predecessor.",
+            "review_date": "2015-01-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Bland, poorly executed, and without any of the charm of the original, How to Train Your Dragon 2 completely missed the mark. Is it darker? Sure. But does the moral ambiguity lead to interesting insight for you or your children? No, notBland, poorly executed, and without any of the charm of the original, How to Train Your Dragon 2 completely missed the mark. Is it darker? Sure. But does the moral ambiguity lead to interesting insight for you or your children? No, not really.\r What was the message of the film? Bad people do bad things and can convince good people to do bad things too? Dragons don't kill people, people kill people? It's okay to abandon your responsibilities?\r And the running gag of the love triangle fell completely flat.\r On the plus side, the 3d was well done.",
+            "review_date": "2014-06-18",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "What a disappointing mess! This sequel has less than half the charm of the original. Apparently if it's loud with a lot of color and motion, some people will feel entertained; but if this is the best Dreamworks can do, I'll short their stock.What a disappointing mess! This sequel has less than half the charm of the original. Apparently if it's loud with a lot of color and motion, some people will feel entertained; but if this is the best Dreamworks can do, I'll short their stock. In fact, now that I look at it, DWA peaked at $35.19 on 12/30/13 and yesterday closed at $21.75, down 38% in under a year. That's in the face of a stock market UP 36.6% over the same period. Clearly their market has grown up but they haven't. Too bad!",
+            "review_date": "2014-12-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Your ten year old will probably love every minute of it but you will just have to enjoy the popcorn. How to Train Your Dragon 2 sticks to the tradition of lackluster animation sequels.  6 points, for old time's sake.",
+            "review_date": "2014-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How to train your Dragon 2 displays excellent storytelling, dazzling animation and provides a dark undertone that made the movie that much better. The movie surpasses it's predecessor in almost everyway.",
+            "review_date": "2014-06-24",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This summer movie maintains most of the splendor of its predecessor while creating more depth and shape to an interesting world full of cute dragons.  It does not drag on (pun intentional) in any place and was paced extremely well.  TheThis summer movie maintains most of the splendor of its predecessor while creating more depth and shape to an interesting world full of cute dragons.  It does not drag on (pun intentional) in any place and was paced extremely well.  The heartfelt moments seemed down to a science and the overwhelming cheese is what kept me from giving this 10/10.\r Still, if you liked the first film this film will likely not disappoint unless you expect far too much from it.",
+            "review_date": "2014-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The sequel  is different in tone from the original, but equally satisfying. The story is a little darker, as it deals with loss in a particularly personal way. But it is visually stunning, amusing, and moving throughout. The story relies veryThe sequel  is different in tone from the original, but equally satisfying. The story is a little darker, as it deals with loss in a particularly personal way. But it is visually stunning, amusing, and moving throughout. The story relies very much on the first film, so one might be a little confused without seeing these films in order.",
+            "review_date": "2014-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Amazing movie! I thought maybe the previews revealed too much but after seeing the movie NOT AT ALL. Not many sequels are better than its predecessor but HTTYD2 definitely exceeded all my expectations! It was hilarious, heartfelt, and keptAmazing movie! I thought maybe the previews revealed too much but after seeing the movie NOT AT ALL. Not many sequels are better than its predecessor but HTTYD2 definitely exceeded all my expectations! It was hilarious, heartfelt, and kept the audience on the edge of their seats. The storyline was original and the soundtrack was beautiful. I recommend the movie to anyone of any age. You won't regret it!",
+            "review_date": "2014-06-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "After seeing some other sequels, I was ready to be disappointed for this movie. But after the credits, I couldn't leave my seat. This was the most amazing, powerful, and emotional movie I have seen in at least the past 5 years. It definitelyAfter seeing some other sequels, I was ready to be disappointed for this movie. But after the credits, I couldn't leave my seat. This was the most amazing, powerful, and emotional movie I have seen in at least the past 5 years. It definitely surpasses the original, and it is a must-see for all ages.",
+            "review_date": "2014-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I loved the first movie, so I was excited to see what they could do with a sequel (especially when Dreamworks has been so well w/ sequels, with the 2nd Kung Fu Panda movie and the 3rd Madagascar being the best in their respective series). SoI loved the first movie, so I was excited to see what they could do with a sequel (especially when Dreamworks has been so well w/ sequels, with the 2nd Kung Fu Panda movie and the 3rd Madagascar being the best in their respective series). So I went to see this movie with a few friends, and none of us liked it. And personally, I normally like movies that everyone else hates, not the other way around- well, with the exception of maybe Frozen, but  many people, I see now, agree with me that it wasn't that good.\r I mean, personally I though the pacing was awful (which was  also a problem I had w/ Frozen) - I thought the mother's reveal, the villain's reveal, and even the central conflict were shown to quickly. And the villain was the worst I've seen since, well, Hans from Frozen. Actually, this was probably worse because he looked so evil and mad, but also a genius, and he looked that way, but his dialogue was very bland and kind of stupid, and his intentions were stupid and overused (seriously? Why did they have to add the world-domination part?!) and he just didn't seem...evil enough. And I really didn't like Hiccup's mom. I guess there was something about her personality that I didn't like, but I didn't like her inclusion in the movie. Her being dead in the first movie created tragedy for Hiccup and Stoik (since Hiccup had noone to support him when his dad looked down upon him, and Stoik was a single parent trying to take care of his people, but also be a good father), and gave Stoik a good reason for hating dragons. And the fact that she wanted peace between dragons and humans made it kind of Hiccup's 'destiny' to be like that, which takes away from the first movie, where HE was the first viking who wouldn't kill a dragon. Now, if it turned out that she was taken away and, over time grew to love dragons, that would be a different thing.\rThen there was the handsome british guy. His character could have been pretty good- a guy who was on the bad side but turned good? That's what made Prince Zuko such an awesome character! But he changed sides a bit too fast (going back to the pacing)- maybe if they Riders saved him, but he betrayed them, but after thinking about what is good and what isn't, then he changed his mind, that would have made me like his character more (and then, when Hiccup gave him a-certain-person's dragon, he would have earned that honor a bit more). But his character also caused for some wanna-be-funny moments from Ruffnut...I know they're teens, so jokes about a girl liking a hot guy a are pretty much inevitable, but noone in the theater I went to laughed at the scenes where she's pretty much drooling for the guy (well, maybe except for when she falls in love w/ Snottlout and Fishlegs).\r There were also a few little things that pissed me off, like Hiccup being shown as adventurous at the beginning, but everyone forgets about that. And when we found out about Stoik wanting to make Hiccup chief, it's through this odd...fake conversation between Astrid and Hiccup, which could have been cute if it wasn't for Astrid using her hands like Hiccup does and him asking when he's ever done that- jokes like that almost always feel forced imo. In fact, a lot of the jokes in this movie feel forced. And I thought the scene where Stoik and Hiccup's mom were singing could have been quite emotional, it was pretty awkward (especially w/ Gobber talking in the middle). And I'll probably be the first to say it, but I think Dragon Racing is really not fun to watch- it's like they wanted to make a cool-looking sport like Quidditch, but to make it with the least effort possible- by both creativity of the writers, and the skill required by the players.\r Even though I didn't like the movie, I did think there were some good points about it: I thought Toothless, especially w/ his interactions w/ other dragons, was pretty cute and funny, but he was also a total badass in fights, and hi struggling to not follow the Alpha Dragon was pretty awesome. In fact, all the battles were awesome (though not as much as in the first movie), and while the shots of the flying got old from the first movie, they still look beautiful- especially in 3D. And (spoiler alert) Stoik's death scene was pretty heartbreaking, especially knowing that he had been trying so hard to be good and had wanted to see his son become chief and just wanted to come home as a happy family- I swear, his death almost made me cry as much as Mufasa's, not to mention it was done by Toothless (though he was under control by the villain, which is btw the only moment when I really thought that he was an evil madman). Of course, his death was ruined when the scene right after his death, there was a scene where everyone is being goofy while struggling to fly on the baby dragons, but it was still quite a heart tugging moment while it lasted.",
+            "review_date": "2014-06-20",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It's really not a cartoon for children. A lot of smiles a lot of tears. Just go and enjoy it. One of the most upscale, amazing, exiting film I've seen this, last, many years.",
+            "review_date": "2014-06-14",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie basically raises the bar not only animated movie, but for movies and art in general. Not only is this movie a home-run, but it smashes the ball far over the gate/ the stands and crashes into the parking lot.\r First off, YES thisThis movie basically raises the bar not only animated movie, but for movies and art in general. Not only is this movie a home-run, but it smashes the ball far over the gate/ the stands and crashes into the parking lot.\r First off, YES this movie is worth Seeing/Buying/Then watching again, because it's that damn good. The last two animated movies I saw were the Lego Movie and Frozen and after watching this I can 100% say this movie is completely better in every way. And just to name a few things, the emotion/character development/story and just flat out animation is far better than almost every movie I've seen my entire life, yes ENTIRE LIFE. It's a cute animation that children will love, but has a much deeper and darker story that adults can appreciate it. If you like the dark/style of the 90's animated Batman series than this movie is right down your ally.",
+            "review_date": "2014-06-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Hated the first movie but decided to give the second one a chance and it's such a massive improvement. The story is well done and it's interesting from start to finish. Manages to keep both kids and adults entertained as well. Only complaintHated the first movie but decided to give the second one a chance and it's such a massive improvement. The story is well done and it's interesting from start to finish. Manages to keep both kids and adults entertained as well. Only complaint is that it drags on a bit too long.",
+            "review_date": "2014-10-22",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Best animated film ive seen since Toy Story 3, absolutely fantastic in about every why, recommend everybody to sit down and watch HTTYD 2, only downside is the fact that i felt as if the movie was 2 short, also not enough death and blood, iBest animated film ive seen since Toy Story 3, absolutely fantastic in about every why, recommend everybody to sit down and watch HTTYD 2, only downside is the fact that i felt as if the movie was 2 short, also not enough death and blood, i know its a kids movie but hell, it gets pretty dark.",
+            "review_date": "2014-07-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This film is quite clearly a shoe-in for the best animated film of the year, if not this decade. It captures just as much charm, action, drama, and outright brilliant moments from the original, and then some. It captures the essence of what aThis film is quite clearly a shoe-in for the best animated film of the year, if not this decade. It captures just as much charm, action, drama, and outright brilliant moments from the original, and then some. It captures the essence of what a fantasy film really is, and that's a film that makes you think; \"Yeah, I want to be that guy!\" or \"I wish I had that.\" It holds up not only as a film that will enthral children, but also one that will leave those of all ages, even critics who've had their emotions locked away in a cage made of The Godfathers and Citizen Kanes gasping for breath while watching a film with damn good action, far far better action than the original. It tells the story of how someone as nerdy and unpopular as Hiccup from the original can become something so, so much more. It made me realise that our world is not just a large green rock that we have to suffer on. Its a plethora of opportunity from which any situation could spring. And so, How to Train Your Dragon 2 is a masterpiece. See it if you haven't already.",
+            "review_date": "2014-06-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Adequate sequel that matches up to the original. The only thing I can disapprove of is Cate Blanchett's voice. She's a combination of Irish and American, and she's an Aussie. Other than that, solid film.",
+            "review_date": "2014-06-15",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The most entertaining movie I've seen in theaters so far this year.  It felt like a solid entry in the HTTYD storyline.  New lessons are learned, characters deal with loss, and heroes rise to the occasion.  The flying scenes are really wellThe most entertaining movie I've seen in theaters so far this year.  It felt like a solid entry in the HTTYD storyline.  New lessons are learned, characters deal with loss, and heroes rise to the occasion.  The flying scenes are really well done and were worth seeing in 3D.  I usually avoid 3D if I can but it was justified in this movie.  I can' t wait to see how Dream Works concludes this exceptional story.",
+            "review_date": "2014-06-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Ignore all the negative chatter.  I loved the first one and this one topped it.  It is very rare that a fantastic movie can get better with the sequel.  How to Train Your Dragon 2 built upon the foundation the first one made and was executedIgnore all the negative chatter.  I loved the first one and this one topped it.  It is very rare that a fantastic movie can get better with the sequel.  How to Train Your Dragon 2 built upon the foundation the first one made and was executed flawlessly.  Best movie I have seen in theaters in  very long time.  Easily the winner of the best animated film of the year.",
+            "review_date": "2014-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The director and writer of this movie has respect and love for this series. The characters have not just grown up physically, but mentally, translating well with the audience. You see the characters develop in a non-intrusive way, a path veryThe director and writer of this movie has respect and love for this series. The characters have not just grown up physically, but mentally, translating well with the audience. You see the characters develop in a non-intrusive way, a path very difficult to do in a 1hr. 45 min. timeframe. Speaking of timeframe, the pacing is well distributed and every scene has the right amount of time without feeling drawn out or rushed. The themes in this movie translates to both adults and kids. There are strong emotions for the adults to care about and fun action scenes for the kids. Finally, the artwork and designs of the movie are beautiful and can inspire others. The amount of character development, great pacing, strong emotions, and inspiring artwork are why I give this movie 10/10.",
+            "review_date": "2014-07-04",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is great continuation of original story, if only main character wasn't so annoying.. Hiccup voice is extremely annoying, cheesy comebacks and lame dialogues do not help one bit..",
+            "review_date": "2014-10-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie builds off the original in interesting ways, if you haven't seen the first one though it'll be hard to get into. The charm of this movie lays entirely with toothless. For not having any dialogue he's the most expressive andThis movie builds off the original in interesting ways, if you haven't seen the first one though it'll be hard to get into. The charm of this movie lays entirely with toothless. For not having any dialogue he's the most expressive and enjoyable character. He's adorable and cleverly funny in unique ways that stick with you. It's unfortunate you can't say the same for the rest of the characters.\rHiccup's confident attitude doesn't suit his voice anymore so his funny moments are gone. Asterid has become the annoying girl you hate your best friend for daring. Strangely enough it's the girl twin who's name you can't even remember is the only other comical relief in the film because of her infatuation with a new character.\rThere are some tender moments with Hiccup's father that are heartwarming, but the rest of the plot is generally predictable. And the fights are regrettably boring because of the PG rating, making an all out war look like a nerf sword fight.\rThough it doesn't do anything unpredictable, the movie is still overall enjoyable and will have you feeling for the characters at times and laughing at how adorable it is the rest. Just don't go in expecting the imagination the first one brought you.",
+            "review_date": "2014-06-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "I love this movie. Great visual, great soundtrack, nothing to complain about except that the pacing is way too fast. Would love to see how Dreamworks do with the 3rd!",
+            "review_date": "2014-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This is a very good film, I 'm a real fan and really love this movie...fun happy excited and make me cry.\rCreate an animation very realistic, especially the most realistic eyes.",
+            "review_date": "2014-06-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nWarning: Like the 1st movie this movie doesn't actually show you how to train your dragon\r How To Train Dragon:2 was an ok movie for children. It wasn't as good has Kung Panda. I would give this movie a 9, but my favorite character: Stoick dies. Killing him I off was a horrible choice for DreamWorks. He was basically the heart and soul of the movie. Hiccup was too scrawny to be the main hero. He could have been a side kick. On the flip side, the movie had great animation and many new exciting themes. Like Hiccup's mother being alive. The movie also was more exciting than the first in some spots. Overall if you have children take them to this movie it is good kids movie.",
+            "review_date": "2014-06-29",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How To Train Your Dragon 2, although sad, exceeded my expectations at becoming an amazing sequel.  It not only showed a great change in terms of story, but a great change in the characters.  The characters acted more mature, but still keptHow To Train Your Dragon 2, although sad, exceeded my expectations at becoming an amazing sequel.  It not only showed a great change in terms of story, but a great change in the characters.  The characters acted more mature, but still kept the same attitude that was very well left behind from the first How To Train Your Dragon.  My recommendation is to take the whole family to see this, and if not the family, then those who are still in touch with their child at heart.",
+            "review_date": "2014-06-30",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How to Train your Dragon 2 was not a bad movie but it certainly wasn't the best. I believe it didn't improve on its predecessor but instead fell short of it. The dynamic of the group in the first one was much stronger and even then focused onHow to Train your Dragon 2 was not a bad movie but it certainly wasn't the best. I believe it didn't improve on its predecessor but instead fell short of it. The dynamic of the group in the first one was much stronger and even then focused on many more characters. In the second movie it is more focused just on Hiccup and his family making other characters seem boring or unnecessary. Many people believe this was a deep and dramatic turn animation film that is a masterpiece to withhold but just because it tackles many mature aspects doesn't mean it succeeds with them. How to train your Dragon 2 is still a good movie but really isn't the stuff of animation legend.\r.",
+            "review_date": "2015-01-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nThey show hiccups mother never wanting to see her child again because of what again? And she would have never seen hiccup if he hand't accidentally stumbled next to her in the clouds?",
+            "review_date": "2016-03-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "How to Train Your Dragon 2 is a good sequel having good writing, gorgeous animation, and is all around engaging proving that Dreamworks can make a good film when they try. The story has some excellent themes and ideas, matures with itsHow to Train Your Dragon 2 is a good sequel having good writing, gorgeous animation, and is all around engaging proving that Dreamworks can make a good film when they try. The story has some excellent themes and ideas, matures with its audience, and has a strong beating heart that isn\u2019t present in a lot of children\u2019s films. The film feels a bit rushed at times not taking its time with certain aspects like the first film did and the set up is far more engaging than the resolution but its still a good film. For those worried this will be a lame cashgrab, it isn\u2019t they really tried to make this one special and while the lack of development in certain areas prevents this film from being excellent there are many moments in this film where it is great.",
+            "review_date": "2015-05-27",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Well, we can't deny it to ourselves anymore. The gaping tundra of Winter is beyond us, and for that I say we are officially in the midst of the summer movie going season. Sequels, sequels, and more sequels are filling the gaps every weekend,Well, we can't deny it to ourselves anymore. The gaping tundra of Winter is beyond us, and for that I say we are officially in the midst of the summer movie going season. Sequels, sequels, and more sequels are filling the gaps every weekend, 16 to be exact.\rSooner or later, goodwill from post franchises are going to run out. This is not the case with the returning favorites of the beloved \"How To Train Your Dragon\". \"Dragon\" was a film nobody, not even myself, suspected of being the next best thing..but it was. A little film from Dreamworks Animation, that distinctly gave Pixar a run for their money. The animation was gorgeous, the story even more so. A voice cast that included Gerard Butler, Jay Baruchel, Craig Ferguson and Jonah Hill. One could perhaps argue that something is \"missing\" from this sequel, I would argue not.\r \"How To Train Your Dragon 2\" stands on its own, not as a sequel, but as an endearing story of hope, forgiveness, and courage. Our favorite characters are back in full swing. Taking place five years after the events in the first film. Hiccup (Baruchel) and his cohorts are all young adults now, serving as dragon riders in Berk. Who now are living peacefully among the towns people. The curiosity of Hiccup has grown immensely, and the world he thought he knew has opened up wider than he could ever imagine. Dealing with the added stress of being appointed his righteous father, Stoick (Gerard Butler) successor, and his tough as nails girlfriend Astrid (America Ferrera). Hiccup's curiosity eventually gets him caught by a notorious dragon warrior, which eventually turns out to be his long lost mother Valka (Cate Blanchett). Hiccup then discovers the plans of an imminent attack by the ruthless Drago Bludvist, a dragon hunter who will stop at nothing until his army is complete.\r Furthermore, the main success here lies within the brilliant character development. I recently saw in an article by Entertainment Weekly in which they compared the characters, I saw a sluggish standing, dependent Hiccup being compared to a 20 year old, one legged and tough Hiccup, and to be honest I couldn't be more happier. As with time, it evidently changes everyone. While sure Hiccup and his friends are \"growing facial hair\", riding on the backs of dragons like it's nothing. Hiccup has become more than a sensational character to root for, rather a Luke Skywalker for this younger generation. We also can't have this film if not for the loveable mascot and poster child; Toothless. The silly, charming and fun Night Fury dragon, that stole our hearts back in 2008.\r Equally, the story is just as good, if not better, than the original. The first one had the added pressure of society accepting dragons. Now they have but, face a greater threat than before. In the form of Drago Bludvist, who's rip-roaring voice is brought to spectacular life by Djimon Hounsou. For a childrens film; his antics are a bit darker than most villains you would see. Younger children may be frightened by his overall appearance. However, from my standpoint, I felt he was a worthy adversary for our crew of heroes. A Darth Vader to Hiccup's Skywalker. I also enjoyed the new character Erin (voiced by Game Of Thrones own Kit Harrington).\r Of course, some will likely attest that the film's characters are a bit too harsh, or deafening. Some storybook concepts will likely have to be explained to some youngsters. There is an emotional integrity to be upheld here, and director Dean DeBois keeps that formula that made it's predecessor all the more credible. Including characters we care more about, then we have had before. I found little squabbles here and there of certain action set pieces that perhaps felt out of place. If speaking figuratively it never once took away from my fulfillment and satisfaction.\r Most sequels tend to overdo it, others just wreck it's potential franchise. The old saying as it goes \"if it ain't broken, don't fix it\". \"How To Train Your Dragon 2\" is an emotionally charged, and high flying adventure. The animation is breathtaking, and better than it has every been. I find it hard looking at this film as a sequel, partially because it's so well done that it stands on its own. Which in any sequel is rare. I can only imagine what the future has in store for our lovable band of characters. I do know one thing, \"How To Train Your Dragon 2\" falls in that 5 percent of sequels that actually builds on their predecessor.\r A\r By: Nate Adams\r Directed By: Dean DeBois\rRated: PG\rRuntime: 108 mins\rStudio: Dreamworks Animation (Fox)\rRelease Date: June 13th 2014\r Thanks for Stopping By \u00ae",
+            "review_date": "2014-07-31",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "The sequel to one of DreamWorks' best animated movies provides yet another top-notch family experience. There's enough humor, action, and emotion to ensure everyone is entertained. It does loose some of the original's magic, but it expandsThe sequel to one of DreamWorks' best animated movies provides yet another top-notch family experience. There's enough humor, action, and emotion to ensure everyone is entertained. It does loose some of the original's magic, but it expands upon the universe in interesting ways.\r The attention to detail here is incredible, and I'm not just talking about the phenomenal animation. The world truly feels alive. While we watch our characters progress through the plot it's amazing to see the things that go on around them. In the background you can see dragons interacting one another in a life-like way or people just going about their day. It shows that there's a world out there where things and people are living on their own, not just elements of the plot. It's something amazing to watch.\r As far as the story itself goes it is very well-written. Real character growth takes place and emotion is found throughout, although the characters in the film seem oblivious to this. When something devastating happens they only stay sad for a little bit before moving back on to the optimism and humor. It kind of sucked me out of the experience as I was still reeling from what just happened. You think they would have just taken a little bit more time to mourn.\r The conflict at hand is very well done. A great villain sets things in motion, however the battles against him seem to lack a sense of urgency. Key powerful and emotional moments pop up in these battles, but they are gone in an instant.\r It seems odd to criticize a kid-oriented family movie for lacking some emotional depth. However it's just not hard to notice it's missing. Despite that though the film hardly suffers from it at all. It's still an excellent adventure and one that is sure to please. It just didn't hit every note in the same near-flawless ways the first one did. My total score for the movie is a 7.8/10.",
+            "review_date": "2014-12-19",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nSimply put, HTTYD 2 was a very surprising movie that blew my expectations away: the first movie was already very well done, so I had high hopes for it to be good. And not only it did not disappoint...but I can almost say that this was the best sequel I've ever seen, since probably Kung Fu Panda 2.\r What works in this movie is probably how the story is actually set 5 years in the future: our characters have grown up and that's already a very nice touch to the story, especially since they are also different in their behaviours, especially Hiccup being a very more reliable character and unlike the first movie, where he was more of a \"passive\" character, he's now always in the battle and you do feel such high respect on seeing his sense of exploration and of knowledge. The music is fantastic, the story is interesting and follows extremely well the first movie almost naturally, and all the characters are so likeable that it's hard to pick a favourite one (SPOILER: heck, my sister cried when Stoick died nearly the end of the movie: I was not expecting that to happen and all in the theatre actually cried when that happened: It's rare when a movie makes everyone cry like that)) and It's just a pleasent movie to watch and watch again.\r However if I have to pick a BIG flaw of the movie, that would definitely be the Villain.\r I have absolutely no idea who the bad guy was: we see a scene in the past where he tried to submit the village chiefs, and then we move in the future (the movie's present) where  he's just bad and controls dragons. That's. It.\rSure, we know -a- reason why he hates dragons, but he has absolutely no character growth and we basically get nothing out of him: he came as he went, and when he dies it's as if nothing happened. That was a huge flaw because it had everything except a well made villain (On this regard, I heard that in the beginning that the main villain was going to be Hiccup's mother, and as much as that idea is a lot more darker than the movie really is, I think it would have worked MUCH better than putting in a random bad guy with basically no character development).\r Aside that big flaw, nothing else really ruins it: I honestly didn't expect this movie to be as good as the original, but I'm almost sure that it's even better! Opinions may vary, but I'm definitely gonna watch this movie again, once it comes out in dvd.\r Alongside Kung Fu Panda 2!",
+            "review_date": "2014-08-25",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Gorgeously animated, moving, and an improvement on the original in every way, How to Train Your Dragon 2 is an animated masterpiece not to be missed, with entertainment for children and adults alike.",
+            "review_date": "2014-07-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Perhaps a bit better than first film with good villain and visuals but dodgy screenplay.",
+            "review_date": "2019-04-07",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This review contains spoilers, click expand to view.\n        \nGood sequel. Unlike the rest of the world, I think the first was much better. The movie was good, but there's one part where the movie kinda lost me, Stoick's death. One of my favorite characters got killed off. And after reuniting with his long lost wife, it defanitely made me shed a tear. There's a lot of new dragons, all cool and unique in their own ways, but there's so many new ones I couldn't keep track of them all. Overall, the CGI is fantastic, the characters are fantastic, and the plot is pretty good for a kids movie. I'll give it a 7.5, but there's no halfway option, so it's awesomeness gets it an 8.",
+            "review_date": "2014-07-13",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie was absolutely perfect. Easily the bestanimated movie of the year, no doubt about it. This movie was better than the original, the characters were better, the story was original and unpredictable, and the villain was awesome.",
+            "review_date": "2014-12-28",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Dreamworks, you have officially outdone yourself. Whenever I hear someone say that sequels will never be better than the first, I show them this masterpiece. It is wonderous proof that love will always triumph, and that the infamously cuteDreamworks, you have officially outdone yourself. Whenever I hear someone say that sequels will never be better than the first, I show them this masterpiece. It is wonderous proof that love will always triumph, and that the infamously cute Toothless will always be known as possibly the greatest dragon in film history. If all of the other Dreamworks hits were like this one, Pixar would be in stiff competition, indeed. This film will always be an Oscar winner in my book.",
+            "review_date": "2018-01-09",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Does a surprisingly good job at going above even the high bar that the first movie set. Some time has passed and the characters are older now, more experienced, and both changed and yet the same. If you loved the first movie, you'll also loveDoes a surprisingly good job at going above even the high bar that the first movie set. Some time has passed and the characters are older now, more experienced, and both changed and yet the same. If you loved the first movie, you'll also love this one. Highly recommended.",
+            "review_date": "2015-01-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "It is clear from the start that they are trying really, really hard to be better than the first movie. Even doing a good job of not rehashing and introducing enough new content to keep you interested.\r But, it just lacks the charm that theIt is clear from the start that they are trying really, really hard to be better than the first movie. Even doing a good job of not rehashing and introducing enough new content to keep you interested.\r But, it just lacks the charm that the first movie had. It's not bad, not in the least, it's damn good! But it just didn't captivate the way the first movie did. Not to mention, what a soppy villain. He comes across more as an activity for the protagonist's to deal with, than an actual threat.\r But to be fair, their are more than enough plot twists and character development to overlook this.\r Not to forget, the visuals are still brilliant, similar to the first movie, just a bit more polished out.\r Overall:\r HTTYD2 was deeply enjoyable and I had allot of fun watching it, just a shame it just didn't have that same spark of originality and charm the first movie had.",
+            "review_date": "2014-12-17",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Like I said a couple of year ago during 'Cloudy with a Chance of Meatballs 2' review, it's a terrible title for a sequel. The host, Neil Patrick also said the same thing during the 2015 Oscars. But in the digital world, slight change in theLike I said a couple of year ago during 'Cloudy with a Chance of Meatballs 2' review, it's a terrible title for a sequel. The host, Neil Patrick also said the same thing during the 2015 Oscars. But in the digital world, slight change in the title makes random in order. I mean on the computer and web world, it won't show in order. Even sometime it might get lost in a vast number of other titles if they dare to chance the first word in the title for a sequel. Other than that they are not stupid as many people think. That's why they highlighted 'Dragon' boldly than the rest of the words.\r This part two was not much different to its first. The story continues five years after Hiccup recovers from his injury. He and his pet, Toothless discovers a new land during the survey for the map. So their's adventure begins, but end in a trouble and forces all his people from the town to involve and fight against the rising evil force that tries to conquer them all.\r Like I always say, those days are gone, now animated movies are for all ages. This was a very nicely and carefully written screenplay, did not fail to deliver. Very close to the impact the first movie made, but due to simplicity it stayed a couple of steps behind. Developed well with a bit of suspense, thrill and entertainment. Nothing more we could have asked, a perfect follow-up and hoping to explore beyond lot more in the upcoming movies in this series. Four years gap between the movies is a nice idea and fine breathing space for this franchise fan. A movie must be seen by animation fans, especially if you have already seen the first then don't miss it.\r 8/10",
+            "review_date": "2015-05-03",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "They succeeded in achieving a fantastic sequel which almost matches the original. Equally brilliant score and lovely characters. The story is good and the visuals and flights gorgeous. I\u00b4m giving it a slightly lower score because here we haveThey succeeded in achieving a fantastic sequel which almost matches the original. Equally brilliant score and lovely characters. The story is good and the visuals and flights gorgeous. I\u00b4m giving it a slightly lower score because here we have a few cliches which were totally missing in the first installment, and obviously, it doesn\u00b4t have the surprise factor of being the first film in a franchise. But still, wonderful and enjoyable animated film which was the best of 2014.",
+            "review_date": "2015-06-06",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "There is no doubt in saying that this is a very well made and directed animated feature with a good set of characters and creatures. That being said, this movie's plot seems a little rushed and it all seemed to move too quickly for my taste.There is no doubt in saying that this is a very well made and directed animated feature with a good set of characters and creatures. That being said, this movie's plot seems a little rushed and it all seemed to move too quickly for my taste. That being said, still a very well made film.",
+            "review_date": "2015-01-23",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "First things first: I never intended to watch this, it turned out to be the movie of choice on a family outing today & I had 0 interest in watching it since I never saw the original nor the series. With that in mind, I'll say I enjoyed everyFirst things first: I never intended to watch this, it turned out to be the movie of choice on a family outing today & I had 0 interest in watching it since I never saw the original nor the series. With that in mind, I'll say I enjoyed every moment and was money well spent.\rThe movies itself is greatly scripted with some twists and drama you wouldn't expect in a 'kids' movie, but it was one of the reasons why I liked it so much, and it is very well done in terms of animation and modelling (once again surpassing standards and my own expectations). I won't go on about characters and story because you probably already know them and I could spoil something.\rI think it's superb and probably one of the best movies I've seen in a while and, without a doubt, one (if not THE) best animated films of the last 10 years. I'd give it a 9.5 but since it won't let me...",
+            "review_date": "2014-08-05",
+            "source": "metacritic",
+            "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Smart, funny, visually splendid, and offering a surprising amount of emotional depth, How to Train Your Dragon 2 is a thoroughly entertaining ride for all ages.",
+            "review_date": "2014-07-14",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 8.9,
-    "rt_summary": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting the island's unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider who turns out to be Hiccup's long-lost mother, Valka (Cate Blanchett). Hiccup and Toothless then find themselves at the center of a battle to protect Berk from a power-hungry warrior named Drago."
+    "rt_summary": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting the island's unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider who turns out to be Hiccup's long-lost mother, Valka (Cate Blanchett). Hiccup and Toothless then find themselves at the center of a battle to protect Berk from a power-hungry warrior named Drago.",
+    "meta_rating": 8.3,
+    "meta_summary": "It's been five years since Hiccup and Toothless successfully united dragons and vikings on the island of Berk. While Astrid, Snoutlout and the rest of the gang are challenging each other to dragon races (the island's new favorite contact sport), the now inseparable pair journey through the skies, charting unmapped territories and exploringIt's been five years since Hiccup and Toothless successfully united dragons and vikings on the island of Berk. While Astrid, Snoutlout and the rest of the gang are challenging each other to dragon races (the island's new favorite contact sport), the now inseparable pair journey through the skies, charting unmapped territories and exploring new worlds. When one of their adventures leads to the discovery of a secret ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace. Now, Hiccup and Toothless must unite to stand up for what they believe while recognizing that only together do they have the power to change the future of both men and dragons.\u2026 Expand"
 }

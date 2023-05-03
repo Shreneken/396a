@@ -1,11 +1,14 @@
 {
     "rating": 2.6,
     "release_date": "2014-02-14",
-    "num_reviews": 1006,
+    "num_reviews": 1010,
     "genres": [
         "Action",
         "Drama",
-        "Musical"
+        "Musical",
+        "Thriller",
+        "Romance",
+        "Crime"
     ],
     "summary": "The lives of Calcutta's most powerful Gunday, Bikram and Bala, changes when Nandita enters it. Then a counter-force takes charge and a thriller unfolds.",
     "reviews": [
@@ -6745,8 +6748,17 @@
             "review_date": "2014-02-14",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "Gunday is about friendship, love, betrayal. Ranveer and Arjun are styled differently \u2013 they are quirky and don\u2019t mind flaunting their hot bods, you won\u2019t mind the weird outfits. Priyanka\u2019s closet doesn\u2019t do justice to the era in which theGunday is about friendship, love, betrayal. Ranveer and Arjun are styled differently \u2013 they are quirky and don\u2019t mind flaunting their hot bods, you won\u2019t mind the weird outfits. Priyanka\u2019s closet doesn\u2019t do justice to the era in which the film is set. But then again, why complain, hai na? She\u2019s hot and why should boys have all the attention, right? Ali Abbas Zafar has done a great job with his cast. It\u2019s certainly worth watching \u2018coz Gunday isn\u2019t a serious film which makes you leave the theatre with a heavy heart and neither a typical masala entertainer nor \u2018the happily ever after\u2019 kinda rom-com. Gunday is different and we love it!",
+            "review_date": "2014-03-06",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 0.9,
-    "rt_summary": "Hoe zou het zijn om in de huid van een varken te kruipen en een dagje op een boerderij te leven? Met deze gedachte in zijn achterhoofd maakte de legendarische documentairemaker Viktor Kosakovskiy zijn natuurfilm Gunda, waarin we aan de hand van intieme zwart-wit beelden in de dierenwereld worden geplaatst. Na het zien van Gunda kun je niet anders dan respect en empathie voelen voor elk levend wezen op onze aarde."
+    "rt_summary": "Hoe zou het zijn om in de huid van een varken te kruipen en een dagje op een boerderij te leven? Met deze gedachte in zijn achterhoofd maakte de legendarische documentairemaker Viktor Kosakovskiy zijn natuurfilm Gunda, waarin we aan de hand van intieme zwart-wit beelden in de dierenwereld worden geplaatst. Na het zien van Gunda kun je niet anders dan respect en empathie voelen voor elk levend wezen op onze aarde.",
+    "meta_rating": 5.9,
+    "meta_summary": "Based in Calcutta during its most unsettled times in the 1970s, the film deals with the inseparable life of Bikram and Bala. The story of two boys, boys who became refugees. Refugees who became gun couriers. Gun couriers who became coal bandits, coal bandits who became Calcutta's most loved, most celebrated, most reckless, most fearless,Based in Calcutta during its most unsettled times in the 1970s, the film deals with the inseparable life of Bikram and Bala. The story of two boys, boys who became refugees. Refugees who became gun couriers. Gun couriers who became coal bandits, coal bandits who became Calcutta's most loved, most celebrated, most reckless, most fearless, most powerful! A story of two happy-go-lucky renegades who came to be known as... Gunday! [Yash Raj Films]\u2026 Expand"
 }

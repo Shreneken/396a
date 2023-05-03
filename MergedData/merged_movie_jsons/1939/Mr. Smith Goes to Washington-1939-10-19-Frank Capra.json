@@ -1,7 +1,7 @@
 {
     "rating": 8.1,
     "release_date": "1939-10-19",
-    "num_reviews": 709,
+    "num_reviews": 718,
     "genres": [
         "Comedy",
         "Drama"
@@ -4383,8 +4383,17 @@
             "review_date": "2010-06-20",
             "source": "rt",
             "lang": "en"
+        },
+        {
+            "review_title": null,
+            "content": "This movie is just a plain and simple classic and overall great movie to watch.",
+            "review_date": "2018-12-13",
+            "source": "metacritic",
+            "lang": "en"
         }
     ],
     "rt_rating": 9.4,
-    "rt_summary": "When the idealistic young Jefferson Smith (James Stewart) winds up appointed to the United States Senate, he gains the mentorship of Senator Joseph Paine (Claude Rains). However, Paine isn't as noble as his reputation would indicate, and he becomes involved in a scheme to discredit Smith, who wants to build a boys' campsite where a more lucrative project could go. Determined to stand up against Paine and his corrupt peers, Smith takes his case to the Senate floor."
+    "rt_summary": "When the idealistic young Jefferson Smith (James Stewart) winds up appointed to the United States Senate, he gains the mentorship of Senator Joseph Paine (Claude Rains). However, Paine isn't as noble as his reputation would indicate, and he becomes involved in a scheme to discredit Smith, who wants to build a boys' campsite where a more lucrative project could go. Determined to stand up against Paine and his corrupt peers, Smith takes his case to the Senate floor.",
+    "meta_rating": 8.3,
+    "meta_summary": "A naive man (Jimmie Stewart) is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down."
 }
