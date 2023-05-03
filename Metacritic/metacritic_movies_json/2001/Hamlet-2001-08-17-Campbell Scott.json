@@ -1,19 +1,19 @@
 {
-    "title": "Hamlet",
-    "rating": 6.7,
-    "release_date": "2001-08-17",
-    "genre": [
-        "Drama"
-    ],
-    "summary": "William Shakespeare's immortal classic of revenge, murder -- and family.  This version is set in turn-of-the-century America, infusing the play with compelling scenic and costumes design.  (Hallmark Entertainment)",
-    "critic_reviews": [
-        "Mr. Scott's is something that must be seen. It is, in a word, compelling.",
-        "You can tell this is a smart take on Hamlet from the first wordless opening shots.",
-        "In one of the most accessible versions of Hamlet yet committed to film, Campbell Scott's self-helmed Great Dane is more than ever a man for our time.",
-        "The cast is similarly impressive; they're American through and through, and thankfully refrain from affecting anything remotely resembling a British stage accent.",
-        "As for Scott, his rather wry interpretation is competent, but neither daring nor insightful enough to arouse any great passion.",
-        "An aura of dust and mothballs evidently leaves a capable cast feeling woozy."
-    ],
-    "reviews": [],
-    "num_reviews": 6
+  "title": "Hamlet",
+  "rating": 6.7,
+  "release_date": "2001-08-17",
+  "summary": "William Shakespeare's immortal classic of revenge, murder -- and family.  This version is set in turn-of-the-century America, infusing the play with compelling scenic and costumes design.  (Hallmark Entertainment)",
+  "critic_reviews": [
+    "Mr. Scott's is something that must be seen. It is, in a word, compelling.",
+    "You can tell this is a smart take on Hamlet from the first wordless opening shots.",
+    "In one of the most accessible versions of Hamlet yet committed to film, Campbell Scott's self-helmed Great Dane is more than ever a man for our time.",
+    "The cast is similarly impressive; they're American through and through, and thankfully refrain from affecting anything remotely resembling a British stage accent.",
+    "As for Scott, his rather wry interpretation is competent, but neither daring nor insightful enough to arouse any great passion.",
+    "An aura of dust and mothballs evidently leaves a capable cast feeling woozy."
+  ],
+  "reviews": [],
+  "num_reviews": 6,
+  "genres": [
+    "Drama"
+  ]
 }

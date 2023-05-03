@@ -1,30 +1,30 @@
 {
-    "title": "Mr. Smith Goes to Washington",
-    "rating": 8.3,
-    "release_date": "1939-10-19",
-    "genre": [
-        "Drama",
-        "Comedy"
-    ],
-    "summary": "A naive man (Jimmie Stewart) is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
-    "critic_reviews": [
-        "Demonstrating that the greatest political evil is indifference, this appeal to a world on the verge of war has lost none of its relevance.",
-        "There\u2019s tremendous dramatic impact threaded throughout the picture, interwoven with those deft human episodes which have become familiar with Capra\u2019s direction in previous pictures. He keys the motivation of his basic premise without wasting time, and then carries it through vigorously.",
-        "[Capra] has paced it beautifully and held it in perfect balance, weaving his romance lightly through the political phases of his comedy, flicking a sardonic eye over the Washington scene, racing out to the hinterland to watch public opinion being made and returning miraculously in time to tie all the story threads together into a serious and meaningful dramatic pattern.",
-        "While MR. SMITH GOES TO WASHINGTON is the most moral of films, it is so artfully filled with real emotion that it never becomes heavy-handed.",
-        "The acting of the brilliant cast is sometimes superb. But Mr. Smith Goes to Washington is bigger than any of these things. Its real hero is not calfy Jeff Smith, but the things he believes, as embodied in the hero of U. S. democracy's first crisis, Abraham Lincoln.",
-        "Quintessential Capra - popular wish-fulfilment served up with such fast-talking comic panache that you don't have time to question its cornball idealism.",
-        "This is classic Capracorn, with the greatest girl cynic of the 30s, Jean Arthur.",
-        "Clumsy and irritating."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "This movie is just a plain and simple classic and overall great movie to watch.",
-            "review_date": "2018-12-13",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 9
+  "title": "Mr. Smith Goes to Washington",
+  "rating": 8.3,
+  "release_date": "1939-10-19",
+  "summary": "A naive man (Jimmie Stewart) is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+  "critic_reviews": [
+    "Demonstrating that the greatest political evil is indifference, this appeal to a world on the verge of war has lost none of its relevance.",
+    "There’s tremendous dramatic impact threaded throughout the picture, interwoven with those deft human episodes which have become familiar with Capra’s direction in previous pictures. He keys the motivation of his basic premise without wasting time, and then carries it through vigorously.",
+    "[Capra] has paced it beautifully and held it in perfect balance, weaving his romance lightly through the political phases of his comedy, flicking a sardonic eye over the Washington scene, racing out to the hinterland to watch public opinion being made and returning miraculously in time to tie all the story threads together into a serious and meaningful dramatic pattern.",
+    "While MR. SMITH GOES TO WASHINGTON is the most moral of films, it is so artfully filled with real emotion that it never becomes heavy-handed.",
+    "The acting of the brilliant cast is sometimes superb. But Mr. Smith Goes to Washington is bigger than any of these things. Its real hero is not calfy Jeff Smith, but the things he believes, as embodied in the hero of U. S. democracy's first crisis, Abraham Lincoln.",
+    "Quintessential Capra - popular wish-fulfilment served up with such fast-talking comic panache that you don't have time to question its cornball idealism.",
+    "This is classic Capracorn, with the greatest girl cynic of the 30s, Jean Arthur.",
+    "Clumsy and irritating."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "This movie is just a plain and simple classic and overall great movie to watch.",
+      "review_date": "2018-12-13",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 9,
+  "genres": [
+    "Drama",
+    "Comedy"
+  ]
 }

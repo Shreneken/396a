@@ -1,44 +1,44 @@
 {
-    "title": "East of Eden",
-    "rating": 7.7,
-    "release_date": "1955-04-10",
-    "genre": [
-        "Drama"
-    ],
-    "summary": "A wilful young man contends against his brother for the attention of their religious father while reconnecting with his estranged mother and falling for his brother's girlfriend.",
-    "critic_reviews": [
-        "A powerful film whose influence can be seen in Hud and most other antihero films, East of Eden is masterfully directed by Kazan. All the principals give riveting performances, but it was Dean who emerged as an overnight sensation. Eden also features a quintessentially hardbitten performance from Van Fleet, who won an Oscar for her pains.",
-        "Never in the history of movies was a film so absolutely enraptured by its subject than East of Eden is with Dean. The camera desperately records his every twist and turn of emotion as if preserving it were of the utmost importance.",
-        "Powerfully somber dramatics have been captured from the pages of John Steinbeck's East of ed en and put on film by Elia Kazan. It is a tour de force for the director's penchant for hard-hitting forays with life.",
-        "Steinbeck himself praised it for reaching the parts his book couldn't. Need a better endorsement?",
-        "John Steinbeck's painful biblical allegory\u2014Genesis replayed in Monterey, California, circa 1917\u2014is more palatable on the screen, thanks to the down-to-earth performances of James Dean as Cal/Cain and Richard Davalos as Aron/Abel.",
-        "Even viewers who acknowledge Kazan\u2019s lack of visual imagination usually concede that nobody got better performances out of actors, but this last vestige of his reputation is in real need of examination.",
-        "It\u2019s far from a dull movie, but it\u2019s certainly a very strange one; it\u2019s an enshrinement of the mixed-up kid. Here and in Rebel Without a Cause, Dean seems to go just about as far as anybody can in acting misunderstood.",
-        "As long-winded and bloated with biblical allegory as the original. That said, it's a film of great performances, atmospheric photography, and a sure sense of period and place (the California farmlands at the time of World War I).",
-        "In short, there is energy and intensity but little clarity and emotion in this film. It is like a great, green iceberg: mammoth and imposing but very cold."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "I don't know the original book that served as the basis, but I would like to say that this film was one of those that made James Dean a legend, in the role of a young man who struggles to find his place in a puritanical society and,I don't know the original book that served as the basis, but I would like to say that this film was one of those that made James Dean a legend, in the role of a young man who struggles to find his place in a puritanical society and, especially, in the heart from his strict father and estranged mother. A classic that does not show the years.",
-            "review_date": "2023-03-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Great movie that I enjoyed, a matter of pop culture because of Steinbeck and Dean. Acting is on point, story satisfiable, although left ambiguous.",
-            "review_date": "2021-03-21",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It's not only James Dean but everybody's amazing performance that make East Of Eden incredible, it's a simple story but they make it more darker and it just way better than i expected to be, East Of Eden is a truly amazing film.",
-            "review_date": "2021-07-24",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 12
+  "title": "East of Eden",
+  "rating": 7.7,
+  "release_date": "1955-04-10",
+  "summary": "A wilful young man contends against his brother for the attention of their religious father while reconnecting with his estranged mother and falling for his brother's girlfriend.",
+  "critic_reviews": [
+    "A powerful film whose influence can be seen in Hud and most other antihero films, East of Eden is masterfully directed by Kazan. All the principals give riveting performances, but it was Dean who emerged as an overnight sensation. Eden also features a quintessentially hardbitten performance from Van Fleet, who won an Oscar for her pains.",
+    "Never in the history of movies was a film so absolutely enraptured by its subject than East of Eden is with Dean. The camera desperately records his every twist and turn of emotion as if preserving it were of the utmost importance.",
+    "Powerfully somber dramatics have been captured from the pages of John Steinbeck's East of ed en and put on film by Elia Kazan. It is a tour de force for the director's penchant for hard-hitting forays with life.",
+    "Steinbeck himself praised it for reaching the parts his book couldn't. Need a better endorsement?",
+    "John Steinbeck's painful biblical allegory—Genesis replayed in Monterey, California, circa 1917—is more palatable on the screen, thanks to the down-to-earth performances of James Dean as Cal/Cain and Richard Davalos as Aron/Abel.",
+    "Even viewers who acknowledge Kazan’s lack of visual imagination usually concede that nobody got better performances out of actors, but this last vestige of his reputation is in real need of examination.",
+    "It’s far from a dull movie, but it’s certainly a very strange one; it’s an enshrinement of the mixed-up kid. Here and in Rebel Without a Cause, Dean seems to go just about as far as anybody can in acting misunderstood.",
+    "As long-winded and bloated with biblical allegory as the original. That said, it's a film of great performances, atmospheric photography, and a sure sense of period and place (the California farmlands at the time of World War I).",
+    "In short, there is energy and intensity but little clarity and emotion in this film. It is like a great, green iceberg: mammoth and imposing but very cold."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "I don't know the original book that served as the basis, but I would like to say that this film was one of those that made James Dean a legend, in the role of a young man who struggles to find his place in a puritanical society and,I don't know the original book that served as the basis, but I would like to say that this film was one of those that made James Dean a legend, in the role of a young man who struggles to find his place in a puritanical society and, especially, in the heart from his strict father and estranged mother. A classic that does not show the years.",
+      "review_date": "2023-03-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Great movie that I enjoyed, a matter of pop culture because of Steinbeck and Dean. Acting is on point, story satisfiable, although left ambiguous.",
+      "review_date": "2021-03-21",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It's not only James Dean but everybody's amazing performance that make East Of Eden incredible, it's a simple story but they make it more darker and it just way better than i expected to be, East Of Eden is a truly amazing film.",
+      "review_date": "2021-07-24",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 12,
+  "genres": [
+    "Drama"
+  ]
 }

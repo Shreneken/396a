@@ -1,17 +1,17 @@
 {
-    "title": "Liger",
-    "rating": "tbd",
-    "release_date": "2022-08-26",
-    "genre": [
-        "Action",
-        "Drama",
-        "Sport",
-        "Romance"
-    ],
-    "summary": "A story about martial arts, dreams and star crossed lovers. Liger is an MMA fighter who trains hard and rises up the ranks with one goal in mind, to fight like his idol, world renowned MMA fighter Mark Anderson and get noticed by him.",
-    "critic_reviews": [
-        "Liger fails to live up to the standards of either star or director and instead winds up as a below average potboiler too reliant on local tropes to feel fresh for Telugu film veterans or welcoming for newcomers."
-    ],
-    "reviews": [],
-    "num_reviews": 1
+  "title": "Liger",
+  "rating": "tbd",
+  "release_date": "2022-08-26",
+  "summary": "A story about martial arts, dreams and star crossed lovers. Liger is an MMA fighter who trains hard and rises up the ranks with one goal in mind, to fight like his idol, world renowned MMA fighter Mark Anderson and get noticed by him.",
+  "critic_reviews": [
+    "Liger fails to live up to the standards of either star or director and instead winds up as a below average potboiler too reliant on local tropes to feel fresh for Telugu film veterans or welcoming for newcomers."
+  ],
+  "reviews": [],
+  "num_reviews": 1,
+  "genres": [
+    "Action",
+    "Drama",
+    "Sport",
+    "Romance"
+  ]
 }

@@ -1,44 +1,44 @@
 {
-    "title": "The Quiet Man",
-    "rating": 7.1,
-    "release_date": "1952-09-14",
-    "genre": [
-        "Drama",
-        "Comedy",
-        "Romance"
-    ],
-    "summary": "A retired American boxer returns to the village of his birth in 1920s Ireland, where he falls for a spirited redhead whose brother is contemptuous of their union.",
-    "critic_reviews": [
-        "Wayne and O'Hara create a fine rapport, with good performances that build to a truly satisfying climax.",
-        "The wonderful performances by Ford's stock company in these roles help make THE QUIET MAN an utterly moving and fascinating portrait of rural life in Ireland.",
-        "Ideal Sunday afternoon fare.",
-        "Shot partly on location in Ireland and designed in the lushest greens ever squeezed out of Technicolor, The Quiet Man is a movie that isn\u2019t about a whole lot, but yet seems to contain so much\u2014from Wayne\u2019s easygoing charisma to the notoriously protracted climactic fight to the febrile, film-noir-like flashback to Sean\u2019s boxing days.",
-        "Sentimental and sexist, John Ford\u2019s gorgeous slice of the auld sod nevertheless moves like music.",
-        "Scenes of the Irish countryside are dazzling and Ford\u2019s version of Ireland is all homey and warm-hearted, with a distinct Hollywood glaze.",
-        "John Ford\u2019s 1952 Oscar winner is a tribute to an Ireland that exists only in the imaginations of songwriters and poets like Ford, a fairy green place where people really do say \u201cfaith and begorrah.\u201d",
-        "Let's face it. Mr. Ford is in love with Ireland, as is his cast, and they give us a fine, gay time while they're about it.",
-        "The Quiet Man showcases [Wayne] as the leading man in an old fashioned romantic drama. Cast against type, Wayne pulls it off with aplomb, largely because his tremendous screen presence allows him to get away with gaffes that would sink other actors.",
-        "If it\u2019s an ungainly variety, it doesn\u2019t suggest directorial sloppiness, but the warmth of oral tradition as it dances around a cluster of themes (belonging, redemption, reconciliation) with the vigor of a yarn spun, porter in hand, alongside an open fire.",
-        "The Quiet Man remains one of the purest distillations of this charismatic filmmaker\u2019s diverse artistic nature.",
-        "John Ford\u2019s bluff and sentimental comedy, from 1952, set in the Irish countryside, is as much an anthropological adventure as a romantic rhapsody.",
-        "Despite the length of the footage, film holds together by virtue of a number of choice characters, the best of which is Barry Fitzgerald\u2019s socko punching of an Irish type. Wayne works well under Ford\u2019s direction, answering all demands of the vigorous, physical character.",
-        "Ford's flamboyantly Oirish romantic comedy hides a few tough ironies deep in its mistily nostalgic recreation of an exile's dream."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "Another classic movie that I have just recently viewed for the first time.  The story is enjoyable and not one would expect to see John Wayne star in.  Good to see The Duke in a different setting.  Maureen O'Hara had an amazing performance.Another classic movie that I have just recently viewed for the first time.  The story is enjoyable and not one would expect to see John Wayne star in.  Good to see The Duke in a different setting.  Maureen O'Hara had an amazing performance.  Looking forward to seeing more of her movies in the future.  Interesting to see the portrayal of Ireland at the period of time.  The story follows a man moving back to the nation of his birth.  Hijinks ensue as he becomes acclimated to the people and customs of his homeland. Highly recommend watching this gem.",
-            "review_date": "2022-04-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It's not particularly profound, but holds up so well as an all-around family movie. Sean Thornton (John Wayne) travels back to Ireland, the land of his fathers, after being raised in the US, only to find himself in love with the redhead MaryIt's not particularly profound, but holds up so well as an all-around family movie. Sean Thornton (John Wayne) travels back to Ireland, the land of his fathers, after being raised in the US, only to find himself in love with the redhead Mary Kate Danaher (Maureen O'Hara). Her brother, however, doesn't take kindly to Thornton, and, as a result, drama ensues. I say \"drama\", but this movie is so upbeat with its Irish charm and humor, I would say it's a cozy watch if you want to get in a good mood. It is a prime example of the beauty of technicolor, and the wardrobe is on-point. It's not the greatest John Wayne movie, but, by God, it's the very definition of underrated. Even the musical score is fantastic. Good for adults and children alike. Children will find the third act especially fun. And if you're into boxing/MMA, you may very well appreciate it, too. A great film for couples, as well. The way marriage was handled back then is a fascinating subject matter.",
-            "review_date": "2022-05-11",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 16
+  "title": "The Quiet Man",
+  "rating": 7.1,
+  "release_date": "1952-09-14",
+  "summary": "A retired American boxer returns to the village of his birth in 1920s Ireland, where he falls for a spirited redhead whose brother is contemptuous of their union.",
+  "critic_reviews": [
+    "Wayne and O'Hara create a fine rapport, with good performances that build to a truly satisfying climax.",
+    "The wonderful performances by Ford's stock company in these roles help make THE QUIET MAN an utterly moving and fascinating portrait of rural life in Ireland.",
+    "Ideal Sunday afternoon fare.",
+    "Shot partly on location in Ireland and designed in the lushest greens ever squeezed out of Technicolor, The Quiet Man is a movie that isn’t about a whole lot, but yet seems to contain so much—from Wayne’s easygoing charisma to the notoriously protracted climactic fight to the febrile, film-noir-like flashback to Sean’s boxing days.",
+    "Sentimental and sexist, John Ford’s gorgeous slice of the auld sod nevertheless moves like music.",
+    "Scenes of the Irish countryside are dazzling and Ford’s version of Ireland is all homey and warm-hearted, with a distinct Hollywood glaze.",
+    "John Ford’s 1952 Oscar winner is a tribute to an Ireland that exists only in the imaginations of songwriters and poets like Ford, a fairy green place where people really do say “faith and begorrah.”",
+    "Let's face it. Mr. Ford is in love with Ireland, as is his cast, and they give us a fine, gay time while they're about it.",
+    "The Quiet Man showcases [Wayne] as the leading man in an old fashioned romantic drama. Cast against type, Wayne pulls it off with aplomb, largely because his tremendous screen presence allows him to get away with gaffes that would sink other actors.",
+    "If it’s an ungainly variety, it doesn’t suggest directorial sloppiness, but the warmth of oral tradition as it dances around a cluster of themes (belonging, redemption, reconciliation) with the vigor of a yarn spun, porter in hand, alongside an open fire.",
+    "The Quiet Man remains one of the purest distillations of this charismatic filmmaker’s diverse artistic nature.",
+    "John Ford’s bluff and sentimental comedy, from 1952, set in the Irish countryside, is as much an anthropological adventure as a romantic rhapsody.",
+    "Despite the length of the footage, film holds together by virtue of a number of choice characters, the best of which is Barry Fitzgerald’s socko punching of an Irish type. Wayne works well under Ford’s direction, answering all demands of the vigorous, physical character.",
+    "Ford's flamboyantly Oirish romantic comedy hides a few tough ironies deep in its mistily nostalgic recreation of an exile's dream."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "Another classic movie that I have just recently viewed for the first time.  The story is enjoyable and not one would expect to see John Wayne star in.  Good to see The Duke in a different setting.  Maureen O'Hara had an amazing performance.Another classic movie that I have just recently viewed for the first time.  The story is enjoyable and not one would expect to see John Wayne star in.  Good to see The Duke in a different setting.  Maureen O'Hara had an amazing performance.  Looking forward to seeing more of her movies in the future.  Interesting to see the portrayal of Ireland at the period of time.  The story follows a man moving back to the nation of his birth.  Hijinks ensue as he becomes acclimated to the people and customs of his homeland. Highly recommend watching this gem.",
+      "review_date": "2022-04-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It's not particularly profound, but holds up so well as an all-around family movie. Sean Thornton (John Wayne) travels back to Ireland, the land of his fathers, after being raised in the US, only to find himself in love with the redhead MaryIt's not particularly profound, but holds up so well as an all-around family movie. Sean Thornton (John Wayne) travels back to Ireland, the land of his fathers, after being raised in the US, only to find himself in love with the redhead Mary Kate Danaher (Maureen O'Hara). Her brother, however, doesn't take kindly to Thornton, and, as a result, drama ensues. I say \"drama\", but this movie is so upbeat with its Irish charm and humor, I would say it's a cozy watch if you want to get in a good mood. It is a prime example of the beauty of technicolor, and the wardrobe is on-point. It's not the greatest John Wayne movie, but, by God, it's the very definition of underrated. Even the musical score is fantastic. Good for adults and children alike. Children will find the third act especially fun. And if you're into boxing/MMA, you may very well appreciate it, too. A great film for couples, as well. The way marriage was handled back then is a fascinating subject matter.",
+      "review_date": "2022-05-11",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 16,
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ]
 }

@@ -67,10 +67,10 @@ def add_from_src(src):
                 
 
 if __name__ == '__main__':
-    # copy_from_imdb()
-    # add_from_src('rt')
-    # add_from_src('meta')
-    # get_from_rt()
-    # merge_only_meta_and_rt()
+    copy_from_imdb()
+    add_from_src('rt')
+    add_from_src('meta')
+    get_from_rt()
+    merge_only_meta_and_rt()
     print('Already Merged Successfully!')
 

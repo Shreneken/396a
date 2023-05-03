@@ -1,415 +1,415 @@
 {
-    "title": "Back to the Future Part II",
-    "rating": 8.3,
-    "release_date": "1989-11-22",
-    "genre": [
-        "Adventure",
-        "Sci-Fi",
-        "Comedy"
-    ],
-    "summary": "After visiting 2015, Marty McFly must return to 1955 to prevent disastrous changes to his life in 1985.",
-    "critic_reviews": [
-        "All in all, Future II is another fantastic voyage in a thoroughly entertaining contraption.",
-        "Back to the Future deserved a chance to come back, especially under the cheerful, enterprising, mathematically minded stewardship of Mr. Zemeckis and Mr. Gale. Their new film isn't an ordinary sequel. It's as if the earlier film had been squared.",
-        "I should have brought a big yellow legal pad to the screening, so I could take detailed notes just to keep the time-lines straight. And yet the movie is fun, mostly because it's so screwy.",
-        "Directed and played with terrific verve, this moves so fast from one special effects set-piece to the next that there's no time at all to reflect on the basic ridiculousness of its Chinese box of a plot.",
-        "Future II bombards you with more brand-name advertising than three hours of prime-time TV could muster, although repeat filmmakers Bob Gale and Robert Zemeckis put a humorous twist on everything.",
-        "The problem with all the time-travel high jinks, involving multiple versions of the major characters (a gimmick that Robert Heinlein handled much better in stories like \u201cBy His Bootstraps\u201d and \u201cAll You Zombies\u2014\u201d), is that in order to make the plot even semiintelligible, writer Bob Gale and director-cowriter Robert Zemeckis have to turn all these characters into strident geeks and make the frenetic action strictly formulaic.",
-        "The energy and heart which Robert Zemeckis and story-writing partner Bob Gale (who takes solo screenplay credit this time) poured into the ingenious story of part one is diverted into narrative mechanics and camera wizardry in Future II."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "Just as good as the first one,  with a great and intelligent story, great acting, perfect music, and cool visual in the time. One of my favorite movies of all time.",
-            "review_date": "2013-05-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Doesn't hold a candle to the first one, but Back to the Future Part II is better than most sequels. Marty McFly is back, and the premise is still interesting and fresh. I still enjoyed it.",
-            "review_date": "2013-09-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Back to the Future Part II adds more plot lines and more time travel destinations thus adding opportunities for more peril and more great adventure, and it absolutely delivers on those opportunities.",
-            "review_date": "2016-05-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The first one is just slightly better but this is still a great sequel with just as many awesome scenes! It follows on immediately after the first films events which is great. It gets a little more confusing as we jump back and forth throughThe first one is just slightly better but this is still a great sequel with just as many awesome scenes! It follows on immediately after the first films events which is great. It gets a little more confusing as we jump back and forth through time but those that can keep up will be OK. It's such a clever film and idea that made it work so well, and having actors like Fox & Lloyd only helped. I'm a little hesitant about the final chapter as I don't remember liking it but willing to give it a shot!",
-            "review_date": "2013-05-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This film is another great one, using visual and story creativity that made the first film such a hit.  Although the story is not as strong, the film still manages to entertain in almost every way with a great cast once again (only missingThis film is another great one, using visual and story creativity that made the first film such a hit.  Although the story is not as strong, the film still manages to entertain in almost every way with a great cast once again (only missing Marty's father's comedy genius).  The film is still a great sequel as most sequels disappoint, this one does not.",
-            "review_date": "2013-07-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Doc: \"Roads? Where we're going, we don't need roads\".\r In the year 2015 Marty tries to stop his son from making mistakes when he learns of the path his life took all of which sparks a rupture in the time space continuum eventually leadingDoc: \"Roads? Where we're going, we don't need roads\".\r In the year 2015 Marty tries to stop his son from making mistakes when he learns of the path his life took all of which sparks a rupture in the time space continuum eventually leading Marty back to 1955 to stop further consequences to 1985.\r Back to the future Part II isn't as great as the first movie, but there's a lot to like in this film. The visual effect's are good, the chemistry between Marty and Doc are great like the first movie and the movie itself is solidly entertaining.",
-            "review_date": "2015-10-21",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Back to the future 2 is my favorite of the trilogy providing us with a fantastic and fun look at the future along with some top notch characters and a tone that is handled very well",
-            "review_date": "2015-10-21",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "While I love the first one more, Part 2 is just as good. Its made to the same level of quality as the first; with great writing, great performances, great music, great costume and production design, and lots of laughs throughout. I love howWhile I love the first one more, Part 2 is just as good. Its made to the same level of quality as the first; with great writing, great performances, great music, great costume and production design, and lots of laughs throughout. I love how it honours the first movie but at the same time adds a twist/extra dynamic to make it more interesting (no spoilers of course). This is a must watch, after the first one of course.",
-            "review_date": "2016-07-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is my favourite chapter in the trilogy. The original is still like listening to a rock song in 1955, but the second one is like having a time machine to yourself while you watch it. It's smart, takes many different turns, and it didn'tThis is my favourite chapter in the trilogy. The original is still like listening to a rock song in 1955, but the second one is like having a time machine to yourself while you watch it. It's smart, takes many different turns, and it didn't confuse me. I don't see why people say it's confusing.",
-            "review_date": "2013-10-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "i love back  to the future 2 it has biff all over it .   at least it is better the part 3 .  all i can say is back to the future is super great go **** good",
-            "review_date": "2014-03-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Great continuation to a classic sci-fi film.  Sequels hardly ever match up with the original first film (except T2, it is better!), but BTTF2 nearly pulls it off.  Is it as good as #1? No, but it is still a 10 for me.",
-            "review_date": "2019-03-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "There a lack of heart and charm that the first one had in spades. A lot of stupid plot points (such as Marty hating being called chicken to the point where it ruins his life) and I felt that they relied too much on just rehashing everythingThere a lack of heart and charm that the first one had in spades. A lot of stupid plot points (such as Marty hating being called chicken to the point where it ruins his life) and I felt that they relied too much on just rehashing everything from the first film rather than being it's own original adventure.",
-            "review_date": "2019-09-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is one of those movies that make a sequel and the sequel is actually good. It has even better acting with a good story that shows the past, present, and future. It had better graphics, and follows the events after the first film.This is one of those movies that make a sequel and the sequel is actually good. It has even better acting with a good story that shows the past, present, and future. It had better graphics, and follows the events after the first film. Although it's not the best one, it still a good film.",
-            "review_date": "2013-11-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This review contains spoilers, click expand to view.\n        \nI liked it as much as the first one, MJFox and Christopher Lloyd return with excellent acting, and while it is 2015 and we don't have flying cars, it is still entertaining to watch none the less",
-            "review_date": "2015-03-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I loved the first Back to the Future, it was fun, original and simply irresistible. Back to the Future 2 is a very good sequel, while considered the darkest of the three it is still quite bright in tone. It isn't as good as the first filmI loved the first Back to the Future, it was fun, original and simply irresistible. Back to the Future 2 is a very good sequel, while considered the darkest of the three it is still quite bright in tone. It isn't as good as the first film though, moving a little too fast and a little too much crammed in such as the past, future and alternative universes idea. Still it is very enjoyable, with the acting from Michael J Fox and Christopher Lloyd as zany and as likable as ever before and the special effects even better than in the first film and that was a hard feat. The script is clever and fun, the direction is excellent and the sets are highly imaginative. Plus the score is great. Overall, a slightly inferior but very enjoyable sequel. 8/10 Bethany Cox",
-            "review_date": "2022-03-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Unlike the first part of the movie, this part manages to fall and fail in charming moments filled with very cheesy and predictable events during the year 2015 in this movie.",
-            "review_date": "2016-02-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A disastrous rehash of an already disastrous movie. Back to the Future Part 2 only makes a more convoluted plot, but is maybe not as sexist.",
-            "review_date": "2021-08-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Has a very muddled plot and doesn't know what it wants to be. But still enjoyable anyway.",
-            "review_date": "2021-10-17",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "You\u2019ll come out of this film with either two reactions. One it was a fun time travel movie that had me on the edge of my seat. Another reaction you\u2019ll have is this movie had no heart and just had the characters running around the whole timeYou\u2019ll come out of this film with either two reactions. One it was a fun time travel movie that had me on the edge of my seat. Another reaction you\u2019ll have is this movie had no heart and just had the characters running around the whole time and never let you breathe and either way you\u2019ll be right. For me it s a combo of the two. While this was a fun movie it was nowhere near as good as the first one with characters constantly running around and the film never giving the audience or the characters a chance to breathe. There was not much story or character to this film just one giant marathon that you are exhausted at, which makes it nowhere near is as good as the first one. Thankfully, some of this running around is fun and makes it a decent watch but at the same time it destroys a perfectly good movie. This sequel didn\u2019t need to exist but at the same time it could have been worse. If you love the first film I\u2019d recommend skipping this film so you\u2019ll just have that one really good one in your head. If you\u2019re curious check it out as it is not awful its just the first one was so much better where this one is just generic. To reiterate as a film on its own its alright but as a sequel to Back to the Future one of the best movies I have ever seen it is a massive let down lacking substance and is a whole lot of nothing.",
-            "review_date": "2014-03-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "For me, Back to the Future Pt 2 is probably the least of all three movies.  That's not saying much, since all three are classics.  There's never a bad time to watch any of these movies, and I usually have to watch Pt. 2 and Pt. 3 after I'veFor me, Back to the Future Pt 2 is probably the least of all three movies.  That's not saying much, since all three are classics.  There's never a bad time to watch any of these movies, and I usually have to watch Pt. 2 and Pt. 3 after I've watched the first movie because it's a trilogy and they all tell a full story together.",
-            "review_date": "2015-10-21",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It may not be as good as its predecessor, in a lot of ways it feels like a retread, but it is still one heck of an enjoyable movie. Marty McFly and the Doc are back and this time they travel to the past and the future with a plot that takesIt may not be as good as its predecessor, in a lot of ways it feels like a retread, but it is still one heck of an enjoyable movie. Marty McFly and the Doc are back and this time they travel to the past and the future with a plot that takes place right where the 1st \"Back to the Future\" left off. The humor is still here, it's still got some incredibly tense moments, and Marty is just as likable as ever. The only problem I have with the film is that, aside from lacking the magic of the original, it feels to much like a retread of the first movie.\r Scenes from the first film are constantly being repeated throughout, making this feel less like a sequel and more like a way to remind us of what happened in the first movie so that we may better prepared for part 3, which this movie even already has scenes from at the end! This is especially odd because part 1 had only come out 4 years ago, so the memories of that movie couldn't have been that well forgotten. Still, what original plot the film does have manages to keep it afloat and worth watching.\r It might not have the magic of the first film, and its existence may just be a way to set us up for part 3, but it's still got enough moments of originality here to make it worth a watch for fans of the first. It might not be a perfect sequel, but it's still a darn good one.",
-            "review_date": "2013-11-17",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Continuing from where the original movie finished, Dr. Emmett Brown persuades Marty McFly and his girlfriend to travel to the future with him and help their future children. When Biff Tannen witnesses their departure and uses knowledge of theContinuing from where the original movie finished, Dr. Emmett Brown persuades Marty McFly and his girlfriend to travel to the future with him and help their future children. When Biff Tannen witnesses their departure and uses knowledge of the future to help himself, Marty must work to set everything back to the way it was.Upon release Back to the Future Part 2 received a mixed reception from critics, but while it\u2019s not quite as good as the original, it is now widely considered one of the best movie sequels ever made once again capturing the charm and humour that makes this franchise so much fun to watch.",
-            "review_date": "2020-12-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Actually found this more enjoyable than the first as the time-travel premise is used more intelligently.",
-            "review_date": "2019-04-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Best sequel. The entertainment value was so high it top the first one. Mind blowing writing this has, kudos to this.",
-            "review_date": "2018-08-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "BttF 2 is certainly made of the same stock as 1.\r It's still got great acting, music, and pretty much all the strengths of the first one, which was strong all-round.\r\n\r\nThis one does suffer from two of its parts though.\r\n\r\nOne is that theBttF 2 is certainly made of the same stock as 1.\r It's still got great acting, music, and pretty much all the strengths of the first one, which was strong all-round.\r This one does suffer from two of its parts though.\r One is that the true strength of BttF 1 was how everything was seamless and perfectly fitting, like a machine that never, ever made any mistakes. Every plot thread, scene, character, did all it had to do, none of them may have shined extremely bright but they all did a perfect job.\r In this one, the plot threads don't really work as well. One of the most important elements of BttF2 is that you can't have 2 same people meet or else that'll create a time paradox. Here, when Biff from 1955 meets Biff from 2015...nothing happens. I know Young Biff doesn't recognise Old Biff, but still, the plot point falls apart, and it's one of the bigger plot points of the movie.\rOther elements like how Doc Brown refuses to change the future, but gets Marty to change the future to save his kids, is a bit ridiculous. If he's ready to change the future that much, why not help Marty stop being an idiot and not get in the car accident he's supposed to get in? It's not much of a stretch and it'd certainly help much.\rMost scenes do their job as well as in the first movie, but don't feel as tight. Why?...The first one had a pretty much flawless quality of always introducing plot devices, foreshadowing and emotional relationships statuses without any asperity to it. The leaflet that informs you that the clock tower will be struck at exactly 10:04? Perfectly introduced. The meeting between Marty's mum and him instead of his 1955 dad? Perfectly introduced.\r Here, it's not so good. Things that happen don't make as much sense and/or are a bit too easy or not as well executed. It's not far worse, just slightly, but while the first one was constantly amazing with that, this one isn't.\r The second thing that doesn't work too well in this movie is how drastically it travels through time. You go to the future, an alternate present, the past, all in one movie. It's fine in terms of logic and sense(mostly anyway) but emotionally, it's not. You don't have the time to build emotion for any of the characters in this movie, except for the ones you already know from the last movie.\rGranted, that's pretty much 90% of them...But that's the issue. They bring almost nothing new to the table. There's certainly a lot of tension and emotion for Marty and Doc's predicaments, but not for their characters, or any new characters. The alternate 1985 Biff and Lorraine? You don't see them long. Old Biff? Don't see him long. Young Biff, you know him from the last movie.\rMarty and Doc end up on the upper end of this since they have a lot of screen time and we already know them and learn more about them, but they're really the exception.\r Apart from these inferiorities, BttF2 is definitely still a great watch. It's still fun, full of tension and action and comedy, and although quite more sad and tragic than the last one, it's just as good as a lighthearted story.",
-            "review_date": "2014-04-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A sequel that challenges the already excellent prequel. I am still undecided which one is the better movie. The first one is more unique but the sequel is also amazing. Since both are truly great movies it does not really mater at the end ofA sequel that challenges the already excellent prequel. I am still undecided which one is the better movie. The first one is more unique but the sequel is also amazing. Since both are truly great movies it does not really mater at the end of the day. While it is also a science fiction comedy it is also different and has a bit of a darker tone than the prequel. The movie starts at the end of the prequel (At the sequel teaser) were Doc Brown appeared again to bring Marty and his girlfriend Jennifer into the future in the year 2015 to prevent serious family troubles there (This sounds fake now as we are already past 2015;-). However because of some carelessness this is just a small inconvenience to the events that happen when they return to the past. I will stop here with the set up to avoid spoilers. The story is magnificent and the twists are remarkable. They could play it safe but tried something new. This works well, is immersive and enjoyable from start to finish. Bonus: Many years later it was interesting to make the comparison between the movie imagination and real year 2015 (The imagination won;-). I will praise the creativity here for the story and worldbuilding. Much of the pop culture knowledge of fictional time travel is from this movie. Again they mastered the balance between seriousness and humor in a way that none harms the other. Also again the great cast delivers a performance that enhances the movie. Lets start with Marty McFly played by Michael J. Fox who again fully delivers his role. Same for Christopher Lloyd as Doc Brown who is our beloved eccentric or slightly mad scientist;-). These 2 have such a great chemistry in the franchise. Thomas F. Wilson returns as Biff Tannen and even surpasses his performance from the first movie. It is no wonder why he is one of the most memorable antagonist of his (movie) age. The rest of the cast also adds to the great performance and I will praise all of them. Where this movie is clearly a bit weaker than the prequel is the soundtrack and it is still a good soundtrack. Overall this was a great sequel. It has the strength of the original and fresh ideas. The story and humor in combination with the actors work well. It is an easy recommendation and I will praise director Robert Zemeckis for this great movie.",
-            "review_date": "2021-04-10",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "After visiting 2015, Marty McFly must return to 1955 to prevent disastrous changes to his life in 1985 or else he'll be stuck with the alternate reality of 1985.",
-            "review_date": "2014-10-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "To put it short, I liked 'Back to the Future Part II', but unfortunately, not as much as I enjoyed the first one. This is a sequel that has a lot going for it, so much so, that it becomes a little over-saturated with so many plot-lines and soTo put it short, I liked 'Back to the Future Part II', but unfortunately, not as much as I enjoyed the first one. This is a sequel that has a lot going for it, so much so, that it becomes a little over-saturated with so many plot-lines and so many different situations that our characters get into.\r Marty McFly (Michael J. Fox) is back, and Dr. Emmett Brown (Christopher Lloyd) takes Marty and his girlfriend Jennifer (Elisabeth Shue) to the future of 2015 where he tells them about the situation involving both Marty and Jennifer's kids. While they're both in 2015, Marty comes across a guide book that is able to tell him about all the sports events and results between 1950 to 2000, with Marty being equipped with easy access to a time machine, he is able to go back and predict these scores and is able to make money from it all.\r But, the doctor isn't so keen about this idea, as he claims that he did not invent the time machine to predict scores and gamble for financial gain. But, it turns out that Biff (Thomas F. Wilson) has managed to find the book and use it for his younger self and alternate the present that is 1985 in the worst way possible.\r The movie is certainly fast-paced and visually eye-popping. The fictional take on the future of 2015 is filled with pure imagination and the film does its job with special effects that still hold up magnificently well, the film is still as funny as ever, even though some parts of the film may seem a little far-fetched. There are times where he movie does feel a little unnecessary as one would ask \"Why would the Doc tell Marty about his future when he could control his own future and prevent disastrous results?\".\r There is still a lot to like about this movie, even if it does feel a little repetitive and overly melodramatic, if not overstuffed with too many character cliches. The young hero is the young hero, the crazy scientist is the crazy scientist and the big bad guy is the big bad guy. Some of the lines of dialogue may be a little ironic for comedy purposes, but at times can feel a little... eye-rolling, such as \"You're not going to believe this, we got to go back to 1955!\" followed by \"I don't believe it!\". I get that it's used for irony, but it also felt a little cheap in terms of what kind of comedy it's supposed to be.\r A good sequel, not as great as the first.",
-            "review_date": "2016-08-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Back to the Future Part II is just as good as the first one, and the Back to the Future movies make one of my favorite movie series of all time. (the third one is not as good as the others though)\r It's 2015 now and it's very funny to seeBack to the Future Part II is just as good as the first one, and the Back to the Future movies make one of my favorite movie series of all time. (the third one is not as good as the others though)\r It's 2015 now and it's very funny to see how the writers of Back to the Future Part II imagined 2015. Of course it's a far way from actual life in our time, but which sci fi movie ever saw the future correctly?\r They did a nice job by starting this second movie where the first left of, which makes for a nice continuation of the story.\r Marty and doc are still wonderfully portrayed by Michael J. Fox and Christopher Lloyd. Jennifer has become less attractive which is a shame, I liked the first actress more.",
-            "review_date": "2015-10-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Doesn't hold a candle to the first one, but Back to the Future Part II is better than most sequels. Marty McFly is back, and the premise is still interesting and fresh. I still enjoyed it.",
-            "review_date": "2016-04-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Movie was amazing! They go to the future 2015 although last year didn't seem like it was the future. But yeah, the movie was pretty good. I'm glad that there are more people that like this movie.",
-            "review_date": "2016-02-09",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Previously on Back to the Future. I just want to point out something about it. I don't understand anything about time travel when I watched the first film. I just found time traveling confusing. But watching it again I understand what it is,Previously on Back to the Future. I just want to point out something about it. I don't understand anything about time travel when I watched the first film. I just found time traveling confusing. But watching it again I understand what it is, when you travel back in time in the old years and of course, recent years. Robert Zemeckis is back to direct the second movie, Back to the Future Part II along with Michael J. Fox and Christopher Lloyd returning to their roles. Marty McFly and Doc Brown travel from 1985 to 2015 to prevent Marty's son from sabotaging the McFly family's future; when their arch-nemesis Biff Tannen, played by Thomas F. Wilson again, steals Doc's DeLorean time machine and uses it to alter history for his benefit, the duo must return to 1955 to restore the timeline. OK, so after the first film got it's massive praises back in 1985 the movie itself takes place in the year 1985 and now in 1955 where Marty had accidentally traveled in the year 1955. This one does the same thing and this time something is seriously wrong. Okay, now let me get to something that what changed about the movie. You know Claudia Wells, right? Where she played Jennifer Parker from the first film, she was replaced by Elisabeth Shue because she retired from acting due to her mother had been diagnosed with cancer, so now they reshot that scene in the opening where the first one ended. And of course, Crispin Glover didn't get to return which he want to due to he got paid less money. He sued the producers for using his likeness without his permission. Now there's something I didn't know about one thing that I completely missed out is the fact that I see Michael J. Fox in drag. It always baffles me that I didn't know who dresses up like a woman. I do know however that Tim Curry is always like that from The Rocky Horror Picture Show. I gotta say I really love the sequel much like the first one. I know it's not as good as the first but once you've seen it you grown to appreciate it. It had a funny story that correct the mistakes what Biff has done and it reenacts the same scenes from the first movie without bumping into the other selves. I also liked the funny part where Marty sneaks into Mr Strickland's office to get the almanac but finds the cover of it with the \"Ooh La La\" catalog. Now that I'm going to do the third and final film of the Back to the Future trilogy, Back to the Future Part III. Stay Tuned.",
-            "review_date": "2020-05-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This sequel doesn't work with the original, and it's not funny enough to put the audience in shock. Using not enjoyable enough story-telling. Steven Spielberg makes epic films, but his sequels (don't he does not make himself usually) looksThis sequel doesn't work with the original, and it's not funny enough to put the audience in shock. Using not enjoyable enough story-telling. Steven Spielberg makes epic films, but his sequels (don't he does not make himself usually) looks and are like a piece of rubbish, as many sequels. Back to the Future II is a film theta not anyone will love.",
-            "review_date": "2016-03-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Marty theres something wrong your kid is going to jail and we must pervent that from happening. So what we do we do i take you and jenfier back to the future. Back to the future Part 2 is way better than the orignal because it has greatMarty theres something wrong your kid is going to jail and we must pervent that from happening. So what we do we do i take you and jenfier back to the future. Back to the future Part 2 is way better than the orignal because it has great multipule subplots going on and many problems. Its like when there done with one they get to another. In this sequel to a so far very wonderful trilogy Marty and his girlfriend Jenifer must go back to the future to prevent one of there kids from going to jail. This movie can get a little dark cause of what old biff does meanwhile he go s in to the time machine car so he can make his own world that he kind of be king so Marty and DR. emmit brown must leave jenifer to save the future. As they do that Dr. emmit brown leaves without Marty so Marty must confront the other Dr.",
-            "review_date": "2016-03-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Great Scott! I love the part 2.Especially,when Marty, Doc and Jennifer go to 2015, I really enjoy! People are supposed to use some smartphone in 2015.But no one use it.People use some flying car?? No people use Uber in 2015.LOL.Cubbs win theGreat Scott! I love the part 2.Especially,when Marty, Doc and Jennifer go to 2015, I really enjoy! People are supposed to use some smartphone in 2015.But no one use it.People use some flying car?? No people use Uber in 2015.LOL.Cubbs win the 2015 Worl Series? No they will win in 2016.Anyway, great movie!",
-            "review_date": "2020-06-17",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The sequel to Back to the Future is still an enjoyable movie, but it's weighed down by an overstuffed and unoriginal story. Too often, it felt like a parody of the first film.",
-            "review_date": "2020-07-31",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "2 part was originally supposed to surpass the famous original. But unfortunately, in almost everything it is inferior to the original. The idea is no longer new, the characters are still the same and they do the same actions. As a result, all2 part was originally supposed to surpass the famous original. But unfortunately, in almost everything it is inferior to the original. The idea is no longer new, the characters are still the same and they do the same actions. As a result, all this looks with a sense of old living. And only the final 1/3 of the film at least somehow entertains and fascinates. Well, of course, the ending in fact does not have 2 part, which is also not pleasing.",
-            "review_date": "2020-11-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "For a reason this is my all-time favorite movie so far; I will get to that later. However though, I can understand the medium critics. This movie is by far not as heart-warming and binding as the first one and I'd even say the story is aFor a reason this is my all-time favorite movie so far; I will get to that later. However though, I can understand the medium critics. This movie is by far not as heart-warming and binding as the first one and I'd even say the story is a little lesser interesting. Objectively, this movie is outstanding with it's effects and overall charme and it has legitimately become one of a movie classic. With the characteristic acting of Michael J. Fox and the character trades within the relations of each of the protagonists to each other, at first this movie is a good drama and family story. But there comes the trouble: Time-Travel dilemma, which is the reason I like this one best. It's a known thing that time travel IS theoretically possible and everyone has heard about the paradoxes going along with the imagination. The thing about this philosphy is, that as past is left behind us already makes it easier for one to see himself in the future, as future is always yet to change. And that's exactly the strength of that movie, giving fictional proof that minimal changes can cause an entire different outcome. As the first movie is a told story that would make you think but stay on distance, this one allows you to reflect yourself and think about the decisions you made and make and how they affected you and will affect you. Now where 2015 is gone and with it our hopes of flying cars, it's still nice to see how people 30 years before thought it would look then. And who knows, maybe some event in the past could have caused the future we see here?And that's the point. This movie re-creates the real world beyond our imagination, because unlike the past, we are a part of the future and we can change it directly.",
-            "review_date": "2018-03-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Not as good as the first, but another classic. This movie is needed to show what can go wrong when they time travel. It ended up being action packed and funny.",
-            "review_date": "2017-05-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The film starts from the point where the previous one ends, the doctor asks Martin and jheniffer to help him to prevent them from being arrested because of this simple premise, there are several facts that will fiddle with the future andThe film starts from the point where the previous one ends, the doctor asks Martin and jheniffer to help him to prevent them from being arrested because of this simple premise, there are several facts that will fiddle with the future and past, like a famous and corrupt version of Biff 1985. To fix these events they will have to go back and review the events of the first film for another perspective, the film knows how to play very well with the elements of a supposed future such as the haveboard, nike sneakers that tie themselves, The problem here is to use a simple premise to introduce what really matters in the 1985 frame that is governed by Biff, this version of the past is bleak and looks dirty, in that part the Movie loses a little comic tone and becomes much more serious, with marty trying to deal with the changes of the world and his familia.to fix this situation they return to the events of the first film in what is d Eve the best part of the movie, it is very interesting to see the events of the first film from another angle, but the movie has some problems anyway and did not surpass the first the performances are as good as the first movie and the CGI was right Advance, is a good plot with a story that amuses and charismatic characters.note 84",
-            "review_date": "2017-05-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Back to the future Part II makes up for what it loses in charm with great performances and a complex and interesting narrative unconventionally structured.",
-            "review_date": "2017-12-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "An honorable and high quality continuation.This is the second film of what was one of the most remarkable trilogies of the 1980s. In the first movie, Marty McFly and \"Doc\" Emmett Brown traveled until the 1950s, until Marty's parents' datingAn honorable and high quality continuation.This is the second film of what was one of the most remarkable trilogies of the 1980s. In the first movie, Marty McFly and \"Doc\" Emmett Brown traveled until the 1950s, until Marty's parents' dating years, using a time machine built from a DeLorean. Now, the pair will need to go to the future in 2015 to prevent Marty and Jenniffer's children from becoming delinquents and dragging the entire family to the bottom. But in the midst of it all, they still have to stop the perfidious Biff Tannen from making a fortune at the expense of inside information about future sporting results. To correct the future and save the present, therefore, it will be necessary to intervene in the past, and return to 1955.The film is clearly the continuation of its predecessor and has direct connection with it. The mix of sci fi and comedy continues to succeed but it does not prevent the feeling that this movie is, in essence, more of the same as we saw before. If we forget that brief foray into the future (which for me is already a distant past, as I write this text a few years after 2015), the film is nothing really new. At any rate, it's funny to see how, in the 1980s, someone imagined our time. Flying cars? If they only knew that we were more concerned with greening cars than flying them ... But of course, nothing should be taken too seriously here. Speaking of ecology, the film suggests in one scene that DeLorean replaced the use of plutonium with organic debris and rubbish, perhaps using an original type of composter. Curious to check this out.There is little to say about the direction of Robert Zemeckis, or even about the cast, that has not been said or observed in the previous film. Michael J. Fox and Christopher Lloyd continue to dominate the film, which will be a constant throughout the trilogy. In this movie, however, the stakes of Thomas F. Wilson, an excellent villain, and Elisabeth Shue, who gain, despite their preponderance, still fall relatively sidelined for much of the movie, literally falling asleep.Special effects, visuals and sound are inseparable and important part of any sci-fi movie and here they work quite well. I thought the future was quite interesting, with ultra-modern cars and some crazy ideas, but as I said, it's not something we should take too seriously. It also struck me as interesting to see the same actor playing two versions of himself, although it was clear how this was achieved by splitting the screen.It's understandable why the movie, like the whole trilogy, became so popular. Despite being weaker than the first film, it retained its features well and honored its predecessor, leaving clear signs of a continuation. The trilogy as a whole has aged very well and still has class, charm and style, which cannot be said of all films made in the 1980s.",
-            "review_date": "2019-11-17",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Not nearly as good as the original, but Back to the Future Part II is still an enjoyable experience.",
-            "review_date": "2018-05-13",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "There's a lot crammed into this one, so you have to keep your head with it. But the humour remains and the set-up remains impeccable. Zemeckis is the king of details.",
-            "review_date": "2019-07-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Such a great sequel! The first one was an awesome movie on its own, but part 2 is so closely tied to part 1 it really depends on it. That's not a bad thing and they did a great job with it, but it's still not the perfection that part 1 is.",
-            "review_date": "2020-07-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A pretty good sequel to the trilogy, it doesn't beat the first one but it's still a really fun adventure from start to finish with the original characters and a few new ones along the way. Overall, it's a great sequel to the first one whichA pretty good sequel to the trilogy, it doesn't beat the first one but it's still a really fun adventure from start to finish with the original characters and a few new ones along the way. Overall, it's a great sequel to the first one which is a masterpiece and this one is also worth the watch.",
-            "review_date": "2020-05-01",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Although there are multiple plotholes in the film, they are foreshadowed by the plethora of awesome scenes. The alternate reality scenes, and the ones where Marty goes undercover in 1955 a second time are incredible. This is not a perfectAlthough there are multiple plotholes in the film, they are foreshadowed by the plethora of awesome scenes. The alternate reality scenes, and the ones where Marty goes undercover in 1955 a second time are incredible. This is not a perfect film by any means, and certainly not better than the original, but it's a great successor and I fully recommend watching it.",
-            "review_date": "2021-11-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "My favorite out of the series. I like this one better, because your rewatching the 1st one as the 2nd one is helping the 1st one at the same time. So you  get to enjoy the 1st one again with new twists added from the 2nd one. But you can'tMy favorite out of the series. I like this one better, because your rewatching the 1st one as the 2nd one is helping the 1st one at the same time. So you  get to enjoy the 1st one again with new twists added from the 2nd one. But you can't see yourself watching the 1st one while watching the 2nd one, because the 1st one is not suppose to see the 2nd one watching it, and vice versa. Otherwise something bad will happen if the 1st and 2nd one see each other. Lol you get what I'm saying!",
-            "review_date": "2022-12-09",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The original was back in 1985... Back to the Future II was made in 1989 by the same director (Robert Zemeckis). For me Back to the Future II is the best sequel to the original as we get to see Michael J. Fox as McFly trying to steal back aThe original was back in 1985... Back to the Future II was made in 1989 by the same director (Robert Zemeckis). For me Back to the Future II is the best sequel to the original as we get to see Michael J. Fox as McFly trying to steal back a sports betting book or something called Almanac from Biff (Thomas F.Wilson). This book can make you rich as it has all the answers and correct answers to  bets to make you a fortune but sadly it's misused causing a horrible future existence so Christopher Lloyd  and Michael J. Fox go back in time to stop the Almanac book from being used by Biff to create a better future.... Back to the Future II is full of great scenes, great characters, weird characters and amazing parts to it and is without doubt my favourite sequel to the original.... Back to the Future III was pretty poor compared to this one and Back to the Future II in my opinion is just as good if not better or equal to the original but the third installment was quite bad. The idea of George McFly being dead in a horrible future with Biff being rich and wealthy and married to Lorraine (Lea Thompson) was a great idea and many of the scenes are done great especially the Delorean scenes and stuff and Michael J. Fox in a black leather jacket rocked.  What it did was take the first movie and go beyond what the original was.  Excellent film.",
-            "review_date": "2020-07-16",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The second part of the Back to the future is disaster. The same plot from the first part but in other cover. So saddly to watch that. Also, many moments are predictable and expected. It can be seen that the film was made to create a moneyThe second part of the Back to the future is disaster. The same plot from the first part but in other cover. So saddly to watch that. Also, many moments are predictable and expected. It can be seen that the film was made to create a money converter. Everything could have been finished in the middle of the film, but you have to stretch it out! A genius director. In his style. The beginning is masterpiece, the end is terrible and disgusting. I rate either 0 or 10. (0 - I didn't like the movie, 10 - I liked the movie. I don't give other ratings). So, I didn't like this movie!",
-            "review_date": "2021-05-28",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The first episode was great so I was curious to see if the sequel would maintain at least the same quality and I'm very pleasantly surprised that it did. It's hard to say which part was better, because this one was perhaps even more excitingThe first episode was great so I was curious to see if the sequel would maintain at least the same quality and I'm very pleasantly surprised that it did. It's hard to say which part was better, because this one was perhaps even more exciting for me, but in the end I decided for the first one, which at times let me breathe and then sped up again and here, on the other hand, it didn't slow down and there was always something going on, which I believe will suit a lot of people, because there is always something going on. The constant adrenaline rush which was really cool, but I think the first one had a better ending, because here we are clearly told that we are going to have a threesome, while the first one ended and although the second one was good, I think it could have ended quite well. Here we are immediately excited for the threequel and so I didn't quite get a sense of an ending or any sort of climax, which was there but not like the previous film. Bottom line. Very hard to determine which episode was more successful. Both films were very good, but I choose the first one because of the already mentioned better ending. But otherwise I'm glad that the rule of only the first good part hasn't been proven here and that the sequel doesn't really fall short in my opinion.",
-            "review_date": "2023-02-28",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "While not as good as the original, this sequel still maintains the feel and charm of it predessor and is a worthy follow up.",
-            "review_date": "2021-03-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This time he actually goes to the future, at the very least. Much better than the first.",
-            "review_date": "2021-04-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of the best sequels ever made. Still funny and a great movie! A perfect trilogy.",
-            "review_date": "2022-01-28",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A good enjoyable sequel that can be enjoyed by anyone but fails to reach the quailty of its predecessor",
-            "review_date": "2022-08-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Not nearly as good as the original, but still a good movie. The DeLorean still is spinning its wheels, Michael J. Fox returns with a spot-on performance, and the futuristic view jumped the shark a little bit, but is still enjoyable to see.Not nearly as good as the original, but still a good movie. The DeLorean still is spinning its wheels, Michael J. Fox returns with a spot-on performance, and the futuristic view jumped the shark a little bit, but is still enjoyable to see. The humour in this movie is also great, like altering the future by stealing an almanac. However, the acting can be cheesy in some points of the film, like the potrayal of Griff Tannen.",
-            "review_date": "2022-10-09",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 72
+  "title": "Back to the Future Part II",
+  "rating": 8.3,
+  "release_date": "1989-11-22",
+  "summary": "After visiting 2015, Marty McFly must return to 1955 to prevent disastrous changes to his life in 1985.",
+  "critic_reviews": [
+    "All in all, Future II is another fantastic voyage in a thoroughly entertaining contraption.",
+    "Back to the Future deserved a chance to come back, especially under the cheerful, enterprising, mathematically minded stewardship of Mr. Zemeckis and Mr. Gale. Their new film isn't an ordinary sequel. It's as if the earlier film had been squared.",
+    "I should have brought a big yellow legal pad to the screening, so I could take detailed notes just to keep the time-lines straight. And yet the movie is fun, mostly because it's so screwy.",
+    "Directed and played with terrific verve, this moves so fast from one special effects set-piece to the next that there's no time at all to reflect on the basic ridiculousness of its Chinese box of a plot.",
+    "Future II bombards you with more brand-name advertising than three hours of prime-time TV could muster, although repeat filmmakers Bob Gale and Robert Zemeckis put a humorous twist on everything.",
+    "The problem with all the time-travel high jinks, involving multiple versions of the major characters (a gimmick that Robert Heinlein handled much better in stories like “By His Bootstraps” and “All You Zombies—”), is that in order to make the plot even semiintelligible, writer Bob Gale and director-cowriter Robert Zemeckis have to turn all these characters into strident geeks and make the frenetic action strictly formulaic.",
+    "The energy and heart which Robert Zemeckis and story-writing partner Bob Gale (who takes solo screenplay credit this time) poured into the ingenious story of part one is diverted into narrative mechanics and camera wizardry in Future II."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "Just as good as the first one,  with a great and intelligent story, great acting, perfect music, and cool visual in the time. One of my favorite movies of all time.",
+      "review_date": "2013-05-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Doesn't hold a candle to the first one, but Back to the Future Part II is better than most sequels. Marty McFly is back, and the premise is still interesting and fresh. I still enjoyed it.",
+      "review_date": "2013-09-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Back to the Future Part II adds more plot lines and more time travel destinations thus adding opportunities for more peril and more great adventure, and it absolutely delivers on those opportunities.",
+      "review_date": "2016-05-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The first one is just slightly better but this is still a great sequel with just as many awesome scenes! It follows on immediately after the first films events which is great. It gets a little more confusing as we jump back and forth throughThe first one is just slightly better but this is still a great sequel with just as many awesome scenes! It follows on immediately after the first films events which is great. It gets a little more confusing as we jump back and forth through time but those that can keep up will be OK. It's such a clever film and idea that made it work so well, and having actors like Fox & Lloyd only helped. I'm a little hesitant about the final chapter as I don't remember liking it but willing to give it a shot!",
+      "review_date": "2013-05-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This film is another great one, using visual and story creativity that made the first film such a hit.  Although the story is not as strong, the film still manages to entertain in almost every way with a great cast once again (only missingThis film is another great one, using visual and story creativity that made the first film such a hit.  Although the story is not as strong, the film still manages to entertain in almost every way with a great cast once again (only missing Marty's father's comedy genius).  The film is still a great sequel as most sequels disappoint, this one does not.",
+      "review_date": "2013-07-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Doc: \"Roads? Where we're going, we don't need roads\".\r In the year 2015 Marty tries to stop his son from making mistakes when he learns of the path his life took all of which sparks a rupture in the time space continuum eventually leadingDoc: \"Roads? Where we're going, we don't need roads\".\r In the year 2015 Marty tries to stop his son from making mistakes when he learns of the path his life took all of which sparks a rupture in the time space continuum eventually leading Marty back to 1955 to stop further consequences to 1985.\r Back to the future Part II isn't as great as the first movie, but there's a lot to like in this film. The visual effect's are good, the chemistry between Marty and Doc are great like the first movie and the movie itself is solidly entertaining.",
+      "review_date": "2015-10-21",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Back to the future 2 is my favorite of the trilogy providing us with a fantastic and fun look at the future along with some top notch characters and a tone that is handled very well",
+      "review_date": "2015-10-21",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "While I love the first one more, Part 2 is just as good. Its made to the same level of quality as the first; with great writing, great performances, great music, great costume and production design, and lots of laughs throughout. I love howWhile I love the first one more, Part 2 is just as good. Its made to the same level of quality as the first; with great writing, great performances, great music, great costume and production design, and lots of laughs throughout. I love how it honours the first movie but at the same time adds a twist/extra dynamic to make it more interesting (no spoilers of course). This is a must watch, after the first one of course.",
+      "review_date": "2016-07-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is my favourite chapter in the trilogy. The original is still like listening to a rock song in 1955, but the second one is like having a time machine to yourself while you watch it. It's smart, takes many different turns, and it didn'tThis is my favourite chapter in the trilogy. The original is still like listening to a rock song in 1955, but the second one is like having a time machine to yourself while you watch it. It's smart, takes many different turns, and it didn't confuse me. I don't see why people say it's confusing.",
+      "review_date": "2013-10-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "i love back  to the future 2 it has biff all over it .   at least it is better the part 3 .  all i can say is back to the future is super great go **** good",
+      "review_date": "2014-03-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Great continuation to a classic sci-fi film.  Sequels hardly ever match up with the original first film (except T2, it is better!), but BTTF2 nearly pulls it off.  Is it as good as #1? No, but it is still a 10 for me.",
+      "review_date": "2019-03-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "There a lack of heart and charm that the first one had in spades. A lot of stupid plot points (such as Marty hating being called chicken to the point where it ruins his life) and I felt that they relied too much on just rehashing everythingThere a lack of heart and charm that the first one had in spades. A lot of stupid plot points (such as Marty hating being called chicken to the point where it ruins his life) and I felt that they relied too much on just rehashing everything from the first film rather than being it's own original adventure.",
+      "review_date": "2019-09-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is one of those movies that make a sequel and the sequel is actually good. It has even better acting with a good story that shows the past, present, and future. It had better graphics, and follows the events after the first film.This is one of those movies that make a sequel and the sequel is actually good. It has even better acting with a good story that shows the past, present, and future. It had better graphics, and follows the events after the first film. Although it's not the best one, it still a good film.",
+      "review_date": "2013-11-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This review contains spoilers, click expand to view.\n        \nI liked it as much as the first one, MJFox and Christopher Lloyd return with excellent acting, and while it is 2015 and we don't have flying cars, it is still entertaining to watch none the less",
+      "review_date": "2015-03-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I loved the first Back to the Future, it was fun, original and simply irresistible. Back to the Future 2 is a very good sequel, while considered the darkest of the three it is still quite bright in tone. It isn't as good as the first filmI loved the first Back to the Future, it was fun, original and simply irresistible. Back to the Future 2 is a very good sequel, while considered the darkest of the three it is still quite bright in tone. It isn't as good as the first film though, moving a little too fast and a little too much crammed in such as the past, future and alternative universes idea. Still it is very enjoyable, with the acting from Michael J Fox and Christopher Lloyd as zany and as likable as ever before and the special effects even better than in the first film and that was a hard feat. The script is clever and fun, the direction is excellent and the sets are highly imaginative. Plus the score is great. Overall, a slightly inferior but very enjoyable sequel. 8/10 Bethany Cox",
+      "review_date": "2022-03-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Unlike the first part of the movie, this part manages to fall and fail in charming moments filled with very cheesy and predictable events during the year 2015 in this movie.",
+      "review_date": "2016-02-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A disastrous rehash of an already disastrous movie. Back to the Future Part 2 only makes a more convoluted plot, but is maybe not as sexist.",
+      "review_date": "2021-08-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Has a very muddled plot and doesn't know what it wants to be. But still enjoyable anyway.",
+      "review_date": "2021-10-17",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "You’ll come out of this film with either two reactions. One it was a fun time travel movie that had me on the edge of my seat. Another reaction you’ll have is this movie had no heart and just had the characters running around the whole timeYou’ll come out of this film with either two reactions. One it was a fun time travel movie that had me on the edge of my seat. Another reaction you’ll have is this movie had no heart and just had the characters running around the whole time and never let you breathe and either way you’ll be right. For me it s a combo of the two. While this was a fun movie it was nowhere near as good as the first one with characters constantly running around and the film never giving the audience or the characters a chance to breathe. There was not much story or character to this film just one giant marathon that you are exhausted at, which makes it nowhere near is as good as the first one. Thankfully, some of this running around is fun and makes it a decent watch but at the same time it destroys a perfectly good movie. This sequel didn’t need to exist but at the same time it could have been worse. If you love the first film I’d recommend skipping this film so you’ll just have that one really good one in your head. If you’re curious check it out as it is not awful its just the first one was so much better where this one is just generic. To reiterate as a film on its own its alright but as a sequel to Back to the Future one of the best movies I have ever seen it is a massive let down lacking substance and is a whole lot of nothing.",
+      "review_date": "2014-03-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "For me, Back to the Future Pt 2 is probably the least of all three movies.  That's not saying much, since all three are classics.  There's never a bad time to watch any of these movies, and I usually have to watch Pt. 2 and Pt. 3 after I'veFor me, Back to the Future Pt 2 is probably the least of all three movies.  That's not saying much, since all three are classics.  There's never a bad time to watch any of these movies, and I usually have to watch Pt. 2 and Pt. 3 after I've watched the first movie because it's a trilogy and they all tell a full story together.",
+      "review_date": "2015-10-21",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It may not be as good as its predecessor, in a lot of ways it feels like a retread, but it is still one heck of an enjoyable movie. Marty McFly and the Doc are back and this time they travel to the past and the future with a plot that takesIt may not be as good as its predecessor, in a lot of ways it feels like a retread, but it is still one heck of an enjoyable movie. Marty McFly and the Doc are back and this time they travel to the past and the future with a plot that takes place right where the 1st \"Back to the Future\" left off. The humor is still here, it's still got some incredibly tense moments, and Marty is just as likable as ever. The only problem I have with the film is that, aside from lacking the magic of the original, it feels to much like a retread of the first movie.\r Scenes from the first film are constantly being repeated throughout, making this feel less like a sequel and more like a way to remind us of what happened in the first movie so that we may better prepared for part 3, which this movie even already has scenes from at the end! This is especially odd because part 1 had only come out 4 years ago, so the memories of that movie couldn't have been that well forgotten. Still, what original plot the film does have manages to keep it afloat and worth watching.\r It might not have the magic of the first film, and its existence may just be a way to set us up for part 3, but it's still got enough moments of originality here to make it worth a watch for fans of the first. It might not be a perfect sequel, but it's still a darn good one.",
+      "review_date": "2013-11-17",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Continuing from where the original movie finished, Dr. Emmett Brown persuades Marty McFly and his girlfriend to travel to the future with him and help their future children. When Biff Tannen witnesses their departure and uses knowledge of theContinuing from where the original movie finished, Dr. Emmett Brown persuades Marty McFly and his girlfriend to travel to the future with him and help their future children. When Biff Tannen witnesses their departure and uses knowledge of the future to help himself, Marty must work to set everything back to the way it was.Upon release Back to the Future Part 2 received a mixed reception from critics, but while it’s not quite as good as the original, it is now widely considered one of the best movie sequels ever made once again capturing the charm and humour that makes this franchise so much fun to watch.",
+      "review_date": "2020-12-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Actually found this more enjoyable than the first as the time-travel premise is used more intelligently.",
+      "review_date": "2019-04-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Best sequel. The entertainment value was so high it top the first one. Mind blowing writing this has, kudos to this.",
+      "review_date": "2018-08-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "BttF 2 is certainly made of the same stock as 1.\r It's still got great acting, music, and pretty much all the strengths of the first one, which was strong all-round.\r\n\r\nThis one does suffer from two of its parts though.\r\n\r\nOne is that theBttF 2 is certainly made of the same stock as 1.\r It's still got great acting, music, and pretty much all the strengths of the first one, which was strong all-round.\r This one does suffer from two of its parts though.\r One is that the true strength of BttF 1 was how everything was seamless and perfectly fitting, like a machine that never, ever made any mistakes. Every plot thread, scene, character, did all it had to do, none of them may have shined extremely bright but they all did a perfect job.\r In this one, the plot threads don't really work as well. One of the most important elements of BttF2 is that you can't have 2 same people meet or else that'll create a time paradox. Here, when Biff from 1955 meets Biff from 2015...nothing happens. I know Young Biff doesn't recognise Old Biff, but still, the plot point falls apart, and it's one of the bigger plot points of the movie.\rOther elements like how Doc Brown refuses to change the future, but gets Marty to change the future to save his kids, is a bit ridiculous. If he's ready to change the future that much, why not help Marty stop being an idiot and not get in the car accident he's supposed to get in? It's not much of a stretch and it'd certainly help much.\rMost scenes do their job as well as in the first movie, but don't feel as tight. Why?...The first one had a pretty much flawless quality of always introducing plot devices, foreshadowing and emotional relationships statuses without any asperity to it. The leaflet that informs you that the clock tower will be struck at exactly 10:04? Perfectly introduced. The meeting between Marty's mum and him instead of his 1955 dad? Perfectly introduced.\r Here, it's not so good. Things that happen don't make as much sense and/or are a bit too easy or not as well executed. It's not far worse, just slightly, but while the first one was constantly amazing with that, this one isn't.\r The second thing that doesn't work too well in this movie is how drastically it travels through time. You go to the future, an alternate present, the past, all in one movie. It's fine in terms of logic and sense(mostly anyway) but emotionally, it's not. You don't have the time to build emotion for any of the characters in this movie, except for the ones you already know from the last movie.\rGranted, that's pretty much 90% of them...But that's the issue. They bring almost nothing new to the table. There's certainly a lot of tension and emotion for Marty and Doc's predicaments, but not for their characters, or any new characters. The alternate 1985 Biff and Lorraine? You don't see them long. Old Biff? Don't see him long. Young Biff, you know him from the last movie.\rMarty and Doc end up on the upper end of this since they have a lot of screen time and we already know them and learn more about them, but they're really the exception.\r Apart from these inferiorities, BttF2 is definitely still a great watch. It's still fun, full of tension and action and comedy, and although quite more sad and tragic than the last one, it's just as good as a lighthearted story.",
+      "review_date": "2014-04-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A sequel that challenges the already excellent prequel. I am still undecided which one is the better movie. The first one is more unique but the sequel is also amazing. Since both are truly great movies it does not really mater at the end ofA sequel that challenges the already excellent prequel. I am still undecided which one is the better movie. The first one is more unique but the sequel is also amazing. Since both are truly great movies it does not really mater at the end of the day. While it is also a science fiction comedy it is also different and has a bit of a darker tone than the prequel. The movie starts at the end of the prequel (At the sequel teaser) were Doc Brown appeared again to bring Marty and his girlfriend Jennifer into the future in the year 2015 to prevent serious family troubles there (This sounds fake now as we are already past 2015;-). However because of some carelessness this is just a small inconvenience to the events that happen when they return to the past. I will stop here with the set up to avoid spoilers. The story is magnificent and the twists are remarkable. They could play it safe but tried something new. This works well, is immersive and enjoyable from start to finish. Bonus: Many years later it was interesting to make the comparison between the movie imagination and real year 2015 (The imagination won;-). I will praise the creativity here for the story and worldbuilding. Much of the pop culture knowledge of fictional time travel is from this movie. Again they mastered the balance between seriousness and humor in a way that none harms the other. Also again the great cast delivers a performance that enhances the movie. Lets start with Marty McFly played by Michael J. Fox who again fully delivers his role. Same for Christopher Lloyd as Doc Brown who is our beloved eccentric or slightly mad scientist;-). These 2 have such a great chemistry in the franchise. Thomas F. Wilson returns as Biff Tannen and even surpasses his performance from the first movie. It is no wonder why he is one of the most memorable antagonist of his (movie) age. The rest of the cast also adds to the great performance and I will praise all of them. Where this movie is clearly a bit weaker than the prequel is the soundtrack and it is still a good soundtrack. Overall this was a great sequel. It has the strength of the original and fresh ideas. The story and humor in combination with the actors work well. It is an easy recommendation and I will praise director Robert Zemeckis for this great movie.",
+      "review_date": "2021-04-10",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "After visiting 2015, Marty McFly must return to 1955 to prevent disastrous changes to his life in 1985 or else he'll be stuck with the alternate reality of 1985.",
+      "review_date": "2014-10-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "To put it short, I liked 'Back to the Future Part II', but unfortunately, not as much as I enjoyed the first one. This is a sequel that has a lot going for it, so much so, that it becomes a little over-saturated with so many plot-lines and soTo put it short, I liked 'Back to the Future Part II', but unfortunately, not as much as I enjoyed the first one. This is a sequel that has a lot going for it, so much so, that it becomes a little over-saturated with so many plot-lines and so many different situations that our characters get into.\r Marty McFly (Michael J. Fox) is back, and Dr. Emmett Brown (Christopher Lloyd) takes Marty and his girlfriend Jennifer (Elisabeth Shue) to the future of 2015 where he tells them about the situation involving both Marty and Jennifer's kids. While they're both in 2015, Marty comes across a guide book that is able to tell him about all the sports events and results between 1950 to 2000, with Marty being equipped with easy access to a time machine, he is able to go back and predict these scores and is able to make money from it all.\r But, the doctor isn't so keen about this idea, as he claims that he did not invent the time machine to predict scores and gamble for financial gain. But, it turns out that Biff (Thomas F. Wilson) has managed to find the book and use it for his younger self and alternate the present that is 1985 in the worst way possible.\r The movie is certainly fast-paced and visually eye-popping. The fictional take on the future of 2015 is filled with pure imagination and the film does its job with special effects that still hold up magnificently well, the film is still as funny as ever, even though some parts of the film may seem a little far-fetched. There are times where he movie does feel a little unnecessary as one would ask \"Why would the Doc tell Marty about his future when he could control his own future and prevent disastrous results?\".\r There is still a lot to like about this movie, even if it does feel a little repetitive and overly melodramatic, if not overstuffed with too many character cliches. The young hero is the young hero, the crazy scientist is the crazy scientist and the big bad guy is the big bad guy. Some of the lines of dialogue may be a little ironic for comedy purposes, but at times can feel a little... eye-rolling, such as \"You're not going to believe this, we got to go back to 1955!\" followed by \"I don't believe it!\". I get that it's used for irony, but it also felt a little cheap in terms of what kind of comedy it's supposed to be.\r A good sequel, not as great as the first.",
+      "review_date": "2016-08-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Back to the Future Part II is just as good as the first one, and the Back to the Future movies make one of my favorite movie series of all time. (the third one is not as good as the others though)\r It's 2015 now and it's very funny to seeBack to the Future Part II is just as good as the first one, and the Back to the Future movies make one of my favorite movie series of all time. (the third one is not as good as the others though)\r It's 2015 now and it's very funny to see how the writers of Back to the Future Part II imagined 2015. Of course it's a far way from actual life in our time, but which sci fi movie ever saw the future correctly?\r They did a nice job by starting this second movie where the first left of, which makes for a nice continuation of the story.\r Marty and doc are still wonderfully portrayed by Michael J. Fox and Christopher Lloyd. Jennifer has become less attractive which is a shame, I liked the first actress more.",
+      "review_date": "2015-10-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Doesn't hold a candle to the first one, but Back to the Future Part II is better than most sequels. Marty McFly is back, and the premise is still interesting and fresh. I still enjoyed it.",
+      "review_date": "2016-04-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Movie was amazing! They go to the future 2015 although last year didn't seem like it was the future. But yeah, the movie was pretty good. I'm glad that there are more people that like this movie.",
+      "review_date": "2016-02-09",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Previously on Back to the Future. I just want to point out something about it. I don't understand anything about time travel when I watched the first film. I just found time traveling confusing. But watching it again I understand what it is,Previously on Back to the Future. I just want to point out something about it. I don't understand anything about time travel when I watched the first film. I just found time traveling confusing. But watching it again I understand what it is, when you travel back in time in the old years and of course, recent years. Robert Zemeckis is back to direct the second movie, Back to the Future Part II along with Michael J. Fox and Christopher Lloyd returning to their roles. Marty McFly and Doc Brown travel from 1985 to 2015 to prevent Marty's son from sabotaging the McFly family's future; when their arch-nemesis Biff Tannen, played by Thomas F. Wilson again, steals Doc's DeLorean time machine and uses it to alter history for his benefit, the duo must return to 1955 to restore the timeline. OK, so after the first film got it's massive praises back in 1985 the movie itself takes place in the year 1985 and now in 1955 where Marty had accidentally traveled in the year 1955. This one does the same thing and this time something is seriously wrong. Okay, now let me get to something that what changed about the movie. You know Claudia Wells, right? Where she played Jennifer Parker from the first film, she was replaced by Elisabeth Shue because she retired from acting due to her mother had been diagnosed with cancer, so now they reshot that scene in the opening where the first one ended. And of course, Crispin Glover didn't get to return which he want to due to he got paid less money. He sued the producers for using his likeness without his permission. Now there's something I didn't know about one thing that I completely missed out is the fact that I see Michael J. Fox in drag. It always baffles me that I didn't know who dresses up like a woman. I do know however that Tim Curry is always like that from The Rocky Horror Picture Show. I gotta say I really love the sequel much like the first one. I know it's not as good as the first but once you've seen it you grown to appreciate it. It had a funny story that correct the mistakes what Biff has done and it reenacts the same scenes from the first movie without bumping into the other selves. I also liked the funny part where Marty sneaks into Mr Strickland's office to get the almanac but finds the cover of it with the \"Ooh La La\" catalog. Now that I'm going to do the third and final film of the Back to the Future trilogy, Back to the Future Part III. Stay Tuned.",
+      "review_date": "2020-05-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This sequel doesn't work with the original, and it's not funny enough to put the audience in shock. Using not enjoyable enough story-telling. Steven Spielberg makes epic films, but his sequels (don't he does not make himself usually) looksThis sequel doesn't work with the original, and it's not funny enough to put the audience in shock. Using not enjoyable enough story-telling. Steven Spielberg makes epic films, but his sequels (don't he does not make himself usually) looks and are like a piece of rubbish, as many sequels. Back to the Future II is a film theta not anyone will love.",
+      "review_date": "2016-03-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Marty theres something wrong your kid is going to jail and we must pervent that from happening. So what we do we do i take you and jenfier back to the future. Back to the future Part 2 is way better than the orignal because it has greatMarty theres something wrong your kid is going to jail and we must pervent that from happening. So what we do we do i take you and jenfier back to the future. Back to the future Part 2 is way better than the orignal because it has great multipule subplots going on and many problems. Its like when there done with one they get to another. In this sequel to a so far very wonderful trilogy Marty and his girlfriend Jenifer must go back to the future to prevent one of there kids from going to jail. This movie can get a little dark cause of what old biff does meanwhile he go s in to the time machine car so he can make his own world that he kind of be king so Marty and DR. emmit brown must leave jenifer to save the future. As they do that Dr. emmit brown leaves without Marty so Marty must confront the other Dr.",
+      "review_date": "2016-03-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Great Scott! I love the part 2.Especially,when Marty, Doc and Jennifer go to 2015, I really enjoy! People are supposed to use some smartphone in 2015.But no one use it.People use some flying car?? No people use Uber in 2015.LOL.Cubbs win theGreat Scott! I love the part 2.Especially,when Marty, Doc and Jennifer go to 2015, I really enjoy! People are supposed to use some smartphone in 2015.But no one use it.People use some flying car?? No people use Uber in 2015.LOL.Cubbs win the 2015 Worl Series? No they will win in 2016.Anyway, great movie!",
+      "review_date": "2020-06-17",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The sequel to Back to the Future is still an enjoyable movie, but it's weighed down by an overstuffed and unoriginal story. Too often, it felt like a parody of the first film.",
+      "review_date": "2020-07-31",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "2 part was originally supposed to surpass the famous original. But unfortunately, in almost everything it is inferior to the original. The idea is no longer new, the characters are still the same and they do the same actions. As a result, all2 part was originally supposed to surpass the famous original. But unfortunately, in almost everything it is inferior to the original. The idea is no longer new, the characters are still the same and they do the same actions. As a result, all this looks with a sense of old living. And only the final 1/3 of the film at least somehow entertains and fascinates. Well, of course, the ending in fact does not have 2 part, which is also not pleasing.",
+      "review_date": "2020-11-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "For a reason this is my all-time favorite movie so far; I will get to that later. However though, I can understand the medium critics. This movie is by far not as heart-warming and binding as the first one and I'd even say the story is aFor a reason this is my all-time favorite movie so far; I will get to that later. However though, I can understand the medium critics. This movie is by far not as heart-warming and binding as the first one and I'd even say the story is a little lesser interesting. Objectively, this movie is outstanding with it's effects and overall charme and it has legitimately become one of a movie classic. With the characteristic acting of Michael J. Fox and the character trades within the relations of each of the protagonists to each other, at first this movie is a good drama and family story. But there comes the trouble: Time-Travel dilemma, which is the reason I like this one best. It's a known thing that time travel IS theoretically possible and everyone has heard about the paradoxes going along with the imagination. The thing about this philosphy is, that as past is left behind us already makes it easier for one to see himself in the future, as future is always yet to change. And that's exactly the strength of that movie, giving fictional proof that minimal changes can cause an entire different outcome. As the first movie is a told story that would make you think but stay on distance, this one allows you to reflect yourself and think about the decisions you made and make and how they affected you and will affect you. Now where 2015 is gone and with it our hopes of flying cars, it's still nice to see how people 30 years before thought it would look then. And who knows, maybe some event in the past could have caused the future we see here?And that's the point. This movie re-creates the real world beyond our imagination, because unlike the past, we are a part of the future and we can change it directly.",
+      "review_date": "2018-03-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Not as good as the first, but another classic. This movie is needed to show what can go wrong when they time travel. It ended up being action packed and funny.",
+      "review_date": "2017-05-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The film starts from the point where the previous one ends, the doctor asks Martin and jheniffer to help him to prevent them from being arrested because of this simple premise, there are several facts that will fiddle with the future andThe film starts from the point where the previous one ends, the doctor asks Martin and jheniffer to help him to prevent them from being arrested because of this simple premise, there are several facts that will fiddle with the future and past, like a famous and corrupt version of Biff 1985. To fix these events they will have to go back and review the events of the first film for another perspective, the film knows how to play very well with the elements of a supposed future such as the haveboard, nike sneakers that tie themselves, The problem here is to use a simple premise to introduce what really matters in the 1985 frame that is governed by Biff, this version of the past is bleak and looks dirty, in that part the Movie loses a little comic tone and becomes much more serious, with marty trying to deal with the changes of the world and his familia.to fix this situation they return to the events of the first film in what is d Eve the best part of the movie, it is very interesting to see the events of the first film from another angle, but the movie has some problems anyway and did not surpass the first the performances are as good as the first movie and the CGI was right Advance, is a good plot with a story that amuses and charismatic characters.note 84",
+      "review_date": "2017-05-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Back to the future Part II makes up for what it loses in charm with great performances and a complex and interesting narrative unconventionally structured.",
+      "review_date": "2017-12-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "An honorable and high quality continuation.This is the second film of what was one of the most remarkable trilogies of the 1980s. In the first movie, Marty McFly and \"Doc\" Emmett Brown traveled until the 1950s, until Marty's parents' datingAn honorable and high quality continuation.This is the second film of what was one of the most remarkable trilogies of the 1980s. In the first movie, Marty McFly and \"Doc\" Emmett Brown traveled until the 1950s, until Marty's parents' dating years, using a time machine built from a DeLorean. Now, the pair will need to go to the future in 2015 to prevent Marty and Jenniffer's children from becoming delinquents and dragging the entire family to the bottom. But in the midst of it all, they still have to stop the perfidious Biff Tannen from making a fortune at the expense of inside information about future sporting results. To correct the future and save the present, therefore, it will be necessary to intervene in the past, and return to 1955.The film is clearly the continuation of its predecessor and has direct connection with it. The mix of sci fi and comedy continues to succeed but it does not prevent the feeling that this movie is, in essence, more of the same as we saw before. If we forget that brief foray into the future (which for me is already a distant past, as I write this text a few years after 2015), the film is nothing really new. At any rate, it's funny to see how, in the 1980s, someone imagined our time. Flying cars? If they only knew that we were more concerned with greening cars than flying them ... But of course, nothing should be taken too seriously here. Speaking of ecology, the film suggests in one scene that DeLorean replaced the use of plutonium with organic debris and rubbish, perhaps using an original type of composter. Curious to check this out.There is little to say about the direction of Robert Zemeckis, or even about the cast, that has not been said or observed in the previous film. Michael J. Fox and Christopher Lloyd continue to dominate the film, which will be a constant throughout the trilogy. In this movie, however, the stakes of Thomas F. Wilson, an excellent villain, and Elisabeth Shue, who gain, despite their preponderance, still fall relatively sidelined for much of the movie, literally falling asleep.Special effects, visuals and sound are inseparable and important part of any sci-fi movie and here they work quite well. I thought the future was quite interesting, with ultra-modern cars and some crazy ideas, but as I said, it's not something we should take too seriously. It also struck me as interesting to see the same actor playing two versions of himself, although it was clear how this was achieved by splitting the screen.It's understandable why the movie, like the whole trilogy, became so popular. Despite being weaker than the first film, it retained its features well and honored its predecessor, leaving clear signs of a continuation. The trilogy as a whole has aged very well and still has class, charm and style, which cannot be said of all films made in the 1980s.",
+      "review_date": "2019-11-17",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Not nearly as good as the original, but Back to the Future Part II is still an enjoyable experience.",
+      "review_date": "2018-05-13",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "There's a lot crammed into this one, so you have to keep your head with it. But the humour remains and the set-up remains impeccable. Zemeckis is the king of details.",
+      "review_date": "2019-07-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Such a great sequel! The first one was an awesome movie on its own, but part 2 is so closely tied to part 1 it really depends on it. That's not a bad thing and they did a great job with it, but it's still not the perfection that part 1 is.",
+      "review_date": "2020-07-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A pretty good sequel to the trilogy, it doesn't beat the first one but it's still a really fun adventure from start to finish with the original characters and a few new ones along the way. Overall, it's a great sequel to the first one whichA pretty good sequel to the trilogy, it doesn't beat the first one but it's still a really fun adventure from start to finish with the original characters and a few new ones along the way. Overall, it's a great sequel to the first one which is a masterpiece and this one is also worth the watch.",
+      "review_date": "2020-05-01",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Although there are multiple plotholes in the film, they are foreshadowed by the plethora of awesome scenes. The alternate reality scenes, and the ones where Marty goes undercover in 1955 a second time are incredible. This is not a perfectAlthough there are multiple plotholes in the film, they are foreshadowed by the plethora of awesome scenes. The alternate reality scenes, and the ones where Marty goes undercover in 1955 a second time are incredible. This is not a perfect film by any means, and certainly not better than the original, but it's a great successor and I fully recommend watching it.",
+      "review_date": "2021-11-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "My favorite out of the series. I like this one better, because your rewatching the 1st one as the 2nd one is helping the 1st one at the same time. So you  get to enjoy the 1st one again with new twists added from the 2nd one. But you can'tMy favorite out of the series. I like this one better, because your rewatching the 1st one as the 2nd one is helping the 1st one at the same time. So you  get to enjoy the 1st one again with new twists added from the 2nd one. But you can't see yourself watching the 1st one while watching the 2nd one, because the 1st one is not suppose to see the 2nd one watching it, and vice versa. Otherwise something bad will happen if the 1st and 2nd one see each other. Lol you get what I'm saying!",
+      "review_date": "2022-12-09",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The original was back in 1985... Back to the Future II was made in 1989 by the same director (Robert Zemeckis). For me Back to the Future II is the best sequel to the original as we get to see Michael J. Fox as McFly trying to steal back aThe original was back in 1985... Back to the Future II was made in 1989 by the same director (Robert Zemeckis). For me Back to the Future II is the best sequel to the original as we get to see Michael J. Fox as McFly trying to steal back a sports betting book or something called Almanac from Biff (Thomas F.Wilson). This book can make you rich as it has all the answers and correct answers to  bets to make you a fortune but sadly it's misused causing a horrible future existence so Christopher Lloyd  and Michael J. Fox go back in time to stop the Almanac book from being used by Biff to create a better future.... Back to the Future II is full of great scenes, great characters, weird characters and amazing parts to it and is without doubt my favourite sequel to the original.... Back to the Future III was pretty poor compared to this one and Back to the Future II in my opinion is just as good if not better or equal to the original but the third installment was quite bad. The idea of George McFly being dead in a horrible future with Biff being rich and wealthy and married to Lorraine (Lea Thompson) was a great idea and many of the scenes are done great especially the Delorean scenes and stuff and Michael J. Fox in a black leather jacket rocked.  What it did was take the first movie and go beyond what the original was.  Excellent film.",
+      "review_date": "2020-07-16",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The second part of the Back to the future is disaster. The same plot from the first part but in other cover. So saddly to watch that. Also, many moments are predictable and expected. It can be seen that the film was made to create a moneyThe second part of the Back to the future is disaster. The same plot from the first part but in other cover. So saddly to watch that. Also, many moments are predictable and expected. It can be seen that the film was made to create a money converter. Everything could have been finished in the middle of the film, but you have to stretch it out! A genius director. In his style. The beginning is masterpiece, the end is terrible and disgusting. I rate either 0 or 10. (0 - I didn't like the movie, 10 - I liked the movie. I don't give other ratings). So, I didn't like this movie!",
+      "review_date": "2021-05-28",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The first episode was great so I was curious to see if the sequel would maintain at least the same quality and I'm very pleasantly surprised that it did. It's hard to say which part was better, because this one was perhaps even more excitingThe first episode was great so I was curious to see if the sequel would maintain at least the same quality and I'm very pleasantly surprised that it did. It's hard to say which part was better, because this one was perhaps even more exciting for me, but in the end I decided for the first one, which at times let me breathe and then sped up again and here, on the other hand, it didn't slow down and there was always something going on, which I believe will suit a lot of people, because there is always something going on. The constant adrenaline rush which was really cool, but I think the first one had a better ending, because here we are clearly told that we are going to have a threesome, while the first one ended and although the second one was good, I think it could have ended quite well. Here we are immediately excited for the threequel and so I didn't quite get a sense of an ending or any sort of climax, which was there but not like the previous film. Bottom line. Very hard to determine which episode was more successful. Both films were very good, but I choose the first one because of the already mentioned better ending. But otherwise I'm glad that the rule of only the first good part hasn't been proven here and that the sequel doesn't really fall short in my opinion.",
+      "review_date": "2023-02-28",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "While not as good as the original, this sequel still maintains the feel and charm of it predessor and is a worthy follow up.",
+      "review_date": "2021-03-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This time he actually goes to the future, at the very least. Much better than the first.",
+      "review_date": "2021-04-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of the best sequels ever made. Still funny and a great movie! A perfect trilogy.",
+      "review_date": "2022-01-28",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A good enjoyable sequel that can be enjoyed by anyone but fails to reach the quailty of its predecessor",
+      "review_date": "2022-08-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Not nearly as good as the original, but still a good movie. The DeLorean still is spinning its wheels, Michael J. Fox returns with a spot-on performance, and the futuristic view jumped the shark a little bit, but is still enjoyable to see.Not nearly as good as the original, but still a good movie. The DeLorean still is spinning its wheels, Michael J. Fox returns with a spot-on performance, and the futuristic view jumped the shark a little bit, but is still enjoyable to see. The humour in this movie is also great, like altering the future by stealing an almanac. However, the acting can be cheesy in some points of the film, like the potrayal of Griff Tannen.",
+      "review_date": "2022-10-09",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 72,
+  "genres": [
+    "Adventure",
+    "Sci-Fi",
+    "Comedy"
+  ]
 }

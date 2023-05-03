@@ -1,26 +1,26 @@
 {
-    "title": "Fair Game",
-    "rating": 5.9,
-    "release_date": "1995-11-03",
-    "genre": [
-        "Action",
-        "Thriller"
-    ],
-    "summary": "A dedicated family attorney becomes the target of an assassination plot. Her only protector is a detective who can't resist her charms. (Warner Brothers)",
-    "critic_reviews": [
-        "Fair Game works as a thriller for anyone who lives entirely in the present.",
-        "A thriller primarily about the movement of Cindy Crawford's breasts beneath a succession of ever-smaller T-shirts.",
-        "Will you find yourself wishing you were looking at someone else? Not really.",
-        "Not bad enough to be good.... This vigorous, pinheaded action flick asks us to accept Cindy as a lawyer.",
-        "This is right up there with the dumbest pictures of the year.",
-        "Fair Game is howlingly bad - so awful, in fact, that it can actually be enjoyed on a certain level.",
-        "Fair Game, written and directed by men, allows model Cindy Crawford to make her screen debut as Miami lawyer Kate McQueen.",
-        "Very slick and extremely silly, not to mention aptly titled, Fair Game is just that - a noisy actioner so inanely scripted, acted, and directed that it practically begs you to make fun of it.",
-        "The only heat that rises from the movie is mechanical.",
-        "Fair Game is otherwise notable only for its jaw-dropping stupidity, the sort of action yarn that hopes nonstop mayhem will help cloud just how nonsensical it is.",
-        "The movie is fast, slick and dumb as a post.",
-        "Don't imagine there is any reason to see Fair Game."
-    ],
-    "reviews": [],
-    "num_reviews": 12
+  "title": "Fair Game",
+  "rating": 5.9,
+  "release_date": "1995-11-03",
+  "summary": "A dedicated family attorney becomes the target of an assassination plot. Her only protector is a detective who can't resist her charms. (Warner Brothers)",
+  "critic_reviews": [
+    "Fair Game works as a thriller for anyone who lives entirely in the present.",
+    "A thriller primarily about the movement of Cindy Crawford's breasts beneath a succession of ever-smaller T-shirts.",
+    "Will you find yourself wishing you were looking at someone else? Not really.",
+    "Not bad enough to be good.... This vigorous, pinheaded action flick asks us to accept Cindy as a lawyer.",
+    "This is right up there with the dumbest pictures of the year.",
+    "Fair Game is howlingly bad - so awful, in fact, that it can actually be enjoyed on a certain level.",
+    "Fair Game, written and directed by men, allows model Cindy Crawford to make her screen debut as Miami lawyer Kate McQueen.",
+    "Very slick and extremely silly, not to mention aptly titled, Fair Game is just that - a noisy actioner so inanely scripted, acted, and directed that it practically begs you to make fun of it.",
+    "The only heat that rises from the movie is mechanical.",
+    "Fair Game is otherwise notable only for its jaw-dropping stupidity, the sort of action yarn that hopes nonstop mayhem will help cloud just how nonsensical it is.",
+    "The movie is fast, slick and dumb as a post.",
+    "Don't imagine there is any reason to see Fair Game."
+  ],
+  "reviews": [],
+  "num_reviews": 12,
+  "genres": [
+    "Action",
+    "Thriller"
+  ]
 }

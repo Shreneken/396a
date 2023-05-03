@@ -1,34 +1,34 @@
 {
-    "title": "The Thin Man",
-    "rating": 7.6,
-    "release_date": "1934-05-25",
-    "genre": [
-        "Mystery",
-        "Comedy",
-        "Crime"
-    ],
-    "summary": "Former detective Nick Charles and his wealthy wife Nora investigate a murder case, mostly for the fun of it.",
-    "critic_reviews": [
-        "To see The Thin Man is to watch him (Powell) embodying a personal style that could have been honored, but could never be imitated.",
-        "A murder story with a brilliant cast, a brilliant script, brilliant direction, and photography that tells the story in no mean terms.",
-        "What really makes The Thin Man an enduring classic, though, is the interplay between Powell and Loy, one of the greatest happily married couples ever to flicker on a screen.",
-        "Tense and slick, this early thriller remains a true masterpiece.",
-        "What enchants, really, is the relationship between Nick and Nora as they live an eternal cocktail hour, bewailing hangovers that only another little drink will cure, in a marvellous blend of marital familiarity and constant courtship, pixillated fantasy and childlike wonder.",
-        "Nick and Nora Charles are one of the screen's great couples.",
-        "Powell and Loy's light, witty, unflappable characterizations became the unwavering backbone of a terrific series.",
-        "An excellent combination of comedy and excitement.",
-        "Director W.S. Van Dyke and married co-writers Albert Hackett and Frances Goodrich leavened the novel's hard-boiled tone and grim wit. The result is less a detective story with occasional flashes of humor than a light comedy set against a backdrop of murder.",
-        "As Nick and Nora Charles, William Powell and Myrna Loy function as the most sophisticated, insolent, and healthy married couple on-screen.",
-        "The Thin Man was an entertaining novel, and now it's an entertaining picture."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "A surprisingly fun movie, very funny, and worth the rewatch. A sci-fi, comedy, murder mystery, very unique for today, let alone 1930s.",
-            "review_date": "2022-09-15",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 12
+  "title": "The Thin Man",
+  "rating": 7.6,
+  "release_date": "1934-05-25",
+  "summary": "Former detective Nick Charles and his wealthy wife Nora investigate a murder case, mostly for the fun of it.",
+  "critic_reviews": [
+    "To see The Thin Man is to watch him (Powell) embodying a personal style that could have been honored, but could never be imitated.",
+    "A murder story with a brilliant cast, a brilliant script, brilliant direction, and photography that tells the story in no mean terms.",
+    "What really makes The Thin Man an enduring classic, though, is the interplay between Powell and Loy, one of the greatest happily married couples ever to flicker on a screen.",
+    "Tense and slick, this early thriller remains a true masterpiece.",
+    "What enchants, really, is the relationship between Nick and Nora as they live an eternal cocktail hour, bewailing hangovers that only another little drink will cure, in a marvellous blend of marital familiarity and constant courtship, pixillated fantasy and childlike wonder.",
+    "Nick and Nora Charles are one of the screen's great couples.",
+    "Powell and Loy's light, witty, unflappable characterizations became the unwavering backbone of a terrific series.",
+    "An excellent combination of comedy and excitement.",
+    "Director W.S. Van Dyke and married co-writers Albert Hackett and Frances Goodrich leavened the novel's hard-boiled tone and grim wit. The result is less a detective story with occasional flashes of humor than a light comedy set against a backdrop of murder.",
+    "As Nick and Nora Charles, William Powell and Myrna Loy function as the most sophisticated, insolent, and healthy married couple on-screen.",
+    "The Thin Man was an entertaining novel, and now it's an entertaining picture."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "A surprisingly fun movie, very funny, and worth the rewatch. A sci-fi, comedy, murder mystery, very unique for today, let alone 1930s.",
+      "review_date": "2022-09-15",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 12,
+  "genres": [
+    "Mystery",
+    "Comedy",
+    "Crime"
+  ]
 }

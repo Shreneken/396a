@@ -1,20 +1,20 @@
 {
-    "title": "The Caine Mutiny",
-    "rating": 7.5,
-    "release_date": "1954-06-24",
-    "genre": [
-        "Drama",
-        "War"
-    ],
-    "summary": "When a U.S. Naval captain shows signs of mental instability that jeopardizes the ship, the first officer relieves him of command and faces court martial for mutiny.",
-    "critic_reviews": [
-        "Complex, atypical Bogie performance is keynote for strong drama from Pulitzer-winning novel and Broadway show.",
-        "The Caine Mutiny is highly recommendable motion picture drama, told on the screen as forcefully as it was in the Herman Wouk best-selling novel. The intelligently adapted screenplay retains all the essence of the novel.",
-        "Still gripping after all this time.",
-        "The Caine Mutiny, though somewhat garbled, is a vibrant film.",
-        "The Caine Mutiny is not distinctive filmmaking or storytelling, and its idea of ethical debate is relying on familiar archetypes and arguments. It sure is standard, though. It\u2019s like the well-constructed house that\u2019s not meant to be distinctive, but was made to endure.",
-        "Despite a few flashes of talent in the 40s, Edward Dmytryk had descended to hack status by the time he filmed this 1954 version of Herman Wouk's novel, and his ham-fisted direction does little to alleviate the obviousness of the drama and the thinness of the characterizations."
-    ],
-    "reviews": [],
-    "num_reviews": 7
+  "title": "The Caine Mutiny",
+  "rating": 7.5,
+  "release_date": "1954-06-24",
+  "summary": "When a U.S. Naval captain shows signs of mental instability that jeopardizes the ship, the first officer relieves him of command and faces court martial for mutiny.",
+  "critic_reviews": [
+    "Complex, atypical Bogie performance is keynote for strong drama from Pulitzer-winning novel and Broadway show.",
+    "The Caine Mutiny is highly recommendable motion picture drama, told on the screen as forcefully as it was in the Herman Wouk best-selling novel. The intelligently adapted screenplay retains all the essence of the novel.",
+    "Still gripping after all this time.",
+    "The Caine Mutiny, though somewhat garbled, is a vibrant film.",
+    "The Caine Mutiny is not distinctive filmmaking or storytelling, and its idea of ethical debate is relying on familiar archetypes and arguments. It sure is standard, though. It’s like the well-constructed house that’s not meant to be distinctive, but was made to endure.",
+    "Despite a few flashes of talent in the 40s, Edward Dmytryk had descended to hack status by the time he filmed this 1954 version of Herman Wouk's novel, and his ham-fisted direction does little to alleviate the obviousness of the drama and the thinness of the characterizations."
+  ],
+  "reviews": [],
+  "num_reviews": 7,
+  "genres": [
+    "Drama",
+    "War"
+  ]
 }

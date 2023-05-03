@@ -1,14 +1,14 @@
 {
-    "title": "The Discreet Charm of the Bourgeoisie",
-    "rating": 8.0,
-    "release_date": "2000-05-12",
-    "genre": [
-        "Drama",
-        "Fantasy",
-        "Comedy"
-    ],
-    "summary": "The re-release of Luis Bu\u00f1uel's 1972 film depicting a complex web of dreams within dreams within dreams, centered around a group of six upper-middle class members of society and their repeatedly thwarted attempts to have a meal together.  The interruptions become more and more surreal as the film progresses.",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "The Discreet Charm of the Bourgeoisie",
+  "rating": 8.0,
+  "release_date": "2000-05-12",
+  "summary": "The re-release of Luis Buñuel's 1972 film depicting a complex web of dreams within dreams within dreams, centered around a group of six upper-middle class members of society and their repeatedly thwarted attempts to have a meal together.  The interruptions become more and more surreal as the film progresses.",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Comedy"
+  ]
 }

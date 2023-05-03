@@ -1,21 +1,21 @@
 {
-    "title": "Black",
-    "rating": "tbd",
-    "release_date": "TBA",
-    "genre": [
-        "Action",
-        "Drama",
-        "Romance",
-        "Crime"
-    ],
-    "summary": "15-year-old Mavela is a Black Bronx. She falls madly in love with Marwan, an extremely charismatic member of a rival gang, the 1080s. The young couple is forced to make a brutal choice between gang loyalty and the love they have for one another. An impossible dilemma.",
-    "critic_reviews": [
-        "Aboubakr Bensa\u00efhi and Martha Canga Antonio deliver unforgettable performances as these two teenagers in way over their head.",
-        "Firecracker chemistry between the two leads makes this doomed Romeo and Juliet romance all the more tragically persuasive. Mavela\u2019s kittenish little girl voice is utterly beguiling; Marwan\u2019s adolescent swagger doesn\u2019t quite conceal the sweet boy beneath.",
-        "Against a backdrop of tensions between French and Flemish speakers, this is a forceful presentation of social divisions and the urgent need for change from within.",
-        "This easily exportable, minority-driven drama has the potential to launch the careers of its young directors and cast.",
-        "Direction and cast pack a wallop."
-    ],
-    "reviews": [],
-    "num_reviews": 5
+  "title": "Black",
+  "rating": "tbd",
+  "release_date": "TBA",
+  "summary": "15-year-old Mavela is a Black Bronx. She falls madly in love with Marwan, an extremely charismatic member of a rival gang, the 1080s. The young couple is forced to make a brutal choice between gang loyalty and the love they have for one another. An impossible dilemma.",
+  "critic_reviews": [
+    "Aboubakr Bensaïhi and Martha Canga Antonio deliver unforgettable performances as these two teenagers in way over their head.",
+    "Firecracker chemistry between the two leads makes this doomed Romeo and Juliet romance all the more tragically persuasive. Mavela’s kittenish little girl voice is utterly beguiling; Marwan’s adolescent swagger doesn’t quite conceal the sweet boy beneath.",
+    "Against a backdrop of tensions between French and Flemish speakers, this is a forceful presentation of social divisions and the urgent need for change from within.",
+    "This easily exportable, minority-driven drama has the potential to launch the careers of its young directors and cast.",
+    "Direction and cast pack a wallop."
+  ],
+  "reviews": [],
+  "num_reviews": 5,
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance",
+    "Crime"
+  ]
 }

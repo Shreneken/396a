@@ -1,14 +1,14 @@
 {
-    "title": "Yi Yi: A One and a Two...",
-    "rating": 8.4,
-    "release_date": "2000-10-06",
-    "genre": [
-        "Drama",
-        "Romance",
-        "Music"
-    ],
-    "summary": "This film portrays life through portraits of the individual members of a Taiwanese family, each representing a stage from birth to death.  [WinStar Cinema]",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "Yi Yi: A One and a Two...",
+  "rating": 8.4,
+  "release_date": "2000-10-06",
+  "summary": "This film portrays life through portraits of the individual members of a Taiwanese family, each representing a stage from birth to death.  [WinStar Cinema]",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Music"
+  ]
 }

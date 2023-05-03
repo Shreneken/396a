@@ -1,24 +1,24 @@
 {
-    "title": "Kagemusha",
-    "rating": 6.2,
-    "release_date": "1980-10-10",
-    "genre": [
-        "Drama",
-        "History",
-        "War"
-    ],
-    "summary": "A petty thief with an utter resemblance to a samurai warlord is hired as the lord's double. When the warlord later dies the thief is forced to take up arms in his place.",
-    "critic_reviews": [
-        "Simple, bold, and colorful on the surface, but very thoughtful.",
-        "Though the story's Shakespearean underpinnings give Kagemusha the weight of classic tragedy\u2013in this case, the tragedy of a man rendered helpless by larger historical forces\u2013the film astonishes mostly as pure spectacle.",
-        "An often breathtaking but slightly bloodless samurai epic.",
-        "An often overlooked fine entry in the Kurasawa canon, this shows a good many western 'epics' how it's done.",
-        "The massive battle scenes rank with the director's best, using brilliant color, contrasting light, and the enormous cast to great advantage. Kurosawa also alternates compelling scenes of near hypnotic stillness with scenes of rousing action.",
-        "Kurosawa, at 70, shows himself young indeed in the impressive handling of this historical drama laced with shrewd insights into the almost Shakespearean intrigues of power.",
-        "The film vibrates with a profound respect for historical veracity, the busy intersection between political sociology and psychology, and grunting, portentous masculinity.",
-        "Something large and abstract is stirring here, though the film's ultimate implications are chilling",
-        "For all Kurosawa's splendidly colourful recreation of 16th century Japan, and though Nakadai's performance is impressive enough, it's all ultimately rather empty and tedious; it could easily have been cut by almost an hour, while the grating Morricone-like score only serves to underline the fact that the director fails to achieve the emotional force of his finest work."
-    ],
-    "reviews": [],
-    "num_reviews": 10
+  "title": "Kagemusha",
+  "rating": 6.2,
+  "release_date": "1980-10-10",
+  "summary": "A petty thief with an utter resemblance to a samurai warlord is hired as the lord's double. When the warlord later dies the thief is forced to take up arms in his place.",
+  "critic_reviews": [
+    "Simple, bold, and colorful on the surface, but very thoughtful.",
+    "Though the story's Shakespearean underpinnings give Kagemusha the weight of classic tragedy–in this case, the tragedy of a man rendered helpless by larger historical forces–the film astonishes mostly as pure spectacle.",
+    "An often breathtaking but slightly bloodless samurai epic.",
+    "An often overlooked fine entry in the Kurasawa canon, this shows a good many western 'epics' how it's done.",
+    "The massive battle scenes rank with the director's best, using brilliant color, contrasting light, and the enormous cast to great advantage. Kurosawa also alternates compelling scenes of near hypnotic stillness with scenes of rousing action.",
+    "Kurosawa, at 70, shows himself young indeed in the impressive handling of this historical drama laced with shrewd insights into the almost Shakespearean intrigues of power.",
+    "The film vibrates with a profound respect for historical veracity, the busy intersection between political sociology and psychology, and grunting, portentous masculinity.",
+    "Something large and abstract is stirring here, though the film's ultimate implications are chilling",
+    "For all Kurosawa's splendidly colourful recreation of 16th century Japan, and though Nakadai's performance is impressive enough, it's all ultimately rather empty and tedious; it could easily have been cut by almost an hour, while the grating Morricone-like score only serves to underline the fact that the director fails to achieve the emotional force of his finest work."
+  ],
+  "reviews": [],
+  "num_reviews": 10,
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ]
 }

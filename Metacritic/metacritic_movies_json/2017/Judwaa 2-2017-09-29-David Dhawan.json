@@ -1,24 +1,24 @@
 {
-    "title": "Judwaa 2",
-    "rating": 4.8,
-    "release_date": "2017-09-29",
-    "genre": [
-        "Action",
-        "Drama",
-        "Comedy",
-        "Romance",
-        "Musical"
-    ],
-    "summary": "Twin brothers born to an honest businessman are separated at birth when their father exposes a smuggling racket and a king pin. One of the brothers is thought to be dead but only resurfaces stronger after living life on the streets to reunite with his family over a sequence of events and twist of fate. Genetically bound by reflexes both theTwin brothers born to an honest businessman are separated at birth when their father exposes a smuggling racket and a king pin. One of the brothers is thought to be dead but only resurfaces stronger after living life on the streets to reunite with his family over a sequence of events and twist of fate. Genetically bound by reflexes both the brother\u2019s lives interlink in strange ways and a comedy of errors. They eventually come together to destroy the smuggling nexus and save their family from a downfall that awaits them.\u2026 Expand",
-    "critic_reviews": [],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "Varun Dhawan's impressive dual performance as well as some hilarious moments can't save \"Judwaa 2\" from a plot that doesn't make sense, terrible villains, lame songs, scattershot humour, bad directing, unsatisfactory editing, and a slipshodVarun Dhawan's impressive dual performance as well as some hilarious moments can't save \"Judwaa 2\" from a plot that doesn't make sense, terrible villains, lame songs, scattershot humour, bad directing, unsatisfactory editing, and a slipshod script. There is some enjoyment to be had, but leave your brains out of the theatre.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 1
+  "title": "Judwaa 2",
+  "rating": 4.8,
+  "release_date": "2017-09-29",
+  "summary": "Twin brothers born to an honest businessman are separated at birth when their father exposes a smuggling racket and a king pin. One of the brothers is thought to be dead but only resurfaces stronger after living life on the streets to reunite with his family over a sequence of events and twist of fate. Genetically bound by reflexes both theTwin brothers born to an honest businessman are separated at birth when their father exposes a smuggling racket and a king pin. One of the brothers is thought to be dead but only resurfaces stronger after living life on the streets to reunite with his family over a sequence of events and twist of fate. Genetically bound by reflexes both the brother’s lives interlink in strange ways and a comedy of errors. They eventually come together to destroy the smuggling nexus and save their family from a downfall that awaits them.… Expand",
+  "critic_reviews": [],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "Varun Dhawan's impressive dual performance as well as some hilarious moments can't save \"Judwaa 2\" from a plot that doesn't make sense, terrible villains, lame songs, scattershot humour, bad directing, unsatisfactory editing, and a slipshodVarun Dhawan's impressive dual performance as well as some hilarious moments can't save \"Judwaa 2\" from a plot that doesn't make sense, terrible villains, lame songs, scattershot humour, bad directing, unsatisfactory editing, and a slipshod script. There is some enjoyment to be had, but leave your brains out of the theatre.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 1,
+  "genres": [
+    "Action",
+    "Drama",
+    "Comedy",
+    "Romance",
+    "Musical"
+  ]
 }

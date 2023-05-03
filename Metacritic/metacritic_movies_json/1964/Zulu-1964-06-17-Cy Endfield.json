@@ -1,39 +1,39 @@
 {
-    "title": "Zulu",
-    "rating": 5.1,
-    "release_date": "1964-06-17",
-    "genre": [
-        "Drama",
-        "History",
-        "War"
-    ],
-    "summary": "Outnumbered British soldiers do battle with Zulu warriors at Rorke's Drift.",
-    "critic_reviews": [
-        "Set in 1879 in Natal, this magnificently staged, brilliantly acted film tells the story of the heroic defense by overwhelmingly outnumbered British troops of the tiny outpost Rorke's Drift.",
-        "It may not be truthful \u2013 but, my God, the result is thrilling.",
-        "As a spectacular war film with a powerful moral dimension, Zulu pre-dates Spielberg's Saving Private Ryan by more than three decades. Like the defence of Rorke's Drift itself, its legend grows with the passing of time.",
-        "Zulu is a brilliantly made dramatisation of Rorke's Drift, and it does a fine job of capturing the spirit for which the battle is remembered.",
-        "This may not be exact history, but it certainly makes an impression.",
-        "A good platter for a great, underappreciated classic of British cinema (under the direction of American expatriate Cy Endfield)\u2014light on supplements but strong in presentation.",
-        "Zulu is a fairly tough-minded and interesting account of a company of Welsh soldiers doing their bit for somebody else's Queen and Country in an alien land.",
-        "Joseph E. Levine makes an impressive debut in British film production with Zulu, a picture that allows ample scope for his flamboyant approach to showmanship.",
-        "If you're not too squeamish at the sight of slaughter and blood and can keep your mind fixed on the notion that there was something heroic and strong about British colonial expansion in the 19th century, you may find a great deal of excitement in this robustly Kiplingesque film."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "This review contains spoilers, click expand to view.\n        \nThe final battle scene is so POWERFUL. the mighty war-chant from the 4000 zulu warriors is somehow matched by the 60 or so british troops manning Rorke's Drift' hastily put together defences. when 'men of harlech' starts to over power the zulus' singing, they suddenly change the song into a chant....... and charge. the scared yet brave british men watch their charge but don't break song until they are told to fire. even with the mighty firepower delt by the british, the zulu warriors still manage to get into fierce hand to hand combat with the british line. the commanding officer gives an order for the frontline to fall back to an sandbag wall where more british man were hiding behind. FIRST  RANK, FIRE. SECOND RANK FIRE. THIRD RANK FIRE. volley after volley. it gets to a point when the soldiers don't have to be told when to fire. when they are told to hold fire, and when the smoke clears, body after body of zulu warriors littered the ground just inches from them. the look in their faces was not a look of joy, but of disdain for what they have done, but they knew it was necessary if they were to live. a few hours after the battle. a horde of zulus' appeared on the horizon. but they were not going to attack, they wanted to salute their bravery and sing a mighty song. then they lift their shields above their heads, turned around and leave, 'saluting fellow braves'.",
-            "review_date": "2020-02-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A personal favorite of mine. Arguable one of, if not the greatest war film ever made!",
-            "review_date": "2022-05-14",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 11
+  "title": "Zulu",
+  "rating": 5.1,
+  "release_date": "1964-06-17",
+  "summary": "Outnumbered British soldiers do battle with Zulu warriors at Rorke's Drift.",
+  "critic_reviews": [
+    "Set in 1879 in Natal, this magnificently staged, brilliantly acted film tells the story of the heroic defense by overwhelmingly outnumbered British troops of the tiny outpost Rorke's Drift.",
+    "It may not be truthful – but, my God, the result is thrilling.",
+    "As a spectacular war film with a powerful moral dimension, Zulu pre-dates Spielberg's Saving Private Ryan by more than three decades. Like the defence of Rorke's Drift itself, its legend grows with the passing of time.",
+    "Zulu is a brilliantly made dramatisation of Rorke's Drift, and it does a fine job of capturing the spirit for which the battle is remembered.",
+    "This may not be exact history, but it certainly makes an impression.",
+    "A good platter for a great, underappreciated classic of British cinema (under the direction of American expatriate Cy Endfield)—light on supplements but strong in presentation.",
+    "Zulu is a fairly tough-minded and interesting account of a company of Welsh soldiers doing their bit for somebody else's Queen and Country in an alien land.",
+    "Joseph E. Levine makes an impressive debut in British film production with Zulu, a picture that allows ample scope for his flamboyant approach to showmanship.",
+    "If you're not too squeamish at the sight of slaughter and blood and can keep your mind fixed on the notion that there was something heroic and strong about British colonial expansion in the 19th century, you may find a great deal of excitement in this robustly Kiplingesque film."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "This review contains spoilers, click expand to view.\n        \nThe final battle scene is so POWERFUL. the mighty war-chant from the 4000 zulu warriors is somehow matched by the 60 or so british troops manning Rorke's Drift' hastily put together defences. when 'men of harlech' starts to over power the zulus' singing, they suddenly change the song into a chant....... and charge. the scared yet brave british men watch their charge but don't break song until they are told to fire. even with the mighty firepower delt by the british, the zulu warriors still manage to get into fierce hand to hand combat with the british line. the commanding officer gives an order for the frontline to fall back to an sandbag wall where more british man were hiding behind. FIRST  RANK, FIRE. SECOND RANK FIRE. THIRD RANK FIRE. volley after volley. it gets to a point when the soldiers don't have to be told when to fire. when they are told to hold fire, and when the smoke clears, body after body of zulu warriors littered the ground just inches from them. the look in their faces was not a look of joy, but of disdain for what they have done, but they knew it was necessary if they were to live. a few hours after the battle. a horde of zulus' appeared on the horizon. but they were not going to attack, they wanted to salute their bravery and sing a mighty song. then they lift their shields above their heads, turned around and leave, 'saluting fellow braves'.",
+      "review_date": "2020-02-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A personal favorite of mine. Arguable one of, if not the greatest war film ever made!",
+      "review_date": "2022-05-14",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 11,
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ]
 }

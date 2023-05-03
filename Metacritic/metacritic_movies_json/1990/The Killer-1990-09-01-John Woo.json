@@ -1,71 +1,71 @@
 {
-    "title": "The Killer",
-    "rating": 8.0,
-    "release_date": "1990-09-01",
-    "genre": [
-        "Action",
-        "Drama",
-        "Thriller",
-        "Crime"
-    ],
-    "summary": "A disillusioned assassin (Chow Yun-Fat) accepts one last hit in hopes of using his earnings to restore vision to a singer he accidentally blinded, only to be double-crossed by his boss.",
-    "critic_reviews": [
-        "John Woo's trademark style reached its zenith in The Killer, with its ying-yang relationship between a good-hearted hit man and an anti-authority cop. But underneath the Miami Vice tailoring, it's as much a doomed romance as a shoot-'em-up.",
-        "For Western viewers unfamiliar with Hong Kong gangster films, there's no better introduction.",
-        "This extremely violent and superbly made actioner demonstrates the tight grasp that director John Woo has on the crime meller genre, and his ability to twist the form into surprisingly satisfying shapes. The picture creeps up on an audience. Melodramatic from the start, it finally goes over the top to deliver a solid emotional punch.",
-        "It plays like the work of a filmmaker operating at the highest level of his abilities.",
-        "A lot of claims have been made for this campy bloodbath concerto (1989) by Hong Kong director John Woo, and I must admit that he's even better than Brian De Palma at delivering emotional and visceral excess with staccato relentlessness.",
-        "The scenes of gore and destruction are even more spectacular than Hong Kong's fog-shrouded skyline. The director repeatedly places the viewer at the center of the crossfire and turns the gyrating camera into the next best thing to a lethal weapon.",
-        "The most dementedly elegiac thriller you've ever seen, distilling a lifetime's enthusiasm for American and French film noir, with little Chinese about it apart from the soundtrack and the looks of the three beautiful leads.",
-        "Sentimentality and violence have gone hand-in-hand from the beginning of the movies, but seldom have they been carried to such extremes and played against each other with such effectiveness as in writer-director John Woo\u2019s The Killer (Nuart), an example of the highly addictive, supercharged, go-for-broke Hong Kong cinema at its most deliberately outrageous.",
-        "This is tragedy at its most hilarious and comedy to break your heart; sweet violence in a hellish fairy tale.",
-        "For all the bullets that are spent, The Killer spends just as much time ruminating on the likes of honor, friendship and even the allure of guns themselves. \u201cEasy to pick up,\u201d Chow observes at one point, \u201cdifficult to put down.\u201d The Killer is hardly a cautionary tale, but contrary to what its blunt title implies, it is a complicated one.",
-        "Watching John Woo's The Killer may be like eating popcorn, but it's not just any old brand; it's escape-velocity popcorn, popcorn with a slurp of rocket fuel. Its story is a collision of exuberant pulp, samurai mythology and modern, urban noir.",
-        "This violent Hong Kong thriller has more psychological depth than most of its kind, but ultimately seems like a pointless exercise in style."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "Brilliance!  Along with Hard-Boiled, these are your Hong Kong action movie fix if you haven't seen them.  Woo is beyond words.",
-            "review_date": "2019-07-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of my all-time favorite action flicks, in the vein of Brian DePalma.  Chow Yun-Fat is incredible, and the choreography is phenomenal.  Props to John Woo for influencing so many American directors with this gem.",
-            "review_date": "2019-07-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Absolute masterpiece that combines brilliant cinematography and visuals, strong characterisation, brutal violence, and a manly, poetic tale that questions deeply the meaning of the words friend, sense of duty, and honour.This is a movieAbsolute masterpiece that combines brilliant cinematography and visuals, strong characterisation, brutal violence, and a manly, poetic tale that questions deeply the meaning of the words friend, sense of duty, and honour.This is a movie that deserves to be seen, known, and remembered for the ages. Inspired by brilliant 60's french films like Le Samoura\u00ef, it is to cinema what Beethoven's 7th was to music: perhaps not the most well-known of his works, but one of the most radical, expressive, memorable, powerful.From the genius of his camera to the brilliance of his actors, music, mood, scenes, and the questions it raises that go beyond the artistry and enter philosophy, The Killer is a must-see above all.",
-            "review_date": "2021-10-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Upon revisit i expected to be disappointed after Face Off, and really it is not as strong as i remember, it feels like a lot of filler.  Makes me hungry for chinese food.",
-            "review_date": "2020-02-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Absolutely incredible gun fight scenes with pretty good story. Must have kinda one.",
-            "review_date": "2019-08-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Nice Film with impressive acting, direction, editing and story. One of the greatest action crime films of all time",
-            "review_date": "2020-06-28",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 18
+  "title": "The Killer",
+  "rating": 8.0,
+  "release_date": "1990-09-01",
+  "summary": "A disillusioned assassin (Chow Yun-Fat) accepts one last hit in hopes of using his earnings to restore vision to a singer he accidentally blinded, only to be double-crossed by his boss.",
+  "critic_reviews": [
+    "John Woo's trademark style reached its zenith in The Killer, with its ying-yang relationship between a good-hearted hit man and an anti-authority cop. But underneath the Miami Vice tailoring, it's as much a doomed romance as a shoot-'em-up.",
+    "For Western viewers unfamiliar with Hong Kong gangster films, there's no better introduction.",
+    "This extremely violent and superbly made actioner demonstrates the tight grasp that director John Woo has on the crime meller genre, and his ability to twist the form into surprisingly satisfying shapes. The picture creeps up on an audience. Melodramatic from the start, it finally goes over the top to deliver a solid emotional punch.",
+    "It plays like the work of a filmmaker operating at the highest level of his abilities.",
+    "A lot of claims have been made for this campy bloodbath concerto (1989) by Hong Kong director John Woo, and I must admit that he's even better than Brian De Palma at delivering emotional and visceral excess with staccato relentlessness.",
+    "The scenes of gore and destruction are even more spectacular than Hong Kong's fog-shrouded skyline. The director repeatedly places the viewer at the center of the crossfire and turns the gyrating camera into the next best thing to a lethal weapon.",
+    "The most dementedly elegiac thriller you've ever seen, distilling a lifetime's enthusiasm for American and French film noir, with little Chinese about it apart from the soundtrack and the looks of the three beautiful leads.",
+    "Sentimentality and violence have gone hand-in-hand from the beginning of the movies, but seldom have they been carried to such extremes and played against each other with such effectiveness as in writer-director John Woo’s The Killer (Nuart), an example of the highly addictive, supercharged, go-for-broke Hong Kong cinema at its most deliberately outrageous.",
+    "This is tragedy at its most hilarious and comedy to break your heart; sweet violence in a hellish fairy tale.",
+    "For all the bullets that are spent, The Killer spends just as much time ruminating on the likes of honor, friendship and even the allure of guns themselves. “Easy to pick up,” Chow observes at one point, “difficult to put down.” The Killer is hardly a cautionary tale, but contrary to what its blunt title implies, it is a complicated one.",
+    "Watching John Woo's The Killer may be like eating popcorn, but it's not just any old brand; it's escape-velocity popcorn, popcorn with a slurp of rocket fuel. Its story is a collision of exuberant pulp, samurai mythology and modern, urban noir.",
+    "This violent Hong Kong thriller has more psychological depth than most of its kind, but ultimately seems like a pointless exercise in style."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "Brilliance!  Along with Hard-Boiled, these are your Hong Kong action movie fix if you haven't seen them.  Woo is beyond words.",
+      "review_date": "2019-07-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of my all-time favorite action flicks, in the vein of Brian DePalma.  Chow Yun-Fat is incredible, and the choreography is phenomenal.  Props to John Woo for influencing so many American directors with this gem.",
+      "review_date": "2019-07-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Absolute masterpiece that combines brilliant cinematography and visuals, strong characterisation, brutal violence, and a manly, poetic tale that questions deeply the meaning of the words friend, sense of duty, and honour.This is a movieAbsolute masterpiece that combines brilliant cinematography and visuals, strong characterisation, brutal violence, and a manly, poetic tale that questions deeply the meaning of the words friend, sense of duty, and honour.This is a movie that deserves to be seen, known, and remembered for the ages. Inspired by brilliant 60's french films like Le Samouraï, it is to cinema what Beethoven's 7th was to music: perhaps not the most well-known of his works, but one of the most radical, expressive, memorable, powerful.From the genius of his camera to the brilliance of his actors, music, mood, scenes, and the questions it raises that go beyond the artistry and enter philosophy, The Killer is a must-see above all.",
+      "review_date": "2021-10-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Upon revisit i expected to be disappointed after Face Off, and really it is not as strong as i remember, it feels like a lot of filler.  Makes me hungry for chinese food.",
+      "review_date": "2020-02-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Absolutely incredible gun fight scenes with pretty good story. Must have kinda one.",
+      "review_date": "2019-08-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Nice Film with impressive acting, direction, editing and story. One of the greatest action crime films of all time",
+      "review_date": "2020-06-28",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 18,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller",
+    "Crime"
+  ]
 }

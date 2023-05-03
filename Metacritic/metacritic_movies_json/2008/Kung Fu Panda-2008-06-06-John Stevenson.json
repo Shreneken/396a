@@ -1,739 +1,739 @@
 {
-    "title": "Kung Fu Panda",
-    "rating": 8.3,
-    "release_date": "2008-06-06",
-    "genre": [
-        "Action",
-        "Comedy",
-        "Animation",
-        "Family"
-    ],
-    "summary": "Enthusiastic, big and a little clumsy, Po is the biggest fan of Kung Fu around\u2026which doesn\u2019t exactly come in handy while working every day in his family\u2019s noodle shop. Unexpectedly chosen to fulfill an ancient prophecy, Po\u2019s dreams become reality when he joins the world of Kung Fu and studies alongside his idols\u2014the legendary fightersEnthusiastic, big and a little clumsy, Po is the biggest fan of Kung Fu around\u2026which doesn\u2019t exactly come in handy while working every day in his family\u2019s noodle shop. Unexpectedly chosen to fulfill an ancient prophecy, Po\u2019s dreams become reality when he joins the world of Kung Fu and studies alongside his idols\u2014the legendary fighters Tigress, Crane, Mantis, Viper and Monkey\u2014under the leadership of their guru, Master Shifu.  But before they know it, the vengeful and treacherous snow leopard Tai Lung is headed their way, and it\u2019s up to Po to defend everyone from the oncoming threat. Can he turn his dreams of becoming a Kung Fu master into reality? Po puts his heart-and his girth-into the task, and the unlikely hero ultimately finds that his greatest weaknesses turn out to be his greatest strengths. [Dreamworks]\u2026 Expand",
-    "critic_reviews": [
-        "Light and goofy, yet the fight scenes, which are the heart of the film, are lickety-split mad fun.",
-        "Yet another celebrity-voiced animal adventure, but it stands out from the crowd of similar films with its lightning wit and whirlwind brio.",
-        "The stroke of genius is, of course, the film's hero -- the big, lovable bear that is the Chinese panda.",
-        "Infectious and inspiring, despite one's best efforts to resist its charms.",
-        "At once fuzzy-wuzzy and industrial strength, the tacky-sounding Kung Fu Panda is high concept with a heart.",
-        "The new picture provides a master coursed in cunning visual art and ultra-satisfying entertainment.",
-        "Everything about Kung Fu Panda is a little better, a little sharper, a little funnier than the animated run of the mill.",
-        "The voice cast includes Angelina Jolie as a tigress, omnipresent Seth Rogen as an acupuncturist who's a praying mantis, David Cross as a nasal crane and Lucy Liu as a cheerful viper.",
-        "The stunning set pieces take full advantage of animation\u2019s unique mastery over time and space, so that we don\u2019t just watch the characters\u2019 daredevil exploits \u2013 we\u2019re spinning and whirling right along with them. It\u2019s as if we\u2019ve mastered space and time ourselves.",
-        "It's not an instant classic, but it's imaginatively drawn, full of charming characters, alive with action sequences and blissfully free of the snickering scatology and endless pop-culture references.",
-        "The animation is consistently sporty and there are some choice comic riffs on martial arts movies.",
-        "Rudimentary plot and merely decent gags aside, this is the finest DreamWorks Animation effort since the first Shrek, chiefly because of its astonishing visuals and kinetic kung fu sequences.",
-        "The animation is first-rate, and the settings and background are appropriately exotic. The fights are a lot more exciting than you would think.  And if the story is somewhat predictable (and the final blow somewhat difficult to fathom), one could find lesser heroes to root for than Po, although none more unlikely.",
-        "If you're a martial arts/action movie fan in particular, much of the action in the film will leave you very satisfied. There's a prison escape sequence that is jaw-droppingly cool.",
-        "This is a solid family film material, although one suspects the children will get a little more out of it than their parents.",
-        "Not one of the great recent animated films. The story is way too predictable, and truth to tell, Po himself didn't overwhelm me with his charisma. But it's elegantly drawn, the action sequences are packed with energy, and it's short enough that older viewers will be forgiving.",
-        "Thanks to a witty script and the recognizably goofy but absolutely earnest delivery of Black, Kung Fu Panda has a human soul, too.",
-        "It was definitely a great idea to give Kung Fu Panda the IMAX treatment. The fight scenes, quivering whiskers and moist noses, foggy mountaintops, and fluttering peach blossoms are equally impressive on the huge, curved screen.",
-        "Beautifully animated, the celebrity voice performances are terrific, and the action sequences negotiate the fine line between being physically convincing and becoming too intense for the young children.",
-        "I'm going to go out on a limb here and say that this is probably the best movie so far this year about a kung-fu fighting panda.",
-        "This movie leaves 'em laughing - and gasping.",
-        "It's the overriding spirit of the movie that forms its greatest appeal: Here's a movie that isn't intent on conquering the world but simply entertaining you for a breezy 90 minutes.",
-        "Po speaks loudly and carries big shtick. Let the rest of the world cringe at our hyperconfidence, our charisma, our pure awesomeness.",
-        "The result is a genuinely pleasing kung fu movie that kids and grown-ups can enjoy.",
-        "Perfectly pleasant, very good-looking, modestly funny, dispiritingly unoriginal variant on the nerd-with-a-dream recipe that's been clobbered to death in animated films for at least a decade now.",
-        "The action, heavily influenced by Hong Kong martial arts films, is beautifully choreographed.",
-        "The essence of the film is slapsticky, chopsocky action, rendered with great verve and accompanied by bromides having to do with the need to believe.",
-        "Tongue-in-cheek dialogue, inventive slapstick and fight sequences, and luminous production design make this a treat.",
-        "Po (Black) may be an animated panda bear, but make no mistake: Deep down he's really just a nerd with a pop-culture obsession.",
-        "The film lacks the comic ingenuity of the best in CGI critter movies. It's not fun-for-the-whole-family, like \"Shrek.\" Still, it's a howl and amazement for anyone under 12.",
-        "Kung Fu Panda goes nowhere surprising even as its images unscroll handsomely before our eyes. The sound could go out in the theater, and you wouldn't ask for your money back.",
-        "Though the film's simple story is squarely aimed at tots, DreamWorks' digitizers have referenced Eastern visual styles -- everything from delicate Chinese screens to flashy Japanese anime -- to enliven the look of the film.",
-        "This is an unashamedly old-fashioned children's movie, and a predictable message is part of the mission. But that's okay; what the movie lacks in surprises, it makes up for in whimsical fun.",
-        "A nice looking but heavily formulaic DreamWorks animation entry.",
-        "Though occasionally visually inventive, Kung Fu Panda is a disappointment when it comes to matters of simple black and white: the script.",
-        "It's impressive enough to look at, and the voice talent \u2013 especially Black and Hoffman - doesn't disappoint, but all the CGI wankery and high-end talent only barely allows Kung Fu Panda to rise above clich\u00e9."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "This is definitely a great movie. I love the story, it's very clear and interesting. The graphics were great so it has visual impact to viewers. Definitely, one of Dreamworks' best...........",
-            "review_date": "2012-05-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "All I can say was that it was alright. Not bad, of course, but nothing special. It was short and had a very simply laid out beginning, middle, and end. Certain parts were dragged out a bit more than necessary and others were over quicker All I can say was that it was alright. Not bad, of course, but nothing special. It was short and had a very simply laid out beginning, middle, and end. Certain parts were dragged out a bit more than necessary and others were over quicker than they should have been, like the solution to the mystery of the Dragon Scroll. It was just completely unprompted and almost awkwardly shoved into a scene in the movie where it didn't really fit. Jack Black (beside the animation itself)is really the only phenomenal part of film. His personality really adds to the character and makes him likable, relatable, and ultimately enjoyable. I'd recommend it for viewers with younger children. Other than that, I'd rent when it comes out on video.",
-            "review_date": "2008-06-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I really had high hopes for this movie, especially when I heard Jack Black and Jackie Chan were in it. Unfortunately, I was really disappointed with the movie. With the exception of Po and Shifu, all the characters, especially the furiousI really had high hopes for this movie, especially when I heard Jack Black and Jackie Chan were in it. Unfortunately, I was really disappointed with the movie. With the exception of Po and Shifu, all the characters, especially the furious five, were one-dimensional. Lame plot, and I barely got to hear Jackie Chan! And now they're making a sequel? DreamWorks, unless you make this sequel your \"Dark Knight\", you won't be seeing me watching Kung Fu Panda 2.",
-            "review_date": "2010-10-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The greatest movie of all the time. And the best trinity of all the time. You definitely must watch Kung Fu Panda movies.",
-            "review_date": "2019-01-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of dreamwork's best. I got a karate kid feel from this. Jack Black was perfect for this role. I was laughing alot also. its a perfect family movie",
-            "review_date": "2010-11-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Recently, Dreamworks has been working hard to improve their story and dialogue, and they did use their time wisely. Their animation \"Kung Fu Panda\" blows it all, from comedy to action, like a boss.",
-            "review_date": "2011-10-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Kung Fu Panda has great visuals, but the real reason for Kung Fu Panda being so awesome is that the story is great and Po the panda is among the best animated characters ever.",
-            "review_date": "2011-11-13",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A very worthy addition to the animation world. Great voice acting and a unique cast of characters. Especially the female tiger, which I thought was a piece of art. Cartoonist yet highly stylized. The turtle was pretty cool too. Add in some A very worthy addition to the animation world. Great voice acting and a unique cast of characters. Especially the female tiger, which I thought was a piece of art. Cartoonist yet highly stylized. The turtle was pretty cool too. Add in some humor, a lovable unorthodox underdog hero, and a some beautifully animated fight sequences featuring a worthy villain with some neon colored special effects and you got yourself a very eye popping and attention grabbing movie. I'll rate Wall-E as the deeper more insightful thought-provoking movie while Kung Fu Panda is the more playful/humorous 'sit back, turn off the brain, and enjoy' film.",
-            "review_date": "2008-11-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Another solid movie from Dreamworks, the animation doesn't seem to age (at least not as much as Madagascar), the jokes are mostly great, the voice acting is fantastic and the story seems to work very well. It's better than Madagascar, but notAnother solid movie from Dreamworks, the animation doesn't seem to age (at least not as much as Madagascar), the jokes are mostly great, the voice acting is fantastic and the story seems to work very well. It's better than Madagascar, but not quite as good as the likes of Shrek (the first 2) or How To Train Your Dragon. A very awesome film nonetheless.",
-            "review_date": "2011-12-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "After seeing the cutesy \"Over The Hedge\" and a beediocre disappointing \"Bee Movie\", I rolled my eyes when I met an action flick known as \"Kung Fu Panda\" and I enjoyed it.The storyline was well-paced and it had a creative atmosphere thatAfter seeing the cutesy \"Over The Hedge\" and a beediocre disappointing \"Bee Movie\", I rolled my eyes when I met an action flick known as \"Kung Fu Panda\" and I enjoyed it.The storyline was well-paced and it had a creative atmosphere that lies in the very existence of kung fu and has done anything to get some things done. It had some very emotional moments with gave this movie a heart to the original story.The cinematography was magnificent when it comes to make a wonderful cast to play their rightful voices for the characters. Jack Black and Dustin Hoffman made an awesome mix of Po and Master Shifu because of their own personalities, different expositions, and their only chances of becoming friends to one another near the end of the movie. Ian Mcshane's performance as Tai Lung was amazing and his frightening presence gave me the shivers. James Hong as Po's father (who obviously played Chi Fu in Disney's Mulan) was very entertaining. The cast of the Furious Five were very good and they were given a little bit of screen time and were developed near the end of the movie which makes Angelina Jolie, David Cross, Seth Rogen, Lucy Liu, and Jackie Chan very memorable in this animated feature film.The CGI animation is very amazing and somehow beautiful in most animated feature films, The characters were very likable and memorable that even ex-Disney animators would find them entertaining, the comedy was hilarious with Po's moments and the sets stayed very true to the Chinese culture. The action scenes were very intense and very unique which makes this movie the first CGI cartoon to have action sequences.The music score by Hans Zimmer (The Lion King, The Road to El Dorado) and John Powell (in other Dreamworks Animation features) was very memorable and a lot of emotion to it to describe the characters feelings and the academy awards proved it.The only problem that I do have with this movie was the clunky plot/script and not only that. It was too predictable.Kung Fu Panda may not be a masterpiece, but it's a surprisingly good animated kung fu flick. It made $631 million dollars at the box office and it was as epic as Disney's The Lion King.9/10",
-            "review_date": "2011-09-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Warm, touching, and fruitful script, coupled with amazing animation technique, make this kung fu parody funny and entertaining. Excellent voice choices, in particular Jack Black, and, surprising, a lack of the common corny plot lines inWarm, touching, and fruitful script, coupled with amazing animation technique, make this kung fu parody funny and entertaining. Excellent voice choices, in particular Jack Black, and, surprising, a lack of the common corny plot lines in regular animation. Loved it since it came out.",
-            "review_date": "2013-11-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "They're animals, not people; but \"Kung Fu Panda\" take place in China, and the animals are voiced by both, American and Asian-American actors. Viper(Lucy Liu) and Monkey(Jackie Chan) are Chinese, but Tigress(Angelina Jolie) and They're animals, not people; but \"Kung Fu Panda\" take place in China, and the animals are voiced by both, American and Asian-American actors. Viper(Lucy Liu) and Monkey(Jackie Chan) are Chinese, but Tigress(Angelina Jolie) and Mantis(David Cross) are pretending to be Chinese, like David Carradine in \"Kung Fu\". The panda bear, the animal most iconographical to Mainland China, is part of the covert yellow-face minstrel act, too, made even more intriguing by its black and white markings. Po(Jack Black) is a kung fu fan like Taimak in Berry Gordy's \"The Last Dragon\", who was black, and a kung fu master like Cane, in the aforementioned series that was originally planned to be a star vehicle for Bruce Lee; needless to say, Carradine was white. In a film with Jackie Chan, the closest thing we have to the late Lee, it's interesting to mention that the Anglo-American actor gets to read the ancient prophecy, and not somebody of actual Asian descent.",
-            "review_date": "2008-06-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Mediocre. I was bored by this movie, really. So clich\u00e9!...",
-            "review_date": "2009-03-09",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Mediocre at best.",
-            "review_date": "2008-11-21",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Typical Dreamworks animation fare - formulaic, unoriginal, uninspired. Don't waste your money.",
-            "review_date": "2008-06-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The previews looked funny, but I initially hesitated to watch it because the last few Jack Black movies were disappointments. Well, you can add this one to the list. There are a few laughs, but most of the jokes aren't funny. And the The previews looked funny, but I initially hesitated to watch it because the last few Jack Black movies were disappointments. Well, you can add this one to the list. There are a few laughs, but most of the jokes aren't funny. And the drama is something we've already seen in better movies by Pixar (and probably by Dreamworks as well).",
-            "review_date": "2008-06-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Wonderful humor, Amazing creativity, Awesome movie.",
-            "review_date": "2008-06-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A fun movie for the whole family (sounds cliche, but really applies for this flick). The animation is great, and it actually gets some good consistent laughs in throughout the duration. It seemed a little short to some, but I got a kick out A fun movie for the whole family (sounds cliche, but really applies for this flick). The animation is great, and it actually gets some good consistent laughs in throughout the duration. It seemed a little short to some, but I got a kick out of it. Take your kids and you won't have a bad time yourself.",
-            "review_date": "2008-06-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I was pleasantly surprised by this movie.I was outvoted,so I went expecting over the topedness{sic} from the voice of Jack .B.He was, but in a good way.The nearly painted animation was done well very crisp,and fluid.",
-            "review_date": "2008-06-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Very Funny! The main character had depth and was very entertaining. A must see!",
-            "review_date": "2008-06-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Solid flick for everyone of all ages.",
-            "review_date": "2008-06-09",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Such an enjoyable film to watch with a great cast backing it up. Perfect film to watch with the family or if your just in the mood for a laugh.",
-            "review_date": "2008-07-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is a very good movie: it's funny and has a compelling plot. The characters are all very likable and I think kids would like it a lot. It definitely isn't just another cookie cutter animated movie about talking animals and does This is a very good movie: it's funny and has a compelling plot. The characters are all very likable and I think kids would like it a lot. It definitely isn't just another cookie cutter animated movie about talking animals and does some fairly original things.",
-            "review_date": "2008-06-10",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Hysterical, probably my favorite animation movie ever.",
-            "review_date": "2008-06-13",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I was not going to even write anything about this but wow Chad S., get a life!! I have no clue what all that rambling was about. Needless to say, this was a fun movie to go to and watch.",
-            "review_date": "2008-06-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It is simply one of those movies people should see if not to simply let go of the seriousness of modern-day plots. It is light-hearted, funny, and action-packed.",
-            "review_date": "2008-06-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Shallow, silly and absolutely irresistibly funny!",
-            "review_date": "2008-06-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Very enjoyable movie for both kids and adults. A simply movie formula done extremely well. The fight scenes were surprisingly good as well, Wo Ping would be proud. The animation is excellent and brings the story of a likable Panda to life.",
-            "review_date": "2008-07-10",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I thought this would be good fun but quite frankly I was awestruck to the point of tears at some of the staggeringly beautiful backdrops and scenes. Admittedly I am a sucker for visuals but I was not the only one in the theatre gasping and I thought this would be good fun but quite frankly I was awestruck to the point of tears at some of the staggeringly beautiful backdrops and scenes. Admittedly I am a sucker for visuals but I was not the only one in the theatre gasping and breathless with astonishment at times. For me then, the best computer animated film to date, even with the standard so high overall",
-            "review_date": "2008-07-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I loved Kung Fu Panda. I am an old school martial arts fanatic--used to watch the movies with my dad. This meets all of the criteria of a martial arts film like Lord of the Wu tang (unlikely hero becomes Kung Fu Master by chance), has the I loved Kung Fu Panda. I am an old school martial arts fanatic--used to watch the movies with my dad. This meets all of the criteria of a martial arts film like Lord of the Wu tang (unlikely hero becomes Kung Fu Master by chance), has the visuals of a \"Hero\" or \"Crouching Tiger\", and has the heart of Disney (yes, I said it). When I went to the theater to see it all of the children there loved it and my two reasons for living came out wanting to learn Kung Fu. I think the haters out there just don't like or \"get\" Jack Black, because really I see no other reason they could dislike this film.",
-            "review_date": "2009-03-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie is really funny, with a lot of \"kung fu\" fighting and the voice acting is great too. I really recommend this movie.",
-            "review_date": "2008-11-01",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Brilliant animation, great story and often laugh out loud funny. It's not up there with Finding Nemo, Toy Story or A Bug's Life, but it is still a fine film. Very entertaining.",
-            "review_date": "2008-11-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Very funny -- a good family movie for older kids.",
-            "review_date": "2008-11-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie is what I consider to be Dreamwork's best animted picture (Yeah that's right Shrek, I said it). The movie manages to have comedy that can not only appear to children, but also adults and teenagers. The story tells of a This movie is what I consider to be Dreamwork's best animted picture (Yeah that's right Shrek, I said it). The movie manages to have comedy that can not only appear to children, but also adults and teenagers. The story tells of a panda named Po that is a total Kung Fu nerd and is chosen to become the hero to save the land from the evil Tai Long. Everyone is shocked to see a fat panda picked, but Po refuses to give up. He shows that with perseverance and determination that anyone can come past their problems and become a hero. Kung Fu Panda features an incredible cast of voice actors including Jack Black, Dustin Hoffman, Agnelina Jolie, Lucy Lui, David Cross, Seth Rogen, and Jackie Chan. This movie is the most phenomenal animated film I've seen that is not from Pixar. I can't reccomend this movie enough to people of all ages.",
-            "review_date": "2008-12-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Very fun movie. Great themes and nicely animated.",
-            "review_date": "2008-06-17",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Frankly this movie was ridiculously good. The story was simple, but deep. The one huge question that seemed obvious was turned into a joke at the last minute, and the graphics were amazing. The blend of visual styles between traditional Frankly this movie was ridiculously good. The story was simple, but deep. The one huge question that seemed obvious was turned into a joke at the last minute, and the graphics were amazing. The blend of visual styles between traditional american cg movies and japanese anime made the movie lightning quick, to the point where it was near impossible to lose focus. The special effects were amazing, with the fire looking very lively while the dirt and dust merged perfectly with the environment it was put in, Dreamworks outdid themselves, and perhaps Pixar on this one, at least until Wall-E comes out next week.",
-            "review_date": "2008-06-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Chad S......i think you need to even out your medication mate, seriously are you alright? How the hell have you managed to see that much intrigue and conspiracy in one film? My favorite line is \"the panda bear...made even more intriguing by Chad S......i think you need to even out your medication mate, seriously are you alright? How the hell have you managed to see that much intrigue and conspiracy in one film? My favorite line is \"the panda bear...made even more intriguing by its black and white markings\" ITS A FECKING PANDA BEAR...thats there markings not a massive attempt to undermine a race....oh and the film was...meh, wait for the dvd.",
-            "review_date": "2008-06-21",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This was a really good movie to watch. It's really funny, so obviously lots of people would like. I'm one of those people. The story was quite interesting, and if you haven't seen it, it's good to watch with friends/family.",
-            "review_date": "2008-06-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Adorable, delightful action-comedy with panache. Why didn't anyone think to do martial arts with Warner Bros.-style cartoons before? Jack Black is amusing enough, but the real treat is the artistry and animation. I did not expect to Adorable, delightful action-comedy with panache. Why didn't anyone think to do martial arts with Warner Bros.-style cartoons before? Jack Black is amusing enough, but the real treat is the artistry and animation. I did not expect to love this movie.",
-            "review_date": "2008-06-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This was a good story for both adults and kids. I took my wife and 5 year old son to see this movie. We all enjoyed it. The movie started a little slow, but picked up pace once the Panda starting his training.",
-            "review_date": "2008-06-28",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "With the Jack Black style humor, fighting scenes and dreamworks FX, its hard not to like this movie. It gets a perfect 10 because I can't think of anything possibly wrong with it.",
-            "review_date": "2008-06-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie was action packed and hilarious! The humor in the movies was great and kept laughing until the very end. A great movie for all ages!",
-            "review_date": "2008-07-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie was excellent. The only thing that prevents me from giving it a 10 is that I don't know if it connected with my kids as much as it could have. They laughed throughout and we all had a great time but at the end I don't This movie was excellent. The only thing that prevents me from giving it a 10 is that I don't know if it connected with my kids as much as it could have. They laughed throughout and we all had a great time but at the end I don't know if they would list it among their all time favorites. I personally think that most of the 50-65 scores listed in the \"critics\" section show that these reviewers are either out of touch or have no sense of humor.",
-            "review_date": "2009-03-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "At 40 and with no kids (by choice!) my girlfriend and I don't tend to watch much of this sort of film. I remember enjoying the first Toy Story and one or two other animated features since, but I wasn't particularly expecting to get At 40 and with no kids (by choice!) my girlfriend and I don't tend to watch much of this sort of film. I remember enjoying the first Toy Story and one or two other animated features since, but I wasn't particularly expecting to get into this as much as I did. It's funny, charming, and genuinely gripping in places. The characterisation is first-rate (loved the Mantis in particular). I saw the film on Blu Ray and the visuals looked exceptional. All in all a really enjoyable film and not just for the kids. Recommended.",
-            "review_date": "2009-05-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It is worth to see this funny movie. You can relax and watch it with your family.",
-            "review_date": "2008-11-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "WALL-E is at least a 9, and so is Kung Fu Panda. I don't know why the score is low right now. This is not to be missed. do yourself a favor and watch it at 1080p res bluray etc. I'm hoping that score will go up when it releases on WALL-E is at least a 9, and so is Kung Fu Panda. I don't know why the score is low right now. This is not to be missed. do yourself a favor and watch it at 1080p res bluray etc. I'm hoping that score will go up when it releases on dvd and bluray in a couple weeks. a must see. I rarely give out 10s, im very picky, but this animation is my personal flavor. they did an amazing job. very much appreciated.",
-            "review_date": "2008-11-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It has been long since the first Shrek was released and dreamworks had a really innovative work, but finally things have changed... and the name is Kung Fu Panda! At first it doesn't seem any different from any other movies aimed at a It has been long since the first Shrek was released and dreamworks had a really innovative work, but finally things have changed... and the name is Kung Fu Panda! At first it doesn't seem any different from any other movies aimed at a younger audience, but after a closer look one can notice that this movie is more refined and have been morre cared for during production than the others. From the fur effects to the awesome matte paintings on the background everything is visually perfect and all of this is backed by an outstanding sound design that ranges from epic tracks to a beautiful and realistic lipsync to the voices of an \"A Rank\" cast. This is the Panda you have been looking to adopt, protect and have fun with!",
-            "review_date": "2008-11-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I saw a pre-screening of this film a week ago, and absolutely loved it! Not only are all of the voice actors perfectly matched with their cgi characters, but the script is great, the action is fast paced, and the graphics are extremely well I saw a pre-screening of this film a week ago, and absolutely loved it! Not only are all of the voice actors perfectly matched with their cgi characters, but the script is great, the action is fast paced, and the graphics are extremely well done. I'd say it is at least on par with DreamWorks' best cgi film thus far (Shrek), and is near the lofty caliber of Pixar films. (For a reference point: ",
-            "review_date": "2008-05-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The very definition of mediocrity.",
-            "review_date": "2008-06-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Fantastic action scenes and Jack Black knocks the ball out of the park. Hilarious to boot.",
-            "review_date": "2008-06-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Kung Fu Panda is awesome. The action scenes are great. Jack Black will make you laugh your head off. So if your worried that just because this is kids movie that it will be as bad as can be rest assured that Kung Fu Panda will blow you away.",
-            "review_date": "2008-06-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Great movie. The fight scenes... outstanding!.",
-            "review_date": "2008-06-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "There are only two conceivable reasons that I can see for NOT liking this movie: 1) You don't like Jack Black. That's okay, some people (a small minority) just don't like him! Then stop hating on this movie, because Jack Black There are only two conceivable reasons that I can see for NOT liking this movie: 1) You don't like Jack Black. That's okay, some people (a small minority) just don't like him! Then stop hating on this movie, because Jack Black fans are most likely to enjoy it most. 2) You think that it's \"formulated\" somehow, or that it has too many \"cliches\". My response to that is: you can't \"formulate\" good humor. This movie is one of Dreamwork's best, because the animation and voice acting work in perfect harmony. The casting for this movie was absolutely spot-on, and the script is quite fine by me. The magic of this movie relies much, but not entirely, on Jack Black's humor, so I stand by my assertion: If you like Jack Black, this movie will be perfect for you.",
-            "review_date": "2009-04-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "An extraordinary romp the the world of anthropomorphic ancient China. Kung Fu Panda is helped along by inspired voice-acting by Ian McShane, Dustin Hoffman, Randall Duk Kim, and most surprisingly, Jack Black. Also, The film's soundtrack An extraordinary romp the the world of anthropomorphic ancient China. Kung Fu Panda is helped along by inspired voice-acting by Ian McShane, Dustin Hoffman, Randall Duk Kim, and most surprisingly, Jack Black. Also, The film's soundtrack is beautiful; the animation, awe-inspiring; the characters, well rounded; the jokes, hilarious; the set-design, beyond belief. Everything about Panda has been refined to its most highly perfected form and then put on display for all to enjoy. I have spent the last ten minutes trying to think of some criticism for this masterpiece, and nothing comes to mind. Now I think I'll go watch it again... I finished watching it not half an hour ago.",
-            "review_date": "2009-06-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Kung Fu Panda may have a simple story and some characters who aren\u2019t given much development but that does not make this bad movie by any means. Kung Fu Panda is the best Dreamworks film, one made on their own, since Shrek 2. This film tradesKung Fu Panda may have a simple story and some characters who aren\u2019t given much development but that does not make this bad movie by any means. Kung Fu Panda is the best Dreamworks film, one made on their own, since Shrek 2. This film trades in excessive pop culture humor, which was getting a tad annoying in such films as Bee Movie and replaces it with heart, a good message (along with a clever way of explaining it), and occasional slapstic. Also, the film has likeable characters and excellent animation. It is very clear that the filmmakers really cared about turning around a great product and they did. This film is definitely worth checking out. Kids will love it immediately and older kids and adults will enjoy it as well for the reasons I just stated above. This film may seem like a generic Dreamworks film but it is miles ahead of most of their stuff by actually being entertaining. For so long Dreamworks has failed to turn out something highly entertaining relying heavily on gimics and Aardman, who they chose to let go, to keep their movies afloat. This movie is a breaf of fresh air and a major turnaround for a company that had lost some steam critically following the Shrek movies. Again this film is definitely worth checking out. To Dreamworks all I have to say is this keep it up I look forward to seeing more good products from you especially the team involved on this film. This movie isn\u2019t Pixar quality but that doesn\u2019t stop it from being fun and entertaining",
-            "review_date": "2014-02-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This film was a stunning move by Dreamworks, rating among the top animated films of all time alongside Pixar in my opinion. The animation is breathtaking, the action superb (it is a rare feat for animated films to provide adrenaline-rushingThis film was a stunning move by Dreamworks, rating among the top animated films of all time alongside Pixar in my opinion. The animation is breathtaking, the action superb (it is a rare feat for animated films to provide adrenaline-rushing action sequences) and the story, although carrying a familiar moral message, is simple but sweet. If Dreamworks can continue to brighten the film industry with fun, awesome films such as this, then Pixar had better watch out!",
-            "review_date": "2010-10-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Funny, entertaining. Long story short, it had the lot.",
-            "review_date": "2011-02-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Easily one of the best animated pictures of recent times with excellent voice talent, a solid and touching script, and a main character that we all can relate to. The film is also beautifully scored by Hans Zimmer, and at many times, theEasily one of the best animated pictures of recent times with excellent voice talent, a solid and touching script, and a main character that we all can relate to. The film is also beautifully scored by Hans Zimmer, and at many times, the score drives the emotional and energetic levity. One of my favorites!",
-            "review_date": "2011-06-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Kung Fu Panda is not an average kung fu film. It's great and unique. It also teaches great morals to those just starting on their path, a main one being to believe in your dreams.",
-            "review_date": "2011-05-31",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "\"Kung Fu Panda\" - 1 Line(ish) review! B+!Very cool animation style, good for kids and \"adults\", Jack Black is great - some of the other high priced \"voice talent\" seemed a bit of a waste though. And I don't know how I feel about people\"Kung Fu Panda\" - 1 Line(ish) review! B+!Very cool animation style, good for kids and \"adults\", Jack Black is great - some of the other high priced \"voice talent\" seemed a bit of a waste though. And I don't know how I feel about people saying that Po reminds them of me...http://www.rottentomatoes.com/m/kung_fu_panda/",
-            "review_date": "2011-12-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie was very interesting for me.The main character is very unique character. At the end of this movie , He became very strong , but he was also fan.",
-            "review_date": "2011-08-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is the best comedy movie. Well animated, well taken, great action and awesome characters. Po is destined to be the dragon warrior but why can't his dad visit him.",
-            "review_date": "2011-09-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "it will take forever to find the flaws in this movie: there are none. the action is so spectacular, that it seems impossible to do by humans. that is where animation truly shines.",
-            "review_date": "2011-09-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Wonderful movie, promises a great start to a whole series of movies of Kung Fu Panda. (Unfortunately, I recently found out after watching Kung Fu Panda 2 that they are partnering with the Nickelodeon Channel to make a Kung Fu Panda TV Series.Wonderful movie, promises a great start to a whole series of movies of Kung Fu Panda. (Unfortunately, I recently found out after watching Kung Fu Panda 2 that they are partnering with the Nickelodeon Channel to make a Kung Fu Panda TV Series. It is quite disappointing.) Always will be a family classic. It portrays great messages, like self-discovery, strength and faith.",
-            "review_date": "2011-12-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of DreamWorks better animations with great premise and animation and good humour.",
-            "review_date": "2019-04-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This would be a 9.25 out of 10. Animation is really good. It looks pretty cool. Acting is real good. Music and story are really good as well. It also has really good action scenes, and is sometimes real funny. Overall, this is a great film.This would be a 9.25 out of 10. Animation is really good. It looks pretty cool. Acting is real good. Music and story are really good as well. It also has really good action scenes, and is sometimes real funny. Overall, this is a great film. You and your family should go and see it.",
-            "review_date": "2012-04-01",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Kung Fu Panda is easily one of the best Dreamwork movie. It haves a great plot and a well animation. It haves even funny moments. Overall is a peaceful and extreme movie. Worth watching. (9.4)",
-            "review_date": "2012-05-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I quite enjoyed \"Kung Fu Panda\". It has lots of funny scenes and great Kung Fu animations. But the plot is predictable  that's the weakness. It lacks surprises but it's definitely recommended for kids.",
-            "review_date": "2013-11-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The animation wears its age in a couple of shots here and there, but on the whole, \"Kung Fu Panda\" is definitely a movie I regret missing back in 2008. The set pieces are extremely well-designed, with all of the frenetic, lyrical actionThe animation wears its age in a couple of shots here and there, but on the whole, \"Kung Fu Panda\" is definitely a movie I regret missing back in 2008. The set pieces are extremely well-designed, with all of the frenetic, lyrical action taking place within a number of creative locations and under a few tricky circumstances. The performances are about what you'd expect, with a good 90% of the entertainment coming from Jack Black's lead turn as Po. Dustin Hoffman, however, is given a lot to work with as well, with a few moments from his character even inspiring some real emotional depth and pathos. The thematics are tried and true, but earnest enough, ultimately rounding off and putting a bow on a pleasant experience overall.",
-            "review_date": "2020-09-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A fabulous coming of age tale of an overweight panda (Jack Black) who meets his idols, the Furious Five, kung-fu masters. Angelina Jolie, Lucy Liu and David Cross are among the cast, joined by Dustin Hoffman as Master Shifu.",
-            "review_date": "2013-03-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Dreamwork's Animation's continuation of different animals talking to each other, while doing unusual things that the animal species usually does not do still bothers me, but has little to affect this film. While \"Kung Fu Panda\" may feel a bitDreamwork's Animation's continuation of different animals talking to each other, while doing unusual things that the animal species usually does not do still bothers me, but has little to affect this film. While \"Kung Fu Panda\" may feel a bit cliche and developed to mainly kids, it still brings a huge number of laughs and is fun to watch. Kung Fu Panda also suffers with the fact that it feels done before, just kid-fied and with animals (it reminded me alot of Karate Kid). The universe is odd  animals fighting each other and wearing clothes?. While it's an odd premise and a simple one at that, it's still funny and will leave you and your kids to laugh (especially your kids).",
-            "review_date": "2013-07-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A great family movie, as well as engaging as a story itself, Kung Fu Panda is well-executed, has great animation, and features beautiful shots of gardens, palaces, and mountains in China.",
-            "review_date": "2014-03-01",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I shouldn't say that this was a bad movie, because it wasn't. Although, the beginning was hard to watch, but it got a lot better, with the comedy I've come to love about the whole movie.",
-            "review_date": "2013-11-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Where DreamWorks films tend to have pretty simple stories, pop-culture references, and silly elements, \"Kung Fu Panda\" has plenty of humorous moments, but it strives to be more story-based and \"Pixar-like\" than your average DreamWorks fare.Where DreamWorks films tend to have pretty simple stories, pop-culture references, and silly elements, \"Kung Fu Panda\" has plenty of humorous moments, but it strives to be more story-based and \"Pixar-like\" than your average DreamWorks fare. The result? One of the company's finest films yet. Humor, action, a great story, fantastic voice-work, beautiful animation, fantastic characters (including one of the best protagonists in an animated film), and a wonderfully-told story, \"Kung Fu Panda\" is a brilliant animated film that should be viewed by everyone. Regardless of your age, everyone should find something to like about \"Kung Fu Panda.\"",
-            "review_date": "2016-11-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Kung Fu Panda is spectacular.\rThe movie from start to finish works with the very enjoyable personalities of its characters. The animation is good, the pacing is perfect, and the screenplay is dynamic.",
-            "review_date": "2013-11-13",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "In an animated film about a fat, bumbling panda, you'd expect it to be there to entertain the kiddies and that would be that. Oh my, you are so wrong. Kung Fu Panda boasts impressive visuals and animations, an excellent cast lead by the oh soIn an animated film about a fat, bumbling panda, you'd expect it to be there to entertain the kiddies and that would be that. Oh my, you are so wrong. Kung Fu Panda boasts impressive visuals and animations, an excellent cast lead by the oh so hilarious Jack Black (who really seems like he has a lot of fun with the role), a formulatic but entertaining story, and a threatening but humourous villain in Tai Lung. It's one of my favourite, if not my MOST favourite Dreamworks film. If you haven't seen it by now, you're sorely missing out. While everybody was kung fu fighting, where were you?",
-            "review_date": "2016-02-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Kung Fu Panda, along with other animated films, is one of my favorite summer entertainment ever! Jack Black does well with his likable character, Po. The rest of the voice actors is also great and the animation is stunning. Another thrillingKung Fu Panda, along with other animated films, is one of my favorite summer entertainment ever! Jack Black does well with his likable character, Po. The rest of the voice actors is also great and the animation is stunning. Another thrilling DreamWorks movie :)",
-            "review_date": "2014-07-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It's great, the title felt kinda' misleading, and I thought it wasn't going to be that great, but I was surprised with what I was given, I think this film is probably one Jack Black's most memorable roles. The film is a lot of fun with greatIt's great, the title felt kinda' misleading, and I thought it wasn't going to be that great, but I was surprised with what I was given, I think this film is probably one Jack Black's most memorable roles. The film is a lot of fun with great animation, and cool characters.",
-            "review_date": "2014-10-13",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I love this film. the animation is gorgeous, the fight scenes are excellently choreographed and the characters are really likeable made better by a great all star cast. the story is well written and was incredibly engaging and while it hadI love this film. the animation is gorgeous, the fight scenes are excellently choreographed and the characters are really likeable made better by a great all star cast. the story is well written and was incredibly engaging and while it had good emotion it injected some genuinely funny comedy that wasn't completely out of place with Martial art Mythology. Jack black has never been better seriously see this.",
-            "review_date": "2014-12-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Outrageously entertaining! Jack Black, along with the rest of the voice cast, does an incredible job of making us believe that these animals are actually part of a kung fu team. I loved this movie from beginning to end. The witty humor, theOutrageously entertaining! Jack Black, along with the rest of the voice cast, does an incredible job of making us believe that these animals are actually part of a kung fu team. I loved this movie from beginning to end. The witty humor, the hidden adult humor, the fight sequences, the visuals, and the storytelling, are all small parts that come together to make this movie one to remember. Dreamworks has definitely hit it's mark in super-stardom. Common sense has just been kicked into me and I am ready for so much more. This movie is just not enough. Kung Fu Panda is incredible!!!",
-            "review_date": "2015-03-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I miss the animation movies from my time. This is not fun, this is something that I would like to do when I can't sleep. A Kung Fu Panda, not my cup of tea",
-            "review_date": "2015-04-17",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Fun and nice movie for everyone. Good animation, good voice actors, don't know how come I only watched now.",
-            "review_date": "2022-12-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Kung Fu Panda an overflowing film of pure comedy and action, leaving flow the story of a fat, lazy panda which in turn becomes the warrior kung fu, such reason that DreamWorks Animation did not want to continue to surprise removed until today.",
-            "review_date": "2015-12-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Overall, I did enjoy Kung Fu Panda, but I don't put it up there with Dreamworks' best. Apart from Po and Shifu(and possibly the film's villain, splendidly voiced by Ian McShane) the film is lacking in its character development, while theOverall, I did enjoy Kung Fu Panda, but I don't put it up there with Dreamworks' best. Apart from Po and Shifu(and possibly the film's villain, splendidly voiced by Ian McShane) the film is lacking in its character development, while the story while well constructed, original and fresh has its predictable parts and the message is a little over-familiar. However, when it comes to the visuals, there is nothing to fault, the whole film with its gorgeous colours and backgrounds looks wonderful. The score is excellent as well, and I can see that there was care to make it sound authentic. The script is witty, funny and smart, the pace is bright and breezy and the voice acting is solid across the board- Dustin Hoffmann is perfectly cast while Jack Black does a great job voicing one of his more likable characters. In conclusion, very entertaining film, but it didn't wow me completely. 7/10 Bethany Cox",
-            "review_date": "2022-03-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Even if the title sounds silly, Kung Fu Panda is a film that actually enters the \" Dont judge by his appearance\", and really really works. The action is very good , the comedy is hilarious and the backgrounds are very realistic and wonderful.Even if the title sounds silly, Kung Fu Panda is a film that actually enters the \" Dont judge by his appearance\", and really really works. The action is very good , the comedy is hilarious and the backgrounds are very realistic and wonderful. The characters are nice and the soundtrack by Hans Zimmer and John Powell is amazing . Kung Fu Panda is a fantastic choice to see in family.",
-            "review_date": "2016-01-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "it is a nice good underdog story,the martial arts are great and the movie is amazzzzzzizinnnnnnnnnnnnnnnnngngngggggggggggggggggggggggggggg. yay I am done being over the top.",
-            "review_date": "2015-12-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is definitely a great movie. I love the story, it's very clear and interesting. The graphics were great so it has visual impact to viewers. Definitely, one of Dreamworks' best...........",
-            "review_date": "2016-04-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "With Kung Fu Panda 3 coming in, it's only the best time to review the first two movies ending with the first because it's my choice. As beautiful as ever, Kung Fu Panda brings you the power of kung fu and animation from DreamWorks Animation.",
-            "review_date": "2016-01-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is the start to one of the greatest animated trilogys of all time. The story is great, which follows a panda who is just trying his best to become what he is believed to be. The action, humor, and overall story is one of dreamworksThis is the start to one of the greatest animated trilogys of all time. The story is great, which follows a panda who is just trying his best to become what he is believed to be. The action, humor, and overall story is one of dreamworks greatest accomplishes.",
-            "review_date": "2016-03-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A fat Po Panda want to be a kung fu.\r Well he eat a lot.\r So Master Shifu use that to train Po.\r This funny & good movie.\r Jack Black did good voice for Po.\r Working at noodle place.",
-            "review_date": "2016-02-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Kung Fu Panda is funny, warm, action-packed and it brings a familiar massage for have fun and be engaged with those unforgettable characters, talented cast, inventive story-telling and an ancestral mythical history.",
-            "review_date": "2016-03-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of best Dreamworks hits. The typical story of a clumsy, daydreamer who became, with unseen skills and job, the hero of the day, works as well with awesome martail arts coreographics and well fit jokes. For enjoy with the kids. Say no toOne of best Dreamworks hits. The typical story of a clumsy, daydreamer who became, with unseen skills and job, the hero of the day, works as well with awesome martail arts coreographics and well fit jokes. For enjoy with the kids. Say no to imitations.",
-            "review_date": "2018-09-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I've heard so much about this film, about how could I possibly had not seen it yet, that it was so good and one if not the finest dreamworks work. I finally watched it and... it is good, funny, inventive at times, well animated and with aI've heard so much about this film, about how could I possibly had not seen it yet, that it was so good and one if not the finest dreamworks work. I finally watched it and... it is good, funny, inventive at times, well animated and with a solid message. On the other hand, it is nothing revolutionary and nothing I have not seen before. All in all, an enjoyable time and a fun movie.",
-            "review_date": "2018-08-10",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I liked it a lot. The characters were very well made. They had great voice actors, animation, and they were interesting. The story was very fun. They had a good villain, and everything was able to fit together easily. I recommend it.",
-            "review_date": "2018-01-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This hilarious parody of the \"Chosen One\" story spawned my favorite movie franchise of all time. Jack Black stars as the lovable Po, a big fat bumbling goof of a panda. His passion for Kung Fu caused him to \"accidentally\" stumble into theThis hilarious parody of the \"Chosen One\" story spawned my favorite movie franchise of all time. Jack Black stars as the lovable Po, a big fat bumbling goof of a panda. His passion for Kung Fu caused him to \"accidentally\" stumble into the role of the Dragon Warrior, and now it was up to him to fulfill the duties that come with it.The animation is spectacular. The character designs are unique and their movements are quite fluid. The settings and landscapes are vibrant and reflect perfectly where the movie takes place. The action scenes are exciting and creative as the characters use the environment and the object in it to their advantage.The humor is top-notch as everyone fits their roles perfectly. Jack Black delivers his lines in the most Jack Black-ish way he possibly can, really making Po come to life on screen. The way this movie spoofs various martial arts movie tropes while also taking itself seriously is outrageously funny. You definitely won't be leaving without busting a gut at least once.Everything in this movie was done amazingly, and it was a fantastic start to one of DreamWorks' most beloved series.",
-            "review_date": "2017-04-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It's just a very fun movie, and Po is a very unique character. Making a random character become a kung fu master shouldn't work, but it did. And Po learns his own way in his journey. The movie's story is a bit \"loose\", but every character isIt's just a very fun movie, and Po is a very unique character. Making a random character become a kung fu master shouldn't work, but it did. And Po learns his own way in his journey. The movie's story is a bit \"loose\", but every character is good and plays its part on the movie.",
-            "review_date": "2022-03-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie is fantastic. The other reviewers, I dont believe are grateful to the amount detail the people at DreamWorks have put into this film. Looking back on this in 2017, this film is Truly beautiful and faithfull to Chinese Culture,This movie is fantastic. The other reviewers, I dont believe are grateful to the amount detail the people at DreamWorks have put into this film. Looking back on this in 2017, this film is Truly beautiful and faithfull to Chinese Culture, Architecture and Music. I find this story to be very heartwarming and executed in a really, really funny way. The Panda of course, is a huggable, funny, character who I feel I somehow connect with. The other characters are extremely interesting and always convey a sense of mystery which really made me want to know more about this universe. The music is stunning which isn't suprising considering it was created by Hans Zimmer and John Powel. The main theme, known as 'Oogway Ascends' is absolutly beautiful and is in my opinion one of the greatest. The Story is fun and exhilarating with a deep meaning. And Overall find this Brilliant film one of my all time favourites.This Film, in my opinion, is one of DreamWorks most spectacular creations and I feel this film is underrated. And should rightfully acheive more attention.After watching this film, mark my words, you will be thinking of it for at least 3 days. It is one of my favourites.",
-            "review_date": "2017-12-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Dont think to hard about the plot and you will love this movie. Amazing action scenes, good humor and incredible story telling",
-            "review_date": "2018-03-19",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 136
+  "title": "Kung Fu Panda",
+  "rating": 8.3,
+  "release_date": "2008-06-06",
+  "summary": "Enthusiastic, big and a little clumsy, Po is the biggest fan of Kung Fu around…which doesn’t exactly come in handy while working every day in his family’s noodle shop. Unexpectedly chosen to fulfill an ancient prophecy, Po’s dreams become reality when he joins the world of Kung Fu and studies alongside his idols—the legendary fightersEnthusiastic, big and a little clumsy, Po is the biggest fan of Kung Fu around…which doesn’t exactly come in handy while working every day in his family’s noodle shop. Unexpectedly chosen to fulfill an ancient prophecy, Po’s dreams become reality when he joins the world of Kung Fu and studies alongside his idols—the legendary fighters Tigress, Crane, Mantis, Viper and Monkey—under the leadership of their guru, Master Shifu.  But before they know it, the vengeful and treacherous snow leopard Tai Lung is headed their way, and it’s up to Po to defend everyone from the oncoming threat. Can he turn his dreams of becoming a Kung Fu master into reality? Po puts his heart-and his girth-into the task, and the unlikely hero ultimately finds that his greatest weaknesses turn out to be his greatest strengths. [Dreamworks]… Expand",
+  "critic_reviews": [
+    "Light and goofy, yet the fight scenes, which are the heart of the film, are lickety-split mad fun.",
+    "Yet another celebrity-voiced animal adventure, but it stands out from the crowd of similar films with its lightning wit and whirlwind brio.",
+    "The stroke of genius is, of course, the film's hero -- the big, lovable bear that is the Chinese panda.",
+    "Infectious and inspiring, despite one's best efforts to resist its charms.",
+    "At once fuzzy-wuzzy and industrial strength, the tacky-sounding Kung Fu Panda is high concept with a heart.",
+    "The new picture provides a master coursed in cunning visual art and ultra-satisfying entertainment.",
+    "Everything about Kung Fu Panda is a little better, a little sharper, a little funnier than the animated run of the mill.",
+    "The voice cast includes Angelina Jolie as a tigress, omnipresent Seth Rogen as an acupuncturist who's a praying mantis, David Cross as a nasal crane and Lucy Liu as a cheerful viper.",
+    "The stunning set pieces take full advantage of animation’s unique mastery over time and space, so that we don’t just watch the characters’ daredevil exploits – we’re spinning and whirling right along with them. It’s as if we’ve mastered space and time ourselves.",
+    "It's not an instant classic, but it's imaginatively drawn, full of charming characters, alive with action sequences and blissfully free of the snickering scatology and endless pop-culture references.",
+    "The animation is consistently sporty and there are some choice comic riffs on martial arts movies.",
+    "Rudimentary plot and merely decent gags aside, this is the finest DreamWorks Animation effort since the first Shrek, chiefly because of its astonishing visuals and kinetic kung fu sequences.",
+    "The animation is first-rate, and the settings and background are appropriately exotic. The fights are a lot more exciting than you would think.  And if the story is somewhat predictable (and the final blow somewhat difficult to fathom), one could find lesser heroes to root for than Po, although none more unlikely.",
+    "If you're a martial arts/action movie fan in particular, much of the action in the film will leave you very satisfied. There's a prison escape sequence that is jaw-droppingly cool.",
+    "This is a solid family film material, although one suspects the children will get a little more out of it than their parents.",
+    "Not one of the great recent animated films. The story is way too predictable, and truth to tell, Po himself didn't overwhelm me with his charisma. But it's elegantly drawn, the action sequences are packed with energy, and it's short enough that older viewers will be forgiving.",
+    "Thanks to a witty script and the recognizably goofy but absolutely earnest delivery of Black, Kung Fu Panda has a human soul, too.",
+    "It was definitely a great idea to give Kung Fu Panda the IMAX treatment. The fight scenes, quivering whiskers and moist noses, foggy mountaintops, and fluttering peach blossoms are equally impressive on the huge, curved screen.",
+    "Beautifully animated, the celebrity voice performances are terrific, and the action sequences negotiate the fine line between being physically convincing and becoming too intense for the young children.",
+    "I'm going to go out on a limb here and say that this is probably the best movie so far this year about a kung-fu fighting panda.",
+    "This movie leaves 'em laughing - and gasping.",
+    "It's the overriding spirit of the movie that forms its greatest appeal: Here's a movie that isn't intent on conquering the world but simply entertaining you for a breezy 90 minutes.",
+    "Po speaks loudly and carries big shtick. Let the rest of the world cringe at our hyperconfidence, our charisma, our pure awesomeness.",
+    "The result is a genuinely pleasing kung fu movie that kids and grown-ups can enjoy.",
+    "Perfectly pleasant, very good-looking, modestly funny, dispiritingly unoriginal variant on the nerd-with-a-dream recipe that's been clobbered to death in animated films for at least a decade now.",
+    "The action, heavily influenced by Hong Kong martial arts films, is beautifully choreographed.",
+    "The essence of the film is slapsticky, chopsocky action, rendered with great verve and accompanied by bromides having to do with the need to believe.",
+    "Tongue-in-cheek dialogue, inventive slapstick and fight sequences, and luminous production design make this a treat.",
+    "Po (Black) may be an animated panda bear, but make no mistake: Deep down he's really just a nerd with a pop-culture obsession.",
+    "The film lacks the comic ingenuity of the best in CGI critter movies. It's not fun-for-the-whole-family, like \"Shrek.\" Still, it's a howl and amazement for anyone under 12.",
+    "Kung Fu Panda goes nowhere surprising even as its images unscroll handsomely before our eyes. The sound could go out in the theater, and you wouldn't ask for your money back.",
+    "Though the film's simple story is squarely aimed at tots, DreamWorks' digitizers have referenced Eastern visual styles -- everything from delicate Chinese screens to flashy Japanese anime -- to enliven the look of the film.",
+    "This is an unashamedly old-fashioned children's movie, and a predictable message is part of the mission. But that's okay; what the movie lacks in surprises, it makes up for in whimsical fun.",
+    "A nice looking but heavily formulaic DreamWorks animation entry.",
+    "Though occasionally visually inventive, Kung Fu Panda is a disappointment when it comes to matters of simple black and white: the script.",
+    "It's impressive enough to look at, and the voice talent – especially Black and Hoffman - doesn't disappoint, but all the CGI wankery and high-end talent only barely allows Kung Fu Panda to rise above cliché."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "This is definitely a great movie. I love the story, it's very clear and interesting. The graphics were great so it has visual impact to viewers. Definitely, one of Dreamworks' best...........",
+      "review_date": "2012-05-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "All I can say was that it was alright. Not bad, of course, but nothing special. It was short and had a very simply laid out beginning, middle, and end. Certain parts were dragged out a bit more than necessary and others were over quicker All I can say was that it was alright. Not bad, of course, but nothing special. It was short and had a very simply laid out beginning, middle, and end. Certain parts were dragged out a bit more than necessary and others were over quicker than they should have been, like the solution to the mystery of the Dragon Scroll. It was just completely unprompted and almost awkwardly shoved into a scene in the movie where it didn't really fit. Jack Black (beside the animation itself)is really the only phenomenal part of film. His personality really adds to the character and makes him likable, relatable, and ultimately enjoyable. I'd recommend it for viewers with younger children. Other than that, I'd rent when it comes out on video.",
+      "review_date": "2008-06-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I really had high hopes for this movie, especially when I heard Jack Black and Jackie Chan were in it. Unfortunately, I was really disappointed with the movie. With the exception of Po and Shifu, all the characters, especially the furiousI really had high hopes for this movie, especially when I heard Jack Black and Jackie Chan were in it. Unfortunately, I was really disappointed with the movie. With the exception of Po and Shifu, all the characters, especially the furious five, were one-dimensional. Lame plot, and I barely got to hear Jackie Chan! And now they're making a sequel? DreamWorks, unless you make this sequel your \"Dark Knight\", you won't be seeing me watching Kung Fu Panda 2.",
+      "review_date": "2010-10-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The greatest movie of all the time. And the best trinity of all the time. You definitely must watch Kung Fu Panda movies.",
+      "review_date": "2019-01-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of dreamwork's best. I got a karate kid feel from this. Jack Black was perfect for this role. I was laughing alot also. its a perfect family movie",
+      "review_date": "2010-11-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Recently, Dreamworks has been working hard to improve their story and dialogue, and they did use their time wisely. Their animation \"Kung Fu Panda\" blows it all, from comedy to action, like a boss.",
+      "review_date": "2011-10-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Kung Fu Panda has great visuals, but the real reason for Kung Fu Panda being so awesome is that the story is great and Po the panda is among the best animated characters ever.",
+      "review_date": "2011-11-13",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A very worthy addition to the animation world. Great voice acting and a unique cast of characters. Especially the female tiger, which I thought was a piece of art. Cartoonist yet highly stylized. The turtle was pretty cool too. Add in some A very worthy addition to the animation world. Great voice acting and a unique cast of characters. Especially the female tiger, which I thought was a piece of art. Cartoonist yet highly stylized. The turtle was pretty cool too. Add in some humor, a lovable unorthodox underdog hero, and a some beautifully animated fight sequences featuring a worthy villain with some neon colored special effects and you got yourself a very eye popping and attention grabbing movie. I'll rate Wall-E as the deeper more insightful thought-provoking movie while Kung Fu Panda is the more playful/humorous 'sit back, turn off the brain, and enjoy' film.",
+      "review_date": "2008-11-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Another solid movie from Dreamworks, the animation doesn't seem to age (at least not as much as Madagascar), the jokes are mostly great, the voice acting is fantastic and the story seems to work very well. It's better than Madagascar, but notAnother solid movie from Dreamworks, the animation doesn't seem to age (at least not as much as Madagascar), the jokes are mostly great, the voice acting is fantastic and the story seems to work very well. It's better than Madagascar, but not quite as good as the likes of Shrek (the first 2) or How To Train Your Dragon. A very awesome film nonetheless.",
+      "review_date": "2011-12-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "After seeing the cutesy \"Over The Hedge\" and a beediocre disappointing \"Bee Movie\", I rolled my eyes when I met an action flick known as \"Kung Fu Panda\" and I enjoyed it.The storyline was well-paced and it had a creative atmosphere thatAfter seeing the cutesy \"Over The Hedge\" and a beediocre disappointing \"Bee Movie\", I rolled my eyes when I met an action flick known as \"Kung Fu Panda\" and I enjoyed it.The storyline was well-paced and it had a creative atmosphere that lies in the very existence of kung fu and has done anything to get some things done. It had some very emotional moments with gave this movie a heart to the original story.The cinematography was magnificent when it comes to make a wonderful cast to play their rightful voices for the characters. Jack Black and Dustin Hoffman made an awesome mix of Po and Master Shifu because of their own personalities, different expositions, and their only chances of becoming friends to one another near the end of the movie. Ian Mcshane's performance as Tai Lung was amazing and his frightening presence gave me the shivers. James Hong as Po's father (who obviously played Chi Fu in Disney's Mulan) was very entertaining. The cast of the Furious Five were very good and they were given a little bit of screen time and were developed near the end of the movie which makes Angelina Jolie, David Cross, Seth Rogen, Lucy Liu, and Jackie Chan very memorable in this animated feature film.The CGI animation is very amazing and somehow beautiful in most animated feature films, The characters were very likable and memorable that even ex-Disney animators would find them entertaining, the comedy was hilarious with Po's moments and the sets stayed very true to the Chinese culture. The action scenes were very intense and very unique which makes this movie the first CGI cartoon to have action sequences.The music score by Hans Zimmer (The Lion King, The Road to El Dorado) and John Powell (in other Dreamworks Animation features) was very memorable and a lot of emotion to it to describe the characters feelings and the academy awards proved it.The only problem that I do have with this movie was the clunky plot/script and not only that. It was too predictable.Kung Fu Panda may not be a masterpiece, but it's a surprisingly good animated kung fu flick. It made $631 million dollars at the box office and it was as epic as Disney's The Lion King.9/10",
+      "review_date": "2011-09-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Warm, touching, and fruitful script, coupled with amazing animation technique, make this kung fu parody funny and entertaining. Excellent voice choices, in particular Jack Black, and, surprising, a lack of the common corny plot lines inWarm, touching, and fruitful script, coupled with amazing animation technique, make this kung fu parody funny and entertaining. Excellent voice choices, in particular Jack Black, and, surprising, a lack of the common corny plot lines in regular animation. Loved it since it came out.",
+      "review_date": "2013-11-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "They're animals, not people; but \"Kung Fu Panda\" take place in China, and the animals are voiced by both, American and Asian-American actors. Viper(Lucy Liu) and Monkey(Jackie Chan) are Chinese, but Tigress(Angelina Jolie) and They're animals, not people; but \"Kung Fu Panda\" take place in China, and the animals are voiced by both, American and Asian-American actors. Viper(Lucy Liu) and Monkey(Jackie Chan) are Chinese, but Tigress(Angelina Jolie) and Mantis(David Cross) are pretending to be Chinese, like David Carradine in \"Kung Fu\". The panda bear, the animal most iconographical to Mainland China, is part of the covert yellow-face minstrel act, too, made even more intriguing by its black and white markings. Po(Jack Black) is a kung fu fan like Taimak in Berry Gordy's \"The Last Dragon\", who was black, and a kung fu master like Cane, in the aforementioned series that was originally planned to be a star vehicle for Bruce Lee; needless to say, Carradine was white. In a film with Jackie Chan, the closest thing we have to the late Lee, it's interesting to mention that the Anglo-American actor gets to read the ancient prophecy, and not somebody of actual Asian descent.",
+      "review_date": "2008-06-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Mediocre. I was bored by this movie, really. So cliché!...",
+      "review_date": "2009-03-09",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Mediocre at best.",
+      "review_date": "2008-11-21",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Typical Dreamworks animation fare - formulaic, unoriginal, uninspired. Don't waste your money.",
+      "review_date": "2008-06-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The previews looked funny, but I initially hesitated to watch it because the last few Jack Black movies were disappointments. Well, you can add this one to the list. There are a few laughs, but most of the jokes aren't funny. And the The previews looked funny, but I initially hesitated to watch it because the last few Jack Black movies were disappointments. Well, you can add this one to the list. There are a few laughs, but most of the jokes aren't funny. And the drama is something we've already seen in better movies by Pixar (and probably by Dreamworks as well).",
+      "review_date": "2008-06-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Wonderful humor, Amazing creativity, Awesome movie.",
+      "review_date": "2008-06-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A fun movie for the whole family (sounds cliche, but really applies for this flick). The animation is great, and it actually gets some good consistent laughs in throughout the duration. It seemed a little short to some, but I got a kick out A fun movie for the whole family (sounds cliche, but really applies for this flick). The animation is great, and it actually gets some good consistent laughs in throughout the duration. It seemed a little short to some, but I got a kick out of it. Take your kids and you won't have a bad time yourself.",
+      "review_date": "2008-06-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I was pleasantly surprised by this movie.I was outvoted,so I went expecting over the topedness{sic} from the voice of Jack .B.He was, but in a good way.The nearly painted animation was done well very crisp,and fluid.",
+      "review_date": "2008-06-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Very Funny! The main character had depth and was very entertaining. A must see!",
+      "review_date": "2008-06-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Solid flick for everyone of all ages.",
+      "review_date": "2008-06-09",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Such an enjoyable film to watch with a great cast backing it up. Perfect film to watch with the family or if your just in the mood for a laugh.",
+      "review_date": "2008-07-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is a very good movie: it's funny and has a compelling plot. The characters are all very likable and I think kids would like it a lot. It definitely isn't just another cookie cutter animated movie about talking animals and does This is a very good movie: it's funny and has a compelling plot. The characters are all very likable and I think kids would like it a lot. It definitely isn't just another cookie cutter animated movie about talking animals and does some fairly original things.",
+      "review_date": "2008-06-10",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Hysterical, probably my favorite animation movie ever.",
+      "review_date": "2008-06-13",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I was not going to even write anything about this but wow Chad S., get a life!! I have no clue what all that rambling was about. Needless to say, this was a fun movie to go to and watch.",
+      "review_date": "2008-06-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It is simply one of those movies people should see if not to simply let go of the seriousness of modern-day plots. It is light-hearted, funny, and action-packed.",
+      "review_date": "2008-06-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Shallow, silly and absolutely irresistibly funny!",
+      "review_date": "2008-06-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Very enjoyable movie for both kids and adults. A simply movie formula done extremely well. The fight scenes were surprisingly good as well, Wo Ping would be proud. The animation is excellent and brings the story of a likable Panda to life.",
+      "review_date": "2008-07-10",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I thought this would be good fun but quite frankly I was awestruck to the point of tears at some of the staggeringly beautiful backdrops and scenes. Admittedly I am a sucker for visuals but I was not the only one in the theatre gasping and I thought this would be good fun but quite frankly I was awestruck to the point of tears at some of the staggeringly beautiful backdrops and scenes. Admittedly I am a sucker for visuals but I was not the only one in the theatre gasping and breathless with astonishment at times. For me then, the best computer animated film to date, even with the standard so high overall",
+      "review_date": "2008-07-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I loved Kung Fu Panda. I am an old school martial arts fanatic--used to watch the movies with my dad. This meets all of the criteria of a martial arts film like Lord of the Wu tang (unlikely hero becomes Kung Fu Master by chance), has the I loved Kung Fu Panda. I am an old school martial arts fanatic--used to watch the movies with my dad. This meets all of the criteria of a martial arts film like Lord of the Wu tang (unlikely hero becomes Kung Fu Master by chance), has the visuals of a \"Hero\" or \"Crouching Tiger\", and has the heart of Disney (yes, I said it). When I went to the theater to see it all of the children there loved it and my two reasons for living came out wanting to learn Kung Fu. I think the haters out there just don't like or \"get\" Jack Black, because really I see no other reason they could dislike this film.",
+      "review_date": "2009-03-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie is really funny, with a lot of \"kung fu\" fighting and the voice acting is great too. I really recommend this movie.",
+      "review_date": "2008-11-01",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Brilliant animation, great story and often laugh out loud funny. It's not up there with Finding Nemo, Toy Story or A Bug's Life, but it is still a fine film. Very entertaining.",
+      "review_date": "2008-11-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Very funny -- a good family movie for older kids.",
+      "review_date": "2008-11-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie is what I consider to be Dreamwork's best animted picture (Yeah that's right Shrek, I said it). The movie manages to have comedy that can not only appear to children, but also adults and teenagers. The story tells of a This movie is what I consider to be Dreamwork's best animted picture (Yeah that's right Shrek, I said it). The movie manages to have comedy that can not only appear to children, but also adults and teenagers. The story tells of a panda named Po that is a total Kung Fu nerd and is chosen to become the hero to save the land from the evil Tai Long. Everyone is shocked to see a fat panda picked, but Po refuses to give up. He shows that with perseverance and determination that anyone can come past their problems and become a hero. Kung Fu Panda features an incredible cast of voice actors including Jack Black, Dustin Hoffman, Agnelina Jolie, Lucy Lui, David Cross, Seth Rogen, and Jackie Chan. This movie is the most phenomenal animated film I've seen that is not from Pixar. I can't reccomend this movie enough to people of all ages.",
+      "review_date": "2008-12-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Very fun movie. Great themes and nicely animated.",
+      "review_date": "2008-06-17",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Frankly this movie was ridiculously good. The story was simple, but deep. The one huge question that seemed obvious was turned into a joke at the last minute, and the graphics were amazing. The blend of visual styles between traditional Frankly this movie was ridiculously good. The story was simple, but deep. The one huge question that seemed obvious was turned into a joke at the last minute, and the graphics were amazing. The blend of visual styles between traditional american cg movies and japanese anime made the movie lightning quick, to the point where it was near impossible to lose focus. The special effects were amazing, with the fire looking very lively while the dirt and dust merged perfectly with the environment it was put in, Dreamworks outdid themselves, and perhaps Pixar on this one, at least until Wall-E comes out next week.",
+      "review_date": "2008-06-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Chad S......i think you need to even out your medication mate, seriously are you alright? How the hell have you managed to see that much intrigue and conspiracy in one film? My favorite line is \"the panda bear...made even more intriguing by Chad S......i think you need to even out your medication mate, seriously are you alright? How the hell have you managed to see that much intrigue and conspiracy in one film? My favorite line is \"the panda bear...made even more intriguing by its black and white markings\" ITS A FECKING PANDA BEAR...thats there markings not a massive attempt to undermine a race....oh and the film was...meh, wait for the dvd.",
+      "review_date": "2008-06-21",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This was a really good movie to watch. It's really funny, so obviously lots of people would like. I'm one of those people. The story was quite interesting, and if you haven't seen it, it's good to watch with friends/family.",
+      "review_date": "2008-06-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Adorable, delightful action-comedy with panache. Why didn't anyone think to do martial arts with Warner Bros.-style cartoons before? Jack Black is amusing enough, but the real treat is the artistry and animation. I did not expect to Adorable, delightful action-comedy with panache. Why didn't anyone think to do martial arts with Warner Bros.-style cartoons before? Jack Black is amusing enough, but the real treat is the artistry and animation. I did not expect to love this movie.",
+      "review_date": "2008-06-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This was a good story for both adults and kids. I took my wife and 5 year old son to see this movie. We all enjoyed it. The movie started a little slow, but picked up pace once the Panda starting his training.",
+      "review_date": "2008-06-28",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "With the Jack Black style humor, fighting scenes and dreamworks FX, its hard not to like this movie. It gets a perfect 10 because I can't think of anything possibly wrong with it.",
+      "review_date": "2008-06-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie was action packed and hilarious! The humor in the movies was great and kept laughing until the very end. A great movie for all ages!",
+      "review_date": "2008-07-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie was excellent. The only thing that prevents me from giving it a 10 is that I don't know if it connected with my kids as much as it could have. They laughed throughout and we all had a great time but at the end I don't This movie was excellent. The only thing that prevents me from giving it a 10 is that I don't know if it connected with my kids as much as it could have. They laughed throughout and we all had a great time but at the end I don't know if they would list it among their all time favorites. I personally think that most of the 50-65 scores listed in the \"critics\" section show that these reviewers are either out of touch or have no sense of humor.",
+      "review_date": "2009-03-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "At 40 and with no kids (by choice!) my girlfriend and I don't tend to watch much of this sort of film. I remember enjoying the first Toy Story and one or two other animated features since, but I wasn't particularly expecting to get At 40 and with no kids (by choice!) my girlfriend and I don't tend to watch much of this sort of film. I remember enjoying the first Toy Story and one or two other animated features since, but I wasn't particularly expecting to get into this as much as I did. It's funny, charming, and genuinely gripping in places. The characterisation is first-rate (loved the Mantis in particular). I saw the film on Blu Ray and the visuals looked exceptional. All in all a really enjoyable film and not just for the kids. Recommended.",
+      "review_date": "2009-05-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It is worth to see this funny movie. You can relax and watch it with your family.",
+      "review_date": "2008-11-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "WALL-E is at least a 9, and so is Kung Fu Panda. I don't know why the score is low right now. This is not to be missed. do yourself a favor and watch it at 1080p res bluray etc. I'm hoping that score will go up when it releases on WALL-E is at least a 9, and so is Kung Fu Panda. I don't know why the score is low right now. This is not to be missed. do yourself a favor and watch it at 1080p res bluray etc. I'm hoping that score will go up when it releases on dvd and bluray in a couple weeks. a must see. I rarely give out 10s, im very picky, but this animation is my personal flavor. they did an amazing job. very much appreciated.",
+      "review_date": "2008-11-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It has been long since the first Shrek was released and dreamworks had a really innovative work, but finally things have changed... and the name is Kung Fu Panda! At first it doesn't seem any different from any other movies aimed at a It has been long since the first Shrek was released and dreamworks had a really innovative work, but finally things have changed... and the name is Kung Fu Panda! At first it doesn't seem any different from any other movies aimed at a younger audience, but after a closer look one can notice that this movie is more refined and have been morre cared for during production than the others. From the fur effects to the awesome matte paintings on the background everything is visually perfect and all of this is backed by an outstanding sound design that ranges from epic tracks to a beautiful and realistic lipsync to the voices of an \"A Rank\" cast. This is the Panda you have been looking to adopt, protect and have fun with!",
+      "review_date": "2008-11-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I saw a pre-screening of this film a week ago, and absolutely loved it! Not only are all of the voice actors perfectly matched with their cgi characters, but the script is great, the action is fast paced, and the graphics are extremely well I saw a pre-screening of this film a week ago, and absolutely loved it! Not only are all of the voice actors perfectly matched with their cgi characters, but the script is great, the action is fast paced, and the graphics are extremely well done. I'd say it is at least on par with DreamWorks' best cgi film thus far (Shrek), and is near the lofty caliber of Pixar films. (For a reference point: ",
+      "review_date": "2008-05-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The very definition of mediocrity.",
+      "review_date": "2008-06-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Fantastic action scenes and Jack Black knocks the ball out of the park. Hilarious to boot.",
+      "review_date": "2008-06-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Kung Fu Panda is awesome. The action scenes are great. Jack Black will make you laugh your head off. So if your worried that just because this is kids movie that it will be as bad as can be rest assured that Kung Fu Panda will blow you away.",
+      "review_date": "2008-06-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Great movie. The fight scenes... outstanding!.",
+      "review_date": "2008-06-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "There are only two conceivable reasons that I can see for NOT liking this movie: 1) You don't like Jack Black. That's okay, some people (a small minority) just don't like him! Then stop hating on this movie, because Jack Black There are only two conceivable reasons that I can see for NOT liking this movie: 1) You don't like Jack Black. That's okay, some people (a small minority) just don't like him! Then stop hating on this movie, because Jack Black fans are most likely to enjoy it most. 2) You think that it's \"formulated\" somehow, or that it has too many \"cliches\". My response to that is: you can't \"formulate\" good humor. This movie is one of Dreamwork's best, because the animation and voice acting work in perfect harmony. The casting for this movie was absolutely spot-on, and the script is quite fine by me. The magic of this movie relies much, but not entirely, on Jack Black's humor, so I stand by my assertion: If you like Jack Black, this movie will be perfect for you.",
+      "review_date": "2009-04-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "An extraordinary romp the the world of anthropomorphic ancient China. Kung Fu Panda is helped along by inspired voice-acting by Ian McShane, Dustin Hoffman, Randall Duk Kim, and most surprisingly, Jack Black. Also, The film's soundtrack An extraordinary romp the the world of anthropomorphic ancient China. Kung Fu Panda is helped along by inspired voice-acting by Ian McShane, Dustin Hoffman, Randall Duk Kim, and most surprisingly, Jack Black. Also, The film's soundtrack is beautiful; the animation, awe-inspiring; the characters, well rounded; the jokes, hilarious; the set-design, beyond belief. Everything about Panda has been refined to its most highly perfected form and then put on display for all to enjoy. I have spent the last ten minutes trying to think of some criticism for this masterpiece, and nothing comes to mind. Now I think I'll go watch it again... I finished watching it not half an hour ago.",
+      "review_date": "2009-06-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Kung Fu Panda may have a simple story and some characters who aren’t given much development but that does not make this bad movie by any means. Kung Fu Panda is the best Dreamworks film, one made on their own, since Shrek 2. This film tradesKung Fu Panda may have a simple story and some characters who aren’t given much development but that does not make this bad movie by any means. Kung Fu Panda is the best Dreamworks film, one made on their own, since Shrek 2. This film trades in excessive pop culture humor, which was getting a tad annoying in such films as Bee Movie and replaces it with heart, a good message (along with a clever way of explaining it), and occasional slapstic. Also, the film has likeable characters and excellent animation. It is very clear that the filmmakers really cared about turning around a great product and they did. This film is definitely worth checking out. Kids will love it immediately and older kids and adults will enjoy it as well for the reasons I just stated above. This film may seem like a generic Dreamworks film but it is miles ahead of most of their stuff by actually being entertaining. For so long Dreamworks has failed to turn out something highly entertaining relying heavily on gimics and Aardman, who they chose to let go, to keep their movies afloat. This movie is a breaf of fresh air and a major turnaround for a company that had lost some steam critically following the Shrek movies. Again this film is definitely worth checking out. To Dreamworks all I have to say is this keep it up I look forward to seeing more good products from you especially the team involved on this film. This movie isn’t Pixar quality but that doesn’t stop it from being fun and entertaining",
+      "review_date": "2014-02-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This film was a stunning move by Dreamworks, rating among the top animated films of all time alongside Pixar in my opinion. The animation is breathtaking, the action superb (it is a rare feat for animated films to provide adrenaline-rushingThis film was a stunning move by Dreamworks, rating among the top animated films of all time alongside Pixar in my opinion. The animation is breathtaking, the action superb (it is a rare feat for animated films to provide adrenaline-rushing action sequences) and the story, although carrying a familiar moral message, is simple but sweet. If Dreamworks can continue to brighten the film industry with fun, awesome films such as this, then Pixar had better watch out!",
+      "review_date": "2010-10-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Funny, entertaining. Long story short, it had the lot.",
+      "review_date": "2011-02-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Easily one of the best animated pictures of recent times with excellent voice talent, a solid and touching script, and a main character that we all can relate to. The film is also beautifully scored by Hans Zimmer, and at many times, theEasily one of the best animated pictures of recent times with excellent voice talent, a solid and touching script, and a main character that we all can relate to. The film is also beautifully scored by Hans Zimmer, and at many times, the score drives the emotional and energetic levity. One of my favorites!",
+      "review_date": "2011-06-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Kung Fu Panda is not an average kung fu film. It's great and unique. It also teaches great morals to those just starting on their path, a main one being to believe in your dreams.",
+      "review_date": "2011-05-31",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "\"Kung Fu Panda\" - 1 Line(ish) review! B+!Very cool animation style, good for kids and \"adults\", Jack Black is great - some of the other high priced \"voice talent\" seemed a bit of a waste though. And I don't know how I feel about people\"Kung Fu Panda\" - 1 Line(ish) review! B+!Very cool animation style, good for kids and \"adults\", Jack Black is great - some of the other high priced \"voice talent\" seemed a bit of a waste though. And I don't know how I feel about people saying that Po reminds them of me...http://www.rottentomatoes.com/m/kung_fu_panda/",
+      "review_date": "2011-12-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie was very interesting for me.The main character is very unique character. At the end of this movie , He became very strong , but he was also fan.",
+      "review_date": "2011-08-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is the best comedy movie. Well animated, well taken, great action and awesome characters. Po is destined to be the dragon warrior but why can't his dad visit him.",
+      "review_date": "2011-09-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "it will take forever to find the flaws in this movie: there are none. the action is so spectacular, that it seems impossible to do by humans. that is where animation truly shines.",
+      "review_date": "2011-09-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Wonderful movie, promises a great start to a whole series of movies of Kung Fu Panda. (Unfortunately, I recently found out after watching Kung Fu Panda 2 that they are partnering with the Nickelodeon Channel to make a Kung Fu Panda TV Series.Wonderful movie, promises a great start to a whole series of movies of Kung Fu Panda. (Unfortunately, I recently found out after watching Kung Fu Panda 2 that they are partnering with the Nickelodeon Channel to make a Kung Fu Panda TV Series. It is quite disappointing.) Always will be a family classic. It portrays great messages, like self-discovery, strength and faith.",
+      "review_date": "2011-12-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of DreamWorks better animations with great premise and animation and good humour.",
+      "review_date": "2019-04-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This would be a 9.25 out of 10. Animation is really good. It looks pretty cool. Acting is real good. Music and story are really good as well. It also has really good action scenes, and is sometimes real funny. Overall, this is a great film.This would be a 9.25 out of 10. Animation is really good. It looks pretty cool. Acting is real good. Music and story are really good as well. It also has really good action scenes, and is sometimes real funny. Overall, this is a great film. You and your family should go and see it.",
+      "review_date": "2012-04-01",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Kung Fu Panda is easily one of the best Dreamwork movie. It haves a great plot and a well animation. It haves even funny moments. Overall is a peaceful and extreme movie. Worth watching. (9.4)",
+      "review_date": "2012-05-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I quite enjoyed \"Kung Fu Panda\". It has lots of funny scenes and great Kung Fu animations. But the plot is predictable  that's the weakness. It lacks surprises but it's definitely recommended for kids.",
+      "review_date": "2013-11-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The animation wears its age in a couple of shots here and there, but on the whole, \"Kung Fu Panda\" is definitely a movie I regret missing back in 2008. The set pieces are extremely well-designed, with all of the frenetic, lyrical actionThe animation wears its age in a couple of shots here and there, but on the whole, \"Kung Fu Panda\" is definitely a movie I regret missing back in 2008. The set pieces are extremely well-designed, with all of the frenetic, lyrical action taking place within a number of creative locations and under a few tricky circumstances. The performances are about what you'd expect, with a good 90% of the entertainment coming from Jack Black's lead turn as Po. Dustin Hoffman, however, is given a lot to work with as well, with a few moments from his character even inspiring some real emotional depth and pathos. The thematics are tried and true, but earnest enough, ultimately rounding off and putting a bow on a pleasant experience overall.",
+      "review_date": "2020-09-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A fabulous coming of age tale of an overweight panda (Jack Black) who meets his idols, the Furious Five, kung-fu masters. Angelina Jolie, Lucy Liu and David Cross are among the cast, joined by Dustin Hoffman as Master Shifu.",
+      "review_date": "2013-03-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Dreamwork's Animation's continuation of different animals talking to each other, while doing unusual things that the animal species usually does not do still bothers me, but has little to affect this film. While \"Kung Fu Panda\" may feel a bitDreamwork's Animation's continuation of different animals talking to each other, while doing unusual things that the animal species usually does not do still bothers me, but has little to affect this film. While \"Kung Fu Panda\" may feel a bit cliche and developed to mainly kids, it still brings a huge number of laughs and is fun to watch. Kung Fu Panda also suffers with the fact that it feels done before, just kid-fied and with animals (it reminded me alot of Karate Kid). The universe is odd  animals fighting each other and wearing clothes?. While it's an odd premise and a simple one at that, it's still funny and will leave you and your kids to laugh (especially your kids).",
+      "review_date": "2013-07-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A great family movie, as well as engaging as a story itself, Kung Fu Panda is well-executed, has great animation, and features beautiful shots of gardens, palaces, and mountains in China.",
+      "review_date": "2014-03-01",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I shouldn't say that this was a bad movie, because it wasn't. Although, the beginning was hard to watch, but it got a lot better, with the comedy I've come to love about the whole movie.",
+      "review_date": "2013-11-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Where DreamWorks films tend to have pretty simple stories, pop-culture references, and silly elements, \"Kung Fu Panda\" has plenty of humorous moments, but it strives to be more story-based and \"Pixar-like\" than your average DreamWorks fare.Where DreamWorks films tend to have pretty simple stories, pop-culture references, and silly elements, \"Kung Fu Panda\" has plenty of humorous moments, but it strives to be more story-based and \"Pixar-like\" than your average DreamWorks fare. The result? One of the company's finest films yet. Humor, action, a great story, fantastic voice-work, beautiful animation, fantastic characters (including one of the best protagonists in an animated film), and a wonderfully-told story, \"Kung Fu Panda\" is a brilliant animated film that should be viewed by everyone. Regardless of your age, everyone should find something to like about \"Kung Fu Panda.\"",
+      "review_date": "2016-11-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Kung Fu Panda is spectacular.\rThe movie from start to finish works with the very enjoyable personalities of its characters. The animation is good, the pacing is perfect, and the screenplay is dynamic.",
+      "review_date": "2013-11-13",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "In an animated film about a fat, bumbling panda, you'd expect it to be there to entertain the kiddies and that would be that. Oh my, you are so wrong. Kung Fu Panda boasts impressive visuals and animations, an excellent cast lead by the oh soIn an animated film about a fat, bumbling panda, you'd expect it to be there to entertain the kiddies and that would be that. Oh my, you are so wrong. Kung Fu Panda boasts impressive visuals and animations, an excellent cast lead by the oh so hilarious Jack Black (who really seems like he has a lot of fun with the role), a formulatic but entertaining story, and a threatening but humourous villain in Tai Lung. It's one of my favourite, if not my MOST favourite Dreamworks film. If you haven't seen it by now, you're sorely missing out. While everybody was kung fu fighting, where were you?",
+      "review_date": "2016-02-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Kung Fu Panda, along with other animated films, is one of my favorite summer entertainment ever! Jack Black does well with his likable character, Po. The rest of the voice actors is also great and the animation is stunning. Another thrillingKung Fu Panda, along with other animated films, is one of my favorite summer entertainment ever! Jack Black does well with his likable character, Po. The rest of the voice actors is also great and the animation is stunning. Another thrilling DreamWorks movie :)",
+      "review_date": "2014-07-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It's great, the title felt kinda' misleading, and I thought it wasn't going to be that great, but I was surprised with what I was given, I think this film is probably one Jack Black's most memorable roles. The film is a lot of fun with greatIt's great, the title felt kinda' misleading, and I thought it wasn't going to be that great, but I was surprised with what I was given, I think this film is probably one Jack Black's most memorable roles. The film is a lot of fun with great animation, and cool characters.",
+      "review_date": "2014-10-13",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I love this film. the animation is gorgeous, the fight scenes are excellently choreographed and the characters are really likeable made better by a great all star cast. the story is well written and was incredibly engaging and while it hadI love this film. the animation is gorgeous, the fight scenes are excellently choreographed and the characters are really likeable made better by a great all star cast. the story is well written and was incredibly engaging and while it had good emotion it injected some genuinely funny comedy that wasn't completely out of place with Martial art Mythology. Jack black has never been better seriously see this.",
+      "review_date": "2014-12-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Outrageously entertaining! Jack Black, along with the rest of the voice cast, does an incredible job of making us believe that these animals are actually part of a kung fu team. I loved this movie from beginning to end. The witty humor, theOutrageously entertaining! Jack Black, along with the rest of the voice cast, does an incredible job of making us believe that these animals are actually part of a kung fu team. I loved this movie from beginning to end. The witty humor, the hidden adult humor, the fight sequences, the visuals, and the storytelling, are all small parts that come together to make this movie one to remember. Dreamworks has definitely hit it's mark in super-stardom. Common sense has just been kicked into me and I am ready for so much more. This movie is just not enough. Kung Fu Panda is incredible!!!",
+      "review_date": "2015-03-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I miss the animation movies from my time. This is not fun, this is something that I would like to do when I can't sleep. A Kung Fu Panda, not my cup of tea",
+      "review_date": "2015-04-17",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Fun and nice movie for everyone. Good animation, good voice actors, don't know how come I only watched now.",
+      "review_date": "2022-12-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Kung Fu Panda an overflowing film of pure comedy and action, leaving flow the story of a fat, lazy panda which in turn becomes the warrior kung fu, such reason that DreamWorks Animation did not want to continue to surprise removed until today.",
+      "review_date": "2015-12-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Overall, I did enjoy Kung Fu Panda, but I don't put it up there with Dreamworks' best. Apart from Po and Shifu(and possibly the film's villain, splendidly voiced by Ian McShane) the film is lacking in its character development, while theOverall, I did enjoy Kung Fu Panda, but I don't put it up there with Dreamworks' best. Apart from Po and Shifu(and possibly the film's villain, splendidly voiced by Ian McShane) the film is lacking in its character development, while the story while well constructed, original and fresh has its predictable parts and the message is a little over-familiar. However, when it comes to the visuals, there is nothing to fault, the whole film with its gorgeous colours and backgrounds looks wonderful. The score is excellent as well, and I can see that there was care to make it sound authentic. The script is witty, funny and smart, the pace is bright and breezy and the voice acting is solid across the board- Dustin Hoffmann is perfectly cast while Jack Black does a great job voicing one of his more likable characters. In conclusion, very entertaining film, but it didn't wow me completely. 7/10 Bethany Cox",
+      "review_date": "2022-03-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Even if the title sounds silly, Kung Fu Panda is a film that actually enters the \" Dont judge by his appearance\", and really really works. The action is very good , the comedy is hilarious and the backgrounds are very realistic and wonderful.Even if the title sounds silly, Kung Fu Panda is a film that actually enters the \" Dont judge by his appearance\", and really really works. The action is very good , the comedy is hilarious and the backgrounds are very realistic and wonderful. The characters are nice and the soundtrack by Hans Zimmer and John Powell is amazing . Kung Fu Panda is a fantastic choice to see in family.",
+      "review_date": "2016-01-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "it is a nice good underdog story,the martial arts are great and the movie is amazzzzzzizinnnnnnnnnnnnnnnnngngngggggggggggggggggggggggggggg. yay I am done being over the top.",
+      "review_date": "2015-12-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is definitely a great movie. I love the story, it's very clear and interesting. The graphics were great so it has visual impact to viewers. Definitely, one of Dreamworks' best...........",
+      "review_date": "2016-04-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "With Kung Fu Panda 3 coming in, it's only the best time to review the first two movies ending with the first because it's my choice. As beautiful as ever, Kung Fu Panda brings you the power of kung fu and animation from DreamWorks Animation.",
+      "review_date": "2016-01-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is the start to one of the greatest animated trilogys of all time. The story is great, which follows a panda who is just trying his best to become what he is believed to be. The action, humor, and overall story is one of dreamworksThis is the start to one of the greatest animated trilogys of all time. The story is great, which follows a panda who is just trying his best to become what he is believed to be. The action, humor, and overall story is one of dreamworks greatest accomplishes.",
+      "review_date": "2016-03-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A fat Po Panda want to be a kung fu.\r Well he eat a lot.\r So Master Shifu use that to train Po.\r This funny & good movie.\r Jack Black did good voice for Po.\r Working at noodle place.",
+      "review_date": "2016-02-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Kung Fu Panda is funny, warm, action-packed and it brings a familiar massage for have fun and be engaged with those unforgettable characters, talented cast, inventive story-telling and an ancestral mythical history.",
+      "review_date": "2016-03-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of best Dreamworks hits. The typical story of a clumsy, daydreamer who became, with unseen skills and job, the hero of the day, works as well with awesome martail arts coreographics and well fit jokes. For enjoy with the kids. Say no toOne of best Dreamworks hits. The typical story of a clumsy, daydreamer who became, with unseen skills and job, the hero of the day, works as well with awesome martail arts coreographics and well fit jokes. For enjoy with the kids. Say no to imitations.",
+      "review_date": "2018-09-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I've heard so much about this film, about how could I possibly had not seen it yet, that it was so good and one if not the finest dreamworks work. I finally watched it and... it is good, funny, inventive at times, well animated and with aI've heard so much about this film, about how could I possibly had not seen it yet, that it was so good and one if not the finest dreamworks work. I finally watched it and... it is good, funny, inventive at times, well animated and with a solid message. On the other hand, it is nothing revolutionary and nothing I have not seen before. All in all, an enjoyable time and a fun movie.",
+      "review_date": "2018-08-10",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I liked it a lot. The characters were very well made. They had great voice actors, animation, and they were interesting. The story was very fun. They had a good villain, and everything was able to fit together easily. I recommend it.",
+      "review_date": "2018-01-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This hilarious parody of the \"Chosen One\" story spawned my favorite movie franchise of all time. Jack Black stars as the lovable Po, a big fat bumbling goof of a panda. His passion for Kung Fu caused him to \"accidentally\" stumble into theThis hilarious parody of the \"Chosen One\" story spawned my favorite movie franchise of all time. Jack Black stars as the lovable Po, a big fat bumbling goof of a panda. His passion for Kung Fu caused him to \"accidentally\" stumble into the role of the Dragon Warrior, and now it was up to him to fulfill the duties that come with it.The animation is spectacular. The character designs are unique and their movements are quite fluid. The settings and landscapes are vibrant and reflect perfectly where the movie takes place. The action scenes are exciting and creative as the characters use the environment and the object in it to their advantage.The humor is top-notch as everyone fits their roles perfectly. Jack Black delivers his lines in the most Jack Black-ish way he possibly can, really making Po come to life on screen. The way this movie spoofs various martial arts movie tropes while also taking itself seriously is outrageously funny. You definitely won't be leaving without busting a gut at least once.Everything in this movie was done amazingly, and it was a fantastic start to one of DreamWorks' most beloved series.",
+      "review_date": "2017-04-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It's just a very fun movie, and Po is a very unique character. Making a random character become a kung fu master shouldn't work, but it did. And Po learns his own way in his journey. The movie's story is a bit \"loose\", but every character isIt's just a very fun movie, and Po is a very unique character. Making a random character become a kung fu master shouldn't work, but it did. And Po learns his own way in his journey. The movie's story is a bit \"loose\", but every character is good and plays its part on the movie.",
+      "review_date": "2022-03-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie is fantastic. The other reviewers, I dont believe are grateful to the amount detail the people at DreamWorks have put into this film. Looking back on this in 2017, this film is Truly beautiful and faithfull to Chinese Culture,This movie is fantastic. The other reviewers, I dont believe are grateful to the amount detail the people at DreamWorks have put into this film. Looking back on this in 2017, this film is Truly beautiful and faithfull to Chinese Culture, Architecture and Music. I find this story to be very heartwarming and executed in a really, really funny way. The Panda of course, is a huggable, funny, character who I feel I somehow connect with. The other characters are extremely interesting and always convey a sense of mystery which really made me want to know more about this universe. The music is stunning which isn't suprising considering it was created by Hans Zimmer and John Powel. The main theme, known as 'Oogway Ascends' is absolutly beautiful and is in my opinion one of the greatest. The Story is fun and exhilarating with a deep meaning. And Overall find this Brilliant film one of my all time favourites.This Film, in my opinion, is one of DreamWorks most spectacular creations and I feel this film is underrated. And should rightfully acheive more attention.After watching this film, mark my words, you will be thinking of it for at least 3 days. It is one of my favourites.",
+      "review_date": "2017-12-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Dont think to hard about the plot and you will love this movie. Amazing action scenes, good humor and incredible story telling",
+      "review_date": "2018-03-19",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 136,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Animation",
+    "Family"
+  ]
 }

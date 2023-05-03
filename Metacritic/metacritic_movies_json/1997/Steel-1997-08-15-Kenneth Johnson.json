@@ -1,32 +1,32 @@
 {
-    "title": "Steel",
-    "rating": "tbd",
-    "release_date": "1997-08-15",
-    "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Fantasy",
-        "Crime"
-    ],
-    "summary": "A scientist for the military turns himself into a cartoon-like superhero when a version of one of his own weapons is being used against enemies.",
-    "critic_reviews": [
-        "The concept may not be bad, but there are times when the execution borders on embarrassing.",
-        "Well-intentioned but hulky and lumbering, \"Steel\" falls somewhere between the cacophony of \"Batman & Robin\" and the tepid Robert Townsend vehicle \"Meteor Man.\" With a size-22 shoe, it just keeps stepping on its own feet.",
-        "Writer-director Kenneth Johnson provides a tinny story and a leaden pace for his tarnished titan. There\u2019s a coziness and simplicity to the production that would be better served on TV. Cinema-size, it comes off as corny, antiquated and slightly cheesy.",
-        "A tepid vat of cinematic sludge...O'Neal will doubtless survive this latest misadventure, as he did last year's outing as a genie in \"Kazaam,\" but only the most devoted of his admirers will want to watch him lumber through \"Steel.\"",
-        "\"Steel\" plays like a Saturday morning cartoon -- overdone stunts and hokey chase sequences with the hero on a motorcycle, dodging heavily armed gangsters as well as cops who think he's a bad guy.",
-        "Steel's target audience of 12-year-old boys would be better off staying home and busying themselves at traditional, character-enriching activities: sniping at family pets with BB guns, playing Nintendo, and masturbating.",
-        "You know you are in trouble when the back cover of the DVD boasts that \"There'll be a lot of thrillin' before Steel himself can start chillin'.\""
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "This is the worst comic book movie of all time, and yes it\u2019s worse thin Batman and robin.",
-            "review_date": "2022-09-03",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 8
+  "title": "Steel",
+  "rating": "tbd",
+  "release_date": "1997-08-15",
+  "summary": "A scientist for the military turns himself into a cartoon-like superhero when a version of one of his own weapons is being used against enemies.",
+  "critic_reviews": [
+    "The concept may not be bad, but there are times when the execution borders on embarrassing.",
+    "Well-intentioned but hulky and lumbering, \"Steel\" falls somewhere between the cacophony of \"Batman & Robin\" and the tepid Robert Townsend vehicle \"Meteor Man.\" With a size-22 shoe, it just keeps stepping on its own feet.",
+    "Writer-director Kenneth Johnson provides a tinny story and a leaden pace for his tarnished titan. There’s a coziness and simplicity to the production that would be better served on TV. Cinema-size, it comes off as corny, antiquated and slightly cheesy.",
+    "A tepid vat of cinematic sludge...O'Neal will doubtless survive this latest misadventure, as he did last year's outing as a genie in \"Kazaam,\" but only the most devoted of his admirers will want to watch him lumber through \"Steel.\"",
+    "\"Steel\" plays like a Saturday morning cartoon -- overdone stunts and hokey chase sequences with the hero on a motorcycle, dodging heavily armed gangsters as well as cops who think he's a bad guy.",
+    "Steel's target audience of 12-year-old boys would be better off staying home and busying themselves at traditional, character-enriching activities: sniping at family pets with BB guns, playing Nintendo, and masturbating.",
+    "You know you are in trouble when the back cover of the DVD boasts that \"There'll be a lot of thrillin' before Steel himself can start chillin'.\""
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "This is the worst comic book movie of all time, and yes it’s worse thin Batman and robin.",
+      "review_date": "2022-09-03",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 8,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Fantasy",
+    "Crime"
+  ]
 }

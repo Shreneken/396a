@@ -1,33 +1,33 @@
 {
-    "title": "Out of the Past",
-    "rating": "tbd",
-    "release_date": "1947-12-01",
-    "genre": [
-        "Drama",
-        "Thriller",
-        "Romance",
-        "Crime",
-        "Film-Noir"
-    ],
-    "summary": "A private eye escapes his past to run a gas station in a small town, but his past catches up with him. Now he must return to the big city world of danger, corruption, double crosses and duplicitous dames.",
-    "critic_reviews": [
-        "Out of the Past is one of the greatest of all film noirs, the story of a man who tries to break with his past and his weakness and start over again in a town, with a new job and a new girl.",
-        "Out Of The Past is undeniably a film noir, and rightly regarded as one of the genre\u2019s best.",
-        "Out of the Past is cinematic perfection, a Hollywood classic that's as great and as enjoyable as its reputation has promised.",
-        "Past, an inestimable collaboration by Tourneur and Mitchum, is not just one fine noir film among many. It has been a guage for the genre, even a template, over the last 50 years.",
-        "Beguiling and resolutely ominous, this hallucinatory voyage has two more distinctions: as the only movie with both a deaf-mute garage hand and death by fishing-rod, and as one of the most bewildering and beautiful films ever made.",
-        "This quintessential film noir catapulted contract player Robert Mitchum into superstardom and set the standard for the genre for years to come.",
-        "The most delicate and nuanced of film noirs, graced with a reflective lyricism that almost lifts it out of the genre.",
-        "Quintessential noir.",
-        "Out of the Past is more than just an exemplary noir. It exceeds its genre even as it typifies it.",
-        "The intricate story moves through New York, San Francisco, Los Angeles, Mexico, and picturesque points in between, but Tourneur cooks up shot-by-shot surprises that outdo those of the screenplay.",
-        "The script is dense, subtly shaped, and bristles with stylised, often witty hard-boiled dialogue and voice-over narration, eg: 'I never saw her in the daytime. We seemed to live by night. What was left of the day went away like a pack of cigarettes you smoke.'",
-        "There's much to relish here: a script which mixes pungent humour and tension, the pervading atmosphere of corruption and obsession, and a perfectly judged, tragically stoical performance from the sleepy-eyed Mitchum, not to forget Nicholas Musuraca's suitably shadowy cinematography.",
-        "The players acquit themselves histrionically if not morally. Mitchum, [Kirk] Douglas and the Misses [Jane] Greer and [Rhonda] Fleming are all commendable.",
-        "Out of the Past is a hardboiled melodrama [from the novel by Geoffrey Homes] strong on characterization. Direction by Jacques Tourneur pays close attention to mood development, achieving realistic flavor that is further emphasized by real life settings and topnotch lensing by Nicholas Musuraca.",
-        "The style is still sharp and realistic, the dialogue still crackles with verbal sparks and the action is still crisp and muscular, not to mention slightly wanton in spots. But the pattern and purpose of it is beyond our pedestrian ken.",
-        "Fairly well played, and very well photographed (by Nicholas Musuraca), the action develops a routine kind of pseudo-tension."
-    ],
-    "reviews": [],
-    "num_reviews": 16
+  "title": "Out of the Past",
+  "rating": "tbd",
+  "release_date": "1947-12-01",
+  "summary": "A private eye escapes his past to run a gas station in a small town, but his past catches up with him. Now he must return to the big city world of danger, corruption, double crosses and duplicitous dames.",
+  "critic_reviews": [
+    "Out of the Past is one of the greatest of all film noirs, the story of a man who tries to break with his past and his weakness and start over again in a town, with a new job and a new girl.",
+    "Out Of The Past is undeniably a film noir, and rightly regarded as one of the genre’s best.",
+    "Out of the Past is cinematic perfection, a Hollywood classic that's as great and as enjoyable as its reputation has promised.",
+    "Past, an inestimable collaboration by Tourneur and Mitchum, is not just one fine noir film among many. It has been a guage for the genre, even a template, over the last 50 years.",
+    "Beguiling and resolutely ominous, this hallucinatory voyage has two more distinctions: as the only movie with both a deaf-mute garage hand and death by fishing-rod, and as one of the most bewildering and beautiful films ever made.",
+    "This quintessential film noir catapulted contract player Robert Mitchum into superstardom and set the standard for the genre for years to come.",
+    "The most delicate and nuanced of film noirs, graced with a reflective lyricism that almost lifts it out of the genre.",
+    "Quintessential noir.",
+    "Out of the Past is more than just an exemplary noir. It exceeds its genre even as it typifies it.",
+    "The intricate story moves through New York, San Francisco, Los Angeles, Mexico, and picturesque points in between, but Tourneur cooks up shot-by-shot surprises that outdo those of the screenplay.",
+    "The script is dense, subtly shaped, and bristles with stylised, often witty hard-boiled dialogue and voice-over narration, eg: 'I never saw her in the daytime. We seemed to live by night. What was left of the day went away like a pack of cigarettes you smoke.'",
+    "There's much to relish here: a script which mixes pungent humour and tension, the pervading atmosphere of corruption and obsession, and a perfectly judged, tragically stoical performance from the sleepy-eyed Mitchum, not to forget Nicholas Musuraca's suitably shadowy cinematography.",
+    "The players acquit themselves histrionically if not morally. Mitchum, [Kirk] Douglas and the Misses [Jane] Greer and [Rhonda] Fleming are all commendable.",
+    "Out of the Past is a hardboiled melodrama [from the novel by Geoffrey Homes] strong on characterization. Direction by Jacques Tourneur pays close attention to mood development, achieving realistic flavor that is further emphasized by real life settings and topnotch lensing by Nicholas Musuraca.",
+    "The style is still sharp and realistic, the dialogue still crackles with verbal sparks and the action is still crisp and muscular, not to mention slightly wanton in spots. But the pattern and purpose of it is beyond our pedestrian ken.",
+    "Fairly well played, and very well photographed (by Nicholas Musuraca), the action develops a routine kind of pseudo-tension."
+  ],
+  "reviews": [],
+  "num_reviews": 16,
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Romance",
+    "Crime",
+    "Film-Noir"
+  ]
 }

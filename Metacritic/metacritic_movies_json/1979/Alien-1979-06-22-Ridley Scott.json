@@ -1,14 +1,14 @@
 {
-    "title": "Alien",
-    "rating": 8.8,
-    "release_date": "1979-06-22",
-    "genre": [
-        "Sci-Fi",
-        "Thriller",
-        "Horror"
-    ],
-    "summary": "For the first time in nearly a quarter-century, Alien returns to the big screen with a digitally remastered special edition of director Ridley Scott's science fiction/horror classic. [Fox]",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "Alien",
+  "rating": 8.8,
+  "release_date": "1979-06-22",
+  "summary": "For the first time in nearly a quarter-century, Alien returns to the big screen with a digitally remastered special edition of director Ridley Scott's science fiction/horror classic. [Fox]",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Sci-Fi",
+    "Thriller",
+    "Horror"
+  ]
 }

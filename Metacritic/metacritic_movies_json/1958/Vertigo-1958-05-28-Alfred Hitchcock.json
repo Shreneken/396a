@@ -1,14 +1,14 @@
 {
-    "title": "Vertigo",
-    "rating": 8.6,
-    "release_date": "1958-05-28",
-    "genre": [
-        "Mystery",
-        "Thriller",
-        "Romance"
-    ],
-    "summary": "Vertigo creates a dizzying web of mistaken identity, passion and murder after an acrophobic detective rescues a mysterious blonde from the bay. [Universal Pictures]",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "Vertigo",
+  "rating": 8.6,
+  "release_date": "1958-05-28",
+  "summary": "Vertigo creates a dizzying web of mistaken identity, passion and murder after an acrophobic detective rescues a mysterious blonde from the bay. [Universal Pictures]",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Romance"
+  ]
 }

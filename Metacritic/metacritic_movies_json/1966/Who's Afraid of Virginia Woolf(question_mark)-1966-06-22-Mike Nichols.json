@@ -1,32 +1,32 @@
 {
-    "title": "Who's Afraid of Virginia Woolf?",
-    "rating": 7.7,
-    "release_date": "1966-06-22",
-    "genre": [
-        "Drama"
-    ],
-    "summary": "A bitter, aging couple, with the help of alcohol, use a young couple to fuel anguish and emotional pain towards each other.",
-    "critic_reviews": [
-        "It features the best real-life husband-wife pairing onscreen ever.",
-        "Who's Afraid of Virginia Woolf? is an instant film classic, and Warner Bros. deserves the highest credit for making it a movie without compromise.",
-        "In its forthright dealing with the play, this becomes one of the most scathingly honest American films ever made.",
-        "The naked power and oblique tenderness of Edward Albee's incisive, inhuman drama have been transformed from legit into a brilliant motion picture. Keen adaptation and handsome production by Ernest Lehman, outstanding direction by Mike Nichols in his feature debut, and four topflight performances score an artistic bullseye.",
-        "A time capsule now of all that was considered controversial and gutsy in 1966.",
-        "Strong stuff, intensely watchable, but definitely not for children.",
-        "An emotional horror story, both the play and the film triggered controversy and challenged the status quo.",
-        "Edward Albee's vitriolic stage portrayal of domestic blisslessness translated grainily and effectively to the screen. Taylor gives what is probably her finest performance as the blowsy harridan Martha.",
-        "What Marlon Brando and Vivien Leigh did for Tennessee Williams\u2019 A Streetcar Named Desire, Burton and Taylor do for Albee\u2019s Who\u2019s Afraid of Virginia Woolf? They remind us that sometimes writing and directing must simply step aside and concede the power of performance.",
-        "Mike Nichols had the Burtons for his first film (1966), but he felt compelled to drag in so many jazzy camera tricks that Richard and Elizabeth seem largely superfluous for the first couple of reels. When Nichols finally settles down, it's almost too late.",
-        "Nichols has actually committed all the classic errors of the sophisticated stage director let loose on the unsophisticated movies. For starters, he has underestimated the power of the spoken word in his search for visual pyrotechnics."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "A movie, that you won't forget. There are so many humiliations and psychological wars between the couple and their acting is top, similar to the war of the roses.",
-            "review_date": "2021-06-18",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 12
+  "title": "Who's Afraid of Virginia Woolf?",
+  "rating": 7.7,
+  "release_date": "1966-06-22",
+  "summary": "A bitter, aging couple, with the help of alcohol, use a young couple to fuel anguish and emotional pain towards each other.",
+  "critic_reviews": [
+    "It features the best real-life husband-wife pairing onscreen ever.",
+    "Who's Afraid of Virginia Woolf? is an instant film classic, and Warner Bros. deserves the highest credit for making it a movie without compromise.",
+    "In its forthright dealing with the play, this becomes one of the most scathingly honest American films ever made.",
+    "The naked power and oblique tenderness of Edward Albee's incisive, inhuman drama have been transformed from legit into a brilliant motion picture. Keen adaptation and handsome production by Ernest Lehman, outstanding direction by Mike Nichols in his feature debut, and four topflight performances score an artistic bullseye.",
+    "A time capsule now of all that was considered controversial and gutsy in 1966.",
+    "Strong stuff, intensely watchable, but definitely not for children.",
+    "An emotional horror story, both the play and the film triggered controversy and challenged the status quo.",
+    "Edward Albee's vitriolic stage portrayal of domestic blisslessness translated grainily and effectively to the screen. Taylor gives what is probably her finest performance as the blowsy harridan Martha.",
+    "What Marlon Brando and Vivien Leigh did for Tennessee Williams’ A Streetcar Named Desire, Burton and Taylor do for Albee’s Who’s Afraid of Virginia Woolf? They remind us that sometimes writing and directing must simply step aside and concede the power of performance.",
+    "Mike Nichols had the Burtons for his first film (1966), but he felt compelled to drag in so many jazzy camera tricks that Richard and Elizabeth seem largely superfluous for the first couple of reels. When Nichols finally settles down, it's almost too late.",
+    "Nichols has actually committed all the classic errors of the sophisticated stage director let loose on the unsophisticated movies. For starters, he has underestimated the power of the spoken word in his search for visual pyrotechnics."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "A movie, that you won't forget. There are so many humiliations and psychological wars between the couple and their acting is top, similar to the war of the roses.",
+      "review_date": "2021-06-18",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 12,
+  "genres": [
+    "Drama"
+  ]
 }

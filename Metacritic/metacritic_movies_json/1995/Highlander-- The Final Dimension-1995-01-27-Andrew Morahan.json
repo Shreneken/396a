@@ -1,53 +1,53 @@
 {
-    "title": "Highlander: The Final Dimension",
-    "rating": 5.9,
-    "release_date": "1995-01-27",
-    "genre": [
-        "Action",
-        "Sci-Fi",
-        "Fantasy",
-        "Romance"
-    ],
-    "summary": "Deceived that he had won the Prize, Connor MacLeod awakens from a peaceful life when an entombed immortal magician comes seeking the Highlander.",
-    "critic_reviews": [
-        "Lame, but in a good way.",
-        "Lambert is as uncharismatic as ever, while Van Peebles is as frightening as a wrestler in mock angry mood, and just as ridiculous. To Morahan's credit, however, he smoothly continues the series' tradition of flashy images, showy sfx, aerial landscape shots and driving rock tunes.",
-        "Although Christopher Lambert repeats his film role as the immortal action hero, he is less dynamic than he was in Highlander or even Highlander 2, The Quickening. He is also far less charismatic and interesting to watch than Adrian Paul of the European television serial. Moreover, in this film, Lambert inexplicably whispers his lines, while the special effects are deafening.",
-        "Those immortals keep noting that there can be only one. Perhaps they mean there should have been only one.",
-        "Highlander: The Final Dimension is no more compelling than the average pile of bricks.",
-        "An incoherent mess.",
-        "An unbelievably trashy meltdown of the tartan warrior franchise, Highlander III checks in as a breakneck, roller-coaster genre ride that\u2019s brainless fodder for undiscriminating auds.",
-        "Highlander 3 has an edge over its prequels in that it's so shoddily directed that it's probably a great deal of fun to watch after a couple of six-packs. Actually, that's probably the only time it might be fun to watch, and I'm not going to be the guy to put that theory to the test for you."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "Short review: It is a worse copy of Highlander 1 story-wise but also a huge improvement over Highlander 2. Longer version: Many thought that Highlander 2 killed the franchise. It is for many an abomination and on worst of all time lists.Short review: It is a worse copy of Highlander 1 story-wise but also a huge improvement over Highlander 2. Longer version: Many thought that Highlander 2 killed the franchise. It is for many an abomination and on worst of all time lists. Strangely they could make another movie but know they had to deliver. For me they made the absolute right decision to ignore that Highlander 2 even existed and play it safe by reusing Highlander 1 story, character (types) and themes. They of cause tried to make it different enough for camouflage reasons but it did not work well.  Another frequent complaint are the special effects. While not garbage they are nothing to write home about and did not age that well too. Also the magic or the uniqueness of the first movie is gone. It is not as impactful, interesting and enjoyable as the first movie. This sound maybe too negative. For itself it is watchable and I like the setting, Kane as villain and the new skills (Cant go into details because of spoilers). An improved version could have been a hit. The acting is O.K. Neither a failure or a masterpiece. The music is still good. Overall a step it the right direction but defiantly not a hit or masterpiece. Maybe it is worse than I think and the comparison to Highlander 2 made it look better than it really is.",
-            "review_date": "2020-05-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Just because Highlander III is an improvement over the last one doesn\u2019t mean that it\u2019s a good movie. The movie is poorly directed, poorly acted, and the sword fights are unfortunately very dull. I will admit, Christopher Lambert does lookJust because Highlander III is an improvement over the last one doesn\u2019t mean that it\u2019s a good movie. The movie is poorly directed, poorly acted, and the sword fights are unfortunately very dull. I will admit, Christopher Lambert does look like he\u2019s trying in this film and the plot looks alright.",
-            "review_date": "2018-09-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I'm giving this a point or two more than I think it deserves to balance out some of the negativity. In all honesty this movie (while nothing amazing) is completely fine and enjoyable enough if you like the first one. It ignores the secondI'm giving this a point or two more than I think it deserves to balance out some of the negativity. In all honesty this movie (while nothing amazing) is completely fine and enjoyable enough if you like the first one. It ignores the second movie which was smart.The best part of H3 is Van Peebles as the villain - he's lots of fun and might even be the best of the villains from the first three movies. Beyond him the rest of the movie is just ok but more than good enough for a popcorn flick.",
-            "review_date": "2021-04-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "We want it back and we want to see Christopher Lambert back in movies, please",
-            "review_date": "2022-11-14",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 12
+  "title": "Highlander: The Final Dimension",
+  "rating": 5.9,
+  "release_date": "1995-01-27",
+  "summary": "Deceived that he had won the Prize, Connor MacLeod awakens from a peaceful life when an entombed immortal magician comes seeking the Highlander.",
+  "critic_reviews": [
+    "Lame, but in a good way.",
+    "Lambert is as uncharismatic as ever, while Van Peebles is as frightening as a wrestler in mock angry mood, and just as ridiculous. To Morahan's credit, however, he smoothly continues the series' tradition of flashy images, showy sfx, aerial landscape shots and driving rock tunes.",
+    "Although Christopher Lambert repeats his film role as the immortal action hero, he is less dynamic than he was in Highlander or even Highlander 2, The Quickening. He is also far less charismatic and interesting to watch than Adrian Paul of the European television serial. Moreover, in this film, Lambert inexplicably whispers his lines, while the special effects are deafening.",
+    "Those immortals keep noting that there can be only one. Perhaps they mean there should have been only one.",
+    "Highlander: The Final Dimension is no more compelling than the average pile of bricks.",
+    "An incoherent mess.",
+    "An unbelievably trashy meltdown of the tartan warrior franchise, Highlander III checks in as a breakneck, roller-coaster genre ride that’s brainless fodder for undiscriminating auds.",
+    "Highlander 3 has an edge over its prequels in that it's so shoddily directed that it's probably a great deal of fun to watch after a couple of six-packs. Actually, that's probably the only time it might be fun to watch, and I'm not going to be the guy to put that theory to the test for you."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "Short review: It is a worse copy of Highlander 1 story-wise but also a huge improvement over Highlander 2. Longer version: Many thought that Highlander 2 killed the franchise. It is for many an abomination and on worst of all time lists.Short review: It is a worse copy of Highlander 1 story-wise but also a huge improvement over Highlander 2. Longer version: Many thought that Highlander 2 killed the franchise. It is for many an abomination and on worst of all time lists. Strangely they could make another movie but know they had to deliver. For me they made the absolute right decision to ignore that Highlander 2 even existed and play it safe by reusing Highlander 1 story, character (types) and themes. They of cause tried to make it different enough for camouflage reasons but it did not work well.  Another frequent complaint are the special effects. While not garbage they are nothing to write home about and did not age that well too. Also the magic or the uniqueness of the first movie is gone. It is not as impactful, interesting and enjoyable as the first movie. This sound maybe too negative. For itself it is watchable and I like the setting, Kane as villain and the new skills (Cant go into details because of spoilers). An improved version could have been a hit. The acting is O.K. Neither a failure or a masterpiece. The music is still good. Overall a step it the right direction but defiantly not a hit or masterpiece. Maybe it is worse than I think and the comparison to Highlander 2 made it look better than it really is.",
+      "review_date": "2020-05-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Just because Highlander III is an improvement over the last one doesn’t mean that it’s a good movie. The movie is poorly directed, poorly acted, and the sword fights are unfortunately very dull. I will admit, Christopher Lambert does lookJust because Highlander III is an improvement over the last one doesn’t mean that it’s a good movie. The movie is poorly directed, poorly acted, and the sword fights are unfortunately very dull. I will admit, Christopher Lambert does look like he’s trying in this film and the plot looks alright.",
+      "review_date": "2018-09-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I'm giving this a point or two more than I think it deserves to balance out some of the negativity. In all honesty this movie (while nothing amazing) is completely fine and enjoyable enough if you like the first one. It ignores the secondI'm giving this a point or two more than I think it deserves to balance out some of the negativity. In all honesty this movie (while nothing amazing) is completely fine and enjoyable enough if you like the first one. It ignores the second movie which was smart.The best part of H3 is Van Peebles as the villain - he's lots of fun and might even be the best of the villains from the first three movies. Beyond him the rest of the movie is just ok but more than good enough for a popcorn flick.",
+      "review_date": "2021-04-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "We want it back and we want to see Christopher Lambert back in movies, please",
+      "review_date": "2022-11-14",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 12,
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Fantasy",
+    "Romance"
+  ]
 }

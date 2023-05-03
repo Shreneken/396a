@@ -1,24 +1,24 @@
 {
-    "title": "Race 3",
-    "rating": 3.5,
-    "release_date": "2018-06-15",
-    "genre": [
-        "Action",
-        "Thriller"
-    ],
-    "summary": "When Shamsher (Anil Kapoor) entrusts Sikandar (Salman Khan) with a high stakes heist along with the family for support, what could possibly go wrong? Well\u2026We discover everyone\u2019s real character as they change with a blink of an eye. We discover that nothing is as it seems. We discover a family on the verge of self-destruction \u2013 or is it aWhen Shamsher (Anil Kapoor) entrusts Sikandar (Salman Khan) with a high stakes heist along with the family for support, what could possibly go wrong? Well\u2026We discover everyone\u2019s real character as they change with a blink of an eye. We discover that nothing is as it seems. We discover a family on the verge of self-destruction \u2013 or is it a ploy by some outsiders.\u2026 Expand",
-    "critic_reviews": [
-        "The movie, while giddily entertaining and exciting in fits and starts, fails to coalesce into a satisfying whole.",
-        "D\u2019Souza seems too distracted by pyrotechnics to focus on getting believable performances from his cast. By presenting every lengthy fight scene in ultra-slow motion, he needlinessly draws out the film to an endless, nearly three-hour run time."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "every movie of salman khan is full of over acting. not like his movies. no like",
-            "review_date": "2019-03-08",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 3
+  "title": "Race 3",
+  "rating": 3.5,
+  "release_date": "2018-06-15",
+  "summary": "When Shamsher (Anil Kapoor) entrusts Sikandar (Salman Khan) with a high stakes heist along with the family for support, what could possibly go wrong? Well…We discover everyone’s real character as they change with a blink of an eye. We discover that nothing is as it seems. We discover a family on the verge of self-destruction – or is it aWhen Shamsher (Anil Kapoor) entrusts Sikandar (Salman Khan) with a high stakes heist along with the family for support, what could possibly go wrong? Well…We discover everyone’s real character as they change with a blink of an eye. We discover that nothing is as it seems. We discover a family on the verge of self-destruction – or is it a ploy by some outsiders.… Expand",
+  "critic_reviews": [
+    "The movie, while giddily entertaining and exciting in fits and starts, fails to coalesce into a satisfying whole.",
+    "D’Souza seems too distracted by pyrotechnics to focus on getting believable performances from his cast. By presenting every lengthy fight scene in ultra-slow motion, he needlinessly draws out the film to an endless, nearly three-hour run time."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "every movie of salman khan is full of over acting. not like his movies. no like",
+      "review_date": "2019-03-08",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 3,
+  "genres": [
+    "Action",
+    "Thriller"
+  ]
 }

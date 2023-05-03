@@ -1,28 +1,28 @@
 {
-    "title": "Farewell My Concubine",
-    "rating": "tbd",
-    "release_date": "1993-10-15",
-    "genre": [
-        "Drama",
-        "Romance",
-        "Music"
-    ],
-    "summary": "Two boys meet at an opera training school in Peking in 1924. Their resulting friendship will span nearly 70 years and will endure some of the most troublesome times in China's history.",
-    "critic_reviews": [
-        "Farewell My Concubine is a demonstration of how a great epic can function. I was generally familiar with the important moments in modern Chinese history, but this film helped me to feel and imagine what it was like to live in the country during those times.",
-        "A vastly entertaining movie. It's also one of such recognizably serious concerns that you can sink into it with pleasure and count it a cultural achievement.",
-        "No film can ever hope to convey the complex mosaic of cultural upheaval caused by everything that happened between 1924 and 1977, but Farewell My Concubine does an excellent job presenting samples of the flavor while telling a story that is both epic and intimate.",
-        "This film's extraordinary unity of style, theme, and plot is what sets it apart from the superficial historical epic. Behind all the color, movement, and elaborate decor of this \"commercial\" film lies an exceptionally taut structure.",
-        "Appropriately operatic, Chen's visually spectacular epic is sumptuous in every respect. Intelligent, enthralling, rhapsodic.",
-        "Old-fashioned in form but modern in psychological dynamic, it\u2019s a film that you can lose yourself in, that washes over you like a warm and enveloping mist.",
-        "While it is a triumph on an aesthetic level \u2013 Chen\u2019s camera glides euphorically through temples and city streets, while the costumes and sets are meticulously authentic \u2013 it falls short because it struggles to combine the observational, detached style of its first half with the dramatic tribulations of the second.",
-        "Sharing the Palm D'Or at that year's Cannes, Farewell My Concubine is the emotional story of two childhood friends who grow up as apprentices in their much-loved opera house. With stunning set pieces and the dramatic backdrop of the revolution, Kaige captures perfectly the relationship between the two boys.",
-        "Director Chen and screenwriters Lilian Lee and Lu Wei (based on Lee's original novel) create a tapestry of detail woven with visual spectacle, historical saga and human drama. At over 2 1/2 hours running time, Farewell My Concubine is both too brief and too luxurious.",
-        "Dramatizing totalitarian oppression is hardly novel, but Farewell My Concubine may be the first film to capture the unique spiritual cruelty of a regime in which beauty itself had become a crime.",
-        "It's a lovely film, but a little inert. It reaches its high point with glorious close-ups of the children. From there, it's all downhill.",
-        "A seductively lensed but emotionally uninvolving drama about two male Peking Opera stars and the ex-prostie who comes between them, Chen Kaige's fourth feature, Farewell to My Concubine, reps a stylistic U-turn compared with his earlier abstract parables like Life on a String and Yellow Earth.",
-        "Like Cheung's ethereally plaintive voice, the movie is a siren song that's appealing at first, but held too long. It becomes an increasing whine."
-    ],
-    "reviews": [],
-    "num_reviews": 13
+  "title": "Farewell My Concubine",
+  "rating": "tbd",
+  "release_date": "1993-10-15",
+  "summary": "Two boys meet at an opera training school in Peking in 1924. Their resulting friendship will span nearly 70 years and will endure some of the most troublesome times in China's history.",
+  "critic_reviews": [
+    "Farewell My Concubine is a demonstration of how a great epic can function. I was generally familiar with the important moments in modern Chinese history, but this film helped me to feel and imagine what it was like to live in the country during those times.",
+    "A vastly entertaining movie. It's also one of such recognizably serious concerns that you can sink into it with pleasure and count it a cultural achievement.",
+    "No film can ever hope to convey the complex mosaic of cultural upheaval caused by everything that happened between 1924 and 1977, but Farewell My Concubine does an excellent job presenting samples of the flavor while telling a story that is both epic and intimate.",
+    "This film's extraordinary unity of style, theme, and plot is what sets it apart from the superficial historical epic. Behind all the color, movement, and elaborate decor of this \"commercial\" film lies an exceptionally taut structure.",
+    "Appropriately operatic, Chen's visually spectacular epic is sumptuous in every respect. Intelligent, enthralling, rhapsodic.",
+    "Old-fashioned in form but modern in psychological dynamic, it’s a film that you can lose yourself in, that washes over you like a warm and enveloping mist.",
+    "While it is a triumph on an aesthetic level – Chen’s camera glides euphorically through temples and city streets, while the costumes and sets are meticulously authentic – it falls short because it struggles to combine the observational, detached style of its first half with the dramatic tribulations of the second.",
+    "Sharing the Palm D'Or at that year's Cannes, Farewell My Concubine is the emotional story of two childhood friends who grow up as apprentices in their much-loved opera house. With stunning set pieces and the dramatic backdrop of the revolution, Kaige captures perfectly the relationship between the two boys.",
+    "Director Chen and screenwriters Lilian Lee and Lu Wei (based on Lee's original novel) create a tapestry of detail woven with visual spectacle, historical saga and human drama. At over 2 1/2 hours running time, Farewell My Concubine is both too brief and too luxurious.",
+    "Dramatizing totalitarian oppression is hardly novel, but Farewell My Concubine may be the first film to capture the unique spiritual cruelty of a regime in which beauty itself had become a crime.",
+    "It's a lovely film, but a little inert. It reaches its high point with glorious close-ups of the children. From there, it's all downhill.",
+    "A seductively lensed but emotionally uninvolving drama about two male Peking Opera stars and the ex-prostie who comes between them, Chen Kaige's fourth feature, Farewell to My Concubine, reps a stylistic U-turn compared with his earlier abstract parables like Life on a String and Yellow Earth.",
+    "Like Cheung's ethereally plaintive voice, the movie is a siren song that's appealing at first, but held too long. It becomes an increasing whine."
+  ],
+  "reviews": [],
+  "num_reviews": 13,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Music"
+  ]
 }

@@ -1,28 +1,28 @@
 {
-    "title": "To Have and Have Not",
-    "rating": "tbd",
-    "release_date": "1945-01-20",
-    "genre": [
-        "Adventure",
-        "Thriller",
-        "Comedy",
-        "Romance",
-        "War",
-        "Film-Noir"
-    ],
-    "summary": "During World War II, American expatriate Harry Morgan helps transport a French Resistance leader and his beautiful wife to Martinique while romancing a sensuous lounge singer.",
-    "critic_reviews": [
-        "In many ways the ultimate Hawks film: clear, direct, and thoroughly brilliant.",
-        "An unassuming masterpiece, nominally based on Hemingway's novel and set in Martinique during World War II, this is Hawks' toughest statement of the necessity of accepting responsibility for others or forfeiting one's self-respect - the sum total of morality for Hawks - and the perfectbridge from the free and open world of Only Angels Have Wings to the claustrophobic one of Rio Bravo.",
-        "The dialogue is sharp, the direction first-rate, and the acting superb, but To Have And Have Not is undoubtedly best remembered for the on- and offscreen romance between Bogart and Bacall.",
-        "To Have and Have Not is neither an action picture nor a Bogart picture. Its story is, in fact, just a loosely painted background for a kind of romance which the movies have all but forgotten about\u2014the kind in which the derelict sweethearts are superficially aloof but essentially hot as blazes, and seem to do even their kissing out of the corners of their mouths.",
-        "Superb dialogue, beautifully played and hummingly atmospheric, this is sexy, poignant and tense with some surpising humour...only the plot shows cracks...",
-        "What Mr. Hawks and his script-writers have done to Mr. Hemingway's tale is to shape it out of all recognition into a pattern of worldly intrigue.",
-        "The picture\u2019s reason for being is Bacall, whose Marie \u201cSlim\u201d Browning slinks onto the screen asking Harry for matches and walks away with the entire movie.",
-        "Those anticipating something along the lines of Casablanca will be disappointed. Despite the superficial similarities and Warner Brothers' obvious desire to point them out, To Have and Have Not is inferior in almost every way that matters. But for those who visit this movie to vicariously experience the beginnings of Hollywood's most famous romance, it delivers in full.",
-        "The \u201dyou know how to whistle, don\u2019t you?\u201d scene is justifiably famous, and there\u2019s plenty more where that came from.",
-        "Warners give the pic its usually nifty productional accoutrements, and that includes casting, musical scoring and Howard Hawks\u2019 direction but the basic story is too unsteady."
-    ],
-    "reviews": [],
-    "num_reviews": 10
+  "title": "To Have and Have Not",
+  "rating": "tbd",
+  "release_date": "1945-01-20",
+  "summary": "During World War II, American expatriate Harry Morgan helps transport a French Resistance leader and his beautiful wife to Martinique while romancing a sensuous lounge singer.",
+  "critic_reviews": [
+    "In many ways the ultimate Hawks film: clear, direct, and thoroughly brilliant.",
+    "An unassuming masterpiece, nominally based on Hemingway's novel and set in Martinique during World War II, this is Hawks' toughest statement of the necessity of accepting responsibility for others or forfeiting one's self-respect - the sum total of morality for Hawks - and the perfectbridge from the free and open world of Only Angels Have Wings to the claustrophobic one of Rio Bravo.",
+    "The dialogue is sharp, the direction first-rate, and the acting superb, but To Have And Have Not is undoubtedly best remembered for the on- and offscreen romance between Bogart and Bacall.",
+    "To Have and Have Not is neither an action picture nor a Bogart picture. Its story is, in fact, just a loosely painted background for a kind of romance which the movies have all but forgotten about—the kind in which the derelict sweethearts are superficially aloof but essentially hot as blazes, and seem to do even their kissing out of the corners of their mouths.",
+    "Superb dialogue, beautifully played and hummingly atmospheric, this is sexy, poignant and tense with some surpising humour...only the plot shows cracks...",
+    "What Mr. Hawks and his script-writers have done to Mr. Hemingway's tale is to shape it out of all recognition into a pattern of worldly intrigue.",
+    "The picture’s reason for being is Bacall, whose Marie “Slim” Browning slinks onto the screen asking Harry for matches and walks away with the entire movie.",
+    "Those anticipating something along the lines of Casablanca will be disappointed. Despite the superficial similarities and Warner Brothers' obvious desire to point them out, To Have and Have Not is inferior in almost every way that matters. But for those who visit this movie to vicariously experience the beginnings of Hollywood's most famous romance, it delivers in full.",
+    "The ”you know how to whistle, don’t you?” scene is justifiably famous, and there’s plenty more where that came from.",
+    "Warners give the pic its usually nifty productional accoutrements, and that includes casting, musical scoring and Howard Hawks’ direction but the basic story is too unsteady."
+  ],
+  "reviews": [],
+  "num_reviews": 10,
+  "genres": [
+    "Adventure",
+    "Thriller",
+    "Comedy",
+    "Romance",
+    "War",
+    "Film-Noir"
+  ]
 }

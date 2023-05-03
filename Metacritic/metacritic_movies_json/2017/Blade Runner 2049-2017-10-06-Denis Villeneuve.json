@@ -1,701 +1,701 @@
 {
-    "title": "Blade Runner 2049",
-    "rating": 8.3,
-    "release_date": "2017-10-06",
-    "genre": [
-        "Sci-Fi",
-        "Drama",
-        "Mystery",
-        "Thriller"
-    ],
-    "summary": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what\u2019s left of society into chaos. K\u2019s discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former LAPD blade runner who has been missing for 30 years.",
-    "critic_reviews": [
-        "Blade Runner 2049 is not a perfect film. The pace occasionally puts the plod in the procedural and some story elements are introduced only to drift away to the land of possible sequels. But Villeneuve has created a genuinely thoughtful piece of sci-fi which escapes the gravitational pull of its inspiration to become something - to paraphrase Dr. Eldon Tyrrell - more Blade Runner than Blade Runner.",
-        "Director Denis Villeneuve (\u201cArrival\u201d) delivers a moody, visually stunning celebration of existential angst. Not that he skimps on the kind of mayhem that\u2019s de rigueur these days, but you have to wait for it \u2014 and wait for it. But when it does arrive, it\u2019s awesome.",
-        "Villeneuve crafts a movie both cerebral and sensuous, as puzzling and visually striking as its predecessor. The experience should be likewise revered by next generations.",
-        "Take a moment to absorb and interpret and appreciate the vibrant and gorgeous and sometimes brutal and mind-bending and occasionally incomprehensible hallucinatory epic that is Blade Runner 2049, which stands with the likes of \u201cThe Godfather Part II\u201d and \u201cTerminator 2\u201d and \u201cAliens\u201d as a sequel worthy of the original classic.",
-        "Blade Runner 2049, the superb new sequel by Denis Villeneuve (\u201cArrival\u201d), doesn\u2019t just honor that legacy, but, arguably, surpasses it, with a smart, grimly lyrical script (by Fancher and Michael Green of the top-notch \u201cLogan\u201d); bleakly beautiful cinematography (by Roger Deakins); and an even deeper dive into questions of the soul.",
-        "Blade Runner 2049\u2019s legacy will be estimated by both its ability to capture the spirit of the original and tell an enticing story in its own right. By virtually every measure, it succeeds \u2014 whether it\u2019s Villeneuve\u2019s careful, calculating directorial eye, Deakins\u2019 sharp, distinct cinematography, or the film\u2019s eye-popping visual design.",
-        "An exquisitely crafted sequel that stands shoulder to shoulder with one of the greatest films ever made. Everyone involved is operating at the height of their powers.",
-        "Ridley Scott\u2019s 1982 classic Blade Runner popularized the cyberpunk movement (a gritty mix of neo-noir and hardcore sci-fi) back in the day, but 2049 perfects it. Super-stylish and deeply human \u2014 even with androids and holograms around \u2014 the spectacular follow-up takes the detective story of the first film and turns it into a grand mythology of identity, memory, creation and revolution.",
-        "Villeneuve earns every second of that running time, delivering a visually breathtaking, long-fuse action movie whose unconventional thrills could be described as many things \u2014 from tantalizing to tedious \u2014 but never \u201cartificially intelligent.\u201d",
-        "That Blade Runner 2049 is a more than worthy sequel to Scott\u2019s first film means it crosses the highest bar anyone could have reasonably set for it, and it distinguishes Villeneuve \u2013 who\u2019s masterminded all of this, somehow, since making Arrival \u2013 as the most exciting filmmaker working at his level today.",
-        "As bold as the original Blade Runner and even more beautiful (especially if you see it in IMAX). Visually immaculate, swirling with themes as heart-rending as they are mind-twisting, 2049 is, without doubt, a good year. And one of 2017\u2019s best.",
-        "Blade Runner 2049 is a narcotic spectacle of eerie and pitiless vastness, by turns satirical, tragic and romantic.",
-        "It organically expands and grows what came before. It\u2019s a deep, rich, smart film that\u2019s visually awesome and full of great sci-fi concepts, and one that was well worth the 35-year wait.",
-        "Blade Runner 2049 is terrific, a worthy heir to one of the great science-fiction films of all time.",
-        "Blade Runner 2049 marries its ideas to its narrative in a way that blockbusters too often fail to these days. More importantly, it puts these ideas to a poignant end, bringing its characters to tragic or bittersweet reckonings in a manner that would do any of the old sci-fi masters proud.",
-        "Director Denis Villeneuve goes beyond the call of duty, with a lush, often mind-blowing refurbishing of the original sci-fi aesthetic that delves into its complex epistemological themes just as much as it resurrects an enduring spectacle.",
-        "Even when its emotions risk running as cool as its palette, 2049 reaches for, and finds, something remarkable: the elevation of mainstream moviemaking to high art.",
-        "The latest Denis Villeneuve achievement, Blade Runner 2049 is the rare sequel that both pushes the franchise to challenging new places and serves as a natural extension of what's come before.",
-        "Do androids dream of electric sheep? Maybe. But science fiction-loving cinephiles have definitely been dreaming of a movie like Blade Runner 2049 for years.",
-        "A ravishing visual colossus, Blade Runner 2049 more than lives up to its predecessor\u2019s legacy as a groundbreaking mixture of sound, images and mood.",
-        "Ford\u2019s memorable performance is just one of the many ways Blade Runner 2049 surpasses the original film. Its clever and compelling storyline is another. And then of course there are Deakins\u2019 incredible images.",
-        "The new film is the rare sequel that truly merits its existence, updating and expanding the themes of the 1982 original to bring them from the 20th century into the 21st. Yes, Blade Runner 2049 is one hard-working and deep-thinking replicant.",
-        "The pressure on filmmakers to equal or exceed the impact of a beloved original is intense. In a case like this, when the reputation of a movie has built over decades, expectations are elevated to an almost impossible level. With Blade Runner 2049, Denis Villeneuve has met those expectations by crafting a film that rivets the attention, excites the imagination, and engages the mind.",
-        "In terms of the imaginative ways it expands on the themes of the first movie, it is the rare sequel that is at least the equal of its iconic original.",
-        "It is often a captivating visual marvel, using newfangled special effects in ways that aspire more to the poetic than the kinetic.",
-        "It\u2019s one of the most stunningly shot films of not just this year, but the last several. I can\u2019t wait to just see it again, just to bask in its visuals without trying to follow its plot. And the sound design is so remarkable that it\u2019s almost overwhelming\u2014this is a film you don\u2019t passively watch, you experience it.",
-        "For Blade Runner junkies like myself, who've mainlined five different versions of Ridley Scott's now iconic sci-fi film noir \u2013 from the release print to the Director's Cut and the Final Cut (the last two minus that voiceover Scott and Ford hated) \u2013 every minute of this mesmerizing mindbender is a visual feast to gorge on.",
-        "There\u2019s a humanity in Gosling\u2019s K we haven\u2019t quite seen before in this world of frowning people and weirdos. And it\u2019s those little, subtle inflections that makes Blade Runner 2049 a success.",
-        "Blade Runner 2049 isn\u2019t about what happens; it\u2019s about what this terrifying and beautiful world \u2014 how could it not be, with Roger Deakins behind the camera \u2014 tells us about life and perception and reality.",
-        "Blade Runner 2049 should resonate deeply with anyone who\u2019s ever held love for the original.",
-        "This hefty, gleaming franchise object owes much of its resonance to the relationship its audience might have to a three-decade-old classic. CGI ghosts, audio samples, and callbacks (\u201cmore human than human,\u201d equestrian keepsakes, a boiling pot as a suspense device) haunt the film\u2019s vast, cavernous hallways.",
-        "Through sheer force of filmmaking will and mediation on what it means to be self-aware, Villeneuve\u2019s towering picture still manages to inspires awe and contains profoundly beautiful moments.",
-        "Despite its flaws, one thing about Blade Runner 2049 is most welcome: it is trying to be about something. It is trying to be deep, rich, and complex. We\u2019ve grown so used to lowest-common-denominator blockbuster cinema that it\u2019s almost shocking to watch a big science-fiction movie, featuring these kinds of stars, swinging for the fences in this way. It\u2019s hard not to be impressed by, and a bit grateful for, the ambition and care evident in every frame.",
-        "As shaped by Villeneuve and his masterful creative team, especially production designer Dennis Gassner and cinematographer Roger Deakins, this film puts you firmly, brilliantly, unassailably in another world of its own devising, and that is no small thing.",
-        "Daring in its own right, this broodingly sumptuous saga explores the primacy of feelings, the nature of memories and the essence of being human, framed as the difference between being manufactured or born.",
-        "Despite all the overlaps, this is not a simulacrum of a Ridley Scott film. It is unmistakably a Denis Villeneuve film, inviting us to tumble, tense with anticipation, into his doomy clutches.",
-        "Blade Runner 2049 stands as its own film, in addition to a continuation of the sequel. It\u2019s not the bolt out of the blue the first movie was, but how could it be? Instead, as the break between installments would suggest, it\u2019s a furthering of not just the original story but the original world, and that\u2019s quite an accomplishment.",
-        "Arrival director Denis Villeneuve pulls off the dare of the decade, hatching a thoughtful, expansive sequel to a sci-fi classic.",
-        "Is it a perfect movie? Not quite. The middle section drags a bit through no fault of the excellent performances, but ultimately it\u2019s all of a piece, and the mid-mark pacing turns out to be a relatively minor quibble.",
-        "Blade Runner 2049 is long and slow. It\u2019s never boring, but it\u2019s a little too mired in one sustained note of sadness to break out as a great experience or to stand out as a great movie. Still, there are some remarkable scenes.",
-        "More impressive than moving, more thought-provoking than heartfelt \u2014 chilling in its magnificence.",
-        "Every effect, each little detail in the \u201cBlade Runner\u201d sequel\u2019s formidable arsenal, creates the texture of a wondrously hideous near future, full of holographic accessories, slave-labor replicants and, as one character puts it, products and services of \u201cthe fabulous new.\u201d",
-        "Mr. Villeneuve\u2019s film, by contrast, is a carefully engineered narrative puzzle, and its power dissipates as the pieces snap into place. As sumptuous and surprising as it is from one scene to the next, it lacks the creative excess, the intriguing opacity and the haunting residue of its predecessor.",
-        "This new Blade Runner dazzles the audience with plenty of staggering sights but never quite matches the original\u2019s mysterious ability to suggest something even more incredible lying just beyond our ken.",
-        "Careful, dutiful, and beautiful, Blade Runner 2049 cannot achieve the sublime slipperiness of Scott\u2019s masterpiece. Whether it even needs to is up to you.",
-        "As a contrast to Gosling's deliberately deadened, emotionally zoned-out turn, Ford almost single-handedly amps up a film otherwise intentionally drained of character vitality.",
-        "So swollen with purpose, so titanically self-conscious in its mythmaking, that at times its nearly paralyzes itself with solemnity.",
-        "While it certainly stimulated and overwhelmed my senses, Blade Runner 2049 rarely got my mind whirring the way one always hopes this kind of artful, serious-minded sci-fi will.",
-        "It\u2019s not mere fan service; the film tries very hard to sustain interest with new characters and developments that draw on the past without being handcuffed to it, throughout its sometimes ponderous 163-minute runtime. But far too often that attempt to be interesting fails.",
-        "There\u2019s nothing close to the shock of seeing Blade Runner\u2019s Tokyo-influenced futuristic dystopia \u2014 a dismal mix of high-tech and corrosion \u2014 for the first time. I thought it was okay.",
-        "There are flashes of visual grandeur in Blade Runner 2049, which was shot by the always-inventive Roger Deakins, but there\u2019s not much reason for this film to exist outside of its fan base.",
-        "Denis Villeneuve\u2019s film is designed to reward the audience for recognizing references in the midst of an action pursuit, and, after an hour or so of the clipped and earnest signifying, one may find themselves nostalgic for Ridley Scott\u2019s unforced indifference to the issue.",
-        "If you have two X chromosomes, or know and like someone who does, Blade Runner 2049 may not be the movie for you.",
-        "Even if Blade Runner 2049 never forgets where it came from, it somehow keeps losing its way. The picture\u2019s moodiness is excessively manicured; this thing is gritty only in a premeditated way. Mostly, it feels like a capacious handbag, designed with perhaps too many extra compartments to hold every cool visual idea Villeneuve can dream up."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "A near perfect movie, and a sequel we never thought would be possible. It touches themes from the original with respect, while expanding the plot and adding to the world intelligently.The cinematography and music is also exceptional, oftenA near perfect movie, and a sequel we never thought would be possible. It touches themes from the original with respect, while expanding the plot and adding to the world intelligently.The cinematography and music is also exceptional, often the music and picture works together to show us a hypnotic view of a grim future that seems too real. Denis Villeneuve is definitely one of the best directors of our time.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Blade Runner 2049 is a beautifully crafted film and as good as any fan of the original could realistically expect it to be. I was nervous about what Villeneuve would come up with as I was not a fan of Arrival which I thought was far tooBlade Runner 2049 is a beautifully crafted film and as good as any fan of the original could realistically expect it to be. I was nervous about what Villeneuve would come up with as I was not a fan of Arrival which I thought was far too ponderous. Fortunately he's delivered the goods and then some!",
-            "review_date": "2017-10-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "There's certainly more style than substance on show in the new sequel, but the story is still engaging. At no point during the nearly three hours running time did I feel bored or frustrated with how the plot was moving along. There willThere's certainly more style than substance on show in the new sequel, but the story is still engaging. At no point during the nearly three hours running time did I feel bored or frustrated with how the plot was moving along. There will obviously be negative comparisons with the original, but this film should taken on it's own merit, and great merit it has.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I went in with low expectations and a feeling that I was going to come out disappointed. I'm thrilled to say that while not perfect, Blade Runner 2049 is in my opinion the best film of the year {so far} and unlikely to be topped. Worth theI went in with low expectations and a feeling that I was going to come out disappointed. I'm thrilled to say that while not perfect, Blade Runner 2049 is in my opinion the best film of the year {so far} and unlikely to be topped. Worth the wait? You bet!",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "While it doesn't raise thought-provoking questions as effectively as the original, \"Blade Runner 2049\" earns its position as a worthy sequel thanks to a captivating mystery, action that feels earned, intelligent themes & world building, andWhile it doesn't raise thought-provoking questions as effectively as the original, \"Blade Runner 2049\" earns its position as a worthy sequel thanks to a captivating mystery, action that feels earned, intelligent themes & world building, and lush cinematography which synthesises perfectly with an unearthly soundtrack. Never felt bored throughout the runtime and could have watched it for longer.",
-            "review_date": "2017-10-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "For those previously watched the first installment of Blade Runner or haven\u2019t seen it, it\u2019s safe to say that the latest installment of the Blade Runner franchise is easily one of the best sequels ever made PERIOD! Since this film is directedFor those previously watched the first installment of Blade Runner or haven\u2019t seen it, it\u2019s safe to say that the latest installment of the Blade Runner franchise is easily one of the best sequels ever made PERIOD! Since this film is directed by the man who made jawdropping films like Prisoners, Sicario, and Arrival, his articulation of direction and storytelling really does capture the right atmosphere that Ridley Scott has set since the first Blade Runner. Most people that worked with Ridley Scott had already returned for another ride, but this time with Denis Villeneuve. The things that Denis had done for this installment really shines without a shadow interfering at a splitsecond while watching this. The new characters and familiar faces for this latest installment impressed me, futuristic-like production design, electrifying visual and sound effects, kickass performances, spine-chilling orgasmic soundtrack, and the god-like cinematography that Roger Deakins set really does spark a lot of amazement for the sequel. (Get Roger Deakins his OSCAR ASAP!!!!) However, there\u2019s a thing that kind of caused a very little ruckus throughout the movie, but it doesn\u2019t affect the movie\u2019s quality that much since there will be another sequel readied for us to see what lies beneath the door (If confirmed...) Like Deckard said \u201cI did your job one\u2014I was good at it\u201d it clearly refers that someone else besides Scott or Villeneuve will take control and finish the story (if confirmed..)  Without a doubt, Blade Runner 2049 is an outstanding achievement and a technical masterpiece that will be enjoyed by many sci-fi fans around the world.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Creating a worthy sequel to one of the most influential films of all time is one hell of a tall order. It deserves no less than a dream team of talent and thankfully that's exactly what it got. The direction is sharp, the visuals pop, theCreating a worthy sequel to one of the most influential films of all time is one hell of a tall order. It deserves no less than a dream team of talent and thankfully that's exactly what it got. The direction is sharp, the visuals pop, the performances emanate, and the writing is true to the source without merely aping all the old notes or ruining all the mystery. Core themes of the genre it helped create like the line between illusion and reality or defining humanity and one's identity are both upheld and explored in increasingly nuanced ways. Those worried about a neo noir film devolving into an action fest can breathe too as that was oversold by the marketing. The one trademark I do miss though is Vangelis' multilayered, ever present composition. 2049 strikes a different tone and isn't afraid of quiet moments, but the absence of one of its predecessor's most defining features remains conspicuous. Still, nearly everyone involved in the project is at the top of their game and should be proud of the work they've accomplished. Time will tell exactly how well the sequel stacks up to the 'original', but in any case it comes as close one could ask for today. I can still scarcely believe it, myself.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "An absolute feast for the eyes {and ears} and despite it's running time and pace, absorbing and captivating. Unlike Arrival which I thought was  very overrated and dare I say dull, Villeneuve has triumphed with this definitely worth the wait sequel.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I could wake up tomorrow or in five years and realize this is a masterpiece, but as it stands now BLADE RUNNER 2049 Is a gorgeous-looking film with massive pacing and narrative issues. It has no right being 146 minutes long, and theI could wake up tomorrow or in five years and realize this is a masterpiece, but as it stands now BLADE RUNNER 2049 Is a gorgeous-looking film with massive pacing and narrative issues. It has no right being 146 minutes long, and the incredible effects, cinematography and a growling Harrison Ford can only distract you so long.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The movie's style and visual effects are groundbreaking. However, I think the movie falls apart in the second act, failing to bring its themes and plot together. By the end, I feel like even Villeneuve was exhausted by what he was trying toThe movie's style and visual effects are groundbreaking. However, I think the movie falls apart in the second act, failing to bring its themes and plot together. By the end, I feel like even Villeneuve was exhausted by what he was trying to accomplish. I would be wary of these \"masterpiece\" reviews.",
-            "review_date": "2017-10-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I've just finished watching Blade Runner 2049 and visually, its an amazing film that is second to none. After that said, I'm kind of disappointed with the film and don't think its anywhere as a lot of the critics I like have stated the filmI've just finished watching Blade Runner 2049 and visually, its an amazing film that is second to none. After that said, I'm kind of disappointed with the film and don't think its anywhere as a lot of the critics I like have stated the film to be.First as a Denis Villeneuve fan who have seen all his English works (apart from Enemy), this is by far his least impressive work. The problem is not really his direction, but rather the less than impressive writing and some very on the nose-exposition that makes the world less believable as it should be. Perhaps the biggest problem with this film is that it raises a lot of questions that don't really invite intrigue as it hopes it should do. The film is plot heavy compared with the original, but unlike the original, I don't feel the world building in 2049 is as good as the original. For example, the original was always a character study with Deckard who lived in this futuristic LA who was suddenly plugged back to his job. Here we saw the cyberpunk world he lived in with many interactions between characters that seem real and genuine. However in 2049, Ryan Gosling's character is never really interacting with characters that feel part of the world, but rather characters to further the plot point.For example, many of the character interactions involve just two people who either point Gosling to somewhere or discuss exposition. You never get a sense of any of these characters. Note in the original the society seems lived in with Dekard constantly having to push people away or him drinking the alcohol at the bar which seems like what he would normally do etc. The biggest offender in 2049 is that the film has characters and events that lack consistent motivation with logic jumping points that bugged me throughout the film. Because I don't wanna spoil any of the plot really, its worth noting that a lot of what happens doesn't necessarily follow the things said or done preceding it. That said, the original Blade runner didn't really per se have much of a plot either, but which is why I've always classified the original as a character study more than anything else. Given that Villenueve is a master of this genre (given all his films are character studies), it is ultra disappointing that Ryan Gosling's character doesn't go through the same journey nor development that Deckard went through. Sure there might be some sentimental aspects that happens in the film, especially with the female characters, there is never a scene like when Deckard starts drinking (after killing Zhora) or his nod at the end that symbolises anything gone through, so when sentimental events happen in 2049, I never felt any emotion towards these events unfortunately.The other problem with 2049 is that it sets up a lot of hints of a bigger world which feels like playing an RPG game with many side quests available. In fact, I would go so far as to compare this movie as awfully similar to the Deus Ex game series. Part of the problem  lies with the co-writer Michael Green who also happen to write Alien Covenant and Logan which had the same issues popping up with this film (great premises and start, but then devovles into convuluted plots and sets up that goes nowhere)Given that the original Blade runner inspired so much of the genre we know today, its disappointing that 2049 doesn't really offer us anything new or done better in terms of the sci-fi trope. In fact, 2049 rather borrows a lot of its plot and themes from current films that have done it better. There a little bit of Her here, a little bit of Children of Men here, and even a little bit of Ex Machina, but when put together, does not feel as satisfying.Also with the extremely long movie length (I don't mind how long a film is), there could be a case made that it didnt need to take nearly 3 hours to tell this story. A lot of the film is broken into smaller dense sequences that involve people talking either about what is going on with the world, or furthering the plot. This is why I don't believe the world building is as good as the original. Whilst 2049 remains ever faithful to the Asian themes, the motif of the eyes etc, it has nowhere the ambiguity and the guts to tackle bigger issues like corporation takeover or the idea of 'white flight'. In fact, 2049 seems to abandon a lot of the themes from the original that doesn't seem to reflect in a more futurstic LA.Overall 2049 is still a dazzle of a film and is worth watching as a good sequel. However, it is clearly overstated as the acting and cinematography are great, but not so acclaimed as some might say. There are lot of things that work in this film, but I feel as though this doesn't per se elevate the film to the status as the original. I hope this doesn't become a franchise and that if they decide to do the next iteration, it should be something with a more a personal setting and philosophical overtone, rather than a plot heavy noir.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Yep, another masterpiece, only... not so much. If movies are primarily about the story, the new Blade Runner sucks. There are too many unnecessary scenes, too many amazingly slow ones, and many which I like to call executions - on the surfaceYep, another masterpiece, only... not so much. If movies are primarily about the story, the new Blade Runner sucks. There are too many unnecessary scenes, too many amazingly slow ones, and many which I like to call executions - on the surface something happens there, but indeed they are only about exposition. Every scene with annoying Jared Leto is just that: cheap exposition. Bad guys are one-dimensional, unlike Rutger Hauer in the first movie.  Rich, original environment of the first movie are now desolate ruins. Which is nice, for a second, but then you see almost all scenes are empty. At some point, it looks like there are not secondary characters in this world. Gosling was a good choice, and there is enough good thing in BR that you still can watch it and have fun, but BR2049 should simply be much better than this.",
-            "review_date": "2017-10-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Bloated, portentous and worst of all, dumb posing as smart, for a Blade Runner obsessive like myself, Blade Runner 2049 is pretty much a worst-case outcome from the decision to \u201creboot\u201d.\u200b\u200bIt combines the ultra-slow pacing of a RussianBloated, portentous and worst of all, dumb posing as smart, for a Blade Runner obsessive like myself, Blade Runner 2049 is pretty much a worst-case outcome from the decision to \u201creboot\u201d.\u200b\u200bIt combines the ultra-slow pacing of a Russian art-house movie, with the implausible action sequences of a mainstream blockbuster. It has intellectual pretensions, but no real ideas, other than some half-baked biblical referencing. It takes a lazy, hand-waving approach to its plot and world-building. For me, that\u2019s all unacceptable. If you decide to make the sequel to one of the most revered movies of all time, you need to get your quality bar pretty damn high. Blade Runner made its name by being genuinely intellectual, and having an insane level of attention to detail. This film fails to achieve either.There are plots holes you could fit the Tyrell Corporation's headquarters through. I can\u2019t talk about those without spoiling, but lets just note that the core premise of the movie as spelled out in the opening crawl, the invention and legalisation of unquestioningly obedient replicants, is in direct contradiction to almost everything that follows, including the rationale for the mission the protagonist is sent on. The acting is fine, good even, BUT the actors are doing their best with horribly written characters who constantly make decisions that are absurd, often in order to set up action scenes that shouldn\u2019t logically occur. Where the original revelled in moral ambiguity, we get a cartoonish boss villain who looks and talks like an evil-yoga instructor and appears to live in a health spa, and an even more cartoonish hot-lady-assassin henchwoman. In keeping with that Holywoodisation, all the women in the film are presented as lust objects, either evil or victims, and not in the knowing sense of exploited Zhora or Rachel, but as sadistic titillation.There are a bunch of scenes basically nicked from other movies, in particular Spike Jonze\u2019s brilliant Her.Where the original asked genuinely profound philosophical questions about what it means to be human, this one has some quasi-religious guff about miracles and souls that jars badly with the paranoid, psychological Dickian source material and the post-religious bio-technological world that was presented in the first film.The world building is terrible.The world we are shown also doesn\u2019t tie in with the mostly deserted, \u201ckibble\u201d strewn dying earth of the original. That was a place where almost all the able-bodied have left for the off-world colonies and the only remaining animals were manufactured. Despite some kind of second eco-disaster and a tech disaster both fleetingly referred to in the opening crawl (and in Matrix2esque short films on youtube), the world presented here is less dilapidated, more progressive, more organised, etc. than in the original. Fading art -deco has been replaced by Scandinavian design.The technology is all over the place. Again, that\u2019s hard to talk about without getting into spoilers, but basically the film assumes that flawless AI\u2019s and super functional \u201cnormal\u201d robots/drones exist, and then doesn\u2019t in any way address the ramifications of how those facts would impact the whole idea/purpose/issue of replicants, and how and why they are used, and how/why Blade Runners are used to track them down. I think that comes back to a recurring problem ideas being included because someone thought they were \u201ccool\u201d rather than being story/world driven.There are constant heavy handed and unconvincing analogies beween replicants, and real-world slavery and racism which the film then does nothing to explore.In some ways it\u2019s a bit like the Force Awakens, another recent reboot that I hated. It\u2019s a technically competent film that heavily references the original, in terms of props, characters and art style. It even features Harrison Ford. It has a plot driven by a series of improbable coincidences and chance discoveries that seems more like an excuse for \u201ccool visuals\u201d than a logical, character driven progression. But whereas the Force Awakens knew exactly what it wanted to be, going unashamedly for a nostalgia-fuelled, international, mass market audience, B2049 falls between stools.I feel a lot of people are going to disagree with my negativity on this one. There\u2019s massive hype and hope around this movie, and it is mostly beautiful. Understandably, Blade Runner fans will want to like this movie. but going back to the Force Awakens comparison, after six months have passed, and people have moved through denial and anger stages, the sad reality of how average this film is will sink in.I went in to this one with mixed expectations. I loved Arrival, the director\u2019s previous foray into SF, but on the other hand I thought that a reboot of Blade Runner was an inherently bad idea. For me, this one failed hard, both as a sequel and as general entertainment.",
-            "review_date": "2017-10-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is visually exciting and a feast for the ears. Unfortunately every shot lingers on the screen for 3 or 4 times the length necessary to tell the story. And the story is hampered b y a lack of logic.  When the villain Wallace tells Ford heThis is visually exciting and a feast for the ears. Unfortunately every shot lingers on the screen for 3 or 4 times the length necessary to tell the story. And the story is hampered b y a lack of logic.  When the villain Wallace tells Ford he can take him off-world to torture him and get an answer he wants...he could do the same thing in the room he is in. And the big secret is obvious from early in the script.This needs a rewrite from a skilled screenwriter and then a serious editor to trim out the fat...by which I mean you could keep every shot cut to the length to make the next story point and the movie would be less than 100 minutes.The audience I saw it with was restless. There was no applause at the end, they just filed out in dispirited fashion.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "While the film wasn't terrible, it wasn't amazing either. The interactions between characters was superficial and their motives were as well. There was nothing profound like there was in the first Blade Runner. The scenery and sets wereWhile the film wasn't terrible, it wasn't amazing either. The interactions between characters was superficial and their motives were as well. There was nothing profound like there was in the first Blade Runner. The scenery and sets were beautiful, as were some of the special effects, but a film can't be based solely on these things alone. It needed to have a villain, but it lacked this entirely. There was barely an iota of conflict during the film, it was simply void. We didn't know why the 'villains' were doing the things they did. The problem was again that these villains didn't have real motives. Nothing was believable, there was simply fabricated disdain and strife which didn't serve the purpose of creating a compelling story line. Also many of the scenes were too long, drawn out and weighed down with superfluous pause.",
-            "review_date": "2017-10-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Movie seemed intent on putting moviegoer to sleep and then waking them with loud bangs. I would awaken to think I was watching some kind of cruelly beautiful Czechoslovakian arthouse film.",
-            "review_date": "2017-10-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Style over substance, pretentious emulation over valiant ambition. It's corious that this movie, in a sort of meta-narrative way, tries its best to be a replicant of the the original masterpiece but it totally fails to be what a replicant isStyle over substance, pretentious emulation over valiant ambition. It's corious that this movie, in a sort of meta-narrative way, tries its best to be a replicant of the the original masterpiece but it totally fails to be what a replicant is to a human, a perfect alternative of the original. 163 minutes of Gosling boring looking expression while not a single thought is passing through his damn head, clich\u00e9 insane villan with zero substance and his clich\u00e8 nazi dog kicking asses around for reasons. Wrong photography all over: it's a **** noir with a white and orange palette, totally lacking the oppressive atmosphere of the original movie. Plot bad written and bad narrated, full of plot holes and incongruencies. This is not only a bad movie compared to the original, this is an atrocius sci fi movie to the level of 2017 GoTS.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This review contains spoilers, click expand to view.\n        \nThe new Bladerunner is so wrapped into symbolism, metaphors and themes that it forgets to make sense of it's world building, storytelling, character definition. Completely void of any inner logic, it falls short of even being a movie: it is indeed a magnificently crafted slow motion picture consisted of ingenious albeit often out of place designs and populated by a very talented crew of actors. Technically superb on a visual level, it is a gorgeous eye candy that gives you amp time to observe it's visual mastery and wonder why the heck couldn't they find someone to write for it, not that fanatic Ridley Scott that ruins Alien franchise with his last movies. The story is a series of most amazing coincidences that lead up to nothing at all, leaving you with deep questions like what do 12 hives of bees eat in a mad max fury road wasteland.",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This review contains spoilers, click expand to view.\n        \nContrived story and Pretentious story telling. Over the top exposition that drones on and on to overly explain and give feeling of importance to an unimportant plot.  So the plot goes something like this;  Rachel and Deckard had a child. so the movie spends 2 hours trying to convince you its important somehow. CGI Rachel was the lowest point of the movie, with the villain suggesting that it was planned for Rachel & Deckard to meet in some sort of master plan.There are a handful of good scenes in this movie. Such as the opening scene, or in some of the visuals. But much of it is style over substance. The good pieces are far and few. And in between are just horribly long expository scenes where characters you dont care about talk about nothing at all. Nothing important or interesting happens throughout this entire movie. Just some stuff happens, some nice visuals thrown in, then it's over. I just wanted something to happen that I could care about. ANYTHING. go down in the streets. show what life is like down there. Let things happen on screen. Get me invested in a character or in the world. I just got so tired of boring people talking. Many of the sets are bland and uninspired. Bland white walls and bland white floors. or yellow walls and yellow floors. Don't bother if you enjoy the small details, because they aren't there. Many of the environments look sterile and lack the Blade Runner 1982 details. The Original movie wasnt like this at all. The environments were dirty, messy. unorganized, and lived in. You don't get that feeling at all in 2049. I get it that its supposed to be like 30 years later. But come on. This isnt meant to be **** star wars.The soundtrack was calm and sentimental at times, and then at other times very obnoxious and loud. I didn't enjoy the tone of this movie. The original soundtrack by Vangelis was beautiful. But this was like a dying cat at times. Also, dubstep. Really? What I would have liked to see in a new Blade Runner film would be a grounded movie about a Blade Runner who hunts replicants. We got that in the opening scene like an appetizer. But then the rest of the movie is just up in the clouds, trying hard to push its meaningless plot as interesting and meaningful when in actuality it isn't. Blade Runner 2049 is style over substance.My rating: Mediocre",
-            "review_date": "2017-10-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "True homage to the original. A great sequel. Truly refreshing. The ending tapered off and some characters should have been better developed for a trade of some of the other scenes. A must see, especially in 3-D.",
-            "review_date": "2017-12-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I loved everything about this movie. This is the kind of movie that makes you travel to another world but at the same time treats of very concrete human topics. It is so rich, it's full of information and questions at the same time. It makesI loved everything about this movie. This is the kind of movie that makes you travel to another world but at the same time treats of very concrete human topics. It is so rich, it's full of information and questions at the same time. It makes you travel both visually and mentally at the same time. During the whole movie you'll be wondering if it is science-fiction or anticipation? Some philosophical topics are treated without getting boring. What's the meaning of destiny or sense of purpose? What's the difference between man and machine if both are capable of having feelings and emotions? Denis Villeneuve, his crew and the cast just set new standards to what a masterpiece can be. Well done guys.",
-            "review_date": "2017-12-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Honestly, I rented this a year or two back, must not have been in the right mood, wrote it off as boring and never watched it through.   Mood has a lot to do with our perception of a movie.   I was 100% wrong about this movie.  It\u2019s deep,Honestly, I rented this a year or two back, must not have been in the right mood, wrote it off as boring and never watched it through.   Mood has a lot to do with our perception of a movie.   I was 100% wrong about this movie.  It\u2019s deep, it\u2019s dark and intelligent.   No spoiler, but it does tie into the original.   I absolutely loved its quiet suspense filled build up and futuristic atmosphere.   It\u2019s an awesome movie!   Make sure you are in a calm, settled mood going in.  It\u2019s not going to blow you away with over the top action and if you don\u2019t pay attention you will totally miss the plot.  Hoping there is a sequel!",
-            "review_date": "2021-02-28",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is just a movie that standstoe to toe with its original. And being that the original was one of the best movies ever made, that\u00b4s saying something. I would even say that, in some aspects, it\u00b4s even better.",
-            "review_date": "2021-03-10",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A masterpiece hands down.I enjoyed this film.Hopefully it gets more sequels.",
-            "review_date": "2021-03-17",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Blade Runner 2049 is honestly a masterpiece and a half, the movie's got a great story.The story is pretty much about this lad called Officer K (Ryan Gosling) who's an officer with the Los Angeles police department, he finds out a big secretBlade Runner 2049 is honestly a masterpiece and a half, the movie's got a great story.The story is pretty much about this lad called Officer K (Ryan Gosling) who's an officer with the Los Angeles police department, he finds out a big secret which could end up starting lots of chaos.He later goes on a mission to find a former blade runner called Deckard (Harrison Ford) who's been missing for the past three decades.The acting from all of the cast throughout this movie is honestly brilliant, especially from Ryan Gosling and Harrison Ford, those two are honestly amazing in this movie.The dialogue which is given throughout this movie is honestly brilliant, the dialogue never feels too forced. It just feels very natural and it's really well given from all of the characters who are in this movie.Also, the chemistry between Officer K and Deckard is great and it's built up so well throughout this movie.The movie's even got some beautiful music composed by Hans Zimmer, Benjamin Wallfisch, Ron Bartlett and Michael Hodges. Those four do a great job on composing this beautiful soundtrack as a whole.The pacing throughout this movie is honestly great and each moment is built up very well.The cinematography from the man, the myth and the legend Roger Deakins is honestly so beautiful. He captures the scenes so beautifully and he does such a great job at capturing the moments so well.Finally, the action sequences throughout this movie are very clever and very graphic and they're also very well done.The CGI effects hold up pretty well and they don't look very outdated at all, which is really good.The green screen effects throughout this movie also hold up very well and they're very aesthetically pleasing to look at.The movie's even got some great visuals which also hold up very well and they have such a unique look to them.The set designs for this movie have a very beautiful and unique look to them, which I thought made them look very unique.Overall, Blade Runner 2049 is honestly a masterpiece and a half. The movie's got a great story, brilliant acting, brilliant dialogue, great chemistry, beautiful score, great pacing and some beautiful cinematography.The movie's even got some very graphic action sequences, great CGI effects, aesthetically pleasing greenscreen effects, great visuals and some very beautiful set designs. I'd honestly recommend to watch this movie straight after watching the original Blade Runner (1982) it's honestly worth the watch.",
-            "review_date": "2020-08-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Best film I have ever seen at the theatre. EVER. Hands down! I can't add anything that's already been said about the pure brilliance of this film. The sound design, Deakin's cinematography, Villeneuve's directing and fantastic acting by all.Best film I have ever seen at the theatre. EVER. Hands down! I can't add anything that's already been said about the pure brilliance of this film. The sound design, Deakin's cinematography, Villeneuve's directing and fantastic acting by all. A Masterpiece that is flawless in every way. my first ever 10/10! Can't wait for DUNE!",
-            "review_date": "2020-12-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "At first I thought this movie shouldn't be made. Oh boy I was wrong. Somehow it managed to be better even than the original. World-building, atmosphere, cinematography, visual effects. 2 hours and 45 minutes that I barely felt going by.",
-            "review_date": "2020-08-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Possibly the greatest follow up movie in the history of cinema. It even beats the Empire Strikes Back. A very worthy successor to the original.",
-            "review_date": "2020-12-01",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "literally a masterpiece . great acting amazing cinematography as well as the soundtrack okay plot , but that's not what I love this movie for .",
-            "review_date": "2021-01-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A great sequel, with just one problem: 10-15 minutes too long.Beside that: awesome atmosphere, visuals, audio and storytelling.A simple story for complex characters.New classic together with the immortal first chapter.",
-            "review_date": "2018-01-01",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A+, One of the best sequels ever, brilliant on all levels.",
-            "review_date": "2020-01-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A cinematic masterpiece. Excellent storyline, simple ideas yet captivating. Acting is as expected from Gosling and Ford. Villenue\u2019s direction accompanied by Deakins\u2019 cinematography and Wallfisch/Zimmer score truly make this film the classicA cinematic masterpiece. Excellent storyline, simple ideas yet captivating. Acting is as expected from Gosling and Ford. Villenue\u2019s direction accompanied by Deakins\u2019 cinematography and Wallfisch/Zimmer score truly make this film the classic finish to a riveting franchise.",
-            "review_date": "2020-04-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Never imagined there being a sequel to Blade Runner, but this effort is exceptionally good.While not as moody or atmospheric as the original it is still a fantastic movie in it's own right.",
-            "review_date": "2021-01-09",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Stunningly beautiful shots, the atmosphere of noir and cyberpunk is transmitted luxuriously, looks in one breath. the actors play at the highest level, the film keeps in suspense until the very end.",
-            "review_date": "2020-12-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Clearly a movie not for the mainstream audience. It's long and not action packed as the usual Hollywood movies. It takes its time to tell a story, focus on the character and expand the universe, scene by scene. Cinematography is great, theClearly a movie not for the mainstream audience. It's long and not action packed as the usual Hollywood movies. It takes its time to tell a story, focus on the character and expand the universe, scene by scene. Cinematography is great, the music of Vangelis fits as in the 80s movie.My only gripe is, that we knew from the trailers that Harrison Ford will be in it. Could have been a nice reveal. Denis Villeneuve is clearly, after seeing Dune, one of the best film makers to date. Too bad, we live in a world where this kind of movies doesn't attract the masses and does good money for the studios. Films like this is why I go to the cinema.",
-            "review_date": "2021-10-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is a worthy successor to the original Blade Runner film. It was clever, exciting, and gorgeous.",
-            "review_date": "2019-09-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I really think it is the best movie ever. Silent, calm and whenever required - dynamic. Music in the film like meditation.",
-            "review_date": "2019-01-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The movie is a masterpiece, following the original that was really good, this one simply surpasses almost every aspect and becomes perfection itself",
-            "review_date": "2019-01-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie has fantastic art. And good story.I can\u2019t understand why the other people dislike this movie.",
-            "review_date": "2019-02-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Beautiful, dynamic in its storytelling and an absolute feast for the mind and they eyes. A positive expansion on the first film, this allows one to question android humanization through a much more current set of eyes",
-            "review_date": "2019-02-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is the kind of spectacle that is so amazing, its luxurious visuals are constantly feeding the eyes, so it can inspire many people. Even though it tells about artificial creatures, nothing feels like a replica. Emotions are genuine. TheThis is the kind of spectacle that is so amazing, its luxurious visuals are constantly feeding the eyes, so it can inspire many people. Even though it tells about artificial creatures, nothing feels like a replica. Emotions are genuine. The feelings conveyed by the characters are so human. Through strong plot, reasonable world development, and a series of philosophical questions that flow smoothly as story dimensions, this successful film success becomes not only one of the best sequels - it can stand alone, not depend on other films - but also the best films ever existed.",
-            "review_date": "2019-03-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "While some of the scenes in this movie are a little too brooding and long it provides a great and creative CG not seen in other movies. The casting and acting is superb. Would have liked to see of Leto's character, Wallice developed moreWhile some of the scenes in this movie are a little too brooding and long it provides a great and creative CG not seen in other movies. The casting and acting is superb. Would have liked to see of Leto's character, Wallice developed more instead of the overly long 'Elvis' scene in Vegas and others. Leto was great at portraying what little of this character we see. As it is his character is too disjointed and sketchy to make much sense. There is a depth there that just wasn't developed.",
-            "review_date": "2019-06-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A masterpiece and I already knew it before they shot the first frame. This is a Denis Villeneuve film, and anybody versed with the man's filmography will realize that this is an artist of the highest order. Had Blade Runner been given toA masterpiece and I already knew it before they shot the first frame. This is a Denis Villeneuve film, and anybody versed with the man's filmography will realize that this is an artist of the highest order. Had Blade Runner been given to anybody- even Ridley, I can guarantee you the final result wouldn\u2019t be half as good as what we see here. Ryan Gosling takes over the role played by Harrison Ford in the 1982 original and he essays an effortlessly cool protagonist living in the future of decay and destitute. Harrison Ford is also back in a glorified cameo but its glad to see the old man back in this Universe. The special effects are amazing with a careful mixture of carefully rendered CGI and practical effects. The film looks fantastic, but it is the plot that is the heart and soul of this great film. You should go and watch Blade Runner before seeing 2049 and then come and marvel at this masterpiece. One of the best recent science fiction films.(Denis Villeneuve has created a masterpiece).",
-            "review_date": "2019-08-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I never thought that my favorite Movie of all Time is gonna be this one. Just everything in this just Clicks for me. The Acting the beautiful Pictures and the overall Story is just Perfect. For some People the Movie is to Slow but i didn'tI never thought that my favorite Movie of all Time is gonna be this one. Just everything in this just Clicks for me. The Acting the beautiful Pictures and the overall Story is just Perfect. For some People the Movie is to Slow but i didn't mind it because the World of Blade Runner managed to Catch me. I had no hope that it would be better than the Original but i personally find it is. Its is not your average Hollywood sequel. This Movie is what i call an Masterpiece.",
-            "review_date": "2019-05-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Being a fan of 'Do Androids...' I picked this up on a whim and was absolutely flabbergasted. It is one of the most spellbindingly immersive and atmospheric films ever put to tape. The cinematography is first class, as is the acting (I evenBeing a fan of 'Do Androids...' I picked this up on a whim and was absolutely flabbergasted. It is one of the most spellbindingly immersive and atmospheric films ever put to tape. The cinematography is first class, as is the acting (I even managed to like Jared Leto). It is the most staggeringly brilliant films I have ever seen.",
-            "review_date": "2019-06-28",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Blade Runner 2049 is is an amazing sci-fi masterpiece and my favorite movie of 2017. It is phenomenal movie that left me completely stunned and wanting to watch it again almost immediately. I want to watch this film over and over again.",
-            "review_date": "2019-08-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "When I heard they were making a sequel to Blade Runner, one of my favorite films at that time, my reaction was \"No! Leave the original alone!\". Thank God they didn't because Blade Runner 2049 is just as good, if not better than the original.When I heard they were making a sequel to Blade Runner, one of my favorite films at that time, my reaction was \"No! Leave the original alone!\". Thank God they didn't because Blade Runner 2049 is just as good, if not better than the original.I remeber my biggest fear was that they would drop the slow pace and noir atmosphere for more action and explosions, but thankfully, the film remains just as slow and just as great for it as the first one.The effects are outstanding and sure to stand the test of time just like the original's. Roger Deakins' cinematography is stunning in every way. The performances from Ryan Gosling, Ana de Armas and Harrison Ford are spectular.I love how realistically the technology has progressed since the first once. Everything's just a little more advanced after thirty years.I also love how it subverts the \"chosen one\" trope.K may not have been a real human bean, but he sure was a real hero (sorry).Rarely does a movie come around and blow away all my expectations like this.",
-            "review_date": "2020-10-21",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Dennis Villeneuve once again proves himself to be among the most competent directors around. A sequel that arrived this much later and still delivers on every front? No wonder he is my favourite director!",
-            "review_date": "2021-09-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This film is a work of art. Stunning images, fantastic sound design and beautiful colors. The story was mysterious and the time was taken to tell it at a good pace.",
-            "review_date": "2020-04-28",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "True fans will get this film and I can't get enough of it. Ryan goslin portrays his character so we'll that you can't keep your eyes off the screen. I love this film because it is simply art every time I watch it.",
-            "review_date": "2019-10-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "My favorite movie of the decade. For my, everything fits in \"Blade Runner 2049\". The soundtrack, the acting, the story. I really don't know anything to complain about. I definitely have to see it again.",
-            "review_date": "2019-12-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is a beautiful movie and it captures the essence of what the first movie was about. It does so in a different way, and does so with heart.",
-            "review_date": "2020-01-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "On par with the original Blade Runner,I saw this one first and then the original by Ridley Scott.",
-            "review_date": "2020-12-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of the greatest sequels ever. \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf...................",
-            "review_date": "2021-04-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Blade Runner 2049 is beautifully crafted .What makes Blade Runner 2049 special is how it blends everything well together .\n\nThis isn't simply a 'movie,' it is art .\n\nThis is a love letter to the movie franchise .\n\nThis is a film that wasBlade Runner 2049 is beautifully crafted .What makes Blade Runner 2049 special is how it blends everything well together .This isn't simply a 'movie,' it is art .This is a love letter to the movie franchise .This is a film that was overlooked by many but those who have enjoyed watching it will knowhow underappreciated this film is .A timeless film no doubt .",
-            "review_date": "2021-07-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "In an era where 35-year sequels and remakes are merely vehicles for a quick cash grab, Blade Runner 2049 is perhaps the only example that lives up to the original. I'd dare to say that this even surpasses the original Blade Runner in manyIn an era where 35-year sequels and remakes are merely vehicles for a quick cash grab, Blade Runner 2049 is perhaps the only example that lives up to the original. I'd dare to say that this even surpasses the original Blade Runner in many ways, particularly in the plot, score, and moral implications. It also defines its own aesthetic, which while not as groundbreaking, is equally meticulous. What it doesn't do as well as the original is in the overacted, unmotivated villains and a bit of the deus ex machina ending... but we're just nitpicking here. Denis Villeneuve has proven that he can just about handle any subject matter with the attention to detail and care that the fans deserve. Its a tragedy that BR2049 did not get the financial success needed for Hollywood to explore this world further. Perhaps in another 35 years.",
-            "review_date": "2021-07-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A visually stunning, beautifully shot, and absolutely gorgeous cinematography, Blade Runner 2049 is mesmerizing as well as narratively satisfying.",
-            "review_date": "2021-07-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I though that I wouldn't like the movie, to be honest. But, then, I let it play and wow... Found out it was really beautiful and intense, with an amazing cyberpunk vibe, showing a future that could be real. I had happy moments and some otherI though that I wouldn't like the movie, to be honest. But, then, I let it play and wow... Found out it was really beautiful and intense, with an amazing cyberpunk vibe, showing a future that could be real. I had happy moments and some other I was left hanging in anxiety and the plot was very well constructed in my view. Very well done!",
-            "review_date": "2021-07-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Mixed reviews 160, Negative Reviews 183, Positive Reviews 2,094. 343 of these reviews are incorrect. Blade Runner 2049 is easily one of the perfect sequels to a Classic Sci Fi action opus. Blade Runner 2 is an instant classic from one of theMixed reviews 160, Negative Reviews 183, Positive Reviews 2,094. 343 of these reviews are incorrect. Blade Runner 2049 is easily one of the perfect sequels to a Classic Sci Fi action opus. Blade Runner 2 is an instant classic from one of the savviest directors working in Hollywood these days.",
-            "review_date": "2021-09-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A sequel that actually lives up to the original. Breath taking visuals and cinematography with an interesting story.",
-            "review_date": "2021-10-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of the rare sequels that transcends the original, Blade Runner 2049 is a work of art that sits among the greatest films ever created.",
-            "review_date": "2021-10-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It's visually stunning with a semi-easy plot to follow with some of the best performances you'll see from Gosling and Ford. This will go down as not only one of the best movies of 2017, but also one of the best sequels of all time.",
-            "review_date": "2017-10-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The original Blade Runner was my first introduction to metaphysical philosophy. It was one of most profound and beautiful movies of the 20th century and it still affects me to this day..When I saw Ryan Gosling cast in the 2049 I was veryThe original Blade Runner was my first introduction to metaphysical philosophy. It was one of most profound and beautiful movies of the 20th century and it still affects me to this day..When I saw Ryan Gosling cast in the 2049 I was very disappointed. I swore to myself never to attend a movie of his again after the disgusting abomination that is \"Only God Forgives\" but I relented eventually, Blade Runner is that important.. He is the weakest part of the movie for me. I just don't like his voice or face. Thats personal preference.And what is the movie? A continuation of the transhumanist question from Blade Runner 1. Can replicants ( or even AI's who receive very positive treatment here) have souls? Can man be a God and create life? My anwswer is no and the movie answers in the affirmative, understandably. Judge for yourself.Symbolism and esotericism saturate every scene. Every line of dialogue, prop, stance, quirk, image,prominent and obscured has an obvious meaning ...and  hidden one...It feels religious in its exposition because in a way it is. Its arcane and occultist. It makes one think and want to return for closer inspection. Whatever your philosophical position there can be no denying the beauty visually and aurally of this devastated dystopia. Gosling apart, a masterpiece..",
-            "review_date": "2018-01-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Most sequels can not keep up to their high expectations. Blade Runner 2049 does.i was satisfied with story, visuals and pacing. Not boring at all.",
-            "review_date": "2018-02-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I dont know wich film i love more if this one or the original, so this movie is almoast perfect i cant see anything wrong in it or something that ill change but still i wouldnt recomended it because is too slow and its not for everybody.I dont know wich film i love more if this one or the original, so this movie is almoast perfect i cant see anything wrong in it or something that ill change but still i wouldnt recomended it because is too slow and its not for everybody. Loved Ryan as \"K\", Dennis getting better film after film and Deakins is god in it.",
-            "review_date": "2018-02-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Blade Runner 2049 will probably be looked back upon in the future as one of the more compelling sci-fi dramas of all time. It executes nearly everything to perfection, continuing to build upon some of the great aspects of the first film whileBlade Runner 2049 will probably be looked back upon in the future as one of the more compelling sci-fi dramas of all time. It executes nearly everything to perfection, continuing to build upon some of the great aspects of the first film while being able to avoid some of the narrative blunders of the original. The setting and visuals of the film are beyond beautiful. It does a great job of building upon the already majestic world of blade runner while adding some unique aspects of its own that helps it not feel like just an extension of the first film. The music is subtly very good as it helps you feel immersed into the film while not feeling overbearing. The narrative and characters are the things that stand out most about the film. Despite being nearly 3 hours long, it almost never feels boring and is captivating the whole way through. The only time I noticed that the film slowed down a bit was around the end of the first hour of the film, but quickly picks back up again and is incredibly engaging the rest of the way through. Ryan Gosling gives a great performance as he usually does and Harrison Ford gives one of the best performances of his career. Ana de Armas also gives a surprisingly good performance, although her character occasionally felt underutilized. Blade Runner 2049 is an amazing film that both fans of the original and new fans alike should enjoy.",
-            "review_date": "2017-10-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Smart. Elegant. Beautiful. Relevant. All the things \"great Sci-fi\" is and can be will be found in this film. Beautiful performances captured by an innovative Director bring to life an amazing story in the world of \"Blade Runner\" WETA workshopSmart. Elegant. Beautiful. Relevant. All the things \"great Sci-fi\" is and can be will be found in this film. Beautiful performances captured by an innovative Director bring to life an amazing story in the world of \"Blade Runner\" WETA workshop outdoes themselves in their amazing model work as well as in the digital effects arena and this screenplay is passionate and powerful with a deep respect of the art that came before it. Hollywood should focus on making more pictures like THIS and less like \"Transformers 5\".",
-            "review_date": "2017-11-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It had moments that gave me that inner tingle that surged through my entire body.  Only a handful of movies have ever be able to hit those nerves so well. Truly remarkable cinema.",
-            "review_date": "2017-11-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Coming from a new fan, this movie is nothing short of a masterpiece. Definitely one of the best movies I've seen this year. The cinematography was probably the best I've seen in a long while. I highly recommend this movie to anyone new fan or old.",
-            "review_date": "2017-12-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "While it's hard to say any movie is perfect this movie sits at the very top of the pile for me when it comes to science fiction.  The artistry, direction, acting, writing, sound and music are all spot on.  It's a thought provoking scienceWhile it's hard to say any movie is perfect this movie sits at the very top of the pile for me when it comes to science fiction.  The artistry, direction, acting, writing, sound and music are all spot on.  It's a thought provoking science fiction rather than an action based thriller.  If that's something you enjoy then this is an amazing film.  One that I hope will set the bar for films to come despite not bringing in much at the box office.",
-            "review_date": "2017-12-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Unbelievably brilliant. As a sequel, it builds on the universe and characters created decades ago, but creates something new. Absolutely breathtaking visually, orgasmic score, great sound, superb acting and directing. Villeneuve deserves anUnbelievably brilliant. As a sequel, it builds on the universe and characters created decades ago, but creates something new. Absolutely breathtaking visually, orgasmic score, great sound, superb acting and directing. Villeneuve deserves an Oscar for this.",
-            "review_date": "2017-12-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Enthralling,mesmerizing,visually stunning,masterpiece and a future classic are the words that suitably describe Blade Runner 2049Blade runner 2049 is an exquisitely crafted sequel which stands shoulder to shoulder with its predecessor,BladeEnthralling,mesmerizing,visually stunning,masterpiece and a future classic are the words that suitably describe Blade Runner 2049Blade runner 2049 is an exquisitely crafted sequel which stands shoulder to shoulder with its predecessor,Blade runner,one of the greatest movies ever made.The neo-noir setting with an unwavering sense of impending doom amplifies the eeriness and adds dimensions to the film.The plot is solid , rich with characters and minor details all building up to an intense climax.Ryan Gosling , Harrison Ford, Ana De Armas, Jared Leto, Sylvia Hoeks act masterfully in their respective roles .Ryan Gosling plays the role of the lead perfectly .The characters are well built and rounded .Much is left to be desired out of Jared Leto\u2019s character who feels kind of left out in the movie plot but is sure to play a major role in future sequels ,if any are made.The direction and cinematography is where the movie hits a homerun.Denis Villeneuve has created a mindblowing, sci-fi masterpiece no doubt.He is hands-down one of the best directors in the industry at the moment.Villeneuve has done a great job by skillfully integrating suspense and tension with the core of the movie plot.Roger Deakins does an amazing job as the cinematographer .The cinematography is one of the best I have ever seen in a movie.Every shot tells a story ,represents a theme chaos,beauty,love,fear,tension,insecurity etc.The production design and quality is top notch.The cinemascore and sound effects are amazing.The plot pacing is where the movie dips and could be turn off for some moviegoers.The movie is long,plain long(163 minutes) and the pace is slow.Not all moments are part of the main movie plot ,but introduced for possible movie sequelsFinal Verdict:Blade runner 2049 is a plot driven,intense,lengthy and a mindblowing sci-fi movie not less than a piece of art.If you love this kind of cinema this movie is for you.If your movie preference is the cars blowing,fights-breaking,explosion occurring every 15-min Michael Bay movie then this is not for you as you would lose all patience by the time movie reaches its climax.Score: 9/10: Translates to \u201cMust Watch\u201d",
-            "review_date": "2017-10-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Well worth the wait.  I was terrified they were going to dump over the original with a lacklustre sequel but they respectfully incorporated the first movie while going somewhere original too.   I think this is a movie I will watch again andWell worth the wait.  I was terrified they were going to dump over the original with a lacklustre sequel but they respectfully incorporated the first movie while going somewhere original too.   I think this is a movie I will watch again and again.  Wonderful.  Thanks to all the creators, you have created an amazing piece of art and a thoroughly enjoyable piece of entertainment.",
-            "review_date": "2018-01-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "When I saw or managed to make it thru the very slow burner that was Blade Runner The Final Cut, I was obviously dubious about this. I thought that I\u2019d need to see and enjoy the original before this. Denis Villeneuve quotes you don\u2019t need toWhen I saw or managed to make it thru the very slow burner that was Blade Runner The Final Cut, I was obviously dubious about this. I thought that I\u2019d need to see and enjoy the original before this. Denis Villeneuve quotes you don\u2019t need to have seen the original to enjoy his film cos this stands on its own. Though a lot of the film does involve the original in its plot. So I sat down to watch this juggernaut of a film, and juggernaut I mean 2 hours 43 mins. You do get sceptical as why it\u2019s that long and think am I wasting my time and money here but. And big but. I watched Mark Kermode gives his review. He said that opening 30 mins of the movie surprisingly set the amazing pace and that in itself defines the greatness of this epic film. There are no standout performances here, not Gosling, not Ford, no one but there is one and that is the director Denis Villeneuve. What he delivers here is something of awesomeness, something astonishing. The visuals, the lighting, everything about the design and scale of this is just mind blowing. You definitely don\u2019t have to enjoy the original to enjoy this. And at 163 mins, it doesn\u2019t feel that long at all. This really is the creme de la creme of sci fi perfection. And ok I said earlier that Gosling and Ford aren\u2019t the standout performers but there performances are brilliant. Gosling\u2019s performance is of particular interest considering a year ago he was nominated for best actor for La La Land. But forget La La Land here. This is simply put the greatest sci fi, action thriller ever made. Denis Villeneuve your the man. Shame you didn\u2019t get a best director nod at this years Oscars, just the nomination would have sufficed. 5 out 5, 10 out 10.",
-            "review_date": "2018-01-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Though this may sound less like a review, but I will put it as simply. Words cannot describe this film, and only by watching it will you understand why it deserves this 10. From the stunningly beautiful and well-crafted cinematography, andThough this may sound less like a review, but I will put it as simply. Words cannot describe this film, and only by watching it will you understand why it deserves this 10. From the stunningly beautiful and well-crafted cinematography, and with a plot giving the film it's a standalone perspective. Even as a sequel, Blade Runner 2049 is truly a film never to forget.",
-            "review_date": "2017-12-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This was by far my favourite film of the year. It has a clear and well executed vision, sumptuous visuals, an intriguing plot, which is a strong natural sequel to the original film, not some un-necessary \"reboot\" or unconnected story. TheThis was by far my favourite film of the year. It has a clear and well executed vision, sumptuous visuals, an intriguing plot, which is a strong natural sequel to the original film, not some un-necessary \"reboot\" or unconnected story. The acting is great and the ending really well done. Some said the movie was too long, but I didn't think so.",
-            "review_date": "2017-12-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "(96/100)I have no words... This is just a really f*cking good Sci-Fi movie! Better than the first one. I love these characters, I love this world. I want to see more! I'm so invested in this world eversince watching the first Blade Runner.(96/100)I have no words... This is just a really f*cking good Sci-Fi movie! Better than the first one. I love these characters, I love this world. I want to see more! I'm so invested in this world eversince watching the first Blade Runner. Denis Villeneuve said that the original cut was 4 hours and I definitely want to see that cut. I want like a Blade Runner 2049 Part II. I never have this urge to see more of a world created by such amazing people, but I do for this movie. I love the way how the story isn't finished (except for Joe) and that it continues without us knowing how, It leaves open possibilities for the future. The cast was also very strong and I like the way how the movie just starts without us knowing who any of these people are. As the story moves along you get more and more invested in Joe's character and want him to find out the truth. The cinematography is also very well done, the best I've seen so far. Roger Deakins sure knows how to film a scene.",
-            "review_date": "2018-02-21",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It's not quite the instant classic the first movie was, but it was nearly impossible to do so anyway. This new Blade runner a an excellent movie nonetheless. I've read some bad reviews before watching the film and was kinda sceptical, but inIt's not quite the instant classic the first movie was, but it was nearly impossible to do so anyway. This new Blade runner a an excellent movie nonetheless. I've read some bad reviews before watching the film and was kinda sceptical, but in the end this movie is about as good a sequel can get. The visuals obviously are astonishing, the music is creepy and moody, and the story is gripping, good enough for me. Still It has some weaker moments, especially the last 20-30 minutes. The movie then become a bit messy and schizophrenic. But It's those crucial last 20 minutes that would have made Blade Runner 2049 a masterpiece like the first, but it kinda miss the spot. I also didn't like the Jared Leto character, the guru who speaks in parabolas and metaphors...it felt a bit clich\u00e9 to me. Despite all that i can't give a lower score than 9, since the movie overall really lives up to the expectations. It's the kind movie I will watch 5-6 times without getting tired, this Blade Runner universe is just too fascinating.",
-            "review_date": "2017-10-13",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie is everything that I expected of it and more.It's amazing to see how a sequel in 2017 can top what used to be the best sci-fi of all time. This movie is actually better than the first Blade Runner movie.",
-            "review_date": "2017-10-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "First of all what i loved the most is the atmosphere and the story telling. I had watched the first one before and was impressed by how little dialogue was needed to move the plot along and to convey the message. Most recent movies left meFirst of all what i loved the most is the atmosphere and the story telling. I had watched the first one before and was impressed by how little dialogue was needed to move the plot along and to convey the message. Most recent movies left me with a sower aftertaste and with the impression that it was numbed down by having a huge amount of dialogue and explanations. The original used the atmosphere, the sounds and the characters to tell it's story and the difference from the modern approach was really obvious.  The feeling i had while watching the original i found again while seeing 2049.It is a sequel but without making you feel that not watching the original was a big mistake.  This was the one movie in a very long time that did not disappoint me. I have loved it. It is something else and i could go on and on about the plot twist that was introduces incredibly well but at the same time was not in your face and then what happened afterwards when you felt that you passed the traditional twist... Anyway, if you love SciFi movies and have felt violated by the abortions that came out in the last years (at most 3 were good) or the traditional Hollywood recipes i cannot recommend this one enough.",
-            "review_date": "2017-10-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A decent film. The directing is on point and the settings are quite as good as the original blade runner. The problem is the plot. Especially in the last third of the movie. Still a good film thanks to Gosling acting and Vileneuve directing.",
-            "review_date": "2017-10-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Denis Villeneuve unmistakably captures the tone and aesthetic of the Blade Runner universe, while bringing an original story that further explores the predecessor's themes. Combining that with state of the art visual effects and compellingDenis Villeneuve unmistakably captures the tone and aesthetic of the Blade Runner universe, while bringing an original story that further explores the predecessor's themes. Combining that with state of the art visual effects and compelling new characters, Blade Runner 2049 is exactly how a modern sequel to a classic cinematic experience should be tackled.",
-            "review_date": "2017-10-13",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Great movie in every aspect. The true sequel of Blade Runner. The movie has stunning visuals, incredible music and plot is very solid. I don't afraid of Dune adaptation any more.",
-            "review_date": "2017-10-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "+Excellent visual style+Memorable soundscape+Fantastic cast\n+Superior existentialist plot\n+Welcome addition to the 'blade-runner-verse'\n-Be warned dystopic themes and 3 hour running time awaits!\n\nAs a huge fan of the final cut blu ray I was+Excellent visual style+Memorable soundscape+Fantastic cast+Superior existentialist plot+Welcome addition to the 'blade-runner-verse'-Be warned dystopic themes and 3 hour running time awaits!As a huge fan of the final cut blu ray I was blown away by how this film bested my expectations. Worthy of the hype and in a lot of ways felt it could pass as a delightfully dystopic 3 hour black mirror/twighlight zone episode.",
-            "review_date": "2017-11-01",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Blade Runner 2049 is the sequel that measures equally to its predecessor, a masterpiece in its own right. However, it seems much like the original, that Blade Runner 2049 will not meet its status as an iconic sci-fi film for some years toBlade Runner 2049 is the sequel that measures equally to its predecessor, a masterpiece in its own right. However, it seems much like the original, that Blade Runner 2049 will not meet its status as an iconic sci-fi film for some years to come. This is a visual masterpiece, depicting the most beautiful ruin of a city that has graced a film. From beginning to end in its 2h 44min run-time, it captivates the wonder of a decrepit dystopian world, all of which is shot beautifully by the incomparable Roger Deakins. The cast led by Ryan Gosling who plays \"K\" and Harrison Ford who returns as \"Rick Deckard\", act superbly to create an awe-inspiring film on the big screen. Under the direction of Denis Villeneuve, Blade Runner 2049 shows that he is one of the most talented directors and one of the few masters of storytelling in the movie business today.",
-            "review_date": "2017-11-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Blade Runner 2049 is in my mind the best looking movie i've seen in a long time. But the story isn't slacking either, its beautifully written and just super super like good",
-            "review_date": "2017-10-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "good acting, music, scenery, sound (was too loud though)....................................................................................................................................................",
-            "review_date": "2017-10-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of the best movies I've ever had a chance to watch in theater. The cinematography, direction, and acting are some of the strongest I've seen in quite some time, especially considering the style of movie it is. To some it may feel a bitOne of the best movies I've ever had a chance to watch in theater. The cinematography, direction, and acting are some of the strongest I've seen in quite some time, especially considering the style of movie it is. To some it may feel a bit long, which is understandable, but it is still the best sequel made since The Dark Knight, and before that, The Godfather II. Kudos to all involved.",
-            "review_date": "2017-11-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The histoty retains fidelity to original of 1982, especially in philosophical context. It stans out in particular for the design of production -that tributes Metropolis- Roger Deakins photography and Hans Zimmer score. One of best choices ofThe histoty retains fidelity to original of 1982, especially in philosophical context. It stans out in particular for the design of production -that tributes Metropolis- Roger Deakins photography and Hans Zimmer score. One of best choices of autumn 2017.",
-            "review_date": "2017-10-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Blade Runner 2049 is a audio-visual masterpiece which thrives on its innovative scenery - each location is unique. It's hard not to get mesmerized by it's thrilling story which leaves as many questions open as it answers. The three hourBlade Runner 2049 is a audio-visual masterpiece which thrives on its innovative scenery - each location is unique. It's hard not to get mesmerized by it's thrilling story which leaves as many questions open as it answers. The three hour experience holds your attention up to a point where you don't want it to stop. While the acting doesn't deliver anything out of the ordinary, the attention-grabbing unlinear storytelling combined with purely beautiful cinematography makes this film a true gem. This is one to watch over and over again.",
-            "review_date": "2017-10-19",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 154
+  "title": "Blade Runner 2049",
+  "rating": 8.3,
+  "release_date": "2017-10-06",
+  "summary": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what’s left of society into chaos. K’s discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former LAPD blade runner who has been missing for 30 years.",
+  "critic_reviews": [
+    "Blade Runner 2049 is not a perfect film. The pace occasionally puts the plod in the procedural and some story elements are introduced only to drift away to the land of possible sequels. But Villeneuve has created a genuinely thoughtful piece of sci-fi which escapes the gravitational pull of its inspiration to become something - to paraphrase Dr. Eldon Tyrrell - more Blade Runner than Blade Runner.",
+    "Director Denis Villeneuve (“Arrival”) delivers a moody, visually stunning celebration of existential angst. Not that he skimps on the kind of mayhem that’s de rigueur these days, but you have to wait for it — and wait for it. But when it does arrive, it’s awesome.",
+    "Villeneuve crafts a movie both cerebral and sensuous, as puzzling and visually striking as its predecessor. The experience should be likewise revered by next generations.",
+    "Take a moment to absorb and interpret and appreciate the vibrant and gorgeous and sometimes brutal and mind-bending and occasionally incomprehensible hallucinatory epic that is Blade Runner 2049, which stands with the likes of “The Godfather Part II” and “Terminator 2” and “Aliens” as a sequel worthy of the original classic.",
+    "Blade Runner 2049, the superb new sequel by Denis Villeneuve (“Arrival”), doesn’t just honor that legacy, but, arguably, surpasses it, with a smart, grimly lyrical script (by Fancher and Michael Green of the top-notch “Logan”); bleakly beautiful cinematography (by Roger Deakins); and an even deeper dive into questions of the soul.",
+    "Blade Runner 2049’s legacy will be estimated by both its ability to capture the spirit of the original and tell an enticing story in its own right. By virtually every measure, it succeeds — whether it’s Villeneuve’s careful, calculating directorial eye, Deakins’ sharp, distinct cinematography, or the film’s eye-popping visual design.",
+    "An exquisitely crafted sequel that stands shoulder to shoulder with one of the greatest films ever made. Everyone involved is operating at the height of their powers.",
+    "Ridley Scott’s 1982 classic Blade Runner popularized the cyberpunk movement (a gritty mix of neo-noir and hardcore sci-fi) back in the day, but 2049 perfects it. Super-stylish and deeply human — even with androids and holograms around — the spectacular follow-up takes the detective story of the first film and turns it into a grand mythology of identity, memory, creation and revolution.",
+    "Villeneuve earns every second of that running time, delivering a visually breathtaking, long-fuse action movie whose unconventional thrills could be described as many things — from tantalizing to tedious — but never “artificially intelligent.”",
+    "That Blade Runner 2049 is a more than worthy sequel to Scott’s first film means it crosses the highest bar anyone could have reasonably set for it, and it distinguishes Villeneuve – who’s masterminded all of this, somehow, since making Arrival – as the most exciting filmmaker working at his level today.",
+    "As bold as the original Blade Runner and even more beautiful (especially if you see it in IMAX). Visually immaculate, swirling with themes as heart-rending as they are mind-twisting, 2049 is, without doubt, a good year. And one of 2017’s best.",
+    "Blade Runner 2049 is a narcotic spectacle of eerie and pitiless vastness, by turns satirical, tragic and romantic.",
+    "It organically expands and grows what came before. It’s a deep, rich, smart film that’s visually awesome and full of great sci-fi concepts, and one that was well worth the 35-year wait.",
+    "Blade Runner 2049 is terrific, a worthy heir to one of the great science-fiction films of all time.",
+    "Blade Runner 2049 marries its ideas to its narrative in a way that blockbusters too often fail to these days. More importantly, it puts these ideas to a poignant end, bringing its characters to tragic or bittersweet reckonings in a manner that would do any of the old sci-fi masters proud.",
+    "Director Denis Villeneuve goes beyond the call of duty, with a lush, often mind-blowing refurbishing of the original sci-fi aesthetic that delves into its complex epistemological themes just as much as it resurrects an enduring spectacle.",
+    "Even when its emotions risk running as cool as its palette, 2049 reaches for, and finds, something remarkable: the elevation of mainstream moviemaking to high art.",
+    "The latest Denis Villeneuve achievement, Blade Runner 2049 is the rare sequel that both pushes the franchise to challenging new places and serves as a natural extension of what's come before.",
+    "Do androids dream of electric sheep? Maybe. But science fiction-loving cinephiles have definitely been dreaming of a movie like Blade Runner 2049 for years.",
+    "A ravishing visual colossus, Blade Runner 2049 more than lives up to its predecessor’s legacy as a groundbreaking mixture of sound, images and mood.",
+    "Ford’s memorable performance is just one of the many ways Blade Runner 2049 surpasses the original film. Its clever and compelling storyline is another. And then of course there are Deakins’ incredible images.",
+    "The new film is the rare sequel that truly merits its existence, updating and expanding the themes of the 1982 original to bring them from the 20th century into the 21st. Yes, Blade Runner 2049 is one hard-working and deep-thinking replicant.",
+    "The pressure on filmmakers to equal or exceed the impact of a beloved original is intense. In a case like this, when the reputation of a movie has built over decades, expectations are elevated to an almost impossible level. With Blade Runner 2049, Denis Villeneuve has met those expectations by crafting a film that rivets the attention, excites the imagination, and engages the mind.",
+    "In terms of the imaginative ways it expands on the themes of the first movie, it is the rare sequel that is at least the equal of its iconic original.",
+    "It is often a captivating visual marvel, using newfangled special effects in ways that aspire more to the poetic than the kinetic.",
+    "It’s one of the most stunningly shot films of not just this year, but the last several. I can’t wait to just see it again, just to bask in its visuals without trying to follow its plot. And the sound design is so remarkable that it’s almost overwhelming—this is a film you don’t passively watch, you experience it.",
+    "For Blade Runner junkies like myself, who've mainlined five different versions of Ridley Scott's now iconic sci-fi film noir – from the release print to the Director's Cut and the Final Cut (the last two minus that voiceover Scott and Ford hated) – every minute of this mesmerizing mindbender is a visual feast to gorge on.",
+    "There’s a humanity in Gosling’s K we haven’t quite seen before in this world of frowning people and weirdos. And it’s those little, subtle inflections that makes Blade Runner 2049 a success.",
+    "Blade Runner 2049 isn’t about what happens; it’s about what this terrifying and beautiful world — how could it not be, with Roger Deakins behind the camera — tells us about life and perception and reality.",
+    "Blade Runner 2049 should resonate deeply with anyone who’s ever held love for the original.",
+    "This hefty, gleaming franchise object owes much of its resonance to the relationship its audience might have to a three-decade-old classic. CGI ghosts, audio samples, and callbacks (“more human than human,” equestrian keepsakes, a boiling pot as a suspense device) haunt the film’s vast, cavernous hallways.",
+    "Through sheer force of filmmaking will and mediation on what it means to be self-aware, Villeneuve’s towering picture still manages to inspires awe and contains profoundly beautiful moments.",
+    "Despite its flaws, one thing about Blade Runner 2049 is most welcome: it is trying to be about something. It is trying to be deep, rich, and complex. We’ve grown so used to lowest-common-denominator blockbuster cinema that it’s almost shocking to watch a big science-fiction movie, featuring these kinds of stars, swinging for the fences in this way. It’s hard not to be impressed by, and a bit grateful for, the ambition and care evident in every frame.",
+    "As shaped by Villeneuve and his masterful creative team, especially production designer Dennis Gassner and cinematographer Roger Deakins, this film puts you firmly, brilliantly, unassailably in another world of its own devising, and that is no small thing.",
+    "Daring in its own right, this broodingly sumptuous saga explores the primacy of feelings, the nature of memories and the essence of being human, framed as the difference between being manufactured or born.",
+    "Despite all the overlaps, this is not a simulacrum of a Ridley Scott film. It is unmistakably a Denis Villeneuve film, inviting us to tumble, tense with anticipation, into his doomy clutches.",
+    "Blade Runner 2049 stands as its own film, in addition to a continuation of the sequel. It’s not the bolt out of the blue the first movie was, but how could it be? Instead, as the break between installments would suggest, it’s a furthering of not just the original story but the original world, and that’s quite an accomplishment.",
+    "Arrival director Denis Villeneuve pulls off the dare of the decade, hatching a thoughtful, expansive sequel to a sci-fi classic.",
+    "Is it a perfect movie? Not quite. The middle section drags a bit through no fault of the excellent performances, but ultimately it’s all of a piece, and the mid-mark pacing turns out to be a relatively minor quibble.",
+    "Blade Runner 2049 is long and slow. It’s never boring, but it’s a little too mired in one sustained note of sadness to break out as a great experience or to stand out as a great movie. Still, there are some remarkable scenes.",
+    "More impressive than moving, more thought-provoking than heartfelt — chilling in its magnificence.",
+    "Every effect, each little detail in the “Blade Runner” sequel’s formidable arsenal, creates the texture of a wondrously hideous near future, full of holographic accessories, slave-labor replicants and, as one character puts it, products and services of “the fabulous new.”",
+    "Mr. Villeneuve’s film, by contrast, is a carefully engineered narrative puzzle, and its power dissipates as the pieces snap into place. As sumptuous and surprising as it is from one scene to the next, it lacks the creative excess, the intriguing opacity and the haunting residue of its predecessor.",
+    "This new Blade Runner dazzles the audience with plenty of staggering sights but never quite matches the original’s mysterious ability to suggest something even more incredible lying just beyond our ken.",
+    "Careful, dutiful, and beautiful, Blade Runner 2049 cannot achieve the sublime slipperiness of Scott’s masterpiece. Whether it even needs to is up to you.",
+    "As a contrast to Gosling's deliberately deadened, emotionally zoned-out turn, Ford almost single-handedly amps up a film otherwise intentionally drained of character vitality.",
+    "So swollen with purpose, so titanically self-conscious in its mythmaking, that at times its nearly paralyzes itself with solemnity.",
+    "While it certainly stimulated and overwhelmed my senses, Blade Runner 2049 rarely got my mind whirring the way one always hopes this kind of artful, serious-minded sci-fi will.",
+    "It’s not mere fan service; the film tries very hard to sustain interest with new characters and developments that draw on the past without being handcuffed to it, throughout its sometimes ponderous 163-minute runtime. But far too often that attempt to be interesting fails.",
+    "There’s nothing close to the shock of seeing Blade Runner’s Tokyo-influenced futuristic dystopia — a dismal mix of high-tech and corrosion — for the first time. I thought it was okay.",
+    "There are flashes of visual grandeur in Blade Runner 2049, which was shot by the always-inventive Roger Deakins, but there’s not much reason for this film to exist outside of its fan base.",
+    "Denis Villeneuve’s film is designed to reward the audience for recognizing references in the midst of an action pursuit, and, after an hour or so of the clipped and earnest signifying, one may find themselves nostalgic for Ridley Scott’s unforced indifference to the issue.",
+    "If you have two X chromosomes, or know and like someone who does, Blade Runner 2049 may not be the movie for you.",
+    "Even if Blade Runner 2049 never forgets where it came from, it somehow keeps losing its way. The picture’s moodiness is excessively manicured; this thing is gritty only in a premeditated way. Mostly, it feels like a capacious handbag, designed with perhaps too many extra compartments to hold every cool visual idea Villeneuve can dream up."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "A near perfect movie, and a sequel we never thought would be possible. It touches themes from the original with respect, while expanding the plot and adding to the world intelligently.The cinematography and music is also exceptional, oftenA near perfect movie, and a sequel we never thought would be possible. It touches themes from the original with respect, while expanding the plot and adding to the world intelligently.The cinematography and music is also exceptional, often the music and picture works together to show us a hypnotic view of a grim future that seems too real. Denis Villeneuve is definitely one of the best directors of our time.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Blade Runner 2049 is a beautifully crafted film and as good as any fan of the original could realistically expect it to be. I was nervous about what Villeneuve would come up with as I was not a fan of Arrival which I thought was far tooBlade Runner 2049 is a beautifully crafted film and as good as any fan of the original could realistically expect it to be. I was nervous about what Villeneuve would come up with as I was not a fan of Arrival which I thought was far too ponderous. Fortunately he's delivered the goods and then some!",
+      "review_date": "2017-10-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "There's certainly more style than substance on show in the new sequel, but the story is still engaging. At no point during the nearly three hours running time did I feel bored or frustrated with how the plot was moving along. There willThere's certainly more style than substance on show in the new sequel, but the story is still engaging. At no point during the nearly three hours running time did I feel bored or frustrated with how the plot was moving along. There will obviously be negative comparisons with the original, but this film should taken on it's own merit, and great merit it has.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I went in with low expectations and a feeling that I was going to come out disappointed. I'm thrilled to say that while not perfect, Blade Runner 2049 is in my opinion the best film of the year {so far} and unlikely to be topped. Worth theI went in with low expectations and a feeling that I was going to come out disappointed. I'm thrilled to say that while not perfect, Blade Runner 2049 is in my opinion the best film of the year {so far} and unlikely to be topped. Worth the wait? You bet!",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "While it doesn't raise thought-provoking questions as effectively as the original, \"Blade Runner 2049\" earns its position as a worthy sequel thanks to a captivating mystery, action that feels earned, intelligent themes & world building, andWhile it doesn't raise thought-provoking questions as effectively as the original, \"Blade Runner 2049\" earns its position as a worthy sequel thanks to a captivating mystery, action that feels earned, intelligent themes & world building, and lush cinematography which synthesises perfectly with an unearthly soundtrack. Never felt bored throughout the runtime and could have watched it for longer.",
+      "review_date": "2017-10-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "For those previously watched the first installment of Blade Runner or haven’t seen it, it’s safe to say that the latest installment of the Blade Runner franchise is easily one of the best sequels ever made PERIOD! Since this film is directedFor those previously watched the first installment of Blade Runner or haven’t seen it, it’s safe to say that the latest installment of the Blade Runner franchise is easily one of the best sequels ever made PERIOD! Since this film is directed by the man who made jawdropping films like Prisoners, Sicario, and Arrival, his articulation of direction and storytelling really does capture the right atmosphere that Ridley Scott has set since the first Blade Runner. Most people that worked with Ridley Scott had already returned for another ride, but this time with Denis Villeneuve. The things that Denis had done for this installment really shines without a shadow interfering at a splitsecond while watching this. The new characters and familiar faces for this latest installment impressed me, futuristic-like production design, electrifying visual and sound effects, kickass performances, spine-chilling orgasmic soundtrack, and the god-like cinematography that Roger Deakins set really does spark a lot of amazement for the sequel. (Get Roger Deakins his OSCAR ASAP!!!!) However, there’s a thing that kind of caused a very little ruckus throughout the movie, but it doesn’t affect the movie’s quality that much since there will be another sequel readied for us to see what lies beneath the door (If confirmed...) Like Deckard said “I did your job one—I was good at it” it clearly refers that someone else besides Scott or Villeneuve will take control and finish the story (if confirmed..)  Without a doubt, Blade Runner 2049 is an outstanding achievement and a technical masterpiece that will be enjoyed by many sci-fi fans around the world.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Creating a worthy sequel to one of the most influential films of all time is one hell of a tall order. It deserves no less than a dream team of talent and thankfully that's exactly what it got. The direction is sharp, the visuals pop, theCreating a worthy sequel to one of the most influential films of all time is one hell of a tall order. It deserves no less than a dream team of talent and thankfully that's exactly what it got. The direction is sharp, the visuals pop, the performances emanate, and the writing is true to the source without merely aping all the old notes or ruining all the mystery. Core themes of the genre it helped create like the line between illusion and reality or defining humanity and one's identity are both upheld and explored in increasingly nuanced ways. Those worried about a neo noir film devolving into an action fest can breathe too as that was oversold by the marketing. The one trademark I do miss though is Vangelis' multilayered, ever present composition. 2049 strikes a different tone and isn't afraid of quiet moments, but the absence of one of its predecessor's most defining features remains conspicuous. Still, nearly everyone involved in the project is at the top of their game and should be proud of the work they've accomplished. Time will tell exactly how well the sequel stacks up to the 'original', but in any case it comes as close one could ask for today. I can still scarcely believe it, myself.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "An absolute feast for the eyes {and ears} and despite it's running time and pace, absorbing and captivating. Unlike Arrival which I thought was  very overrated and dare I say dull, Villeneuve has triumphed with this definitely worth the wait sequel.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I could wake up tomorrow or in five years and realize this is a masterpiece, but as it stands now BLADE RUNNER 2049 Is a gorgeous-looking film with massive pacing and narrative issues. It has no right being 146 minutes long, and theI could wake up tomorrow or in five years and realize this is a masterpiece, but as it stands now BLADE RUNNER 2049 Is a gorgeous-looking film with massive pacing and narrative issues. It has no right being 146 minutes long, and the incredible effects, cinematography and a growling Harrison Ford can only distract you so long.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The movie's style and visual effects are groundbreaking. However, I think the movie falls apart in the second act, failing to bring its themes and plot together. By the end, I feel like even Villeneuve was exhausted by what he was trying toThe movie's style and visual effects are groundbreaking. However, I think the movie falls apart in the second act, failing to bring its themes and plot together. By the end, I feel like even Villeneuve was exhausted by what he was trying to accomplish. I would be wary of these \"masterpiece\" reviews.",
+      "review_date": "2017-10-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I've just finished watching Blade Runner 2049 and visually, its an amazing film that is second to none. After that said, I'm kind of disappointed with the film and don't think its anywhere as a lot of the critics I like have stated the filmI've just finished watching Blade Runner 2049 and visually, its an amazing film that is second to none. After that said, I'm kind of disappointed with the film and don't think its anywhere as a lot of the critics I like have stated the film to be.First as a Denis Villeneuve fan who have seen all his English works (apart from Enemy), this is by far his least impressive work. The problem is not really his direction, but rather the less than impressive writing and some very on the nose-exposition that makes the world less believable as it should be. Perhaps the biggest problem with this film is that it raises a lot of questions that don't really invite intrigue as it hopes it should do. The film is plot heavy compared with the original, but unlike the original, I don't feel the world building in 2049 is as good as the original. For example, the original was always a character study with Deckard who lived in this futuristic LA who was suddenly plugged back to his job. Here we saw the cyberpunk world he lived in with many interactions between characters that seem real and genuine. However in 2049, Ryan Gosling's character is never really interacting with characters that feel part of the world, but rather characters to further the plot point.For example, many of the character interactions involve just two people who either point Gosling to somewhere or discuss exposition. You never get a sense of any of these characters. Note in the original the society seems lived in with Dekard constantly having to push people away or him drinking the alcohol at the bar which seems like what he would normally do etc. The biggest offender in 2049 is that the film has characters and events that lack consistent motivation with logic jumping points that bugged me throughout the film. Because I don't wanna spoil any of the plot really, its worth noting that a lot of what happens doesn't necessarily follow the things said or done preceding it. That said, the original Blade runner didn't really per se have much of a plot either, but which is why I've always classified the original as a character study more than anything else. Given that Villenueve is a master of this genre (given all his films are character studies), it is ultra disappointing that Ryan Gosling's character doesn't go through the same journey nor development that Deckard went through. Sure there might be some sentimental aspects that happens in the film, especially with the female characters, there is never a scene like when Deckard starts drinking (after killing Zhora) or his nod at the end that symbolises anything gone through, so when sentimental events happen in 2049, I never felt any emotion towards these events unfortunately.The other problem with 2049 is that it sets up a lot of hints of a bigger world which feels like playing an RPG game with many side quests available. In fact, I would go so far as to compare this movie as awfully similar to the Deus Ex game series. Part of the problem  lies with the co-writer Michael Green who also happen to write Alien Covenant and Logan which had the same issues popping up with this film (great premises and start, but then devovles into convuluted plots and sets up that goes nowhere)Given that the original Blade runner inspired so much of the genre we know today, its disappointing that 2049 doesn't really offer us anything new or done better in terms of the sci-fi trope. In fact, 2049 rather borrows a lot of its plot and themes from current films that have done it better. There a little bit of Her here, a little bit of Children of Men here, and even a little bit of Ex Machina, but when put together, does not feel as satisfying.Also with the extremely long movie length (I don't mind how long a film is), there could be a case made that it didnt need to take nearly 3 hours to tell this story. A lot of the film is broken into smaller dense sequences that involve people talking either about what is going on with the world, or furthering the plot. This is why I don't believe the world building is as good as the original. Whilst 2049 remains ever faithful to the Asian themes, the motif of the eyes etc, it has nowhere the ambiguity and the guts to tackle bigger issues like corporation takeover or the idea of 'white flight'. In fact, 2049 seems to abandon a lot of the themes from the original that doesn't seem to reflect in a more futurstic LA.Overall 2049 is still a dazzle of a film and is worth watching as a good sequel. However, it is clearly overstated as the acting and cinematography are great, but not so acclaimed as some might say. There are lot of things that work in this film, but I feel as though this doesn't per se elevate the film to the status as the original. I hope this doesn't become a franchise and that if they decide to do the next iteration, it should be something with a more a personal setting and philosophical overtone, rather than a plot heavy noir.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Yep, another masterpiece, only... not so much. If movies are primarily about the story, the new Blade Runner sucks. There are too many unnecessary scenes, too many amazingly slow ones, and many which I like to call executions - on the surfaceYep, another masterpiece, only... not so much. If movies are primarily about the story, the new Blade Runner sucks. There are too many unnecessary scenes, too many amazingly slow ones, and many which I like to call executions - on the surface something happens there, but indeed they are only about exposition. Every scene with annoying Jared Leto is just that: cheap exposition. Bad guys are one-dimensional, unlike Rutger Hauer in the first movie.  Rich, original environment of the first movie are now desolate ruins. Which is nice, for a second, but then you see almost all scenes are empty. At some point, it looks like there are not secondary characters in this world. Gosling was a good choice, and there is enough good thing in BR that you still can watch it and have fun, but BR2049 should simply be much better than this.",
+      "review_date": "2017-10-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Bloated, portentous and worst of all, dumb posing as smart, for a Blade Runner obsessive like myself, Blade Runner 2049 is pretty much a worst-case outcome from the decision to “reboot”.​​It combines the ultra-slow pacing of a RussianBloated, portentous and worst of all, dumb posing as smart, for a Blade Runner obsessive like myself, Blade Runner 2049 is pretty much a worst-case outcome from the decision to “reboot”.​​It combines the ultra-slow pacing of a Russian art-house movie, with the implausible action sequences of a mainstream blockbuster. It has intellectual pretensions, but no real ideas, other than some half-baked biblical referencing. It takes a lazy, hand-waving approach to its plot and world-building. For me, that’s all unacceptable. If you decide to make the sequel to one of the most revered movies of all time, you need to get your quality bar pretty damn high. Blade Runner made its name by being genuinely intellectual, and having an insane level of attention to detail. This film fails to achieve either.There are plots holes you could fit the Tyrell Corporation's headquarters through. I can’t talk about those without spoiling, but lets just note that the core premise of the movie as spelled out in the opening crawl, the invention and legalisation of unquestioningly obedient replicants, is in direct contradiction to almost everything that follows, including the rationale for the mission the protagonist is sent on. The acting is fine, good even, BUT the actors are doing their best with horribly written characters who constantly make decisions that are absurd, often in order to set up action scenes that shouldn’t logically occur. Where the original revelled in moral ambiguity, we get a cartoonish boss villain who looks and talks like an evil-yoga instructor and appears to live in a health spa, and an even more cartoonish hot-lady-assassin henchwoman. In keeping with that Holywoodisation, all the women in the film are presented as lust objects, either evil or victims, and not in the knowing sense of exploited Zhora or Rachel, but as sadistic titillation.There are a bunch of scenes basically nicked from other movies, in particular Spike Jonze’s brilliant Her.Where the original asked genuinely profound philosophical questions about what it means to be human, this one has some quasi-religious guff about miracles and souls that jars badly with the paranoid, psychological Dickian source material and the post-religious bio-technological world that was presented in the first film.The world building is terrible.The world we are shown also doesn’t tie in with the mostly deserted, “kibble” strewn dying earth of the original. That was a place where almost all the able-bodied have left for the off-world colonies and the only remaining animals were manufactured. Despite some kind of second eco-disaster and a tech disaster both fleetingly referred to in the opening crawl (and in Matrix2esque short films on youtube), the world presented here is less dilapidated, more progressive, more organised, etc. than in the original. Fading art -deco has been replaced by Scandinavian design.The technology is all over the place. Again, that’s hard to talk about without getting into spoilers, but basically the film assumes that flawless AI’s and super functional “normal” robots/drones exist, and then doesn’t in any way address the ramifications of how those facts would impact the whole idea/purpose/issue of replicants, and how and why they are used, and how/why Blade Runners are used to track them down. I think that comes back to a recurring problem ideas being included because someone thought they were “cool” rather than being story/world driven.There are constant heavy handed and unconvincing analogies beween replicants, and real-world slavery and racism which the film then does nothing to explore.In some ways it’s a bit like the Force Awakens, another recent reboot that I hated. It’s a technically competent film that heavily references the original, in terms of props, characters and art style. It even features Harrison Ford. It has a plot driven by a series of improbable coincidences and chance discoveries that seems more like an excuse for “cool visuals” than a logical, character driven progression. But whereas the Force Awakens knew exactly what it wanted to be, going unashamedly for a nostalgia-fuelled, international, mass market audience, B2049 falls between stools.I feel a lot of people are going to disagree with my negativity on this one. There’s massive hype and hope around this movie, and it is mostly beautiful. Understandably, Blade Runner fans will want to like this movie. but going back to the Force Awakens comparison, after six months have passed, and people have moved through denial and anger stages, the sad reality of how average this film is will sink in.I went in to this one with mixed expectations. I loved Arrival, the director’s previous foray into SF, but on the other hand I thought that a reboot of Blade Runner was an inherently bad idea. For me, this one failed hard, both as a sequel and as general entertainment.",
+      "review_date": "2017-10-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is visually exciting and a feast for the ears. Unfortunately every shot lingers on the screen for 3 or 4 times the length necessary to tell the story. And the story is hampered b y a lack of logic.  When the villain Wallace tells Ford heThis is visually exciting and a feast for the ears. Unfortunately every shot lingers on the screen for 3 or 4 times the length necessary to tell the story. And the story is hampered b y a lack of logic.  When the villain Wallace tells Ford he can take him off-world to torture him and get an answer he wants...he could do the same thing in the room he is in. And the big secret is obvious from early in the script.This needs a rewrite from a skilled screenwriter and then a serious editor to trim out the fat...by which I mean you could keep every shot cut to the length to make the next story point and the movie would be less than 100 minutes.The audience I saw it with was restless. There was no applause at the end, they just filed out in dispirited fashion.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "While the film wasn't terrible, it wasn't amazing either. The interactions between characters was superficial and their motives were as well. There was nothing profound like there was in the first Blade Runner. The scenery and sets wereWhile the film wasn't terrible, it wasn't amazing either. The interactions between characters was superficial and their motives were as well. There was nothing profound like there was in the first Blade Runner. The scenery and sets were beautiful, as were some of the special effects, but a film can't be based solely on these things alone. It needed to have a villain, but it lacked this entirely. There was barely an iota of conflict during the film, it was simply void. We didn't know why the 'villains' were doing the things they did. The problem was again that these villains didn't have real motives. Nothing was believable, there was simply fabricated disdain and strife which didn't serve the purpose of creating a compelling story line. Also many of the scenes were too long, drawn out and weighed down with superfluous pause.",
+      "review_date": "2017-10-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Movie seemed intent on putting moviegoer to sleep and then waking them with loud bangs. I would awaken to think I was watching some kind of cruelly beautiful Czechoslovakian arthouse film.",
+      "review_date": "2017-10-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Style over substance, pretentious emulation over valiant ambition. It's corious that this movie, in a sort of meta-narrative way, tries its best to be a replicant of the the original masterpiece but it totally fails to be what a replicant isStyle over substance, pretentious emulation over valiant ambition. It's corious that this movie, in a sort of meta-narrative way, tries its best to be a replicant of the the original masterpiece but it totally fails to be what a replicant is to a human, a perfect alternative of the original. 163 minutes of Gosling boring looking expression while not a single thought is passing through his damn head, cliché insane villan with zero substance and his clichè nazi dog kicking asses around for reasons. Wrong photography all over: it's a **** noir with a white and orange palette, totally lacking the oppressive atmosphere of the original movie. Plot bad written and bad narrated, full of plot holes and incongruencies. This is not only a bad movie compared to the original, this is an atrocius sci fi movie to the level of 2017 GoTS.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This review contains spoilers, click expand to view.\n        \nThe new Bladerunner is so wrapped into symbolism, metaphors and themes that it forgets to make sense of it's world building, storytelling, character definition. Completely void of any inner logic, it falls short of even being a movie: it is indeed a magnificently crafted slow motion picture consisted of ingenious albeit often out of place designs and populated by a very talented crew of actors. Technically superb on a visual level, it is a gorgeous eye candy that gives you amp time to observe it's visual mastery and wonder why the heck couldn't they find someone to write for it, not that fanatic Ridley Scott that ruins Alien franchise with his last movies. The story is a series of most amazing coincidences that lead up to nothing at all, leaving you with deep questions like what do 12 hives of bees eat in a mad max fury road wasteland.",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This review contains spoilers, click expand to view.\n        \nContrived story and Pretentious story telling. Over the top exposition that drones on and on to overly explain and give feeling of importance to an unimportant plot.  So the plot goes something like this;  Rachel and Deckard had a child. so the movie spends 2 hours trying to convince you its important somehow. CGI Rachel was the lowest point of the movie, with the villain suggesting that it was planned for Rachel & Deckard to meet in some sort of master plan.There are a handful of good scenes in this movie. Such as the opening scene, or in some of the visuals. But much of it is style over substance. The good pieces are far and few. And in between are just horribly long expository scenes where characters you dont care about talk about nothing at all. Nothing important or interesting happens throughout this entire movie. Just some stuff happens, some nice visuals thrown in, then it's over. I just wanted something to happen that I could care about. ANYTHING. go down in the streets. show what life is like down there. Let things happen on screen. Get me invested in a character or in the world. I just got so tired of boring people talking. Many of the sets are bland and uninspired. Bland white walls and bland white floors. or yellow walls and yellow floors. Don't bother if you enjoy the small details, because they aren't there. Many of the environments look sterile and lack the Blade Runner 1982 details. The Original movie wasnt like this at all. The environments were dirty, messy. unorganized, and lived in. You don't get that feeling at all in 2049. I get it that its supposed to be like 30 years later. But come on. This isnt meant to be **** star wars.The soundtrack was calm and sentimental at times, and then at other times very obnoxious and loud. I didn't enjoy the tone of this movie. The original soundtrack by Vangelis was beautiful. But this was like a dying cat at times. Also, dubstep. Really? What I would have liked to see in a new Blade Runner film would be a grounded movie about a Blade Runner who hunts replicants. We got that in the opening scene like an appetizer. But then the rest of the movie is just up in the clouds, trying hard to push its meaningless plot as interesting and meaningful when in actuality it isn't. Blade Runner 2049 is style over substance.My rating: Mediocre",
+      "review_date": "2017-10-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "True homage to the original. A great sequel. Truly refreshing. The ending tapered off and some characters should have been better developed for a trade of some of the other scenes. A must see, especially in 3-D.",
+      "review_date": "2017-12-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I loved everything about this movie. This is the kind of movie that makes you travel to another world but at the same time treats of very concrete human topics. It is so rich, it's full of information and questions at the same time. It makesI loved everything about this movie. This is the kind of movie that makes you travel to another world but at the same time treats of very concrete human topics. It is so rich, it's full of information and questions at the same time. It makes you travel both visually and mentally at the same time. During the whole movie you'll be wondering if it is science-fiction or anticipation? Some philosophical topics are treated without getting boring. What's the meaning of destiny or sense of purpose? What's the difference between man and machine if both are capable of having feelings and emotions? Denis Villeneuve, his crew and the cast just set new standards to what a masterpiece can be. Well done guys.",
+      "review_date": "2017-12-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Honestly, I rented this a year or two back, must not have been in the right mood, wrote it off as boring and never watched it through.   Mood has a lot to do with our perception of a movie.   I was 100% wrong about this movie.  It’s deep,Honestly, I rented this a year or two back, must not have been in the right mood, wrote it off as boring and never watched it through.   Mood has a lot to do with our perception of a movie.   I was 100% wrong about this movie.  It’s deep, it’s dark and intelligent.   No spoiler, but it does tie into the original.   I absolutely loved its quiet suspense filled build up and futuristic atmosphere.   It’s an awesome movie!   Make sure you are in a calm, settled mood going in.  It’s not going to blow you away with over the top action and if you don’t pay attention you will totally miss the plot.  Hoping there is a sequel!",
+      "review_date": "2021-02-28",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is just a movie that standstoe to toe with its original. And being that the original was one of the best movies ever made, that´s saying something. I would even say that, in some aspects, it´s even better.",
+      "review_date": "2021-03-10",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A masterpiece hands down.I enjoyed this film.Hopefully it gets more sequels.",
+      "review_date": "2021-03-17",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Blade Runner 2049 is honestly a masterpiece and a half, the movie's got a great story.The story is pretty much about this lad called Officer K (Ryan Gosling) who's an officer with the Los Angeles police department, he finds out a big secretBlade Runner 2049 is honestly a masterpiece and a half, the movie's got a great story.The story is pretty much about this lad called Officer K (Ryan Gosling) who's an officer with the Los Angeles police department, he finds out a big secret which could end up starting lots of chaos.He later goes on a mission to find a former blade runner called Deckard (Harrison Ford) who's been missing for the past three decades.The acting from all of the cast throughout this movie is honestly brilliant, especially from Ryan Gosling and Harrison Ford, those two are honestly amazing in this movie.The dialogue which is given throughout this movie is honestly brilliant, the dialogue never feels too forced. It just feels very natural and it's really well given from all of the characters who are in this movie.Also, the chemistry between Officer K and Deckard is great and it's built up so well throughout this movie.The movie's even got some beautiful music composed by Hans Zimmer, Benjamin Wallfisch, Ron Bartlett and Michael Hodges. Those four do a great job on composing this beautiful soundtrack as a whole.The pacing throughout this movie is honestly great and each moment is built up very well.The cinematography from the man, the myth and the legend Roger Deakins is honestly so beautiful. He captures the scenes so beautifully and he does such a great job at capturing the moments so well.Finally, the action sequences throughout this movie are very clever and very graphic and they're also very well done.The CGI effects hold up pretty well and they don't look very outdated at all, which is really good.The green screen effects throughout this movie also hold up very well and they're very aesthetically pleasing to look at.The movie's even got some great visuals which also hold up very well and they have such a unique look to them.The set designs for this movie have a very beautiful and unique look to them, which I thought made them look very unique.Overall, Blade Runner 2049 is honestly a masterpiece and a half. The movie's got a great story, brilliant acting, brilliant dialogue, great chemistry, beautiful score, great pacing and some beautiful cinematography.The movie's even got some very graphic action sequences, great CGI effects, aesthetically pleasing greenscreen effects, great visuals and some very beautiful set designs. I'd honestly recommend to watch this movie straight after watching the original Blade Runner (1982) it's honestly worth the watch.",
+      "review_date": "2020-08-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Best film I have ever seen at the theatre. EVER. Hands down! I can't add anything that's already been said about the pure brilliance of this film. The sound design, Deakin's cinematography, Villeneuve's directing and fantastic acting by all.Best film I have ever seen at the theatre. EVER. Hands down! I can't add anything that's already been said about the pure brilliance of this film. The sound design, Deakin's cinematography, Villeneuve's directing and fantastic acting by all. A Masterpiece that is flawless in every way. my first ever 10/10! Can't wait for DUNE!",
+      "review_date": "2020-12-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "At first I thought this movie shouldn't be made. Oh boy I was wrong. Somehow it managed to be better even than the original. World-building, atmosphere, cinematography, visual effects. 2 hours and 45 minutes that I barely felt going by.",
+      "review_date": "2020-08-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Possibly the greatest follow up movie in the history of cinema. It even beats the Empire Strikes Back. A very worthy successor to the original.",
+      "review_date": "2020-12-01",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "literally a masterpiece . great acting amazing cinematography as well as the soundtrack okay plot , but that's not what I love this movie for .",
+      "review_date": "2021-01-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A great sequel, with just one problem: 10-15 minutes too long.Beside that: awesome atmosphere, visuals, audio and storytelling.A simple story for complex characters.New classic together with the immortal first chapter.",
+      "review_date": "2018-01-01",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A+, One of the best sequels ever, brilliant on all levels.",
+      "review_date": "2020-01-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A cinematic masterpiece. Excellent storyline, simple ideas yet captivating. Acting is as expected from Gosling and Ford. Villenue’s direction accompanied by Deakins’ cinematography and Wallfisch/Zimmer score truly make this film the classicA cinematic masterpiece. Excellent storyline, simple ideas yet captivating. Acting is as expected from Gosling and Ford. Villenue’s direction accompanied by Deakins’ cinematography and Wallfisch/Zimmer score truly make this film the classic finish to a riveting franchise.",
+      "review_date": "2020-04-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Never imagined there being a sequel to Blade Runner, but this effort is exceptionally good.While not as moody or atmospheric as the original it is still a fantastic movie in it's own right.",
+      "review_date": "2021-01-09",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Stunningly beautiful shots, the atmosphere of noir and cyberpunk is transmitted luxuriously, looks in one breath. the actors play at the highest level, the film keeps in suspense until the very end.",
+      "review_date": "2020-12-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Clearly a movie not for the mainstream audience. It's long and not action packed as the usual Hollywood movies. It takes its time to tell a story, focus on the character and expand the universe, scene by scene. Cinematography is great, theClearly a movie not for the mainstream audience. It's long and not action packed as the usual Hollywood movies. It takes its time to tell a story, focus on the character and expand the universe, scene by scene. Cinematography is great, the music of Vangelis fits as in the 80s movie.My only gripe is, that we knew from the trailers that Harrison Ford will be in it. Could have been a nice reveal. Denis Villeneuve is clearly, after seeing Dune, one of the best film makers to date. Too bad, we live in a world where this kind of movies doesn't attract the masses and does good money for the studios. Films like this is why I go to the cinema.",
+      "review_date": "2021-10-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is a worthy successor to the original Blade Runner film. It was clever, exciting, and gorgeous.",
+      "review_date": "2019-09-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I really think it is the best movie ever. Silent, calm and whenever required - dynamic. Music in the film like meditation.",
+      "review_date": "2019-01-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The movie is a masterpiece, following the original that was really good, this one simply surpasses almost every aspect and becomes perfection itself",
+      "review_date": "2019-01-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie has fantastic art. And good story.I can’t understand why the other people dislike this movie.",
+      "review_date": "2019-02-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Beautiful, dynamic in its storytelling and an absolute feast for the mind and they eyes. A positive expansion on the first film, this allows one to question android humanization through a much more current set of eyes",
+      "review_date": "2019-02-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is the kind of spectacle that is so amazing, its luxurious visuals are constantly feeding the eyes, so it can inspire many people. Even though it tells about artificial creatures, nothing feels like a replica. Emotions are genuine. TheThis is the kind of spectacle that is so amazing, its luxurious visuals are constantly feeding the eyes, so it can inspire many people. Even though it tells about artificial creatures, nothing feels like a replica. Emotions are genuine. The feelings conveyed by the characters are so human. Through strong plot, reasonable world development, and a series of philosophical questions that flow smoothly as story dimensions, this successful film success becomes not only one of the best sequels - it can stand alone, not depend on other films - but also the best films ever existed.",
+      "review_date": "2019-03-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "While some of the scenes in this movie are a little too brooding and long it provides a great and creative CG not seen in other movies. The casting and acting is superb. Would have liked to see of Leto's character, Wallice developed moreWhile some of the scenes in this movie are a little too brooding and long it provides a great and creative CG not seen in other movies. The casting and acting is superb. Would have liked to see of Leto's character, Wallice developed more instead of the overly long 'Elvis' scene in Vegas and others. Leto was great at portraying what little of this character we see. As it is his character is too disjointed and sketchy to make much sense. There is a depth there that just wasn't developed.",
+      "review_date": "2019-06-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A masterpiece and I already knew it before they shot the first frame. This is a Denis Villeneuve film, and anybody versed with the man's filmography will realize that this is an artist of the highest order. Had Blade Runner been given toA masterpiece and I already knew it before they shot the first frame. This is a Denis Villeneuve film, and anybody versed with the man's filmography will realize that this is an artist of the highest order. Had Blade Runner been given to anybody- even Ridley, I can guarantee you the final result wouldn’t be half as good as what we see here. Ryan Gosling takes over the role played by Harrison Ford in the 1982 original and he essays an effortlessly cool protagonist living in the future of decay and destitute. Harrison Ford is also back in a glorified cameo but its glad to see the old man back in this Universe. The special effects are amazing with a careful mixture of carefully rendered CGI and practical effects. The film looks fantastic, but it is the plot that is the heart and soul of this great film. You should go and watch Blade Runner before seeing 2049 and then come and marvel at this masterpiece. One of the best recent science fiction films.(Denis Villeneuve has created a masterpiece).",
+      "review_date": "2019-08-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I never thought that my favorite Movie of all Time is gonna be this one. Just everything in this just Clicks for me. The Acting the beautiful Pictures and the overall Story is just Perfect. For some People the Movie is to Slow but i didn'tI never thought that my favorite Movie of all Time is gonna be this one. Just everything in this just Clicks for me. The Acting the beautiful Pictures and the overall Story is just Perfect. For some People the Movie is to Slow but i didn't mind it because the World of Blade Runner managed to Catch me. I had no hope that it would be better than the Original but i personally find it is. Its is not your average Hollywood sequel. This Movie is what i call an Masterpiece.",
+      "review_date": "2019-05-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Being a fan of 'Do Androids...' I picked this up on a whim and was absolutely flabbergasted. It is one of the most spellbindingly immersive and atmospheric films ever put to tape. The cinematography is first class, as is the acting (I evenBeing a fan of 'Do Androids...' I picked this up on a whim and was absolutely flabbergasted. It is one of the most spellbindingly immersive and atmospheric films ever put to tape. The cinematography is first class, as is the acting (I even managed to like Jared Leto). It is the most staggeringly brilliant films I have ever seen.",
+      "review_date": "2019-06-28",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Blade Runner 2049 is is an amazing sci-fi masterpiece and my favorite movie of 2017. It is phenomenal movie that left me completely stunned and wanting to watch it again almost immediately. I want to watch this film over and over again.",
+      "review_date": "2019-08-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "When I heard they were making a sequel to Blade Runner, one of my favorite films at that time, my reaction was \"No! Leave the original alone!\". Thank God they didn't because Blade Runner 2049 is just as good, if not better than the original.When I heard they were making a sequel to Blade Runner, one of my favorite films at that time, my reaction was \"No! Leave the original alone!\". Thank God they didn't because Blade Runner 2049 is just as good, if not better than the original.I remeber my biggest fear was that they would drop the slow pace and noir atmosphere for more action and explosions, but thankfully, the film remains just as slow and just as great for it as the first one.The effects are outstanding and sure to stand the test of time just like the original's. Roger Deakins' cinematography is stunning in every way. The performances from Ryan Gosling, Ana de Armas and Harrison Ford are spectular.I love how realistically the technology has progressed since the first once. Everything's just a little more advanced after thirty years.I also love how it subverts the \"chosen one\" trope.K may not have been a real human bean, but he sure was a real hero (sorry).Rarely does a movie come around and blow away all my expectations like this.",
+      "review_date": "2020-10-21",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Dennis Villeneuve once again proves himself to be among the most competent directors around. A sequel that arrived this much later and still delivers on every front? No wonder he is my favourite director!",
+      "review_date": "2021-09-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This film is a work of art. Stunning images, fantastic sound design and beautiful colors. The story was mysterious and the time was taken to tell it at a good pace.",
+      "review_date": "2020-04-28",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "True fans will get this film and I can't get enough of it. Ryan goslin portrays his character so we'll that you can't keep your eyes off the screen. I love this film because it is simply art every time I watch it.",
+      "review_date": "2019-10-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "My favorite movie of the decade. For my, everything fits in \"Blade Runner 2049\". The soundtrack, the acting, the story. I really don't know anything to complain about. I definitely have to see it again.",
+      "review_date": "2019-12-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is a beautiful movie and it captures the essence of what the first movie was about. It does so in a different way, and does so with heart.",
+      "review_date": "2020-01-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "On par with the original Blade Runner,I saw this one first and then the original by Ridley Scott.",
+      "review_date": "2020-12-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of the greatest sequels ever. ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●...................",
+      "review_date": "2021-04-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Blade Runner 2049 is beautifully crafted .What makes Blade Runner 2049 special is how it blends everything well together .\n\nThis isn't simply a 'movie,' it is art .\n\nThis is a love letter to the movie franchise .\n\nThis is a film that wasBlade Runner 2049 is beautifully crafted .What makes Blade Runner 2049 special is how it blends everything well together .This isn't simply a 'movie,' it is art .This is a love letter to the movie franchise .This is a film that was overlooked by many but those who have enjoyed watching it will knowhow underappreciated this film is .A timeless film no doubt .",
+      "review_date": "2021-07-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "In an era where 35-year sequels and remakes are merely vehicles for a quick cash grab, Blade Runner 2049 is perhaps the only example that lives up to the original. I'd dare to say that this even surpasses the original Blade Runner in manyIn an era where 35-year sequels and remakes are merely vehicles for a quick cash grab, Blade Runner 2049 is perhaps the only example that lives up to the original. I'd dare to say that this even surpasses the original Blade Runner in many ways, particularly in the plot, score, and moral implications. It also defines its own aesthetic, which while not as groundbreaking, is equally meticulous. What it doesn't do as well as the original is in the overacted, unmotivated villains and a bit of the deus ex machina ending... but we're just nitpicking here. Denis Villeneuve has proven that he can just about handle any subject matter with the attention to detail and care that the fans deserve. Its a tragedy that BR2049 did not get the financial success needed for Hollywood to explore this world further. Perhaps in another 35 years.",
+      "review_date": "2021-07-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A visually stunning, beautifully shot, and absolutely gorgeous cinematography, Blade Runner 2049 is mesmerizing as well as narratively satisfying.",
+      "review_date": "2021-07-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I though that I wouldn't like the movie, to be honest. But, then, I let it play and wow... Found out it was really beautiful and intense, with an amazing cyberpunk vibe, showing a future that could be real. I had happy moments and some otherI though that I wouldn't like the movie, to be honest. But, then, I let it play and wow... Found out it was really beautiful and intense, with an amazing cyberpunk vibe, showing a future that could be real. I had happy moments and some other I was left hanging in anxiety and the plot was very well constructed in my view. Very well done!",
+      "review_date": "2021-07-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Mixed reviews 160, Negative Reviews 183, Positive Reviews 2,094. 343 of these reviews are incorrect. Blade Runner 2049 is easily one of the perfect sequels to a Classic Sci Fi action opus. Blade Runner 2 is an instant classic from one of theMixed reviews 160, Negative Reviews 183, Positive Reviews 2,094. 343 of these reviews are incorrect. Blade Runner 2049 is easily one of the perfect sequels to a Classic Sci Fi action opus. Blade Runner 2 is an instant classic from one of the savviest directors working in Hollywood these days.",
+      "review_date": "2021-09-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A sequel that actually lives up to the original. Breath taking visuals and cinematography with an interesting story.",
+      "review_date": "2021-10-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of the rare sequels that transcends the original, Blade Runner 2049 is a work of art that sits among the greatest films ever created.",
+      "review_date": "2021-10-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It's visually stunning with a semi-easy plot to follow with some of the best performances you'll see from Gosling and Ford. This will go down as not only one of the best movies of 2017, but also one of the best sequels of all time.",
+      "review_date": "2017-10-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The original Blade Runner was my first introduction to metaphysical philosophy. It was one of most profound and beautiful movies of the 20th century and it still affects me to this day..When I saw Ryan Gosling cast in the 2049 I was veryThe original Blade Runner was my first introduction to metaphysical philosophy. It was one of most profound and beautiful movies of the 20th century and it still affects me to this day..When I saw Ryan Gosling cast in the 2049 I was very disappointed. I swore to myself never to attend a movie of his again after the disgusting abomination that is \"Only God Forgives\" but I relented eventually, Blade Runner is that important.. He is the weakest part of the movie for me. I just don't like his voice or face. Thats personal preference.And what is the movie? A continuation of the transhumanist question from Blade Runner 1. Can replicants ( or even AI's who receive very positive treatment here) have souls? Can man be a God and create life? My anwswer is no and the movie answers in the affirmative, understandably. Judge for yourself.Symbolism and esotericism saturate every scene. Every line of dialogue, prop, stance, quirk, image,prominent and obscured has an obvious meaning ...and  hidden one...It feels religious in its exposition because in a way it is. Its arcane and occultist. It makes one think and want to return for closer inspection. Whatever your philosophical position there can be no denying the beauty visually and aurally of this devastated dystopia. Gosling apart, a masterpiece..",
+      "review_date": "2018-01-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Most sequels can not keep up to their high expectations. Blade Runner 2049 does.i was satisfied with story, visuals and pacing. Not boring at all.",
+      "review_date": "2018-02-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I dont know wich film i love more if this one or the original, so this movie is almoast perfect i cant see anything wrong in it or something that ill change but still i wouldnt recomended it because is too slow and its not for everybody.I dont know wich film i love more if this one or the original, so this movie is almoast perfect i cant see anything wrong in it or something that ill change but still i wouldnt recomended it because is too slow and its not for everybody. Loved Ryan as \"K\", Dennis getting better film after film and Deakins is god in it.",
+      "review_date": "2018-02-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Blade Runner 2049 will probably be looked back upon in the future as one of the more compelling sci-fi dramas of all time. It executes nearly everything to perfection, continuing to build upon some of the great aspects of the first film whileBlade Runner 2049 will probably be looked back upon in the future as one of the more compelling sci-fi dramas of all time. It executes nearly everything to perfection, continuing to build upon some of the great aspects of the first film while being able to avoid some of the narrative blunders of the original. The setting and visuals of the film are beyond beautiful. It does a great job of building upon the already majestic world of blade runner while adding some unique aspects of its own that helps it not feel like just an extension of the first film. The music is subtly very good as it helps you feel immersed into the film while not feeling overbearing. The narrative and characters are the things that stand out most about the film. Despite being nearly 3 hours long, it almost never feels boring and is captivating the whole way through. The only time I noticed that the film slowed down a bit was around the end of the first hour of the film, but quickly picks back up again and is incredibly engaging the rest of the way through. Ryan Gosling gives a great performance as he usually does and Harrison Ford gives one of the best performances of his career. Ana de Armas also gives a surprisingly good performance, although her character occasionally felt underutilized. Blade Runner 2049 is an amazing film that both fans of the original and new fans alike should enjoy.",
+      "review_date": "2017-10-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Smart. Elegant. Beautiful. Relevant. All the things \"great Sci-fi\" is and can be will be found in this film. Beautiful performances captured by an innovative Director bring to life an amazing story in the world of \"Blade Runner\" WETA workshopSmart. Elegant. Beautiful. Relevant. All the things \"great Sci-fi\" is and can be will be found in this film. Beautiful performances captured by an innovative Director bring to life an amazing story in the world of \"Blade Runner\" WETA workshop outdoes themselves in their amazing model work as well as in the digital effects arena and this screenplay is passionate and powerful with a deep respect of the art that came before it. Hollywood should focus on making more pictures like THIS and less like \"Transformers 5\".",
+      "review_date": "2017-11-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It had moments that gave me that inner tingle that surged through my entire body.  Only a handful of movies have ever be able to hit those nerves so well. Truly remarkable cinema.",
+      "review_date": "2017-11-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Coming from a new fan, this movie is nothing short of a masterpiece. Definitely one of the best movies I've seen this year. The cinematography was probably the best I've seen in a long while. I highly recommend this movie to anyone new fan or old.",
+      "review_date": "2017-12-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "While it's hard to say any movie is perfect this movie sits at the very top of the pile for me when it comes to science fiction.  The artistry, direction, acting, writing, sound and music are all spot on.  It's a thought provoking scienceWhile it's hard to say any movie is perfect this movie sits at the very top of the pile for me when it comes to science fiction.  The artistry, direction, acting, writing, sound and music are all spot on.  It's a thought provoking science fiction rather than an action based thriller.  If that's something you enjoy then this is an amazing film.  One that I hope will set the bar for films to come despite not bringing in much at the box office.",
+      "review_date": "2017-12-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Unbelievably brilliant. As a sequel, it builds on the universe and characters created decades ago, but creates something new. Absolutely breathtaking visually, orgasmic score, great sound, superb acting and directing. Villeneuve deserves anUnbelievably brilliant. As a sequel, it builds on the universe and characters created decades ago, but creates something new. Absolutely breathtaking visually, orgasmic score, great sound, superb acting and directing. Villeneuve deserves an Oscar for this.",
+      "review_date": "2017-12-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Enthralling,mesmerizing,visually stunning,masterpiece and a future classic are the words that suitably describe Blade Runner 2049Blade runner 2049 is an exquisitely crafted sequel which stands shoulder to shoulder with its predecessor,BladeEnthralling,mesmerizing,visually stunning,masterpiece and a future classic are the words that suitably describe Blade Runner 2049Blade runner 2049 is an exquisitely crafted sequel which stands shoulder to shoulder with its predecessor,Blade runner,one of the greatest movies ever made.The neo-noir setting with an unwavering sense of impending doom amplifies the eeriness and adds dimensions to the film.The plot is solid , rich with characters and minor details all building up to an intense climax.Ryan Gosling , Harrison Ford, Ana De Armas, Jared Leto, Sylvia Hoeks act masterfully in their respective roles .Ryan Gosling plays the role of the lead perfectly .The characters are well built and rounded .Much is left to be desired out of Jared Leto’s character who feels kind of left out in the movie plot but is sure to play a major role in future sequels ,if any are made.The direction and cinematography is where the movie hits a homerun.Denis Villeneuve has created a mindblowing, sci-fi masterpiece no doubt.He is hands-down one of the best directors in the industry at the moment.Villeneuve has done a great job by skillfully integrating suspense and tension with the core of the movie plot.Roger Deakins does an amazing job as the cinematographer .The cinematography is one of the best I have ever seen in a movie.Every shot tells a story ,represents a theme chaos,beauty,love,fear,tension,insecurity etc.The production design and quality is top notch.The cinemascore and sound effects are amazing.The plot pacing is where the movie dips and could be turn off for some moviegoers.The movie is long,plain long(163 minutes) and the pace is slow.Not all moments are part of the main movie plot ,but introduced for possible movie sequelsFinal Verdict:Blade runner 2049 is a plot driven,intense,lengthy and a mindblowing sci-fi movie not less than a piece of art.If you love this kind of cinema this movie is for you.If your movie preference is the cars blowing,fights-breaking,explosion occurring every 15-min Michael Bay movie then this is not for you as you would lose all patience by the time movie reaches its climax.Score: 9/10: Translates to “Must Watch”",
+      "review_date": "2017-10-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Well worth the wait.  I was terrified they were going to dump over the original with a lacklustre sequel but they respectfully incorporated the first movie while going somewhere original too.   I think this is a movie I will watch again andWell worth the wait.  I was terrified they were going to dump over the original with a lacklustre sequel but they respectfully incorporated the first movie while going somewhere original too.   I think this is a movie I will watch again and again.  Wonderful.  Thanks to all the creators, you have created an amazing piece of art and a thoroughly enjoyable piece of entertainment.",
+      "review_date": "2018-01-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "When I saw or managed to make it thru the very slow burner that was Blade Runner The Final Cut, I was obviously dubious about this. I thought that I’d need to see and enjoy the original before this. Denis Villeneuve quotes you don’t need toWhen I saw or managed to make it thru the very slow burner that was Blade Runner The Final Cut, I was obviously dubious about this. I thought that I’d need to see and enjoy the original before this. Denis Villeneuve quotes you don’t need to have seen the original to enjoy his film cos this stands on its own. Though a lot of the film does involve the original in its plot. So I sat down to watch this juggernaut of a film, and juggernaut I mean 2 hours 43 mins. You do get sceptical as why it’s that long and think am I wasting my time and money here but. And big but. I watched Mark Kermode gives his review. He said that opening 30 mins of the movie surprisingly set the amazing pace and that in itself defines the greatness of this epic film. There are no standout performances here, not Gosling, not Ford, no one but there is one and that is the director Denis Villeneuve. What he delivers here is something of awesomeness, something astonishing. The visuals, the lighting, everything about the design and scale of this is just mind blowing. You definitely don’t have to enjoy the original to enjoy this. And at 163 mins, it doesn’t feel that long at all. This really is the creme de la creme of sci fi perfection. And ok I said earlier that Gosling and Ford aren’t the standout performers but there performances are brilliant. Gosling’s performance is of particular interest considering a year ago he was nominated for best actor for La La Land. But forget La La Land here. This is simply put the greatest sci fi, action thriller ever made. Denis Villeneuve your the man. Shame you didn’t get a best director nod at this years Oscars, just the nomination would have sufficed. 5 out 5, 10 out 10.",
+      "review_date": "2018-01-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Though this may sound less like a review, but I will put it as simply. Words cannot describe this film, and only by watching it will you understand why it deserves this 10. From the stunningly beautiful and well-crafted cinematography, andThough this may sound less like a review, but I will put it as simply. Words cannot describe this film, and only by watching it will you understand why it deserves this 10. From the stunningly beautiful and well-crafted cinematography, and with a plot giving the film it's a standalone perspective. Even as a sequel, Blade Runner 2049 is truly a film never to forget.",
+      "review_date": "2017-12-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This was by far my favourite film of the year. It has a clear and well executed vision, sumptuous visuals, an intriguing plot, which is a strong natural sequel to the original film, not some un-necessary \"reboot\" or unconnected story. TheThis was by far my favourite film of the year. It has a clear and well executed vision, sumptuous visuals, an intriguing plot, which is a strong natural sequel to the original film, not some un-necessary \"reboot\" or unconnected story. The acting is great and the ending really well done. Some said the movie was too long, but I didn't think so.",
+      "review_date": "2017-12-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "(96/100)I have no words... This is just a really f*cking good Sci-Fi movie! Better than the first one. I love these characters, I love this world. I want to see more! I'm so invested in this world eversince watching the first Blade Runner.(96/100)I have no words... This is just a really f*cking good Sci-Fi movie! Better than the first one. I love these characters, I love this world. I want to see more! I'm so invested in this world eversince watching the first Blade Runner. Denis Villeneuve said that the original cut was 4 hours and I definitely want to see that cut. I want like a Blade Runner 2049 Part II. I never have this urge to see more of a world created by such amazing people, but I do for this movie. I love the way how the story isn't finished (except for Joe) and that it continues without us knowing how, It leaves open possibilities for the future. The cast was also very strong and I like the way how the movie just starts without us knowing who any of these people are. As the story moves along you get more and more invested in Joe's character and want him to find out the truth. The cinematography is also very well done, the best I've seen so far. Roger Deakins sure knows how to film a scene.",
+      "review_date": "2018-02-21",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It's not quite the instant classic the first movie was, but it was nearly impossible to do so anyway. This new Blade runner a an excellent movie nonetheless. I've read some bad reviews before watching the film and was kinda sceptical, but inIt's not quite the instant classic the first movie was, but it was nearly impossible to do so anyway. This new Blade runner a an excellent movie nonetheless. I've read some bad reviews before watching the film and was kinda sceptical, but in the end this movie is about as good a sequel can get. The visuals obviously are astonishing, the music is creepy and moody, and the story is gripping, good enough for me. Still It has some weaker moments, especially the last 20-30 minutes. The movie then become a bit messy and schizophrenic. But It's those crucial last 20 minutes that would have made Blade Runner 2049 a masterpiece like the first, but it kinda miss the spot. I also didn't like the Jared Leto character, the guru who speaks in parabolas and metaphors...it felt a bit cliché to me. Despite all that i can't give a lower score than 9, since the movie overall really lives up to the expectations. It's the kind movie I will watch 5-6 times without getting tired, this Blade Runner universe is just too fascinating.",
+      "review_date": "2017-10-13",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie is everything that I expected of it and more.It's amazing to see how a sequel in 2017 can top what used to be the best sci-fi of all time. This movie is actually better than the first Blade Runner movie.",
+      "review_date": "2017-10-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "First of all what i loved the most is the atmosphere and the story telling. I had watched the first one before and was impressed by how little dialogue was needed to move the plot along and to convey the message. Most recent movies left meFirst of all what i loved the most is the atmosphere and the story telling. I had watched the first one before and was impressed by how little dialogue was needed to move the plot along and to convey the message. Most recent movies left me with a sower aftertaste and with the impression that it was numbed down by having a huge amount of dialogue and explanations. The original used the atmosphere, the sounds and the characters to tell it's story and the difference from the modern approach was really obvious.  The feeling i had while watching the original i found again while seeing 2049.It is a sequel but without making you feel that not watching the original was a big mistake.  This was the one movie in a very long time that did not disappoint me. I have loved it. It is something else and i could go on and on about the plot twist that was introduces incredibly well but at the same time was not in your face and then what happened afterwards when you felt that you passed the traditional twist... Anyway, if you love SciFi movies and have felt violated by the abortions that came out in the last years (at most 3 were good) or the traditional Hollywood recipes i cannot recommend this one enough.",
+      "review_date": "2017-10-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A decent film. The directing is on point and the settings are quite as good as the original blade runner. The problem is the plot. Especially in the last third of the movie. Still a good film thanks to Gosling acting and Vileneuve directing.",
+      "review_date": "2017-10-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Denis Villeneuve unmistakably captures the tone and aesthetic of the Blade Runner universe, while bringing an original story that further explores the predecessor's themes. Combining that with state of the art visual effects and compellingDenis Villeneuve unmistakably captures the tone and aesthetic of the Blade Runner universe, while bringing an original story that further explores the predecessor's themes. Combining that with state of the art visual effects and compelling new characters, Blade Runner 2049 is exactly how a modern sequel to a classic cinematic experience should be tackled.",
+      "review_date": "2017-10-13",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Great movie in every aspect. The true sequel of Blade Runner. The movie has stunning visuals, incredible music and plot is very solid. I don't afraid of Dune adaptation any more.",
+      "review_date": "2017-10-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "+Excellent visual style+Memorable soundscape+Fantastic cast\n+Superior existentialist plot\n+Welcome addition to the 'blade-runner-verse'\n-Be warned dystopic themes and 3 hour running time awaits!\n\nAs a huge fan of the final cut blu ray I was+Excellent visual style+Memorable soundscape+Fantastic cast+Superior existentialist plot+Welcome addition to the 'blade-runner-verse'-Be warned dystopic themes and 3 hour running time awaits!As a huge fan of the final cut blu ray I was blown away by how this film bested my expectations. Worthy of the hype and in a lot of ways felt it could pass as a delightfully dystopic 3 hour black mirror/twighlight zone episode.",
+      "review_date": "2017-11-01",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Blade Runner 2049 is the sequel that measures equally to its predecessor, a masterpiece in its own right. However, it seems much like the original, that Blade Runner 2049 will not meet its status as an iconic sci-fi film for some years toBlade Runner 2049 is the sequel that measures equally to its predecessor, a masterpiece in its own right. However, it seems much like the original, that Blade Runner 2049 will not meet its status as an iconic sci-fi film for some years to come. This is a visual masterpiece, depicting the most beautiful ruin of a city that has graced a film. From beginning to end in its 2h 44min run-time, it captivates the wonder of a decrepit dystopian world, all of which is shot beautifully by the incomparable Roger Deakins. The cast led by Ryan Gosling who plays \"K\" and Harrison Ford who returns as \"Rick Deckard\", act superbly to create an awe-inspiring film on the big screen. Under the direction of Denis Villeneuve, Blade Runner 2049 shows that he is one of the most talented directors and one of the few masters of storytelling in the movie business today.",
+      "review_date": "2017-11-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Blade Runner 2049 is in my mind the best looking movie i've seen in a long time. But the story isn't slacking either, its beautifully written and just super super like good",
+      "review_date": "2017-10-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "good acting, music, scenery, sound (was too loud though)....................................................................................................................................................",
+      "review_date": "2017-10-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of the best movies I've ever had a chance to watch in theater. The cinematography, direction, and acting are some of the strongest I've seen in quite some time, especially considering the style of movie it is. To some it may feel a bitOne of the best movies I've ever had a chance to watch in theater. The cinematography, direction, and acting are some of the strongest I've seen in quite some time, especially considering the style of movie it is. To some it may feel a bit long, which is understandable, but it is still the best sequel made since The Dark Knight, and before that, The Godfather II. Kudos to all involved.",
+      "review_date": "2017-11-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The histoty retains fidelity to original of 1982, especially in philosophical context. It stans out in particular for the design of production -that tributes Metropolis- Roger Deakins photography and Hans Zimmer score. One of best choices ofThe histoty retains fidelity to original of 1982, especially in philosophical context. It stans out in particular for the design of production -that tributes Metropolis- Roger Deakins photography and Hans Zimmer score. One of best choices of autumn 2017.",
+      "review_date": "2017-10-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Blade Runner 2049 is a audio-visual masterpiece which thrives on its innovative scenery - each location is unique. It's hard not to get mesmerized by it's thrilling story which leaves as many questions open as it answers. The three hourBlade Runner 2049 is a audio-visual masterpiece which thrives on its innovative scenery - each location is unique. It's hard not to get mesmerized by it's thrilling story which leaves as many questions open as it answers. The three hour experience holds your attention up to a point where you don't want it to stop. While the acting doesn't deliver anything out of the ordinary, the attention-grabbing unlinear storytelling combined with purely beautiful cinematography makes this film a true gem. This is one to watch over and over again.",
+      "review_date": "2017-10-19",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 154,
+  "genres": [
+    "Sci-Fi",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ]
 }

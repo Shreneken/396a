@@ -1,15 +1,15 @@
 {
-    "title": "Rififi",
-    "rating": 8.4,
-    "release_date": "2000-07-21",
-    "genre": [
-        "Drama",
-        "Thriller",
-        "Crime",
-        "Film-Noir"
-    ],
-    "summary": "A reissue of a classic French caper thriller in which Tony, fresh out of prison, teams with three cohorts to pull off a major jewel heist which goes awry.  The film's title is slang for \"rough stuff,\" and it's robbery sequence is famous for its exciting, completely silent robbery scene.",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "Rififi",
+  "rating": 8.4,
+  "release_date": "2000-07-21",
+  "summary": "A reissue of a classic French caper thriller in which Tony, fresh out of prison, teams with three cohorts to pull off a major jewel heist which goes awry.  The film's title is slang for \"rough stuff,\" and it's robbery sequence is famous for its exciting, completely silent robbery scene.",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime",
+    "Film-Noir"
+  ]
 }

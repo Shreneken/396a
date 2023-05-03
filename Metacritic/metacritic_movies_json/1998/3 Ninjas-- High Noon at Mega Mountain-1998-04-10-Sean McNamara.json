@@ -1,37 +1,37 @@
 {
-    "title": "3 Ninjas: High Noon at Mega Mountain",
-    "rating": 3.6,
-    "release_date": "1998-04-10",
-    "genre": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Family"
-    ],
-    "summary": "Three young boys, Rocky, Colt and Tum Tum together with their neighbor girl, computer whiz Amanda are visiting Mega Mountain amusement park when it is invaded by an army of ninjas led by evil Medusa, who wants to take over the park and hold the owners for ransom. Kids and retired TV star Dave Dragon, who made his farewell appearance at theThree young boys, Rocky, Colt and Tum Tum together with their neighbor girl, computer whiz Amanda are visiting Mega Mountain amusement park when it is invaded by an army of ninjas led by evil Medusa, who wants to take over the park and hold the owners for ransom. Kids and retired TV star Dave Dragon, who made his farewell appearance at the park at the time the ninjas appeared, have to break Medusa's vicious plans.\u2026 Expand",
-    "critic_reviews": [
-        "Exceptionally well-made family entertainment, this 3 Ninjas is constantly inventive, action-filled and funny, with a flourish of good special effects.",
-        "The incredible silliness doesn\u2019t quite erase the bad taste of this kid\u2019s movie featuring an implied dozen civilian casualties, but it helps.",
-        "Pathetic yet stupidly entertaining for several minutes of its interminable running time, 3 Ninjas: High Noon at Mega Mountain makes half its cast look like retreads and half like fresh ponies desperately karate-kicking a dud script to see if it has any signs of life.",
-        "For most moviegoers over 12, this, the fourth Three Ninjas movie, will be interminably boring. But it's possible that young children will enjoy the film, since it falls into both the action category and the children-are-smart-adults-can't-do-anything-right genre.",
-        "Only small children with limited attention spans will be impressed by the lackluster kung-foolishness in 3 Ninjas: High Noon at Mega Mountain.",
-        "The best you can say is that it's all pretty harmless and pretty stupid."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "Insulting, inept, and inappropriate, 3 Ninjas: High Noon at Mega Mountain has to be one of the dumbest things I have ever seen. However, it's absolutely hilarious in the terms of \"so-bad-its-good\" filmmaking.",
-            "review_date": "2019-10-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Okay so I gave a little breathing room with the movies in this series but with this one I can't.  It's just really really stupid.",
-            "review_date": "2018-10-30",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 8
+  "title": "3 Ninjas: High Noon at Mega Mountain",
+  "rating": 3.6,
+  "release_date": "1998-04-10",
+  "summary": "Three young boys, Rocky, Colt and Tum Tum together with their neighbor girl, computer whiz Amanda are visiting Mega Mountain amusement park when it is invaded by an army of ninjas led by evil Medusa, who wants to take over the park and hold the owners for ransom. Kids and retired TV star Dave Dragon, who made his farewell appearance at theThree young boys, Rocky, Colt and Tum Tum together with their neighbor girl, computer whiz Amanda are visiting Mega Mountain amusement park when it is invaded by an army of ninjas led by evil Medusa, who wants to take over the park and hold the owners for ransom. Kids and retired TV star Dave Dragon, who made his farewell appearance at the park at the time the ninjas appeared, have to break Medusa's vicious plans.… Expand",
+  "critic_reviews": [
+    "Exceptionally well-made family entertainment, this 3 Ninjas is constantly inventive, action-filled and funny, with a flourish of good special effects.",
+    "The incredible silliness doesn’t quite erase the bad taste of this kid’s movie featuring an implied dozen civilian casualties, but it helps.",
+    "Pathetic yet stupidly entertaining for several minutes of its interminable running time, 3 Ninjas: High Noon at Mega Mountain makes half its cast look like retreads and half like fresh ponies desperately karate-kicking a dud script to see if it has any signs of life.",
+    "For most moviegoers over 12, this, the fourth Three Ninjas movie, will be interminably boring. But it's possible that young children will enjoy the film, since it falls into both the action category and the children-are-smart-adults-can't-do-anything-right genre.",
+    "Only small children with limited attention spans will be impressed by the lackluster kung-foolishness in 3 Ninjas: High Noon at Mega Mountain.",
+    "The best you can say is that it's all pretty harmless and pretty stupid."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "Insulting, inept, and inappropriate, 3 Ninjas: High Noon at Mega Mountain has to be one of the dumbest things I have ever seen. However, it's absolutely hilarious in the terms of \"so-bad-its-good\" filmmaking.",
+      "review_date": "2019-10-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Okay so I gave a little breathing room with the movies in this series but with this one I can't.  It's just really really stupid.",
+      "review_date": "2018-10-30",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 8,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ]
 }

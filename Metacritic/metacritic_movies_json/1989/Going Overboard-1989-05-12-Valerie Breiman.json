@@ -1,36 +1,36 @@
 {
-    "title": "Going Overboard",
-    "rating": 1.5,
-    "release_date": "1989-05-12",
-    "genre": [
-        "Comedy"
-    ],
-    "summary": "A wanna-be comedian on a cruise ship filled with beautiful women gets his big chance to perform when the ship's stand-up joker gets locked in the bathroom. Will he sink or swim?",
-    "critic_reviews": [
-        "At least the movie has archival value: an early appearance by Chicago Hope\u2018s Peter Berg, along with Billy Zane embarrassing himself as a favor to his wife, Liza Collins Zane, who costars in the film."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "I like Sandler, mostly for his early stuff but this movie is incredibly hard to watch.Feels like the whole movie was just made up as they went along which can work but nothing clicks here; it's like they didn't do any prep and just took theI like Sandler, mostly for his early stuff but this movie is incredibly hard to watch.Feels like the whole movie was just made up as they went along which can work but nothing clicks here; it's like they didn't do any prep and just took the first take on everything.The only interesting things here are the cameos from some recognizable people with a splash of 80s nostalgia.",
-            "review_date": "2020-02-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The worst movie I have ever seen. Could not get a third of the way through and I watch plenty of rubbish",
-            "review_date": "2018-09-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Only this movie and Punch Drunk Love, were the dumbest Adam Sandler movies I've ever seen. This movie is even funny. Adam Sandler looks more like an idiot then a star in this movie.",
-            "review_date": "2022-12-24",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 4
+  "title": "Going Overboard",
+  "rating": 1.5,
+  "release_date": "1989-05-12",
+  "summary": "A wanna-be comedian on a cruise ship filled with beautiful women gets his big chance to perform when the ship's stand-up joker gets locked in the bathroom. Will he sink or swim?",
+  "critic_reviews": [
+    "At least the movie has archival value: an early appearance by Chicago Hope‘s Peter Berg, along with Billy Zane embarrassing himself as a favor to his wife, Liza Collins Zane, who costars in the film."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "I like Sandler, mostly for his early stuff but this movie is incredibly hard to watch.Feels like the whole movie was just made up as they went along which can work but nothing clicks here; it's like they didn't do any prep and just took theI like Sandler, mostly for his early stuff but this movie is incredibly hard to watch.Feels like the whole movie was just made up as they went along which can work but nothing clicks here; it's like they didn't do any prep and just took the first take on everything.The only interesting things here are the cameos from some recognizable people with a splash of 80s nostalgia.",
+      "review_date": "2020-02-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The worst movie I have ever seen. Could not get a third of the way through and I watch plenty of rubbish",
+      "review_date": "2018-09-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Only this movie and Punch Drunk Love, were the dumbest Adam Sandler movies I've ever seen. This movie is even funny. Adam Sandler looks more like an idiot then a star in this movie.",
+      "review_date": "2022-12-24",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 4,
+  "genres": [
+    "Comedy"
+  ]
 }

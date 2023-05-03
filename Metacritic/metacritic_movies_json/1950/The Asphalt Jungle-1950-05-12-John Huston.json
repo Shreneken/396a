@@ -1,26 +1,26 @@
 {
-    "title": "The Asphalt Jungle",
-    "rating": 7.6,
-    "release_date": "1950-05-12",
-    "genre": [
-        "Drama",
-        "Thriller",
-        "Crime",
-        "Film-Noir"
-    ],
-    "summary": "A major heist goes off as planned, but then double crosses, bad luck and solid police work cause everything to unravel.",
-    "critic_reviews": [
-        "Shot with an eye for the grimy beauty of the underworld and utterly merciless to its characters, The Asphalt Jungle is a biting, bitter espresso of a movie.",
-        "A tight plot that's enriched by wonderfully crafted characters that each have their own key weaknesses.",
-        "Rosson's moody photography and Rozsa's moving score further enhance this film noir masterpiece.",
-        "Blood and trauma make an irresistible mix in John Huston\u2019s The Asphalt Jungle.",
-        "The Asphalt Jungle would be considered a heist picture if the mood didn't dictate otherwise. The standard \"honor among thieves\" theme applies, but dishonor gives the film its special noir flavor.",
-        "An early masterclass in the art of the caper movie, John Huston's 1950 thriller stands up wonderfully well, even if we've got used to far more convoluted scheming by movie robbers in the intervening period",
-        "Mr. Huston has filmed a straight crime story about as cleverly and graphically as it could be filmed.",
-        "Exciting and tautly directed \u2013 the lengthy robbery scenes are exemplary \u2013 it\u2019s moody to the dying frame, emphasised by Harold Rosson\u2019s lighting of trash-filled back-alleys and half-lit clip joints and Mikl\u00f3s Rozsa\u2019s haunting theme music.",
-        "One of the first big caper films, this 1950 feature contributed much to the essence of the genre in its meticulous observation of planning and execution.",
-        "Ironic realism is striven for and achieved in the writing, production and direction. An audience will quite easily pull for the crooks in their execution of the million-dollar jewelry theft around which the plot is built."
-    ],
-    "reviews": [],
-    "num_reviews": 10
+  "title": "The Asphalt Jungle",
+  "rating": 7.6,
+  "release_date": "1950-05-12",
+  "summary": "A major heist goes off as planned, but then double crosses, bad luck and solid police work cause everything to unravel.",
+  "critic_reviews": [
+    "Shot with an eye for the grimy beauty of the underworld and utterly merciless to its characters, The Asphalt Jungle is a biting, bitter espresso of a movie.",
+    "A tight plot that's enriched by wonderfully crafted characters that each have their own key weaknesses.",
+    "Rosson's moody photography and Rozsa's moving score further enhance this film noir masterpiece.",
+    "Blood and trauma make an irresistible mix in John Huston’s The Asphalt Jungle.",
+    "The Asphalt Jungle would be considered a heist picture if the mood didn't dictate otherwise. The standard \"honor among thieves\" theme applies, but dishonor gives the film its special noir flavor.",
+    "An early masterclass in the art of the caper movie, John Huston's 1950 thriller stands up wonderfully well, even if we've got used to far more convoluted scheming by movie robbers in the intervening period",
+    "Mr. Huston has filmed a straight crime story about as cleverly and graphically as it could be filmed.",
+    "Exciting and tautly directed – the lengthy robbery scenes are exemplary – it’s moody to the dying frame, emphasised by Harold Rosson’s lighting of trash-filled back-alleys and half-lit clip joints and Miklós Rozsa’s haunting theme music.",
+    "One of the first big caper films, this 1950 feature contributed much to the essence of the genre in its meticulous observation of planning and execution.",
+    "Ironic realism is striven for and achieved in the writing, production and direction. An audience will quite easily pull for the crooks in their execution of the million-dollar jewelry theft around which the plot is built."
+  ],
+  "reviews": [],
+  "num_reviews": 10,
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime",
+    "Film-Noir"
+  ]
 }

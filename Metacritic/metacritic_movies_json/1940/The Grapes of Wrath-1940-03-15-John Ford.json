@@ -1,48 +1,48 @@
 {
-    "title": "The Grapes of Wrath",
-    "rating": 8.6,
-    "release_date": "1940-03-15",
-    "genre": [
-        "Drama",
-        "History"
-    ],
-    "summary": "A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.",
-    "critic_reviews": [
-        "There is a magnificence to The Grapes of Wrath in the breadth of its ambition, which still makes it the definitive cinematic take on one of America\u2019s most defining epochs.",
-        "The message is boldly displayed, but told with characters of such sympathy and images of such beauty that audiences leave the theater feeling more pity than anger or resolve. It's a message movie, but not a recruiting poster.",
-        "Gregg Toland captures the open spaces and big skies of rural America, while the normally conservative Ford puts forward a sympathetic but radical plea for workers' rights and freedom for the people.",
-        "Too many films these days trivialize poverty as an ironically, tastelessly over-produced pageant to earn kudos. The Grapes of Wrath is flawed, but it captures that shiver of panic that grips anyone for whom the money for the next meal is unknown. The film remains a vital document of the perversion and torment of the fantasy most commonly known as the American Dream.",
-        "It is an absorbing, tense melodrama, starkly realistic, and loaded with social and political fireworks.",
-        "In the vast library where the celluloid literature of the screen is stored there is one small, uncrowded shelf devoted to the cinema's masterworks, to those films which by dignity of theme and excellence of treatment seem to be of enduring artistry, seem destined to be recalled not merely at the end of their particular year but whenever great motion pictures are mentioned. To that shelf of screen classics Twentieth Century-Fox yesterday added its version of John Steinbeck's The Grapes of Wrath.",
-        "The Grapes of Wrath is possibly the best picture ever made from a so-so book. It is certainly the best picture Darryl F. Zanuck has produced or Nunnally Johnson scripted. It would be the best John Ford had directed if he had not already made \"The Informer.\"",
-        "The word that comes in most handily for The Grapes of Wrath is magnificent. Movies will probably go on improving and broadening themselves; but in any event, The Grapes of Wrath is the most mature picture story that has ever been made, in feeling, in purpose, and in the use of the medium. You can drag out classics (it is often safer not to go back and see them) and you can roll off names in different tongues and times. But this is a best that has no very near comparison to date.",
-        "Ford's visualization of Steinbeck's novel is so emotionally gripping that viewers have little time to collect themselves from one powerful scene to the next.",
-        "Ford's film, shot by Gregg Toland with magnificent, lyrical simplicity, captures the stark plainness of the migrants, stripped to a few possessions, left with innumerable relations and little hope.",
-        "John Carradine's mercurial whiskey preacher and Jane Darwell's salt-of-the-earth farmer are sharply etched, and Fonda's quietly authoritative performance has stood the test of time.",
-        "Ford's admirers have rightly tended to play this down in favor of his later and more personal westerns, but there's much to admire here in Gregg Toland's sun-beaten photography and Henry Fonda's meticulous performance as Steinbeck's dashboard saint, Tom Joad."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "The Grapes of Wrath is a classic film that stands out as one of the American greats. Not only does it hold up today, but it stands out as one of the best adaptations of a novel I have ever seen. The stunning visuals really help sell the senseThe Grapes of Wrath is a classic film that stands out as one of the American greats. Not only does it hold up today, but it stands out as one of the best adaptations of a novel I have ever seen. The stunning visuals really help sell the sense of hopelessness that pervades The Great Depression. The performances are fantastic and the ensemble cast really bares their souls and shares their pains, their hopes, their dreams, and their inevitable defeat. This is a must see movie for film buffs.",
-            "review_date": "2019-09-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is a masterpiece of historical storytelling. I grew up watching this movie, and it is one of those timeless dramas you can watch again and again.",
-            "review_date": "2019-09-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "John Steinbeck's classic novel adapted beautifully into a tale that perfectly captures the essence of the time period.",
-            "review_date": "2021-06-23",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 15
+  "title": "The Grapes of Wrath",
+  "rating": 8.6,
+  "release_date": "1940-03-15",
+  "summary": "A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.",
+  "critic_reviews": [
+    "There is a magnificence to The Grapes of Wrath in the breadth of its ambition, which still makes it the definitive cinematic take on one of America’s most defining epochs.",
+    "The message is boldly displayed, but told with characters of such sympathy and images of such beauty that audiences leave the theater feeling more pity than anger or resolve. It's a message movie, but not a recruiting poster.",
+    "Gregg Toland captures the open spaces and big skies of rural America, while the normally conservative Ford puts forward a sympathetic but radical plea for workers' rights and freedom for the people.",
+    "Too many films these days trivialize poverty as an ironically, tastelessly over-produced pageant to earn kudos. The Grapes of Wrath is flawed, but it captures that shiver of panic that grips anyone for whom the money for the next meal is unknown. The film remains a vital document of the perversion and torment of the fantasy most commonly known as the American Dream.",
+    "It is an absorbing, tense melodrama, starkly realistic, and loaded with social and political fireworks.",
+    "In the vast library where the celluloid literature of the screen is stored there is one small, uncrowded shelf devoted to the cinema's masterworks, to those films which by dignity of theme and excellence of treatment seem to be of enduring artistry, seem destined to be recalled not merely at the end of their particular year but whenever great motion pictures are mentioned. To that shelf of screen classics Twentieth Century-Fox yesterday added its version of John Steinbeck's The Grapes of Wrath.",
+    "The Grapes of Wrath is possibly the best picture ever made from a so-so book. It is certainly the best picture Darryl F. Zanuck has produced or Nunnally Johnson scripted. It would be the best John Ford had directed if he had not already made \"The Informer.\"",
+    "The word that comes in most handily for The Grapes of Wrath is magnificent. Movies will probably go on improving and broadening themselves; but in any event, The Grapes of Wrath is the most mature picture story that has ever been made, in feeling, in purpose, and in the use of the medium. You can drag out classics (it is often safer not to go back and see them) and you can roll off names in different tongues and times. But this is a best that has no very near comparison to date.",
+    "Ford's visualization of Steinbeck's novel is so emotionally gripping that viewers have little time to collect themselves from one powerful scene to the next.",
+    "Ford's film, shot by Gregg Toland with magnificent, lyrical simplicity, captures the stark plainness of the migrants, stripped to a few possessions, left with innumerable relations and little hope.",
+    "John Carradine's mercurial whiskey preacher and Jane Darwell's salt-of-the-earth farmer are sharply etched, and Fonda's quietly authoritative performance has stood the test of time.",
+    "Ford's admirers have rightly tended to play this down in favor of his later and more personal westerns, but there's much to admire here in Gregg Toland's sun-beaten photography and Henry Fonda's meticulous performance as Steinbeck's dashboard saint, Tom Joad."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "The Grapes of Wrath is a classic film that stands out as one of the American greats. Not only does it hold up today, but it stands out as one of the best adaptations of a novel I have ever seen. The stunning visuals really help sell the senseThe Grapes of Wrath is a classic film that stands out as one of the American greats. Not only does it hold up today, but it stands out as one of the best adaptations of a novel I have ever seen. The stunning visuals really help sell the sense of hopelessness that pervades The Great Depression. The performances are fantastic and the ensemble cast really bares their souls and shares their pains, their hopes, their dreams, and their inevitable defeat. This is a must see movie for film buffs.",
+      "review_date": "2019-09-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is a masterpiece of historical storytelling. I grew up watching this movie, and it is one of those timeless dramas you can watch again and again.",
+      "review_date": "2019-09-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "John Steinbeck's classic novel adapted beautifully into a tale that perfectly captures the essence of the time period.",
+      "review_date": "2021-06-23",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 15,
+  "genres": [
+    "Drama",
+    "History"
+  ]
 }
