@@ -1,46 +1,46 @@
 {
-    "title": "The Chaser",
-    "rating": 8.0,
-    "release_date": "2009-12-30",
-    "genre": [
-        "Thriller"
-    ],
-    "summary": "A cash-strapped pimp and former police detective draws upon the skills of his old job to track down his missing stable of prostitutes.",
-    "critic_reviews": [
-        "The Chaser is an expert serial-killer film from South Korea and a poster child for what a well-made thriller looked like in the classic days.",
-        "The opaque ethics of The Chaser elide the reductive nature of binary pairs, focusing instead on the far more piquant complexity of human behavior.",
-        "Na keeps pulling the rug out from under us, and his brawny genre exercise doubles nicely as a scream of social anguish, since most of the twisted screwups occur at the hands of bumbling or corrupt cops.",
-        "The film is distinguished by the grubby velocity of his foot chases, and the effectiveness of its craft.",
-        "Pulse-pounding third act expertly pushes the audience\u2019s buttons, to excruciatingly ironic and ultimately devastating effect. Pic does turn overwrought in the final stretch and would have been wise to end on an earlier note, though action fans won\u2019t mind.",
-        "The tight time-frame gives the excellent cast a chance to play with intensity, making even old genre hands hold their breath and feel their minds sufficiently shaken up.",
-        "While it could stand to lose 20 minutes and several plot twists, Mr. Na\u2019s debut manages to be thought-provoking and adventurous while providing solid thrills.",
-        "Some of the tension drains from a slow middle act, but it remains a gripping tale of sleuth-work and moral awakening.",
-        "A late-act tragedy drenched in bloodlust slow-mo epitomizes the film's poseur bleakness, with its treatise on individual and institutional amorality sabotaged by broad-stroke characterizations and a knotty narrative too reliant on twin modern-day horror tropes: preposterous decision-making and lousy cell phone service.",
-        "It's atmospheric but derivative, and I didn't find the denouement's Christian imagery convincing.",
-        "The best moments come with two bravura and ultra-realistic chase sequences through grotty, dimly lit back allies, and director Na Hong-Jin also does his best to toy with expectations whenever possible. This playfulness, however, backfires massively in the second half when coincidence and unforeseen consequence conspire uneasily with bloody, messy results."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "I love South Korean crme thrillers. But the Chaser is by turns gruesome and amateurish. It is not redeemed by the foot chases or gore.",
-            "review_date": "2019-06-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This review contains spoilers, click expand to view.\n        \nThere generally is something tricky in the pace of Korean movies and 'The Chaser' does not miss this point. Its rhythm is very jerky because some scenes last far too long without bringing much content to the story while others are rushed and overcut despite their interesting emotional value or their notable contribution to the depth of the story or of a character. The concept of time is particularly strange, as each event seems to follow directly the previous one without letting us believe that it is possible. Despite the ellipses, the story seems to unfold in the space of a maximum of two days, which gives an impression of unreality to the actions. Those ellipses are notably imperfect. In overall I found the story quite confusing: if the main one (the girl to be saved) is too simple, the rest (internal conflicts within the police unit, abuse of power by the leaders and impact of the media on the criminal case to name a few) seems to be mixed up in a really strange order with no clear purpose.It is interesting to have empathy for the different characters even if the main one can't stop running everywhere and fighting everyone without drinking, sleepin or eating. The acting is amazing if you look at charcters separately but as a whole you will notice the fact that the multiple bonds linking them to each others may be honestly unattractive and meaningless. The chase scenes are as great as the overall aesthetic of the film.In conclusion 'The Chaser' is great as it brings fresh air in the classic action and thriller movies but where it manages to get brighter it may also get to be sadly predictable and redundant. I disagree with the central tendency of the film that tries so hard to lead us to think that only violence can modulate injustice, and especially the fact that the film pushes us by all means to endorse such behavior.",
-            "review_date": "2021-06-09",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Tense, powerful, emotional, thrilling and depressing, this gritty thriller manages to grab your attention in it's first minutes and never lets it go. If you're in the mood for a dark, sad and original thriller, you won't be disappointed.",
-            "review_date": "2020-06-08",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 15
+  "title": "The Chaser",
+  "rating": 8.0,
+  "release_date": "2009-12-30",
+  "summary": "A cash-strapped pimp and former police detective draws upon the skills of his old job to track down his missing stable of prostitutes.",
+  "critic_reviews": [
+    "The Chaser is an expert serial-killer film from South Korea and a poster child for what a well-made thriller looked like in the classic days.",
+    "The opaque ethics of The Chaser elide the reductive nature of binary pairs, focusing instead on the far more piquant complexity of human behavior.",
+    "Na keeps pulling the rug out from under us, and his brawny genre exercise doubles nicely as a scream of social anguish, since most of the twisted screwups occur at the hands of bumbling or corrupt cops.",
+    "The film is distinguished by the grubby velocity of his foot chases, and the effectiveness of its craft.",
+    "Pulse-pounding third act expertly pushes the audience’s buttons, to excruciatingly ironic and ultimately devastating effect. Pic does turn overwrought in the final stretch and would have been wise to end on an earlier note, though action fans won’t mind.",
+    "The tight time-frame gives the excellent cast a chance to play with intensity, making even old genre hands hold their breath and feel their minds sufficiently shaken up.",
+    "While it could stand to lose 20 minutes and several plot twists, Mr. Na’s debut manages to be thought-provoking and adventurous while providing solid thrills.",
+    "Some of the tension drains from a slow middle act, but it remains a gripping tale of sleuth-work and moral awakening.",
+    "A late-act tragedy drenched in bloodlust slow-mo epitomizes the film's poseur bleakness, with its treatise on individual and institutional amorality sabotaged by broad-stroke characterizations and a knotty narrative too reliant on twin modern-day horror tropes: preposterous decision-making and lousy cell phone service.",
+    "It's atmospheric but derivative, and I didn't find the denouement's Christian imagery convincing.",
+    "The best moments come with two bravura and ultra-realistic chase sequences through grotty, dimly lit back allies, and director Na Hong-Jin also does his best to toy with expectations whenever possible. This playfulness, however, backfires massively in the second half when coincidence and unforeseen consequence conspire uneasily with bloody, messy results."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "I love South Korean crme thrillers. But the Chaser is by turns gruesome and amateurish. It is not redeemed by the foot chases or gore.",
+      "review_date": "2019-06-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This review contains spoilers, click expand to view.\n        \nThere generally is something tricky in the pace of Korean movies and 'The Chaser' does not miss this point. Its rhythm is very jerky because some scenes last far too long without bringing much content to the story while others are rushed and overcut despite their interesting emotional value or their notable contribution to the depth of the story or of a character. The concept of time is particularly strange, as each event seems to follow directly the previous one without letting us believe that it is possible. Despite the ellipses, the story seems to unfold in the space of a maximum of two days, which gives an impression of unreality to the actions. Those ellipses are notably imperfect. In overall I found the story quite confusing: if the main one (the girl to be saved) is too simple, the rest (internal conflicts within the police unit, abuse of power by the leaders and impact of the media on the criminal case to name a few) seems to be mixed up in a really strange order with no clear purpose.It is interesting to have empathy for the different characters even if the main one can't stop running everywhere and fighting everyone without drinking, sleepin or eating. The acting is amazing if you look at charcters separately but as a whole you will notice the fact that the multiple bonds linking them to each others may be honestly unattractive and meaningless. The chase scenes are as great as the overall aesthetic of the film.In conclusion 'The Chaser' is great as it brings fresh air in the classic action and thriller movies but where it manages to get brighter it may also get to be sadly predictable and redundant. I disagree with the central tendency of the film that tries so hard to lead us to think that only violence can modulate injustice, and especially the fact that the film pushes us by all means to endorse such behavior.",
+      "review_date": "2021-06-09",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Tense, powerful, emotional, thrilling and depressing, this gritty thriller manages to grab your attention in it's first minutes and never lets it go. If you're in the mood for a dark, sad and original thriller, you won't be disappointed.",
+      "review_date": "2020-06-08",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 15,
+  "genres": [
+    "Thriller"
+  ]
 }

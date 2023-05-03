@@ -1,52 +1,52 @@
 {
-    "title": "Jules and Jim",
-    "rating": 6.5,
-    "release_date": "1962-04-23",
-    "genre": [
-        "Drama",
-        "Romance"
-    ],
-    "summary": "Decades of a love triangle concerning two friends and an impulsive woman.",
-    "critic_reviews": [
-        "Fran\u00e7ois Truffaut\u2019s Jules And Jim is many things, not least among them a modernist Pygmalion.",
-        "With this 1961 film Truffaut comes closest to the spirit and sublimity of his mentor, Jean Renoir, and the result is a masterpiece of the New Wave.",
-        "Jules and Jim is one of those rare films that knows how fast audiences can think, and how emotions contain their own explanations",
-        "There is great sadness in \u2018Jules et Jim\u2019, what with the war, Catherine\u2019s betrayals and the nebulous tragedy that is growing up, for those who can manage it but, after the whirlwind has departed, it\u2019s the joy \u2013 the sense of plunging into life  \u2013 that remains.",
-        "Playfulness is the defining characteristic of Jules and Jim, even if what it largely entails is a tragic gender gap of fatal proportions.",
-        "In this enduringly transcendent love story, Truffaut traces the relationships between three lovers and friends over the years. Moreau dominates every fragment of the movie with her magisterial eroticism. The film works in ways that touch the heart more than the mind.",
-        "Francois Truffaut's greatest achievement, Jules and Jim is a shrine to lovers who have known obsession and been destroyed by it.",
-        "It remains a marvel of a modern ethos, particularly in the behaviour of its principal characters: whether it\u2019s the total lack of jealousy or its cinematic style that encompasses newsreel footage, photographic stills and freeze frames.",
-        "More than 40 years old, Francois Truffaut\u2019s whirling dervish remains an ageless beauty. The film appears to us as like a specter, with a sensibility about cinematic language and sexual relations rarely seen today.",
-        "The mood of the movie reflects the exuberance of youth and the wisdom of experience. New Wave gold.",
-        "Seminal Truffaut.",
-        "The film introduced a crucial theme that was to run right through Truffaut's work: how we cope with death and how we preserve our memories of those who have died. I don't think Jeanne Moreau gave a better performance than as Catherine.",
-        "It represents some of the first and most essential steps into a new age of filmmaking.",
-        "This is a painfully moving story about uncompromising friendship and uncontrollable love - not so much unrequited as undeserving and unfulfilled.",
-        "A tender tale [from the novel by Henri-Pierre Roche] that avoids mawkishness and impropriety in treating the lives of two friends who are mixed up with a woman they share.",
-        "To put it quickly and crisply, it is charming, exciting and sad."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "One of the all-time greats... Jeane Moreau is fantastic, as always - though I did love her in La Femme Nikita, maybe more",
-            "review_date": "2020-10-10",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I have heard that Jules and Jim is considered one of Fran\u00e7ois Truffaut's best films and at least in my opinion I can declare that it's true, especially because as it progresses it begins to change the game, especially with its ending. HerI have heard that Jules and Jim is considered one of Fran\u00e7ois Truffaut's best films and at least in my opinion I can declare that it's true, especially because as it progresses it begins to change the game, especially with its ending. Her smile and his face before falling was heartbreaking.Marvelous film.",
-            "review_date": "2022-09-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "THE 400 BLOWS REVIEW (IDK WHY THE FILM AIN'T IN METACRITIC)The 400 blows is a pleasant and accesible film to begin with nouvelle vague. Fran\u00e7ois Truffaut's great screenplay and floating camerawork make the movie flow. It's ending truely isTHE 400 BLOWS REVIEW (IDK WHY THE FILM AIN'T IN METACRITIC)The 400 blows is a pleasant and accesible film to begin with nouvelle vague. Fran\u00e7ois Truffaut's great screenplay and floating camerawork make the movie flow. It's ending truely is enigmatic although I gotta admit that I didn't understand it on my first watch.I hate every single adult in this film.",
-            "review_date": "2022-04-22",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 19
+  "title": "Jules and Jim",
+  "rating": 6.5,
+  "release_date": "1962-04-23",
+  "summary": "Decades of a love triangle concerning two friends and an impulsive woman.",
+  "critic_reviews": [
+    "François Truffaut’s Jules And Jim is many things, not least among them a modernist Pygmalion.",
+    "With this 1961 film Truffaut comes closest to the spirit and sublimity of his mentor, Jean Renoir, and the result is a masterpiece of the New Wave.",
+    "Jules and Jim is one of those rare films that knows how fast audiences can think, and how emotions contain their own explanations",
+    "There is great sadness in ‘Jules et Jim’, what with the war, Catherine’s betrayals and the nebulous tragedy that is growing up, for those who can manage it but, after the whirlwind has departed, it’s the joy – the sense of plunging into life  – that remains.",
+    "Playfulness is the defining characteristic of Jules and Jim, even if what it largely entails is a tragic gender gap of fatal proportions.",
+    "In this enduringly transcendent love story, Truffaut traces the relationships between three lovers and friends over the years. Moreau dominates every fragment of the movie with her magisterial eroticism. The film works in ways that touch the heart more than the mind.",
+    "Francois Truffaut's greatest achievement, Jules and Jim is a shrine to lovers who have known obsession and been destroyed by it.",
+    "It remains a marvel of a modern ethos, particularly in the behaviour of its principal characters: whether it’s the total lack of jealousy or its cinematic style that encompasses newsreel footage, photographic stills and freeze frames.",
+    "More than 40 years old, Francois Truffaut’s whirling dervish remains an ageless beauty. The film appears to us as like a specter, with a sensibility about cinematic language and sexual relations rarely seen today.",
+    "The mood of the movie reflects the exuberance of youth and the wisdom of experience. New Wave gold.",
+    "Seminal Truffaut.",
+    "The film introduced a crucial theme that was to run right through Truffaut's work: how we cope with death and how we preserve our memories of those who have died. I don't think Jeanne Moreau gave a better performance than as Catherine.",
+    "It represents some of the first and most essential steps into a new age of filmmaking.",
+    "This is a painfully moving story about uncompromising friendship and uncontrollable love - not so much unrequited as undeserving and unfulfilled.",
+    "A tender tale [from the novel by Henri-Pierre Roche] that avoids mawkishness and impropriety in treating the lives of two friends who are mixed up with a woman they share.",
+    "To put it quickly and crisply, it is charming, exciting and sad."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "One of the all-time greats... Jeane Moreau is fantastic, as always - though I did love her in La Femme Nikita, maybe more",
+      "review_date": "2020-10-10",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I have heard that Jules and Jim is considered one of François Truffaut's best films and at least in my opinion I can declare that it's true, especially because as it progresses it begins to change the game, especially with its ending. HerI have heard that Jules and Jim is considered one of François Truffaut's best films and at least in my opinion I can declare that it's true, especially because as it progresses it begins to change the game, especially with its ending. Her smile and his face before falling was heartbreaking.Marvelous film.",
+      "review_date": "2022-09-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "THE 400 BLOWS REVIEW (IDK WHY THE FILM AIN'T IN METACRITIC)The 400 blows is a pleasant and accesible film to begin with nouvelle vague. François Truffaut's great screenplay and floating camerawork make the movie flow. It's ending truely isTHE 400 BLOWS REVIEW (IDK WHY THE FILM AIN'T IN METACRITIC)The 400 blows is a pleasant and accesible film to begin with nouvelle vague. François Truffaut's great screenplay and floating camerawork make the movie flow. It's ending truely is enigmatic although I gotta admit that I didn't understand it on my first watch.I hate every single adult in this film.",
+      "review_date": "2022-04-22",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 19,
+  "genres": [
+    "Drama",
+    "Romance"
+  ]
 }

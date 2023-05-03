@@ -1,26 +1,26 @@
 {
-    "title": "Dabangg 3",
-    "rating": "tbd",
-    "release_date": "2019-12-20",
-    "genre": [
-        "Action",
-        "Drama",
-        "Comedy",
-        "Romance",
-        "Musical"
-    ],
-    "summary": "India's most badass and lovable cop is back.",
-    "critic_reviews": [
-        "Dabangg 3 is earnest, and it earnestly wants to deliver thrills. To do so, though, it would have to provide that other essential Bollywood ingredient: emotion. What\u2019s missing are the tears. The movie hardly leaves a trace."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "The love angle didn\u2019t work for me. For me Chulbul Pandey\u2019s chemistry with Rajjo was kind of epic, I have no idea why Mr. Khan felt like he could create another love story, pull out same old love punches, do love songs and fans will be allThe love angle didn\u2019t work for me. For me Chulbul Pandey\u2019s chemistry with Rajjo was kind of epic, I have no idea why Mr. Khan felt like he could create another love story, pull out same old love punches, do love songs and fans will be all over the floor, I definitely was not. I wished Chulbul Pandey\u2019s re-vist to the past was something unique than obvious. But if you love to watch Salman Khan playing Salman Khan again, you are most welcome to watch the movie.LoveBlogger Trusttherabbit",
-            "review_date": "2019-12-20",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 2
+  "title": "Dabangg 3",
+  "rating": "tbd",
+  "release_date": "2019-12-20",
+  "summary": "India's most badass and lovable cop is back.",
+  "critic_reviews": [
+    "Dabangg 3 is earnest, and it earnestly wants to deliver thrills. To do so, though, it would have to provide that other essential Bollywood ingredient: emotion. What’s missing are the tears. The movie hardly leaves a trace."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "The love angle didn’t work for me. For me Chulbul Pandey’s chemistry with Rajjo was kind of epic, I have no idea why Mr. Khan felt like he could create another love story, pull out same old love punches, do love songs and fans will be allThe love angle didn’t work for me. For me Chulbul Pandey’s chemistry with Rajjo was kind of epic, I have no idea why Mr. Khan felt like he could create another love story, pull out same old love punches, do love songs and fans will be all over the floor, I definitely was not. I wished Chulbul Pandey’s re-vist to the past was something unique than obvious. But if you love to watch Salman Khan playing Salman Khan again, you are most welcome to watch the movie.LoveBlogger Trusttherabbit",
+      "review_date": "2019-12-20",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 2,
+  "genres": [
+    "Action",
+    "Drama",
+    "Comedy",
+    "Romance",
+    "Musical"
+  ]
 }

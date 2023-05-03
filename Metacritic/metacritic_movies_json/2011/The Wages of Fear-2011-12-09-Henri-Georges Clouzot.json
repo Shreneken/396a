@@ -1,13 +1,13 @@
 {
-    "title": "The Wages of Fear",
-    "rating": 8.3,
-    "release_date": "2011-12-09",
-    "genre": [
-        "Drama",
-        "Thriller"
-    ],
-    "summary": "In a squalid South American oil town, four desperate men sign on for a suicide mission to drive trucks loaded with nitroglycerin over a treacherous mountain route to a faraway oil fire. The result is a white-knuckle ride from France\u2019s legendary master of suspense, Henri-Georges Clouzot. (Janus Films)",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "The Wages of Fear",
+  "rating": 8.3,
+  "release_date": "2011-12-09",
+  "summary": "In a squalid South American oil town, four desperate men sign on for a suicide mission to drive trucks loaded with nitroglycerin over a treacherous mountain route to a faraway oil fire. The result is a white-knuckle ride from France’s legendary master of suspense, Henri-Georges Clouzot. (Janus Films)",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ]
 }

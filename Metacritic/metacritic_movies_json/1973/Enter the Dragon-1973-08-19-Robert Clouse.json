@@ -1,52 +1,52 @@
 {
-    "title": "Enter the Dragon",
-    "rating": 7.7,
-    "release_date": "1973-08-19",
-    "genre": [
-        "Action",
-        "Drama",
-        "Thriller",
-        "Crime"
-    ],
-    "summary": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
-    "critic_reviews": [
-        "Enter the Dragon goes far beyond the philosophical, of course. Its best sequences, and the only real reason for seeing it again, involve Lee's phenomenal physical and emotional presence.",
-        "Bruce Lee was the Fred Astaire of chop-socky, and Enter the Dragon represents his finest work.",
-        "Even though the movie was, in a lot of ways, a glorious mess, it turned out to be a huge success on just about every level.",
-        "A sequestered island, a slinky score, a villain with a secret scheme and a deadly prosthesis \u2014 it\u2019d be good, cheesy fun even without the centerpiece fight sequences.",
-        "Bruce Lee's last movie is the only one that gives him the star treatment he deserved. His charismatic presence is remarkable in Enter the Dragon, and it's a shame he didn't have the chance to become the great, unique star he seemed destined to be.",
-        "Action superstar Bruce Lee's consensus best movie and biggest international hit. Lee is a secret agent inflitrating a sinister island kung fu kingdom, battling John Saxton, Jim Kelly and the nefarious martial arts lord Shih Fien in famous set-pieces like the hall of mirror showdown.",
-        "It's not a great film, but Lee's superhuman skills make it an occasionally jaw-dropping experience.",
-        "The movie can be flat-out fun, a sort of carnival of combat that can turn even a sophisticated audience into a group of gawking kids at a Saturday matinee.",
-        "Film carries all the explosive trappings that make for a hit in its intended market and is glossed with a melodramatic narrative to take full advantage of its theme.",
-        "Ripping entertainment overall, with just enough meat for amateur sociologists.",
-        "The lack of sentimentality helps focus the viewer on what the film depicts exceptionally well, namely wanton bad behavior and enthralling, wall-to-wall ass-kicking.",
-        "The picture is expertly made and well\u2010meshed; it moves like lightning and brims with color.",
-        "Nobody shows much evidence of acting ability, and the script is full of holes. Nonstop action is what these films are about, and that's what you get here.",
-        "Worth seeing for Lee, but still unforgivably wasteful of his talents."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "Movie from the 70s, so expect some bad scenes and old fashion. Sometimes the pictures are looking even ridiculous. But the story is not bad and some of the actions scenes are showing great martial art skills.",
-            "review_date": "2021-05-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A true classic and a huge success to all martial arts entertainment. Bruce Lee showing both physical and philosophical moments in the silver screen was what made him a true legend.",
-            "review_date": "2020-12-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A pop culture gem of a film, watching \"Enter the Dragon\" is like watching a comic book come to life but without any of the superpowers. Lee's choreography and super hard work/passion shines especially when placed in well-shot locations thatA pop culture gem of a film, watching \"Enter the Dragon\" is like watching a comic book come to life but without any of the superpowers. Lee's choreography and super hard work/passion shines especially when placed in well-shot locations that take advantage of different fighting scenarios. The entire film crew deliver a piece of work that is rich with culture, colours, music, period pieces from the 70s, and of course, action where the post production sound effects make you feel every bone crushing hit the actors deliver to each other. The film is light on plot, but honestly, the plot is not the focus, but rather, an excusable vehicle to showcase Lee's unprecedented work where the villains get what they deserve and the heroes do their best to reach their dreams. The amount of passion put into the film just leaps off the screen and everybody involved deserves an applause. There is a reason why it sparked the popularity of Martial Arts and helped inspire many others from filmmakers to bodybuilders. I bow my head down to the late great master...but I'll make sure to keep my eyes on the prize!",
-            "review_date": "2021-08-21",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 17
+  "title": "Enter the Dragon",
+  "rating": 7.7,
+  "release_date": "1973-08-19",
+  "summary": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+  "critic_reviews": [
+    "Enter the Dragon goes far beyond the philosophical, of course. Its best sequences, and the only real reason for seeing it again, involve Lee's phenomenal physical and emotional presence.",
+    "Bruce Lee was the Fred Astaire of chop-socky, and Enter the Dragon represents his finest work.",
+    "Even though the movie was, in a lot of ways, a glorious mess, it turned out to be a huge success on just about every level.",
+    "A sequestered island, a slinky score, a villain with a secret scheme and a deadly prosthesis — it’d be good, cheesy fun even without the centerpiece fight sequences.",
+    "Bruce Lee's last movie is the only one that gives him the star treatment he deserved. His charismatic presence is remarkable in Enter the Dragon, and it's a shame he didn't have the chance to become the great, unique star he seemed destined to be.",
+    "Action superstar Bruce Lee's consensus best movie and biggest international hit. Lee is a secret agent inflitrating a sinister island kung fu kingdom, battling John Saxton, Jim Kelly and the nefarious martial arts lord Shih Fien in famous set-pieces like the hall of mirror showdown.",
+    "It's not a great film, but Lee's superhuman skills make it an occasionally jaw-dropping experience.",
+    "The movie can be flat-out fun, a sort of carnival of combat that can turn even a sophisticated audience into a group of gawking kids at a Saturday matinee.",
+    "Film carries all the explosive trappings that make for a hit in its intended market and is glossed with a melodramatic narrative to take full advantage of its theme.",
+    "Ripping entertainment overall, with just enough meat for amateur sociologists.",
+    "The lack of sentimentality helps focus the viewer on what the film depicts exceptionally well, namely wanton bad behavior and enthralling, wall-to-wall ass-kicking.",
+    "The picture is expertly made and well‐meshed; it moves like lightning and brims with color.",
+    "Nobody shows much evidence of acting ability, and the script is full of holes. Nonstop action is what these films are about, and that's what you get here.",
+    "Worth seeing for Lee, but still unforgivably wasteful of his talents."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "Movie from the 70s, so expect some bad scenes and old fashion. Sometimes the pictures are looking even ridiculous. But the story is not bad and some of the actions scenes are showing great martial art skills.",
+      "review_date": "2021-05-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A true classic and a huge success to all martial arts entertainment. Bruce Lee showing both physical and philosophical moments in the silver screen was what made him a true legend.",
+      "review_date": "2020-12-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A pop culture gem of a film, watching \"Enter the Dragon\" is like watching a comic book come to life but without any of the superpowers. Lee's choreography and super hard work/passion shines especially when placed in well-shot locations thatA pop culture gem of a film, watching \"Enter the Dragon\" is like watching a comic book come to life but without any of the superpowers. Lee's choreography and super hard work/passion shines especially when placed in well-shot locations that take advantage of different fighting scenarios. The entire film crew deliver a piece of work that is rich with culture, colours, music, period pieces from the 70s, and of course, action where the post production sound effects make you feel every bone crushing hit the actors deliver to each other. The film is light on plot, but honestly, the plot is not the focus, but rather, an excusable vehicle to showcase Lee's unprecedented work where the villains get what they deserve and the heroes do their best to reach their dreams. The amount of passion put into the film just leaps off the screen and everybody involved deserves an applause. There is a reason why it sparked the popularity of Martial Arts and helped inspire many others from filmmakers to bodybuilders. I bow my head down to the late great master...but I'll make sure to keep my eyes on the prize!",
+      "review_date": "2021-08-21",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 17,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller",
+    "Crime"
+  ]
 }

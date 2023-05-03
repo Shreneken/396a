@@ -1,32 +1,32 @@
 {
-    "title": "Miracle on 34th Street",
-    "rating": 7.7,
-    "release_date": "1947-06-04",
-    "genre": [
-        "Drama",
-        "Comedy",
-        "Family"
-    ],
-    "summary": "When a nice old man who claims to be Santa Claus is institutionalized as insane, a young lawyer decides to defend him by arguing in court that he is the real thing.",
-    "critic_reviews": [
-        "It is light, it is charming, it is delightfully funny and completely captivating. It is all that, and something more. It has an undefinable spiritual quality that raises the spirits of the beholder into a happy, hopeful mood.",
-        "In the battle of the classic Hollywood Christmas movies, It's A Wonderful Life feels charmingly ancient, fixed in an early-20th-century America that scarcely anyone today remembers first-hand. Miracle On 34th Street feels more modern, with slangy dialogue and naturalistic asides, and a general awareness of how Christmas has become about the intertwined stresses of shopping and selling.",
-        "The original (and best) version of the cockle-warming tale of a man who claims to be the real-life Santa Claus.",
-        "So you don't believe in Santa Claus? If you want to stay a non-believer don't see Miracle.",
-        "The freshest little picture in a long time, and maybe even the best comedy of this year.",
-        "A Christmas season evergreen.",
-        "It's a highly professional piece of Hollywood sentimentalism.",
-        "Author-Director George Seaton has laced his sure-fire sentimentality with equally sure-fire wit and some cynical knowledge about how men of business and law might talk, look and act under these extravagant circumstances. The movie handles all its whimsy deftly and is consistently a smooth, agile job.",
-        "A touch labored but lovable."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "I will admit it, I may be biased. I love Christmas movies, such as Scrooge, It's A Wonderful Life, Muppet Christmas Carol and the first two Home Alone movies. But really your Christmas is incomplete without the original Miracle on 34thI will admit it, I may be biased. I love Christmas movies, such as Scrooge, It's A Wonderful Life, Muppet Christmas Carol and the first two Home Alone movies. But really your Christmas is incomplete without the original Miracle on 34th Street, which is quite simply a timeless Christmas treasure. It is magical, imaginative and in some ways witty as well. The simple but effective and sparkling plot tells of a man believing himself as Santa is institutionalised for being insane, but sets out to prove he is the genuine article. The screenplay is lovely, spirited and pleasant, maybe it needed to be a little more snappy in places but compared to how wonderful the film was I am past caring. The cinematography and scenery are fabulous, the whole film is stunning to watch, and the music is gorgeous. And the acting, one word superb! As Kris Kringle, Edmund Gwenn is just marvellous. He positively twinkles in the role, and did he deserve the Oscar win for best supporting actor. Why am I asking that, of course he did. Maureen O'Hara, who was a stunning actress is so lovely as Doris, and as Fred John Payne also shines. And Natalie Wood is believable and absolutely adorable as Susan. What makes this movie though is that it teaches great morals, without preaching. All in all, a truly great film, that made me believe in Santa. 10/10 Bethany Cox",
-            "review_date": "2022-03-28",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 10
+  "title": "Miracle on 34th Street",
+  "rating": 7.7,
+  "release_date": "1947-06-04",
+  "summary": "When a nice old man who claims to be Santa Claus is institutionalized as insane, a young lawyer decides to defend him by arguing in court that he is the real thing.",
+  "critic_reviews": [
+    "It is light, it is charming, it is delightfully funny and completely captivating. It is all that, and something more. It has an undefinable spiritual quality that raises the spirits of the beholder into a happy, hopeful mood.",
+    "In the battle of the classic Hollywood Christmas movies, It's A Wonderful Life feels charmingly ancient, fixed in an early-20th-century America that scarcely anyone today remembers first-hand. Miracle On 34th Street feels more modern, with slangy dialogue and naturalistic asides, and a general awareness of how Christmas has become about the intertwined stresses of shopping and selling.",
+    "The original (and best) version of the cockle-warming tale of a man who claims to be the real-life Santa Claus.",
+    "So you don't believe in Santa Claus? If you want to stay a non-believer don't see Miracle.",
+    "The freshest little picture in a long time, and maybe even the best comedy of this year.",
+    "A Christmas season evergreen.",
+    "It's a highly professional piece of Hollywood sentimentalism.",
+    "Author-Director George Seaton has laced his sure-fire sentimentality with equally sure-fire wit and some cynical knowledge about how men of business and law might talk, look and act under these extravagant circumstances. The movie handles all its whimsy deftly and is consistently a smooth, agile job.",
+    "A touch labored but lovable."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "I will admit it, I may be biased. I love Christmas movies, such as Scrooge, It's A Wonderful Life, Muppet Christmas Carol and the first two Home Alone movies. But really your Christmas is incomplete without the original Miracle on 34thI will admit it, I may be biased. I love Christmas movies, such as Scrooge, It's A Wonderful Life, Muppet Christmas Carol and the first two Home Alone movies. But really your Christmas is incomplete without the original Miracle on 34th Street, which is quite simply a timeless Christmas treasure. It is magical, imaginative and in some ways witty as well. The simple but effective and sparkling plot tells of a man believing himself as Santa is institutionalised for being insane, but sets out to prove he is the genuine article. The screenplay is lovely, spirited and pleasant, maybe it needed to be a little more snappy in places but compared to how wonderful the film was I am past caring. The cinematography and scenery are fabulous, the whole film is stunning to watch, and the music is gorgeous. And the acting, one word superb! As Kris Kringle, Edmund Gwenn is just marvellous. He positively twinkles in the role, and did he deserve the Oscar win for best supporting actor. Why am I asking that, of course he did. Maureen O'Hara, who was a stunning actress is so lovely as Doris, and as Fred John Payne also shines. And Natalie Wood is believable and absolutely adorable as Susan. What makes this movie though is that it teaches great morals, without preaching. All in all, a truly great film, that made me believe in Santa. 10/10 Bethany Cox",
+      "review_date": "2022-03-28",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 10,
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Family"
+  ]
 }

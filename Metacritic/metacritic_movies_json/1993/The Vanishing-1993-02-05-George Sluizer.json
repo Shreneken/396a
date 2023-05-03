@@ -1,33 +1,33 @@
 {
-    "title": "The Vanishing",
-    "rating": 7.5,
-    "release_date": "1993-02-05",
-    "genre": [
-        "Drama",
-        "Mystery",
-        "Thriller",
-        "Horror"
-    ],
-    "summary": "The boyfriend of an abducted woman never gives up the search as the abductor looks on.",
-    "critic_reviews": [
-        "Psychological thrillers are only as effective as their villains, and The Vanishing serves up one hell of a specimen.",
-        "A good, psychological thriller that, I suspect, packs more of a wallop if you have not seen the original.",
-        "The new film is twice as busy as its quiet predecessor, and perhaps half as interesting (which still places it several notches above run-of-the-mill studio fare).",
-        "[Sluizer's] original, pitch-black ending would have sent people out of the theater giddy with shock; it\u2019s doubtful anyone will remember his new one long enough to tell their friends.",
-        "Some last-reel thrills and cathartic violence provide commercial oomph to the otherwise tedious thriller The Vanishing. This is one remake that sacrifices much of what made the original work so well.",
-        "While the original was a rather cerebral exercise in suspense, the American version has predictably been given a more visceral dimension. The new version is more simplistic, but still works on its own level.",
-        "Screenwriter Todd Graff makes an inept, quasi-formulaic rehash of everything. He duplicates many of the original scenes but does so mechanically.",
-        "A case study in how Hollywood can make a complete mess out of what was previously a marvelous film.",
-        "The Vanishing is a textbook exercise in the trashing of a nearly perfect film, conducted oddly enough under the auspices of the man who directed it."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "This is very much a film about isolation, guilt and greed. Its fairly sinister and its certainly black - not only in tone but also in terms of lighting, with a few scenes being really quite hard to figure out what's going on, on screen, soThis is very much a film about isolation, guilt and greed. Its fairly sinister and its certainly black - not only in tone but also in terms of lighting, with a few scenes being really quite hard to figure out what's going on, on screen, so its preferable to watch this with the proverbial curtains drawn. I found the plot a little confusing at times but its reasonably atmospheric and the acting is ok in it. Gerard Butler being the angry, mad Scotsman was worth seeing I suppose! if your a fan of him, esp. bearded Gerard Butler(!). I'm not sure if it entirely lives up to the tag line but its an entertaining and somewhat creepy watch, which overall I would still recommend, even though it could be better, yes.",
-            "review_date": "2021-11-27",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 10
+  "title": "The Vanishing",
+  "rating": 7.5,
+  "release_date": "1993-02-05",
+  "summary": "The boyfriend of an abducted woman never gives up the search as the abductor looks on.",
+  "critic_reviews": [
+    "Psychological thrillers are only as effective as their villains, and The Vanishing serves up one hell of a specimen.",
+    "A good, psychological thriller that, I suspect, packs more of a wallop if you have not seen the original.",
+    "The new film is twice as busy as its quiet predecessor, and perhaps half as interesting (which still places it several notches above run-of-the-mill studio fare).",
+    "[Sluizer's] original, pitch-black ending would have sent people out of the theater giddy with shock; it’s doubtful anyone will remember his new one long enough to tell their friends.",
+    "Some last-reel thrills and cathartic violence provide commercial oomph to the otherwise tedious thriller The Vanishing. This is one remake that sacrifices much of what made the original work so well.",
+    "While the original was a rather cerebral exercise in suspense, the American version has predictably been given a more visceral dimension. The new version is more simplistic, but still works on its own level.",
+    "Screenwriter Todd Graff makes an inept, quasi-formulaic rehash of everything. He duplicates many of the original scenes but does so mechanically.",
+    "A case study in how Hollywood can make a complete mess out of what was previously a marvelous film.",
+    "The Vanishing is a textbook exercise in the trashing of a nearly perfect film, conducted oddly enough under the auspices of the man who directed it."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "This is very much a film about isolation, guilt and greed. Its fairly sinister and its certainly black - not only in tone but also in terms of lighting, with a few scenes being really quite hard to figure out what's going on, on screen, soThis is very much a film about isolation, guilt and greed. Its fairly sinister and its certainly black - not only in tone but also in terms of lighting, with a few scenes being really quite hard to figure out what's going on, on screen, so its preferable to watch this with the proverbial curtains drawn. I found the plot a little confusing at times but its reasonably atmospheric and the acting is ok in it. Gerard Butler being the angry, mad Scotsman was worth seeing I suppose! if your a fan of him, esp. bearded Gerard Butler(!). I'm not sure if it entirely lives up to the tag line but its an entertaining and somewhat creepy watch, which overall I would still recommend, even though it could be better, yes.",
+      "review_date": "2021-11-27",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 10,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Horror"
+  ]
 }

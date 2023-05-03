@@ -1,12 +1,12 @@
 {
-    "title": "The Conformist",
-    "rating": 7.8,
-    "release_date": "1970-10-22",
-    "genre": [
-        "Drama"
-    ],
-    "summary": "Set in Rome in the 1930s, this re-release of Bernardo Bertolucci's 1970 breakthrough feature stars Jean-Louis Trintignant as a Mussolini operative sent to Paris to locate and eliminate an old professor who fled Italy when the fascists came to power.",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "The Conformist",
+  "rating": 7.8,
+  "release_date": "1970-10-22",
+  "summary": "Set in Rome in the 1930s, this re-release of Bernardo Bertolucci's 1970 breakthrough feature stars Jean-Louis Trintignant as a Mussolini operative sent to Paris to locate and eliminate an old professor who fled Italy when the fascists came to power.",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Drama"
+  ]
 }

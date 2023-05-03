@@ -1,41 +1,41 @@
 {
-    "title": "Dudley Do-Right",
-    "rating": 4.9,
-    "release_date": "1999-08-27",
-    "genre": [
-        "Comedy",
-        "Romance",
-        "Family"
-    ],
-    "summary": "Follows the hilarious exploits of the dedicated but hapless young Canadian Mountie (Frasier).  (Universal Pictures)",
-    "critic_reviews": [
-        "One of the summer's more pleasant surprises. A silly bit of tiptop tomfoolery with cross-generational appeal.",
-        "Eric Idle--a royal among sillies--turns in a wonderfully wacky performance.",
-        "Mostly pitched at a new crop of children who will detect the movie's mildly sarcastic, audience-winking tone with no problem.",
-        "I enjoyed the film more than I expected to.  It's harmless, simple-minded.",
-        "This whole movie is fun, and smart too, a fitting tribute to Jay Ward's original cartoons.",
-        "Works well as family entertainment.",
-        "The balance of inspired idiocy to hackneyed buffoonery is out of whack.",
-        "The needle on the laugh-o-meter barely budges.",
-        "Never gets horribly bad, but can't sustain its moments of inspiration either.",
-        "Performances feel too manufactured to be charming.",
-        "Isn't great; it doesn't come within a Yukon mile of its TV namesake. But it's agreeably bizarre.",
-        "As flat as the brim of a Mountie hat.",
-        "Enough flickers of Jay Ward's gloriously subversive sensibility to make it watchable, but it also has enough lengthy stretches of pure triteness to make it easy to skip altogether.",
-        "The plot is Kate-Moss thin.  Basically agreeable stuff, but not much more.  And that's a shame.",
-        "Like an obnoxious uncle desparately trying to amuse the young'uns with poo-poo humor and dum-dum pratfalls.",
-        "This terrible live-action comedy based on Jay Ward cartoons has its moments and its near misses.",
-        "A big dud.",
-        "Tiresome, inept farce that's not even a fraction as clever or entertaining as it likes to imagine it is -- a complete waste of time."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "I remember a time long ago when Brendan Fraser was actually a charming leading man.  At some point in the late 90's he decided to accept every single script that was shoved into his hands, regardless of quality, thus destroying anyI remember a time long ago when Brendan Fraser was actually a charming leading man.  At some point in the late 90's he decided to accept every single script that was shoved into his hands, regardless of quality, thus destroying any credibility as an actor he may have commanded.  Dudley Do-Right is one of the earlier examples of this unfortunate behavior now being displayed by Jason Statham and (even more disappointingly) Robert De Niro :(.  I've never had a film make 77 minutes seem so long.",
-            "review_date": "2012-02-18",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 19
+  "title": "Dudley Do-Right",
+  "rating": 4.9,
+  "release_date": "1999-08-27",
+  "summary": "Follows the hilarious exploits of the dedicated but hapless young Canadian Mountie (Frasier).  (Universal Pictures)",
+  "critic_reviews": [
+    "One of the summer's more pleasant surprises. A silly bit of tiptop tomfoolery with cross-generational appeal.",
+    "Eric Idle--a royal among sillies--turns in a wonderfully wacky performance.",
+    "Mostly pitched at a new crop of children who will detect the movie's mildly sarcastic, audience-winking tone with no problem.",
+    "I enjoyed the film more than I expected to.  It's harmless, simple-minded.",
+    "This whole movie is fun, and smart too, a fitting tribute to Jay Ward's original cartoons.",
+    "Works well as family entertainment.",
+    "The balance of inspired idiocy to hackneyed buffoonery is out of whack.",
+    "The needle on the laugh-o-meter barely budges.",
+    "Never gets horribly bad, but can't sustain its moments of inspiration either.",
+    "Performances feel too manufactured to be charming.",
+    "Isn't great; it doesn't come within a Yukon mile of its TV namesake. But it's agreeably bizarre.",
+    "As flat as the brim of a Mountie hat.",
+    "Enough flickers of Jay Ward's gloriously subversive sensibility to make it watchable, but it also has enough lengthy stretches of pure triteness to make it easy to skip altogether.",
+    "The plot is Kate-Moss thin.  Basically agreeable stuff, but not much more.  And that's a shame.",
+    "Like an obnoxious uncle desparately trying to amuse the young'uns with poo-poo humor and dum-dum pratfalls.",
+    "This terrible live-action comedy based on Jay Ward cartoons has its moments and its near misses.",
+    "A big dud.",
+    "Tiresome, inept farce that's not even a fraction as clever or entertaining as it likes to imagine it is -- a complete waste of time."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "I remember a time long ago when Brendan Fraser was actually a charming leading man.  At some point in the late 90's he decided to accept every single script that was shoved into his hands, regardless of quality, thus destroying anyI remember a time long ago when Brendan Fraser was actually a charming leading man.  At some point in the late 90's he decided to accept every single script that was shoved into his hands, regardless of quality, thus destroying any credibility as an actor he may have commanded.  Dudley Do-Right is one of the earlier examples of this unfortunate behavior now being displayed by Jason Statham and (even more disappointingly) Robert De Niro :(.  I've never had a film make 77 minutes seem so long.",
+      "review_date": "2012-02-18",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 19,
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Family"
+  ]
 }

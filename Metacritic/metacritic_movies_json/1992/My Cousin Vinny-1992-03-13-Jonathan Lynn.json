@@ -1,81 +1,81 @@
 {
-    "title": "My Cousin Vinny",
-    "rating": 7.7,
-    "release_date": "1992-03-13",
-    "genre": [
-        "Comedy",
-        "Crime"
-    ],
-    "summary": "Two young New Yorkers are accused of murder in rural Alabama while on their way back to college, and one of their cousins--an inexperienced, loudmouth lawyer (Joe Pesci) not accustomed to Southern rules and manners--comes in to defend them.",
-    "critic_reviews": [
-        "My Cousin Vinny is easily the most inventive and enjoyable American film farce in a long time, even during those extended patches when it seems to be marking time or when it continues with a running gag that can't stay the distance. The film has a secure and sophisticated sense of what makes farce so delicious.",
-        "My Cousin Vinny is a terrific variation on the fish-out-of-water/man-from-Mars story formula. Starring Joe Pesci as a slicker in the land of grits, My Cousin Vinny should tickle funny bones in every region and ring out a green spring for 20th Century Fox at the box office.",
-        "While it's easy to imagine an infinite number of bad courtroom comedies based on this scenario, this 1992 movie turns out to be wonderful\u2014broad and low character comedy that's solidly imagined and beautifully played.",
-        "My Cousin Vinny is a hoot.",
-        "Clocking in at just under two hours, MY COUSIN VINNY moves at an extremely leisurely pace for a Hollywood farce. But that's just one indication of what makes this appealingly quirky comedy stand apart from more run-of-the-mill fare.",
-        "A good-hearted comedy of clashing cultures. The film finds great fun in coaxing out and mocking a range of regional differences, from mutually impenetrable accents to radical variants in dress codes, but miraculously never descends to broad, dismissive caricatures.",
-        "Pesci's variation on New Jersey machismo (vulnerable in this case) isn't enough to fill a comedy; but Dale Launer's script luckily provides some fine routines for the supporting cast, notably the scene-stealing Marisa Tomei as Mona Lisa Vito, Pesci's sharp-tongued girlfriend. It's a small, surprisingly gentle affair, prone to fits and starts, but fun.",
-        "Tomei, sashaying through the proceedings as kind of a sexy hood ornament, creates a buoyant chemistry with her combative boyfriend.",
-        "The movie, however, is Pesci's. In that courtroom, he gets on a roll and stays rolling until the end. There's no one better with that New York-New Jersey corridor accent.",
-        "Given the temptations to goof it up, Pesci's performance in My Cousin Vinny is something of a triumph. As Vincent Gambini, a swaggering pint-sized New York lawyer who only recently passed the bar on his sixth try, Pesci modulates his usual psycho-nuttiness and gives it some recognizably human, even melancholy, undertones. The movie is a very mixed bag, but it's not quite the dumb fest that the TV spots make it out to be. Pesci gives Vinny's ultimate vindication a note of bittersweet triumph.",
-        "My Cousin Vinny is a movie that meanders along going nowhere in particular, and then lightning strikes. I didn't get much involved in it, and yet individual moments and some of the performances were very funny. It's the kind of movie home video was invented for: Not worth the trip to the theater, but slam it into the VCR and you get your rental's worth.",
-        "It's hardly brilliant. But it's easygoing and occasionally quite funny and ultimately satisfying.",
-        "At two hours, something as thin and unexceptional as this, is just too long. The result is that all the running gags run out of steam and there are far too many fudgy bits between the comic highlights. Nevertheless, lightly likable.",
-        "My Cousin Vinny is the definition of obvious, and it\u2019s way too long (do films like this really need an hour\u2019s worth of setup?). But Pesci and Tomei make a first-rate team \u2014 they\u2019re Punch and Judy gone Brooklyn.",
-        "Joe Pesci has more energy than charm in the title role, but the supporting cast has some terrific moments, and the comedy supplies a fair number of laughs before running completely out of steam.",
-        "There's a lot of wasted effort here trying to distract us from what we know good and well is going to happen. Nevertheless, it's time pleasantly spent.",
-        "Nothing makes a moviegoer feel more isolated than sitting stony-faced through a comedy that makes the rest of the audience laugh and cheer. Am I blind? Or are they seeing things?"
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "At face value this is a mass-appeal 1990s popcorn comedy-drama flick. And it is that to be sure. The comedy is more character driven than gag based, and for me the middle section was a bit flat in terms of laughs.However there are so manyAt face value this is a mass-appeal 1990s popcorn comedy-drama flick. And it is that to be sure. The comedy is more character driven than gag based, and for me the middle section was a bit flat in terms of laughs.However there are so many well done parts that add up to the whole. There is a great funny and moving court scene drama. The peril that the accused New Yorkers are in feels real and urgent throughout. Some of the comedy weaves directly into the plot (the alternate lwayer) so there is an eventual comedic payoff, but it also very cleverly becomes a plot point.For a \"dumb\" comedy it is all very artfully done.A lot of little things warm my heart to this movie. Much of the comedy derives from a clash of cultures shtick that plays on broad stereotypes but knows when to draw back and subvert expectations. There are also some really subtle jokes like Mona's (Marisa Tomei) constant wardrobe changes - she has a new dazzling outfit every day it seems.Overall there is a little bit of x-factor magic in the execution that raises it above so many other movies with this sort of fish-out-of-water premise.Recommended as a light but engaging fun movie.",
-            "review_date": "2023-02-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Pretty entertaining for most of the time but the ending is a bit of a deus ex machina and spoils it.",
-            "review_date": "2019-05-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "There are some funny scenes in the movie and the story is also interesting. On the other side many scenes were unrealistic, just to be entertaining. Classic entertaining movie for the masses.",
-            "review_date": "2021-01-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It's been 30 years since the release of this film at the time I'm writing this review in September of 2022, and I'm just seeing it for the first time. I guess I missed this one?? I know it was a hit back in '92 but I'm afraid it comes acrossIt's been 30 years since the release of this film at the time I'm writing this review in September of 2022, and I'm just seeing it for the first time. I guess I missed this one?? I know it was a hit back in '92 but I'm afraid it comes across as a product of it's time. Not Pesci's best performance by far, in my opinion, and overall it fell flat with  occasional moments that gave me a little chuckle. I dunno, I just wasn't feelin' this one.",
-            "review_date": "2022-09-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "your gullibility towards this sweet tale won't end up..My Cousin Vinny\n\nLynn's mockery over the judicial system and the lower mentality of the society works like a charm that sweeps away its runtime in front of your eyes and youryour gullibility towards this sweet tale won't end up..My Cousin VinnyLynn's mockery over the judicial system and the lower mentality of the society works like a charm that sweeps away its runtime in front of your eyes and your gullibility towards this sweet tale won't end up. It is not flat out hilarious. Maybe, because it doesn't try too hard. It is happy in its convenience. And it's that flow that makers doesn't wish to stop and neither do we. Satisfied within its range, this soothing feature endorses your textbook comic sequence with a bit of drama imputed in it that helps it make it more grounded and practical. And giving the script a hand, is the performance that makes it more pragmatic and believable. This hilarious casting is apt for this sort of storyline.Pesci on the driver's seat has been allotted basically his home ground. This is his forte. Whether then be it to argue without any knowledge or do physical comedy, his range never fails to surprise you. His comic timing is off the roof. But this isn't a one man army war. The story demands a better guide to this protagonist and Tomei is just the actor to portray this character. Her accent, her whining over little things and a vital \"witness\" to this case, she is a competition to Pesci. Their bittersweet relationship is the trump card of the feature.The narration though, is mediocre throughout the course. It's that flat line that is off putting. Even the courtroom drama offers you the expected chills and nothing extraordinary. Lynn manages to keep a big smile on your face thoroughly with Launer's simple and sensible script and his decent execution. There are no surprising elements, nothing to be mesmerized about. My Cousin Vinny is just like your cousin, you wouldn't leave your ears off when it has to say something, but you wouldn't miss it too, after the curtain drops.",
-            "review_date": "2018-11-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "\u201cRidiculous! All this over a can of tuna!\u201dThis movie is HILARIOUS! I haven't laughed this hard in a while.\nIn the surface, My Cousin Vinny seems to be a small easy-going comedy movie with a fish-out-of-water/mistaken identity story, and\u201cRidiculous! All this over a can of tuna!\u201dThis movie is HILARIOUS! I haven't laughed this hard in a while.In the surface, My Cousin Vinny seems to be a small easy-going comedy movie with a fish-out-of-water/mistaken identity story, and that's exactly how should you see it to enjoy it, but that doesn't mean it's just that kind of a movie. This movie doesn't just have some smart jokes, and funny characters, but it's a clever, and kinda profound movie at its core. The way the sub-plots are connected to the character arc of Vinny, and how they reflect his development, and express his feelings, reminded me of the Coen Bros. quite a bit, but, of course, in a much lighter way. The funny misfortunes of Vinny are purely Coen-esque! And of course that means that the movie has a moral, and it's really an impressive, and sorta useful, one. It's a message about changing for better; a message about the indifference and how it's unprofitable, and even harmful.As I mentioned that it's better to watch the movie as a comedy and nothing else, I did that and I think My Cousin Vinny almost excels on so many levels as a comedy. From the clever jokes, to the comical slap-stick direction style, to the both oddball and reasonable characters, I found myself enjoying every moment in the movie, and laugh constantly throughout its runtime.Joe Pesci and Marisa Tomei's chemistry is just unparalleled! Needless to say that they delivered some of their best performances in their rich career bringing their already well-composed and well-designed characters to life. Especially Mona Lisa Vito, played by Marisa Tomei that I found she really has some depth that can rarely be found in comedy movies. She's a round character; stubborn, kinda sassy, yet smart and sensitive... and she's cute, too!Mitchell Whitfield and Ralph Macchio, who played the two young New Yorkers, are also very good; they have a good chemistry as well, and their reactions to the misunderstanding at the beginning are hysterically funny.The third act that take place in the courtroom is more serious, but that definitely doesn't mean it doesn't contain jokes or lack of humor. In addition to that, it has prepared for it very well. What surprised me is that I found the third act could be the most intriguing part of the movie. Due to the smartness of the script, the dialogue is pretty sharp, the denouement is surprisingly convincing, and the jokes this time is more clever because they rely on the writing and the acting, not the direction. I mean in a large part, obviously.The dramatic moments at the let-downs, however, seem very forced, and didn't work for me at all. They really could have been balanced with the comical tone of the movie way better than that. The plot could seem a bit familiar, but the content, and many details feel so fresh you almost can't notice this familiarity except when the credits roll.I want to praise Jonathan Lynn's classic visual style of comedy, but it's better to be seen to be appreciated. Please do yourself a favor, and watch this hidden, underappreciated gem.(9/10)",
-            "review_date": "2018-08-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "My Cousin Vinny isn't any Masterpiece but it is a great comedy, a fun court comedy drama that perform funnily by the great Joe Pesci and delightfully by Marisa Tomei, the rest of the cast was also good, this is what makes Pesci special isMy Cousin Vinny isn't any Masterpiece but it is a great comedy, a fun court comedy drama that perform funnily by the great Joe Pesci and delightfully by Marisa Tomei, the rest of the cast was also good, this is what makes Pesci special is that in the case of Raging Bull and Goodfellas he can be the scariest and most intense person in the room but in the case of My Cousin Vinny and another example of great comedy starring Pesci which is Home Alone he can also be the goofiest person in the room too, i have so much fun with My Cousin Vinny, i laugh a lot and i really enjoyed it.",
-            "review_date": "2022-12-18",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 25
+  "title": "My Cousin Vinny",
+  "rating": 7.7,
+  "release_date": "1992-03-13",
+  "summary": "Two young New Yorkers are accused of murder in rural Alabama while on their way back to college, and one of their cousins--an inexperienced, loudmouth lawyer (Joe Pesci) not accustomed to Southern rules and manners--comes in to defend them.",
+  "critic_reviews": [
+    "My Cousin Vinny is easily the most inventive and enjoyable American film farce in a long time, even during those extended patches when it seems to be marking time or when it continues with a running gag that can't stay the distance. The film has a secure and sophisticated sense of what makes farce so delicious.",
+    "My Cousin Vinny is a terrific variation on the fish-out-of-water/man-from-Mars story formula. Starring Joe Pesci as a slicker in the land of grits, My Cousin Vinny should tickle funny bones in every region and ring out a green spring for 20th Century Fox at the box office.",
+    "While it's easy to imagine an infinite number of bad courtroom comedies based on this scenario, this 1992 movie turns out to be wonderful—broad and low character comedy that's solidly imagined and beautifully played.",
+    "My Cousin Vinny is a hoot.",
+    "Clocking in at just under two hours, MY COUSIN VINNY moves at an extremely leisurely pace for a Hollywood farce. But that's just one indication of what makes this appealingly quirky comedy stand apart from more run-of-the-mill fare.",
+    "A good-hearted comedy of clashing cultures. The film finds great fun in coaxing out and mocking a range of regional differences, from mutually impenetrable accents to radical variants in dress codes, but miraculously never descends to broad, dismissive caricatures.",
+    "Pesci's variation on New Jersey machismo (vulnerable in this case) isn't enough to fill a comedy; but Dale Launer's script luckily provides some fine routines for the supporting cast, notably the scene-stealing Marisa Tomei as Mona Lisa Vito, Pesci's sharp-tongued girlfriend. It's a small, surprisingly gentle affair, prone to fits and starts, but fun.",
+    "Tomei, sashaying through the proceedings as kind of a sexy hood ornament, creates a buoyant chemistry with her combative boyfriend.",
+    "The movie, however, is Pesci's. In that courtroom, he gets on a roll and stays rolling until the end. There's no one better with that New York-New Jersey corridor accent.",
+    "Given the temptations to goof it up, Pesci's performance in My Cousin Vinny is something of a triumph. As Vincent Gambini, a swaggering pint-sized New York lawyer who only recently passed the bar on his sixth try, Pesci modulates his usual psycho-nuttiness and gives it some recognizably human, even melancholy, undertones. The movie is a very mixed bag, but it's not quite the dumb fest that the TV spots make it out to be. Pesci gives Vinny's ultimate vindication a note of bittersweet triumph.",
+    "My Cousin Vinny is a movie that meanders along going nowhere in particular, and then lightning strikes. I didn't get much involved in it, and yet individual moments and some of the performances were very funny. It's the kind of movie home video was invented for: Not worth the trip to the theater, but slam it into the VCR and you get your rental's worth.",
+    "It's hardly brilliant. But it's easygoing and occasionally quite funny and ultimately satisfying.",
+    "At two hours, something as thin and unexceptional as this, is just too long. The result is that all the running gags run out of steam and there are far too many fudgy bits between the comic highlights. Nevertheless, lightly likable.",
+    "My Cousin Vinny is the definition of obvious, and it’s way too long (do films like this really need an hour’s worth of setup?). But Pesci and Tomei make a first-rate team — they’re Punch and Judy gone Brooklyn.",
+    "Joe Pesci has more energy than charm in the title role, but the supporting cast has some terrific moments, and the comedy supplies a fair number of laughs before running completely out of steam.",
+    "There's a lot of wasted effort here trying to distract us from what we know good and well is going to happen. Nevertheless, it's time pleasantly spent.",
+    "Nothing makes a moviegoer feel more isolated than sitting stony-faced through a comedy that makes the rest of the audience laugh and cheer. Am I blind? Or are they seeing things?"
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "At face value this is a mass-appeal 1990s popcorn comedy-drama flick. And it is that to be sure. The comedy is more character driven than gag based, and for me the middle section was a bit flat in terms of laughs.However there are so manyAt face value this is a mass-appeal 1990s popcorn comedy-drama flick. And it is that to be sure. The comedy is more character driven than gag based, and for me the middle section was a bit flat in terms of laughs.However there are so many well done parts that add up to the whole. There is a great funny and moving court scene drama. The peril that the accused New Yorkers are in feels real and urgent throughout. Some of the comedy weaves directly into the plot (the alternate lwayer) so there is an eventual comedic payoff, but it also very cleverly becomes a plot point.For a \"dumb\" comedy it is all very artfully done.A lot of little things warm my heart to this movie. Much of the comedy derives from a clash of cultures shtick that plays on broad stereotypes but knows when to draw back and subvert expectations. There are also some really subtle jokes like Mona's (Marisa Tomei) constant wardrobe changes - she has a new dazzling outfit every day it seems.Overall there is a little bit of x-factor magic in the execution that raises it above so many other movies with this sort of fish-out-of-water premise.Recommended as a light but engaging fun movie.",
+      "review_date": "2023-02-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Pretty entertaining for most of the time but the ending is a bit of a deus ex machina and spoils it.",
+      "review_date": "2019-05-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "There are some funny scenes in the movie and the story is also interesting. On the other side many scenes were unrealistic, just to be entertaining. Classic entertaining movie for the masses.",
+      "review_date": "2021-01-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It's been 30 years since the release of this film at the time I'm writing this review in September of 2022, and I'm just seeing it for the first time. I guess I missed this one?? I know it was a hit back in '92 but I'm afraid it comes acrossIt's been 30 years since the release of this film at the time I'm writing this review in September of 2022, and I'm just seeing it for the first time. I guess I missed this one?? I know it was a hit back in '92 but I'm afraid it comes across as a product of it's time. Not Pesci's best performance by far, in my opinion, and overall it fell flat with  occasional moments that gave me a little chuckle. I dunno, I just wasn't feelin' this one.",
+      "review_date": "2022-09-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "your gullibility towards this sweet tale won't end up..My Cousin Vinny\n\nLynn's mockery over the judicial system and the lower mentality of the society works like a charm that sweeps away its runtime in front of your eyes and youryour gullibility towards this sweet tale won't end up..My Cousin VinnyLynn's mockery over the judicial system and the lower mentality of the society works like a charm that sweeps away its runtime in front of your eyes and your gullibility towards this sweet tale won't end up. It is not flat out hilarious. Maybe, because it doesn't try too hard. It is happy in its convenience. And it's that flow that makers doesn't wish to stop and neither do we. Satisfied within its range, this soothing feature endorses your textbook comic sequence with a bit of drama imputed in it that helps it make it more grounded and practical. And giving the script a hand, is the performance that makes it more pragmatic and believable. This hilarious casting is apt for this sort of storyline.Pesci on the driver's seat has been allotted basically his home ground. This is his forte. Whether then be it to argue without any knowledge or do physical comedy, his range never fails to surprise you. His comic timing is off the roof. But this isn't a one man army war. The story demands a better guide to this protagonist and Tomei is just the actor to portray this character. Her accent, her whining over little things and a vital \"witness\" to this case, she is a competition to Pesci. Their bittersweet relationship is the trump card of the feature.The narration though, is mediocre throughout the course. It's that flat line that is off putting. Even the courtroom drama offers you the expected chills and nothing extraordinary. Lynn manages to keep a big smile on your face thoroughly with Launer's simple and sensible script and his decent execution. There are no surprising elements, nothing to be mesmerized about. My Cousin Vinny is just like your cousin, you wouldn't leave your ears off when it has to say something, but you wouldn't miss it too, after the curtain drops.",
+      "review_date": "2018-11-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "“Ridiculous! All this over a can of tuna!”This movie is HILARIOUS! I haven't laughed this hard in a while.\nIn the surface, My Cousin Vinny seems to be a small easy-going comedy movie with a fish-out-of-water/mistaken identity story, and“Ridiculous! All this over a can of tuna!”This movie is HILARIOUS! I haven't laughed this hard in a while.In the surface, My Cousin Vinny seems to be a small easy-going comedy movie with a fish-out-of-water/mistaken identity story, and that's exactly how should you see it to enjoy it, but that doesn't mean it's just that kind of a movie. This movie doesn't just have some smart jokes, and funny characters, but it's a clever, and kinda profound movie at its core. The way the sub-plots are connected to the character arc of Vinny, and how they reflect his development, and express his feelings, reminded me of the Coen Bros. quite a bit, but, of course, in a much lighter way. The funny misfortunes of Vinny are purely Coen-esque! And of course that means that the movie has a moral, and it's really an impressive, and sorta useful, one. It's a message about changing for better; a message about the indifference and how it's unprofitable, and even harmful.As I mentioned that it's better to watch the movie as a comedy and nothing else, I did that and I think My Cousin Vinny almost excels on so many levels as a comedy. From the clever jokes, to the comical slap-stick direction style, to the both oddball and reasonable characters, I found myself enjoying every moment in the movie, and laugh constantly throughout its runtime.Joe Pesci and Marisa Tomei's chemistry is just unparalleled! Needless to say that they delivered some of their best performances in their rich career bringing their already well-composed and well-designed characters to life. Especially Mona Lisa Vito, played by Marisa Tomei that I found she really has some depth that can rarely be found in comedy movies. She's a round character; stubborn, kinda sassy, yet smart and sensitive... and she's cute, too!Mitchell Whitfield and Ralph Macchio, who played the two young New Yorkers, are also very good; they have a good chemistry as well, and their reactions to the misunderstanding at the beginning are hysterically funny.The third act that take place in the courtroom is more serious, but that definitely doesn't mean it doesn't contain jokes or lack of humor. In addition to that, it has prepared for it very well. What surprised me is that I found the third act could be the most intriguing part of the movie. Due to the smartness of the script, the dialogue is pretty sharp, the denouement is surprisingly convincing, and the jokes this time is more clever because they rely on the writing and the acting, not the direction. I mean in a large part, obviously.The dramatic moments at the let-downs, however, seem very forced, and didn't work for me at all. They really could have been balanced with the comical tone of the movie way better than that. The plot could seem a bit familiar, but the content, and many details feel so fresh you almost can't notice this familiarity except when the credits roll.I want to praise Jonathan Lynn's classic visual style of comedy, but it's better to be seen to be appreciated. Please do yourself a favor, and watch this hidden, underappreciated gem.(9/10)",
+      "review_date": "2018-08-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "My Cousin Vinny isn't any Masterpiece but it is a great comedy, a fun court comedy drama that perform funnily by the great Joe Pesci and delightfully by Marisa Tomei, the rest of the cast was also good, this is what makes Pesci special isMy Cousin Vinny isn't any Masterpiece but it is a great comedy, a fun court comedy drama that perform funnily by the great Joe Pesci and delightfully by Marisa Tomei, the rest of the cast was also good, this is what makes Pesci special is that in the case of Raging Bull and Goodfellas he can be the scariest and most intense person in the room but in the case of My Cousin Vinny and another example of great comedy starring Pesci which is Home Alone he can also be the goofiest person in the room too, i have so much fun with My Cousin Vinny, i laugh a lot and i really enjoyed it.",
+      "review_date": "2022-12-18",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 25,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ]
 }

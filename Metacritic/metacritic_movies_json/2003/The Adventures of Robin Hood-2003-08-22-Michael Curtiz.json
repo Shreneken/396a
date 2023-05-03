@@ -1,14 +1,14 @@
 {
-    "title": "The Adventures of Robin Hood",
-    "rating": 7.9,
-    "release_date": "2003-08-22",
-    "genre": [
-        "Action",
-        "Adventure",
-        "Romance"
-    ],
-    "summary": "The great Hollywood swashbuckler and the very definition of classic Technicolor design. Warners has used digital technology to perfectly register Robin Hood's original Technicolor negatives, restoring its vibrant color: the reddest reds, the bluest blues, and of course, the greenest greens.  (Film Forum)",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "The Adventures of Robin Hood",
+  "rating": 7.9,
+  "release_date": "2003-08-22",
+  "summary": "The great Hollywood swashbuckler and the very definition of classic Technicolor design. Warners has used digital technology to perfectly register Robin Hood's original Technicolor negatives, restoring its vibrant color: the reddest reds, the bluest blues, and of course, the greenest greens.  (Film Forum)",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Romance"
+  ]
 }

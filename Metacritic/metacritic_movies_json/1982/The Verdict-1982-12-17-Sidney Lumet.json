@@ -1,24 +1,24 @@
 {
-    "title": "The Verdict",
-    "rating": 8.2,
-    "release_date": "1982-12-17",
-    "genre": [
-        "Drama"
-    ],
-    "summary": "An attorney (Paul Newman) recognizes the opportunity to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.",
-    "critic_reviews": [
-        "The screenplay by David Mamet is a wonder of good dialogue, strongly seen characters and a structure that pays off in the big courtroom scene - as the genre requires.",
-        "Admittedly this is a legal \"Rocky, convincing rather than realistic, witty rather than analytical, but it amounts to a far more effective indictment of the US legal system than ...and justice for all, and is the first courtroom drama in years to recapture the brilliance of the form.",
-        "A solidly old-fashioned courtroom drama such as The Verdict could have gotten by with a serious, measured performance from its leading man, or it could have worked well with a dazzling movie-star turn. The fact that Paul Newman delivers both makes a clever, suspenseful, entertaining movie even better.",
-        "This is realistic American film acting at its veristic/imaginative best.",
-        "Sidney Lumet directs effectively, keeping the tension strong, and unfolding David Mamet's intelligent screenplay slowly but with maximum impact.",
-        "Though screenwriter David Mamet writes some chewy lines, director Sidney Lumet balances out any pulpiness with a somber mood, making sparing use of the musical score and creating a Boston awash in brown, beige, and gray.",
-        "If you were presenting a case for Newman\u2019s legacy of acting brilliance, this film would be exhibit A.",
-        "It's Newman's performance itself that really makes this film work and helps it truly get close to Lumet's own '12 Angry Men'.",
-        "What was boring and dull to our 12-year-old selves back when Dad was watching this film 25 years ago is now a thoroughly engrossing and satisfying film experience, and a reminder that what is old can be new again -- whether it's Newman's Galvin's outlook on life, an old courtroom drama premise, or a movie revisited after a quarter century lapse.",
-        "Sidney Lumet's direction, like David Mamet's patchy script (which adapts a Barry Reed novel), may not be quite good enough to justify the Rembrandt-like cinematography of Edward Pisoni and the brooding mood of self-importance, but it's good direction nonetheless; and there are plenty of supporting performances\u2014by James Mason, Jack Warden, Milo O'Shea, Charlotte Rampling, and Lindsay Crouse, among others\u2014to keep one distracted from Newman's dogged Oscar-pandering.",
-        "There are many fine performances and sensitive moral issues contained in The Verdict but somehow that isn't enough to make it the compelling film it should be. David Mamet's script [from a novel by Barry Reed] offers little out of the ordinary."
-    ],
-    "reviews": [],
-    "num_reviews": 11
+  "title": "The Verdict",
+  "rating": 8.2,
+  "release_date": "1982-12-17",
+  "summary": "An attorney (Paul Newman) recognizes the opportunity to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.",
+  "critic_reviews": [
+    "The screenplay by David Mamet is a wonder of good dialogue, strongly seen characters and a structure that pays off in the big courtroom scene - as the genre requires.",
+    "Admittedly this is a legal \"Rocky, convincing rather than realistic, witty rather than analytical, but it amounts to a far more effective indictment of the US legal system than ...and justice for all, and is the first courtroom drama in years to recapture the brilliance of the form.",
+    "A solidly old-fashioned courtroom drama such as The Verdict could have gotten by with a serious, measured performance from its leading man, or it could have worked well with a dazzling movie-star turn. The fact that Paul Newman delivers both makes a clever, suspenseful, entertaining movie even better.",
+    "This is realistic American film acting at its veristic/imaginative best.",
+    "Sidney Lumet directs effectively, keeping the tension strong, and unfolding David Mamet's intelligent screenplay slowly but with maximum impact.",
+    "Though screenwriter David Mamet writes some chewy lines, director Sidney Lumet balances out any pulpiness with a somber mood, making sparing use of the musical score and creating a Boston awash in brown, beige, and gray.",
+    "If you were presenting a case for Newman’s legacy of acting brilliance, this film would be exhibit A.",
+    "It's Newman's performance itself that really makes this film work and helps it truly get close to Lumet's own '12 Angry Men'.",
+    "What was boring and dull to our 12-year-old selves back when Dad was watching this film 25 years ago is now a thoroughly engrossing and satisfying film experience, and a reminder that what is old can be new again -- whether it's Newman's Galvin's outlook on life, an old courtroom drama premise, or a movie revisited after a quarter century lapse.",
+    "Sidney Lumet's direction, like David Mamet's patchy script (which adapts a Barry Reed novel), may not be quite good enough to justify the Rembrandt-like cinematography of Edward Pisoni and the brooding mood of self-importance, but it's good direction nonetheless; and there are plenty of supporting performances—by James Mason, Jack Warden, Milo O'Shea, Charlotte Rampling, and Lindsay Crouse, among others—to keep one distracted from Newman's dogged Oscar-pandering.",
+    "There are many fine performances and sensitive moral issues contained in The Verdict but somehow that isn't enough to make it the compelling film it should be. David Mamet's script [from a novel by Barry Reed] offers little out of the ordinary."
+  ],
+  "reviews": [],
+  "num_reviews": 11,
+  "genres": [
+    "Drama"
+  ]
 }

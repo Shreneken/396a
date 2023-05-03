@@ -1,30 +1,30 @@
 {
-    "title": "The Rules of the Game",
-    "rating": "tbd",
-    "release_date": "1950-04-08",
-    "genre": [
-        "Drama",
-        "Comedy"
-    ],
-    "summary": "A bourgeois life in France at the onset of World War II, as the rich and their poor servants meet up at a French chateau.",
-    "critic_reviews": [
-        "This magical and elusive work, which always seems to place second behind \"Citizen Kane\" in polls of great films, is so simple and so labyrinthine, so guileless and so angry, so innocent and so dangerous, that you can't simply watch it, you have to absorb it.",
-        "No other film has a final effect quite like \"Rules.\" One walks away from it drained and exhilarated, after experiencing a whole world and seemingly every possible emotion in a few swift golden hours.",
-        "Like the very greatest artists in all media -- here I go with the meaningless superlatives again -- Renoir was able to transcend his own perspective, his own prejudices, and glimpse something of the terror and wonder of human life, the pain of misapplied or rejected love, for rich as for poor.",
-        "Rules would have been just another good movie if not for its masterly visual design. With it, however, the black-and-white film enters the realm of immortality.",
-        "Still ahead of its time.",
-        "Low comedy walks hand and hand with tragedy and beauty throughout; the film is frothy one minute, nearly apocalyptic the next, and so you\u2019re never fully allowed to gather your bearings.",
-        "One of cinema's most monumental achievements, Renoir's RULES OF THE GAME passionately tackles the pre-WWII French class system, and succeeds in bringing forth the complexities and frailties underlying bourgeois civility.",
-        "The Rules of the Game is among the most perfectly balanced of films: a movie about discretion that is in every way a model of it.",
-        "It\u2019s one of the rare movies that seems truly musical in its inspiration\u2014and which, like much great music, envelops an astonishing complexity of invention and depth of insight in emblematically straightforward expressions.",
-        "Its Paris opening in 1939 was a disaster: the film was withdrawn, recut, and eventually banned by the occupying forces for its \u201cdemoralizing\u201d effects. It was not shown again in its complete form until 1965, when it became clear that here, perhaps, was the greatest film ever made.",
-        "The director left France during the German Occupation and, many critics would argue, his work never reached the same heights again. But, even with its immediate contemporary relevance softened, this film alone is enough to seal his reputation, as its playful love games, satirical bite and technical marvels refuse to diminish.",
-        "It is not a simple film to summarise or describe as a comedy, satire or drama. Renoir was too generous to deal with such absolutes, and that's one of the reasons the film endures: nobody is good or bad, they just make good or bad decisions \u2013 hence the title.",
-        "Far from muting the satire, Renoir's hearty characterization complicates it and gives it life, which is rare among broadsides at the bourgeoisie.",
-        "On the surface, a lace of flirtations, insinuations and rejections compose the basic plotting. But Renoir uses flashes of accelerating drama to amplify his bigger points.",
-        "Embracing every level of French society, from the aristocratic hosts to a poacher turned servant, the film presents a hilarious yet melancholic picture of a nation riven by petty class distinctions.",
-        "As an experiment it\u2019s interesting, but Jean Renoir, who directs, wrote the scenario and dialog, and takes a leading role, has made a common error: he attempts to crowd too many ideas into 80 minutes of film fare, resulting in confusion."
-    ],
-    "reviews": [],
-    "num_reviews": 16
+  "title": "The Rules of the Game",
+  "rating": "tbd",
+  "release_date": "1950-04-08",
+  "summary": "A bourgeois life in France at the onset of World War II, as the rich and their poor servants meet up at a French chateau.",
+  "critic_reviews": [
+    "This magical and elusive work, which always seems to place second behind \"Citizen Kane\" in polls of great films, is so simple and so labyrinthine, so guileless and so angry, so innocent and so dangerous, that you can't simply watch it, you have to absorb it.",
+    "No other film has a final effect quite like \"Rules.\" One walks away from it drained and exhilarated, after experiencing a whole world and seemingly every possible emotion in a few swift golden hours.",
+    "Like the very greatest artists in all media -- here I go with the meaningless superlatives again -- Renoir was able to transcend his own perspective, his own prejudices, and glimpse something of the terror and wonder of human life, the pain of misapplied or rejected love, for rich as for poor.",
+    "Rules would have been just another good movie if not for its masterly visual design. With it, however, the black-and-white film enters the realm of immortality.",
+    "Still ahead of its time.",
+    "Low comedy walks hand and hand with tragedy and beauty throughout; the film is frothy one minute, nearly apocalyptic the next, and so you’re never fully allowed to gather your bearings.",
+    "One of cinema's most monumental achievements, Renoir's RULES OF THE GAME passionately tackles the pre-WWII French class system, and succeeds in bringing forth the complexities and frailties underlying bourgeois civility.",
+    "The Rules of the Game is among the most perfectly balanced of films: a movie about discretion that is in every way a model of it.",
+    "It’s one of the rare movies that seems truly musical in its inspiration—and which, like much great music, envelops an astonishing complexity of invention and depth of insight in emblematically straightforward expressions.",
+    "Its Paris opening in 1939 was a disaster: the film was withdrawn, recut, and eventually banned by the occupying forces for its “demoralizing” effects. It was not shown again in its complete form until 1965, when it became clear that here, perhaps, was the greatest film ever made.",
+    "The director left France during the German Occupation and, many critics would argue, his work never reached the same heights again. But, even with its immediate contemporary relevance softened, this film alone is enough to seal his reputation, as its playful love games, satirical bite and technical marvels refuse to diminish.",
+    "It is not a simple film to summarise or describe as a comedy, satire or drama. Renoir was too generous to deal with such absolutes, and that's one of the reasons the film endures: nobody is good or bad, they just make good or bad decisions – hence the title.",
+    "Far from muting the satire, Renoir's hearty characterization complicates it and gives it life, which is rare among broadsides at the bourgeoisie.",
+    "On the surface, a lace of flirtations, insinuations and rejections compose the basic plotting. But Renoir uses flashes of accelerating drama to amplify his bigger points.",
+    "Embracing every level of French society, from the aristocratic hosts to a poacher turned servant, the film presents a hilarious yet melancholic picture of a nation riven by petty class distinctions.",
+    "As an experiment it’s interesting, but Jean Renoir, who directs, wrote the scenario and dialog, and takes a leading role, has made a common error: he attempts to crowd too many ideas into 80 minutes of film fare, resulting in confusion."
+  ],
+  "reviews": [],
+  "num_reviews": 16,
+  "genres": [
+    "Drama",
+    "Comedy"
+  ]
 }

@@ -1,15 +1,15 @@
 {
-    "title": "The French Connection",
-    "rating": 8.4,
-    "release_date": "1971-10-07",
-    "genre": [
-        "Action",
-        "Drama",
-        "Thriller",
-        "Crime"
-    ],
-    "summary": "New York narcotics officer \"Popeye\" Doyle and his partner take on an international drug ring shipping heroin into the United States.",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "The French Connection",
+  "rating": 8.4,
+  "release_date": "1971-10-07",
+  "summary": "New York narcotics officer \"Popeye\" Doyle and his partner take on an international drug ring shipping heroin into the United States.",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller",
+    "Crime"
+  ]
 }

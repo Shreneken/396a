@@ -1,14 +1,14 @@
 {
-    "title": "The Exorcist",
-    "rating": 8.5,
-    "release_date": "1973-12-26",
-    "genre": [
-        "Drama",
-        "Thriller",
-        "Horror"
-    ],
-    "summary": "When a 12-year-old girl (Linda Blair) is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "The Exorcist",
+  "rating": 8.5,
+  "release_date": "1973-12-26",
+  "summary": "When a 12-year-old girl (Linda Blair) is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Horror"
+  ]
 }

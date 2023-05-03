@@ -1,59 +1,59 @@
 {
-    "title": "The Flintstones in Viva Rock Vegas",
-    "rating": 4.3,
-    "release_date": "2000-04-28",
-    "genre": [
-        "Comedy",
-        "Family"
-    ],
-    "summary": "The Flintstones and the Rubbles go on vacation to Rock Vegas, where Wilma is pursued by a playboy. This is a live-action prequel to 1994's \"The Flintstones.\"",
-    "critic_reviews": [
-        "With no headliners to raise hopes, this negligible entertainment has its own boneheaded charms.",
-        "What results is a candy-colored broad comedy with noteworthy performances.",
-        "It feels more like a cartoon, and when you're dealing with modern Stone Age families, that can only be a plus.",
-        "Fast falls from interestingly loopy to tiresome.",
-        "The best thing about it is the cast. Baldwin's moronic Barney is an acquired taste, but Krakowski is an adorable, sassy Betty, and Johnston brings an endearing coltishness to the sensible Wilma.",
-        "This movie is a business decision, and about as diverting to watch as someone reading the Universal fiscal report.",
-        "It's zany. Actually, it's so zany it's almost creepy.",
-        "Levant turns up the slapstick, doubletakes, and epic fart jokes to a tortured extreme.",
-        "A Dum-Dum Movie",
-        "Everything from the Rube Goldberg sets to the Jim Henson creatures is aimed squarely at a preschool audience.",
-        "The filmmakers uphold an unfortunate tradition in movies based on TV shows by busily adding superfluous plot elements.",
-        "A One-Joke Show.",
-        "A depressing show of how truly, madly, deeply outmoded Hollywood can be.",
-        "An ideal first movie for infants, who can enjoy the bright colors on the screen and wave their tiny hands to the music.",
-        "Silly script, broad slapstick and overstated lead perfs by B-team cast might be acceptable to target audience.",
-        "Even the youngest members of the audience appeared to be more interested in their dwindling soda supply than anything up on the screen. Yabba dabba doom."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "not enjoyable, but not that terrible.",
-            "review_date": "2010-11-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I see where and why this film coped a lot of slack but I honestly enjoyed it just as much as I did when I was a kid. Sure the first live-action Flintstones film was better but this one is still highly entertaining and certainly stays true toI see where and why this film coped a lot of slack but I honestly enjoyed it just as much as I did when I was a kid. Sure the first live-action Flintstones film was better but this one is still highly entertaining and certainly stays true to the cartoon in a lot of ways. There are a lot of funny witty jokes that really make the film as well as just being a bright colourful film to watch. Corny, yes and quite a bit too, but not in a way that ruins the movie, but some won't like it others will.",
-            "review_date": "2013-06-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Even Worse Than The 94 MovieWith mediocre performances, Pretty bad humour, and overall boring, Viva Rock Vegas is not a \u201crockin\u201d good time.",
-            "review_date": "2020-08-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I always liked the \"Flintstones\" cartoon and I was able to appreciate some aspects of the 1994 live-action movie. However, this movie was a disgrace in every details. Running as a prequel to the first film and the cartoon itself, it shows howI always liked the \"Flintstones\" cartoon and I was able to appreciate some aspects of the 1994 live-action movie. However, this movie was a disgrace in every details. Running as a prequel to the first film and the cartoon itself, it shows how the four main characters (Flintstones and Rubbles) met and married, after a trip to the city of Rock Vegas (the equivalent, in the movie and Flintstones world, to the city of Las Vegas, of course). But the thing that really make me mad in this movie, personally, was that silly, green character, that seems to have come out of the \"Jetsons\" (another Hanna-Barbera cartoon). He was permanently out of context, his existence has been poorly explained by the plot and he only served to try to make totally empty jokes. I wanted to drown that alien several times while watching the movie.If the 1994 movie had already revealed several fragilities, beginning with an all-too-adult plot for a children-oriented film, this movie completely misses any attempt to improve these faults. The plot is miserably poor, which is probably the result of poor scriptwriting choices and the subliminal, lousy, intention of extorting some more box office money (we cannot forget the huge box-office success that the first film was). A bad choice: the public wisely didn't pay to watch this piece of trash. Dried jokes, a bad plot, poor acting, bad construction of characters, far-fetched props and sets, a tiring cinematography and a cast that did an absolutely painstaking job. For all this, this is one of the worst family movies I've ever seen.",
-            "review_date": "2018-08-24",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 20
+  "title": "The Flintstones in Viva Rock Vegas",
+  "rating": 4.3,
+  "release_date": "2000-04-28",
+  "summary": "The Flintstones and the Rubbles go on vacation to Rock Vegas, where Wilma is pursued by a playboy. This is a live-action prequel to 1994's \"The Flintstones.\"",
+  "critic_reviews": [
+    "With no headliners to raise hopes, this negligible entertainment has its own boneheaded charms.",
+    "What results is a candy-colored broad comedy with noteworthy performances.",
+    "It feels more like a cartoon, and when you're dealing with modern Stone Age families, that can only be a plus.",
+    "Fast falls from interestingly loopy to tiresome.",
+    "The best thing about it is the cast. Baldwin's moronic Barney is an acquired taste, but Krakowski is an adorable, sassy Betty, and Johnston brings an endearing coltishness to the sensible Wilma.",
+    "This movie is a business decision, and about as diverting to watch as someone reading the Universal fiscal report.",
+    "It's zany. Actually, it's so zany it's almost creepy.",
+    "Levant turns up the slapstick, doubletakes, and epic fart jokes to a tortured extreme.",
+    "A Dum-Dum Movie",
+    "Everything from the Rube Goldberg sets to the Jim Henson creatures is aimed squarely at a preschool audience.",
+    "The filmmakers uphold an unfortunate tradition in movies based on TV shows by busily adding superfluous plot elements.",
+    "A One-Joke Show.",
+    "A depressing show of how truly, madly, deeply outmoded Hollywood can be.",
+    "An ideal first movie for infants, who can enjoy the bright colors on the screen and wave their tiny hands to the music.",
+    "Silly script, broad slapstick and overstated lead perfs by B-team cast might be acceptable to target audience.",
+    "Even the youngest members of the audience appeared to be more interested in their dwindling soda supply than anything up on the screen. Yabba dabba doom."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "not enjoyable, but not that terrible.",
+      "review_date": "2010-11-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I see where and why this film coped a lot of slack but I honestly enjoyed it just as much as I did when I was a kid. Sure the first live-action Flintstones film was better but this one is still highly entertaining and certainly stays true toI see where and why this film coped a lot of slack but I honestly enjoyed it just as much as I did when I was a kid. Sure the first live-action Flintstones film was better but this one is still highly entertaining and certainly stays true to the cartoon in a lot of ways. There are a lot of funny witty jokes that really make the film as well as just being a bright colourful film to watch. Corny, yes and quite a bit too, but not in a way that ruins the movie, but some won't like it others will.",
+      "review_date": "2013-06-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Even Worse Than The 94 MovieWith mediocre performances, Pretty bad humour, and overall boring, Viva Rock Vegas is not a “rockin” good time.",
+      "review_date": "2020-08-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I always liked the \"Flintstones\" cartoon and I was able to appreciate some aspects of the 1994 live-action movie. However, this movie was a disgrace in every details. Running as a prequel to the first film and the cartoon itself, it shows howI always liked the \"Flintstones\" cartoon and I was able to appreciate some aspects of the 1994 live-action movie. However, this movie was a disgrace in every details. Running as a prequel to the first film and the cartoon itself, it shows how the four main characters (Flintstones and Rubbles) met and married, after a trip to the city of Rock Vegas (the equivalent, in the movie and Flintstones world, to the city of Las Vegas, of course). But the thing that really make me mad in this movie, personally, was that silly, green character, that seems to have come out of the \"Jetsons\" (another Hanna-Barbera cartoon). He was permanently out of context, his existence has been poorly explained by the plot and he only served to try to make totally empty jokes. I wanted to drown that alien several times while watching the movie.If the 1994 movie had already revealed several fragilities, beginning with an all-too-adult plot for a children-oriented film, this movie completely misses any attempt to improve these faults. The plot is miserably poor, which is probably the result of poor scriptwriting choices and the subliminal, lousy, intention of extorting some more box office money (we cannot forget the huge box-office success that the first film was). A bad choice: the public wisely didn't pay to watch this piece of trash. Dried jokes, a bad plot, poor acting, bad construction of characters, far-fetched props and sets, a tiring cinematography and a cast that did an absolutely painstaking job. For all this, this is one of the worst family movies I've ever seen.",
+      "review_date": "2018-08-24",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 20,
+  "genres": [
+    "Comedy",
+    "Family"
+  ]
 }

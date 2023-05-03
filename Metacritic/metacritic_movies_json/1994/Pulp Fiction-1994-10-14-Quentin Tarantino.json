@@ -1,716 +1,716 @@
 {
-    "title": "Pulp Fiction",
-    "rating": 9.0,
-    "release_date": "1994-10-14",
-    "genre": [
-        "Drama",
-        "Thriller",
-        "Crime"
-    ],
-    "summary": "Several inter-locking stories of crime and intrigue form a temporal mosaic set in the Los Angeles underworld.",
-    "critic_reviews": [
-        "It is an exhilaration from beginning to end. It's the movie equivalent of that rare sort of novel where you find yourself checking to see how many pages are left and hoping there are more, not fewer.",
-        "Like \"Citizen Kane,\" Pulp Fiction is constructed in such a nonlinear way that you could see it a dozen times and not be able to remember what comes next.",
-        "With this film, every layer that you peel away leads to something deeper and richer. Tarantino makes pictures for movie-lovers, and Pulp Fiction is a near-masterpiece.",
-        "The new King Kong of crime movies...Ferocious fun without a trace of caution, complacency or political correctness to inhibit its 154 deliciously lurid minutes.",
-        "Pulp Fiction is at least three movies rolled into one, and they're all scintillating.",
-        "The first masterwork of the post-modern pop culture generation...gets better with every viewing, and like good rock n' roll, needs to be played loud!",
-        "Brilliant and brutal, funny and exhilarating, jaw-droppingly cruel and disarmingly sweet...To watch this movie (whose 2 1/2 hours speed by unnoticed) is to experience a near-assault of creativity.",
-        "Tarantino's mock-tough narrative--which derives most of its titillation from farcical mayhem, drugs, deadpan macho monologues, evocations of anal penetration, and terms of racial abuse--resembles a wet dream for 14-year-old male closet queens (or, perhaps more accurately, the 14-year-old male closet queen in each of us), and his command of this smart-alecky mode is so sure that this nervy movie sparkles throughout with canny twists and turns.",
-        "Very satisfying. Classic storytelling, modern techniques. And the images: This movie has embedded so many strange and new mental pictures in my head that I'm not able to shake free. Yet, neither would I want to be free.",
-        "[Tarantino's] ability to take what seem like minor conversational themes and dovetail them onto later exchanges for maximum comic effect is close to genius. And the action can be literally heart-stopping.",
-        "A scintillating piece of filmmaking, the kind of movie you look forward to seeing again even as you're watching it, and an extraordinary response to both the Dogs-Is-Overrated brigade and the He'll-Never-Top-His-Debut sceptics.",
-        "In 1994, all the talk was of former video store clerk Tarantino's indifference to traditional culture. That patronised his sophisticated cinephilia, and in fact, twenty years on, the writerly influences of Edward Bunker, Elmore Leonard, and Jim Thompson seem very prominent. Don DeLillo began the '90s by warning that the U.S. is the only country in the world with funny violence. Maybe Pulp Fiction was the kind of thing he had in mind. Unmissable.",
-        "Without its commitment to an idea of salvation, Pulp Fiction would be little more than a terrific parlor trick; with it, it's something far richer and more haunting.",
-        "The experience overall is like laughing down a gun barrel, a little bit tiring, a lot sick and maybe far too perverse for less jaded moviegoers."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "One of the zaniest, funniest, smartest and most entertaining movies I have ever seen. One of my all time favorites as well. John Travolta and Samuel L. Jackson give terrific performances.",
-            "review_date": "2011-05-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Quentin Tarantino's \"Pulp Fiction\" is not your average gangster movie where people shoot each other and do drugs. This film is about the highest level of perfection you can achieve in the category of gangster films. Led by smart,Quentin Tarantino's \"Pulp Fiction\" is not your average gangster movie where people shoot each other and do drugs. This film is about the highest level of perfection you can achieve in the category of gangster films. Led by smart, controversial directions, \"Pulp Fiction\" spills in racism, mistakes, faults, God, and redemption into the game of crime. It's simply astonishing to do such thing, which makes the film a long living masterpiece in film history.",
-            "review_date": "2011-09-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I'm surprised about how this overrated piece was critically acclaimed by countless viewers. They compare it to Scarface, Kill Bill etc and it isn't even at the caliber of any of the above.The movie is perfect in every way, except the plot.I'm surprised about how this overrated piece was critically acclaimed by countless viewers. They compare it to Scarface, Kill Bill etc and it isn't even at the caliber of any of the above.The movie is perfect in every way, except the plot. Despite the movie's issue only covering one field, PF just lost four points out of 10 because of filler that lasted for an hour. That filler constitutes of a scenario and a hangout. The scenario being Butch's part and the hangout, where the chick has zero involvement with the plot (if it has any). My father once asked me what Pulp Fiction is about and even I can't answer. Simply told it was an action/thriller starring Travolta and Willis.In short, the plot is not present, despite the unique \"chronologic\" system, which is a really good move. If this movie has a proper plot, I would've given it a 10.",
-            "review_date": "2019-08-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "No meaning, no scenario, not funny at all. This movie is just an overrated waste of time.",
-            "review_date": "2020-08-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Best movie of all time.",
-            "review_date": "2007-08-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Incredible acting (especially Travolta and Jackson), incredible stories and incredible piece of art for Pop culture! Though the end is a bit frustrating, the plot is great, really I mean it.",
-            "review_date": "2009-03-09",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is one of the greatest movies ever made, absolutely brilliant.",
-            "review_date": "2005-09-10",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of the best movie i've ever seen.",
-            "review_date": "2005-09-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Great movie. One of the best movies of all time. The thing that makes this movie so great is that it doesnt take itself too seriously. Yes the jokes help this movie out a lot, but who cares the jokes are classic \"Royal with cheese\", \"Big Great movie. One of the best movies of all time. The thing that makes this movie so great is that it doesnt take itself too seriously. Yes the jokes help this movie out a lot, but who cares the jokes are classic \"Royal with cheese\", \"Big Kahuna Burger\" \"La Big Mac\" that opening scene of the movie is classic and probably one of the best parts of movies of all time. So many classic lines from this movie and its also well acted and directed. Its a crazy movie, that doesnt make sense, but it doesnt try too, and for those of you who say its too long, go watch a Disney movie or one the horror movies out there today, maybe their more your type of movie, you dont have to think as long.",
-            "review_date": "2007-04-01",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Funny and entertaining from beginning to end. Amazing script and great acting.",
-            "review_date": "2008-10-17",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The finest thing to come out of America period. the only let down is that i will never be able to watch it again for the first time and have that feeling i had when the credits rolled and i was sat there mouth agape unable to take in the The finest thing to come out of America period. the only let down is that i will never be able to watch it again for the first time and have that feeling i had when the credits rolled and i was sat there mouth agape unable to take in the awesomeness of what i had just seen. i think its safe to say its without any doubt the best film ever made by some considerable margin.",
-            "review_date": "2008-09-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I finally saw this movie after seemingly thousands of years. I actually saw Kill Bill before this movie so I was having high hopes that Quinten would pull of another masterpeice, and my hopes were met. The movie characters were witty and I finally saw this movie after seemingly thousands of years. I actually saw Kill Bill before this movie so I was having high hopes that Quinten would pull of another masterpeice, and my hopes were met. The movie characters were witty and realistic. Some scenes(the gun accidently going off) were the most hilarious things I have ever seen. Sharp dialogue, clever editing. There just isn't alot this movie has going against it, besides the fact that there is no real strong storyline going for it. But that is where the beauty of the film lies, it just feels like we are actually following these guys around on one of their, most likely, not so better days. Does life itselfs have a grand storyline that we all need to follow out? No, and neither does this movie, making it all the more better. The dialogue is also perfect. The hamburger conversation feels like a conversation you would find me and my friends having on a normal day. The only complaint I have about this film is that the second chapter, with the boxer, seemed a bit out of place with the other two chapters. Maybe if they threw in a bit more of Vincent or Jools into the chapter it would have fit in a bit better. With that minor Quipe aside, Pulp Fiction is a movie that is more than just a movie you need to see, you have to see this film or forever be haunted by the awesome that got away.",
-            "review_date": "2004-02-11",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "About as perfect as a film will ever get. See it.",
-            "review_date": "2005-11-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "[sarcasm] Max W, you seem smart. I like smart people. You should tell the world about Tarantino's crappy ideas and the then REDO Pulp Fiction with your amazing filmmaking skills. I'm sure we would all be pleased with the results. [sarcasm] Max W, you seem smart. I like smart people. You should tell the world about Tarantino's crappy ideas and the then REDO Pulp Fiction with your amazing filmmaking skills. I'm sure we would all be pleased with the results. [/sarcasm] But, seriously, this movie is great - if you don't get it... move to Canada (or something like that).",
-            "review_date": "2005-09-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Brilliantly entertaining. This was the movie that revitalized American cinema in the mid 1990s... though it would have been nice if other directors took his example for inspiration rather than just becoming copycats. This is the 10 in Brilliantly entertaining. This was the movie that revitalized American cinema in the mid 1990s... though it would have been nice if other directors took his example for inspiration rather than just becoming copycats. This is the 10 in Tarantino's repertoire... nothing before or since has been better than an 8.",
-            "review_date": "2007-09-21",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Easily one of the best, most finely-crafted films ever. The only movie that could ever reach the cinematic brilliance of Pulp Fiction was Wizard of Oz, more than 70 years ago.",
-            "review_date": "2005-11-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Tarantino in full-force and this seem like even more of a talkfest than his others.",
-            "review_date": "2020-03-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I think there's too much talking along the movie. Good for those that enjoy Tarantino's ideas. In fact, I just watched it once there's lots of people talking about the movie, but it's not big deal.",
-            "review_date": "2012-06-16",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This review contains spoilers, click expand to view.\n        \nI cannot recommend this movie, it is incredibly slow, the idea of a circular narrative does not make sense. Maybe it was non-linear? in which, I can appreciate that they went against the grain with this, but both me and my buddy were watching this film thinking. When the hell is this movie starting?It was incredibly slow, things didn't make sense, i felt like the overdose scene and the boxer scene didn't add too much to the over arching story.I did like the dialogue though, i felt like that was the strongest part of this movie",
-            "review_date": "2018-06-28",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Another boring movie by Quentin Tarantino. I like the fact that the movie have a portuguese actress but that are so... I don't even know. People talk about Pulp Fiction like that was the biggest thing in the world, I just say NO!",
-            "review_date": "2015-04-17",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I kinda like QT movies but honestly this one is a bit weird. The dialogue is non-sense (too much blah blah for nothing), the acting is mediocre at best and there is no action, no emotion, not a good and interesting story with bad guys etc.I kinda like QT movies but honestly this one is a bit weird. The dialogue is non-sense (too much blah blah for nothing), the acting is mediocre at best and there is no action, no emotion, not a good and interesting story with bad guys etc. It's not funny at all. Ridiculous. It's not a garbage but it's too overrated. I have seen better movies from Tarantino, like Kill Bill (better by far), Inglourious Basterds, Django Unchained, Jackie Brown and Reservoir Dogs. Death Proof was good too. The Hateful Eight was as mediocre as Pulp Fiction, which means....a huge dissapointment! Only the music is great.",
-            "review_date": "2018-09-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I feel bad for everyone that saw this movie after hearing all the hype and praise. If you don't expect too much, you'll find it very entertaining, even sorta silly. I'm happy to say it gave me a newfound admiration for Bruce Willis.",
-            "review_date": "2018-10-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "the movie had its moments, but there is nothing in it that would glue my attention to the screen. Unnecessary and long dialogs and monologues that lead to nothing ... no intriguing twists. i would praise the performance of actors, but nothing else.",
-            "review_date": "2019-07-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The title of the movie basically describes itself, while Pulp Fiction is funny and sometimes even smart in certain ways, there's still a lot of gritty and nasty stuff to be dealt with. I would probably watch it 1-2 times again, just to fullyThe title of the movie basically describes itself, while Pulp Fiction is funny and sometimes even smart in certain ways, there's still a lot of gritty and nasty stuff to be dealt with. I would probably watch it 1-2 times again, just to fully comprehend what's going on, but I still don't really see the appeal many others see and I wouldn't go as far as hailing this movie as a masterpiece of our modern time, it's still a good movie though, and a must watch, if you like character-driven movies with lots of strangeness to be seen.",
-            "review_date": "2019-11-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I dont i understand what this movie want to tell me he is start from the end and evreything not conccted together",
-            "review_date": "2019-11-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The most overrated flick i've seen so far. just a random movie with a boring and pointless plot and cheesy dialogue.",
-            "review_date": "2021-07-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I'm about to say the words that no one dares saying: Pulp Fiction sucks. Look, I can like films with just talking. Once Upon a Time in Hollywood is one of my favorite films, and that's all they do. But at least in that movie, what they wereI'm about to say the words that no one dares saying: Pulp Fiction sucks. Look, I can like films with just talking. Once Upon a Time in Hollywood is one of my favorite films, and that's all they do. But at least in that movie, what they were talking about was interesting and funny. Pulp Fiction is neither. It's just people talking with nothing to back it up. Not even the outrageous and shocking scenes don't hit that hard. You don't care about anything, you don't laugh, you don't get excited, you don't feel ANYTHING. At least the plot comes around in an interesting way and there are some memorable moments. But one is for sure. I don't believe this movie is one of the greatest films of all-time.",
-            "review_date": "2020-09-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A ridiculous show with a more ridiculous screenplay that has become popular only because of the famous actors in the film.\u200c\u200c",
-            "review_date": "2021-02-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Even years after the release the movie feels fresher than many of the movies made today. Quentin Tarantino  takes a story, twists it and turns, plays with our expectations and leaves us with a masterpiece.",
-            "review_date": "2011-12-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is probably one of the greatest movies ever to hit the silver screen (in my opinion that is). Tarantino, you're one hella director, keep it up. If you haven't seen this movie or you're debating on seeing it, well...SEE IT!!!!!!",
-            "review_date": "2010-12-28",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is a weak movie, not much stories that didn't connect, and I really didn't care. This not my favorites. I'll take Revservoir Dogs anytime.",
-            "review_date": "2018-07-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Average movie, nothing stand out in particular, Samuel Jackson is crap, so does Travolta and this is the most offensive and racist movie ever, Quetin Tarantino is racist as hell, how could Hollywood would allow a White guy to use the wordAverage movie, nothing stand out in particular, Samuel Jackson is crap, so does Travolta and this is the most offensive and racist movie ever, Quetin Tarantino is racist as hell, how could Hollywood would allow a White guy to use the word N***** in this movie?",
-            "review_date": "2014-02-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "If your idea of a good movie is filled with slow motion or flashy action sequences, love scenes, and a clear cut happy ending, don't watch this movie. But if you want something gritty, real and entirely different than most the movies If your idea of a good movie is filled with slow motion or flashy action sequences, love scenes, and a clear cut happy ending, don't watch this movie. But if you want something gritty, real and entirely different than most the movies out there, you just might need to see this one.",
-            "review_date": "2008-01-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Definitely belongs to the 10 best movies of all times !!! The story and the dialogues are just awesome and it's really sad to see that it only received the script-oscar. What about this ridiculous Forrest Gump is worth these many trophies !",
-            "review_date": "2008-02-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Everyone is entitled to his or her own opinion, of course. But I don't think that any serious viewer -- or at least any viewer with an opinion worth considering -- will grant Pulp Fiction its rightful place in the canon. That Everyone is entitled to his or her own opinion, of course. But I don't think that any serious viewer -- or at least any viewer with an opinion worth considering -- will grant Pulp Fiction its rightful place in the canon. That doesn't mean the film is perfect or that reasonable viewers can't differ on its relative strengths and weaknesses. Those who find the dialogue too steeped in post-modern hipsterism, however, can still marvel at a non-linear storyline that may best \"Citizen Kane\" in its elegance and ingenuity. Those who find some of the plot twists (think Gimp, baby) too contrived can still appreciate performances -- and character interactions -- whose artistry will stun audiences for many, many generations to come. In other words....hell, that guy below is right: If you don't find something -- or lots of things -- to love about this movie, see a doctor. It's time to get that stick removed.",
-            "review_date": "2008-01-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of my favorite movies ever, and classic Tarantino. Noone can shoot these disjointed action dramas with such finesse and creativity. He won't be able to top this one, but he has had great movies before and after it.",
-            "review_date": "2010-08-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Might be the best film of the 1990's. Tarantino established himself as one of the most stylish and individual directors alive with this masterpiece of pop cinema, which combines several stories involving a vivid array of characters who couldMight be the best film of the 1990's. Tarantino established himself as one of the most stylish and individual directors alive with this masterpiece of pop cinema, which combines several stories involving a vivid array of characters who could only be seen in a comic book. The dialogue is fantastic (one of the best and most entertaining screenplays ever), the performances are fantastic, and the soundtrack rocks throughout the entire movie. This is one of the key films in American cinema, and should be watched and loved by anyone who calls themselves a fan of the movies.",
-            "review_date": "2010-08-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I seriously don't know what to say about this film. It was mind blowing. It was very well written. I loved the dialogue especially the beginning scene in the dinner with Tim Roth. The best part of the film has to be the directing. WithI seriously don't know what to say about this film. It was mind blowing. It was very well written. I loved the dialogue especially the beginning scene in the dinner with Tim Roth. The best part of the film has to be the directing. With Quentin Tarantino there's no way that it's sucks. The stories of different people connecting simultaneously has been bone before but not as good as this masterpiece. John Travolta dying at the middle of the film and walking out of the dinner at the end was very well planed out. This film doesn't even fallow the same time period. Don't forget about the violence. It was very violent and bloody. This film deserved to win best picture at Oscars over Forrest Gump. I don't have much else to say so what are you still doing here. If you haven't seen the movie go see it and if you have seen it go see it again.",
-            "review_date": "2011-12-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The greatest film ever made. Dialogue in the film is perfect, brilliantly written by Tarantino.A superb performance from John Travolta and Samuel L. Jackson.",
-            "review_date": "2012-05-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie is absolutely dog actually trash movie written by a bunch of idiotic monkeys how could anybody watch this horrible film and live to tell the tale im pretty sure this picture gave me stage five suicidal thoughts i literally want toThis movie is absolutely dog actually trash movie written by a bunch of idiotic monkeys how could anybody watch this horrible film and live to tell the tale im pretty sure this picture gave me stage five suicidal thoughts i literally want to die after viewing this film do not watch it. terrible writing, bad screenplay. and even worse character development. another dumpster fire by quentin another horrible production in the books",
-            "review_date": "2020-02-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Yo The Godfather: I'm really happy for you... Imma let you finish, but Pulp Fiction is the best movie of ALL TIME... of ALL TIME!!!  but really I have yet to see better movie",
-            "review_date": "2011-03-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Pulp Fiction may be Tarantino's best film ever. From the opening scene to the very end, there is not a single dull moment. There is always someone getting shot at , someone doing drugs or someone getting cussed at the best possible way.ThePulp Fiction may be Tarantino's best film ever. From the opening scene to the very end, there is not a single dull moment. There is always someone getting shot at , someone doing drugs or someone getting cussed at the best possible way.The starring actors do an excellent job, Which is't a surprise. The script is typical in Tarantino's style.Something to note is that the acts aren't in chronological order, but will still make sense",
-            "review_date": "2012-06-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "That's how an awesome motion picture should be like. Fantastic screenplay, terrific actors to the point of the tiniest roles (Steve Buscemi as a waiter or Christopher Walken as an ex-soldier) and a marvelous kind of story-telling. TarantinoThat's how an awesome motion picture should be like. Fantastic screenplay, terrific actors to the point of the tiniest roles (Steve Buscemi as a waiter or Christopher Walken as an ex-soldier) and a marvelous kind of story-telling. Tarantino at his best, I would've given it 10 points, if there weren't the lame Bruce Willis part. It's not bad, but it's improper in my opinion. Still a must-see and one of the best movies ever made!",
-            "review_date": "2012-10-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "24 years later and not a single movie since has ever topped this masterpiece!",
-            "review_date": "2018-08-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Overrated to the point of ridicule. Pulp Fiction, what is supposed to be one of the greatest films ever, was a cluster of bizarre scenes that were patched up like a rag doll.",
-            "review_date": "2011-12-16",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "An unbelievably acted directed and written film. The film is engaging and very funny.  The film is very engaging and is never dull. All the scenes in the film are superbly crafted and there is not one thing wrong I can say about this film. AAn unbelievably acted directed and written film. The film is engaging and very funny.  The film is very engaging and is never dull. All the scenes in the film are superbly crafted and there is not one thing wrong I can say about this film. A true masterpiece and one of the best films of all time. To bad the rest of tarantinos films I have not enjoyed although I have not seen Kill Bill 2 and resevoir dogs.",
-            "review_date": "2012-01-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Not a huge fan of all of Tarantino's films but this one is great. Great music.. great cast... great dialog!!!!!!Must see - *highlights* Samuel J, Travolta, Steve B... great performances",
-            "review_date": "2010-12-17",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of my faves.",
-            "review_date": "2005-09-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Quentin Tarantino has created a masterpiece in the film industry. Intense action, legendary lines, and memorable characters. It's one of the best movies ever made. The entire cast is absoloutely entertaining to watch, and Tarantino's style ofQuentin Tarantino has created a masterpiece in the film industry. Intense action, legendary lines, and memorable characters. It's one of the best movies ever made. The entire cast is absoloutely entertaining to watch, and Tarantino's style of telling events out of order is intelligent. The film is epic as any movie can get. It is an intense, sexy, addictive crime/comedy/drama that warps into overdrive and thrown into the hands of one of hollywood's greatest directors and producers that puts crime into something so addictive, nobody can resist. It's like watching a sex scene on steroids while drunk. Fantastic and ultimate perfection!",
-            "review_date": "2010-11-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Silly hair, terrible casts. Watch it on 90's maybe will be better? I like Quentin Tarantino, but this flick seems pointless and strange. Universal acclaim didnt attract me give better score.",
-            "review_date": "2011-03-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I didn't even get what the film was about. Nothing connected. The chronology didn't make sense. But do you know what? WHO CARES! This film was a beast. BEAST. So many funny quotes, badass moments and legendary scenes. It was just soI didn't even get what the film was about. Nothing connected. The chronology didn't make sense. But do you know what? WHO CARES! This film was a beast. BEAST. So many funny quotes, badass moments and legendary scenes. It was just so entertaining. Admitedly after the first hour I was thinking \"How has this film got 94 on Metacritic?\" But then when I realised that it's not telling a narrative that's meant to be moving, it suddenly clicked.",
-            "review_date": "2011-10-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Hands down one of the best films I have ever seen. One of the rare films that actually lives up to its hype. The story can be a little bit confusing but once you reach the end, The entire storyline just falls into place and it all makesHands down one of the best films I have ever seen. One of the rare films that actually lives up to its hype. The story can be a little bit confusing but once you reach the end, The entire storyline just falls into place and it all makes sense. I dont wanna over hype but I would definently suggest watching this film.",
-            "review_date": "2012-01-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This review contains spoilers, click expand to view.\n        \nPulp Fiction, probably one of the most memorable movies I have seen. From beginning to end this movie has you glued to you're seat wondering what crazy adventure the characters are going to have next. Not recommended for the whole family but it is a good movie overall to watch.",
-            "review_date": "2012-06-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Having proven to be a consumate director with \"Reservoir Dogs\", Tarantino delivers his magnum opus with \"Pulp Fiction\". At once brutal, disturbing, and comedic, this classic is actually three separate films melded into one, and the product isHaving proven to be a consumate director with \"Reservoir Dogs\", Tarantino delivers his magnum opus with \"Pulp Fiction\". At once brutal, disturbing, and comedic, this classic is actually three separate films melded into one, and the product is one hell of a scintillating experience.",
-            "review_date": "2013-04-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "An instant classic. Ripe with witticisms and sharp retorts. This is the only instance I actually liked haphazard storytelling, because it actually succeeded in evoking certain feelings, where some of the characters were alive in some storyAn instant classic. Ripe with witticisms and sharp retorts. This is the only instance I actually liked haphazard storytelling, because it actually succeeded in evoking certain feelings, where some of the characters were alive in some story lines and dead in the other, and this made you think what it would have been like if these characters had gotten out in time.\r There were long portions of dialogue dedicated solely to humour, and others to theological and philosophical discussions. There are three stories running in parallel, which often come into contact with the others without affecting them, and are told in a non-linear way.\r Among Tarantino's films, I believe it's second only to Django Unchained, which was much more coherent and awe-inspiring, albeit with seemingly unnecessary bloody violence and an inflated running time.",
-            "review_date": "2013-11-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "An oustanding and strongly built film, Tarantino sets loose one of the best plots of all time not to mention suceeding in showing strong performances by your every day actors Samuel L. Jackson and John Travolta who usually lag behind in otherAn oustanding and strongly built film, Tarantino sets loose one of the best plots of all time not to mention suceeding in showing strong performances by your every day actors Samuel L. Jackson and John Travolta who usually lag behind in other films. Pulp Fiction is possibly the strongest and most powerful Tarantino movie besides Inglourious Basterds{read my review for Inglourious Basterds to find out what I said}.",
-            "review_date": "2013-03-09",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Didn't really know what to expect from this film and have left wondering what a lot of it was about, but at the end of the day I can see the appeal and am not too surprised a lot of people love it thanks to Tarantino's quirky style. It's aDidn't really know what to expect from this film and have left wondering what a lot of it was about, but at the end of the day I can see the appeal and am not too surprised a lot of people love it thanks to Tarantino's quirky style. It's a mix of a few short stories blended together to make a movie and its somewhat interesting, but I think the films best thing it has going for it is the chemistry between the cast, especially the leads. Overall not really my thing, but it's still good.",
-            "review_date": "2013-07-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I'd seen the first Kill Bill, Inglorious Basterds, Django Unchained and Reservoir Dogs before this. I'd thought some of those were pretty damn good so coming into this I thought \"alright Tarantino... show me your best\". and surprisingly itI'd seen the first Kill Bill, Inglorious Basterds, Django Unchained and Reservoir Dogs before this. I'd thought some of those were pretty damn good so coming into this I thought \"alright Tarantino... show me your best\". and surprisingly it delivered. There's so much you can talk about with this film but a lot of it you've probably already heard. It's probably best not to overhype it because overhyping films can turn masterpieces into mediocre films. My advice is it's a must watch.",
-            "review_date": "2013-09-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "My favorite movie of all time! This movie is fun and engaging to the core. The dialogue in this movie is the best example of Tarantino's writing ability. Every character feels genuine and has interesting things to say in interesting ways.My favorite movie of all time! This movie is fun and engaging to the core. The dialogue in this movie is the best example of Tarantino's writing ability. Every character feels genuine and has interesting things to say in interesting ways. Plus the dark comedy that is entwined into the whole movie is simply wonderful.",
-            "review_date": "2013-10-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Quentin Tarantino is absolutely a genius and this movie proves how is this geniality,an outstanding movie with an non-linear story is great,some movies would serve this movie as an example.",
-            "review_date": "2013-11-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The outrageously funny dialogue of this movie is what really drives it. Quentin Tarantino writes some of the most entertaining dialogue there is to write between two characters.\rDespite its over two and a half hours long run-time, PulpThe outrageously funny dialogue of this movie is what really drives it. Quentin Tarantino writes some of the most entertaining dialogue there is to write between two characters.\rDespite its over two and a half hours long run-time, Pulp fiction does not drag in the slightest as it is basically multiple entertaining movies rolled into one with an all-star cast that perfectly fits in Tarantino's zany universe. You actually are left wanting for more as the end credits begin to roll. Even after watching the movie more than a dozen times, I still can't remember what scene comes next. However, It's non-linear narrative structure isn't what makes Pulp Fiction a near masterpiece, its true strength comes from the excitingly fresh characters and the crazy events that take place in the film. And of course, the quirky-smart dialogue. The characters in the movie are always talking yet always so interesting.\rYou never really think you'd enjoy a movie about the lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits, it all just  feels so random, yet it intertwines so brilliantly. I love it.\rUndoubtedly, one of the most quotable movies ever and most certainly my favourite movie of all time.\rSo, Pulp Fiction, 10/10? Correctamundo.",
-            "review_date": "2016-06-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Quentin Tarantino in my opinion is one of the best Director right in the movie scene. Now this Movie is my favorite movie of all time nothing wrong with this film expect is does drag in some parts in this movie like The Watch with BruceQuentin Tarantino in my opinion is one of the best Director right in the movie scene. Now this Movie is my favorite movie of all time nothing wrong with this film expect is does drag in some parts in this movie like The Watch with Bruce Willis kinda drag in till the end but everything to this film is amazing story, Characters, and the and the only the best speech i have heard in cinema that why this film deserve what I give it",
-            "review_date": "2014-07-10",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Great, great, great!\rAwesome movie, awesome characters, awesome dialogues! Just an unforgettable movie! One of my absolute favourites and I would definitely recommend to watch it. Like, seriously, go watch it. Now!",
-            "review_date": "2015-12-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "An explosive paradiso collage of a non-linear storytelling Quentin Tarantino really musters out the best of himself in this violent tale of black comedy, bizarre situations, profanity, crime, and religious redemption, a superb LA Pulp CrimeAn explosive paradiso collage of a non-linear storytelling Quentin Tarantino really musters out the best of himself in this violent tale of black comedy, bizarre situations, profanity, crime, and religious redemption, a superb LA Pulp Crime Novel styled sandwich that is as colorful as the first time it was made.",
-            "review_date": "2015-04-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The danger of having as successful and explosive a debut as Reservoir Dogs is that expectations are invariably high - sometimes unrealistically so - for the follow up. Quentin Tarantino, however, has managed the near-impossible: improve uponThe danger of having as successful and explosive a debut as Reservoir Dogs is that expectations are invariably high - sometimes unrealistically so - for the follow up. Quentin Tarantino, however, has managed the near-impossible: improve upon the extraordinary. Pulp Fiction shows what can happen when a talented and accomplished filmmaker reaches his apex.\r This film is one wild ride. An anthology of three interconnected stories that take place in a modern-day Los Angeles tinted by echoes of Dashiell Hammett and Raymond Chandler, the movie impresses in every possible way. Writer/director Tarantino has merged film noir with the gangster tale and pulled them both into the '90s. As definitive as Francis Ford Coppola's Godfather saga was for the '70s, so is Pulp Fiction for today's generation.\r Pulp Fiction's three tales are structured to intersect and overlap at key points, even though they are not presented in chronological order. Tarantino arranges his initial scene to dovetail with his final one in a remarkable example of closure. Those confused by the structure will see everything clearly once the final line is spoken.\r As was the case in Reservoir Dogs, Tarantino's crisp dialogue sparkles. The vulgarity-laced monologues and conversations ripple with humor and are ripe with points to ponder. Foot massages, hamburgers, comfortable silence, a gold watch, pot bellies, divine intervention, and filthy animals - all these and more receive the writer's attention as he presents meaningless issues in an intensely-fascinating and almost lyrical fashion. Who else (except perhaps David Mamet) can make profanity sound so poetic?\r All the details are executed to perfection. Ironies abound in the smallest situations. One death is caused by, of all things, a poptart. And it takes a director of rare talent to find the comedy in so many macabre situations. This goes beyond gallows humor. Mixing the original with the derivative, Tarantino pushes Pulp Fiction in directions that are equally anticipated and unexpected.\r Relentless in its pace, Pulp Fiction is as exhausting as it is exhilarating. In between all the shootings, Mexican standoffs, and other violent confrontations exist opportunities to explore various facets of the human experience, including rebirth and redemption. With this film, every layer that you peel away leads to something deeper and richer. Tarantino makes pictures for movie-lovers, and Pulp Fiction is a masterpiece.",
-            "review_date": "2015-04-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Pulp (pulp) n. 1. A soft, moist, shapeless mass of matter. 2. A book containing lurid subject matter, and being characteristically printed on rough, unfinished paper.\r \"The path of the righteous man is beset on all sides by the inequitiesPulp (pulp) n. 1. A soft, moist, shapeless mass of matter. 2. A book containing lurid subject matter, and being characteristically printed on rough, unfinished paper.\r \"The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who in the name of charity and goodwill shepherds the weak through the valley of darkness, for he is truly his brother's keeper and a finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon thee.\" - Jules' version of Ezekiel 25:17\rThe danger of having as successful and explosive a debut as Reservoir Dogs is that expectations are invariably high - sometimes unrealistically so - for the follow up. Quentin Tarantino, however, has managed the near-impossible: improve upon the extraordinary. Pulp Fiction shows what can happen when a talented and accomplished filmmaker reaches his apex.\r This film is one wild ride. An anthology of three interconnected stories that take place in a modern-day Los Angeles tinted by echoes of Dashiell Hammett and Raymond Chandler, the movie impresses in every possible way. Writer/director Tarantino has merged film noir with the gangster tale and pulled them both into the '90s. As definitive as Francis Ford Coppola's Godfather saga was for the '70s, so is Pulp Fiction for today's generation.\r Pulp Fiction's three tales are structured to intersect and overlap at key points, even though they are not presented in chronological order. Tarantino arranges his initial scene to dovetail with his final one in a remarkable example of closure. Those confused by the structure will see everything clearly once the final line is spoken.\r As was the case in Reservoir Dogs, Tarantino's crisp dialogue sparkles. The vulgarity-laced monologues and conversations ripple with humor and are ripe with points to ponder. Foot massages, hamburgers, comfortable silence, a gold watch, pot bellies, divine intervention, and filthy animals - all these and more receive the writer's attention as he presents meaningless issues in an intensely-fascinating and almost lyrical fashion. Who else (except perhaps David Mamet) can make profanity sound so poetic?\r All the details are executed to perfection. Ironies abound in the smallest situations. One death is caused by, of all things, a poptart. And it takes a director of rare talent to find the comedy in so many macabre situations. This goes beyond gallows humor. Mixing the original with the derivative, Tarantino pushes Pulp Fiction in directions that are equally anticipated and unexpected.\r Relentless in its pace, Pulp Fiction is as exhausting as it is exhilarating. In between all the shootings, Mexican standoffs, and other violent confrontations exist opportunities to explore various facets of the human experience, including rebirth and redemption. With this film, every layer that you peel away leads to something deeper and richer. Tarantino makes pictures for movie-lovers, and Pulp Fiction is a near-masterpiece.",
-            "review_date": "2015-05-06",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Pulp Fiction remains the film that QT's output will always be compared to. After Reservoir Dogs put him on the map (even if it's just an unashamed rip-off of the far better 'City on Fire'), Pulp Fiction came along a couple of years later andPulp Fiction remains the film that QT's output will always be compared to. After Reservoir Dogs put him on the map (even if it's just an unashamed rip-off of the far better 'City on Fire'), Pulp Fiction came along a couple of years later and just annihilated the idea that independent film-making was about scraping back enough profit to plough into the next project.\rOn a small ($8 Million) budget, it grossed over $200 Million, and cemented QT as THE director for any respectable actor to get themselves associated with.\r It's hard to sit here and offer any kind of critique of the movie, it's now became so ingrained into 'pop' culture that it's more about the legacy, than the film itself. It spawned a slew of similarly styled/themed movies over the next few years, and the term 'Tarantino-esque' was invented to describe them.\rThe film resurrected the career of John Travolta, turned Uma Thurman into an unlikely pin-up, and showed the world what only a few people had noticed up to that point... That Samuel L. Jackson was one of the most charismatic actors of all time.\rWith its sequence-breaking narrative, groundbreaking usage of music, extended steadycam shots, over the top violence/profanity, drug usage, witty dialogue, brilliant direction, and enough nods to other great films of the 40's/50's and 60's to keep the most avid cinephile trying to spot references in the background of virtually every shot...\rA true modern masterpiece, and worthy of a 10/10 rating.",
-            "review_date": "2016-02-01",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A lot of people call Pulp Fiction one of the greatest movies ever made. They're not wrong. The circular storytelling that drives the plot is truly groundbreaking. I won't spoil anything about the plot, as your first viewing of Pulp FictionA lot of people call Pulp Fiction one of the greatest movies ever made. They're not wrong. The circular storytelling that drives the plot is truly groundbreaking. I won't spoil anything about the plot, as your first viewing of Pulp Fiction might be one of your greatest movie watching experiences ever.",
-            "review_date": "2017-10-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Pulp Fiction is a very original idea for a film in the sense that it tells multiple disjointed stories rather than just one. It does this with incredible style through the writing, performances, action, music, editing, and cinematography thatPulp Fiction is a very original idea for a film in the sense that it tells multiple disjointed stories rather than just one. It does this with incredible style through the writing, performances, action, music, editing, and cinematography that the film becomes something truly amazing. A definite must see.",
-            "review_date": "2016-08-10",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Pulp Fiction is both a technical masterpiece of writing and acting as well as a bonifide cultural artifact with an unmatched influence on filmmaking today.",
-            "review_date": "2017-02-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "in this movie there is too much happenning in this movie.  it is all over the board.  where is it starting.  how did we get here.  what the **** is this?",
-            "review_date": "2017-11-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie is the absolute waste of time! All the time just \"blah, blah ...\" and without any particular meaning. I understood almost the deepest meaning of this film, but I can not say that I found some high importance...I wonder why thisThis movie is the absolute waste of time! All the time just \"blah, blah ...\" and without any particular meaning. I understood almost the deepest meaning of this film, but I can not say that I found some high importance...I wonder why this film has so much high score in I.M.D.B. and Metacritic.",
-            "review_date": "2017-06-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I watch movies to kind of, \"escape\" from real life, where there is not much interesting going on. I watch movies expecting they are interesting, with (perhaps) twists and turns, and action, or some comedy. Naturally I didn't expect comedy orI watch movies to kind of, \"escape\" from real life, where there is not much interesting going on. I watch movies expecting they are interesting, with (perhaps) twists and turns, and action, or some comedy. Naturally I didn't expect comedy or action, but it was the dullest movie I have ever seen. It was so boring, barely any plot development. It is considered a good movie probably only because the sequence of events was reorganized. Another overrated movie by Quentin Tarantino (much like Kill Bill which also sucked @ss).",
-            "review_date": "2011-08-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I know, everyone says it's a good movie. Yes it is, but not my type. I tried to watch it 2-3 times but I can not resist. Something attracts me at all, not at all, I get bored so fast ... No offense, it is my opinion",
-            "review_date": "2014-09-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "One of the most influential films of the 1990s, Pulp Fiction is a delirious post-modern mix of neo-noir thrills, pitch-black humor, and pop-culture touchstones.",
-            "review_date": "2013-07-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Pulp Fiction was a big surprise to me. It is a small anthology with some crime stories which take place in America. It is directed in an amazing way and I love the photography of that film. Quentin Tarrantino did a great job in that film andPulp Fiction was a big surprise to me. It is a small anthology with some crime stories which take place in America. It is directed in an amazing way and I love the photography of that film. Quentin Tarrantino did a great job in that film and the actors like John Travolta and Samuel L. Jackson amazed me with their performance. The movie is interesting and after watching that film you will be amazed. It has suspense and a great atmosphere. Thumbs up! *After Pulp Fiction I want to watch more of the director's film*",
-            "review_date": "2013-07-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Pulp Fiction is an astonishing classic with a superb cast and funny and violent story!!",
-            "review_date": "2018-03-16",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "apparently,this movie has been overatted by the critics.this movie's really an incorrigible and incoherant rubbish. i call this movie a \"ROTTEN FICTION\".",
-            "review_date": "2011-11-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This should be much higher on the list, imo. Not only is this a great story that serves the narrative of its title, but it takes noire to new heights. Hell, it brought movies back to what they could be and gave us some of the best dialogueThis should be much higher on the list, imo. Not only is this a great story that serves the narrative of its title, but it takes noire to new heights. Hell, it brought movies back to what they could be and gave us some of the best dialogue heard in a long time. It has lost no appeal to me and I've seen it dozens of times. How this is below things like Toy Story and Moonlight is beyond me (well, in the case of Moonlight I'm pretty sure I know why it's above this movie).",
-            "review_date": "2019-03-14",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is one of the most overrated movies ever made, I neither like this movie or think it is good or edge, people need to get over Tarantino as he is far from a good writer or director, terrible movie.",
-            "review_date": "2015-07-23",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "this movie is beyond being overrated  i mean there is an overrated movies and there is pulp fiction\rlet's break it down shall we ?\rsome people are impressed that it's 3 stories together  REALLY  is that impressive\r\nhow about the movie babelthis movie is beyond being overrated  i mean there is an overrated movies and there is pulp fiction\rlet's break it down shall we ?\rsome people are impressed that it's 3 stories together  REALLY  is that impressive\rhow about the movie babel  why it's not a critically acclaimed movie like this ?\rthe script is so corny that you can hear it from people while street walking\rthe directing  OK what's great about it  did you see the end of the movie and how the scenes connected together  oh yes this called lack of imagination\rthe performances is so annoying that it makes you question those actors resumes  especially Samuel L. Jackson\rthe homosexual rape is the weirdest thing i ever seen in a Hollywood movie  and that's not even the worst part  it doesn't add a thing to the story.\rthe characters are ridiculous and i can go on and on but there is no point\ri guess some people get tricked into thinking that the movie is good\rbecause it's a Quentin Tarantino movie without actually watching the movie.",
-            "review_date": "2013-05-24",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Tarantino's movies are way overrated. Not saying this film was rubbish. It was fun and all but for it to be in metacritics all time top 10 is bad. I don't know why there are critics- i always look at the viewers section as its Tarantino's movies are way overrated. Not saying this film was rubbish. It was fun and all but for it to be in metacritics all time top 10 is bad. I don't know why there are critics- i always look at the viewers section as its always more accurate!",
-            "review_date": "2008-02-05",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Not the worst movie ever, but certainly not the masterpiece it was built up to be: Not funny, not interesting, no real story to tell, Didn't like and couldn't relate to any of the characters. In short, this movie is 2.5 hours of Not the worst movie ever, but certainly not the masterpiece it was built up to be: Not funny, not interesting, no real story to tell, Didn't like and couldn't relate to any of the characters. In short, this movie is 2.5 hours of pure garbage.",
-            "review_date": "2008-11-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I went to see this movie with my husband when it first came out. I found it so disgusting and frankly boring that for the first (and only time in my life) I walked out of the theater after about 20 minutes. While my husband watched, I struck I went to see this movie with my husband when it first came out. I found it so disgusting and frankly boring that for the first (and only time in my life) I walked out of the theater after about 20 minutes. While my husband watched, I struck up a much more fascinating conversation in the lobby with an older usher from the U.K. who had been a jockey.",
-            "review_date": "2006-05-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Ok, so this is the famous Tarantino masterpiece everyone is talking about. Ok, for starters, I thought the scene selection thing on my dvd was on random mode. People were dead in one scene then all of a sudden alive in the next. It didn'tOk, so this is the famous Tarantino masterpiece everyone is talking about. Ok, for starters, I thought the scene selection thing on my dvd was on random mode. People were dead in one scene then all of a sudden alive in the next. It didn't make sense and I was so confused I was a little sick in my stomach. Also, the movie was very racist, with Tarantino's script using the nasty word as much as he could. One of them even gets bummed. Everyone in this seems hell bent on using drugs, violence, racism of fatty fast food to get by. This may be how life was depicted in 1994 but it's a whole nother story in 2013. Get with the times, people...",
-            "review_date": "2013-02-16",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "[***SPOILERs***] I'm not a prude. i liked \"the godfather.\" and john carpenter's \"the thing,\" which registers pretty darn high on the gore scale, is one of my all-time favorite movies. but \"pulp fiction\" is cinematic masturbation at[***SPOILERs***] I'm not a prude. i liked \"the godfather.\" and john carpenter's \"the thing,\" which registers pretty darn high on the gore scale, is one of my all-time favorite movies. but \"pulp fiction\" is cinematic masturbation at its most juvenile. it's one long series of self-indulgent gangland fantasies as seen through the eyes of someone who us under the impression that combining irony with violence equals brilliance. it's uncannily similar to when a young person figures out how to be sarcastic. he/she will revel in his/her newfound powers of irony at every opportunity, until it becomes a matter of sheer self-indulgence. see such film triumphs as these: a righteous african american quoting the bible as he riddles the bodies of young men with enough lead to shield superman's gonads from the motherlode of kryptonite. (oh my god, best movie of all time!!!) a sadistic inbred freak getting a taste of his own sodomy...from a righteous black man who moments before was on the receiving end of the same prescription. (never before in the history of culture have we seen such brilliance!!!!) a girl who o.d'ed getting stabbed in the heart with a giant needle filled with adrenalin, jumping up and, when asked to say something, says \"something\" in a rather nonplussed fashion--followed by a \"whoa...that's trippy\" from one of the other participants. (that rawks, man! even more than when i'm watching the real beavis and butthead!!!) killers on their way to assassinate someone speaking of such banalities as a quarter pounder with cheese being called a royale du fromage in france. (did you see how the boy king managed to make his killers a thousand times more awesomely hitmenlike by juxtaposing their murderous activities with mcdonalds' cheeseburgers--brilliantly referencing an american cultural icon along the way?!!) tarantino cannot for one moment resist the compulsion to punch you in the face with his brass knuckles of irony. the violence in \"pulp fiction\" and \"natural born killers\" clearly resides in the realm of self-indulgence. he makes his characters commit outrageously violent acts with not only ironic indifference, but with shocking detachment, which of course is meant to show not just how badass they are, but to shock the viewer into a kind of slack-jawed awe. when he won an academy award for \"pulp fiction,\" he and his friend abruptly wrapped up their thoroughly inelegant acceptance comments--as it could hardly have been called a speech--with the decidedly juvenile comment, \"if you'll excuse me now, i have to go pee.\" oh well. with these guys, it's either cinematic urination or cinematic masturbation.",
-            "review_date": "2006-08-30",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The movie was disgusting and devoid of plot. In the same way that American Graffiti offered a portrait of tween-life in the '60s, it offers a sketch of how gangsters and druggies get by. At least this was all I could produce of a point. The movie was disgusting and devoid of plot. In the same way that American Graffiti offered a portrait of tween-life in the '60s, it offers a sketch of how gangsters and druggies get by. At least this was all I could produce of a point. The scene with Christopher Walken was supposed to be a highlight of the comedy. He stuck a watch up his butt. Get it? Yeah, real masterful humor. No second grader could come up with that. The ending was kind of cute. Too bad it was not at all related to any of the other gross shots in the movie. It was just kind of there, for its own sake.",
-            "review_date": "2006-04-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Very funny at times, it will hold your interest for pretty much all of the movie. Sam Jackson and Bruce Willis were a blast to watch, but i'm not a big fan of Travolta. The dialogue is usual Tarantino affair, with lots of cursing and Very funny at times, it will hold your interest for pretty much all of the movie. Sam Jackson and Bruce Willis were a blast to watch, but i'm not a big fan of Travolta. The dialogue is usual Tarantino affair, with lots of cursing and pop culture references and usually pretty clever. It never got boring, either. Some scenes are unnecessary (the very disturbing bondage rape scene). Not for kids.",
-            "review_date": "2008-01-13",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Amoral garbage. Most people don't understand this because a) Tarantino, though repulsively glib, has a rare gift; b) this gift is for making slicker than slick movies that don't bear a moment's reflection; and c) most people Amoral garbage. Most people don't understand this because a) Tarantino, though repulsively glib, has a rare gift; b) this gift is for making slicker than slick movies that don't bear a moment's reflection; and c) most people don't like reflecting on the kind of bloodbaths Tarantino offers here.",
-            "review_date": "2008-01-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A long winded, often boring, waaayyyy too long movie written around catch phrases and gratuitous violence that sold a fortune of cool posters to college kids all over the world. One long t.v. commercial with endless \"props\" to 50 years of A long winded, often boring, waaayyyy too long movie written around catch phrases and gratuitous violence that sold a fortune of cool posters to college kids all over the world. One long t.v. commercial with endless \"props\" to 50 years of pop culture. Gets a three for some of the acting and nothing else.",
-            "review_date": "2007-02-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "[***SPOILERs***] I'm not a prude. i liked \"the godfather.\" and john carpenter's \"the thing,\" which registers pretty darn high on the gore scale, is one of my all-time favorite movies. but \"pulp fiction\" is cinematic masturbation at[***SPOILERs***] I'm not a prude. i liked \"the godfather.\" and john carpenter's \"the thing,\" which registers pretty darn high on the gore scale, is one of my all-time favorite movies. but \"pulp fiction\" is cinematic masturbation at its most juvenile. it's one long series of self-indulgent gangland fantasies as seen through the eyes of someone who us under the impression that combining irony with violence equals brilliance. it's uncannily similar to when a young person figures out how to be sarcastic. he/she will revel in his/her newfound powers of irony at every opportunity, until it becomes a matter of sheer self-indulgence. see such film triumphs as these: a righteous african american quoting the bible as he riddles the bodies of young men with enough lead to shield superman's gonads from the motherlode of kryptonite. (oh my god, best movie of all time!!!) a sadistic inbred freak getting a taste of his own sodomy...from a righteous black man who moments before was on the receiving end of the same prescription. (never before in the history of culture have we seen such brilliance!!!!) a girl who o.d'ed getting stabbed in the heart with a giant needle filled with adrenalin, jumping up and, when asked to say something, says \"something\" in a rather nonplussed fashion--followed by a \"whoa...that's trippy\" from one of the other participants. (that rawks, man! even more than when i'm watching the real beavis and butthead!!!) killers on their way to assassinate someone speaking of such banalities as a quarter pounder with cheese being called a royale du fromage in france. (did you see how the boy king managed to make his killers a thousand times more awesomely hitmenlike by juxtaposing their murderous activities with mcdonalds' cheeseburgers--brilliantly referencing an american cultural icon along the way?!!) tarantino cannot for one moment resist the compulsion to punch you in the face with his brass knuckles of irony. the violence in \"pulp fiction\" and \"natural born killers\" clearly resides in the realm of self-indulgence. he makes his characters commit outrageously violent acts with not only ironic indifference, but with shocking detachment, which of course is meant to show not just how badass they are, but to shock the viewer into a kind of slack-jawed awe. when he won an academy award for \"pulp fiction,\" he and his friend abruptly wrapped up their thoroughly inelegant acceptance comments--as it could hardly have been called a speech--with the decidedly juvenile comment, \"if you'll excuse me now, i have to go pee.\" oh well. with these guys, it's either cinematic urination or cinematic masturbation.",
-            "review_date": "2006-09-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "We are movie fanatics who watched this cinematic pile of crap with seven other people ranging in age from 22 to 86. We watch a lot of movies in all genres, and we all thought it was the most overrated piece of vulgar garbage with gratuitous We are movie fanatics who watched this cinematic pile of crap with seven other people ranging in age from 22 to 86. We watch a lot of movies in all genres, and we all thought it was the most overrated piece of vulgar garbage with gratuitous violence, foul language, and on top of it, waaaay too boring. Don't know what deep thought anyone is talking about. We have removed this from our collection. BTW, I have never given a movie a 0 before, and we have over 2000 movies in our collection. I echo those who say stay away.....",
-            "review_date": "2007-12-26",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Pulp Fiction was something special. Something different, with fantastic character development as well as dialogue and memorable quotes. It's definitely worth watching.",
-            "review_date": "2014-08-18",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "one of the greatest films ever made in my opinion its better than the godfather if you havent seen it youd better because theres no other fil like it.",
-            "review_date": "2010-11-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It's hard for me to rate a movie over 8 because I think only near perfect works of art deserve a 9 or a 10 when it comes to movies. This one is a perfect example of this. This movie sets the bar for other action films to measure against. TheIt's hard for me to rate a movie over 8 because I think only near perfect works of art deserve a 9 or a 10 when it comes to movies. This one is a perfect example of this. This movie sets the bar for other action films to measure against. The different interconnecting stories the cast, just about everything here is amazing.",
-            "review_date": "2010-11-02",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Quentin Tarantino creates something new and original - combing the stories of a boxer, two hit men and a gangsters wife into a 154 minutes of masterful filmmaking.",
-            "review_date": "2010-11-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "A very interesting movie. Its combination of extreme violence and creates something unique and fantastic. The cast is filled with some of the best actors out there and the writing is just fantastic. It's unlike anything you've ever seen before.",
-            "review_date": "2013-05-16",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Thiz movie known as the most talked about movie. The movie that acquired a lot of good reviews from most critics. You must see it yourself then you understand why. Starred by many well-known Actors, such as: John Travolta, Samuel L. Jackson,Thiz movie known as the most talked about movie. The movie that acquired a lot of good reviews from most critics. You must see it yourself then you understand why. Starred by many well-known Actors, such as: John Travolta, Samuel L. Jackson, Uma Thurman, Bruce Willis and many. Directed by Quentin Tarantino, the eccentric Director. The plot is unusual, but very interesting in a strange way. The Script made by Tarantino himself. Very confusing plot around the movie. Move forward and backward along the movie. These elements that made people appreciate it. You must see over and over to understand the idea. However, actually the plot is an ordinary plot just like other ordinary movie but the editing made it great for overall. The other factor that make thiz movie unforgettable is the dialogues. The dialogues are mostly long but colorful, rude but exciting. Thiz movie costs by limited budget, but still a lot of well-known stars involved. Thiz proofs that The Actors know there is something different on the script to offer. The other memorable scene you will never forget is when Travolta and Truman dancing. The dancing is cult. People remember Travolta for musical movies, such as SATURDAY NIGHT FEVER (1977) and GREASE (1978). When we see him appear at movie again for such a long time and we see him dancing by his present figure, something magical happens. That is the fun part. If you like independent movie, Totally you must see this movie\r Visit My Blog on JONNY'S MOVEE : http://jonnyfendi.blogspot.com",
-            "review_date": "2011-01-11",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 114
+  "title": "Pulp Fiction",
+  "rating": 9.0,
+  "release_date": "1994-10-14",
+  "summary": "Several inter-locking stories of crime and intrigue form a temporal mosaic set in the Los Angeles underworld.",
+  "critic_reviews": [
+    "It is an exhilaration from beginning to end. It's the movie equivalent of that rare sort of novel where you find yourself checking to see how many pages are left and hoping there are more, not fewer.",
+    "Like \"Citizen Kane,\" Pulp Fiction is constructed in such a nonlinear way that you could see it a dozen times and not be able to remember what comes next.",
+    "With this film, every layer that you peel away leads to something deeper and richer. Tarantino makes pictures for movie-lovers, and Pulp Fiction is a near-masterpiece.",
+    "The new King Kong of crime movies...Ferocious fun without a trace of caution, complacency or political correctness to inhibit its 154 deliciously lurid minutes.",
+    "Pulp Fiction is at least three movies rolled into one, and they're all scintillating.",
+    "The first masterwork of the post-modern pop culture generation...gets better with every viewing, and like good rock n' roll, needs to be played loud!",
+    "Brilliant and brutal, funny and exhilarating, jaw-droppingly cruel and disarmingly sweet...To watch this movie (whose 2 1/2 hours speed by unnoticed) is to experience a near-assault of creativity.",
+    "Tarantino's mock-tough narrative--which derives most of its titillation from farcical mayhem, drugs, deadpan macho monologues, evocations of anal penetration, and terms of racial abuse--resembles a wet dream for 14-year-old male closet queens (or, perhaps more accurately, the 14-year-old male closet queen in each of us), and his command of this smart-alecky mode is so sure that this nervy movie sparkles throughout with canny twists and turns.",
+    "Very satisfying. Classic storytelling, modern techniques. And the images: This movie has embedded so many strange and new mental pictures in my head that I'm not able to shake free. Yet, neither would I want to be free.",
+    "[Tarantino's] ability to take what seem like minor conversational themes and dovetail them onto later exchanges for maximum comic effect is close to genius. And the action can be literally heart-stopping.",
+    "A scintillating piece of filmmaking, the kind of movie you look forward to seeing again even as you're watching it, and an extraordinary response to both the Dogs-Is-Overrated brigade and the He'll-Never-Top-His-Debut sceptics.",
+    "In 1994, all the talk was of former video store clerk Tarantino's indifference to traditional culture. That patronised his sophisticated cinephilia, and in fact, twenty years on, the writerly influences of Edward Bunker, Elmore Leonard, and Jim Thompson seem very prominent. Don DeLillo began the '90s by warning that the U.S. is the only country in the world with funny violence. Maybe Pulp Fiction was the kind of thing he had in mind. Unmissable.",
+    "Without its commitment to an idea of salvation, Pulp Fiction would be little more than a terrific parlor trick; with it, it's something far richer and more haunting.",
+    "The experience overall is like laughing down a gun barrel, a little bit tiring, a lot sick and maybe far too perverse for less jaded moviegoers."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "One of the zaniest, funniest, smartest and most entertaining movies I have ever seen. One of my all time favorites as well. John Travolta and Samuel L. Jackson give terrific performances.",
+      "review_date": "2011-05-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Quentin Tarantino's \"Pulp Fiction\" is not your average gangster movie where people shoot each other and do drugs. This film is about the highest level of perfection you can achieve in the category of gangster films. Led by smart,Quentin Tarantino's \"Pulp Fiction\" is not your average gangster movie where people shoot each other and do drugs. This film is about the highest level of perfection you can achieve in the category of gangster films. Led by smart, controversial directions, \"Pulp Fiction\" spills in racism, mistakes, faults, God, and redemption into the game of crime. It's simply astonishing to do such thing, which makes the film a long living masterpiece in film history.",
+      "review_date": "2011-09-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I'm surprised about how this overrated piece was critically acclaimed by countless viewers. They compare it to Scarface, Kill Bill etc and it isn't even at the caliber of any of the above.The movie is perfect in every way, except the plot.I'm surprised about how this overrated piece was critically acclaimed by countless viewers. They compare it to Scarface, Kill Bill etc and it isn't even at the caliber of any of the above.The movie is perfect in every way, except the plot. Despite the movie's issue only covering one field, PF just lost four points out of 10 because of filler that lasted for an hour. That filler constitutes of a scenario and a hangout. The scenario being Butch's part and the hangout, where the chick has zero involvement with the plot (if it has any). My father once asked me what Pulp Fiction is about and even I can't answer. Simply told it was an action/thriller starring Travolta and Willis.In short, the plot is not present, despite the unique \"chronologic\" system, which is a really good move. If this movie has a proper plot, I would've given it a 10.",
+      "review_date": "2019-08-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "No meaning, no scenario, not funny at all. This movie is just an overrated waste of time.",
+      "review_date": "2020-08-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Best movie of all time.",
+      "review_date": "2007-08-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Incredible acting (especially Travolta and Jackson), incredible stories and incredible piece of art for Pop culture! Though the end is a bit frustrating, the plot is great, really I mean it.",
+      "review_date": "2009-03-09",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is one of the greatest movies ever made, absolutely brilliant.",
+      "review_date": "2005-09-10",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of the best movie i've ever seen.",
+      "review_date": "2005-09-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Great movie. One of the best movies of all time. The thing that makes this movie so great is that it doesnt take itself too seriously. Yes the jokes help this movie out a lot, but who cares the jokes are classic \"Royal with cheese\", \"Big Great movie. One of the best movies of all time. The thing that makes this movie so great is that it doesnt take itself too seriously. Yes the jokes help this movie out a lot, but who cares the jokes are classic \"Royal with cheese\", \"Big Kahuna Burger\" \"La Big Mac\" that opening scene of the movie is classic and probably one of the best parts of movies of all time. So many classic lines from this movie and its also well acted and directed. Its a crazy movie, that doesnt make sense, but it doesnt try too, and for those of you who say its too long, go watch a Disney movie or one the horror movies out there today, maybe their more your type of movie, you dont have to think as long.",
+      "review_date": "2007-04-01",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Funny and entertaining from beginning to end. Amazing script and great acting.",
+      "review_date": "2008-10-17",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The finest thing to come out of America period. the only let down is that i will never be able to watch it again for the first time and have that feeling i had when the credits rolled and i was sat there mouth agape unable to take in the The finest thing to come out of America period. the only let down is that i will never be able to watch it again for the first time and have that feeling i had when the credits rolled and i was sat there mouth agape unable to take in the awesomeness of what i had just seen. i think its safe to say its without any doubt the best film ever made by some considerable margin.",
+      "review_date": "2008-09-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I finally saw this movie after seemingly thousands of years. I actually saw Kill Bill before this movie so I was having high hopes that Quinten would pull of another masterpeice, and my hopes were met. The movie characters were witty and I finally saw this movie after seemingly thousands of years. I actually saw Kill Bill before this movie so I was having high hopes that Quinten would pull of another masterpeice, and my hopes were met. The movie characters were witty and realistic. Some scenes(the gun accidently going off) were the most hilarious things I have ever seen. Sharp dialogue, clever editing. There just isn't alot this movie has going against it, besides the fact that there is no real strong storyline going for it. But that is where the beauty of the film lies, it just feels like we are actually following these guys around on one of their, most likely, not so better days. Does life itselfs have a grand storyline that we all need to follow out? No, and neither does this movie, making it all the more better. The dialogue is also perfect. The hamburger conversation feels like a conversation you would find me and my friends having on a normal day. The only complaint I have about this film is that the second chapter, with the boxer, seemed a bit out of place with the other two chapters. Maybe if they threw in a bit more of Vincent or Jools into the chapter it would have fit in a bit better. With that minor Quipe aside, Pulp Fiction is a movie that is more than just a movie you need to see, you have to see this film or forever be haunted by the awesome that got away.",
+      "review_date": "2004-02-11",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "About as perfect as a film will ever get. See it.",
+      "review_date": "2005-11-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "[sarcasm] Max W, you seem smart. I like smart people. You should tell the world about Tarantino's crappy ideas and the then REDO Pulp Fiction with your amazing filmmaking skills. I'm sure we would all be pleased with the results. [sarcasm] Max W, you seem smart. I like smart people. You should tell the world about Tarantino's crappy ideas and the then REDO Pulp Fiction with your amazing filmmaking skills. I'm sure we would all be pleased with the results. [/sarcasm] But, seriously, this movie is great - if you don't get it... move to Canada (or something like that).",
+      "review_date": "2005-09-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Brilliantly entertaining. This was the movie that revitalized American cinema in the mid 1990s... though it would have been nice if other directors took his example for inspiration rather than just becoming copycats. This is the 10 in Brilliantly entertaining. This was the movie that revitalized American cinema in the mid 1990s... though it would have been nice if other directors took his example for inspiration rather than just becoming copycats. This is the 10 in Tarantino's repertoire... nothing before or since has been better than an 8.",
+      "review_date": "2007-09-21",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Easily one of the best, most finely-crafted films ever. The only movie that could ever reach the cinematic brilliance of Pulp Fiction was Wizard of Oz, more than 70 years ago.",
+      "review_date": "2005-11-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Tarantino in full-force and this seem like even more of a talkfest than his others.",
+      "review_date": "2020-03-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I think there's too much talking along the movie. Good for those that enjoy Tarantino's ideas. In fact, I just watched it once there's lots of people talking about the movie, but it's not big deal.",
+      "review_date": "2012-06-16",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This review contains spoilers, click expand to view.\n        \nI cannot recommend this movie, it is incredibly slow, the idea of a circular narrative does not make sense. Maybe it was non-linear? in which, I can appreciate that they went against the grain with this, but both me and my buddy were watching this film thinking. When the hell is this movie starting?It was incredibly slow, things didn't make sense, i felt like the overdose scene and the boxer scene didn't add too much to the over arching story.I did like the dialogue though, i felt like that was the strongest part of this movie",
+      "review_date": "2018-06-28",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Another boring movie by Quentin Tarantino. I like the fact that the movie have a portuguese actress but that are so... I don't even know. People talk about Pulp Fiction like that was the biggest thing in the world, I just say NO!",
+      "review_date": "2015-04-17",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I kinda like QT movies but honestly this one is a bit weird. The dialogue is non-sense (too much blah blah for nothing), the acting is mediocre at best and there is no action, no emotion, not a good and interesting story with bad guys etc.I kinda like QT movies but honestly this one is a bit weird. The dialogue is non-sense (too much blah blah for nothing), the acting is mediocre at best and there is no action, no emotion, not a good and interesting story with bad guys etc. It's not funny at all. Ridiculous. It's not a garbage but it's too overrated. I have seen better movies from Tarantino, like Kill Bill (better by far), Inglourious Basterds, Django Unchained, Jackie Brown and Reservoir Dogs. Death Proof was good too. The Hateful Eight was as mediocre as Pulp Fiction, which means....a huge dissapointment! Only the music is great.",
+      "review_date": "2018-09-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I feel bad for everyone that saw this movie after hearing all the hype and praise. If you don't expect too much, you'll find it very entertaining, even sorta silly. I'm happy to say it gave me a newfound admiration for Bruce Willis.",
+      "review_date": "2018-10-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "the movie had its moments, but there is nothing in it that would glue my attention to the screen. Unnecessary and long dialogs and monologues that lead to nothing ... no intriguing twists. i would praise the performance of actors, but nothing else.",
+      "review_date": "2019-07-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The title of the movie basically describes itself, while Pulp Fiction is funny and sometimes even smart in certain ways, there's still a lot of gritty and nasty stuff to be dealt with. I would probably watch it 1-2 times again, just to fullyThe title of the movie basically describes itself, while Pulp Fiction is funny and sometimes even smart in certain ways, there's still a lot of gritty and nasty stuff to be dealt with. I would probably watch it 1-2 times again, just to fully comprehend what's going on, but I still don't really see the appeal many others see and I wouldn't go as far as hailing this movie as a masterpiece of our modern time, it's still a good movie though, and a must watch, if you like character-driven movies with lots of strangeness to be seen.",
+      "review_date": "2019-11-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I dont i understand what this movie want to tell me he is start from the end and evreything not conccted together",
+      "review_date": "2019-11-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The most overrated flick i've seen so far. just a random movie with a boring and pointless plot and cheesy dialogue.",
+      "review_date": "2021-07-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I'm about to say the words that no one dares saying: Pulp Fiction sucks. Look, I can like films with just talking. Once Upon a Time in Hollywood is one of my favorite films, and that's all they do. But at least in that movie, what they wereI'm about to say the words that no one dares saying: Pulp Fiction sucks. Look, I can like films with just talking. Once Upon a Time in Hollywood is one of my favorite films, and that's all they do. But at least in that movie, what they were talking about was interesting and funny. Pulp Fiction is neither. It's just people talking with nothing to back it up. Not even the outrageous and shocking scenes don't hit that hard. You don't care about anything, you don't laugh, you don't get excited, you don't feel ANYTHING. At least the plot comes around in an interesting way and there are some memorable moments. But one is for sure. I don't believe this movie is one of the greatest films of all-time.",
+      "review_date": "2020-09-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A ridiculous show with a more ridiculous screenplay that has become popular only because of the famous actors in the film.‌‌",
+      "review_date": "2021-02-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Even years after the release the movie feels fresher than many of the movies made today. Quentin Tarantino  takes a story, twists it and turns, plays with our expectations and leaves us with a masterpiece.",
+      "review_date": "2011-12-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is probably one of the greatest movies ever to hit the silver screen (in my opinion that is). Tarantino, you're one hella director, keep it up. If you haven't seen this movie or you're debating on seeing it, well...SEE IT!!!!!!",
+      "review_date": "2010-12-28",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is a weak movie, not much stories that didn't connect, and I really didn't care. This not my favorites. I'll take Revservoir Dogs anytime.",
+      "review_date": "2018-07-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Average movie, nothing stand out in particular, Samuel Jackson is crap, so does Travolta and this is the most offensive and racist movie ever, Quetin Tarantino is racist as hell, how could Hollywood would allow a White guy to use the wordAverage movie, nothing stand out in particular, Samuel Jackson is crap, so does Travolta and this is the most offensive and racist movie ever, Quetin Tarantino is racist as hell, how could Hollywood would allow a White guy to use the word N***** in this movie?",
+      "review_date": "2014-02-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "If your idea of a good movie is filled with slow motion or flashy action sequences, love scenes, and a clear cut happy ending, don't watch this movie. But if you want something gritty, real and entirely different than most the movies If your idea of a good movie is filled with slow motion or flashy action sequences, love scenes, and a clear cut happy ending, don't watch this movie. But if you want something gritty, real and entirely different than most the movies out there, you just might need to see this one.",
+      "review_date": "2008-01-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Definitely belongs to the 10 best movies of all times !!! The story and the dialogues are just awesome and it's really sad to see that it only received the script-oscar. What about this ridiculous Forrest Gump is worth these many trophies !",
+      "review_date": "2008-02-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Everyone is entitled to his or her own opinion, of course. But I don't think that any serious viewer -- or at least any viewer with an opinion worth considering -- will grant Pulp Fiction its rightful place in the canon. That Everyone is entitled to his or her own opinion, of course. But I don't think that any serious viewer -- or at least any viewer with an opinion worth considering -- will grant Pulp Fiction its rightful place in the canon. That doesn't mean the film is perfect or that reasonable viewers can't differ on its relative strengths and weaknesses. Those who find the dialogue too steeped in post-modern hipsterism, however, can still marvel at a non-linear storyline that may best \"Citizen Kane\" in its elegance and ingenuity. Those who find some of the plot twists (think Gimp, baby) too contrived can still appreciate performances -- and character interactions -- whose artistry will stun audiences for many, many generations to come. In other words....hell, that guy below is right: If you don't find something -- or lots of things -- to love about this movie, see a doctor. It's time to get that stick removed.",
+      "review_date": "2008-01-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of my favorite movies ever, and classic Tarantino. Noone can shoot these disjointed action dramas with such finesse and creativity. He won't be able to top this one, but he has had great movies before and after it.",
+      "review_date": "2010-08-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Might be the best film of the 1990's. Tarantino established himself as one of the most stylish and individual directors alive with this masterpiece of pop cinema, which combines several stories involving a vivid array of characters who couldMight be the best film of the 1990's. Tarantino established himself as one of the most stylish and individual directors alive with this masterpiece of pop cinema, which combines several stories involving a vivid array of characters who could only be seen in a comic book. The dialogue is fantastic (one of the best and most entertaining screenplays ever), the performances are fantastic, and the soundtrack rocks throughout the entire movie. This is one of the key films in American cinema, and should be watched and loved by anyone who calls themselves a fan of the movies.",
+      "review_date": "2010-08-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I seriously don't know what to say about this film. It was mind blowing. It was very well written. I loved the dialogue especially the beginning scene in the dinner with Tim Roth. The best part of the film has to be the directing. WithI seriously don't know what to say about this film. It was mind blowing. It was very well written. I loved the dialogue especially the beginning scene in the dinner with Tim Roth. The best part of the film has to be the directing. With Quentin Tarantino there's no way that it's sucks. The stories of different people connecting simultaneously has been bone before but not as good as this masterpiece. John Travolta dying at the middle of the film and walking out of the dinner at the end was very well planed out. This film doesn't even fallow the same time period. Don't forget about the violence. It was very violent and bloody. This film deserved to win best picture at Oscars over Forrest Gump. I don't have much else to say so what are you still doing here. If you haven't seen the movie go see it and if you have seen it go see it again.",
+      "review_date": "2011-12-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The greatest film ever made. Dialogue in the film is perfect, brilliantly written by Tarantino.A superb performance from John Travolta and Samuel L. Jackson.",
+      "review_date": "2012-05-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie is absolutely dog actually trash movie written by a bunch of idiotic monkeys how could anybody watch this horrible film and live to tell the tale im pretty sure this picture gave me stage five suicidal thoughts i literally want toThis movie is absolutely dog actually trash movie written by a bunch of idiotic monkeys how could anybody watch this horrible film and live to tell the tale im pretty sure this picture gave me stage five suicidal thoughts i literally want to die after viewing this film do not watch it. terrible writing, bad screenplay. and even worse character development. another dumpster fire by quentin another horrible production in the books",
+      "review_date": "2020-02-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Yo The Godfather: I'm really happy for you... Imma let you finish, but Pulp Fiction is the best movie of ALL TIME... of ALL TIME!!!  but really I have yet to see better movie",
+      "review_date": "2011-03-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Pulp Fiction may be Tarantino's best film ever. From the opening scene to the very end, there is not a single dull moment. There is always someone getting shot at , someone doing drugs or someone getting cussed at the best possible way.ThePulp Fiction may be Tarantino's best film ever. From the opening scene to the very end, there is not a single dull moment. There is always someone getting shot at , someone doing drugs or someone getting cussed at the best possible way.The starring actors do an excellent job, Which is't a surprise. The script is typical in Tarantino's style.Something to note is that the acts aren't in chronological order, but will still make sense",
+      "review_date": "2012-06-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "That's how an awesome motion picture should be like. Fantastic screenplay, terrific actors to the point of the tiniest roles (Steve Buscemi as a waiter or Christopher Walken as an ex-soldier) and a marvelous kind of story-telling. TarantinoThat's how an awesome motion picture should be like. Fantastic screenplay, terrific actors to the point of the tiniest roles (Steve Buscemi as a waiter or Christopher Walken as an ex-soldier) and a marvelous kind of story-telling. Tarantino at his best, I would've given it 10 points, if there weren't the lame Bruce Willis part. It's not bad, but it's improper in my opinion. Still a must-see and one of the best movies ever made!",
+      "review_date": "2012-10-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "24 years later and not a single movie since has ever topped this masterpiece!",
+      "review_date": "2018-08-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Overrated to the point of ridicule. Pulp Fiction, what is supposed to be one of the greatest films ever, was a cluster of bizarre scenes that were patched up like a rag doll.",
+      "review_date": "2011-12-16",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "An unbelievably acted directed and written film. The film is engaging and very funny.  The film is very engaging and is never dull. All the scenes in the film are superbly crafted and there is not one thing wrong I can say about this film. AAn unbelievably acted directed and written film. The film is engaging and very funny.  The film is very engaging and is never dull. All the scenes in the film are superbly crafted and there is not one thing wrong I can say about this film. A true masterpiece and one of the best films of all time. To bad the rest of tarantinos films I have not enjoyed although I have not seen Kill Bill 2 and resevoir dogs.",
+      "review_date": "2012-01-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Not a huge fan of all of Tarantino's films but this one is great. Great music.. great cast... great dialog!!!!!!Must see - *highlights* Samuel J, Travolta, Steve B... great performances",
+      "review_date": "2010-12-17",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of my faves.",
+      "review_date": "2005-09-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Quentin Tarantino has created a masterpiece in the film industry. Intense action, legendary lines, and memorable characters. It's one of the best movies ever made. The entire cast is absoloutely entertaining to watch, and Tarantino's style ofQuentin Tarantino has created a masterpiece in the film industry. Intense action, legendary lines, and memorable characters. It's one of the best movies ever made. The entire cast is absoloutely entertaining to watch, and Tarantino's style of telling events out of order is intelligent. The film is epic as any movie can get. It is an intense, sexy, addictive crime/comedy/drama that warps into overdrive and thrown into the hands of one of hollywood's greatest directors and producers that puts crime into something so addictive, nobody can resist. It's like watching a sex scene on steroids while drunk. Fantastic and ultimate perfection!",
+      "review_date": "2010-11-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Silly hair, terrible casts. Watch it on 90's maybe will be better? I like Quentin Tarantino, but this flick seems pointless and strange. Universal acclaim didnt attract me give better score.",
+      "review_date": "2011-03-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I didn't even get what the film was about. Nothing connected. The chronology didn't make sense. But do you know what? WHO CARES! This film was a beast. BEAST. So many funny quotes, badass moments and legendary scenes. It was just soI didn't even get what the film was about. Nothing connected. The chronology didn't make sense. But do you know what? WHO CARES! This film was a beast. BEAST. So many funny quotes, badass moments and legendary scenes. It was just so entertaining. Admitedly after the first hour I was thinking \"How has this film got 94 on Metacritic?\" But then when I realised that it's not telling a narrative that's meant to be moving, it suddenly clicked.",
+      "review_date": "2011-10-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Hands down one of the best films I have ever seen. One of the rare films that actually lives up to its hype. The story can be a little bit confusing but once you reach the end, The entire storyline just falls into place and it all makesHands down one of the best films I have ever seen. One of the rare films that actually lives up to its hype. The story can be a little bit confusing but once you reach the end, The entire storyline just falls into place and it all makes sense. I dont wanna over hype but I would definently suggest watching this film.",
+      "review_date": "2012-01-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This review contains spoilers, click expand to view.\n        \nPulp Fiction, probably one of the most memorable movies I have seen. From beginning to end this movie has you glued to you're seat wondering what crazy adventure the characters are going to have next. Not recommended for the whole family but it is a good movie overall to watch.",
+      "review_date": "2012-06-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Having proven to be a consumate director with \"Reservoir Dogs\", Tarantino delivers his magnum opus with \"Pulp Fiction\". At once brutal, disturbing, and comedic, this classic is actually three separate films melded into one, and the product isHaving proven to be a consumate director with \"Reservoir Dogs\", Tarantino delivers his magnum opus with \"Pulp Fiction\". At once brutal, disturbing, and comedic, this classic is actually three separate films melded into one, and the product is one hell of a scintillating experience.",
+      "review_date": "2013-04-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "An instant classic. Ripe with witticisms and sharp retorts. This is the only instance I actually liked haphazard storytelling, because it actually succeeded in evoking certain feelings, where some of the characters were alive in some storyAn instant classic. Ripe with witticisms and sharp retorts. This is the only instance I actually liked haphazard storytelling, because it actually succeeded in evoking certain feelings, where some of the characters were alive in some story lines and dead in the other, and this made you think what it would have been like if these characters had gotten out in time.\r There were long portions of dialogue dedicated solely to humour, and others to theological and philosophical discussions. There are three stories running in parallel, which often come into contact with the others without affecting them, and are told in a non-linear way.\r Among Tarantino's films, I believe it's second only to Django Unchained, which was much more coherent and awe-inspiring, albeit with seemingly unnecessary bloody violence and an inflated running time.",
+      "review_date": "2013-11-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "An oustanding and strongly built film, Tarantino sets loose one of the best plots of all time not to mention suceeding in showing strong performances by your every day actors Samuel L. Jackson and John Travolta who usually lag behind in otherAn oustanding and strongly built film, Tarantino sets loose one of the best plots of all time not to mention suceeding in showing strong performances by your every day actors Samuel L. Jackson and John Travolta who usually lag behind in other films. Pulp Fiction is possibly the strongest and most powerful Tarantino movie besides Inglourious Basterds{read my review for Inglourious Basterds to find out what I said}.",
+      "review_date": "2013-03-09",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Didn't really know what to expect from this film and have left wondering what a lot of it was about, but at the end of the day I can see the appeal and am not too surprised a lot of people love it thanks to Tarantino's quirky style. It's aDidn't really know what to expect from this film and have left wondering what a lot of it was about, but at the end of the day I can see the appeal and am not too surprised a lot of people love it thanks to Tarantino's quirky style. It's a mix of a few short stories blended together to make a movie and its somewhat interesting, but I think the films best thing it has going for it is the chemistry between the cast, especially the leads. Overall not really my thing, but it's still good.",
+      "review_date": "2013-07-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I'd seen the first Kill Bill, Inglorious Basterds, Django Unchained and Reservoir Dogs before this. I'd thought some of those were pretty damn good so coming into this I thought \"alright Tarantino... show me your best\". and surprisingly itI'd seen the first Kill Bill, Inglorious Basterds, Django Unchained and Reservoir Dogs before this. I'd thought some of those were pretty damn good so coming into this I thought \"alright Tarantino... show me your best\". and surprisingly it delivered. There's so much you can talk about with this film but a lot of it you've probably already heard. It's probably best not to overhype it because overhyping films can turn masterpieces into mediocre films. My advice is it's a must watch.",
+      "review_date": "2013-09-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "My favorite movie of all time! This movie is fun and engaging to the core. The dialogue in this movie is the best example of Tarantino's writing ability. Every character feels genuine and has interesting things to say in interesting ways.My favorite movie of all time! This movie is fun and engaging to the core. The dialogue in this movie is the best example of Tarantino's writing ability. Every character feels genuine and has interesting things to say in interesting ways. Plus the dark comedy that is entwined into the whole movie is simply wonderful.",
+      "review_date": "2013-10-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Quentin Tarantino is absolutely a genius and this movie proves how is this geniality,an outstanding movie with an non-linear story is great,some movies would serve this movie as an example.",
+      "review_date": "2013-11-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The outrageously funny dialogue of this movie is what really drives it. Quentin Tarantino writes some of the most entertaining dialogue there is to write between two characters.\rDespite its over two and a half hours long run-time, PulpThe outrageously funny dialogue of this movie is what really drives it. Quentin Tarantino writes some of the most entertaining dialogue there is to write between two characters.\rDespite its over two and a half hours long run-time, Pulp fiction does not drag in the slightest as it is basically multiple entertaining movies rolled into one with an all-star cast that perfectly fits in Tarantino's zany universe. You actually are left wanting for more as the end credits begin to roll. Even after watching the movie more than a dozen times, I still can't remember what scene comes next. However, It's non-linear narrative structure isn't what makes Pulp Fiction a near masterpiece, its true strength comes from the excitingly fresh characters and the crazy events that take place in the film. And of course, the quirky-smart dialogue. The characters in the movie are always talking yet always so interesting.\rYou never really think you'd enjoy a movie about the lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits, it all just  feels so random, yet it intertwines so brilliantly. I love it.\rUndoubtedly, one of the most quotable movies ever and most certainly my favourite movie of all time.\rSo, Pulp Fiction, 10/10? Correctamundo.",
+      "review_date": "2016-06-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Quentin Tarantino in my opinion is one of the best Director right in the movie scene. Now this Movie is my favorite movie of all time nothing wrong with this film expect is does drag in some parts in this movie like The Watch with BruceQuentin Tarantino in my opinion is one of the best Director right in the movie scene. Now this Movie is my favorite movie of all time nothing wrong with this film expect is does drag in some parts in this movie like The Watch with Bruce Willis kinda drag in till the end but everything to this film is amazing story, Characters, and the and the only the best speech i have heard in cinema that why this film deserve what I give it",
+      "review_date": "2014-07-10",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Great, great, great!\rAwesome movie, awesome characters, awesome dialogues! Just an unforgettable movie! One of my absolute favourites and I would definitely recommend to watch it. Like, seriously, go watch it. Now!",
+      "review_date": "2015-12-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "An explosive paradiso collage of a non-linear storytelling Quentin Tarantino really musters out the best of himself in this violent tale of black comedy, bizarre situations, profanity, crime, and religious redemption, a superb LA Pulp CrimeAn explosive paradiso collage of a non-linear storytelling Quentin Tarantino really musters out the best of himself in this violent tale of black comedy, bizarre situations, profanity, crime, and religious redemption, a superb LA Pulp Crime Novel styled sandwich that is as colorful as the first time it was made.",
+      "review_date": "2015-04-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The danger of having as successful and explosive a debut as Reservoir Dogs is that expectations are invariably high - sometimes unrealistically so - for the follow up. Quentin Tarantino, however, has managed the near-impossible: improve uponThe danger of having as successful and explosive a debut as Reservoir Dogs is that expectations are invariably high - sometimes unrealistically so - for the follow up. Quentin Tarantino, however, has managed the near-impossible: improve upon the extraordinary. Pulp Fiction shows what can happen when a talented and accomplished filmmaker reaches his apex.\r This film is one wild ride. An anthology of three interconnected stories that take place in a modern-day Los Angeles tinted by echoes of Dashiell Hammett and Raymond Chandler, the movie impresses in every possible way. Writer/director Tarantino has merged film noir with the gangster tale and pulled them both into the '90s. As definitive as Francis Ford Coppola's Godfather saga was for the '70s, so is Pulp Fiction for today's generation.\r Pulp Fiction's three tales are structured to intersect and overlap at key points, even though they are not presented in chronological order. Tarantino arranges his initial scene to dovetail with his final one in a remarkable example of closure. Those confused by the structure will see everything clearly once the final line is spoken.\r As was the case in Reservoir Dogs, Tarantino's crisp dialogue sparkles. The vulgarity-laced monologues and conversations ripple with humor and are ripe with points to ponder. Foot massages, hamburgers, comfortable silence, a gold watch, pot bellies, divine intervention, and filthy animals - all these and more receive the writer's attention as he presents meaningless issues in an intensely-fascinating and almost lyrical fashion. Who else (except perhaps David Mamet) can make profanity sound so poetic?\r All the details are executed to perfection. Ironies abound in the smallest situations. One death is caused by, of all things, a poptart. And it takes a director of rare talent to find the comedy in so many macabre situations. This goes beyond gallows humor. Mixing the original with the derivative, Tarantino pushes Pulp Fiction in directions that are equally anticipated and unexpected.\r Relentless in its pace, Pulp Fiction is as exhausting as it is exhilarating. In between all the shootings, Mexican standoffs, and other violent confrontations exist opportunities to explore various facets of the human experience, including rebirth and redemption. With this film, every layer that you peel away leads to something deeper and richer. Tarantino makes pictures for movie-lovers, and Pulp Fiction is a masterpiece.",
+      "review_date": "2015-04-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Pulp (pulp) n. 1. A soft, moist, shapeless mass of matter. 2. A book containing lurid subject matter, and being characteristically printed on rough, unfinished paper.\r \"The path of the righteous man is beset on all sides by the inequitiesPulp (pulp) n. 1. A soft, moist, shapeless mass of matter. 2. A book containing lurid subject matter, and being characteristically printed on rough, unfinished paper.\r \"The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who in the name of charity and goodwill shepherds the weak through the valley of darkness, for he is truly his brother's keeper and a finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon thee.\" - Jules' version of Ezekiel 25:17\rThe danger of having as successful and explosive a debut as Reservoir Dogs is that expectations are invariably high - sometimes unrealistically so - for the follow up. Quentin Tarantino, however, has managed the near-impossible: improve upon the extraordinary. Pulp Fiction shows what can happen when a talented and accomplished filmmaker reaches his apex.\r This film is one wild ride. An anthology of three interconnected stories that take place in a modern-day Los Angeles tinted by echoes of Dashiell Hammett and Raymond Chandler, the movie impresses in every possible way. Writer/director Tarantino has merged film noir with the gangster tale and pulled them both into the '90s. As definitive as Francis Ford Coppola's Godfather saga was for the '70s, so is Pulp Fiction for today's generation.\r Pulp Fiction's three tales are structured to intersect and overlap at key points, even though they are not presented in chronological order. Tarantino arranges his initial scene to dovetail with his final one in a remarkable example of closure. Those confused by the structure will see everything clearly once the final line is spoken.\r As was the case in Reservoir Dogs, Tarantino's crisp dialogue sparkles. The vulgarity-laced monologues and conversations ripple with humor and are ripe with points to ponder. Foot massages, hamburgers, comfortable silence, a gold watch, pot bellies, divine intervention, and filthy animals - all these and more receive the writer's attention as he presents meaningless issues in an intensely-fascinating and almost lyrical fashion. Who else (except perhaps David Mamet) can make profanity sound so poetic?\r All the details are executed to perfection. Ironies abound in the smallest situations. One death is caused by, of all things, a poptart. And it takes a director of rare talent to find the comedy in so many macabre situations. This goes beyond gallows humor. Mixing the original with the derivative, Tarantino pushes Pulp Fiction in directions that are equally anticipated and unexpected.\r Relentless in its pace, Pulp Fiction is as exhausting as it is exhilarating. In between all the shootings, Mexican standoffs, and other violent confrontations exist opportunities to explore various facets of the human experience, including rebirth and redemption. With this film, every layer that you peel away leads to something deeper and richer. Tarantino makes pictures for movie-lovers, and Pulp Fiction is a near-masterpiece.",
+      "review_date": "2015-05-06",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Pulp Fiction remains the film that QT's output will always be compared to. After Reservoir Dogs put him on the map (even if it's just an unashamed rip-off of the far better 'City on Fire'), Pulp Fiction came along a couple of years later andPulp Fiction remains the film that QT's output will always be compared to. After Reservoir Dogs put him on the map (even if it's just an unashamed rip-off of the far better 'City on Fire'), Pulp Fiction came along a couple of years later and just annihilated the idea that independent film-making was about scraping back enough profit to plough into the next project.\rOn a small ($8 Million) budget, it grossed over $200 Million, and cemented QT as THE director for any respectable actor to get themselves associated with.\r It's hard to sit here and offer any kind of critique of the movie, it's now became so ingrained into 'pop' culture that it's more about the legacy, than the film itself. It spawned a slew of similarly styled/themed movies over the next few years, and the term 'Tarantino-esque' was invented to describe them.\rThe film resurrected the career of John Travolta, turned Uma Thurman into an unlikely pin-up, and showed the world what only a few people had noticed up to that point... That Samuel L. Jackson was one of the most charismatic actors of all time.\rWith its sequence-breaking narrative, groundbreaking usage of music, extended steadycam shots, over the top violence/profanity, drug usage, witty dialogue, brilliant direction, and enough nods to other great films of the 40's/50's and 60's to keep the most avid cinephile trying to spot references in the background of virtually every shot...\rA true modern masterpiece, and worthy of a 10/10 rating.",
+      "review_date": "2016-02-01",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A lot of people call Pulp Fiction one of the greatest movies ever made. They're not wrong. The circular storytelling that drives the plot is truly groundbreaking. I won't spoil anything about the plot, as your first viewing of Pulp FictionA lot of people call Pulp Fiction one of the greatest movies ever made. They're not wrong. The circular storytelling that drives the plot is truly groundbreaking. I won't spoil anything about the plot, as your first viewing of Pulp Fiction might be one of your greatest movie watching experiences ever.",
+      "review_date": "2017-10-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Pulp Fiction is a very original idea for a film in the sense that it tells multiple disjointed stories rather than just one. It does this with incredible style through the writing, performances, action, music, editing, and cinematography thatPulp Fiction is a very original idea for a film in the sense that it tells multiple disjointed stories rather than just one. It does this with incredible style through the writing, performances, action, music, editing, and cinematography that the film becomes something truly amazing. A definite must see.",
+      "review_date": "2016-08-10",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Pulp Fiction is both a technical masterpiece of writing and acting as well as a bonifide cultural artifact with an unmatched influence on filmmaking today.",
+      "review_date": "2017-02-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "in this movie there is too much happenning in this movie.  it is all over the board.  where is it starting.  how did we get here.  what the **** is this?",
+      "review_date": "2017-11-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie is the absolute waste of time! All the time just \"blah, blah ...\" and without any particular meaning. I understood almost the deepest meaning of this film, but I can not say that I found some high importance...I wonder why thisThis movie is the absolute waste of time! All the time just \"blah, blah ...\" and without any particular meaning. I understood almost the deepest meaning of this film, but I can not say that I found some high importance...I wonder why this film has so much high score in I.M.D.B. and Metacritic.",
+      "review_date": "2017-06-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I watch movies to kind of, \"escape\" from real life, where there is not much interesting going on. I watch movies expecting they are interesting, with (perhaps) twists and turns, and action, or some comedy. Naturally I didn't expect comedy orI watch movies to kind of, \"escape\" from real life, where there is not much interesting going on. I watch movies expecting they are interesting, with (perhaps) twists and turns, and action, or some comedy. Naturally I didn't expect comedy or action, but it was the dullest movie I have ever seen. It was so boring, barely any plot development. It is considered a good movie probably only because the sequence of events was reorganized. Another overrated movie by Quentin Tarantino (much like Kill Bill which also sucked @ss).",
+      "review_date": "2011-08-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I know, everyone says it's a good movie. Yes it is, but not my type. I tried to watch it 2-3 times but I can not resist. Something attracts me at all, not at all, I get bored so fast ... No offense, it is my opinion",
+      "review_date": "2014-09-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "One of the most influential films of the 1990s, Pulp Fiction is a delirious post-modern mix of neo-noir thrills, pitch-black humor, and pop-culture touchstones.",
+      "review_date": "2013-07-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Pulp Fiction was a big surprise to me. It is a small anthology with some crime stories which take place in America. It is directed in an amazing way and I love the photography of that film. Quentin Tarrantino did a great job in that film andPulp Fiction was a big surprise to me. It is a small anthology with some crime stories which take place in America. It is directed in an amazing way and I love the photography of that film. Quentin Tarrantino did a great job in that film and the actors like John Travolta and Samuel L. Jackson amazed me with their performance. The movie is interesting and after watching that film you will be amazed. It has suspense and a great atmosphere. Thumbs up! *After Pulp Fiction I want to watch more of the director's film*",
+      "review_date": "2013-07-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Pulp Fiction is an astonishing classic with a superb cast and funny and violent story!!",
+      "review_date": "2018-03-16",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "apparently,this movie has been overatted by the critics.this movie's really an incorrigible and incoherant rubbish. i call this movie a \"ROTTEN FICTION\".",
+      "review_date": "2011-11-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This should be much higher on the list, imo. Not only is this a great story that serves the narrative of its title, but it takes noire to new heights. Hell, it brought movies back to what they could be and gave us some of the best dialogueThis should be much higher on the list, imo. Not only is this a great story that serves the narrative of its title, but it takes noire to new heights. Hell, it brought movies back to what they could be and gave us some of the best dialogue heard in a long time. It has lost no appeal to me and I've seen it dozens of times. How this is below things like Toy Story and Moonlight is beyond me (well, in the case of Moonlight I'm pretty sure I know why it's above this movie).",
+      "review_date": "2019-03-14",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is one of the most overrated movies ever made, I neither like this movie or think it is good or edge, people need to get over Tarantino as he is far from a good writer or director, terrible movie.",
+      "review_date": "2015-07-23",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "this movie is beyond being overrated  i mean there is an overrated movies and there is pulp fiction\rlet's break it down shall we ?\rsome people are impressed that it's 3 stories together  REALLY  is that impressive\r\nhow about the movie babelthis movie is beyond being overrated  i mean there is an overrated movies and there is pulp fiction\rlet's break it down shall we ?\rsome people are impressed that it's 3 stories together  REALLY  is that impressive\rhow about the movie babel  why it's not a critically acclaimed movie like this ?\rthe script is so corny that you can hear it from people while street walking\rthe directing  OK what's great about it  did you see the end of the movie and how the scenes connected together  oh yes this called lack of imagination\rthe performances is so annoying that it makes you question those actors resumes  especially Samuel L. Jackson\rthe homosexual rape is the weirdest thing i ever seen in a Hollywood movie  and that's not even the worst part  it doesn't add a thing to the story.\rthe characters are ridiculous and i can go on and on but there is no point\ri guess some people get tricked into thinking that the movie is good\rbecause it's a Quentin Tarantino movie without actually watching the movie.",
+      "review_date": "2013-05-24",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Tarantino's movies are way overrated. Not saying this film was rubbish. It was fun and all but for it to be in metacritics all time top 10 is bad. I don't know why there are critics- i always look at the viewers section as its Tarantino's movies are way overrated. Not saying this film was rubbish. It was fun and all but for it to be in metacritics all time top 10 is bad. I don't know why there are critics- i always look at the viewers section as its always more accurate!",
+      "review_date": "2008-02-05",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Not the worst movie ever, but certainly not the masterpiece it was built up to be: Not funny, not interesting, no real story to tell, Didn't like and couldn't relate to any of the characters. In short, this movie is 2.5 hours of Not the worst movie ever, but certainly not the masterpiece it was built up to be: Not funny, not interesting, no real story to tell, Didn't like and couldn't relate to any of the characters. In short, this movie is 2.5 hours of pure garbage.",
+      "review_date": "2008-11-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I went to see this movie with my husband when it first came out. I found it so disgusting and frankly boring that for the first (and only time in my life) I walked out of the theater after about 20 minutes. While my husband watched, I struck I went to see this movie with my husband when it first came out. I found it so disgusting and frankly boring that for the first (and only time in my life) I walked out of the theater after about 20 minutes. While my husband watched, I struck up a much more fascinating conversation in the lobby with an older usher from the U.K. who had been a jockey.",
+      "review_date": "2006-05-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Ok, so this is the famous Tarantino masterpiece everyone is talking about. Ok, for starters, I thought the scene selection thing on my dvd was on random mode. People were dead in one scene then all of a sudden alive in the next. It didn'tOk, so this is the famous Tarantino masterpiece everyone is talking about. Ok, for starters, I thought the scene selection thing on my dvd was on random mode. People were dead in one scene then all of a sudden alive in the next. It didn't make sense and I was so confused I was a little sick in my stomach. Also, the movie was very racist, with Tarantino's script using the nasty word as much as he could. One of them even gets bummed. Everyone in this seems hell bent on using drugs, violence, racism of fatty fast food to get by. This may be how life was depicted in 1994 but it's a whole nother story in 2013. Get with the times, people...",
+      "review_date": "2013-02-16",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "[***SPOILERs***] I'm not a prude. i liked \"the godfather.\" and john carpenter's \"the thing,\" which registers pretty darn high on the gore scale, is one of my all-time favorite movies. but \"pulp fiction\" is cinematic masturbation at[***SPOILERs***] I'm not a prude. i liked \"the godfather.\" and john carpenter's \"the thing,\" which registers pretty darn high on the gore scale, is one of my all-time favorite movies. but \"pulp fiction\" is cinematic masturbation at its most juvenile. it's one long series of self-indulgent gangland fantasies as seen through the eyes of someone who us under the impression that combining irony with violence equals brilliance. it's uncannily similar to when a young person figures out how to be sarcastic. he/she will revel in his/her newfound powers of irony at every opportunity, until it becomes a matter of sheer self-indulgence. see such film triumphs as these: a righteous african american quoting the bible as he riddles the bodies of young men with enough lead to shield superman's gonads from the motherlode of kryptonite. (oh my god, best movie of all time!!!) a sadistic inbred freak getting a taste of his own sodomy...from a righteous black man who moments before was on the receiving end of the same prescription. (never before in the history of culture have we seen such brilliance!!!!) a girl who o.d'ed getting stabbed in the heart with a giant needle filled with adrenalin, jumping up and, when asked to say something, says \"something\" in a rather nonplussed fashion--followed by a \"whoa...that's trippy\" from one of the other participants. (that rawks, man! even more than when i'm watching the real beavis and butthead!!!) killers on their way to assassinate someone speaking of such banalities as a quarter pounder with cheese being called a royale du fromage in france. (did you see how the boy king managed to make his killers a thousand times more awesomely hitmenlike by juxtaposing their murderous activities with mcdonalds' cheeseburgers--brilliantly referencing an american cultural icon along the way?!!) tarantino cannot for one moment resist the compulsion to punch you in the face with his brass knuckles of irony. the violence in \"pulp fiction\" and \"natural born killers\" clearly resides in the realm of self-indulgence. he makes his characters commit outrageously violent acts with not only ironic indifference, but with shocking detachment, which of course is meant to show not just how badass they are, but to shock the viewer into a kind of slack-jawed awe. when he won an academy award for \"pulp fiction,\" he and his friend abruptly wrapped up their thoroughly inelegant acceptance comments--as it could hardly have been called a speech--with the decidedly juvenile comment, \"if you'll excuse me now, i have to go pee.\" oh well. with these guys, it's either cinematic urination or cinematic masturbation.",
+      "review_date": "2006-08-30",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The movie was disgusting and devoid of plot. In the same way that American Graffiti offered a portrait of tween-life in the '60s, it offers a sketch of how gangsters and druggies get by. At least this was all I could produce of a point. The movie was disgusting and devoid of plot. In the same way that American Graffiti offered a portrait of tween-life in the '60s, it offers a sketch of how gangsters and druggies get by. At least this was all I could produce of a point. The scene with Christopher Walken was supposed to be a highlight of the comedy. He stuck a watch up his butt. Get it? Yeah, real masterful humor. No second grader could come up with that. The ending was kind of cute. Too bad it was not at all related to any of the other gross shots in the movie. It was just kind of there, for its own sake.",
+      "review_date": "2006-04-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Very funny at times, it will hold your interest for pretty much all of the movie. Sam Jackson and Bruce Willis were a blast to watch, but i'm not a big fan of Travolta. The dialogue is usual Tarantino affair, with lots of cursing and Very funny at times, it will hold your interest for pretty much all of the movie. Sam Jackson and Bruce Willis were a blast to watch, but i'm not a big fan of Travolta. The dialogue is usual Tarantino affair, with lots of cursing and pop culture references and usually pretty clever. It never got boring, either. Some scenes are unnecessary (the very disturbing bondage rape scene). Not for kids.",
+      "review_date": "2008-01-13",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Amoral garbage. Most people don't understand this because a) Tarantino, though repulsively glib, has a rare gift; b) this gift is for making slicker than slick movies that don't bear a moment's reflection; and c) most people Amoral garbage. Most people don't understand this because a) Tarantino, though repulsively glib, has a rare gift; b) this gift is for making slicker than slick movies that don't bear a moment's reflection; and c) most people don't like reflecting on the kind of bloodbaths Tarantino offers here.",
+      "review_date": "2008-01-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A long winded, often boring, waaayyyy too long movie written around catch phrases and gratuitous violence that sold a fortune of cool posters to college kids all over the world. One long t.v. commercial with endless \"props\" to 50 years of A long winded, often boring, waaayyyy too long movie written around catch phrases and gratuitous violence that sold a fortune of cool posters to college kids all over the world. One long t.v. commercial with endless \"props\" to 50 years of pop culture. Gets a three for some of the acting and nothing else.",
+      "review_date": "2007-02-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "[***SPOILERs***] I'm not a prude. i liked \"the godfather.\" and john carpenter's \"the thing,\" which registers pretty darn high on the gore scale, is one of my all-time favorite movies. but \"pulp fiction\" is cinematic masturbation at[***SPOILERs***] I'm not a prude. i liked \"the godfather.\" and john carpenter's \"the thing,\" which registers pretty darn high on the gore scale, is one of my all-time favorite movies. but \"pulp fiction\" is cinematic masturbation at its most juvenile. it's one long series of self-indulgent gangland fantasies as seen through the eyes of someone who us under the impression that combining irony with violence equals brilliance. it's uncannily similar to when a young person figures out how to be sarcastic. he/she will revel in his/her newfound powers of irony at every opportunity, until it becomes a matter of sheer self-indulgence. see such film triumphs as these: a righteous african american quoting the bible as he riddles the bodies of young men with enough lead to shield superman's gonads from the motherlode of kryptonite. (oh my god, best movie of all time!!!) a sadistic inbred freak getting a taste of his own sodomy...from a righteous black man who moments before was on the receiving end of the same prescription. (never before in the history of culture have we seen such brilliance!!!!) a girl who o.d'ed getting stabbed in the heart with a giant needle filled with adrenalin, jumping up and, when asked to say something, says \"something\" in a rather nonplussed fashion--followed by a \"whoa...that's trippy\" from one of the other participants. (that rawks, man! even more than when i'm watching the real beavis and butthead!!!) killers on their way to assassinate someone speaking of such banalities as a quarter pounder with cheese being called a royale du fromage in france. (did you see how the boy king managed to make his killers a thousand times more awesomely hitmenlike by juxtaposing their murderous activities with mcdonalds' cheeseburgers--brilliantly referencing an american cultural icon along the way?!!) tarantino cannot for one moment resist the compulsion to punch you in the face with his brass knuckles of irony. the violence in \"pulp fiction\" and \"natural born killers\" clearly resides in the realm of self-indulgence. he makes his characters commit outrageously violent acts with not only ironic indifference, but with shocking detachment, which of course is meant to show not just how badass they are, but to shock the viewer into a kind of slack-jawed awe. when he won an academy award for \"pulp fiction,\" he and his friend abruptly wrapped up their thoroughly inelegant acceptance comments--as it could hardly have been called a speech--with the decidedly juvenile comment, \"if you'll excuse me now, i have to go pee.\" oh well. with these guys, it's either cinematic urination or cinematic masturbation.",
+      "review_date": "2006-09-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "We are movie fanatics who watched this cinematic pile of crap with seven other people ranging in age from 22 to 86. We watch a lot of movies in all genres, and we all thought it was the most overrated piece of vulgar garbage with gratuitous We are movie fanatics who watched this cinematic pile of crap with seven other people ranging in age from 22 to 86. We watch a lot of movies in all genres, and we all thought it was the most overrated piece of vulgar garbage with gratuitous violence, foul language, and on top of it, waaaay too boring. Don't know what deep thought anyone is talking about. We have removed this from our collection. BTW, I have never given a movie a 0 before, and we have over 2000 movies in our collection. I echo those who say stay away.....",
+      "review_date": "2007-12-26",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Pulp Fiction was something special. Something different, with fantastic character development as well as dialogue and memorable quotes. It's definitely worth watching.",
+      "review_date": "2014-08-18",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "one of the greatest films ever made in my opinion its better than the godfather if you havent seen it youd better because theres no other fil like it.",
+      "review_date": "2010-11-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It's hard for me to rate a movie over 8 because I think only near perfect works of art deserve a 9 or a 10 when it comes to movies. This one is a perfect example of this. This movie sets the bar for other action films to measure against. TheIt's hard for me to rate a movie over 8 because I think only near perfect works of art deserve a 9 or a 10 when it comes to movies. This one is a perfect example of this. This movie sets the bar for other action films to measure against. The different interconnecting stories the cast, just about everything here is amazing.",
+      "review_date": "2010-11-02",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Quentin Tarantino creates something new and original - combing the stories of a boxer, two hit men and a gangsters wife into a 154 minutes of masterful filmmaking.",
+      "review_date": "2010-11-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "A very interesting movie. Its combination of extreme violence and creates something unique and fantastic. The cast is filled with some of the best actors out there and the writing is just fantastic. It's unlike anything you've ever seen before.",
+      "review_date": "2013-05-16",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Thiz movie known as the most talked about movie. The movie that acquired a lot of good reviews from most critics. You must see it yourself then you understand why. Starred by many well-known Actors, such as: John Travolta, Samuel L. Jackson,Thiz movie known as the most talked about movie. The movie that acquired a lot of good reviews from most critics. You must see it yourself then you understand why. Starred by many well-known Actors, such as: John Travolta, Samuel L. Jackson, Uma Thurman, Bruce Willis and many. Directed by Quentin Tarantino, the eccentric Director. The plot is unusual, but very interesting in a strange way. The Script made by Tarantino himself. Very confusing plot around the movie. Move forward and backward along the movie. These elements that made people appreciate it. You must see over and over to understand the idea. However, actually the plot is an ordinary plot just like other ordinary movie but the editing made it great for overall. The other factor that make thiz movie unforgettable is the dialogues. The dialogues are mostly long but colorful, rude but exciting. Thiz movie costs by limited budget, but still a lot of well-known stars involved. Thiz proofs that The Actors know there is something different on the script to offer. The other memorable scene you will never forget is when Travolta and Truman dancing. The dancing is cult. People remember Travolta for musical movies, such as SATURDAY NIGHT FEVER (1977) and GREASE (1978). When we see him appear at movie again for such a long time and we see him dancing by his present figure, something magical happens. That is the fun part. If you like independent movie, Totally you must see this movie\r Visit My Blog on JONNY'S MOVEE : http://jonnyfendi.blogspot.com",
+      "review_date": "2011-01-11",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 114,
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ]
 }

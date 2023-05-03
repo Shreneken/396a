@@ -1,29 +1,29 @@
 {
-    "title": "The Cabinet of Dr. Caligari",
-    "rating": 5.6,
-    "release_date": "2006-10-25",
-    "genre": [
-        "Drama",
-        "Mystery",
-        "Thriller",
-        "Horror"
-    ],
-    "summary": "Writer/Director David Lee Fischer re-imagines the classic horror film. By using elements from an original 35mm print of  the 1920 film, modern-day actors and a faithful yet frightfully expanded rendition of the original story, this masterpiece of horror storytelling lives again.  (Highlander Films)",
-    "critic_reviews": [
-        "This freshly 4K-ed masterpiece of German Expressionism deserves to be seen on the big screen. Track it down and be rewarded with possibly cinema's first ever twist ending.",
-        "Fisher's dialogue draws heavily on the original film's intertitles and script directions and the addition of sound is a plus for moviegoers uncomfortable with the artificial embarrassment of silence.",
-        "Of course, while your brain is fritzing out, you're trying to figure out how the cinematic trick was done and what the implications might be for other old films. Scary, disturbing, intriguing, all at once.",
-        "Result: An undeniably clever commingling of a new cast (and spoken dialogue) with a silent classic. But pic fails to engage consistently on its own terms, and begins to coast on novelty value around the midway point.",
-        "Although technically impressive, the remake is dramatically inert, as the set becomes a motionless backdrop to theatrical line readings instead of a pulsing manifestation of diseased minds. It's Caligari embalmed."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "A sad and needless attempt at a re-make. The film makers paid more attention to the use of the  1920 versions back drops and practically ignored the dialogue and character development. Krall and Jones were outstanding as Caligari and CeasarA sad and needless attempt at a re-make. The film makers paid more attention to the use of the  1920 versions back drops and practically ignored the dialogue and character development. Krall and Jones were outstanding as Caligari and Ceasar but ultimately I feel there talents were wasted. I'm sorry I wasted my time and money on this one.",
-            "review_date": "2010-10-05",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 6
+  "title": "The Cabinet of Dr. Caligari",
+  "rating": 5.6,
+  "release_date": "2006-10-25",
+  "summary": "Writer/Director David Lee Fischer re-imagines the classic horror film. By using elements from an original 35mm print of  the 1920 film, modern-day actors and a faithful yet frightfully expanded rendition of the original story, this masterpiece of horror storytelling lives again.  (Highlander Films)",
+  "critic_reviews": [
+    "This freshly 4K-ed masterpiece of German Expressionism deserves to be seen on the big screen. Track it down and be rewarded with possibly cinema's first ever twist ending.",
+    "Fisher's dialogue draws heavily on the original film's intertitles and script directions and the addition of sound is a plus for moviegoers uncomfortable with the artificial embarrassment of silence.",
+    "Of course, while your brain is fritzing out, you're trying to figure out how the cinematic trick was done and what the implications might be for other old films. Scary, disturbing, intriguing, all at once.",
+    "Result: An undeniably clever commingling of a new cast (and spoken dialogue) with a silent classic. But pic fails to engage consistently on its own terms, and begins to coast on novelty value around the midway point.",
+    "Although technically impressive, the remake is dramatically inert, as the set becomes a motionless backdrop to theatrical line readings instead of a pulsing manifestation of diseased minds. It's Caligari embalmed."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "A sad and needless attempt at a re-make. The film makers paid more attention to the use of the  1920 versions back drops and practically ignored the dialogue and character development. Krall and Jones were outstanding as Caligari and CeasarA sad and needless attempt at a re-make. The film makers paid more attention to the use of the  1920 versions back drops and practically ignored the dialogue and character development. Krall and Jones were outstanding as Caligari and Ceasar but ultimately I feel there talents were wasted. I'm sorry I wasted my time and money on this one.",
+      "review_date": "2010-10-05",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 6,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Horror"
+  ]
 }

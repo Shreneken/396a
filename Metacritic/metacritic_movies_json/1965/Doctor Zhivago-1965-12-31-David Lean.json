@@ -1,43 +1,43 @@
 {
-    "title": "Doctor Zhivago",
-    "rating": 8.2,
-    "release_date": "1965-12-31",
-    "genre": [
-        "Drama",
-        "Romance",
-        "War"
-    ],
-    "summary": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during the First World War and then the October Revolution.",
-    "critic_reviews": [
-        "It\u2019s impossible not to be swept along and caught by the details: the pompous army officer falling into the barrel, the anarchist (played by a young Klaus Kinski) watching an old couple affectionately cuddling on the train, Zhivago himself suddenly shocked at his own haggard reflection in the mirror. Lean was hunting big game, and catching it.",
-        "Doctor Zhivago is more than a masterful motion picture; it is a life experience.",
-        "The sweep and scope of the Russian revolution, as reflected in the personalities of those who either adapted or were crushed, has been captured by David Lean in Doctor Zhivago, frequently with soaring dramatic intensity. Director has accomplished one of the most meticulously designed and executed films--superior in several visual respects to his \"Lawrence of Arabia.\"",
-        "[Lean's] sentimental Zhivago is perhaps warm and rewarding entertainment rather than great art; yet it reaches that level of taste, perception and emotional fullness where a movie becomes a motion-picture event.",
-        "Stories about love in a world gone mad don't come any more gorgeous, or any more sweepingly epic, than this.",
-        "Doctor Zhivago has the most irritating soundtrack in the history of cinema and yes, it\u2019s old-fashioned and sappy. But it\u2019s impossible not to swoon. This is a love story to sink your teeth into.",
-        "As always, Lean's handling of the purely physical aspects of the material is spectacular, with the scenes of revolution, the harsh Russian winters, and Zhivago's trek across the steppes simply unforgettable.",
-        "It's definitely quite the spectacle as directed by the modern-day king of epics, David Lean. The movie is something that should be experienced by everyone at least once in a lifetime.",
-        "So, yes, it's soppy and manipulative and mushy. But that train looks real enough to ride.",
-        "Surely there's a middle ground between a Bolshevik-style elevation of history over individual emotion and a Hollywood-style idolization of emotion over impersonal history. Surely it's possible to avoid either deifying or demonizing history, but rather to seek an understanding of it - as a force that shapes private lives even as they shape it. For all its grandeur and beauty, Dr. Zhivago denies the complexity of that exchange.",
-        "Intelligent and handsomely mounted, though it doesn't use its length to build to a particularly complex emotional effect. It's a thin, snaky epic with more breadth than body, rather like watching an entire Masterpiece Theatre chapter play in a single sitting.",
-        "And this is the weakness of the film. Mr. Bolt has reduced the vast upheaval of the Russian Revolution to the banalities of a doomed romance.",
-        "Even granting the enormous difficulty of adapting such a long and complex book, I do not see how a worse job could have been done. Jack\u2013rabbiting along in fits and starts, it gives one the feeling that the book has been arbitrarily chopped up into an irrelevant series of scenes, attempting an unsuccessful compromise between intimacy and the epic."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "The oft-lauded classic \"Doctor Zhivago\" is an epic telling of love, political turmoil, and the woes that the two can conjure up when combined. Little did I know, however, that one of the other woes involved would be this film's running time.The oft-lauded classic \"Doctor Zhivago\" is an epic telling of love, political turmoil, and the woes that the two can conjure up when combined. Little did I know, however, that one of the other woes involved would be this film's running time. Sitting at a weighty three hours and twenty minutes, this at times searing indictment of 20th century Russian politics certainly got its point across. It was a rough time, man. And no one seemed to realize that more than Boris Pasternak (author of the eponymous novel the film is based on). What the film seems to suffer from, however, is a genuine lack of development when it comes to the relationship between the two leads (i.e. what the movie's kind of actually about). We have this running time for a reason, nay, many reasons. And I'd expected one of those reasons to be setting up the underpinnings of this central romance beyond simply stating \"oh, well, this one time they were the only two people standing in this one room for a good amount of time and that's how they fell in love.\" We're given a montage of the two lead characters working together over a longer period of time, yes, but that development is only implied at best. It's a film with a rather shallow and predictable main plot, yet a fairly outstanding look and feel, featuring some typically brilliant cinematography and music throughout. I only wish I'd cared a bit more overall.",
-            "review_date": "2019-02-20",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Yuri Zhivago is a young Russian from a well-placed family and has just graduated as a doctor. It has everything to have a happy life, within the reach of few in Tsarist Russia. But war and communist revolution will radically change hisYuri Zhivago is a young Russian from a well-placed family and has just graduated as a doctor. It has everything to have a happy life, within the reach of few in Tsarist Russia. But war and communist revolution will radically change his country and his life, while living an extra-marital love with the wife of a bloody and cruel revolutionary. Directed by David Lean, the film has a screenplay by Robert Bolt inspired by the novel by Boris Pasternak. The cast is headed by Omar Sharif, Julie Christie, Alec Guinness and Tom Courtenay.This film, an war epic, shows us the harshness of the events affecting Russian society during the first decades of the twentieth century: hunger, social instability, servitude, participation in World War I and, finally, political upheaval with the rise of Bolshevism... Considered by many a landmark in film and one of the most iconic films of Omar Sharif's career, is a \"must see\" for any lover of epic cinema. The script does justice to the Pasternak's novel and the interpretation of the actors is excellent, showing clearly the dichotomies and contrasts of each personality. The public follows and feels the life of Zhivago and his romance with Lara, and truly fears Strelnikov and abhors the pedantry and hypocrisy of Komarovsky. Visual effects, stunning sets and detailed costumes help us to enter inside the film and let ourselves be carried away by it. The soundtrack, composed by Maurice Jarre, is one of the most beautiful compositions for cinema, in particular its main theme. The film earned five Academy Awards (Best Adapted Screenplay, Best Color Cinematography, Best scenery in Colored Film, Best Costume Design in Colored Film, Best Original Score) and was nominated for five more (Best Picture, Best Supporting Actor, Best Director, Best Sound and Best Film Editing). It still won the Golden Globe for Best Motion Picture Drama, Best Actor Main Drama, Best Screenplay and Best Soundtrack.",
-            "review_date": "2018-02-23",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 16
+  "title": "Doctor Zhivago",
+  "rating": 8.2,
+  "release_date": "1965-12-31",
+  "summary": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during the First World War and then the October Revolution.",
+  "critic_reviews": [
+    "It’s impossible not to be swept along and caught by the details: the pompous army officer falling into the barrel, the anarchist (played by a young Klaus Kinski) watching an old couple affectionately cuddling on the train, Zhivago himself suddenly shocked at his own haggard reflection in the mirror. Lean was hunting big game, and catching it.",
+    "Doctor Zhivago is more than a masterful motion picture; it is a life experience.",
+    "The sweep and scope of the Russian revolution, as reflected in the personalities of those who either adapted or were crushed, has been captured by David Lean in Doctor Zhivago, frequently with soaring dramatic intensity. Director has accomplished one of the most meticulously designed and executed films--superior in several visual respects to his \"Lawrence of Arabia.\"",
+    "[Lean's] sentimental Zhivago is perhaps warm and rewarding entertainment rather than great art; yet it reaches that level of taste, perception and emotional fullness where a movie becomes a motion-picture event.",
+    "Stories about love in a world gone mad don't come any more gorgeous, or any more sweepingly epic, than this.",
+    "Doctor Zhivago has the most irritating soundtrack in the history of cinema and yes, it’s old-fashioned and sappy. But it’s impossible not to swoon. This is a love story to sink your teeth into.",
+    "As always, Lean's handling of the purely physical aspects of the material is spectacular, with the scenes of revolution, the harsh Russian winters, and Zhivago's trek across the steppes simply unforgettable.",
+    "It's definitely quite the spectacle as directed by the modern-day king of epics, David Lean. The movie is something that should be experienced by everyone at least once in a lifetime.",
+    "So, yes, it's soppy and manipulative and mushy. But that train looks real enough to ride.",
+    "Surely there's a middle ground between a Bolshevik-style elevation of history over individual emotion and a Hollywood-style idolization of emotion over impersonal history. Surely it's possible to avoid either deifying or demonizing history, but rather to seek an understanding of it - as a force that shapes private lives even as they shape it. For all its grandeur and beauty, Dr. Zhivago denies the complexity of that exchange.",
+    "Intelligent and handsomely mounted, though it doesn't use its length to build to a particularly complex emotional effect. It's a thin, snaky epic with more breadth than body, rather like watching an entire Masterpiece Theatre chapter play in a single sitting.",
+    "And this is the weakness of the film. Mr. Bolt has reduced the vast upheaval of the Russian Revolution to the banalities of a doomed romance.",
+    "Even granting the enormous difficulty of adapting such a long and complex book, I do not see how a worse job could have been done. Jack–rabbiting along in fits and starts, it gives one the feeling that the book has been arbitrarily chopped up into an irrelevant series of scenes, attempting an unsuccessful compromise between intimacy and the epic."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "The oft-lauded classic \"Doctor Zhivago\" is an epic telling of love, political turmoil, and the woes that the two can conjure up when combined. Little did I know, however, that one of the other woes involved would be this film's running time.The oft-lauded classic \"Doctor Zhivago\" is an epic telling of love, political turmoil, and the woes that the two can conjure up when combined. Little did I know, however, that one of the other woes involved would be this film's running time. Sitting at a weighty three hours and twenty minutes, this at times searing indictment of 20th century Russian politics certainly got its point across. It was a rough time, man. And no one seemed to realize that more than Boris Pasternak (author of the eponymous novel the film is based on). What the film seems to suffer from, however, is a genuine lack of development when it comes to the relationship between the two leads (i.e. what the movie's kind of actually about). We have this running time for a reason, nay, many reasons. And I'd expected one of those reasons to be setting up the underpinnings of this central romance beyond simply stating \"oh, well, this one time they were the only two people standing in this one room for a good amount of time and that's how they fell in love.\" We're given a montage of the two lead characters working together over a longer period of time, yes, but that development is only implied at best. It's a film with a rather shallow and predictable main plot, yet a fairly outstanding look and feel, featuring some typically brilliant cinematography and music throughout. I only wish I'd cared a bit more overall.",
+      "review_date": "2019-02-20",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Yuri Zhivago is a young Russian from a well-placed family and has just graduated as a doctor. It has everything to have a happy life, within the reach of few in Tsarist Russia. But war and communist revolution will radically change hisYuri Zhivago is a young Russian from a well-placed family and has just graduated as a doctor. It has everything to have a happy life, within the reach of few in Tsarist Russia. But war and communist revolution will radically change his country and his life, while living an extra-marital love with the wife of a bloody and cruel revolutionary. Directed by David Lean, the film has a screenplay by Robert Bolt inspired by the novel by Boris Pasternak. The cast is headed by Omar Sharif, Julie Christie, Alec Guinness and Tom Courtenay.This film, an war epic, shows us the harshness of the events affecting Russian society during the first decades of the twentieth century: hunger, social instability, servitude, participation in World War I and, finally, political upheaval with the rise of Bolshevism... Considered by many a landmark in film and one of the most iconic films of Omar Sharif's career, is a \"must see\" for any lover of epic cinema. The script does justice to the Pasternak's novel and the interpretation of the actors is excellent, showing clearly the dichotomies and contrasts of each personality. The public follows and feels the life of Zhivago and his romance with Lara, and truly fears Strelnikov and abhors the pedantry and hypocrisy of Komarovsky. Visual effects, stunning sets and detailed costumes help us to enter inside the film and let ourselves be carried away by it. The soundtrack, composed by Maurice Jarre, is one of the most beautiful compositions for cinema, in particular its main theme. The film earned five Academy Awards (Best Adapted Screenplay, Best Color Cinematography, Best scenery in Colored Film, Best Costume Design in Colored Film, Best Original Score) and was nominated for five more (Best Picture, Best Supporting Actor, Best Director, Best Sound and Best Film Editing). It still won the Golden Globe for Best Motion Picture Drama, Best Actor Main Drama, Best Screenplay and Best Soundtrack.",
+      "review_date": "2018-02-23",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 16,
+  "genres": [
+    "Drama",
+    "Romance",
+    "War"
+  ]
 }

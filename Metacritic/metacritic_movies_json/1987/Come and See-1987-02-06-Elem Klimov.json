@@ -1,59 +1,59 @@
 {
-    "title": "Come and See",
-    "rating": 9.0,
-    "release_date": "1987-02-06",
-    "genre": [
-        "Drama",
-        "War"
-    ],
-    "summary": "As Nazi forces encroach on his small village in present-day Belarus, teenage Flyora (Aleksei Kravchenko, in one of the screen\u2019s most searing depictions of anguish since Ren\u00e9e Falconetti\u2019s Joan of Arc) eagerly joins the Soviet resistance. Rather than the adventure and glory he envisioned, what he finds is a waking nightmare of unimaginableAs Nazi forces encroach on his small village in present-day Belarus, teenage Flyora (Aleksei Kravchenko, in one of the screen\u2019s most searing depictions of anguish since Ren\u00e9e Falconetti\u2019s Joan of Arc) eagerly joins the Soviet resistance. Rather than the adventure and glory he envisioned, what he finds is a waking nightmare of unimaginable carnage and cruelty.\u2026 Expand",
-    "critic_reviews": [
-        "It suggests that a war\u2019s horrors were the ultimate unassimilable experience of the shadowy depths of the human mind.",
-        "Even if the acting and sound make it dated, they don\u2019t blunt the provocative anti-war message Klimov and his crew were getting across."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "One of the best, most disturbing, harrowing, unnerving and impactful movies I have ever seen.This is a movie that drags you through hell. It's painful.\nIt's hard to watch.\nIn the best way possible.\n\nThis is a movie you don't recover from.One of the best, most disturbing, harrowing, unnerving and impactful movies I have ever seen.This is a movie that drags you through hell. It's painful.It's hard to watch.In the best way possible.This is a movie you don't recover from. It leaves you speechless. It leaves you shaking.This is a masterpiece,and it's not for the faint of heart.",
-            "review_date": "2020-09-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This is just one of the best WWII movies. A short episode of the life of a teenager who learned the horrors of war and the death of all his loved ones. A must-see, like Schindler's List.",
-            "review_date": "2021-12-29",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Very good film and shows you the horrors of world war 2 and how crazy it was.",
-            "review_date": "2022-05-25",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Probably one of the best if not the best films about WW2, and one of the most unnerving and scary films ever made. It depicts war and the life of ordinary people during it the most cruel and realistic way possible, and it certainly does leaveProbably one of the best if not the best films about WW2, and one of the most unnerving and scary films ever made. It depicts war and the life of ordinary people during it the most cruel and realistic way possible, and it certainly does leave a mark on one's perception of the topic.",
-            "review_date": "2022-04-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Have people who think that war is a mathematical thing watch this movie and slam the harsh realities in their faces. As I watched, I thought I was there and I was very nervous. It contains awesome acting and scenes. I would say it's the mostHave people who think that war is a mathematical thing watch this movie and slam the harsh realities in their faces. As I watched, I thought I was there and I was very nervous. It contains awesome acting and scenes. I would say it's the most realistic war movie I've ever seen. I loved the last sequence!",
-            "review_date": "2023-02-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Francois Truffaut once said \"There is no such thing as an anti-war film\". But then, he never saw this film, did he? If I had to summarize my experience during this in one word, it would be \"destruction\".",
-            "review_date": "2022-08-23",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 8
+  "title": "Come and See",
+  "rating": 9.0,
+  "release_date": "1987-02-06",
+  "summary": "As Nazi forces encroach on his small village in present-day Belarus, teenage Flyora (Aleksei Kravchenko, in one of the screen’s most searing depictions of anguish since Renée Falconetti’s Joan of Arc) eagerly joins the Soviet resistance. Rather than the adventure and glory he envisioned, what he finds is a waking nightmare of unimaginableAs Nazi forces encroach on his small village in present-day Belarus, teenage Flyora (Aleksei Kravchenko, in one of the screen’s most searing depictions of anguish since Renée Falconetti’s Joan of Arc) eagerly joins the Soviet resistance. Rather than the adventure and glory he envisioned, what he finds is a waking nightmare of unimaginable carnage and cruelty.… Expand",
+  "critic_reviews": [
+    "It suggests that a war’s horrors were the ultimate unassimilable experience of the shadowy depths of the human mind.",
+    "Even if the acting and sound make it dated, they don’t blunt the provocative anti-war message Klimov and his crew were getting across."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "One of the best, most disturbing, harrowing, unnerving and impactful movies I have ever seen.This is a movie that drags you through hell. It's painful.\nIt's hard to watch.\nIn the best way possible.\n\nThis is a movie you don't recover from.One of the best, most disturbing, harrowing, unnerving and impactful movies I have ever seen.This is a movie that drags you through hell. It's painful.It's hard to watch.In the best way possible.This is a movie you don't recover from. It leaves you speechless. It leaves you shaking.This is a masterpiece,and it's not for the faint of heart.",
+      "review_date": "2020-09-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This is just one of the best WWII movies. A short episode of the life of a teenager who learned the horrors of war and the death of all his loved ones. A must-see, like Schindler's List.",
+      "review_date": "2021-12-29",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Very good film and shows you the horrors of world war 2 and how crazy it was.",
+      "review_date": "2022-05-25",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Probably one of the best if not the best films about WW2, and one of the most unnerving and scary films ever made. It depicts war and the life of ordinary people during it the most cruel and realistic way possible, and it certainly does leaveProbably one of the best if not the best films about WW2, and one of the most unnerving and scary films ever made. It depicts war and the life of ordinary people during it the most cruel and realistic way possible, and it certainly does leave a mark on one's perception of the topic.",
+      "review_date": "2022-04-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Have people who think that war is a mathematical thing watch this movie and slam the harsh realities in their faces. As I watched, I thought I was there and I was very nervous. It contains awesome acting and scenes. I would say it's the mostHave people who think that war is a mathematical thing watch this movie and slam the harsh realities in their faces. As I watched, I thought I was there and I was very nervous. It contains awesome acting and scenes. I would say it's the most realistic war movie I've ever seen. I loved the last sequence!",
+      "review_date": "2023-02-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Francois Truffaut once said \"There is no such thing as an anti-war film\". But then, he never saw this film, did he? If I had to summarize my experience during this in one word, it would be \"destruction\".",
+      "review_date": "2022-08-23",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 8,
+  "genres": [
+    "Drama",
+    "War"
+  ]
 }

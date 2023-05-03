@@ -1,91 +1,91 @@
 {
-    "title": "The Adventures of Rocky & Bullwinkle",
-    "rating": 5.8,
-    "release_date": "2000-06-30",
-    "genre": [
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Animation",
-        "Family"
-    ],
-    "summary": "Escaping the bounds of their two-dimensional cartoon world, Cold War spies Boris and Natasha are pursued by fearless heroes Rocket J. Squirrel and Bullwinkle Moose.",
-    "critic_reviews": [
-        "Has the same mixture of dumb puns, corny sight gags and sly, even sophisticated in-jokes. It's a lot of fun.",
-        "Crammed with show-biz jokes that younger kids won't fathom, but the action is so quick and colorful that they probably won't mind.",
-        "It's often surprisingly clever, dripping with respect for its model, and done with considerable wit and style.",
-        "Beautifully regenerates the Jay Ward TV show its characters were based on.",
-        "So quick that the flat moments are rapidly, inevitably chased by a new gag.",
-        "This megastar mix of CGI animation and live action is remarkably faithful to the spirit of the original.",
-        "The problem with the movie isn't that it sells out Rocky and Bullwinkle -- it's that it can't keep up with them.",
-        "Hit-or-miss comedy at its best and worst: When it connects, the belly laughs are long and loud, but when it misses, the groans you'll be hearing are your own.",
-        "Never asks its target audience of self-referential baby boomers and their littles bundles of joy to take it more seriously than it takes itself.",
-        "Does go on too long, leading to inevitable dead spots.",
-        "Has some good throwaway gags -- but far too often, the moviemakers don't throw them away soon enough.",
-        "These are pitch-perfect impersonations rather than performances.",
-        "Hardly a project worthy of grown men and women.",
-        "Succumbs to its blockbuster ambitions and turns into a noisy, bloated mess.",
-        "Scarcely seems worth the expenditure of time, money and talent.",
-        "This clunky TV remake is stiffer than an iron curtain.",
-        "A whole lot of something about nothing."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "In my opinion, anyone who gives this movie a bad rating needs to remember what it was like growing up watching these characters. I saw the cartoons when they were in reruns (Hey, I'm only 27.) However, watching this movie reminded me of In my opinion, anyone who gives this movie a bad rating needs to remember what it was like growing up watching these characters. I saw the cartoons when they were in reruns (Hey, I'm only 27.) However, watching this movie reminded me of just how flat-out funny these guys were. The human casting was sheer brilliance, especially Robert De NIro as Fearless Leader. After seeing him in so many mob-related films, it was a refreshing change to see him basically making fun of himself. Piper Perabo was awesome in here. Rene Russo and Jason Alexander were absolutely hilarious as Boris Badenov and Natasha Fatale. I also enjoyed the wall-to-wall celebrity cameos such as John Goodman, Carl Reiner, Billy Crystal, and Whoopi Goldberg to name a few. Yes, some of the puns are dry. But, I found most of them to be absolutely hilarious. If I have one complaint about this film, it would be that it's no where near long enough. Otherwise, this is a great movie for the entire family.",
-            "review_date": "2007-11-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "In my opinion, anyone who gives this movie a bad rating needs to remember what it was like growing up watching these characters. I saw the cartoons when they were in reruns (Hey, I'm only 27.) However, watching this movie reminded me of justIn my opinion, anyone who gives this movie a bad rating needs to remember what it was like growing up watching these characters. I saw the cartoons when they were in reruns (Hey, I'm only 27.) However, watching this movie reminded me of just how flat-out funny these guys were. The human casting was sheer brilliance, especially Robert De NIro as Fearless Leader. After seeing him in so many mob-related films, it was a refreshing change to see him basically making fun of himself. Piper Perabo was awesome in here. Rene Russo and Jason Alexander were absolutely hilarious as Boris Badenov and Natasha Fatale. I also enjoyed the wall-to-wall celebrity cameos such as John Goodman, Carl Reiner, Billy Crystal, and Whoopi Goldberg to name a few. Yes, some of the puns are dry. But, I found most of them to be absolutely hilarious. If I have one complaint about this film, it would be that it's no where near long enough. Otherwise, this is a great movie for the entire family.",
-            "review_date": "2016-08-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This movie would have been much better if the character of Karen Sympathy or who ever their sidekick is was non existent!",
-            "review_date": "2008-04-15",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The Worst Movie Ever like it has the cheesiest crap. i wish i could go into negative numbers for the rating.",
-            "review_date": "2006-06-07",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "It's quite childish and has a few clich\u00e9s, but the humor is exhausted quite yet.",
-            "review_date": "2009-07-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Terrible. It was just on TV over Christmas and it was simply bad... Poor jokes, poor acting, poorly made. Stay away!",
-            "review_date": "2007-12-27",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Is stupid? Sometimes. Robert DeNiro is bad as the main villain? Yes. All the jokes are bad? No. I grow up with this movie and is ok. It's a decent film, and is the closest film based on an cartoon that is good.  I enjoy watching this.",
-            "review_date": "2017-08-03",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "The film swings wildly from hit to miss in its screenplay, but as a send-off to its source material, it's rather respectable and its wild nature works as special length episode of the titular series.",
-            "review_date": "2021-08-21",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 25
+  "title": "The Adventures of Rocky & Bullwinkle",
+  "rating": 5.8,
+  "release_date": "2000-06-30",
+  "summary": "Escaping the bounds of their two-dimensional cartoon world, Cold War spies Boris and Natasha are pursued by fearless heroes Rocket J. Squirrel and Bullwinkle Moose.",
+  "critic_reviews": [
+    "Has the same mixture of dumb puns, corny sight gags and sly, even sophisticated in-jokes. It's a lot of fun.",
+    "Crammed with show-biz jokes that younger kids won't fathom, but the action is so quick and colorful that they probably won't mind.",
+    "It's often surprisingly clever, dripping with respect for its model, and done with considerable wit and style.",
+    "Beautifully regenerates the Jay Ward TV show its characters were based on.",
+    "So quick that the flat moments are rapidly, inevitably chased by a new gag.",
+    "This megastar mix of CGI animation and live action is remarkably faithful to the spirit of the original.",
+    "The problem with the movie isn't that it sells out Rocky and Bullwinkle -- it's that it can't keep up with them.",
+    "Hit-or-miss comedy at its best and worst: When it connects, the belly laughs are long and loud, but when it misses, the groans you'll be hearing are your own.",
+    "Never asks its target audience of self-referential baby boomers and their littles bundles of joy to take it more seriously than it takes itself.",
+    "Does go on too long, leading to inevitable dead spots.",
+    "Has some good throwaway gags -- but far too often, the moviemakers don't throw them away soon enough.",
+    "These are pitch-perfect impersonations rather than performances.",
+    "Hardly a project worthy of grown men and women.",
+    "Succumbs to its blockbuster ambitions and turns into a noisy, bloated mess.",
+    "Scarcely seems worth the expenditure of time, money and talent.",
+    "This clunky TV remake is stiffer than an iron curtain.",
+    "A whole lot of something about nothing."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "In my opinion, anyone who gives this movie a bad rating needs to remember what it was like growing up watching these characters. I saw the cartoons when they were in reruns (Hey, I'm only 27.) However, watching this movie reminded me of In my opinion, anyone who gives this movie a bad rating needs to remember what it was like growing up watching these characters. I saw the cartoons when they were in reruns (Hey, I'm only 27.) However, watching this movie reminded me of just how flat-out funny these guys were. The human casting was sheer brilliance, especially Robert De NIro as Fearless Leader. After seeing him in so many mob-related films, it was a refreshing change to see him basically making fun of himself. Piper Perabo was awesome in here. Rene Russo and Jason Alexander were absolutely hilarious as Boris Badenov and Natasha Fatale. I also enjoyed the wall-to-wall celebrity cameos such as John Goodman, Carl Reiner, Billy Crystal, and Whoopi Goldberg to name a few. Yes, some of the puns are dry. But, I found most of them to be absolutely hilarious. If I have one complaint about this film, it would be that it's no where near long enough. Otherwise, this is a great movie for the entire family.",
+      "review_date": "2007-11-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "In my opinion, anyone who gives this movie a bad rating needs to remember what it was like growing up watching these characters. I saw the cartoons when they were in reruns (Hey, I'm only 27.) However, watching this movie reminded me of justIn my opinion, anyone who gives this movie a bad rating needs to remember what it was like growing up watching these characters. I saw the cartoons when they were in reruns (Hey, I'm only 27.) However, watching this movie reminded me of just how flat-out funny these guys were. The human casting was sheer brilliance, especially Robert De NIro as Fearless Leader. After seeing him in so many mob-related films, it was a refreshing change to see him basically making fun of himself. Piper Perabo was awesome in here. Rene Russo and Jason Alexander were absolutely hilarious as Boris Badenov and Natasha Fatale. I also enjoyed the wall-to-wall celebrity cameos such as John Goodman, Carl Reiner, Billy Crystal, and Whoopi Goldberg to name a few. Yes, some of the puns are dry. But, I found most of them to be absolutely hilarious. If I have one complaint about this film, it would be that it's no where near long enough. Otherwise, this is a great movie for the entire family.",
+      "review_date": "2016-08-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This movie would have been much better if the character of Karen Sympathy or who ever their sidekick is was non existent!",
+      "review_date": "2008-04-15",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The Worst Movie Ever like it has the cheesiest crap. i wish i could go into negative numbers for the rating.",
+      "review_date": "2006-06-07",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "It's quite childish and has a few clichés, but the humor is exhausted quite yet.",
+      "review_date": "2009-07-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Terrible. It was just on TV over Christmas and it was simply bad... Poor jokes, poor acting, poorly made. Stay away!",
+      "review_date": "2007-12-27",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Is stupid? Sometimes. Robert DeNiro is bad as the main villain? Yes. All the jokes are bad? No. I grow up with this movie and is ok. It's a decent film, and is the closest film based on an cartoon that is good.  I enjoy watching this.",
+      "review_date": "2017-08-03",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "The film swings wildly from hit to miss in its screenplay, but as a send-off to its source material, it's rather respectable and its wild nature works as special length episode of the titular series.",
+      "review_date": "2021-08-21",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 25,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Animation",
+    "Family"
+  ]
 }

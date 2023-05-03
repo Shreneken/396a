@@ -1,43 +1,43 @@
 {
-    "title": "Harakiri",
-    "rating": 7.6,
-    "release_date": "1964-08-04",
-    "genre": [
-        "Action",
-        "Drama",
-        "History"
-    ],
-    "summary": "An elder ronin samurai arrives at a feudal lord's home and requests an honorable place to commit suicide. But when the ronin inquires about a younger samurai who arrived before him things take an unexpected turn.",
-    "critic_reviews": [
-        "Harakiri is a film reflecting situational ethics, in which the better you know a man the more deeply you understand his motives.",
-        "Whilst there is plenty of swordplay involved, it's the war of words and ideals that really captures the imagination here.",
-        "The film has a steady, hypnotic momentum; the director, Masaki Kobayashi, wrings as much drama out of facial twitches as he does out of sword fights. He\u2019s helped immensely by Nakadai\u2019s molten performance and Toru Takemitsu\u2019s spare, disquieting music.",
-        "This stunning film is a sombre tragedy [from Yasuhiko Takiguchi's novel] giving off deep rage against militarism, political systems and beliefs that do not allow for a rational human outlook or future change.",
-        "Structured with intricacy and precision, the storyline alternates between present and past, using its extended flashback sequences to delay and then detonate narrative revelations like so many time bombs.",
-        "You may not get much satisfaction from the tortured human drama in this film, but you should get an eyeful graphic exercise."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "genuinely one of the greatest movies of all time. This dark, suspenseful tale is an absolute triumph for Japanese cinema!",
-            "review_date": "2020-06-01",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Despite their profound idealization of honor when it comes to the samurai, in one way or another, it is something that makes them so fascinating, and Harakiri clearly addresses the ethics of what their code entails.Harakiri is an elegant,Despite their profound idealization of honor when it comes to the samurai, in one way or another, it is something that makes them so fascinating, and Harakiri clearly addresses the ethics of what their code entails.Harakiri is an elegant, powerful, emotional, dramatic, exciting and beautiful movie. A masterpiece that exudes quality in all its elements.I can now see why this is one of the best samurai movies ever made, and it's all the more surprising that it's one that rightly questions its system.",
-            "review_date": "2023-02-04",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Whereas the story didn't fully captivate me, there is no doubt in the perfection of its directing, use of camera and acting.",
-            "review_date": "2022-07-23",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 9
+  "title": "Harakiri",
+  "rating": 7.6,
+  "release_date": "1964-08-04",
+  "summary": "An elder ronin samurai arrives at a feudal lord's home and requests an honorable place to commit suicide. But when the ronin inquires about a younger samurai who arrived before him things take an unexpected turn.",
+  "critic_reviews": [
+    "Harakiri is a film reflecting situational ethics, in which the better you know a man the more deeply you understand his motives.",
+    "Whilst there is plenty of swordplay involved, it's the war of words and ideals that really captures the imagination here.",
+    "The film has a steady, hypnotic momentum; the director, Masaki Kobayashi, wrings as much drama out of facial twitches as he does out of sword fights. He’s helped immensely by Nakadai’s molten performance and Toru Takemitsu’s spare, disquieting music.",
+    "This stunning film is a sombre tragedy [from Yasuhiko Takiguchi's novel] giving off deep rage against militarism, political systems and beliefs that do not allow for a rational human outlook or future change.",
+    "Structured with intricacy and precision, the storyline alternates between present and past, using its extended flashback sequences to delay and then detonate narrative revelations like so many time bombs.",
+    "You may not get much satisfaction from the tortured human drama in this film, but you should get an eyeful graphic exercise."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "genuinely one of the greatest movies of all time. This dark, suspenseful tale is an absolute triumph for Japanese cinema!",
+      "review_date": "2020-06-01",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Despite their profound idealization of honor when it comes to the samurai, in one way or another, it is something that makes them so fascinating, and Harakiri clearly addresses the ethics of what their code entails.Harakiri is an elegant,Despite their profound idealization of honor when it comes to the samurai, in one way or another, it is something that makes them so fascinating, and Harakiri clearly addresses the ethics of what their code entails.Harakiri is an elegant, powerful, emotional, dramatic, exciting and beautiful movie. A masterpiece that exudes quality in all its elements.I can now see why this is one of the best samurai movies ever made, and it's all the more surprising that it's one that rightly questions its system.",
+      "review_date": "2023-02-04",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Whereas the story didn't fully captivate me, there is no doubt in the perfection of its directing, use of camera and acting.",
+      "review_date": "2022-07-23",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 9,
+  "genres": [
+    "Action",
+    "Drama",
+    "History"
+  ]
 }

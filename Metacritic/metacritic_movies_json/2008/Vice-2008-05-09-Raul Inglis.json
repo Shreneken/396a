@@ -1,28 +1,28 @@
 {
-    "title": "Vice",
-    "rating": 6.8,
-    "release_date": "2008-05-09",
-    "genre": [
-        "Drama",
-        "Mystery",
-        "Thriller",
-        "Crime"
-    ],
-    "summary": "Detective Max Walker (Madsen) was once a highly respected cop until he lost his wife and his life unraveled. Haunted by her memory and harboring his rage, Walker has nothing left to lose. He is a loose cannon waiting for an excuse to explode. A drug bust operation goes awry. A large haul of heroin is discovered by Walker and his team,Detective Max Walker (Madsen) was once a highly respected cop until he lost his wife and his life unraveled. Haunted by her memory and harboring his rage, Walker has nothing left to lose. He is a loose cannon waiting for an excuse to explode. A drug bust operation goes awry. A large haul of heroin is discovered by Walker and his team, including Salt (Hannah) and Sampson (Williamson). The bust attracts a great deal of heat after several people are killed and one gang member escapes from the scene. Murder and mayhem ensue. The officers involved in the bust are being killed off one by one. No cop is safe. With no suspects in sight, a bewildered Walker joins forces with Salt to investigate the slaughter of his team. What follows is a series of twists, intrigue, and foul play. When it is discovered that some drugs from the bust went missing, the cops start to look among themselves for the killer. Trust is compromised, comradeship dissolves, and friends turn their guns on one another until the last man is standing and the truth is revealed. (41 INC.)\u2026 Expand",
-    "critic_reviews": [
-        "B-movie stalwart Michael Madsen turns in a no-holds-barred, road-wreck performance in this nihilistic crime thriller, which plays out a variation on the old maxim that there's no honor among thieves -- even if they're cops.",
-        "Inglis offers complicated characters and uniformly worthy performances without falsely manipulating us into sympathizing with anybody but tries too strenuously to fuse his warring polarities of character-driven intrigue and plot-driven treacheries into an allegory of redemption. In the end, that feels like one or two big things too many.",
-        "You've see this movie before, but you haven't seen it filtered through Madsen.",
-        "Raul Sanchez Inglis directed, but Mr. Tarantino's influence prevails, in the cinematography by Andrzej Sekula of \"Dogs\"; in the abundant epithets and expletives; and in the climactic \"Dogs\"-style standoff. The film is also dedicated to Chris Penn, Sean's brother, who was in \"Dogs\" and died in 2006. But missing, regrettably, is that movie's inventiveness, clarity and wit."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "When Madsen get s a role he can actually do something with, regardless of how derivative it is he can do some solid work.  The film itself is a suitably doom-laden and noir styled burnt out cop movie but Madsen, who dedicated the film to hisWhen Madsen get s a role he can actually do something with, regardless of how derivative it is he can do some solid work.  The film itself is a suitably doom-laden and noir styled burnt out cop movie but Madsen, who dedicated the film to his late friend Chris Penn invests Walker with a palatable bitterness and anger now that he is alone and cast adrift in a world of his own doing.  The film, to be sure is often checking off the boxes of cop movies before it but it has a surprising consistency in terms of the quality in its acting and writing that elevate the worn out genre material.  Keep your expectations realistic and you may be pleasantly surprised.",
-            "review_date": "2013-10-05",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 5
+  "title": "Vice",
+  "rating": 6.8,
+  "release_date": "2008-05-09",
+  "summary": "Detective Max Walker (Madsen) was once a highly respected cop until he lost his wife and his life unraveled. Haunted by her memory and harboring his rage, Walker has nothing left to lose. He is a loose cannon waiting for an excuse to explode. A drug bust operation goes awry. A large haul of heroin is discovered by Walker and his team,Detective Max Walker (Madsen) was once a highly respected cop until he lost his wife and his life unraveled. Haunted by her memory and harboring his rage, Walker has nothing left to lose. He is a loose cannon waiting for an excuse to explode. A drug bust operation goes awry. A large haul of heroin is discovered by Walker and his team, including Salt (Hannah) and Sampson (Williamson). The bust attracts a great deal of heat after several people are killed and one gang member escapes from the scene. Murder and mayhem ensue. The officers involved in the bust are being killed off one by one. No cop is safe. With no suspects in sight, a bewildered Walker joins forces with Salt to investigate the slaughter of his team. What follows is a series of twists, intrigue, and foul play. When it is discovered that some drugs from the bust went missing, the cops start to look among themselves for the killer. Trust is compromised, comradeship dissolves, and friends turn their guns on one another until the last man is standing and the truth is revealed. (41 INC.)… Expand",
+  "critic_reviews": [
+    "B-movie stalwart Michael Madsen turns in a no-holds-barred, road-wreck performance in this nihilistic crime thriller, which plays out a variation on the old maxim that there's no honor among thieves -- even if they're cops.",
+    "Inglis offers complicated characters and uniformly worthy performances without falsely manipulating us into sympathizing with anybody but tries too strenuously to fuse his warring polarities of character-driven intrigue and plot-driven treacheries into an allegory of redemption. In the end, that feels like one or two big things too many.",
+    "You've see this movie before, but you haven't seen it filtered through Madsen.",
+    "Raul Sanchez Inglis directed, but Mr. Tarantino's influence prevails, in the cinematography by Andrzej Sekula of \"Dogs\"; in the abundant epithets and expletives; and in the climactic \"Dogs\"-style standoff. The film is also dedicated to Chris Penn, Sean's brother, who was in \"Dogs\" and died in 2006. But missing, regrettably, is that movie's inventiveness, clarity and wit."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "When Madsen get s a role he can actually do something with, regardless of how derivative it is he can do some solid work.  The film itself is a suitably doom-laden and noir styled burnt out cop movie but Madsen, who dedicated the film to hisWhen Madsen get s a role he can actually do something with, regardless of how derivative it is he can do some solid work.  The film itself is a suitably doom-laden and noir styled burnt out cop movie but Madsen, who dedicated the film to his late friend Chris Penn invests Walker with a palatable bitterness and anger now that he is alone and cast adrift in a world of his own doing.  The film, to be sure is often checking off the boxes of cop movies before it but it has a surprising consistency in terms of the quality in its acting and writing that elevate the worn out genre material.  Keep your expectations realistic and you may be pleasantly surprised.",
+      "review_date": "2013-10-05",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 5,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Crime"
+  ]
 }

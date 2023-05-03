@@ -1,39 +1,39 @@
 {
-    "title": "Duck Soup",
-    "rating": 7.9,
-    "release_date": "1933-11-17",
-    "genre": [
-        "Comedy",
-        "War",
-        "Musical"
-    ],
-    "summary": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
-    "critic_reviews": [
-        "There is an odd moment when Harpo shows Groucho a doghouse tattooed on his stomach, and in a special effect a real dog emerges and barks at him. The brothers broke the classical structure of movie comedy and glued it back again haphazardly, and nothing was ever the same.",
-        "The sheer silliness is inspired.",
-        "The Marx brothers on top form with their quickfire comedy and banter.",
-        "A masterpiece...DUCK SOUP is perhaps the best, and funniest, depiction of the absurdities of war ever committed to celluloid.",
-        "Genius just about covers it.",
-        "In place of the constant punning and dame chasing, Duck Soup has the Marxes madcapping through such bits as the old Schwartz Bros. mirror routine, so well done in the hands of Groucho, Harpo and Chico that it gathers a new and hilarious comedy momentum all over again.",
-        "The Marx Brothers' best movie (1933) and, not coincidentally, the one with the strongest director\u2014Leo McCarey, who had the flexibility to give the boys their head and the discipline to make some formal sense of it.",
-        "Its relentless pot shots at war, religion and just about everything else making it more controlled chaos than movie.",
-        "A production in which the bludgeon is employed more often than the gimlet. The result is that this production is, for the most part, extremely noisy without being nearly as mirthful as their other films."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "It has definitely aged a bit, but it\u2019s still a pretty good classic comedy. It\u2019s a mixed bag; this film has some of the best comedic exchanges in cinematic history, but it also has some bits that wear out their welcome after a while (orIt has definitely aged a bit, but it\u2019s still a pretty good classic comedy. It\u2019s a mixed bag; this film has some of the best comedic exchanges in cinematic history, but it also has some bits that wear out their welcome after a while (or weren\u2019t very welcome to begin with). For a movie as short as Duck Soup is, you wouldn\u2019t think there\u2019d be any drag, but there is. Still, the craft on display especially for the time and those great exchanges make it worth a watch.",
-            "review_date": "2019-11-19",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Used to watch a lot of Marx Brothers films growing up with my Dad. Feel like I enjoyed them more back then. There were some good laughs and moments throughout and the pacing was great. Just by the end I was losing some patience with theUsed to watch a lot of Marx Brothers films growing up with my Dad. Feel like I enjoyed them more back then. There were some good laughs and moments throughout and the pacing was great. Just by the end I was losing some patience with the sameness of all the humor.",
-            "review_date": "2023-03-05",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 11
+  "title": "Duck Soup",
+  "rating": 7.9,
+  "release_date": "1933-11-17",
+  "summary": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+  "critic_reviews": [
+    "There is an odd moment when Harpo shows Groucho a doghouse tattooed on his stomach, and in a special effect a real dog emerges and barks at him. The brothers broke the classical structure of movie comedy and glued it back again haphazardly, and nothing was ever the same.",
+    "The sheer silliness is inspired.",
+    "The Marx brothers on top form with their quickfire comedy and banter.",
+    "A masterpiece...DUCK SOUP is perhaps the best, and funniest, depiction of the absurdities of war ever committed to celluloid.",
+    "Genius just about covers it.",
+    "In place of the constant punning and dame chasing, Duck Soup has the Marxes madcapping through such bits as the old Schwartz Bros. mirror routine, so well done in the hands of Groucho, Harpo and Chico that it gathers a new and hilarious comedy momentum all over again.",
+    "The Marx Brothers' best movie (1933) and, not coincidentally, the one with the strongest director—Leo McCarey, who had the flexibility to give the boys their head and the discipline to make some formal sense of it.",
+    "Its relentless pot shots at war, religion and just about everything else making it more controlled chaos than movie.",
+    "A production in which the bludgeon is employed more often than the gimlet. The result is that this production is, for the most part, extremely noisy without being nearly as mirthful as their other films."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "It has definitely aged a bit, but it’s still a pretty good classic comedy. It’s a mixed bag; this film has some of the best comedic exchanges in cinematic history, but it also has some bits that wear out their welcome after a while (orIt has definitely aged a bit, but it’s still a pretty good classic comedy. It’s a mixed bag; this film has some of the best comedic exchanges in cinematic history, but it also has some bits that wear out their welcome after a while (or weren’t very welcome to begin with). For a movie as short as Duck Soup is, you wouldn’t think there’d be any drag, but there is. Still, the craft on display especially for the time and those great exchanges make it worth a watch.",
+      "review_date": "2019-11-19",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Used to watch a lot of Marx Brothers films growing up with my Dad. Feel like I enjoyed them more back then. There were some good laughs and moments throughout and the pacing was great. Just by the end I was losing some patience with theUsed to watch a lot of Marx Brothers films growing up with my Dad. Feel like I enjoyed them more back then. There were some good laughs and moments throughout and the pacing was great. Just by the end I was losing some patience with the sameness of all the humor.",
+      "review_date": "2023-03-05",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 11,
+  "genres": [
+    "Comedy",
+    "War",
+    "Musical"
+  ]
 }

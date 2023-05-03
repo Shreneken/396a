@@ -1,14 +1,14 @@
 {
-    "title": "Talvar",
-    "rating": 7.6,
-    "release_date": "2015-10-02",
-    "genre": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-    ],
-    "summary": "An experienced investigator (Irrfan Khan) confronts several conflicting theories about the perpetrators of a violent double homicide.",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "Talvar",
+  "rating": 7.6,
+  "release_date": "2015-10-02",
+  "summary": "An experienced investigator (Irrfan Khan) confronts several conflicting theories about the perpetrators of a violent double homicide.",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ]
 }

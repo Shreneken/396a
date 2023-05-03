@@ -1,15 +1,15 @@
 {
-    "title": "Lawrence of Arabia",
-    "rating": 8.6,
-    "release_date": "2002-09-20",
-    "genre": [
-        "Adventure",
-        "Biography",
-        "Drama",
-        "War"
-    ],
-    "summary": "The 40th anniversary re-release of David Lean's 1962 masterpiece, starring Peter O'Toole in one of the most electrifying debuts in film history.",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "Lawrence of Arabia",
+  "rating": 8.6,
+  "release_date": "2002-09-20",
+  "summary": "The 40th anniversary re-release of David Lean's 1962 masterpiece, starring Peter O'Toole in one of the most electrifying debuts in film history.",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Drama",
+    "War"
+  ]
 }

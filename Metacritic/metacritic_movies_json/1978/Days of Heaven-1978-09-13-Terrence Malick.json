@@ -1,13 +1,13 @@
 {
-    "title": "Days of Heaven",
-    "rating": 8.4,
-    "release_date": "1978-09-13",
-    "genre": [
-        "Drama",
-        "Romance"
-    ],
-    "summary": "One of the most critically acclaimed films of all time, Days Of Heaven is a moving story about two men who love the same woman. A fugitive from the slums of Chicago, finds himself pitted against a shy, rich Texan for the love of Abby. Writer/director Malick's film is an extraordinary cinematic achievement of sight and sound.  [Paramount Pictures]",
-    "critic_reviews": [],
-    "reviews": [],
-    "num_reviews": 0
+  "title": "Days of Heaven",
+  "rating": 8.4,
+  "release_date": "1978-09-13",
+  "summary": "One of the most critically acclaimed films of all time, Days Of Heaven is a moving story about two men who love the same woman. A fugitive from the slums of Chicago, finds himself pitted against a shy, rich Texan for the love of Abby. Writer/director Malick's film is an extraordinary cinematic achievement of sight and sound.  [Paramount Pictures]",
+  "critic_reviews": [],
+  "reviews": [],
+  "num_reviews": 0,
+  "genres": [
+    "Drama",
+    "Romance"
+  ]
 }

@@ -1,64 +1,64 @@
 {
-    "title": "The Best Years of Our Lives",
-    "rating": 8.5,
-    "release_date": "1946-12-25",
-    "genre": [
-        "Drama",
-        "Romance",
-        "War"
-    ],
-    "summary": "Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.",
-    "critic_reviews": [
-        "It feels surprisingly modern: lean, direct, honest about issues that Hollywood then studiously avoided. After the war years of patriotism and heroism in the movies, this was a sobering look at the problems veterans faced when they returned home.",
-        "It is seldom that there comes a motion picture which can be wholly and enthusiastically endorsed not only as superlative entertainment but as food for quiet and humanizing thought.",
-        "One of the best pictures of our lives.",
-        "The Best Years of Our Lives runs almost three hours, but it doesn't seem nearly that long. The film is so involving that there's no temptation to glance at a watch, nor a need to get a snack or take a bathroom break. In fact, when it's over, there's almost a sense of disappointment that there aren't a few scenes left hiding on the other side of the closing credits. The feeling of warmth and satisfaction that accompanies the conclusion is the hallmark of a great drama - a distinction that anyone who has seen The Best Years of Our Lives will apply to this landmark production.",
-        "The best coming home movie ever made. \"I don't care if it doesn't make a nickel,\" Sam Goldwyn reportedly said of THE BEST YEARS, \"I just want every man, woman, and child in America to see it.\"",
-        "It\u2019s not the whole story, of course; it\u2019s resolutely on the side of decorum and falls far short of the inner and outer postwar apocalypses envisioned in film noir. But the intensity of its liberal romanticism is utterly gripping.",
-        "The dialogue is superb and the situations natural. The comedy touches are delightful. They spring from the inherent character of the people in the story, rather than the obvious contriving of playwright and director...A satisfying, heart-warming, deeply moving picture.",
-        "The best American movie about returning soldiers I've ever seen\u2014the most moving and the most deeply felt. It bears witness to its times and contemporaries like few other Hollywood features, and Gregg Toland's deep-focus cinematography is one of the best things he ever did.",
-        "Unlike most sure-fire movies, it was put together with good taste, honesty, wit\u2014and even a strong suggestion of guts.",
-        "If The Best Years of Our Lives emerges as a more contemporary-seeing film than almost anything else to which its ingredients could compare, it\u2019s because of how it wrestles with the burden of patriotism. The nation\u2019s problems are right there in plain sight, just as clear as cinematographer Gregg Toland\u2019s typically precise deep-focus shots.",
-        "This is intelligent, admirably unsentimental and utterly involving for its full three-hour running time.",
-        "The movie does have an air of cautiousness about it, trying so hard to be a respectful, definitive statement on WWII (and often succeeding) that it sometimes feels cadaverous.",
-        "The film is very proud of itself, exuding a stifling piety at times, but it works as well as this sort of thing can, thanks to accomplished performances by Fredric March, Myrna Loy, and Dana Andrews, who keep the human element afloat. Gregg Toland's deep-focus photography, though, remains the primary source of interest for today's audiences."
-    ],
-    "reviews": [
-        {
-            "review_title": null,
-            "content": "Hollywood's first real honest look at the effects of war on veterans returning home.  This deeply felt, extremely well performed movie shows the painful experiences of 3 WW2 veterans trying to cope with trauma of battle and the alteredHollywood's first real honest look at the effects of war on veterans returning home.  This deeply felt, extremely well performed movie shows the painful experiences of 3 WW2 veterans trying to cope with trauma of battle and the altered reality of homecoming, and the failings of trying to explain that agony to their family and friends",
-            "review_date": "2019-06-22",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Wyler's best collaboration with Sam Goldwyn results in a tale of how war impacts on the ordinary soldier when they return home, the battle scars sometimes psychological. Brilliant score by Hugo Friedhofer.",
-            "review_date": "2018-04-08",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "This film is a marvel. It perfectly stands the test of time despite one or two antiquated special effects. Whilst it is as realistic as possible and tries to capture a fleeting moment in American history it manages to reveal the quintessenceThis film is a marvel. It perfectly stands the test of time despite one or two antiquated special effects. Whilst it is as realistic as possible and tries to capture a fleeting moment in American history it manages to reveal the quintessence of the American soul, its extreme optimism, strength in front of pain and adversity, as well as supreme magnanimity (what was foreseen and celebrated as the real \u00fcbermensch by Nietzsche and, sadly, despised by Dostoyevsky)...exactly what has made American culture so universally revered and envied by its enemies to this day. This is the same artistic transcendence found in other American art forms such as jazz for instance.Not only do the script, acting and editing manage to make this 3-hour film feel so engaging and entertaining, some of scenes' cinematography shows glimpses of brilliance.",
-            "review_date": "2019-03-21",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "I can not say much, but seeing it bored me, and It was also very bad!!!!!!!",
-            "review_date": "2020-04-12",
-            "source": "metacritic",
-            "lang": "en"
-        },
-        {
-            "review_title": null,
-            "content": "Even at nearly three hours in length, this visceral, gripping drama film about three war veterans never fails to interest.",
-            "review_date": "2022-02-02",
-            "source": "metacritic",
-            "lang": "en"
-        }
-    ],
-    "num_reviews": 18
+  "title": "The Best Years of Our Lives",
+  "rating": 8.5,
+  "release_date": "1946-12-25",
+  "summary": "Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.",
+  "critic_reviews": [
+    "It feels surprisingly modern: lean, direct, honest about issues that Hollywood then studiously avoided. After the war years of patriotism and heroism in the movies, this was a sobering look at the problems veterans faced when they returned home.",
+    "It is seldom that there comes a motion picture which can be wholly and enthusiastically endorsed not only as superlative entertainment but as food for quiet and humanizing thought.",
+    "One of the best pictures of our lives.",
+    "The Best Years of Our Lives runs almost three hours, but it doesn't seem nearly that long. The film is so involving that there's no temptation to glance at a watch, nor a need to get a snack or take a bathroom break. In fact, when it's over, there's almost a sense of disappointment that there aren't a few scenes left hiding on the other side of the closing credits. The feeling of warmth and satisfaction that accompanies the conclusion is the hallmark of a great drama - a distinction that anyone who has seen The Best Years of Our Lives will apply to this landmark production.",
+    "The best coming home movie ever made. \"I don't care if it doesn't make a nickel,\" Sam Goldwyn reportedly said of THE BEST YEARS, \"I just want every man, woman, and child in America to see it.\"",
+    "It’s not the whole story, of course; it’s resolutely on the side of decorum and falls far short of the inner and outer postwar apocalypses envisioned in film noir. But the intensity of its liberal romanticism is utterly gripping.",
+    "The dialogue is superb and the situations natural. The comedy touches are delightful. They spring from the inherent character of the people in the story, rather than the obvious contriving of playwright and director...A satisfying, heart-warming, deeply moving picture.",
+    "The best American movie about returning soldiers I've ever seen—the most moving and the most deeply felt. It bears witness to its times and contemporaries like few other Hollywood features, and Gregg Toland's deep-focus cinematography is one of the best things he ever did.",
+    "Unlike most sure-fire movies, it was put together with good taste, honesty, wit—and even a strong suggestion of guts.",
+    "If The Best Years of Our Lives emerges as a more contemporary-seeing film than almost anything else to which its ingredients could compare, it’s because of how it wrestles with the burden of patriotism. The nation’s problems are right there in plain sight, just as clear as cinematographer Gregg Toland’s typically precise deep-focus shots.",
+    "This is intelligent, admirably unsentimental and utterly involving for its full three-hour running time.",
+    "The movie does have an air of cautiousness about it, trying so hard to be a respectful, definitive statement on WWII (and often succeeding) that it sometimes feels cadaverous.",
+    "The film is very proud of itself, exuding a stifling piety at times, but it works as well as this sort of thing can, thanks to accomplished performances by Fredric March, Myrna Loy, and Dana Andrews, who keep the human element afloat. Gregg Toland's deep-focus photography, though, remains the primary source of interest for today's audiences."
+  ],
+  "reviews": [
+    {
+      "review_title": null,
+      "content": "Hollywood's first real honest look at the effects of war on veterans returning home.  This deeply felt, extremely well performed movie shows the painful experiences of 3 WW2 veterans trying to cope with trauma of battle and the alteredHollywood's first real honest look at the effects of war on veterans returning home.  This deeply felt, extremely well performed movie shows the painful experiences of 3 WW2 veterans trying to cope with trauma of battle and the altered reality of homecoming, and the failings of trying to explain that agony to their family and friends",
+      "review_date": "2019-06-22",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Wyler's best collaboration with Sam Goldwyn results in a tale of how war impacts on the ordinary soldier when they return home, the battle scars sometimes psychological. Brilliant score by Hugo Friedhofer.",
+      "review_date": "2018-04-08",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "This film is a marvel. It perfectly stands the test of time despite one or two antiquated special effects. Whilst it is as realistic as possible and tries to capture a fleeting moment in American history it manages to reveal the quintessenceThis film is a marvel. It perfectly stands the test of time despite one or two antiquated special effects. Whilst it is as realistic as possible and tries to capture a fleeting moment in American history it manages to reveal the quintessence of the American soul, its extreme optimism, strength in front of pain and adversity, as well as supreme magnanimity (what was foreseen and celebrated as the real übermensch by Nietzsche and, sadly, despised by Dostoyevsky)...exactly what has made American culture so universally revered and envied by its enemies to this day. This is the same artistic transcendence found in other American art forms such as jazz for instance.Not only do the script, acting and editing manage to make this 3-hour film feel so engaging and entertaining, some of scenes' cinematography shows glimpses of brilliance.",
+      "review_date": "2019-03-21",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "I can not say much, but seeing it bored me, and It was also very bad!!!!!!!",
+      "review_date": "2020-04-12",
+      "source": "metacritic",
+      "lang": "en"
+    },
+    {
+      "review_title": null,
+      "content": "Even at nearly three hours in length, this visceral, gripping drama film about three war veterans never fails to interest.",
+      "review_date": "2022-02-02",
+      "source": "metacritic",
+      "lang": "en"
+    }
+  ],
+  "num_reviews": 18,
+  "genres": [
+    "Drama",
+    "Romance",
+    "War"
+  ]
 }
