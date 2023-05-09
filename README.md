@@ -43,3 +43,10 @@ TODO:
 - iteratively clean (tokenizing, lower casing, look at what spaCy can detect)
 
 Limitations: Non-Obvious, limitation of algorithm, only-english reviews, only popular movies, effect quality or diversity of data (would effect ppl using it)  
+
+5/3 
+TODO:
+- Proceed to try tf-idf:
+  - decide on a final result format
+  - utilize save funciton in gensum
+- otherwise, try topic modeling
