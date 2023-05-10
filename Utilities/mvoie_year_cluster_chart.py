@@ -37,4 +37,4 @@ def plot_yearly_clusters(img_out_dir: str, json_out_file: str, extension: str = 
 
 
 if __name__ == "__main__":
-    plot_yearly_clusters("imdb/stats/figures/", "imdb/stats/year_clusters.json")
+    plot_yearly_clusters("MergedData/stats/figures/", "MergedData/stats/year_clusters.json")
