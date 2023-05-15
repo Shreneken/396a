@@ -1,14 +1,19 @@
+from tqdm import tqdm
 import spacy
 import json
 import os
-from nltk.corpus import stopwords
+from nltk.corpus import stopwords, words
 import pandas as pd
 import gensim
 import gensim.corpora as corpora
-from tqdm import tqdm
 import re
 import contractions
-from nltk.corpus import words
+import string
+
+with open("../stopwords.json", "r") as f:
+    common = json.load(f)
+    common.extend(stopwords.words("english"))
+    common = set(common)
 
 with open("../stopwords.json", "r") as f:
     common = json.load(f)
@@ -18,7 +23,7 @@ with open("../stopwords.json", "r") as f:
 
 eng_words = set(words.words())
 
-def cleaner(text: str):
+def clean(text: str):
     
     # remove numbers
     text = re.sub(r"\d+", "", text)
@@ -63,11 +68,11 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
                     clean.append(str(word.lemma_))
             corpus.append(" ".join(clean))
             
-        proc_data = [cleaner(string.split()) for string in corpus]
+        proc_data = [clean(movie_revs).split() for movie_revs in corpus]
         input_dict = corpora.Dictionary(proc_data)
         input_corpus = [input_dict.doc2bow(token, allow_update=True) for token in proc_data]
 
-        model = gensim.models.TfidfModel(input_corpus, id2word=input_dict)
+        model = gensim.models.TfidfModel(input_corpus, id2word=input_dict,  normalize=True, dictionary=input_dict, slope=2.5, smartirs="Lfc")
         vector = model[input_corpus]
 
         d = {}
@@ -77,7 +82,7 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         
         file['vibes'] = [k for k,v in d.items() if v == 1]
 
-        print(f"{file_name=}, {file['vibes']=}")
+        print(file['vibes'])
         
-        with open(f"{subdir[0][0]}/{file_name}", 'w') as wr:
+        with open(f"{subdir[0][0]}/{file_name}", 'w', encoding="utf-8") as wr:
             json.dump(file, wr, indent=4)
