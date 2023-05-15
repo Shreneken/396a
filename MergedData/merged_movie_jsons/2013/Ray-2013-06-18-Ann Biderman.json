@@ -2451,5 +2451,17 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "tough",
+        "suitable",
+        "inaccurate",
+        "stunning",
+        "sixth",
+        "weepy",
+        "grim",
+        "best",
+        "disappointing",
+        "unusual"
     ]
 }

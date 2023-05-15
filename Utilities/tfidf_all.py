@@ -55,13 +55,15 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         my_pos = set(["ADJ"])
         nlp = spacy.load("en_core_web_lg") #python -m spacy download en_core_web_lg
         content = [review["content"] for review in file["reviews"]]
+        if file["summary"] != "N/A" and file["summary"] != None:
+            content.append(file["summary"])
         for review in content:
             s = nlp(review)
-            clean = []
+            tidy = []
             for word in s:
                 if word.pos_ in my_pos:
-                    clean.append(str(word.lemma_))
-                    corpus.append(" ".join(clean))
+                    tidy.append(str(word.lemma_))
+            corpus.append(" ".join(tidy))
             
         proc_data = [clean(movie_revs).split() for movie_revs in corpus]
         input_dict = corpora.Dictionary(proc_data)
@@ -75,7 +77,7 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
             for id, f in v:
                 d[input_dict[id]] = f
         
-        file['vibes'] = [k for k,v in d.items() if v == 1]
+        file['vibes'] = [k for k,v in d.items() if v >= max(d.values())]
 
         print(file['vibes'])
         

@@ -32,6 +32,7 @@ def plot_yearly_clusters(img_out_dir: str, json_out_file: str, extension: str = 
     plt.xlabel("Year Ranges")
     plt.ylabel("Number of movies")
     plt.gca()
+    plt.legend(["Total Movies: 1205"])
     os.mkdir(img_out_dir) if not os.path.exists(img_out_dir) else None
     plt.savefig(f"{img_out_dir}yearly_clusters_image.{extension}", dpi=500)
 
