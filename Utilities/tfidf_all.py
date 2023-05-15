@@ -10,7 +10,9 @@ import re
 import contractions
 
 with open("../stopwords.json", "r") as f:
-    common = set(json.load(f).extend(stopwords))
+    common = json.load(f)
+    common.extend(stopwords.words("english"))
+    common = set(common)
 
 def cleaner(text: str):
     # remove numbers
