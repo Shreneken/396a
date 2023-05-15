@@ -8,11 +8,18 @@ import gensim.corpora as corpora
 from tqdm import tqdm
 import re
 import contractions
+from nltk.corpus import words
 
-with open("../stopwords.json", "r") as f:
-    common = set(json.load(f).extend(stopwords))
+with open("./stopwords.json", "r") as f:
+    common = json.load(f)
+    common.extend(stopwords.words("english"))
+    common = set(common)
+
+
+eng_words = set(words.words())
 
 def cleaner(text: str):
+    
     # remove numbers
     text = re.sub(r"\d+", "", text)
     # expand contraction
@@ -22,8 +29,18 @@ def cleaner(text: str):
     # remove punctuations
     sub_txt = r"[" + re.escape(string.punctuation) + r"]"
     text = re.sub(sub_txt, "", text)
-    text = " ".join([word for word in text.split() if word not in common])
 
+    text = re.sub("[^a-zA-Z0-9 ]+", " ", text)
+
+    # remove emails
+    text = re.sub("[\w\.-]+@[\w\.-]+\.\w+", " ", text)
+    
+    text = " ".join([word for word in text.split() if word not in common and word in eng_words and len(word) > 2])
+
+     # remove multispaces
+    text = re.sub('\s+', " ", text)
+
+    # lemmatizer.lemmatize()
     return text.strip()
 
 
@@ -60,7 +77,7 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         
         file['vibes'] = [k for k,v in d.items() if v == 1]
 
-        print(file['vibes'])
+        print(f"{file_name=}, {file['vibes']=}")
         
-        with open(f"{subdir[0][0]}/{file_name}", 'w') as wr:
-            json.dump(file, wr, indent=4)
+        # with open(f"{subdir[0][0]}/{file_name}", 'w') as wr:
+        #     json.dump(file, wr, indent=4)
