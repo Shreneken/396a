@@ -82,4 +82,4 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         
         with open(f"{subdir[0][0]}/{file_name}", 'w', encoding="utf-8") as wr:
             json.dump(file, wr, indent=4)
-        cnt += 1; print(cnt)
+        cnt += 1; print(f"\r {movie_year}|| {cnt}/1205", end ="")
