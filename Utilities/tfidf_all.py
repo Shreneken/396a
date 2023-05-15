@@ -79,5 +79,5 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
 
         print(f"{file_name=}, {file['vibes']=}")
         
-        # with open(f"{subdir[0][0]}/{file_name}", 'w') as wr:
-        #     json.dump(file, wr, indent=4)
+        with open(f"{subdir[0][0]}/{file_name}", 'w') as wr:
+            json.dump(file, wr, indent=4)
