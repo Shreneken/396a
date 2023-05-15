@@ -15,11 +15,6 @@ with open("../stopwords.json", "r") as f:
     common.extend(stopwords.words("english"))
     common = set(common)
 
-with open("../stopwords.json", "r") as f:
-    common = json.load(f)
-    common.extend(stopwords.words("english"))
-    common = set(common)
-
 
 eng_words = set(words.words())
 
