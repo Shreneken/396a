@@ -2277,5 +2277,14 @@
             "source": "imdb",
             "lang": "en"
         }
+    ],
+    "vibes": [
+        "astonishing",
+        "compelling",
+        "like",
+        "alive",
+        "corny",
+        "clever",
+        "gold"
     ]
 }

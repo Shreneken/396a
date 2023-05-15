@@ -1583,5 +1583,15 @@
     "rt_rating": 8.4,
     "rt_summary": "Aydin, his wife and his recently divorced sister spend the winter in their hotel.",
     "meta_rating": 8.4,
-    "meta_summary": "Aydin (Haluk Bilginer), a former actor, runs a small hotel in central Anatolia with his young wife Nihal with whom he has a stormy relationship and his sister Necla who is suffering from her recent divorce. In winter as the snow begins to fall, the hotel turns into a shelter but also an inescapable place that fuels their animosities."
+    "meta_summary": "Aydin (Haluk Bilginer), a former actor, runs a small hotel in central Anatolia with his young wife Nihal with whom he has a stormy relationship and his sister Necla who is suffering from her recent divorce. In winter as the snow begins to fall, the hotel turns into a shelter but also an inescapable place that fuels their animosities.",
+    "vibes": [
+        "personal",
+        "foreign",
+        "remote",
+        "asleep",
+        "satisfied",
+        "authentic",
+        "dry",
+        "awful"
+    ]
 }

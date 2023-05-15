@@ -359,5 +359,13 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "least",
+        "hard",
+        "amused",
+        "consistent",
+        "popular",
+        "classic"
     ]
 }
