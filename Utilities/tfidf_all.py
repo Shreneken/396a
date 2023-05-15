@@ -10,7 +10,7 @@ import re
 import contractions
 import string
 
-with open("../stopwords.json", "r") as f:
+with open("./stopwords.json", "r") as f:
     common = json.load(f)
     common.extend(stopwords.words("english"))
     common = set(common)
@@ -53,15 +53,15 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
             file = json.load(f)
         corpus = []
         my_pos = set(["ADJ"])
+        nlp = spacy.load("en_core_web_lg") #python -m spacy download en_core_web_lg
         content = [review["content"] for review in file["reviews"]]
-        nlp = spacy.load("en_core_web_sm") #python -m spacy download en_core_web_lg
         for review in content:
-            string = nlp(review)
+            s = nlp(review)
             clean = []
-            for word in string:
+            for word in s:
                 if word.pos_ in my_pos:
                     clean.append(str(word.lemma_))
-            corpus.append(" ".join(clean))
+                    corpus.append(" ".join(clean))
             
         proc_data = [clean(movie_revs).split() for movie_revs in corpus]
         input_dict = corpora.Dictionary(proc_data)
