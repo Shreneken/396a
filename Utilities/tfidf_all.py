@@ -45,6 +45,7 @@ def clean(text: str):
 
 
 # print( tuple(os.walk("./MergedData/merged_movie_jsons"))[2])
+cnt = 0
 for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
     subdir = tuple(os.walk(f"./MergedData/merged_movie_jsons/{movie_year}"))
     for file_name in tuple(subdir)[0][-1]:
@@ -78,8 +79,7 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
                 d[input_dict[id]] = f
         
         file['vibes'] = [k for k,v in d.items() if v >= max(d.values())]
-
-        print(file['vibes'])
         
         with open(f"{subdir[0][0]}/{file_name}", 'w', encoding="utf-8") as wr:
             json.dump(file, wr, indent=4)
+        cnt += 1; print(cnt)
