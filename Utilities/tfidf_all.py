@@ -6,6 +6,26 @@ import pandas as pd
 import gensim
 import gensim.corpora as corpora
 from tqdm import tqdm
+import re
+import contractions
+
+with open("../stopwords.json", "r") as f:
+    common = set(json.load(f).extend(stopwords))
+
+def cleaner(text: str):
+    # remove numbers
+    text = re.sub(r"\d+", "", text)
+    # expand contraction
+    text = contractions.fix(text)
+    # remove links
+    text = re.sub(r"(ftp|http[s]?)://\S+", "", text)
+    # remove punctuations
+    sub_txt = r"[" + re.escape(string.punctuation) + r"]"
+    text = re.sub(sub_txt, "", text)
+    text = " ".join([word for word in text.split() if word not in common])
+
+    return text.strip()
+
 
 # print( tuple(os.walk("./MergedData/merged_movie_jsons"))[2])
 for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
@@ -26,7 +46,7 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
                     clean.append(str(word.lemma_))
             corpus.append(" ".join(clean))
             
-        proc_data = [string.split() for string in corpus]
+        proc_data = [cleaner(string.split()) for string in corpus]
         input_dict = corpora.Dictionary(proc_data)
         input_corpus = [input_dict.doc2bow(token, allow_update=True) for token in proc_data]
 
@@ -43,4 +63,4 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         print(file['vibes'])
         
         with open(f"{subdir[0][0]}/{file_name}", 'w') as wr:
-            json.dump(file, wr)
+            json.dump(file, wr, indent=4)
