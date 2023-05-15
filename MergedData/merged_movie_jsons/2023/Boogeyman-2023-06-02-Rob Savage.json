@@ -1,4 +1,5 @@
 {
+    "title": "Boogeyman",
     "rating": 0.0,
     "release_date": "2023-06-02",
     "num_reviews": 0,
@@ -8,5 +9,6 @@
         "Thriller"
     ],
     "summary": "N/A",
-    "reviews": []
+    "reviews": [],
+    "vibes": []
 }

@@ -1,4 +1,5 @@
 {
+    "title": "Drishyam 2",
     "rating": 8.2,
     "release_date": "2022-11-18",
     "num_reviews": 201,
@@ -1319,5 +1320,15 @@
         }
     ],
     "rt_rating": 9.7,
-    "rt_summary": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring a truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?"
+    "rt_summary": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring a truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
+    "vibes": [
+        "much",
+        "well",
+        "nice",
+        "logical",
+        "whole",
+        "solid",
+        "unbelievable",
+        "critic"
+    ]
 }

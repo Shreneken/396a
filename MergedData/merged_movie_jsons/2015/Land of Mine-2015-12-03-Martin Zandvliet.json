@@ -1,4 +1,5 @@
 {
+    "title": "Land of Mine",
     "rating": 7.8,
     "release_date": "2015-12-03",
     "num_reviews": 110,
@@ -709,5 +710,11 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "brutal",
+        "first",
+        "graphic",
+        "touchy"
     ]
 }

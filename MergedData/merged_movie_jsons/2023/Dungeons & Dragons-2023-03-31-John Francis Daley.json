@@ -1,4 +1,5 @@
 {
+    "title": "Dungeons & Dragons",
     "rating": 0.0,
     "release_date": "2023-03-31",
     "num_reviews": 370,
@@ -2147,5 +2148,35 @@
         }
     ],
     "rt_rating": 9.3,
-    "rt_summary": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people. Dungeons & Dragons: Honor Among Thieves brings the rich world and playful spirit of the legendary roleplaying game to the big screen in a hilarious and action-packed adventure."
+    "rt_summary": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people. Dungeons & Dragons: Honor Among Thieves brings the rich world and playful spirit of the legendary roleplaying game to the big screen in a hilarious and action-packed adventure.",
+    "vibes": [
+        "critic",
+        "fat",
+        "hilarious",
+        "awesome",
+        "accurate",
+        "entertaining",
+        "delightful",
+        "cool",
+        "casual",
+        "cheesy",
+        "plump",
+        "slow",
+        "generic",
+        "critical",
+        "thrilling",
+        "unexpected",
+        "equal",
+        "fake",
+        "fabulous",
+        "pleaser",
+        "refreshing",
+        "friendly",
+        "marvel",
+        "understandable",
+        "romantic",
+        "complex",
+        "demonic",
+        "unexceptional"
+    ]
 }

@@ -1,4 +1,5 @@
 {
+    "title": "The Exorcist",
     "rating": 0.0,
     "release_date": "2023-10-13",
     "num_reviews": 0,
@@ -6,5 +7,6 @@
         "Horror"
     ],
     "summary": "N/A",
-    "reviews": []
+    "reviews": [],
+    "vibes": []
 }

@@ -1,4 +1,5 @@
 {
+    "title": "Area 51",
     "rating": 0.0,
     "release_date": "2015-05-15",
     "num_reviews": 282,
@@ -1701,5 +1702,24 @@
     "rt_rating": 3.3,
     "rt_summary": "Obsessed with UFOs, a man (Reid Warner) and two friends find evidence of an alien presence at Area 51 in Nevada.",
     "meta_rating": 3.6,
-    "meta_summary": "Three young conspiracy theorists attempt to uncover the mysteries of Area 51, the government\u2019s top secret location rumored to have hosted encounters with alien beings. What they find at this hidden facility exposes horrifying, unimaginable secrets."
+    "meta_summary": "Three young conspiracy theorists attempt to uncover the mysteries of Area 51, the government\u2019s top secret location rumored to have hosted encounters with alien beings. What they find at this hidden facility exposes horrifying, unimaginable secrets.",
+    "vibes": [
+        "whole",
+        "secret",
+        "awful",
+        "military",
+        "utter",
+        "extra",
+        "intense",
+        "disappointed",
+        "paranormal",
+        "alright",
+        "asleep",
+        "flawless",
+        "regular",
+        "generous",
+        "dry",
+        "horrible",
+        "unfocused"
+    ]
 }

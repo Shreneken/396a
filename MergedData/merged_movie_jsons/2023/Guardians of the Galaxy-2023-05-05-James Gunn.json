@@ -1,4 +1,5 @@
 {
+    "title": "Guardians of the Galaxy",
     "rating": 0.0,
     "release_date": "2023-05-05",
     "num_reviews": 0,
@@ -8,5 +9,6 @@
         "Comedy"
     ],
     "summary": "N/A",
-    "reviews": []
+    "reviews": [],
+    "vibes": []
 }

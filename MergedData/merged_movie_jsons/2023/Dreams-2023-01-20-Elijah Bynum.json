@@ -1,4 +1,5 @@
 {
+    "title": "Dreams",
     "rating": 7.0,
     "release_date": "2023-01-20",
     "num_reviews": 3,
@@ -6,5 +7,6 @@
         "Drama"
     ],
     "summary": "A Black amateur bodybuilder struggles to find human connection in this exploration of celebrity and violence.",
-    "reviews": []
+    "reviews": [],
+    "vibes": []
 }

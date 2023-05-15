@@ -1,4 +1,5 @@
 {
+    "title": "8\u00bd",
     "rating": 0.0,
     "release_date": "2015-12-30",
     "num_reviews": 1627,
@@ -11370,5 +11371,13 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "avid",
+        "epic",
+        "far",
+        "fatal",
+        "cinematographic",
+        "expectable"
     ]
 }

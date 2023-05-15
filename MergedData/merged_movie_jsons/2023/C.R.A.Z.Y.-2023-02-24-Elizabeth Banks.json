@@ -1,4 +1,5 @@
 {
+    "title": "C.R.A.Z.Y.",
     "rating": 6.3,
     "release_date": "2023-02-24",
     "num_reviews": 277,
@@ -1933,5 +1934,8 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "bloody"
     ]
 }

@@ -1,4 +1,5 @@
 {
+    "title": "The Killer",
     "rating": 0.0,
     "release_date": "2023-11-10",
     "num_reviews": 0,
@@ -8,5 +9,6 @@
         "Crime"
     ],
     "summary": "An assassin begins to psychologically crack as he develops a conscience, even as his clients continue to demand his skills.",
-    "reviews": []
+    "reviews": [],
+    "vibes": []
 }

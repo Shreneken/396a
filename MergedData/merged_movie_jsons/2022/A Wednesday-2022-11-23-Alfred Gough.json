@@ -1,4 +1,5 @@
 {
+    "title": "A Wednesday",
     "rating": 8.1,
     "release_date": "2022-11-23",
     "num_reviews": 1237,
@@ -8584,5 +8585,11 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "teenage",
+        "accurate",
+        "lucky",
+        "hidden"
     ]
 }
