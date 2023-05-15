@@ -22,7 +22,7 @@ for i, file in enumerate(files):
     corpus = []
     my_pos = set(["ADJ"])
     content = [review["content"] for review in file["reviews"]]
-    nlp = spacy.load("en_core_web_sm")
+    nlp = spacy.load("en_core_web_lg")
     for review in content:
         string = nlp(review)
         clean = []
