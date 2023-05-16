@@ -57,5 +57,5 @@ if __name__ == "__main__":
     # output_file = "imdb/stats/year_clusters.json"
     # get_yearly_movie_count(dir_name, output_file)
     dir_name = "MergedData/merged_movie_jsons"
-    output_file = "MergedData/year_clusters.json"
+    output_file = "MergedData/stats/year_clusters.json"
     get_yearly_movie_count(dir_name, output_file)
