@@ -535,5 +535,18 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "marvelous",
+        "tough",
+        "exceptional",
+        "involved",
+        "lead",
+        "live",
+        "sentimental",
+        "easy",
+        "gripping",
+        "linear",
+        "critical"
     ]
 }
