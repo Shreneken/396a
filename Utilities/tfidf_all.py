@@ -60,10 +60,10 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         if file["summary"] != "N/A" and file["summary"] != None:
             content.append(file["summary"])
         
-        if file["rt_summary"] != "N/A" and file["rt_summary"] != None:
+        if file.get("rt_summary") != "N/A" and file.get("rt_summary") != None:
             content.append(file["rt_summary"])
         
-        if file["meta_summary"] != "N/A" and file["meta_summary"] != None:
+        if file.get("meta_summary") != "N/A" and file.get("meta_summary") != None:
             content.append(file["meta_summary"])
         
         for review in content:
