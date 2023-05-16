@@ -12,8 +12,12 @@ Scraping movie websites for data and gettting vibes for them!
       num_reviews: number_of_reviews_here,
       genre : [genre_here],
       summary: summary_here,
-      reviews: [reviewContent]
-      vibes : [corresponding_vibes]
+      reviews: [reviewContent],
+      vibes : [corresponding_vibes],
+      rt_rating: rating_from_RottenTomates_here,
+      rt_summary: summary_from_RottenTomates_here,
+      meta_rating: rating_from_Metacritic_here,
+      meta_summary: summary_from_Metacritic_here
    }
 
    //each reviewContent obj format:
@@ -27,11 +31,19 @@ Scraping movie websites for data and gettting vibes for them!
  ```
 
 ### Directory Structure:
+
+#### For source directories (imdb, RottenTomatoes, Metacritic, MergedData):
     source -> 
     source_movie_jsons -> 
       dir for all release year | miscellaneous -> corresponding movies
-  
-Statistics are also included for raw data from imdb and Metacritic and can be 
-found in their corresponding folder
+    stats ->
+      figures | jsons including statistics
+    scripts used for collection/tagging/cleaning
+#### For Utilities:
+    -> scripts used to extract figures and run extraction (tf-idf):
 
+  
+Bad_reviews.txt: irregular reviews cleaned from dataset
+
+stopwords.json: words removed in pipeline
 
