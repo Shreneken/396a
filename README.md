@@ -1,8 +1,22 @@
 # Movie Data Getter
 
-Scraping movie websites for data!
+Scraping movie websites for data and gettting vibes for them!
 
-### data format for each `movieName_releaseData_Director.json`:
+### Get data from our dataset directly: 
+```
+# for only vibes for a particular movie:
+python main.py vibes <title> <release_year>
+
+# for rating, release date, reviews count, summary and vibes for a movie: 
+python main.py all <title> <release_year>
+
+Note: please enter the title and release_year both in double quotes ("")
+```
+
+### Merged data with associated vibes can be found in `MergedData`
+
+
+Format for each `movieName_releaseData_Director.json`:
  ```js
    {
       rating: rating_here,
@@ -10,7 +24,12 @@ Scraping movie websites for data!
       num_reviews: number_of_reviews_here,
       genre : [genre_here],
       summary: summary_here,
-      reviews: [reviewContent] 
+      reviews: [reviewContent],
+      vibes : [corresponding_vibes],
+      rt_rating: rating_from_RottenTomates_here,
+      rt_summary: summary_from_RottenTomates_here,
+      meta_rating: rating_from_Metacritic_here,
+      meta_summary: summary_from_Metacritic_here
    }
 
    //each reviewContent obj format:
@@ -18,35 +37,25 @@ Scraping movie websites for data!
     review_title: review_title
     content: review_content
     review_date: review_date_here
+    lang: language_for_review - cleaned to only include en(english) reviews
+    source: source_for_view
    }
  ```
 
 ### Directory Structure:
+
+#### For source directories (imdb, RottenTomatoes, Metacritic, MergedData):
     source -> 
     source_movie_jsons -> 
-    dir for all release year | miscellaneous -> 
-    corresponding movies
-length by tokens, average tokens per review, number of reviews
+      dir for all release year | miscellaneous -> corresponding movies
+    stats ->
+      figures | jsons including statistics
+    scripts used for collection/tagging/cleaning
+#### For Utilities:
+    -> scripts used to extract figures and run extraction (tf-idf):
 
-mindful of other laguages
-patterns for data
+  
+Bad_reviews.txt: irregular reviews cleaned from dataset
 
-TODO:
-- look at jq to query json data
-- Think about if you need a set of vibes to match it or leave it open ended
-- wordnet (its a network of words that has how things are related to each other, including synonyms)
-- How do you know which keywords extracted are vibes?
+stopwords.json: words removed in pipeline
 
-
-- look at extraction of vibes on a subset of reviews 
-- get everything, merge 
-- iteratively clean (tokenizing, lower casing, look at what spaCy can detect)
-
-Limitations: Non-Obvious, limitation of algorithm, only-english reviews, only popular movies, effect quality or diversity of data (would effect ppl using it)  
-
-5/3 
-TODO:
-- Proceed to try tf-idf:
-  - decide on a final result format
-  - utilize save funciton in gensum
-- otherwise, try topic modeling
