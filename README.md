@@ -2,9 +2,21 @@
 
 Scraping movie websites for data and gettting vibes for them!
 
+### Get data from our dataset directly: 
+```
+# for only vibes for a particular movie:
+python main.py vibes <title> <release_year>
+
+# for rating, release date, reviews count, summary and vibes for a movie: 
+python main.py all <title> <release_year>
+
+Note: please enter the title and release_year both in double quotes ("")
+```
+
 ### Merged data with associated vibes can be found in `MergedData`
 
-### Final format for each `movieName_releaseData_Director.json`:
+
+Format for each `movieName_releaseData_Director.json`:
  ```js
    {
       rating: rating_here,
