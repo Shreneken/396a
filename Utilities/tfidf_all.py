@@ -88,8 +88,10 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         
         df = pd.DataFrame(d.values(), index=d.keys(), columns=["TF-IDF"])
         med = df["TF-IDF"].median()
+        mean = df["TF-IDF"].mean()
 
-        file['vibes'] = [k for k,v in d.items() if 0.95 *  med <= v <= 1.05 * med]
+        d = {k: v for k, v in sorted(d.items(), key=lambda item: item[1], reverse=True)}
+        file['vibes'] = [k for k,v in d.items() if abs(mean - v) <= 0.01]
         
         with open(f"{subdir[0][0]}/{file_name}", 'w', encoding="utf-8") as wr:
             json.dump(file, wr, indent=4)
