@@ -54,8 +54,8 @@ Format for each `movieName_releaseData_Director.json`:
 #### For Utilities:
     -> scripts used to extract figures and run extraction (tf-idf):
 
-  
-Bad_reviews.txt: irregular reviews cleaned from dataset
-
-stopwords.json: words removed in pipeline
-
+#### Additional Files
+Bad_reviews.txt: Irregular reviews cleaned from dataset
+stopwords.json: Words removed in pipeline
+vibes.txt: List of all keywords extracted from raw data to find common words to clean
+movie_titles_list.json: List of all movies included in our dataset 
