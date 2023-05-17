@@ -60,10 +60,10 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         
         for review in content:
             s = nlp(review)
-            tidy = []
+            tidy = set()
             for word in s:
                 if word.pos_ in my_pos:
-                    tidy.append(str(word.lemma_))
+                    tidy.add(str(word.lemma_))
             corpus.append(" ".join(tidy))
             
         proc_data = [clean(movie_revs).split() for movie_revs in corpus]
@@ -78,10 +78,13 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
             for id, f in v:
                 d[input_dict[id]] = f
         
-        df = pd.DataFrame(d.values(), index=d.keys(), columns=["TF-IDF"])
+        a = {x.lemma_:v for k, v in d.items() for x in nlp(k)if x.pos_ in my_pos}
+        df = pd.DataFrame(a.values(), index=a.keys(), columns=["TF-IDF"])
+        # df = pd.DataFrame(d.values(), index=d.keys(), columns=["TF-IDF"])
+
         med = df["TF-IDF"].median()
-        d = {k: v for k, v in sorted(d.items(), key=lambda item: item[1], reverse=True)}
-        file['vibes'] = [k for k,v in d.items() if abs(med - v) <= 0.035]
+        a = {k: v for k, v in sorted(a.items(), key=lambda item: item[1], reverse=True)}
+        file['vibes'] = [k for k,v in a.items() if abs(med - v) <= 0.035]
         with open(f"{subdir[0][0]}/{file_name}", 'w', encoding="utf-8") as wr:
             json.dump(file, wr, indent=4)
         cnt += 1; print(f"\r{cnt}/1205 :: {file['vibes']}", end="")

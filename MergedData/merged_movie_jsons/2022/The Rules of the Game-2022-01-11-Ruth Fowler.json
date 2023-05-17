@@ -185,11 +185,11 @@
         }
     ],
     "vibes": [
-        "unlikeable",
+        "abusive",
+        "toxic",
         "boozy",
         "brown",
         "engrossed",
-        "middle",
         "nice",
         "procedural",
         "quirky",
@@ -197,7 +197,19 @@
         "sorry",
         "standard",
         "topical",
-        "toxic",
-        "western"
+        "western",
+        "unlikeable",
+        "abrupt",
+        "clear",
+        "crazy",
+        "dour",
+        "dramatic",
+        "intense",
+        "lead",
+        "male",
+        "predictable",
+        "senior",
+        "slow",
+        "superficial"
     ]
 }

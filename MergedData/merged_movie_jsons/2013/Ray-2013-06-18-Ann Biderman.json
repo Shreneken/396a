@@ -2474,8 +2474,8 @@
         "multiple",
         "least",
         "afraid",
-        "witty",
         "clever",
+        "witty",
         "detached",
         "steady",
         "empty",
@@ -2565,6 +2565,15 @@
         "phony",
         "subtle",
         "moral",
-        "former"
+        "former",
+        "ideal",
+        "inhumane",
+        "slight",
+        "bipolar",
+        "eager",
+        "sarcastic",
+        "uneasy",
+        "neurotic",
+        "ungrateful"
     ]
 }
