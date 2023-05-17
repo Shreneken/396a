@@ -528,5 +528,21 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "able",
+        "famous",
+        "magnificent",
+        "ordinary",
+        "personal",
+        "interested",
+        "masochistic",
+        "wrong",
+        "helpless",
+        "lucky",
+        "diplomatic",
+        "profound",
+        "recommendable",
+        "impressive"
     ]
 }
