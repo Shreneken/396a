@@ -710,5 +710,37 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "rare",
+        "mindless",
+        "phenomenal",
+        "epic",
+        "wacky",
+        "outstanding",
+        "average",
+        "comical",
+        "grand",
+        "sublime",
+        "glorious",
+        "infectious",
+        "sophisticated",
+        "venerable",
+        "wise",
+        "angry",
+        "glad",
+        "ill",
+        "unable",
+        "flawless",
+        "melodramatic",
+        "neat",
+        "realistic",
+        "worthy",
+        "amusing",
+        "aware",
+        "dumb",
+        "effusive",
+        "musical",
+        "personal"
     ]
 }
