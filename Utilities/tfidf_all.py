@@ -57,14 +57,6 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         nlp = spacy.load("en_core_web_lg") #python -m spacy download en_core_web_lg
         content = [review["content"] for review in file["reviews"]]
         content.extend([review.get("review_title") for review in file["reviews"] if review.get("review_title") != None])
-        if file["summary"] != "N/A" and file["summary"] != None:
-            content.append(file["summary"])
-        
-        if file.get("rt_summary") != "N/A" and file.get("rt_summary") != None:
-            content.append(file["rt_summary"])
-        
-        if file.get("meta_summary") != "N/A" and file.get("meta_summary") != None:
-            content.append(file["meta_summary"])
         
         for review in content:
             s = nlp(review)
