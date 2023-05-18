@@ -185,5 +185,33 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "amusing",
+        "friendly",
+        "particular",
+        "uneducated",
+        "unemployed",
+        "crazy",
+        "famous",
+        "nice",
+        "average",
+        "banal",
+        "bland",
+        "haired",
+        "imaginable",
+        "incomprehensible",
+        "sexless",
+        "shady",
+        "sick",
+        "unfortunate",
+        "dull",
+        "empty",
+        "expensive",
+        "fide",
+        "pro",
+        "stunning",
+        "least",
+        "drunk"
     ]
 }
