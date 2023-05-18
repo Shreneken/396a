@@ -87,4 +87,4 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         file['vibes'] = [k for k,v in a.items() if abs(med - v) <= 0.035]
         with open(f"{subdir[0][0]}/{file_name}", 'w', encoding="utf-8") as wr:
             json.dump(file, wr, indent=4)
-        cnt += 1; print(f"\r{cnt}/1205 :: {file['vibes']}", end="")
+        cnt += 1; print(f"\r{cnt}/1205", end="")
