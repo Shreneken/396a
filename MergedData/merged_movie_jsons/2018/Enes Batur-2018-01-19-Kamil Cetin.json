@@ -183,5 +183,15 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "absurd",
+        "aimless",
+        "non",
+        "unneeded",
+        "awful",
+        "distant",
+        "average",
+        "imperfect"
     ]
 }

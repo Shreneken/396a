@@ -3144,5 +3144,37 @@
             "source": "imdb",
             "lang": "en"
         }
+    ],
+    "vibes": [
+        "busy",
+        "existent",
+        "general",
+        "immature",
+        "central",
+        "festive",
+        "minded",
+        "lengthy",
+        "useless",
+        "helpless",
+        "lewd",
+        "cocky",
+        "deplorable",
+        "lazy",
+        "pretentious",
+        "proper",
+        "numerous",
+        "sunny",
+        "smart",
+        "dull",
+        "relatable",
+        "bland",
+        "dreary",
+        "annoying",
+        "grand",
+        "vapid",
+        "additional",
+        "uncreative",
+        "unimaginative",
+        "unreasonable"
     ]
 }

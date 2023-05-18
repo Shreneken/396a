@@ -185,5 +185,26 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "annoying",
+        "interested",
+        "natural",
+        "phenomenal",
+        "wrong",
+        "dead",
+        "deceitful",
+        "desperate",
+        "foreign",
+        "frenetic",
+        "genuine",
+        "quiet",
+        "afraid",
+        "cool",
+        "fake",
+        "historic",
+        "powerful",
+        "secular",
+        "soviet"
     ]
 }

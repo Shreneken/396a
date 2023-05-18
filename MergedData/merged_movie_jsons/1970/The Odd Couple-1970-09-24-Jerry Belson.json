@@ -183,5 +183,33 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "comedic",
+        "annoying",
+        "dirty",
+        "flat",
+        "natural",
+        "nosed",
+        "picky",
+        "sour",
+        "superb",
+        "occasional",
+        "latter",
+        "rare",
+        "creative",
+        "affordable",
+        "alien",
+        "common",
+        "double",
+        "elusive",
+        "hot",
+        "mediocre",
+        "quirky",
+        "regular",
+        "suburban",
+        "unknown",
+        "neat",
+        "local"
     ]
 }

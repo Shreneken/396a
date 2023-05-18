@@ -360,5 +360,25 @@
             "lang": "en",
             "source": "imdb"
         }
+    ],
+    "vibes": [
+        "dead",
+        "fresh",
+        "fair",
+        "familiar",
+        "inferior",
+        "versatile",
+        "indelible",
+        "lucky",
+        "musical",
+        "natural",
+        "sexy",
+        "subtle",
+        "bright",
+        "loose",
+        "emotional",
+        "respectful",
+        "solid",
+        "wise"
     ]
 }
