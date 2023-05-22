@@ -70,7 +70,7 @@ for movie_year in tqdm(tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]):
         input_dict = corpora.Dictionary(proc_data)
         input_corpus = [input_dict.doc2bow(token, allow_update=True) for token in proc_data]
 
-        model = gensim.models.TfidfModel(input_corpus, id2word=input_dict,  normalize=True, dictionary=input_dict)
+        model = gensim.models.TfidfModel(input_corpus, id2word=input_dict,  normalize=True, dictionary=input_dict, slope=2.5, smartirs="Lfc")
         vector = model[input_corpus]
 
         d = {}
