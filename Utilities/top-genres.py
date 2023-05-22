@@ -1,6 +1,7 @@
 import json
 import os
 from collections import Counter
+import matplotlib.pyplot as plt
 
 genres = Counter()
 for movie_year in tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]:
@@ -17,3 +18,4 @@ for movie_year in tuple(os.walk("./MergedData/merged_movie_jsons"))[0][1]:
 
 with open(f"./MergedData/stats/genres.json", 'w', encoding="utf-8") as wr:
     json.dump(genres, wr, indent=4)
+
